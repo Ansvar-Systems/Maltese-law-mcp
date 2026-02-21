@@ -1,127 +1,732 @@
 {
   "id": "mt-mdia-act",
   "type": "statute",
-  "title": "Malta Digital Innovation Authority Act (Cap. 591)",
+  "title": "Malta Digital Innovation Authority Act",
   "title_en": "Malta Digital Innovation Authority Act",
   "short_name": "MDIA",
   "status": "in_force",
-  "issued_date": "2018-11-01",
-  "in_force_date": "2018-11-01",
-  "url": "https://legislation.mt/eli/cap/591/eng/pdf",
-  "description": "The Malta Digital Innovation Authority Act (Cap. 591) establishes the Malta Digital Innovation Authority (MDIA) as the regulatory body responsible for certifying innovative technology arrangements and services, promoting the responsible use of innovative technology, and administering Malta's regulatory framework for technology governance. MDIA operates as part of the 'blockchain triptych' legislation and provides the regulatory foundation for technology governance in areas including distributed ledger technology, artificial intelligence, and other emerging technologies.",
+  "issued_date": "2018-08-06",
+  "in_force_date": "2018-07-15",
+  "url": "https://legislation.mt/eli/cap/591/20240614/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/591/20240614/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
+      "chapter": "PART I - Preliminary",
       "section": "1",
-      "title": "Article 1. Establishment of the Malta Digital Innovation Authority",
-      "content": "There is hereby established an authority to be known as the Malta Digital Innovation Authority (MDIA), which shall be a body corporate with a separate legal personality and capable of entering into contracts, of acquiring, holding, and disposing of property, of suing and being sued in its corporate name. MDIA shall be governed by a Board of Governors appointed by the Minister responsible for digital innovation, comprising a Chief Executive Officer and not fewer than four other members, including persons with expertise in technology, law, finance, and consumer affairs. MDIA shall exercise its functions independently, though it shall be accountable to the Minister for the general exercise of its duties."
+      "title": "Preliminary",
+      "content": "The short title of this Act is the Malta Digital Innovation\nAuthority Act.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 74
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Objects and Functions of MDIA",
-      "content": "The principal objects of MDIA are to promote and develop innovative technology and to ensure that innovative technology arrangements and related services operate in accordance with applicable standards and principles, including the principles of transparency, auditability, integrity, security, and accountability. MDIA shall certify innovative technology arrangements meeting specified requirements; maintain a register of certified arrangements and recognised system administrators; establish, publish, and enforce standards applicable to innovative technology arrangements and related services; provide guidance to applicants for certification and to operators of innovative technology arrangements; and cooperate with other regulators in Malta and with regulatory bodies in other jurisdictions on matters relating to innovative technology governance."
+      "title": "Authority Act",
+      "content": "(1)\n\nIn this Act, unless the context otherwise requires:\n\n\"the Act\" means the Malta Digital Innovation Authority\nAct and includes any regulations and rules made thereunder and\nany binding guidelines issued thereunder, unless the context\notherwise requires;\n\nShort title.\n\nInterpretation.\nSubstituted by:\nXIX.2024.6.\n\n\"Authority\" means the Malta Digital Innovation\nAuthority established by article 5 and any references in the Act\nor any other law to the Authority shall, unless the context\notherwise requires, be construed as including a reference to any\nperson authorised by the Authority to act for or on its behalf;\n\"Board\" means the Board of Governors of the Authority\ncomposed of the Chairperson and members appointed in\naccordance with article 5;\n\"Chairperson\" means the Chairperson of the Authority\nand includes, in the circumstances mentioned in article 5(3), the\nDeputy Chairperson or any other person appointed to act as\nChairperson;\n\"decision\" includes any directive, determination,\ndirection, condition, measure, requirement or specification,\nhowsoever described, made by the Authority;\n\"innovative technology\" includes any form of digital\ntechnology, including but not limited to, any type of digital\ntechnology listed in the First Schedule, related products,\nsolutions or services, as well as processes and practices aimed\nor designed at protecting digital technology and its users;\n\"Minister\" means the Minister responsible for the\nAuthority;\n\"powers of the Authority\" means the powers of the\nAuthority resulting from the Act, any laws that the Authority is\nappointed or entitled to administer or enforce, any\nGovernmental or ministerial appointment, or by delegation,\nappointment or engagement by other public entities, regulatory\nbodies and, or competent authorities;\";\n\"recognition\" means any form of recognition including a\nlicence, registration, permission, authorisation, approval,\nacknowledgment, certification, attestation, or mark of credit,\ngranted or issued by the Authority in accordance with the\npowers of the Authority;\n\"small and medium-sized enterprises\" shall have the\nmeaning assigned to it under the Commission Recommendation\nof 6 May 2003 concerning the definition of micro, small and\nmedium-sized enterprises (notified under document number\nC(2003) 1422) or any law enacted in relation thereto;\n\n\"Tribunal\" means the Administrative Review Tribunal\nestablished by article 5 of the Administrative Justice Act;\n\"user\" includes any person who uses or otherwise\nparticipates in or engages with innovative technology.\n\n(2)\nWhere reference is made to the powers of the Authority to\nprotect the public interest and users, it shall be construed as a reference\nto members of the public and users in any country and not exclusively\nto users in Malta.\n(3)\nThe provisions of the Act shall be without prejudice to\nprovisions regarding activities concerning public security, defence,\nnational security and the activities of the State in areas of criminal law.\n(4)\nUnless the context otherwise requires, the provisions of the\nAct and any regulations made thereunder shall apply in the absence of\nsubstantive rules on recognition of innovative technology as may be\ncontained in any laws or in European Union and, or international\nlegislation applicable to Malta.\n(5)\nIn the case that the provisions of the Act conflict with the\nprovisions of any other legislation, the provisions of the Act shall\nprevail.",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 175
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
+      "chapter": "PART II - Guiding Principles",
       "section": "3",
-      "title": "Article 3. Innovative Technology Arrangements",
-      "content": "For the purposes of this Act, 'innovative technology arrangement' means software and architecture used in designing and delivering distributed ledger technology, including related applications, and other technology architectures that rely on distributed governance and use cryptographic methods to verify and secure transactions or other data. Innovative technology arrangements may include software protocols and codified governance structures, smart contracts, decentralised autonomous organisations, and other arrangements in which code constitutes a binding framework for transactional or governance purposes. MDIA may, by regulation, extend the definition of innovative technology arrangement to encompass additional categories of emerging technology as they develop."
+      "title": "Guiding Principles",
+      "content": "The Government shall, through the establishment of the\nAuthority in Malta, seek the progress of the innovative technology\nsect or in M alta an d th e fo steri ng of i nno vat ive t echno log y\ndevelopment in or from Malta through the recognition and regulation\nof relevant innovative technology and related services, the issuing and\npromotion of initiatives and incentives aimed at the innovative\ntechnology sector and the adoption of standards that add trust in\ninnovative technology. This shall be done:\n(a)\nin full respect of the importance of not hindering\ninnovation and the efforts and potential of small and mediumsized enterprises and the start-up sector in this area of activity;\n(b)\nwhile considering that the approach to\nrecognition and regulation may be moderated by the pace of\nchanges and developments taking place in this sector;\n(c)\nin a manner ensuring that there are standards in\nplace for the protection of users, the integrity of the market, and\nthe public interest in general;\n(d)\nin a manner that incentivises innovation and\ninnovative technology development in or from Malta;\n(e)\nin a manner that is consistent with European and\ninternational laws applicable to Malta; and\n(f)\nin line with the values outlined in the strategy of\nthe Authority or similar document, as may be updated from\n\nPromotion and\ndevelopment of the\nAuthority’s\ninterests.\nSubstituted by:\nXIX.2024.7.\n\ntime to time.\n\nMain policies and\nobjectives.\nAmended by:\nXIX.2024.8.",
+      "metadata": {
+        "source_line_start": 176,
+        "source_line_end": 225
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. Certification of Innovative Technology Arrangements",
-      "content": "Operators of innovative technology arrangements may apply to MDIA for certification of their arrangement. MDIA shall assess applications against applicable standards and requirements, including requirements relating to the security, resilience, and integrity of the arrangement, the adequacy of governance mechanisms, the protection of users, and compliance with applicable law. Certification shall be granted for a specified period and shall be subject to ongoing compliance obligations. MDIA shall maintain a public register of certified innovative technology arrangements and shall publish information on the standards met by each certified arrangement. Certification by MDIA shall not constitute a guarantee of the commercial viability or investment suitability of the arrangement."
+      "title": "XIX.2024.8",
+      "content": "(1)\nThe Government shall determine Malta’s\npolicies and objectives with regard to innovative technology to\nsupport the development of Malta as a centre of excellence for\ninnovative technology and shall appropriate such funds and provide\nsuch resources to the Authority as it considers necessary to achieve\nsuch aims.\n(2) The Authority shall seek to achieve the following main\nobjectives and policies and shall have the power:\n(a)\n\nto promote governmental policies that favour the\ndeployment, within the public administration, of\ninnovative technology by the Government where\nnecessary or appropriate;\n\n(b)\n\nto foster, promote and facilitate the advancement\nand utilisation of innovative technology through,\namongst others, programmes and schemes, such as,\nbut not limited to, a controlled regulatory\nenvironment for the testing of innovative\ntechnology, aimed at incentivising innovative\ntechnology development in and from Malta and the\ncreation of trust in innovative technology;\n\n(c)\n\nto assist developers of innovative technology, in\nparticular, but not exclusively, start-ups and small\nand medium-sized enterprises in meeting their\nregulatory and other obligations, and to minimise\nrisks to, and posed by, innovative technology, by\nissuing recognitions and through other programmes\nand incentives designed for this purpose;\n\n(d)\n\nto promote, through grants, programmes, research,\neducation, use and, or the making available of\nfacilities, hardware or personnel, the use and\ndevelopment of innovative technology and the\napplication of ethical standards in the development\nand use of such innovative technology:\nProvided that the giving of such grants shall not\nprejudice and, or preclude the Authority’s oversight\nand regulatory functions and powers;\n\n(e)\n\nto promote, and strive to safeguard, maintain and\nprotect the reputation of Malta in relation to\ninnovative technology and the development and use\nof innovative technology;\n\n(f)\n\nto protect the interest of users of innovative\n\ntechnology and the public in general and in so\ndoing take any necessary action, including without\nlimitation to disclosure of information and\ndocuments which the Authority in its discretion\ndeems that merits disclosure and, or when required\nby law, to be disclosed to the general public and, or\nreferred to any other competent authority and the\npursuance of any further act or collaboration from\nor with other public entities, regulatory bodies and,\nor competent authorities and, or regulatory bodies;\n(g)\n\nto provide a sound financial basis to the Authority,\nthrough, amongst others, the levying of fees by the\nAuthority, including the imposition of interest in\nthe case of late payment at the rate to be determined\nby the Authority, for the Authority to be able to\nachieve its purposes;\n\n(h)\n\nto promote harmonised practices and, where\napplicable, to facilitate the adoption of standards in\ninnovative technology in Malta in conformity with\ninternational norms, standards, rules and, or laws\nand particularly with those of the European Union;\n\n(i)\n\nto assist the competent data protection authorities\nas required by law;\n\n(j)\n\nto promote and encourage ethical and legitimate\ncriteria in the design and use of innovative\ntechnology, and to enforce, as deemed necessary,\nthe quality of services and security of the\ninnovative technology for which a recognition has\nbeen granted by the Authority;\n\n(k)\n\nthrough collaboration with other regulatory bodies\nand competent authorities with responsibility for\nthe prevention of money laundering and the\nfinancing of terrorism and crime in general, to\nsupport the prevention of money laundering,\nterrorist financing and the commission of any other\ncrime in, or by means of the use of innovative\ntechnology;\n\n(l)\n\nto promote trust, transparency, reliability,\nrobustness, safety and auditability in the design and\nuse of innovative technology;\n\n(m)\n\nto promote legal certainty in the application of\nlaws, in a national and cross-border context, and\nthe development of appropriate legal principles for\nthe effective application of law to innovative\n\ntechnology; and\n(n)\n\nto promote security by design and security by\ndefault criteria with reference to innovative\ntechnology.\n\n(3) The Authority shall encourage the development of\ninnovative technology in as wide a manner and for as many uses as\npossible so as to achieve its benefits in as many economic and social\nsectors as possible, including, but not limited to, in financial services,\nhealth and education, voluntary organisations, public administration,\nlogistics, transport, sports and entertainment.\n(4) The Authority shall also encourage the development of\nregulatory processes in relation to innovative technology to support\nall national competent authorities regulating different sectors to\nbetter administer the laws entrusted to their administration for the\npublic benefit.\n(5) The Authority shall be the national focal point for the\nrecognition of innovative technology and shall, when it deems\nnecessary, collaborate with other public entities, regulatory bodies\nand, or competent authorities in promoting measures to be adopted in\nmeeting and reducing the risks identified with its intended use.\n(6)\n\nFor the purpose of this article:\n(a)\n\n\"security by design\" means measures adopted at the\nearliest stages of the design and development of\ninnovative technology, and also throughout its\nlifetime, to protect its security to the highest\npossible degree; and\n\n(b)\n\n\"security by default\" means the default\nconfiguration of innovative technology to the most\nsecure settings possible.",
+      "metadata": {
+        "source_line_start": 226,
+        "source_line_end": 414
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. System Administrators",
-      "content": "MDIA shall maintain a register of recognised system administrators, being persons qualified and authorised to carry out specified functions in relation to certified innovative technology arrangements. System administrators shall have the qualifications and meet the eligibility requirements specified by MDIA, including requirements relating to technical competence, professional integrity, and the absence of relevant regulatory sanctions or convictions. System administrators shall carry out their functions in accordance with applicable standards and guidelines issued by MDIA and shall be subject to ongoing fitness and propriety requirements. MDIA may revoke the recognition of a system administrator who no longer meets applicable requirements or who has failed to comply with obligations under this Act."
+      "title": "XIX.2024.9",
+      "content": "(1)\nThere shall be a body, which shall be referred to\nas the Malta Digital Innovation Authority, the activities and business\nof which shall be carried out by a Board composed of a Chairperson\nand not less than four (4) and not more than eight (8) other members\nwho, in the opinion of the Minister, shall be persons with the relative\nqualifications and experience inter alia in matters relating to\ninnovative technology, financial services, audit and accounting, law,\nregulation and other subjects which may be relevant to the\nsupervisory and regulatory competence of the Authority.\n(2)\n\nThe members of the Board shall be appointed by the\n\nMinister for a term of one year or for such longer period as may be\nspecified in the instrument of appointment subject to a maximum of\nthree years and the members so appointed may be re-appointed on the\nexpiration of their term of office.\n(3) The Minister may designate one of the members of the\nBoard other than the Chairperson as Deputy Chairperson and the\nmember so designated shall have all the powers and perform all the\nfunctions of the Chairperson during the Chairperson’s absence or\ninability to act as Chairperson or during any vacancy in the office of\nChairperson.\n(4) A person shall not be qualified to hold office as a\nmember of the Board if he (a)\nis a Minister, Parliamentary Secretary or a\nmember of the House of Representatives; or\n(b)\n\nis a judge or magistrate of the courts of justice;\n\nor\n(c)\nhas a financial or other interest in any enterprise\nor activity which is likely to affect, in a general manner, the\ndischarge of his functions as a member of the Board as a result\nof a conflict of interest:\nProvided that should any nominee to such a\nposition declare a conflict of interest or potential conflict of\ninterest based on a specific context only and provides full\ninformation, this may be reviewed by the Minister and the\nBoard, and if the conflict of interest is not considered one\nwhich would disqualify the nominee, this disqualification shall\nnot apply but it shall be the subject of a written guidance on\nthe part of the Minister, and, or the Board which shall apply to\nthe member for as long as such specific context subsists, and\nthis without prejudice to sub-article (9); or\n(d)\nhas been convicted of a criminal offence\naffecting public trust, or of theft or fraud, or of knowingly\nreceiving property obtained by theft or fraud or of bribery or of\nmoney laundering, or of a criminal offence under any law, or is\nbeing investigated for such criminal offence.\n(5) Subject to the provisions of this article, the office of a\nmember of the Board shall become vacant (a)\n\nat the expiration of his term of office; or\n\n(b)\nif any circumstances arise that, if he were not a\nmember of the Board, would cause him to be disqualified for\nappointment as such.\n\n(6) A member of the Board may only be removed from\noffice by the Minister for any one or more of the following reasons:\n(a)\nif the member due to infirmity of mind or of\nbody or for any other cause is effectively unable to continue to\ndischarge his duties as a member;\n(b)\nif the behaviour or performance of the member\nbrings into question his suitability or ability to continue as a\nmember, in particular for behaviour that affects or may affect\nhis reputation, independence or autonomy, or the reputation,\nindependence or autonomy of the Authority;\n(c)\nif any member fails to perform his duties for a\ncontinuous period exceeding five (5) months without any valid\njustification.\n(7) If the Minister removes a member of the Board from\noffice, such removal shall be made public by no later than the\neffective date of removal from office. At the same time, the Minister\nshall provide the member concerned with a statement of reasons for\nhis removal, and the member shall have the right to request that the\nstatement of reasons for his removal be made public, in which case\nthe Minister shall publish such statement.\n(8) If a member resigns or if the office of a member of the\nBoard is otherwise vacant or if a member is for any reason unable to\nperform the functions of his office, the Minister may appoint a person\nwho is qualified to be appointed to be a member to be a temporary\nmember of the Board; and any person so appointed shall cease to be\nsuch a member when a person has been appointed to fill the vacancy\nor, as the case may be, when the member who was unable to perform\nthe functions of his office resumes those functions.\n(9)\nAny member of the Board who has any direct or indirect\ninterest in any decision or contract made or proposed to be made by\nthe Board, not being an interest which disqualifies such member\nfrom remaining a member, shall disclose the nature of his interest at\nthe first meeting of the Board after the relevant facts have come to\nhis knowledge; such disclosure shall then be recorded in the minutes\nof the Board, and the member having an interest as aforesaid shall\nwithdraw from any meetings at which such decision or contract is\ndiscussed. Any such disclosure shall be communicated to the\nMinister without delay. Where the interest of the member is such as\nto disqualify him from remaining a member, he shall report the fact\nimmediately to the Minister and tender his resignation.\n(10) Repealed by Act XIX.2024.9.",
+      "metadata": {
+        "source_line_start": 415,
+        "source_line_end": 544
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Technology Service Providers",
-      "content": "Technology service providers offering services in relation to innovative technology arrangements in or from Malta shall be subject to the requirements of the Technology Arrangements and Services Act (Cap. 592) and applicable secondary legislation. MDIA shall cooperate with the competent authority under the Technology Arrangements and Services Act in the supervision of technology service providers and in the development of consistent standards and requirements for persons operating in the innovative technology sector. MDIA shall maintain liaison with the Malta Financial Services Authority in relation to technology service providers that are also subject to financial services regulation, to ensure a coordinated approach to oversight."
+      "title": "(10) Repealed by Act XIX.2024.9",
+      "content": "(1)\nIt shall be the purpose of the Authority to\naddress the development in or from Malta of innovative technology\nin order to achieve the policies and objectives outlined in article 4.\n(2) It shall be the duty of the Authority to exercise such\nsupervisory and regulatory functions in the field of innovative\ntechnology in accordance with the powers of the Authority.\n(3) The Authority shall, without prejudice to any of the\npowers of the Authority or functions, and in adherence with article 3,\nhave the powers to:\n(a)\n\npublish and administer such programmes, schemes\nand initiatives that, in its view, are necessary to\npromote the interests of the innovative technology\nsector and its users, including, but not limited to,\nschemes of recognition whereby, amongst others,\nthe innovative technology, and the risks posed by\nits application are assessed and tested and provided\nwith a certificate or mark of assurance or approval,\nin any manner that they are referred to:\nProvided that the Authority shall publish the terms\nof such programmes, schemes and initiatives in a\nclear and transparent manner;\n\n(b)\n\nunless otherwise determined by or under any\napplicable laws and, or regulations, determine\nthose professional services related to innovative\ntechnology that require recognition by the\nAuthority and publish and administer such\nprogrammes, schemes and initiatives that, in the\nview of the Authority, are necessary to foster trust\nin innovative technology, including services for the\nauditing and testing of innovative technology, or\naspects thereof, and the risks posed by their use or\napplication;\n\n(c)\n\npublish and administer such programmes, schemes\nand initiatives, including those ensuring that a\ncontrolled regulatory environment for the testing of\ninnovative technology is available, for the fostering\nof the development of innovative technology in or\nfrom Malta;\n\n(d)\n\nobtain from the Government, other local authorities\nor agencies and, or apply to the European Union or\nother international bodies for the grant of funds to\nbe utilised as grants to be allocated to innovative\ntechnology by way of incentives and awards and\nadminister such grants and incentives to applicants\n\nPurpose, functions\nand powers of the\nAuthority.\nAmended by:\nXIX.2024.10.\n\nin accordance with fair, transparent and nondiscriminatory conditions to be published by the\nAuthority and which are accessible through the\nwebsite of the Authority, from time to time;\n(e)\n\nperform the functions of the National Cybersecurity\nCertification Authority in accordance with\nRegulation (EU) 2019/881 of the European\nParliament and of the Council of 17 April 2019 on\nENISA (the European Union Agency for\nCybersecurity)\nand\non\ninformation\nand\ncommunications\ntechnology\ncybersecurity\ncertification and repealing Regulation (EU) No.\n526/2013 (Cybersecurity Act), and advise the\nMinister on the adoption and publication of laws\nnecessary to implement European and international\nlaws relating to cyber security certification;\n\n(f)\n\nbe consulted on any planned implementation of\nlaws and policies relating to the national imposition\nof obligations on innovative technology in any area\nor sector as well as in relation to the\nimplementation of European Union and, or\ninternational legislation relating to innovative\ntechnology;\n\n(g)\n\nsubject to any limitations that may be imposed on\nthe powers of the Authority, establish and levy fees\nin relation to innovative technology, including on\nany recognition and any persons, such as providers\nof services relating to innovative technology\nparticipating in the initiatives and, or schemes\npublished or administered by the Authority,\nwhether acting alone as well as jointly with other\npublic entities, regulatory bodies and, or competent\nauthorities, subject to the publication of such fees\nin advance and in a transparent fashion and\naccessible through the website of the Authority, and\nthe Authority shall also have the power to establish\nand levy fees for services rendered to other public\nentities, regulatory bodies and, or competent\nauthorities;\n\n(h)\n\nregulate, issue recognitions and conditions,\nincluding in principle temporary or partial\nrecognitions, as may be further elaborated by the\nAuthority pursuant to its guidelines and test,\nmonitor and supervise innovative technology, in or\nfrom Malta, in accordance with the Act and any\nsubsidiary legislation made thereunder;\n\n(i)\n\nkeep under review all practices, operations and\nactivities relating to any matter regulated by or\nunder the Act or any other law which the Authority\nis entitled to administer or enforce or any European\nUnion and, or international legislation applicable to\nMalta;\n\n(j)\n\npromote high standards of conduct and governance\nthroughout the innovative technology industry,\ncorresponding with the levels of risk posed by the\nuse of innovative technology;\n\n(k)\n\nenforce compliance with obligations and, or terms\narising from and, or in terms of the law;\n\n(l)\n\nown, manage, supervise and control and as required\nuse, hold, develop and provide, maintain a sublicence and, or make available any wallet or similar\nsolution or software, any wallet solution, account\nor other facility, in particular in relation to any form\nof digital identity, accreditation, data and digital\nassets;\n\n(m)\n\nengage with facilities, entities and persons,\nincluding service providers and carry out\ntransactions as it may consider necessary for the\nfulfilment of its functions, and enter into any\ncontract for the supply of goods or materials or the\nexecution of work or the rendering of services to, or\nfor the benefit and, or functioning of the Authority,\nincluding but not limited to, in pursuance to\nparagraph (l) and, or the innovative technology\nsector;\n\n(n)\n\nmonitor the effects of laws on the use and operation\nof innovative technology and undertake or\ncommission such study, research or investigation\nwhich it may deem necessary in this regard;\n\n(o)\n\nissue binding documentation such as guidelines and\nprovide information and guidance on any matter,\nincluding definitions regulated by, or under the Act,\nor any other law which the Authority is entitled to\nadminister or enforce, or any European Union and,\nor international legislation applicable to Malta;\n\n(p)\n\ndetermine, by virtue of guidelines or other binding\ndocumentation, which products, solutions or\nservices may be classified as \"innovative\ntechnology\" as defined in the Act and the purposes,\nqualities, features, attributes, behaviours or aspects\n\nthereof that shall be recognised by the Authority;\n(q)\n\nsupport and liaise with non-profit organisations and\neducational institutions in Malta which are\nestablished for the promotion of the use and\ndevelopment of innovative technology;\n\n(r)\n\nkeep under review developments on relevant\nsubjects relating to innovative technology in order\nto ensure that activity in Malta is generally\nconsistent\nwith\ninternationally\nrecognised\nstandards and norms of good practice;\n\n(s)\n\nenter into agreements with other public bodies and\nauthorities to better coordinate the effective and\nefficient exercise of the respective functions of\nsuch public bodies and authorities where they have\ncommon functions, interests or aims, including the\ndelegation to the Authority by the said public\nbodies and authorities of certain powers\nappertaining to them and the delegation by the\nAuthority to such other public bodies and\nauthorities of certain powers of the Authority;\n\n(t)\n\ncollect relevant statistical and other information as\nmay be required by the Authority in relation to\ninnovative technology;\n\n(u)\n\nperform such other functions, including functions\naimed at promoting innovative technology, as may\nfrom time to time be assigned to it by the Minister,\nor by governmental or ministerial appointment or\nby engagement by other public entities, regulatory\nbodies and, or competent authorities;\n\n(v)\n\nimpose administrative penalties and, or measures\nand, or fines in accordance with the powers of the\nAuthority in relation to a breach of the Act, any\nregulations made thereunder, any law which the\nAuthority is entitled to administer or enforce, or\nany recognition issued by the Authority or any\nEuropean Union and, or international legislation\napplicable to Malta;\n\n(w)\n\nadvise the Minister on the formulation of policy in\nrelation to matters regulated by, or under the Act,\nand in particular in relation to any international\nobligations;\n\n(x)\n\notherwise advise the Minister on any matter\nconnected with its functions under the Act or any\n\nother law;\n(y)\n\nformulate and implement the policies and strategies\nwith short-term and long-term objectives in relation\nto the matters connected with its functions under\nthe Act or any other law;\n\n(z)\n\nencourage users of innovative technology to\nestablish places of business in Malta;\n\n(aa)\n\nadvise the Minister on the planning and\ndevelopment of the innovative technology industry\nas well as on the infrastructure supporting the\ninnovative technology industry;\n\n(bb)\n\npromote and advance Malta as a destination for\nhigh value commercial users of innovative\ntechnology to establish places of business in Malta;\n\n(cc)\n\nprescribe any forms relating to any of the\napplications and processes involved in the\nrecognition of innovative technology;\n\n(dd)\n\nestablish or participate in the establishment and\noperation of entities whose function shall be\nnecessary, ancillary or conducive to the attainment\nof the functions and, or objectives of the Authority\nunder the Act or any regulations made thereunder\nor any law which the Authority has the power to\nadminister or enforce or any European Union and,\nor international legislation applicable to Malta;\n\n(ee)\n\nperform the functions of a competent authority in\naccordance with Regulation (EU) 2022/868 of the\nEuropean Parliament and of the Council of 30 May\n2022 on European data governance and amending\nRegulation (EU) 2018/1724 (Data Governance Act)\nfor data altruism services and data intermediation\nservices;\n\n(ff)\n\ncarry out functions in line with cooperation\nmechanisms with other national competent\nauthorities; and\n\n(gg)\n\nappoint a qualified person or otherwise require that\nthe person concerned appoints a qualified person in\nthe case that he considers this to be appropriate or\nexpedient to perform those tasks in terms of those\nterms and conditions that the Authority may order.\nThe fees and expenses incurred by the qualified\nperson in this respect or which are incidental to\n\nsuch an appointment shall be paid by the person in\nrespect of whom the qualified person was\nappointed, unless determined otherwise by the\nAuthority. The Authority may issue guidelines that\nestablish the procedures or requisites related with\nthis appointment and these guidelines may also\nestablish the powers, duties and obligations of the\nqualified person.\n\n(4)\n(a)\nWithout prejudice or limitation to any of the\npowers of the Authority, the Authority shall have the power, strictly\nfor the purposes of carrying out its functions, to request any person or\nany person who may have in her possession relevant documentation\nto provide it with any information, documents and reports, including\nfinancial information, that the Authority considers necessary:\nProvided that the information requested by the\nAuthority shall be proportionate to the performance\nof its functions and obligations under the Act or\nany regulations made thereunder or any law which\nthe Authority has the power to administer or\nenforce or any European Union and, or\ninternational legislation applicable to Malta, and in\nrequiring any information as aforesaid, the\nAuthority shall specify the reason for such request.\n(b)\n\nWhere the Authority requires information relating\nto the intellectual property, trade secrets or\ncommercially sensitive information related to any\ninnovative technology, it shall only demand that\ninformation which is strictly necessary for its\npurposes and shall keep such information\nconfidential.\n\n(c)\n\nA person who is notified with a request for\ninformation shall comply promptly with the request\nand within the timeframes and according to any\nlevel of detail, as may be required by the Authority.\n\n(d)\n\nAny person who has any information requested by\nthe Authority in terms of the Act and its officers or\nemployees shall, on a written request from the\nAuthority, provide expeditiously to the Authority\nany information required by the Authority in terms\nof the Act, may not raise in this regard, an\nexception or defence including any obligation with\nregard to the prohibition or the confidentiality that\narise from contractual law or in any other manner\nrefuses to conform with such a request from the\nAuthority. No action for a breach of contractual law\nor disciplinary action may be taken in a direct or\n\nindirect manner by a person in regard to officers\nand employees due to the fact that they provided\nthe Authority with any required information by the\nAuthority as provided in sub-article (4) and any\nsuch contractual or disciplinary measure shall be\ndeemed as null and void:\nProvided that any such person shall, in complying with\nthe provisions of this sub-article, specify clearly to the Authority if\nany information provided by him is to be considered as confidential\nfor commercial reasons. Also said person shall specify clearly his\nreasons to the Authority. The Authority shall decide whether the\ninformation shall be treated as such:\nProvided further that the provisions of this sub-article\nrelating to confidentiality shall apply to any information provided to\nthe Authority for whatever reason whether under the Act or any other\nlaw which the Authority is entitled to administer or enforce.\n(5)\n(a)\nThe Authority may opt to publish information and,\nor guidelines relating to its rulings and determinations which are\naccessible through the website of the Authority when said rulings and\ndeterminations affect applications, the interpretation of the\nprovisions of the Act, or any law which it has the power to administer\nor enforce or any European Union and, or international legislation\napplicable to Malta, in order to ensure that applicants and the public\nin general are aware of the position taken by the Authority on matters\nof general interest relating to innovative technology.\n(b)\n\nThe publication of such information and, or\nguidelines shall not in any way limit the freedom of\nthe Authority to vary its policies or approach on\nany issue based on further review and experience or\ndevelopment of innovative technology or law\ngenerally. When such variations take place the\nAuthority shall notify in later publications the\nconnection and review to previous publications.\n\n(c)\n\nThe Authority shall have the power to determine\nwhen any of its publications, or part thereof, shall\nbecome binding.\n\n(6)\nThe Authority shall also have such other functions,\nresponsibilities and powers as are set out by or under the Act or as\nmay be assigned to it by or under any other law including all such\npowers as are necessary for, or incidental to the performance of its\nfunctions and powers.\n(7)\nThe Authority shall in the carrying out of its functions\nseek to ensure that the measures taken are proportionate having\nregard also to the objectives of the Authority.\n\nEnforcement\npowers. \nAdded by:\nXIX.2024.11.\n\n(8)\n\nRepealed by Act XIX.2024.10.\n\n(9)\n\nRepealed by Act XIX.2024.10.",
+      "metadata": {
+        "source_line_start": 545,
+        "source_line_end": 1050
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s6a",
+      "section": "6A",
+      "title": "Repealed by Act XIX.2024.10",
+      "content": "(1)\nWithout prejudice to any other law, for the purpose of\ncarrying out market surveillance, investigation and enforcement in\naccordance with Regulation (EU) 2019/1020 of the European\nParliament and of the Council of 20 June 2019 on market surveillance\nand compliance of products and amending Directive 2004/42/EC and\nRegulations (EC) No. 765/2008 and (EU) No. 305/2011 and other\nEuropean Union legislation, the Authority shall have the powers listed\nin such Regulation and other European Union legislation, with regard\nto functions where the Authority has been designated as market\nsurveillance authority, including the power to:\n(a)\nrequire economic operators to provide relevant\ndocuments, technical specifications, data or information on\ncompliance and technical aspects of the product, including\naccess to embedded software in so far as such access is\nnecessary for the purpose of assessing the product’s compliance\nwith applicable European Union harmonisation legislation, in\nany form or format and irrespective of the medium of storage or\nthe place where such documents, technical specifications, data\nor information are stored, and to take or obtain copies thereof;\n(b)\nrequire economic operators to provide relevant\ninformation on the supply chain, on the details of the\ndistribution network, on quantities of products on the market\nand on other product models that have the same technical\ncharacteristics as the product in question, where relevant for\ncompliance with the applicable requirements under European\nUnion harmonisation legislation;\n(c)\nrequire economic operators to provide relevant\ninformation required for the purpose of ascertaining the\nownership of websites, where the information in question is\nrelated to the subject matter of the investigation;\n(d)\ncarry out unannounced on-site inspections and\nphysical verifications;\n(e)\nenter any premises, land or means of transport\nthat the economic operator in question used for purposes related\nto the economic operator’s trade, business, craft or profession,\nin order to identify non-compliance and to obtain evidence;\n(f)\nstart investigations on its own initiative in order\nto identify non-compliance and ensure that the situation is\nrectified;\n(g)\n\nrequire economic operators to take appropriate\n\naction to stop circumstances of non-compliance or to eliminate\nthe risk;\n(h)\ntake appropriate measures where an economic\noperator fails to take appropriate corrective action or where the\nnon-compliance or the risk persists, including by prohibiting or\nrestricting the making available of a product on the market or\nby ordering that the product is withdrawn or recalled;\n(i)\nimpose administrative penalties in accordance\nwith Article 41 of Regulation (EU) 2019/1020 of the European\nParliament and of the Council of 20 June 2019 on market\nsurveillance and compliance of products and amending\nDirective 2004/42/EC and Regulations (EC) No. 765/2008 and\n(EU) No. 305/2011 and according to European Union\nlegislation;\n(j)\nacquire product samples, including under a cover\nidentity, to inspect those samples and reverse engineer them in\norder to identify non-compliance and to obtain evidence;\n(k)\nwhere no other effective means are available to\neliminate a serious risk:\n(i)\nto require the removal of content referring\nto the related products from an online interface or\nrequire the explicit display of a warning to end users\nwhen they access an online interface; or\n(ii)\nwhere a request according to subparagraph (i) has not been complied with, to require\ninformation society service providers to restrict access to\nthe online interface, including by requesting a relevant\nthird party to implement such measures; and\n(l)\nuse any information, document, finding,\nstatement, or any intelligence as evidence for the purpose of its\ninvestigations, irrespective of the format in which and medium\non which they are stored.\n(2) For the purposes of this article, \"economic operator\"\nshall have the same meaning assigned to it in Regulation (EU) 2019/\n1020 of the European Parliament and of the Council of 20 June 2019\non market surveillance and compliance of products and amending\nDirective 2004/42/EC and Regulations (EC) No. 765/2008 and (EU)\nNo. 305/2011.",
+      "metadata": {
+        "source_line_start": 1051,
+        "source_line_end": 1149
+      }
+    },
+    {
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Regulatory Sandbox",
-      "content": "MDIA shall operate a regulatory sandbox programme enabling operators of innovative technology arrangements and technology service providers to test innovative products, services, and business models in a controlled environment, under regulatory oversight and with appropriate consumer protection measures in place. Participants in the regulatory sandbox shall be granted specified exemptions from or modifications to applicable regulatory requirements for a defined testing period, subject to conditions established by MDIA to protect consumers and to limit the scope and scale of operations within the sandbox. MDIA shall evaluate the results of sandbox testing and shall use insights gained to inform the development of the regulatory framework for innovative technology."
+      "title": "No. 305/2011",
+      "content": "(1)\nThe affairs and business of the Authority shall be the\nresponsibility of the Board, which responsibility shall be exercised\nthrough the Chairperson.\n(2)\n\nThe first Chief Executive Officer shall be appointed by the\n\nConduct of the\naffairs of the\nAuthority.\nSubstituted by:\nXIX.2024.12.\n\nMinister.\n(3)\nThe\nday-to-day\nadministration,\nrecruitment,\nand\norganisation of the Authority, and the administrative control of its\nofficers and employees shall be under the control of the Chief\nExecutive Officer of the Authority who shall also have such other\npowers, as may from time to time, be delegated to him by the Board.\n(4)\nThe Chief Executive Officer shall be tasked with the\nimplementation of the objectives of the Authority in the exercise of its\nfunctions at law, as set out by the Board, and without prejudice to the\ngenerality of the foregoing he shall:\n(a)\nhave control of the general administration,\nsupervision and operations of the Authority and any ancillary\nactivity related to it;\n(b)\ndevelop the necessary strategies for the\nimplementation of the objectives of the Authority and\nimplement such strategies as directed by the Board;\n(c)\nadvise the Board on any matter it may refer to\nhim or any matter he considers necessary or expedient;\n(d)\nperform such other duties as the Board may\nassign to him from time to time; and\n(e)\nat the end of each financial year, present to the\nBoard estimates of the income and expenditure of the Authority\nfor the following financial year for the Board’s approval.\n(5)\nThe Chief Executive Officer shall attend all the meetings of\nthe Board but shall not vote at such meetings.\n(6)\nThe Authority may exercise any one or more of its functions\neither directly or through any of its officers or employees or through\nan agency authorised for that purpose, or through a contractor or other\nperson with whom an agreement for the performance of any one or\nmore of such functions has been entered into:\nProvided that nothing in this sub-article shall authorise the\nAuthority to contract or delegate any of:\n(a)\n\nits regulatory functions; or\n\n(b)\nits recognition functions, unless such functions\nare expressly delegated to another public entity, regulatory\nbody and, or competent authority established by law.\n(7)\nThe Board may establish committees of the Board,\ncomposed of members of the Board and other persons who may be\ninvited to participate in the committee, to address particular issues as\n\nmay be assigned to it by the Board.\n(8) The Board may also establish a National Technology\nEthics Committee for the purpose of ensuring that proper standards of\nethics are upheld in the use of innovative technologies which are\nrecognised by the Authority and to assist upon their request other\nauthorities established in Malta where innovative technology is being\nused in their areas of competence. The said National Technology\nEthics Committee shall have such functions and shall be composed of\nsuch members as may be determined by the Board.",
+      "metadata": {
+        "source_line_start": 1150,
+        "source_line_end": 1247
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Standards and Guidelines",
-      "content": "MDIA shall develop and publish standards and guidelines applicable to innovative technology arrangements and services, covering technical architecture and security requirements, governance frameworks, user protection mechanisms, data management practices, and environmental sustainability considerations. Standards shall be developed through a consultative process involving industry, consumer representatives, academic institutions, and other relevant stakeholders, and shall take into account applicable international and Union standards. MDIA shall regularly review published standards to ensure they remain current with technological developments and shall cooperate with international standardisation bodies in the development of standards relevant to innovative technology."
+      "title": "such members as may be determined by the Board",
+      "content": "(1)\nExcept as expressly provided for in other provisions\nof the Act, the Authority shall act independently, impartially and\nwithout bias in the exercise of its regulatory, supervisory, market\nsurveillance and enforcement functions at law, including in the\ndevelopment of guidelines and binding documentation, its internal\nprocedures and the organisation of its staff. In doing so the Authority\nshall not seek or take instructions from any other person in relation to\nthe exercise of the tasks assigned to it by law, and this without\nprejudice to any supervision, however so described, that may be\nundertaken in accordance with the Constitution.\n\nIndependence of\nthe Authority and\nits relations with\nthe Minister.\nSubstituted by:\nXIX.2024.13.\n\n(2)\nThe Minister, in relation to matters that affect the public\ninterest, may give to the Authority, from time to time, policy directions\nin writing of a general character, not inconsistent with the provisions\nof the Act and, on the policies to be followed in the carrying out of the\nfunctions vested in the Authority by or under the Act.\n(3) The provisions of article 77 of the Public Finance\nManagement Act shall not apply to the Authority.",
+      "metadata": {
+        "source_line_start": 1248,
+        "source_line_end": 1279
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Cooperation with Other Regulators",
-      "content": "MDIA shall cooperate with other regulatory and supervisory authorities in Malta, including the Malta Financial Services Authority, the Malta Communications Authority, the Information and Data Protection Commissioner, and the Malta Competition and Consumer Affairs Authority, to ensure a coordinated and consistent approach to the regulation of innovative technology. MDIA shall participate in the inter-regulatory coordination forum established for this purpose and shall enter into memoranda of understanding with other regulatory bodies as appropriate. MDIA shall also cooperate with regulatory authorities in other jurisdictions and with international bodies working on innovative technology governance, contributing to the development of consistent international regulatory frameworks."
+      "title": "Management Act shall not apply to the Authority",
+      "content": "(1)\nThe Authority shall be a body corporate having a\ndistinct legal personality and shall be capable, subject to the\nprovisions of this Act, of entering into contracts, of acquiring,\nholding and disposing of any kind of property for the purposes of its\nfunctions, of suing and being sued, and of doing all such things and\nentering into all such transactions as are incidental or conducive to\nthe exercise or performance of its functions under this Act, including\nthe lending or borrowing of money.\n\nLegal personality\nand representation\nof the Authority.\nAmended by:\nXIX.2024.14.\n\n(2) The legal and judicial representation of the Authority\nshall vest in any one of the Chairperson, the Chief Executive Officer,\nor such other member or members of the Board or officer of the\nAuthority as the Board may appoint:\nProvided that the Board may appoint one or more\nmembers of the Board, or one or more officers of the Authority to\nappear in the name or on behalf of the Authority in any judicial\nproceedings and in any act, contract, instrument or other document\nwhatsoever.\n\n(3) Any document purporting to be an instrument made or\nissued by the Authority and signed by the Chairperson or the Chief\nExecutive Officer or such other member of the Board, or officer of\nthe Authority as may, in accordance with sub-article (2), be vested by\nthe Board with the legal and judicial representation of the Authority,\nshall be received in evidence and shall, until the contrary is proved,\nbe deemed to be an instrument made or issued by the Authority.\nMeetings.\nAmended by:\nXIX.2024.15.",
+      "metadata": {
+        "source_line_start": 1280,
+        "source_line_end": 1324
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. Consumer Protection",
-      "content": "MDIA shall maintain consumer protection as a central objective in its regulatory activities and shall ensure that the certification framework and applicable standards adequately protect users of innovative technology arrangements and services. MDIA shall maintain an accessible process for receiving and investigating complaints from consumers in relation to certified innovative technology arrangements, and shall cooperate with the Malta Competition and Consumer Affairs Authority in addressing consumer protection issues arising in the innovative technology sector. MDIA shall publish information for consumers on the nature and risks of innovative technology arrangements and on the protections afforded by applicable regulatory requirements."
+      "title": "XIX.2024.15",
+      "content": "(1)\nThe meetings of the Board shall be called by the\nChairperson as often as may be necessary but at least once a month\neither on his own initiative or at the request of any two of the other\nmembers of the Board.\n(2) Half the number of members constituting the Board at\nany given time shall form a quorum. A decision shall be adopted by a\nsimple majority of the votes of the members present and who may\nvote. The Chairperson, or in the absence of the Chairperson, the\nDeputy Chairperson or any other person appointed to act as\nChairperson, shall have an initial vote and, in the event of an equality\nof votes, a casting vote.\n(3) Subject to the provisions of this Act the Board may\nregulate its own procedure.\n(4) Subject to the foregoing provisions of this article, no act\nor proceeding of the Authority shall be invalidated merely by reason\nof the existence of any vacancy among the members of the Board.\n(5) All acts done by any person acting in good faith as a\nmember of the Board shall be valid as if he were a member\nnotwithstanding that some defect in his appointment or qualification\nbe afterwards discovered. No act or proceeding of the Authority shall\nbe questioned on the ground of the contravention, by a member, of\nthe provisions of article 5(9).",
+      "metadata": {
+        "source_line_start": 1325,
+        "source_line_end": 1353
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Artificial Intelligence Governance",
-      "content": "MDIA shall serve as the national competent authority responsible for co-ordinating the implementation of Regulation (EU) 2024/1689 (AI Act) in Malta and shall cooperate with other sectoral competent authorities in the assessment and supervision of high-risk AI systems in their respective areas of responsibility. MDIA shall develop national guidance on compliance with the AI Act for operators of AI systems, notifying bodies, and developers of AI products and services operating in Malta. MDIA shall participate in the European Artificial Intelligence Board established under the AI Act and shall contribute to the development of consistent Union-wide approaches to AI governance."
+      "title": "Authority",
+      "content": "Without prejudice to the other provisions of this Act, the\nAuthority shall appoint and employ, at such remuneration and upon\nsuch terms and conditions as it may establish with the concurrence of\nthe Minister, such officers and employees of the Authority as may\nfrom time to time be necessary for the due and efficient discharge of\nthe functions of the Authority.\n\nOfficers and\nemployees deemed\nto be public\nemployees and\npublic officers.\nCap. 595.",
+      "metadata": {
+        "source_line_start": 1354,
+        "source_line_end": 1368
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. MDIA's Supervisory Powers",
-      "content": "MDIA shall have the power to supervise compliance by certified innovative technology arrangements and recognised system administrators with applicable requirements, including through the right to request information and documentation, to carry out inspections of systems and records, and to engage technical experts to assist in the assessment of compliance. Where MDIA identifies a failure to comply with applicable requirements, it may issue a compliance notice requiring the operator or system administrator to take specified corrective action within a specified period. MDIA may suspend or revoke certification or recognition where an operator or system administrator fails to comply with a compliance notice or is found to be in serious or persistent breach of applicable requirements."
+      "title": "Authority",
+      "content": "All officers and employees of the Authority shall be\ndeemed to be public employees within the meaning of the Public\nAdministration Act and shall be considered to be public officers as\ndefined in article 124 of the Constitution for the purposes of the\nCriminal Code or any other law.",
+      "metadata": {
+        "source_line_start": 1369,
+        "source_line_end": 1383
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
+      "chapter": "PART V - Financial Provisions",
       "section": "13",
-      "title": "Article 13. Administrative Penalties",
-      "content": "MDIA may impose administrative penalties on operators of innovative technology arrangements and system administrators that fail to comply with applicable obligations. Administrative penalties shall be proportionate to the nature, gravity, and duration of the infringement and shall take into account whether the infringement was intentional or negligent, the financial capacity of the infringer, and any action taken by the infringer to mitigate the impact of the infringement. Before imposing an administrative penalty, MDIA shall give the person concerned the opportunity to make representations. Administrative penalty decisions may be appealed to the Administrative Review Tribunal."
+      "title": "Criminal Code or any other law",
+      "content": "(1)\nWithout prejudice to the following provisions of\nthis article, the Authority shall so conduct its affairs so that the\nexpenditure required for the proper performance of its functions\nshall, as far as practicable, be met out of its revenue.\n\nAuthority to meet\nexpenditure out of\nrevenue.\nAmended by:\nXIX.2024.16.\n\n(2) In furtherance of the provisions of sub-article (1), the\nAuthority shall levy all fees, rates and other payments prescribed\nunder the Act or any other law administered by the Authority, or set\nby the Authority in accordance with the powers of the Authority or\nany European Union and, or international legislation applicable to\nMalta.\n(3) The Authority shall be paid by Government out of the\nConsolidated Fund such sums as Parliament may from time to time\nauthorise to be appropriated to meet the costs of specified works to be\ncontinued or otherwise carried out by the Authority:\nProvided that any subvention received from Government\nshall be exempted from any liability for the payment of income tax\nand duty on documents under any law for the time being in force.\n(4) Any excess of revenue over expenditure shall, subject to\nsuch directives as the Minister, after consultation with the Minister\nresponsible for finance may from time to time give, be applied by the\nAuthority to the formation of reserve funds to be used for the\npurposes of the Authority; and without prejudice to the generality of\nthe powers given to the Minister by this sub-article, any direction\ngiven by the Minister as aforesaid may order the transfer to the\nGovernment, or the application in such manner as may be specified in\nthe direction, of any part of the fees, rates and other payments levied\nin accordance with sub-article (2) or any such excess as aforesaid.\n(5) Any funds of the Authority not immediately required to\nmeet expenditure may be invested in such manner as may from time\nto time be approved by the Minister.",
+      "metadata": {
+        "source_line_start": 1384,
+        "source_line_end": 1421
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s13a",
+      "section": "13A",
+      "title": "to time be approved by the Minister",
+      "content": "The Authority shall be exempt from any liability for the\npayment of income tax, duty on documents and transfers, and\ncustoms and excise duty, under any law.\n\nExemption from\ntaxes.\nAdded by:\nXIX.2024.17.",
+      "metadata": {
+        "source_line_start": 1422,
+        "source_line_end": 1430
+      }
+    },
+    {
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Reporting and Transparency",
-      "content": "MDIA shall publish an annual report on its activities, covering the number of certifications granted, suspended, and revoked; the outcomes of supervisory and enforcement activities; significant developments in the innovative technology sector relevant to MDIA's regulatory functions; and MDIA's cooperation activities with other regulators and international bodies. The annual report shall be laid before the House of Representatives and shall be published on MDIA's website. MDIA shall also publish information on approved certifications, recognised system administrators, and applicable standards and guidelines in an accessible format on its website."
+      "title": "XIX.2024.17",
+      "content": "(1)\nFor the purpose of carrying out any of its\nfunctions under this Act or any other law which the Authority is\nentitled to administer or enforce, the Authority may, with the\napproval in writing of the Minister given after consultation with the\nMinister responsible for finance, borrow or raise money in such\nmanner, from such person, body or authority, and under such terms\nand conditions as the Minister, after consultation as aforesaid, may in\nwriting approve.\n\nPower to borrow or\nraise capital.\n\n(2) The Authority may also, from time to time, borrow, by\nway of overdraft or otherwise, such sums as it may require for\ncarrying out its functions under this Act or any other law which the\nAuthority is entitled to administer or enforce:\nProvided that for any amount in excess of one hundred\nand forty-four thousand euro (€144,000), there shall be required the\napproval of the Minister in writing.\nAdvances from\nGovernment.",
+      "metadata": {
+        "source_line_start": 1431,
+        "source_line_end": 1460
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Delegated Authority",
-      "content": "MDIA may, with the approval of the Minister, delegate specified regulatory or administrative functions to suitably qualified persons or bodies, subject to conditions and oversight arrangements that ensure that the delegated functions are carried out in accordance with applicable requirements and standards. Any delegation of functions shall be published in the Government Gazette and on MDIA's website. MDIA shall remain responsible for the exercise of delegated functions and shall maintain adequate oversight of persons or bodies to whom functions have been delegated. Delegation of functions shall not preclude MDIA from exercising those functions directly in any particular case."
+      "title": "Government",
+      "content": "The Minister responsible for finance may, after\nconsultation with the Minister, make advances to the Authority of\nsuch sums as he may agree to be required by the Authority for\ncarrying out any of its functions under this Act or any other law\nwhich the Authority is entitled to administer or enforce, and may\nmake such advances on such terms and conditions as he may, after\nconsultation as aforesaid, deem appropriate. Any such advance may\nbe made by the Minister responsible for finance out of the\nConsolidated Fund, and without further appropriation other than this\nAct, by warrant under his hand authorising the Accountant General to\nmake such advance.\n\nBorrowing from\nGovernment.",
+      "metadata": {
+        "source_line_start": 1461,
+        "source_line_end": 1475
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. International Recognition",
-      "content": "MDIA shall pursue international recognition agreements with regulatory bodies in other jurisdictions to promote the mutual recognition of certifications and regulatory approvals, facilitating the cross-border operation of innovative technology arrangements and the development of a global regulatory framework for innovative technology. In pursuing international recognition, MDIA shall ensure that the requirements applicable to recognised arrangements in other jurisdictions provide equivalent protections to those established under Maltese law and applicable Union law. MDIA shall inform the relevant national authorities and the European Commission of international recognition agreements entered into and of their implications for Union-level regulatory frameworks."
+      "title": "Government",
+      "content": "(1)\nThe Minister, after consultation with the\nMinister responsible for finance, may, for any requirements of the\nAuthority of a capital nature, contract or raise loans, or incur\nliabilities, for such periods and on such terms and conditions as he\nmay deem appropriate; and any sums due in respect of or in\nconnection with any such loan or liability shall be a charge on the\nConsolidated Fund.\n(2) Notice of any loans, liabilities or advances made or\nincurred under the foregoing provisions of this article shall be given\nto the House of Representatives as soon as practicable.\n\nEstimates of the\nAuthority.",
+      "metadata": {
+        "source_line_start": 1476,
+        "source_line_end": 1490
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Authority",
+      "content": "(1)\nThe Authority shall cause to be prepared in\nevery financial year, and shall not later than three months after the\nend of each such year, adopt estimates of the income and expenditure\nof the Authority for the next following financial year:\nProvided that the estimates for the first financial year of\nthe Authority shall be prepared and adopted within such time as the\nMinister may by notice in writing to the Authority specify.\n(2) In the preparation of such estimates the Authority shall\ntake account of any funds and other monies that may be due to be\npaid to it out of the Consolidated Fund during the relevant financial\nyear, whether by virtue of this Act or an appropriation Act or of any\nother law; and the Authority shall prepare the said estimates so as to\nensure that the total revenues of the Authority are at least sufficient to\nmeet all sums properly chargeable to its revenue account including,\nbut without prejudice to the generality of that expression,\ndepreciation.\n\n(3) The estimates shall be made out in such form and shall\ncontain such information and such comparison with previous years as\nthe Minister responsible for finance may direct.\n(4) A copy of the estimates shall, upon their adoption by the\nAuthority, be sent forthwith by the Authority to the Minister.\n(5) The Minister shall, at the earliest opportunity and not\nlater than three months after he has received a copy of the estimates\nfrom the Authority, approve the same with or without amendment.",
+      "metadata": {
+        "source_line_start": 1491,
+        "source_line_end": 1523
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Authority, be sent forthwith by the Authority to the Minister",
+      "content": "(1)\nNo expenditure shall be made or incurred by the\nAuthority unless it has been approved by the Minister as provided in\narticle 17.\n(2)\n\nExpenditure to be\naccording to\napproved\nestimates.\n\nNotwithstanding the provisions of sub-article (1) -\n\n(a)\nuntil the expiration of six months from the\nbeginning of a financial year, or until the approval of the\nestimates for that year by the Minister, whichever is the earlier\ndate, the Authority may make or incur expenditure for carrying\nout its functions under this Act or any other law which the\nAuthority is entitled to administer or enforce not exceeding in\nthe aggregate one-half of the amount approved by the Minister\nfor the preceding financial year;\n(b)\nexpenditure approved in respect of a head or\nsub- head of the estimates may, with the approval of the\nMinister, given after consultation with the Minister\nresponsible for finance, be made or incurred in respect of\nanother head or sub- head of the estimates;\n(c)\nin respect of the first financial year, the\nAuthority may make or incur expenditure not exceeding in the\naggregate such amounts as the Minister responsible for finance\nmay, after consultation with the Minister, allow;\n(d)\nif in respect of any financial year it is found that\nthe amount approved by the Minister is not sufficient or a need\nhas arisen for expenditure for a purpose not provided for in the\nestimates, the Authority may adopt supplementary estimates\nfor approval by the Minister and in any such case the\nprovisions of this Act applicable to the estimates shall as near\nas practicable apply to the supplementary estimates.",
+      "metadata": {
+        "source_line_start": 1524,
+        "source_line_end": 1564
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "as practicable apply to the supplementary estimates",
+      "content": "The Minister shall, at the earliest opportunity and not\nlater than three months after he has received a copy of the estimates\nand supplementary estimates of the Authority, or if at any time during\nthat period the House of Representatives is not in session, within\nthree months from the beginning of the next following session, cause\nsuch estimates to be laid on the Table of the House of\n\nPublication of\napproved\nestimates.\n\nRepresentatives.\nAccounts and\naudit.\nAmended by:\nXIX.2024.18.",
+      "metadata": {
+        "source_line_start": 1565,
+        "source_line_end": 1588
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Representatives",
+      "content": "(1)\nThe Authority shall cause to be kept proper\naccounts and other records in respect of its operations, and shall\ncause to be prepared a statement of accounts in respect of each\nfinancial year.\n(2) The accounts of the Authority shall be audited by an\nauditor or auditors to be appointed by the Authority:\nProvided that the Minister may, prior to approving the\naccounts, require the books and accounts of the Authority to be\naudited or examined by the Auditor General who shall for the\npurpose have the power to carry out such physical checking and other\ncertifications as he may deem necessary.\n(3) The Authority shall, not later than three months after the\nend of each financial year, cause a copy of the statement of accounts\nduly audited to be transmitted to the Minister together with a copy of\nany report made by the auditors on that statement or on the accounts\nof the Authority.\n(4) The Minister shall, at the earliest opportunity and not\nlater than three months after he has received a copy of every such\nstatement and report, or if at any time during that period the House of\nRepresentatives is not in session, within three months from the\nbeginning of the next following session, cause every such statement\nand report to be laid on the Table of the House of Representatives.\n\nDeposit of\nrevenues and\npayment by the\nAuthority.\nAmended by:\nXIX.2024.19.",
+      "metadata": {
+        "source_line_start": 1589,
+        "source_line_end": 1619
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "XIX.2024.19",
+      "content": "(1)\nAll monies accruing to the Authority shall be\npaid into a bank or banks appointed as bankers of the Authority by\nresolution of the Board. Such monies shall, as far as practicable, be\npaid into any such banks from day to day, except such sum as the\nAuthority may authorise to be retained to meet petty disbursements\nand immediate cash payments.\n(2) All payments out of the funds of the Authority, other\nthan petty disbursements not exceeding a sum fixed by the Authority,\nshall be made by such officer or officers of the Authority as the\nAuthority shall appoint or designate for that purpose.\n(3) Cheques against and withdrawals from any bank account\nof the Authority shall be signed by such officer of the Authority as\nmay be appointed or designated by the Authority for that purpose and\nshall be countersigned by the Chairperson or Chief Executive Officer,\nor such other member of the Board or officer of the Authority as may\nbe authorised by the Authority for that purpose.\n(4)\n\nThe Authority shall also make provision with respect to\n\n(a)\nthe manner in which and the officer or officers\nby whom payments are to be authorised or approved;\n\n(b)\nthe title of any account held with the bank or\nbanks into which the monies of the Authority are to be paid,\nand the transfer of funds from one account to the other;\n(c)\nthe method to be adopted in making payments\nout of funds of the Authority,\nand generally with respect to any matter which is relevant to the\nproper keeping and control of the accounts and books, and the control\nof the finance, of the Authority.",
+      "metadata": {
+        "source_line_start": 1620,
+        "source_line_end": 1661
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "of the finance, of the Authority",
+      "content": "Repealed by Act XIX.2024.20.",
+      "metadata": {
+        "source_line_start": 1662,
+        "source_line_end": 1665
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Repealed by Act XIX.2024.20",
+      "content": "The Authority shall, not later than three months after the\nend of each financial year, make and transmit to the Minister and to\nthe Minister responsible for finance a report dealing generally with\nthe activities of the Authority during that financial year and\ncontaining such information relating to the proceedings and policy of\nthe Authority as either of the said Ministers may from time to time\nrequire. The Minister shall, at the earliest opportunity and not later\nthan three months after he has received a copy of every such report,\nor if at any time during that period the House of Representatives is\nnot in session, within three months from the beginning of the next\nfollowing session, cause a copy of every such report to be laid on the\nTable of the House of Representatives.",
+      "metadata": {
+        "source_line_start": 1666,
+        "source_line_end": 1677
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Table of the House of Representatives",
+      "content": "Repealed by Act XIX.2024.21.\n\nContracts of supply\nor works.\nAnnual Report.",
+      "metadata": {
+        "source_line_start": 1678,
+        "source_line_end": 1687
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Money laundering",
+      "content": "The Authority and any Board member, officer or\nemployee of the Authority, and any other person appointed to\nperform a function under this Act or any other law which the\nAuthority is entitled to administer or enforce, or under any rules or\nregulations made thereunder, shall not be liable in damages for\nanything done or omitted to be done in the discharge or purported\ndischarge of any functions in accordance with the powers of the\nAuthority unless the act or omission is proven to have been done or\nomitted to be done in bad faith.\n\nExclusion of\nliability.\nAmended by:\nXIX.2024.22.",
+      "metadata": {
+        "source_line_start": 1688,
+        "source_line_end": 1708
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Principles relating to Recognition",
+      "content": "(1)\nThe Authority shall establish and prescribe rules, in\nthe form of binding documentation such as guidelines, in relation to\nthe forms of recognition it shall grant or issue and in relation to\nrecognition programmes, initiatives and schemes it shall administer in\n\nConditions for the\nissue of\nrecognitions.\nSubstituted by:\nXIX.2024.24.\n\naccordance with the powers of the Authority, laying down the terms\nand requirements that applicants shall satisfy.\n(2)\nThe Authority may also determine when innovative\ntechnology which may be the subject of requirements under any law\nwhich the Authority is entitled to administer or enforce, or under terms\nand conditions of recognition, programmes, initiatives and schemes\nissued and, or administered by the Authority, is exempt from such\nrequirements.\n(3)\nWhere the Authority deems necessary, the Authority shall\nkeep a register containing a list of recognition holders and recognitions\nissued by the Authority. This register, which may be publicly available\nat the discretion of the Authority, including on the Authority’s website,\nshall in particular indicate:\n(a)\nthe form of recognition and the programme,\ninitiative and, or scheme under which it is granted;\n(b)\neach innovative technology product, solution or\nservice which is recognized;\n(c)\nall such details as the Authority shall consider\nnecessary to identify the relevant recognition holder; and\n(d)\nthe information on all matters which is required to\nbe entered into the register for public information in accordance\nwith the provisions of the Act, any other applicable law, or\nwhich the Authority deems to be in the public interest and such\ninformation shall be updated on a regular basis.\nPower of the\nAuthority to grant\nor refuse\nrecognition.\nAmended by:\nXIX.2024.25.",
+      "metadata": {
+        "source_line_start": 1709,
+        "source_line_end": 1765
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "XIX.2024.25",
+      "content": "(1)\nThe Authority shall have the power to grant or refuse\nto grant an innovative technology recognition in accordance with the\nAct or under any law which the Authority is entitled to administer or\nenforce or any European and, or international legislation applicable to\nMalta, in accordance with the requirements and conditions relating to\nthe particular programme, initiative or scheme for the recognition of\nthe particular innovative technology that shall be accessible through\nthe website of the Authority, subject to its reasoned decision being\ncommunicated to the applicant and subject to the applicant’s right of\nappeal, as provided for hereunder.\n(2)\n(a) The Authority, when granting a recognition, may subject\nit to such conditions as it may deem appropriate, and having granted\nsuch recognition it may, from time to time, vary or revoke any\ncondition so imposed or impose new conditions.\n(b)\n\nFor the better carrying out of the provisions of the\nAct, the Authority may, from time to time, issue\nand publish recognition conditions, rules and\nguidelines which shall be binding on recognition\n\nholders as may be specified therein.\n(c)\n\nIn the interest of transparency and market\nawareness, such recognition, conditions, rules and\nguidelines may lay down, amongst others,\nadditional requirements and conditions in relation\nto the activities of applicants and recognition\nholders and any other matters as the Authority may\nconsider appropriate.\n\n(3) When considering whether to grant or refuse to grant\nrecognition, the Authority shall, amongst others, but without\nprejudice to the generality of the powers of the Authority, have regard\nto:\n(a)\nthe protection of the general public and\norganisations;\n(b)\nthe protection of the reputation of Malta taking\ninto account Malta’s international commitments;\n(c)\nchoice; and\n\nthe promotion of innovation, competition and\n\n(d)\nthe reputation and suitability of the applicant and\nall other connected parties.\n(4)\n\nRepealed by Act XIX.2024.25.\n\n(5)\n\nRepealed by Act XIX.2024.25.",
+      "metadata": {
+        "source_line_start": 1766,
+        "source_line_end": 1833
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Repealed by Act XIX.2024.25",
+      "content": "(1)\nWithout prejudice to the generality of the powers\nof the Authority, the Authority may issue guidelines or otherwise\nspecify those instances in which it may refuse to grant a recognition,\nwhich instances may include the following:\n(a)\nif the application is not submitted in accordance\nwith the established form or in accordance with applicable\nprocedure; or\n(b)\n\nif the applicable fees have not been paid; or\n\n(c)\nif the Authority, in its discretion, is not satisfied\nthat the applicant, any relevant persons, including persons with\ndelegated authority of representation, possess the required\nqualities and, or competencies and, or qualifications, including\nthose relating to security features and automated technology\nsystems used and those related to fit and proper requirements,\nimposed by the Authority; or\n(d)\n\nRepealed by Act XIX.2024.26.\n\nRefusal to grant\nrecognition.\nAmended by:\nXIX.2024.26.\n\n(e)\nif it transpires that any information or\nsubmission made to the Authority is false, misleading,\ninaccurate or incomplete in a material respect; or\n(f)\nif the Authority, in its discretion is not satisfied\nin accordance with the circumstances of the case that:\n(i)\n\nthe applicant is capable of sustainably\nfinancing the innovative technology;\n\n(ii)\n\nthe applicant has the necessary competence,\ntechnical know-how and resources to\ndevelop the innovative technology or\nprovide the service;\n\n(iii)\n\nthe applicant has a business model to\ndevelop and, or maintain the innovative\ntechnology or provide the service in a viable\nmanner which is compliant with the\napplicable regulatory instruments in force;\nand\n\n(iv)\n\nthe applicant shall comply with all\nrequirements and obligations applicable\nshould a recognition be issued by the\nAuthority, including but not limited to\nfinancial safeguards; or\n\n(g)\n\nif the Authority believes that the applicant’s\nproposal is not compliant with the regulatory\ninstruments in force;\n\n(h)\n\nif the Authority believes that granting a recognition\nto the applicant may pose a risk to the reputation of\nMalta or is otherwise not in the public interest or\ncontrary to regulatory objectives established by the\nAct;\n\n(i)\n\nif the Authority believes that the innovative\ntechnology may be used in a manner that is\ncontrary to public morality, or third party personal\nrights or is considered a potential security threat, or\nmay pose a risk to the reputation of Malta, or is\nconsidered to be not in the public interest; or\n\n(j)\n\nif the Authority, in its reasonable discretion, is not\nsatisfied that the applicant has complied with and,\nor has satisfied the required conformity assessment\nprocedure, where applicable and, or other\nprocedures of the Authority.\n\n(2)\n\nRepealed by Act XIX.2024.26.\n\n(3)\n\nRepealed by Act XIX.2024.26.",
+      "metadata": {
+        "source_line_start": 1834,
+        "source_line_end": 1950
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Repealed by Act XIX.2024.26",
+      "content": "The Authority shall, within a time period to be established\nthrough guidelines, which period may vary depending on the type of\nrecognition, notify an applicant in writing of its decision to refuse an\napplication for recognition.\n\nNotice of refusal of\na recognition. \nSubstituted by:\nXIX.2024.27.",
+      "metadata": {
+        "source_line_start": 1951,
+        "source_line_end": 1960
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "XIX.2024.27",
+      "content": "(1)\nThe Authority may at any time revoke, cancel or\nsuspend a recognition if, following the issuing of a recognition:\n\nPower of the\nAuthority to\nrevoke, cancel or\nsuspend a\nrecognition.\nSubstituted by:\nXIX.2024.28.\n\n(a)\none of the grounds for which the Authority may\nhave rejected the recognition holder’s application arises;\n(b)\nwhere the recognition is issued based on incorrect\nor false information provided to the Authority;\n(c)\nwhere at the discretion of the Authority, this is in\nthe interest of the users of the innovative technology concerned,\npublic safety or morality, or the reputation of Malta;\n(d)\nwhere this is necessary as a result of a change in\nthe legal framework which necessitates such a revocation,\ncancellation or suspension of recognition; or\n(e)\nwhere this is necessary on the basis of European\nUnion and international laws applicable to Malta:\nProvided that without prejudice to any other\nbreaches under any other law that this may give rise to, the\nproviding of false information to the Authority shall constitute an\noffence in accordance with the Act and shall be punishable in\naccordance with the provisions of the Act.\n(2)\nThe Authority shall have the power to publicise the\nrevocation, cancellation or suspension of its recognitions and the\nreasons thereof, should it consider that this is necessary.\n(3)\nNo action shall lie against the Authority in terms of the\nMedia and Defamation Act, or any other law relating to defamation or\nslander, for the issuing of bona fide public statements in terms of this\narticle.\n(4)\nThe Authority may further specify those circumstances\nwhich may lead to a suspension, cancellation or revocation of a\nrecognition.\n(5)\nIn addition to the above mentioned measures relating to the\nsuspension, cancellation or revocation of a recognition, the Authority\nshall have the power to impose administrative penalties for breaches of\nthe conditions or obligations imposed on applicants, recognition\n\nholders or third parties by the Authority in accordance with the powers\nof the Authority or the Act or any other law which the Authority is\nempowered to administer or enforce.\n(6) Such administrative penalties as may be imposed by the\nAuthority under the previous sub-article shall be in accordance with\narticle 42 and may be imposed by the Authority in addition or in\nsubstitution of any other measures imposed by the Authority.\nProcedure when\ntaking a measure in\naccordance with\narticle 30.\nSubstituted by:\nXIX.2024.29.",
+      "metadata": {
+        "source_line_start": 1961,
+        "source_line_end": 2038
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "XIX.2024.29",
+      "content": "(1)\nThe Authority shall inform the recognition holder\nand establish the procedure to be adopted, prior to taking any of the\nmeasures in accordance with article 30, which procedure may vary\ndepending on the type of recognition it is granting.\n(2)\nNotwithstanding the provisions of sub-article (1), where the\nAuthority has prima facie evidence that the infringement:\n(a)\nrepresents an immediate and serious threat to the\nusers of the innovative technology, the public interest or to the\napplication of mandatory rules of law;\n(b)\ncreates or may create serious economic or\noperational problems for third parties, in particular other\nproviders or users of innovative technology; and, or\n(c)\nwould result in harm to Malta and, or the\nEuropean Union and, or the welfare of users and, or\ncompetition, including within the innovative technology sector,\nthe Authority may take urgent measures including ordering the\nimmediate cessation of the act or omission giving cause to the\ninfringement and the imposition of administrative penalties and the\nsuspension, revocation or cancellation of the recognition.\n\nDecisions of the\nAuthority.\nSubstituted by:\nXIX.2024.30.",
+      "metadata": {
+        "source_line_start": 2039,
+        "source_line_end": 2069
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "XIX.2024.30",
+      "content": "(1)\nThe Authority shall give its reasons for any decision\ntaken in accordance with the Act.\n\n(2)\nSubject to the rights of the appellant in an appeal filed before\nthe Tribunal in accordance with the Act, the notification of a decision\ntaken by the Authority in accordance with the Act shall, if no such\nappeal has been filed in terms of the law, and upon the service of a\njudicial act on the person indicated in the notice, constitute an executive\ntitle for all effects and purposes of Title VII of Part I of Book Second of\nthe Code of Organization and Civil Procedure.\n(3)\nNotwithstanding the provisions of any other law, no\nprecautionary warrant or order shall be issued by any court restraining\nthe Authority from taking any measure under the Act, or under any\nregulations issued hereunder or any other law.\n(4)\n\nUnless otherwise provided for by law decisions taken by the\n\nAuthority shall only be suspended or reversed by the competent Court\nor Tribunal, as prescribed in terms of this Act.",
+      "metadata": {
+        "source_line_start": 2070,
+        "source_line_end": 2110
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "or Tribunal, as prescribed in terms of this Act",
+      "content": "Repealed by Act XIX.2024.31.",
+      "metadata": {
+        "source_line_start": 2111,
+        "source_line_end": 2118
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART VII - Regulatory Powers",
+      "section": "34",
+      "title": "Transferability",
+      "content": "Repealed by Act XIX.2024.32.\n\nPower of\ncompetent\nauthority to\nrevoke, cancel or\nsuspend innovative\ntechnology\narrangement\nauthorisations and\ninnovative\ntechnology\nservices\nauthorisations.",
+      "metadata": {
+        "source_line_start": 2119,
+        "source_line_end": 2135
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "authorisations",
+      "content": "Repealed by Act XIX.2024.32.\n\nProcedure when\ntaking a measure\nunder article 34.",
+      "metadata": {
+        "source_line_start": 2136,
+        "source_line_end": 2143
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "under article 34",
+      "content": "Repealed by Act XIX.2024.32.\n\nNotification of\nproposed refusal,\nrevocation,\ncancellation or\nsuspension of an\ninnovative\ntechnology\nauthorisation.",
+      "metadata": {
+        "source_line_start": 2144,
+        "source_line_end": 2156
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "authorisation",
+      "content": "Repealed by Act XIX.2024.32.\n\nPublication of\npolicy guidelines.",
+      "metadata": {
+        "source_line_start": 2157,
+        "source_line_end": 2163
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "policy guidelines",
+      "content": "Repealed by Act XIX.2024.32.",
+      "metadata": {
+        "source_line_start": 2164,
+        "source_line_end": 2171
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART VIII - Enforcement and Sanctions",
+      "section": "39",
+      "title": "Exemptions",
+      "content": "Repealed by Act XIX.2024.33.",
+      "metadata": {
+        "source_line_start": 2172,
+        "source_line_end": 2175
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Exemptions",
+      "content": "(1)\nFor the purposes of the exercise by the Authority\nof any of its functions under this Act or under any other law which\nthe Authority is entitled to administer or enforce, the Authority may,\nas may be applicable in the context and subject to the limitations in\nthe applicable laws on professional secrecy:\n(a)\nenter, at any reasonable time, any premises or\nany other place or any vehicle or vessel where any activity\nregulated by or under this Act or any other law which the\nAuthority is entitled to administer or enforce, takes place, or in\nthe opinion of the Authority takes place, and search and\ninspect the premises, place, vehicle or vessel and any books,\ndocuments or records found therein;\n\nProvision of\ninformation.\nEnforcement\npowers of the\nAuthority.\nAmended by:\nXIX.2024.34.\n\n(b)\nrequire any person to produce for inspection and\ntake extracts or copies from any books, documents or records\nrelating to any activities regulated by or under this Act or any\nother law which the Authority is entitled to administer or\nenforce, which are under the control of that person and, in the\ncase of information in a non-legible form to reproduce it in a\nlegible form, and to give to the Authority such information as\nthe Authority may reasonably require in relation to any entries\nin such books, documents or records;\n(c)\nremove and retain such books, documents or\nrecords for such period as may be reasonable for further\nexamination;\n(d)\nrequire any person to maintain such books,\ndocuments or records for such period as may be reasonable as\nthe Authority directs;\n(e)\nrequire any person to give to the Authority any\ninformation that may be required with regard to any matter\nregulated by or under this Act or any other law the Authority is\nentitled to administer or enforce;\n(f)\nmake such inspections, including site\ninspections, to enable the Authority to carry out its functions at\nlaw and in doing so the Authority may also undertake tests and\nmeasurements of any machinery, apparatus, appliances and\nother equipment at any place as the Authority may consider\nnecessary:\n\nProvided that where the person concerned fails to abide\nwith any requirements made by the Authority under this sub-article,\nthe Authority may then take any such measures as it may consider\nappropriate in the circumstances including the switching off or\nmodification of the use of any such apparatus; and\n(g)\n\ninvestigate any suspected breach of any obligations\narising under the Act or any other law which the\nAuthority is entitled to administer or enforce or any\nEuropean and, or international legislation which is\napplicable in Malta:\n\nProvided that the Authority may initiate investigations on\nits own initiative.\n(2) Any officer of the Authority or any other person duly\nauthorised by the Authority to act on its behalf, when exercising a\npower conferred by this Act or by any other law which the Authority\nis entitled to administer or enforce, shall, if requested by any person\nthereby affected, produce to that person for inspection a certificate\nissued by the Authority stating that he is duly authorised to act for\n\nand on behalf of the Authority.\n(3) In the course of the exercise of any of the powers\nconferred by this Act or by any other law which the Authority is\nentitled to administer or enforce the Authority may request the\nassistance of the Police.\n(4) Any persons who are or have been in charge of the\ninnovative technology falling under the supervisory or regulatory\nfunctions of the Authority, including their representatives and\nemployees, shall assist and shall collaborate with the Authority in\norder to enable it to discharge its functions, and shall collate and\ntransmit without any undue delay such information and\ndocumentation as the Authority may reasonably request from time to\ntime.\n(5)\n\nAny person who -\n\n(a)\nobstructs, impedes or assaults an officer of the\nAuthority or any other person duly authorised by the Authority\nto act on its behalf in the exercise of any of the powers\nconferred by this Act or by any other law which the Authority\nis entitled to administer or enforce;\n(b)\nfails or refuses to comply with a requirement\nunder this article;\n(c)\nalters, suppresses or destroys any books,\ndocuments or records which the person concerned has been\nrequired to produce, or may reasonably expect to be required\nto produce;\n(d)\nfalsely represents himself to be an officer of the\nAuthority or a person authorised by the Authority to act on its\nbehalf; or\n(e)\nfurnishes any information to the Authority which\nit may require in the exercise of its functions under the Act or\nany law it is entitled to administer or enforce, which he knows,\nor has reasonable cause to believe to be false or misleading,\nshall be guilty of an offence against this Act, and shall on conviction\nbe liable to a fine (multa) not exceeding twelve thousand euro\n(€12,000) or to imprisonment for a period not exceeding three\nmonths, or to both such fine and imprisonment.\n(6)\n\nRepealed by Act XIX.2024.34.",
+      "metadata": {
+        "source_line_start": 2176,
+        "source_line_end": 2310
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Repealed by Act XIX.2024.34",
+      "content": "(1)\nExcept where otherwise provided by law, a\nperson shall not knowingly disclose confidential information\nobtained by him while performing the duties of a member of the\nBoard, or of an officer or employee of the Authority or of an adviser\n\nDisclosure of\nconfidential\ninformation.\nAmended by:\nXIX.2024.35.\n\nor consultant to the Authority, unless he is duly authorised by the\nAuthority to do so:\nProvided that any such person shall remain bound by the\nrequirements of this article even after his appointment or\nemployment, howsoever described, with the Authority has come to\nan end.\n(2) In this article \"confidential information\" means any\ninformation, howsoever described, which is considered by the\nAuthority to be confidential, or has been notified of such status by the\nperson providing it, and in relation to which the Authority has\nnotified the persons concerned of their duty of non-disclosure.\n(3) A person who contravenes the provisions of this article\nshall be guilty of an offence against this Act and shall on conviction\nbe liable to a fine (multa) not exceeding ten thousand euro (€10,000).\n(4) Nothing in this article shall prevent the disclosure of any\ninformation to the Authority or, by or on behalf of the Authority to\nthe Minister, or within the context of legal proceedings in court or\narbitration proceedings, or as may be required at law.\nAdministrative\npenalties.\nAmended by:\nXIX.2024.36.",
+      "metadata": {
+        "source_line_start": 2311,
+        "source_line_end": 2354
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "XIX.2024.36",
+      "content": "(1)\nAn administrative penalty imposed shall not,\nunless provided otherwise by or under this Act or any law which the\nAuthority is entitled to enforce, exceed three hundred and fifty\nthousand euro (€350,000) for each infringement or failure to comply\nand, or twelve thousand euro (€12,000) for each day of infringement\nor non-compliance as the case may be:\nProvided that if the act or omission which constitutes an\ninfringement is considered by the Authority as having significant\neffects on the market to the detriment of users, the stated amount that\nmay be imposed as an administrative penalty may be increased to an\namount that is not more than five per cent (5%) of the turnover of the\nundertaking in the calendar year immediately preceding the year\nwhen the infringement was committed:\nProvided further that any daily administrative penalty\nimposed may be back- dated to the date of the commission or\ncommencement of the infringement.\n(2) In determining the amount of an administrative penalty,\nregard shall be had in particular to the nature and the gravity of the\ninfringement, its duration and its impact on the market and on users.\n(3)\n\nInfringements.\nAmended by:\nXIX.2024.37.\n\nRepealed by Act XIX.2024.36.",
+      "metadata": {
+        "source_line_start": 2355,
+        "source_line_end": 2382
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Repealed by Act XIX.2024.36",
+      "content": "Where an infringement of any provision of the Act or\nany other law which the Authority is entitled to administer or enforce\nis committed by a body corporate and is proved to have been\ncommitted with the consent or involvement of or to be attributable to\n\nthe gross negligence on the part of a person being an administrator of\nthe body corporate or a person who was purporting to act in any such\ncapacity, that person, as well as the body corporate, shall be liable to\nbe proceeded against and punished as if he was responsible for the\nsaid infringement.",
+      "metadata": {
+        "source_line_start": 2383,
+        "source_line_end": 2399
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "said infringement",
+      "content": "The prosecution of a criminal offence or the initiation of\nproceedings to impose an administrative penalty under the Act or\nunder any other law which the Authority is entitled to administer or\nenforce shall be prescribed by the lapse of two years from the date on\nwhich the offence or infringement is alleged to have been committed.\n\nPrescription for\noffences and\ninfringements.\nAmended by:\nXIX.2024.38.",
+      "metadata": {
+        "source_line_start": 2400,
+        "source_line_end": 2413
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART IX - Administrative Review Tribunal",
+      "section": "45",
+      "title": "Administrative Review Tribunal",
+      "content": "(1)\nThe Administrative Review Tribunal shall be\ncompetent to hear and determine appeals from decisions of the\nAuthority as provided in this Act or in any law which the Authority is\nentitled to administer or enforce or in any European Union and, or\ninternational legislation applicable to Malta.\n\nAdministrative\nReview Tribunal.\nAmended by:\nXIX.2024.39.\n\n(2) The provisions of the Administrative Justice Act, in so\nfar as they apply to the Administrative Review Tribunal, shall apply\nto any proceedings before the said Tribunal and the words \"public\nadministration\" in the said enactment shall be construed as a\nreference to the Authority.",
+      "metadata": {
+        "source_line_start": 2414,
+        "source_line_end": 2433
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Cap. 490",
+      "content": "(1)\nUnless otherwise provided by law, an appeal\nshall lie to the Tribunal from a decision of the Authority made under\nthis Act, any other decisions that the Authority may take under any\nother law which the Authority is entitled to administer or enforce, and\nany decision taken by or on behalf of Government or by any public\nauthority in relation to or having a substantial bearing on innovative\ntechnology.\n\nAppeals from\ndecisions of the\nAuthority other\nthan the\nimposition of\nadministrative\npenalties.\nAmended by:\nXIX.2024.40.\n\n(2) The right of appeal to the Tribunal shall be competent to\nany person aggrieved by the decision:\nProvided that in any case, a person making an appeal to\nthe Tribunal shall also explain his juridical interest in impugning the\ndecision appealed from.\n(3) An appeal from a decision of the Authority shall be\nmade by application and shall be filed with the Secretary of the\nTribunal within twenty (20) days from the date on which the said\ndecision has been notified.\n(4)\n\nRepealed by Act XIX.2024.40.\n\nAppeals against an\nadministrative\npenalty imposed\nby the Authority.\nAmended by:\nXIX.2024.41.",
+      "metadata": {
+        "source_line_start": 2434,
+        "source_line_end": 2479
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "XIX.2024.41",
+      "content": "(1)\nWithout prejudice to the provisions of this Part,\nthe procedure to be followed in relation to appeals against\nadministrative penalties imposed by the Authority shall be regulated\nby the provisions of this article.\n(2) A person who is notified with a notice in writing given\nunder article 35 may, within twenty (20) days from the date of such\nnotification, lodge an appeal before the Tribunal objecting to the\nadministrative penalty so fixed.\n(3) The Tribunal shall not annul an administrative penalty as\naforesaid unless it results to it that such penalty could not at law be\nimposed in the circumstances of the case, or could not at law be fixed\nin the amount established by the Authority due account being given\nto the principle of proportionality.\n(4) The Tribunal shall, without delay, set down the appeal\nfor hearing at an early date, which date shall in no case be later than\nforty (40) days from the date of the service of the appeal on the\nAuthority.\n(5) The appeal, and the notification of the date fixed for\nhearing, shall be notified to the Authority without delay, and the\nAuthority shall file its reply thereto within twenty (20) days from the\ndate of the notification of the appeal.\n(6) The decision of the Tribunal upon an appeal referred to\nin sub-article (2), confirming the imposition of a fine established by\nthe Authority or reducing any such fine, shall upon becoming res\njudicata be deemed to be a decision of the Tribunal.\n(7)\n\nRepealed by Act XIX.2024.41.\n\nDecisions of the\nAdministrative\nReview Tribunal.\nAmended by:\nXIX.2024.42.",
+      "metadata": {
+        "source_line_start": 2480,
+        "source_line_end": 2515
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Authority",
+      "content": "In determining an appeal the Tribunal shall take into\naccount the merits of the appeal, and may, in whole or in part,\nconfirm or annul the decision appealed from, giving in writing the\nreasons for its decision and shall cause such decision to be made\npublic and communicated to the parties to the appeal.\n\nProcedure of the\nTribunal.\nAmended by:\nXIX.2024.43.",
+      "metadata": {
+        "source_line_start": 2516,
+        "source_line_end": 2526
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "XIX.2024.43",
+      "content": "(1)\nThe Tribunal shall endeavour to determine an\nappeal within one hundred and twenty (120) days from the lapse of\nthe period by when the Authority may file its reply to the aforesaid\nappeal and in any case to deliver its final decision not later than sixty\n(60) days from when the parties declare that they have concluded\nwith their evidence and made their final submissions.\n(2) The Tribunal may, in order to assist it in the exercise of\nits functions, appoint independent and impartial experts to advise it\non any issue that may be relevant to any appeal lodged before it. In\nsuch cases the Tribunal shall be entitled to make both provisional and\nfinal orders in respect of the payment of the costs and fees of such\nexperts by any of the parties to the appeal.\n\n(3) The Minister may, subject to the provisions of this Act,\nby regulations prescribe the procedure to be followed before the\nTribunal, and subject thereto and to any other provisions of this Act,\nthe Tribunal may regulate its own procedure.\n(4) The Minister may by regulation amend any of the\nperiods stated in sub-article (1).",
+      "metadata": {
+        "source_line_start": 2527,
+        "source_line_end": 2553
+      }
+    },
+    {
+      "provision_ref": "s49a",
+      "section": "49A",
+      "title": "periods stated in sub-article (1)",
+      "content": "Any party, who feels aggrieved by a decision of the\nTribunal, may on a point of law and, or of fact appeal to the Court of\nAppeal in accordance with article 22 of the Administrative Justice Act.\n\nAppeal to the\nCourt of Appeal.\nAdded by:\nXIX.2024.44.",
+      "metadata": {
+        "source_line_start": 2554,
+        "source_line_end": 2563
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Appeal in accordance with article 22 of the Administrative Justice Act",
+      "content": "(1)\nThe decision of the Authority, pending an appeal\nwhether before the Tribunal or the Court of Appeal, shall stand and\nshall be adhered to by all the parties to whom the decision applies.\n\nStatus of decision\nor directive\npending an appeal\nbefore the Tribunal\nor the Court of\nAppeal.\nAmended by:\nXIX.2024.45.\n\n(2) The Tribunal or the Court of Appeal, as the case may be,\nwhere it considers it to be appropriate, may, on the application of a\nparty to the appeal, suspend in whole or in part the decision which is\nthe subject of the appeal pending the final determination of the\nappeal. The Tribunal or the Court of Appeal in deciding whether or\nnot to suspend the decision shall state its reasons and shall take into\naccount all the relevant circumstances, including (a)\n\nthe urgency of the matter;\n\n(b)\nthe effect on the party making the request if the\napplication for suspension is not upheld; and\n(c)\nthe effect on competition and, or on users of\ninnovative technology if the application is upheld:\nProvided that a party, in making an application under\nthis article, shall state the factual and legal grounds establishing a\nprima facie case for the suspension of the decision. The Tribunal or\nthe Court of Appeal, as the case may be, shall on receipt of any such\napplication order the notification thereof to the other party or parties\nto the appeal affording them reasonable opportunity to make their\nresponse thereto:\nProvided further that the Tribunal, in determining any\nsuch application, may include such conditions as it considers\nnecessary in the circumstances.",
+      "metadata": {
+        "source_line_start": 2564,
+        "source_line_end": 2603
+      }
+    },
+    {
+      "provision_ref": "s50a",
+      "section": "50A",
+      "title": "necessary in the circumstances",
+      "content": "In cases where the Tribunal or the Court of Appeal, as\nthe case may be, after having upheld an application to suspend an\nadministrative penalty imposed by the Authority pending\nproceedings, decides that the administrative penalty is due, such\nadministrative penalty shall be due together with any interests\naccrued thereon as from the date specified by the Authority for\npayment, including the period during which the payment of the said\n\nAccrual of interest.\nAdded by:\nXIX.2024.46.\n\nadministrative penalty was suspended.\nService of notices.\nAmended by:\nXIX.2024.47.",
+      "metadata": {
+        "source_line_start": 2604,
+        "source_line_end": 2627
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "XIX.2024.47",
+      "content": "Where a notice, howsoever described, is required to be\ngiven by the Authority to any person whether under this Act or under\nany other law administered by the Authority, the notice shall be\naddressed to that person and shall be given to the person in any of the\nfollowing ways:\n(a)\n\nby delivering it to the person;\n\n(b)\nby leaving it at the address at which the person\nordinarily resides or carries on business;\n(c)\nby sending it by registered post to the person at\nthe address at which the person ordinarily resides or carries on\nbusiness;\n(d)\nif an address for the service of notices has been\nprovided by the person, by leaving it at such address, or\nsending it by registered post addressed to the person to that\naddress;\n(e)\nin any case that the Authority deems it necessary\nto send the notice by means of electronic mail, to the electronic\nmail address provided by the addressee to the Authority,\nprovided that the notice shall not be deemed as delivered if the\nAuthority receives an automated electronic mail delivery failure\nmessage, indicating that the electronic mail was not delivered:\nProvided that the provisions of this paragraph\nshall not apply to the service of documents filed before the\nTribunal or any Court.\nProceedings for\ndebts due to the\nAuthority.\nAmended by:\nXIX.2024.48.",
+      "metadata": {
+        "source_line_start": 2628,
+        "source_line_end": 2664
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Tribunal or any Court",
+      "content": "(1)\nWhen the Authority wants to sue for the\nrecovery of a debt due to the Authority under the Act or any other law\nwhich it is entitled to administer or enforce or under European Union\nand, or international legislation applicable to Malta, the Chairperson\nor the Chief Executive Officer or an officer of the Authority duly\nauthorised by the Authority to act on its behalf may make a\ndeclaration on oath before the registrar of the Courts, a Judge or a\nMagistrate wherein he specifies the nature of the debt and the details\nof the debtor and confirms that the debt is due.\n(2) The declaration referred to in sub-article (1) shall be\nserved upon the debtor by means of a judicial act and it shall have the\nsame effect as a final judgement of the competent court unless the\ndebtor shall, within a period of twenty (20) days from service upon\nhim of the said declaration, oppose the claim by filing an application\ndemanding that the court declare the claim unfounded.\n(3) The application filed in terms of sub-article (2) shall be\nserved upon the Authority, which shall be entitled to file a reply\n\nwithin a period of twenty (20) days. The court shall appoint the\napplication for hearing on a date after the lapse of that period.\n(4) Any debts due to the Authority in accordance with this\narticle shall be prescribed by the lapse of the period of five (5) years\nfrom the date on which the debt was due.",
+      "metadata": {
+        "source_line_start": 2665,
+        "source_line_end": 2695
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "from the date on which the debt was due",
+      "content": "(1)\nNo person shall make or cause to be made any\nadvertisement or other representation, in any visual or aural form,\nwhether the advertisement is made in Malta or otherwise, either\nspecifically or by implication, to the effect that:\n(a)\nany innovative technology has the recognition of\nthe Authority, if this is not the case;\n\nName of the\nAuthority not to be\nused in any\nadvertisement and\nprohibition of\nmisrepresentation.\nAmended by:\nXIX.2024.49.\n\n(b)\nany activity carried out by any person or provided\nby or on an innovative technology has the recognition or is\nconducted with the co-operation or assistance of the Authority,\nif this is not the case; or\n(c)\nany activity is being carried out in, or from Malta\nin accordance with the regulatory framework applicable to\ninnovative technology when the relevant product, solution or\nservice is not recognised by the Authority;\nor similar statements based on the circumstances from time to time,\nand in case of breach such person shall be guilty of an offence under\nthis article.\n(2) In relation to persons recognised by the Authority, the\nprovisions of sub-article (1) shall not apply when an advertisement or\nother representation is issued with the prior written consent or\ninstructions of the Authority, or is permitted in general guidelines\nissued by the Authority on the subject matter, and shall constitute an\noffence only if a misrepresentation is made regarding the Authority,\nor any recognition granted by it, to an innovative technology.\n(3) It shall be incumbent on the issuer of an advertisement\nto expressly state in such advertisement that the product, solution or\nservice does not enjoy recognition by the Authority and shall not give\nthe contrary impression under any circumstances if:\n(a)\n\nan innovative technology is being administered and\noperated in or from Malta, or is being provided in\nor from Malta;\n\n(b)\n\nreference is made to such fact in an advertisement;\nand\n\n(c)\n\nthe product, solution or service is not recognised by\nthe Authority in any form, as the case may be.\n\n(4) Should the Authority become aware of a breach of subarticle (3), the Authority shall have the power to issue a notice under\nthis article to the issuer of the advertisement or the persons involved\nin relation to the relevant innovative technology, demanding\ncompliance with the said sub-article and the relevant person shall be\nobliged to correct the same within the time stipulated by the\nAuthority failing which he shall be guilty of an offence under this\narticle.\n(5) Where the name, trade name, trademark or the\ndesignation of any innovative technology appears in relation to a\nrepresentation referred to in sub-article (1) or (2), that person shall be\ndeemed for the purposes of this article to have caused the\nrepresentation to be made unless such person proves that the\nrepresentation was made without his knowledge or connivance.\n(6) A person convicted under this article shall be liable to a\nfine (multa) of:\n(a)\nnot less than five thousand euro (€5,000) and\nnot more than ten thousand euro (€10,000) if the person enjoys\nrecognition by the Authority; and\n(b)\nnot less than fifty thousand euro (€50,000) and\nnot more than one hundred thousand euro (€100,000) if the\nperson does not enjoy recognition by the Authority.\nExemption from\ntaxes.",
+      "metadata": {
+        "source_line_start": 2696,
+        "source_line_end": 2795
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "taxes",
+      "content": "Repealed by Act XIX.2024.50.",
+      "metadata": {
+        "source_line_start": 2796,
+        "source_line_end": 2806
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "authorities",
+      "content": "Repealed by Act XIX.2024.51.\n\nNo duplication of\ncontrols and\nsimplification of\nprocedures.",
+      "metadata": {
+        "source_line_start": 2807,
+        "source_line_end": 2815
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "procedures",
+      "content": "Repealed by Act XIX.2024.51.\n\nJoint Regulatory\nEfficiency Board.",
+      "metadata": {
+        "source_line_start": 2816,
+        "source_line_end": 2822
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Efficiency Board",
+      "content": "Repealed by Act XIX.2024.51.",
+      "metadata": {
+        "source_line_start": 2823,
+        "source_line_end": 2836
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Efficiency Board",
+      "content": "(1)\nThe Minister may, without prejudice to the\npowers of the Authority, and acting on the advice of the Authority\nmake regulations to give fuller effect to the provisions of the Act, or\nto prescribe anything that is to be or which may be prescribed in\nterms of the Act, any law which the Authority is entitled to\nadminister or enforce or any European Union and, or international\n\nlegislation which is applicable to Malta or any other regulatory\ninstrument and to provide for any matter consequential, incidental to\nor connected therewith.\n(2) Without prejudice to the generality of the foregoing, the\nMinister may, by such regulations:\n(a)\n\n(i)\ndefine and empower the Authority to\ndefine products, solutions and services that may be\nregulated under the Act;\n(ii)\nregulate recognition processes in\naccordance with the Act or any other law which the\nAuthority is entitled to administer or enforce or any\nEuropean Union and, or international legislation\napplicable to Malta; and the overall requirements\nand conditions for such recognitions, their grant,\namendment, renewal, suspension, revocation and\ntermination and other similar actions and to further\nempower the Authority to lay down any such\nrequirements and conditions;\n\n(b)\nempower the Authority to regulate and issue\nrecognition to persons engaged in activities falling within the\ncompetence of the Authority, the Act or any other law which\nthe Authority has the power to administer or enforce or any\nEuropean Union and, or international legislation, and all\nmatters relating thereto, including the qualifications and\nelements to provide innovative technology as well as the\nexemption of certain persons or categories of persons from any\nor all of the requirements for recognition;\n(c)\nestablish methods of review relating to the\nprocesses and procedures adopted by the Authority in carrying\nout its functions;\n(d)\nprovide for any administrative penalties that may\nbe imposed by the Authority for any breach of the provisions\nof the Act or any other law which the Authority is entitled to\nadminister or enforce or any European Union and, or\ninternational legislation applicable to Malta;\n(e)\nimplement any international convention or any\nEU Regulation or Directive, to the extent necessary, to which\nMalta has adhered to in the context of the innovative\ntechnology sector;\n(f)\nlay down rules establishing any fees and tariffs\nwhich may be levied by the Authority;\n(g)\n\nlay down rules, provide for and clarify the\n\npowers of the Authority for the better carrying out of any of\nthe provisions of this Act;\n(h)\namend, repeal, add to and, or vary any of the\nSchedules to the Act and any regulations made thereunder;\n(i)\nestablish rules and empower the Authority to\nprescribe rules and to achieve the purposes of the Act, and the\neffective administration of the Act and, or any other law which\nthe Authority is empowered to administer or enforce or any\nEuropean Union and, or international legislation having effect\nin Malta;\n(j)\nestablish rules and empower the Authority to\nprescribe rules for the mutual recognition of recognitions\nissued by other national, foreign or international authorities or\nbodies;\n(k)\nissue further guidance and empower the\nAuthority to issue further guidance regarding the form,\naccessibility and minimum contents of information that shall\nbe made available to users of innovative technology;\n(l)\ndefine and empower the Authority to define\ndifferent levels of recognition that may be obtained in relation\nto innovative technology;\n(m)\ntechnology\n\nfurther regulate recognitions of innovative\n\n(n)\nfurther regulate the recognition of innovative\ntechnology service providers, including the level of\nindependence and other qualities, if any, that are required for\nthe carrying out of their functions and the definition of such\nterms;\n(o)\ndefine the criteria for determining whether the\nsystems and security access protocols of applicants or\nrecognition holders, as applicable, meet or are maintained to\nthe appropriate international standards that may be established\nfrom time to time;\n(p)\nprescribe rules for the notification of any\nactivities in or from Malta, or relating to innovative\ntechnology which are accessible through the website of the\nAuthority, including when the innovative technology already\nhas the recognition in another country;\n(q)\nestablish the circumstances and empower the\nAuthority to establish the circumstances in which any person\ninvolved in connection with a recognition holder, including\n\nany service provider is obliged to communicate information to\nthe Authority, prescribe regulations governing the disclosure\nof information by service providers and establish supervisory\nand disciplinary procedures for service providers in respect of\ntheir duties;\n(r)\nextend any provisions of the Act, including but\nnot limited to, the right to an effective judicial remedy to any\nform of innovative technology;\n(s)\nby regulations made under the Act amend any\nSchedule made under the Act;\n(t)\nclarify by means of guidelines any definition in\nsub-article (1) of article 2;\n(u)\nempower and designate the Authority as a\ncompetent authority and, or supervisory authority and, or\nmarket surveillance authority in relation to innovative\ntechnology, data or any other area, as may be prescribed by the\nMinister;\n(v)\ngrant to the Authority the power to issue\nrecognitions, create processes and structures, facilitate and\ngenerate data sharing by natural or legal persons and the public\nsector; and\n(w)\nprescribe fees in consultation with the Minister\nresponsible for finance.\nThe Minister may direct or authorise the Authority to establish\nall necessary details to meet any of the above requirements and\nconditions by way of guidelines and other binding regulatory\ninstruments to be issued by the Authority under article 6 which shall\nbe ancillary to or independent of any regulations made under the above\npowers.\n(3) Regulations made under this article may be made\nsubject to such exemptions or conditions as may be specified therein,\nmay make different provision for different cases, circumstances or\npurposes and may give to the Authority such powers of adaptation of\nthe regulations as may also be so specified.\n(4) Where regulations have been made in terms of this\narticle, the Authority may issue guidelines for the better carrying out\nand to better implement the provisions of such regulations.\n(5) Without prejudice to the generality of the foregoing, the\nMinister may, acting on the advice of the Authority, and in\nconjunction with the Minister for Finance, make regulations\nproviding for the taxation of the activities of and transactions\n\ninvolving innovative technology and any other matter related thereto.\n(6)\nThe Minister shall, with the support of the Authority,\npromote initiatives, including the establishment of structures\ndedicated to the purpose, for the review of all the laws of Malta in\norder to ensure that such laws are rendered compatible and consistent\nwith innovative technology in order to achieve the best outcomes and\necosystem for the use of such innovative technology.\n(7) Regulations made under this Act, and any amendment or\nrevocation of such regulations, may be published in the English\nlanguage only.\nConflict between\ntexts.",
+      "metadata": {
+        "source_line_start": 2837,
+        "source_line_end": 3042
+      }
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "texts",
+      "content": "In this Act and in any regulations made thereunder, if\nthere is any conflict between the English and Maltese texts, the\nEnglish text shall prevail.\n\nSubstituted by:\nXIX.2024.53.\n\n(article 2)\nInnovative Technology\n(a)\n\nartificial intelligence;\n\n(b)\n\"distributed ledger technology\" and \"decentralised ledger\ntechnology (DLT)\";\n(c)\n\ninternet of things.\n\n[Article 5(4)(d)]\nRegulatory laws\nRepealed by Act XIX.2024.54.",
+      "metadata": {
+        "source_line_start": 3043,
+        "source_line_end": 3070
+      }
     }
   ],
   "definitions": [
     {
-      "term": "innovative technology arrangement",
-      "definition": "Software and architecture used in designing and delivering distributed ledger technology, including related applications, and other technology architectures that rely on distributed governance and use cryptographic methods to verify and secure transactions or other data.",
-      "source_provision": "art3"
+      "term": "the Act",
+      "definition": "the Malta Digital Innovation Authority",
+      "source_provision": "s2"
     },
     {
-      "term": "system administrator",
-      "definition": "A person recognised by MDIA as qualified and authorised to carry out specified functions in relation to certified innovative technology arrangements.",
-      "source_provision": "art5"
+      "term": "Authority",
+      "definition": "the Malta Digital Innovation",
+      "source_provision": "s2"
     },
     {
-      "term": "regulatory sandbox",
-      "definition": "A controlled environment operated by MDIA in which operators may test innovative products, services, and business models under regulatory oversight and with specified exemptions from or modifications to applicable regulatory requirements.",
-      "source_provision": "art7"
+      "term": "Board",
+      "definition": "the Board of Governors of the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "powers of the Authority",
+      "definition": "the powers of the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recognition",
+      "definition": "any form of recognition including a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Administrative Review Tribunal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security by design",
+      "definition": "measures adopted at the",
+      "source_provision": "s4"
+    },
+    {
+      "term": "security by default",
+      "definition": "the default",
+      "source_provision": "s4"
+    },
+    {
+      "term": "or by",
+      "definition": "of the use of innovative",
+      "source_provision": "s4"
+    },
+    {
+      "term": "land or",
+      "definition": "of transport",
+      "source_provision": "s6a"
+    },
+    {
+      "term": "where no other effective",
+      "definition": "are available to",
+      "source_provision": "s6a"
+    },
+    {
+      "term": "in any case that the Authority deems it necessary to send the notice by",
+      "definition": "of electronic mail, to the electronic",
+      "source_provision": "s51"
+    },
+    {
+      "term": "shall be served upon the debtor by",
+      "definition": "of a judicial act and it shall have the",
+      "source_provision": "s52"
+    },
+    {
+      "term": "clarify by",
+      "definition": "of guidelines any definition in",
+      "source_provision": "s58"
     }
   ]
 }

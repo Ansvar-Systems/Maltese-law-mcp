@@ -1,30 +1,23 @@
 #!/usr/bin/env tsx
 /**
- * Maltese Law MCP -- Ingestion Pipeline
+ * Maltese Law MCP -- Real-data ingestion pipeline.
  *
- * Fetches Maltese legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Maltese Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Maltese legislation is public domain under Art. 4 of the Copyright Act
+ * Source of truth: legislation.mt (official Maltese legal portal, ELI pages)
+ * Extraction method: ELI page metadata + official PDF text (pdftotext)
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseMalteseHtml, KEY_MALTESE_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { execFileSync } from 'child_process';
+
+import { fetchBufferWithRateLimit, fetchTextWithRateLimit } from './lib/fetcher.js';
+import {
+  buildParsedAct,
+  parseEliMetadata,
+  type CorpusEntry,
+  type ParsedAct,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,18 +25,83 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+const CORPUS: CorpusEntry[] = [
+  {
+    id: 'mt-data-protection',
+    seedFile: '01-data-protection.json',
+    shortName: 'DPA',
+    eliPath: 'cap/586',
+  },
+  {
+    id: 'mt-nis-regulations',
+    seedFile: '02-nis-regulations.json',
+    shortName: 'NIS',
+    eliPath: 'sl/460.35',
+  },
+  {
+    id: 'mt-electronic-communications',
+    seedFile: '03-electronic-communications.json',
+    shortName: 'ECRA',
+    eliPath: 'cap/399',
+  },
+  {
+    id: 'mt-electronic-commerce',
+    seedFile: '04-electronic-commerce.json',
+    shortName: 'ECA',
+    eliPath: 'cap/426',
+  },
+  {
+    id: 'mt-mdia-act',
+    seedFile: '05-mdia-act.json',
+    shortName: 'MDIA',
+    eliPath: 'cap/591',
+  },
+  {
+    id: 'mt-virtual-financial-assets',
+    seedFile: '06-virtual-financial-assets.json',
+    shortName: 'VFA',
+    eliPath: 'cap/590',
+  },
+  {
+    id: 'mt-information-technology-framework',
+    seedFile: '07-information-technology-framework.json',
+    shortName: 'ITAS-ACT',
+    eliPath: 'cap/592',
+  },
+  {
+    id: 'mt-critical-infrastructure',
+    seedFile: '08-critical-infrastructure.json',
+    shortName: 'CRI-ORDER',
+    eliPath: 'sl/460.43',
+  },
+  {
+    id: 'mt-technology-services',
+    seedFile: '09-technology-services.json',
+    shortName: 'ITAS-CERT',
+    eliPath: 'sl/591.1',
+  },
+  {
+    id: 'mt-freedom-of-information',
+    seedFile: '10-freedom-of-information.json',
+    shortName: 'FOI',
+    eliPath: 'cap/496',
+  },
+];
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface Args {
+  limit: number | null;
+  skipFetch: boolean;
+}
+
+function parseArgs(): Args {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
+      limit = Number.parseInt(args[i + 1], 10);
+      i += 1;
     } else if (args[i] === '--skip-fetch') {
       skipFetch = true;
     }
@@ -52,132 +110,153 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Maltese Acts from api.sejm.gov.pl...\n`);
-
+function ensureDirs(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+function runPdfToText(pdfPath: string, txtPath: string): void {
+  execFileSync('pdftotext', [pdfPath, txtPath], { stdio: 'pipe' });
+}
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+function readJsonIfExists<T>(filePath: string): T | null {
+  if (!fs.existsSync(filePath)) return null;
+  return JSON.parse(fs.readFileSync(filePath, 'utf8')) as T;
+}
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
+async function ingestOne(entry: CorpusEntry, skipFetch: boolean): Promise<{
+  status: string;
+  provisions: number;
+  definitions: number;
+}> {
+  const pageUrl = `https://legislation.mt/eli/${entry.eliPath}/eng/pdf`;
+  const htmlPath = path.join(SOURCE_DIR, `${entry.id}.html`);
+  const pdfPath = path.join(SOURCE_DIR, `${entry.id}.pdf`);
+  const txtPath = path.join(SOURCE_DIR, `${entry.id}.txt`);
+  const seedPath = path.join(SEED_DIR, entry.seedFile);
+
+  if (skipFetch && fs.existsSync(seedPath)) {
+    const existing = readJsonIfExists<ParsedAct>(seedPath);
+    if (existing) {
+      return {
+        status: 'cached',
+        provisions: existing.provisions?.length ?? 0,
+        definitions: existing.definitions?.length ?? 0,
+      };
     }
-
-    try {
-      let html: string;
-
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseMalteseHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
-    }
-
-    processed++;
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Maltese Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  let html: string;
+  if (skipFetch && fs.existsSync(htmlPath)) {
+    html = fs.readFileSync(htmlPath, 'utf8');
+  } else {
+    process.stdout.write(`  Fetching ELI page: ${entry.id} ...`);
+    const page = await fetchTextWithRateLimit(pageUrl);
+    if (page.status !== 200) {
+      return { status: `HTTP ${page.status} (page)`, provisions: 0, definitions: 0 };
+    }
+    html = page.body;
+    fs.writeFileSync(htmlPath, html);
+    console.log(' OK');
   }
-  console.log('');
+
+  const meta = parseEliMetadata(html, entry.eliPath);
+  const pdfUrl = `https://legislation.mt/getpdf/${meta.snapshotId}`;
+
+  if (!(skipFetch && fs.existsSync(pdfPath))) {
+    process.stdout.write(`  Fetching PDF: ${entry.id} (${meta.snapshotId}) ...`);
+    const pdf = await fetchBufferWithRateLimit(pdfUrl);
+    if (pdf.status !== 200) {
+      return { status: `HTTP ${pdf.status} (pdf)`, provisions: 0, definitions: 0 };
+    }
+    fs.writeFileSync(pdfPath, pdf.body);
+    console.log(` OK (${(pdf.body.length / 1024).toFixed(0)} KB)`);
+  }
+
+  runPdfToText(pdfPath, txtPath);
+  const pdfText = fs.readFileSync(txtPath, 'utf8');
+
+  const parsed = buildParsedAct(entry, meta, pdfText);
+  if (parsed.provisions.length === 0) {
+    return { status: 'NO_PROVISIONS', provisions: 0, definitions: 0 };
+  }
+
+  fs.writeFileSync(seedPath, `${JSON.stringify(parsed, null, 2)}\n`);
+
+  return {
+    status: 'OK',
+    provisions: parsed.provisions.length,
+    definitions: parsed.definitions.length,
+  };
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
+  ensureDirs();
 
-  console.log('Maltese Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Maltese Copyright Act)`);
+  const docs = limit ? CORPUS.slice(0, limit) : CORPUS;
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  console.log('Maltese Law MCP -- Real Ingestion');
+  console.log('=================================');
+  console.log(`Source: legislation.mt (official ELI + PDF)`);
+  console.log(`Corpus size: ${docs.length}`);
+  if (limit) console.log(`Limit: ${limit}`);
+  if (skipFetch) console.log('Mode: --skip-fetch');
+  console.log('');
 
-  const acts = limit ? KEY_MALTESE_ACTS.slice(0, limit) : KEY_MALTESE_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+  let failed = 0;
+
+  const report: Array<{
+    id: string;
+    provisions: number;
+    definitions: number;
+    status: string;
+  }> = [];
+
+  for (const entry of docs) {
+    try {
+      const result = await ingestOne(entry, skipFetch);
+      totalProvisions += result.provisions;
+      totalDefinitions += result.definitions;
+      if (result.status !== 'OK' && result.status !== 'cached') failed += 1;
+      report.push({
+        id: entry.id,
+        provisions: result.provisions,
+        definitions: result.definitions,
+        status: result.status,
+      });
+      if (result.status === 'OK' || result.status === 'cached') {
+        console.log(`    -> ${entry.id}: ${result.provisions} provisions, ${result.definitions} definitions`);
+      } else {
+        console.log(`    -> ${entry.id}: ${result.status}`);
+      }
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      failed += 1;
+      report.push({ id: entry.id, provisions: 0, definitions: 0, status: `ERROR: ${message.slice(0, 90)}` });
+      console.log(`    -> ${entry.id}: ERROR ${message}`);
+    }
+  }
+
+  console.log(`\n${'='.repeat(88)}`);
+  console.log('Ingestion report');
+  console.log('='.repeat(88));
+  console.log(`Processed: ${docs.length}`);
+  console.log(`Failed: ${failed}`);
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+  console.log('');
+  console.log(`${'Document'.padEnd(34)} ${'Provisions'.padStart(10)} ${'Definitions'.padStart(12)} ${'Status'.padStart(20)}`);
+  console.log(`${'-'.repeat(34)} ${'-'.repeat(10)} ${'-'.repeat(12)} ${'-'.repeat(20)}`);
+  for (const row of report) {
+    console.log(`${row.id.padEnd(34)} ${String(row.provisions).padStart(10)} ${String(row.definitions).padStart(12)} ${row.status.padStart(20)}`);
+  }
+
+  if (failed > 0) {
+    process.exitCode = 1;
+  }
 }
 
 main().catch(error => {

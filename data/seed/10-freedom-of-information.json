@@ -1,132 +1,493 @@
 {
   "id": "mt-freedom-of-information",
   "type": "statute",
-  "title": "Freedom of Information Act (Cap. 496)",
+  "title": "Freedom of Information Act",
   "title_en": "Freedom of Information Act",
-  "short_name": "FOIA",
+  "short_name": "FOI",
   "status": "in_force",
-  "issued_date": "2012-09-01",
-  "in_force_date": "2012-09-01",
-  "url": "https://legislation.mt/eli/cap/496/eng/pdf",
-  "description": "The Freedom of Information Act (Cap. 496) establishes the right of members of the public to access official documents held by public authorities in Malta, subject to specified exceptions protecting national security, personal privacy, commercial confidentiality, and other legitimate interests. The Act designates the Information and Data Protection Commissioner as the supervisory authority, establishes the procedure for making and responding to access requests, and provides for an internal review and appeal process. The Act promotes transparency and accountability in public administration and complements the open data framework.",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2009-07-31",
+  "url": "https://legislation.mt/eli/cap/496/20130101/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/496/20130101/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
       "section": "1",
-      "title": "Article 1. Right of Access",
-      "content": "Every person shall have the right to access official documents held by public authorities in accordance with the provisions of this Act, subject to applicable exceptions and limitations. The right of access applies to documents existing at the time of the request and held by the public authority to which the request is addressed, including documents created by the public authority, documents received from other persons or authorities, and documents held on behalf of another authority. The right of access is subject to the principle that the disclosure of official information serves the public interest in transparency and accountability, and shall be interpreted broadly. Restrictions on access shall be interpreted narrowly and applied only to the extent necessary to protect the interests specified in this Act."
+      "title": "September, 2012 - see article 1(2) of this Act, as originally promulgated, and Legal Notice 156 of 2012",
+      "content": "Act.\n\n(1)\n\nThe short title of this Act is Freedom of Information\n\n(2) This Act shall come into force on such a date as the\nMinister may by notice in the Gazette appoint, and different dates\nmay be so appointed for different provisions or different purposes\nof this Act.\nInterpretation.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 75
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Definitions",
-      "content": "In this Act, 'official document' means any document, record, file, or other information held by a public authority, in whatever format or medium, including electronic documents, photographs, audio-visual material, and databases; 'public authority' means any Ministry, Department, Government entity, agency, or local council exercising public functions; 'requestor' means any natural or legal person making a request for access to an official document under this Act; 'administrative head' means the most senior civil servant responsible for the day-to-day administration of a public authority; 'the Commissioner' means the Information and Data Protection Commissioner, who is designated as the supervisory authority under this Act."
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires:\n\n\"applicant\" means, in relation to a request for the disclosure of a\ndocument in accordance with article 3, the person who made that\nrequest;\n\n\"Commissioner\" means the Information and Data Protection\nCommissioner appointed in terms of article 11 of the Data\nProtection Act;\n\"decision notice\" has the meaning given by article 23;\n\"document\" means any article that is held by a public authority\nand on which information has been recorded in whatever form,\nincluding electronic data, images, scale models and other visual\nrepresentations, and audio or video recordings, regardless of\nwhether the information can be read, seen, heard or retrieved with\nor without the aid of any other article or device;\n\"eligible person\" means a person who is resident in Malta and\nwho has been so resident in Malta for a period of at least five years,\nand who is either a citizen of Malta or a citizen of any other\nmember state of the European Union or a citizen of any other state\nthe citizens of which have a right, in virtue of any treaty between\nsuch state and the European Union, to be treated in Malta in the\nsame manner as citizens of member states of the European Union;\n\"enforcement notice\" has the meaning given by article 25;\n\n\"European Union\" has the meaning given by the European Union\nAct;\n\"exempt document\" means a document which is not subject to\ndisclosure under this Act in accordance with Parts V and VI;\n\"exempt matter\" means matter the inclusion of which in a\ndocument causes the document to be an exempt document;\n\"information notice\" has the meaning given by article 24;\n\"Minister\" means the Minister responsible for freedom of\ninformation and data protection;\n\n\"Principal Permanent Secretary\" means the officer appointed in\nterms of article 14 of the Public Administration Act;\n\"public authority\" means:\n(a) the Government, including any ministry or department\nthereof;\n\n(b) a Government agency established in terms of the\nPublic Administration Act or any other law; and\n(c) any body established under any law, or any partnership\nor other body in which the Government of Malta, a\nGovernment agency or any such body as aforesaid has\na controlling interest or over which it has effective\ncontrol;\n\n\"relevant public authority\" means a public authority other than\nthose mentioned in article 5;\n\"Tribunal\" means the Information and Data Protection Appeals\nTribunal established under article 24 of the Data Protection Act.",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 147
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. Proactive Disclosure",
-      "content": "Public authorities shall proactively make available to the public, without the need for a formal request, categories of information that are of broad public interest. Categories of information subject to proactive disclosure include: general information about the public authority, its structure, functions, and senior staff; information on decision-making processes and criteria applied; policies, strategies, and plans of the public authority; statistics and research produced by the public authority; information on public procurement and contracts above specified thresholds; and any other categories specified by the Minister. Public authorities shall publish proactively disclosed information on their official websites and shall update it regularly to ensure it remains current and accurate."
+      "title": "Tribunal established under article 24 of the Data Protection Act",
+      "content": "Any eligible person has a right of access to documents held\nby public authorities in accordance with and subject to the\nprovisions of this Act.\n\nRight of access to\nofficial documents.",
+      "metadata": {
+        "source_line_start": 148,
+        "source_line_end": 155
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. Making a Request",
-      "content": "A request for access to an official document may be made in writing or through any other medium accepted by the public authority, including electronic means. Requests shall identify the official document or the subject matter of the document sought with sufficient clarity to enable the public authority to identify and locate the relevant document. Requestors shall not be required to state reasons for their request and shall not be required to provide personal identification beyond what is necessary for the processing of the request and the provision of a response. Public authorities shall provide assistance to requestors who are unable to formulate their request in writing or who need assistance in identifying the relevant document."
+      "title": "Tribunal established under article 24 of the Data Protection Act",
+      "content": "Nothing in this Act shall be construed as preventing public\nauthorities from publishing or granting access to documents\n(including exempt documents) otherwise than as required by this\nAct.\n\nAccess to\ndocuments other\nthan through this\nAct.",
+      "metadata": {
+        "source_line_start": 156,
+        "source_line_end": 166
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. Processing of Requests",
-      "content": "Public authorities shall acknowledge receipt of requests for access to official documents without undue delay and shall respond to requests within twenty working days of receipt. Where a request relates to a very large volume of documents or is particularly complex, the public authority may extend this period by a further twenty working days, subject to notification of the requestor. The response to a request shall either grant access to the document in the form requested or, where access is refused wholly or partly, provide reasons for the refusal and inform the requestor of the available review and appeal mechanisms. Public authorities shall apply a presumption in favour of disclosure and shall consider partial disclosure where a document contains both disclosable and non-disclosable information."
+      "title": "Act",
+      "content": "(1) Subject to sub-article (2), this Act shall not apply to\ndocuments that -\n\nApplication of this\nAct.\n\n(a) are held by a Local Council and are accordingly\nsubject to article 45 of the Local Government Act;\n(b) are subject to the Freedom of Access to Information on\nthe Environment Regulations or to any other\nregulations made under the Environment Protection\nAct and providing for freedom of access to\ninformation;\n(c) have been transferred to the National Archives in\naccordance with the National Archives Act;\n(d) are accessible to the public under any other law;\n(e) are available for purchase by the public in accordance\nwith arrangements made by a public authority; or\n(f) are held by a commercial partnership in which the\nGovernment or another public authority has a\ncontrolling interest, in so far as the documents in\nquestion relate to the commercial activities of the\ncommercial partnership.\n\n(2) This Act shall apply to documents to which subarticle (1)\nrefers only in so far as may be provided for by any law governing\naccess to such documents.\n(3) This Act shall not apply to documents in so far as such\ndocuments contain (a) personal data subject to the Data Protection Act; or\n(b) information the disclosure of which is prohibited by\nany other law:\nProvided that where it is possible to release a document\nwith such data or information deleted, this shall be done in\n\nCAP. 496.]\n\naccordance with article 13(1) and (2).\n(4)\n\nThis Act shall not apply to documents held by:\n(a)\n(b)\n(c)\n(d)\n(e)\n(f)\n(g)\n\nthe Electoral Commission;\nthe Employment Commission;\nthe Public Service Commission;\nthe Office of the Attorney General;\nthe National Audit Office;\nthe Security Service; or\nthe Broadcasting Authority, in so far as such\ndocuments relate to its functions under article 119(1)\nof the Constitution; or\n(h) the Ombudsman.",
+      "metadata": {
+        "source_line_start": 167,
+        "source_line_end": 247
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Exceptions to the Right of Access",
-      "content": "Access to official documents may be refused where disclosure would reasonably be expected to cause substantial harm to: national security, defence, or international relations; the prevention, detection, or investigation of offences; personal privacy, where the document contains personal data whose disclosure is not authorised under applicable data protection law; commercial confidentiality, including trade secrets and confidential business information; internal deliberative processes of public authorities, where premature disclosure would substantially inhibit free and frank discussion; the effective administration of justice or legal proceedings; the financial, monetary, or economic interests of the State; or the safety of persons. Exceptions shall be applied only where the harm is clearly established and the public interest in non-disclosure outweighs the public interest in access."
+      "title": "L.N. 426 of 2012",
+      "content": "(1) An applicant’s request to a public authority in terms of\narticle 3 shall (a) be delivered in writing, including by post or\nelectronically, subject to paragraph (e), to an office of\nthe public authority; and\n(b) provide such information concerning the document as\nis reasonably necessary to enable a responsible officer\nof the public authority to identify it; and\n(c) include a copy of the applicant’s legally valid\nidentification document or residence permit, or make\nreference to a legally valid identification document or\nresidence permit in such a way as may be specified by\nregulations issued under article 42(a);\n(d) specify a postal address at which notices under this\nAct may, if necessary, be sent to the applicant; and\n(e) be accompanied by any fee payable in accordance with\narticle 9(3).\n(2) No applicant shall be required to justify or give any reasons\nfor a request under this Act, and any beliefs of public authorities as\nto what are the applicant’s reasons for seeking access shall not\naffect that request.\n\nPublic authority’s\nduty to assist\napplicants.",
+      "metadata": {
+        "source_line_start": 248,
+        "source_line_end": 272
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Public Interest Override",
-      "content": "Even where an exception applies, access shall be granted where the public interest in disclosure clearly outweighs the public interest in non-disclosure. The public interest in disclosure shall be considered to be particularly strong where the document relates to evidence of wrongdoing, corruption, or maladministration by a public authority; the health, safety, or welfare of the public; the environment; or the use of public funds. The public interest override shall be assessed by the administrative head of the public authority in light of the specific circumstances of each request, taking into account the nature and extent of the potential harm and the significance of the public interest served by disclosure."
+      "title": "applicants",
+      "content": "Where an eligible person (a) wishes to make a request to a public authority; or\n(b) has made to a public authority a request that does not\ncomply with article 6,\n\nit is the duty of the public authority to take reasonable steps to\nassist the person to make the request in a manner that complies\nwith article 6, and it shall do so at no charge.",
+      "metadata": {
+        "source_line_start": 273,
+        "source_line_end": 287
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Personal Data and Privacy",
-      "content": "Access to official documents containing personal data shall be subject to compliance with applicable data protection law, including the GDPR and the Data Protection Act (Cap. 586). Where a document contains personal data of a third party, the public authority shall assess whether disclosure of the personal data is lawful under the GDPR, including whether there is a legitimate ground for disclosure and whether the disclosure is proportionate to the purpose. Where it is possible to provide access to the non-personal data parts of a document by redacting personal data, the public authority shall do so rather than refusing access to the whole document. Requestors seeking access to documents containing their own personal data may also exercise rights under the GDPR."
+      "title": "with article 6, and it shall do so at no charge",
+      "content": "Where a request in accordance with article 6 is made to a\npublic authority, and the document to which the request relates is\nnot held by the authority but is believed by the person dealing with\nthe request to be held by another public authority, the public\nauthority to which the request is made shall promptly, and in any\ncase not later than ten working days after the day on which the\nrequest is received, transfer the request to the other public authority\nand inform the applicant accordingly.\n\nTransfer of\nrequests.",
+      "metadata": {
+        "source_line_start": 288,
+        "source_line_end": 300
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Internal Review",
-      "content": "A requestor who is not satisfied with the response to their request, whether because access has been refused, or because of the form in which access has been provided, or because of the failure of the public authority to respond within the required timeframe, may request an internal review by the senior official of the public authority, being the Permanent Secretary or equivalent. An internal review request shall be made within thirty days of the response or of the expiry of the response timeframe. The public authority shall complete the internal review within twenty working days of receipt of the review request and shall provide the requestor with a written decision, including reasons. The internal review decision may uphold, modify, or reverse the original decision."
+      "title": "requests",
+      "content": "(1) Subject to subarticle (2) and to any regulations issued\nunder this Act, a public authority may charge a fee to an applicant\nfor access to a document in accordance with this Act.\n\nFees.\n\n(2) Any fee set by a public authority shall not exceed the cost\nof making a document available to the applicant, whereas if\nregulations issued as aforesaid prescribe a range of standard fees,\nsuch fees shall not exceed the average cost of making documents\navailable to applicants.\n(3) Regulations issued as aforesaid may provide for the\npayment of a fee specifically for the processing of a request for\naccess to documents, and for the payment of such a fee on\npresentation of the request.\n(4) Where a public authority decides to charge an applicant a\nfee, it shall advise him accordingly and inform him that he has the\nright to complain to the Commissioner under article 23 if he feels\nthat the fee is excessive:\nProvided that if the fee is a standard fee established by\nregulations under this Act, the Commissioner may in response to\nsuch a complaint inquire only into whether the regulations have\nbeen correctly applied.\n(5) A public authority may waive any fees payable in respect of\na particular application if, in the opinion of the authority (a) the fee payable is so small as to be not worth\ncollecting; or\n(b) payment of the fee would cause financial hardship to\nthe applicant, bearing in mind the applicant’s means\nand circumstances; or\n(c) disclosure of the information requested is in the public\ninterest.\n(6) Where a public authority fails to meet the time limit set by\narticle 10 or, if applicable, article 11, it shall not charge any fee for\naccess to a document.",
+      "metadata": {
+        "source_line_start": 301,
+        "source_line_end": 336
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. Appeal to the Commissioner",
-      "content": "A requestor who is not satisfied with the outcome of an internal review may lodge an appeal with the Information and Data Protection Commissioner within thirty days of the internal review decision or of the expiry of the internal review timeframe. The Commissioner shall investigate the appeal and may request information from the public authority, may examine the document concerned, and may hold hearings. The Commissioner shall issue a decision on the appeal within a specified timeframe and shall give reasons for the decision. Where the Commissioner determines that access should be granted, the Commissioner shall specify the form in which access is to be provided. Decisions of the Commissioner may be appealed to the Administrative Review Tribunal within specified timeframes."
+      "title": "access to a document",
+      "content": "Subject to this Act, the public authority to which a request\nis made in accordance with article 6 or is transferred in accordance\nwith article 8 shall, as soon as reasonably practicable, and in any\ncase not later than twenty working days after the day on which the\nrequest is received by the authority (a) decide whether the request is to be granted and, if it is\nto be granted, in what manner and for what charge (if\nany); and\n\nDecisions on and\nreplies to requests.\n\nCAP. 496.]\n\n(b) inform the applicant accordingly in writing.\n\nExtension of time\nlimits.",
+      "metadata": {
+        "source_line_start": 337,
+        "source_line_end": 358
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Fees",
-      "content": "No fee shall be charged for processing a request for access to an official document or for providing access in electronic format. A fee may be charged for providing access in physical format, such as printed copies, provided that the fee does not exceed the cost of reproduction. Fees shall not be charged for internal reviews or for appeals to the Commissioner. Where the estimated fee for physical reproduction exceeds a specified amount, the public authority shall notify the requestor of the estimated fee before proceeding and shall give the requestor the opportunity to modify the request or to elect to receive the document in electronic format instead."
+      "title": "limits",
+      "content": "(1) Where a request in accordance with article 6 is made\nor transferred to a public authority, the authority may extend the\ntime limit set out in article 10 by up to forty working days in\nrespect of the request if (a) the request is for a large number of documents or\nnecessitates a search through a large number of\ndocuments, and meeting the original time limit would\nunreasonably interfere with the operations of the\npublic authority; or\n(b) consultations necessary to make a decision on the\nrequest are such that a proper response to the request\ncannot reasonably be made within the original time\nlimit.\n(2) Any extension under subarticle (1) shall be for a reasonable\nperiod of time having regard to the circumstances.\n(3) The extension shall be effected by giving notice to the\nperson who made the request within twenty working days after the\nday on which the request is received, and the notice shall (a) specify the period of the extension;\n(b) give the reasons for the extension;\n(c) state that the applicant has the right under article 23 to\nmake a complaint to the Commissioner about the\nextension; and\n(d) contain such other information as is necessary.\n\nManner in which\naccess may be\ngranted.",
+      "metadata": {
+        "source_line_start": 359,
+        "source_line_end": 385
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. Assistance to Requestors",
-      "content": "Public authorities shall designate a Freedom of Information Officer responsible for coordinating the handling of requests, providing assistance to requestors, and maintaining the authority's compliance with this Act. Freedom of Information Officers shall be available to assist requestors in formulating their requests, to explain applicable procedures, and to identify documents held by the authority that are responsive to the subject matter of a request. The Commissioner shall publish guidance for public authorities on the implementation of this Act, including guidance on the application of exceptions, the conduct of internal reviews, and the proactive disclosure of information."
+      "title": "granted",
+      "content": "(1) A public authority may grant an applicant access to a\ndocument in one or more of the following ways:\n(a) by giving the applicant a reasonable opportunity to\ninspect the document; or\n(b) by providing the applicant with a copy of the\ndocument; or\n(c) in the case of a document that is a recording of sounds\nor visual images, by making arrangements for the\napplicant to hear or view those sounds or visual\nimages; or\n(d) in the case of a document by which words are recorded\nin a manner in which they are capable of being\nreproduced in the form of sound or in which words are\ncontained in the form of shorthand writing or in\ncodified form, by providing the applicant with a\nwritten transcript of the words recorded or contained\nin the document; or\n(e) by giving an excerpt or summary of the contents.\n(2) Subject to article 13, the public authority shall make the\ndocument available to the applicant in the way preferred by the\napplicant unless to do so would -\n\n(a) impair efficient administration; or\n(b) be contrary to any legal duty of the public authority in\nrespect of the document; or\n(c) prejudice the interests protected by Part V and Part VI\nand (in the case of the interests protected by Part VI)\nthose interests are not outweighed by a contrary public\ninterest.\n(3) Where access is not granted in the way preferred by the\napplicant, the public authority shall give to the applicant the reason\nfor not providing the information in that way and state that the\napplicant has the right under article 23 to make a complaint thereon\nto the Commissioner.",
+      "metadata": {
+        "source_line_start": 386,
+        "source_line_end": 426
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Article 13. Monitoring and Reporting",
-      "content": "Public authorities shall maintain records of requests received under this Act, the decisions taken, and the outcomes. Each public authority shall submit an annual report to the Commissioner covering the number of requests received, the number granted in full and in part and refused, the exceptions relied upon, the number of internal reviews conducted, and the outcomes of internal reviews. The Commissioner shall consolidate annual reports and shall publish a national report on freedom of information covering trends, systemic issues, and recommendations for the improvement of the system. The national report shall be laid before the House of Representatives and published on the Commissioner's website."
+      "title": "to the Commissioner",
+      "content": "(1) Where a request is made to a public authority for a\ndocument which is an exempt document, but -\n\nDeletion of exempt\nmatter or irrelevant\nmaterial.\n\n(a) it is possible for the public authority to make a copy of\nthe document with the deletion of the exempt matter;\nand\n(b) it is reasonably practical for the public authority,\nhaving regard to the nature and extent of the work\ninvolved in deciding on and making those deletions\nand the resources available for that work, to make such\na copy,\nthe public authority shall make such a copy available to the\napplicant.\n(2) Where access is granted to a copy of a document in\naccordance with subarticle (1), the applicant shall be informed (a) that it is a copy;\n(b) of the grounds for the deletions; and\n(c) that the applicant has the right under article 23 to make\na complaint to the Commissioner about the deletions.\n(3) Where a document (not being an exempt document)\ncontains material that is irrelevant to the applicant’s request, the\npublic authority may, if possible and reasonably practical and if the\napplicant agrees, make available to the applicant a copy of the\ndocument with the irrelevant material deleted; but a document may\nnot be withheld on the grounds that it contains irrelevant material\nwhich cannot be deleted.",
+      "metadata": {
+        "source_line_start": 427,
+        "source_line_end": 455
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Non-Applicability to Certain Bodies",
-      "content": "This Act does not apply to the President of Malta or the Secretariat of the President; to the House of Representatives and its Secretariat; to the judiciary and related bodies; to security and intelligence services; or to bodies carrying out functions relating to criminal intelligence or criminal investigations, to the extent that the documents concerned are directly related to those functions. The Minister may, by regulation, extend the application of this Act to additional bodies not currently covered or may designate additional categories of documents as subject to proactive disclosure requirements."
+      "title": "which cannot be deleted",
+      "content": "A request made in accordance with article 6 may be\nrefused only for one or more of the following reasons:\n(a) that the document requested is excluded from the\nscope of this Act by virtue of article 5;\n(b) that, by virtue of Part V or Part VI, there is good\nreason for withholding the document requested;\n(c) that, by virtue of article 34, the public authority does\nnot confirm or deny the existence or non-existence of\nthe document requested;\n\nReasons for refusal\nof requests.\n\nCAP. 496.]\n\n(d) that the document requested is publicly available or\nwill be published within three months;\n(e) that the document requested cannot be found, and this\nis certified in writing by the head of the public\nauthority;\n(f) that the resources required to (i) identify, locate or collate a document or\ndocuments;\n(ii) examine a document or consult any person or\nbody in relation to its possible disclosure; or\n(iii) make a copy, or an edited copy, of a document,\nwould substantially and unreasonably divert the\nresources of the public authority from its other\noperations, and it has not proved possible for the\napplicant, with advice from the public authority, to\nredefine his request in such a manner as to make it\nmore easily addressed by the authority;\n(g) that the document requested is not held by the public\nauthority and the person dealing with the request has\nno grounds for believing that the document is held by,\nor connected more closely with the functions of,\nanother public authority; or\n(h) that the request is frivolous or vexatious or that the\ninformation requested is trivial.\n\nReason for refusal\nto be given.",
+      "metadata": {
+        "source_line_start": 456,
+        "source_line_end": 501
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Relationship with Other Legislation",
-      "content": "This Act applies in addition to other legislation providing rights of access to information held by public authorities, and shall not be construed to restrict any such rights. Where other legislation provides more extensive rights of access than those established under this Act, the more extensive rights shall apply. Access to environmental information is governed by the Environmental Information Regulations implementing Directive 2003/4/EC, which provides a parallel access regime for environmental documents held by public authorities. The Act applies alongside the GDPR provisions granting data subjects the right of access to their personal data."
+      "title": "to be given",
+      "content": "(1) Where a request made in accordance with this Act is\nrefused, the public authority shall (a) subject to article 34, give the applicant the reasons for\nthe refusal; and\n(b) state that the applicant has the right, under article 23,\nto seek an investigation and review by the\nCommissioner of the refusal.\n(2) A notice under this article is not required to contain any\nmatter that is of such a nature that its inclusion in a document\nwould cause that document to be an exempt document.\n\nDecisions by public authorities\nunder this Act.",
+      "metadata": {
+        "source_line_start": 502,
+        "source_line_end": 517
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. Whistleblower Protection",
-      "content": "Public officials and other persons who provide information to requestors under this Act, or who assist in the implementation of this Act, shall not be subject to any disciplinary or other adverse action solely on the grounds of having provided or facilitated access to official documents in accordance with this Act. This provision applies without prejudice to applicable whistleblower protection legislation, which provides additional protections for persons reporting breaches of law or other wrongdoing. Public authorities shall not adopt or implement policies or practices that deter or punish staff for providing information to requestors in good faith in accordance with applicable requirements."
+      "title": "Commissioner of the refusal",
+      "content": "(1) A decision by a public authority in respect of a request\nunder this Act shall, subject to article 6(c) of the Interpretation Act,\nbe taken by (a) the head of the public authority or its governing board\n(as applicable), as identified in or established under\nthe Public Administration Act or any other instrument\nto which the authority is subject; or\n(b) an officer of the public authority, acting within the\nscope of the authority exercisable by him in\naccordance with arrangements approved by the head of\nthe authority or by its governing board.\n\n(2) A decision to disclose or grant access to a document in\naccordance with this Act shall constitute authorised disclosure in\nterms of the Official Secrets Act.",
+      "metadata": {
+        "source_line_start": 518,
+        "source_line_end": 543
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III - ACCESS TO CERTAIN DOCUMENTS",
+      "section": "17",
+      "title": "Cap. 50",
+      "content": "(1) Not later than one year after the coming into force of\nthis article, every relevant public authority shall publish, in\naccordance with any instructions issued by the Commissioner:\n\nPublication of\ninformation by\npublic authorities.\n\n(a) a description of its structure, functions and\nresponsibilities;\n(b) a general description of the categories of documents\nheld by it;\n(c) a description of all manuals and similar types of\ndocuments which contain policies, principles, rules or\nguidelines in accordance with which decisions or\nrecommendations are made in respect of members of\nthe public (including bodies corporate and employees\nof the public authority in their personal capacity); and\n(d) a statement of the information that needs to be\navailable to members of the public who wish to obtain\naccess to official documents from the public authority,\nwhich statement shall include particulars of the officer\nor officers to whom requests for such access should be\nsent.\n(2) The Minister may, by regulations issued in consultation\nwith the Commissioner, require relevant public authorities to\npublish information additional to that listed in subarticle (1).\n(3) Each public authority shall update the material published in\naccordance with subarticles (1) and (2) at least annually, or at more\nfrequent intervals as may be established by regulations issued\nunder subarticle (2).\n(4) Publication on an internet website or another electronic\nmedium that is publicly accessible at all reasonable times shall be\nsufficient to satisfy the requirements of this article, provided that\nthe information published hereunder shall be made available in\nprinted form to members of the public who so require it.\n(5) Nothing in this article shall require the publication of\ninformation where there is good reason under this Act to withhold\nit.",
+      "metadata": {
+        "source_line_start": 544,
+        "source_line_end": 582
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "it",
+      "content": "(1) Regulations may be issued under this Act to establish a\nright of access to information which is held by bodies or persons\nother than public authorities or the employees thereof, and which\npertains to:\n(a) services provided to the public by such bodies or\npersons on behalf of the Government or another public\nauthority; or\n(b) projects or initiatives which are undertaken by such\n\nRight of access to\ncertain official\ninformation.\n\nCAP. 496.]\n\nbodies or persons but financed by the Government or\nanother public authority.\n\n(2) The giving of access to any information to which subarticle\n(1) applies shall be subject to the provisions of any regulations\nmade under this Act.\nRight of access to\ninternal rules\naffecting decisions.",
+      "metadata": {
+        "source_line_start": 583,
+        "source_line_end": 611
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "affecting decisions",
+      "content": "(1) Subject to Part V and Part VI, any eligible person has a\nright to and shall, on request made under this article, be given\naccess to any document (including a manual) which is held by a\npublic authority and which contains policies, principles, rules, or\nguidelines in accordance with which decisions or recommendations\nare made in respect of members of the public (including bodies\ncorporate and employees of the public authority in their personal\ncapacity).\n(2) The provisions of Part II other than articles 12 and 13 shall\napply mutatis mutandis to a request made under subarticle (1).\n(3) Where, by virtue of Part V and Part VI, there is good reason\nfor withholding parts of a document to which subarticle (1) relates,\nthe public authority shall, unless it is impracticable to do so, either:\n(a) make a copy of that document available with such\ndeletions or alterations as are necessary; or\n(b) provide another document stating the substance and\neffect of the document except as it relates to the\ninformation withheld.\n(4) Where a document is made available in accordance with\nsubarticle (3), the public authority shall (a) give to the applicant the reasons for withholding the\ninformation; and\n(b) state that the applicant has the right, under article 23,\nto seek an investigation and review by the\nCommissioner of the withholding of the information.\n\nRight of access by\na person to reasons\nfor decisions\naffecting that\nperson.",
+      "metadata": {
+        "source_line_start": 612,
+        "source_line_end": 642
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Commissioner of the withholding of the information",
+      "content": "(1) Subject to the provisions of Part V and Part VI, where\na public authority makes a decision or recommendation in respect\nof any eligible person, including an eligible person acting on behalf\nof a body corporate, that person has the right to and shall, on\nrequest within six months from when the person learns of the\ndecision or recommendation, be given a written statement of (a) the findings on material issues of fact; and\n(b) subject to subarticle (2), a reference to the information\non which the findings were based; and\n(c) the reasons for the decision or recommendation.\n(2) A reference to the information on which any findings were\nbased need not be given under subarticle (1)(b) if (a) the disclosure of the information or of information\nidentifying the person who supplied it, being\nevaluative material, would breach an express or\nimplied promise to the person who supplied the\n\ninformation to the effect that the information, or his\nidentity, or both would be held in confidence; or\n(b) after consultation undertaken (where practicable) by or\non behalf of the public authority with a natural\nperson’s medical practitioner, the public authority is\nsatisfied that the information relates to that person and\nthe disclosure of the information (being information\nthat relates to the physical or mental health of the\nperson making the request under this article) would be\nlikely to prejudice the physical or mental health of that\nperson; or\n(c) in the case of a natural person under the age of\neighteen, the disclosure of the information would be\ncontrary to that person’s interests; or\n(d) the disclosure of the information (being information in\nrespect of a person who has been convicted of an\noffence or is or has been detained in custody) would be\nlikely to prejudice the safe custody or the\nrehabilitation of that person.\n(3) For the purposes of subarticle (2)(a), the term \"evaluative\nmaterial\" means an assessment or opinion compiled solely (a) for the purpose of determining the suitability,\neligibility or qualifications of the person to whom the\nmaterial relates for purposes relating to the award,\ncontinuation or cancellation of an appointment, a\ncontract, an award, a scholarship, an honour or any\nother benefit; or\n(b) for the purpose of determining whether to insure any\nperson or property or to continue or renew such\ninsurance.\n(4) The provisions of Part II other than articles 12 and 13 shall\napply mutatis mutandis to a request made under subarticle (1).",
+      "metadata": {
+        "source_line_start": 643,
+        "source_line_end": 698
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART IV - THE INFORMATION AND DATA PROTECTION",
+      "section": "21",
+      "title": "apply mutatis mutandis to a request made under subarticle (1)",
+      "content": "(1) In addition to his duties under the Data Protection Act\nit shall be the duty of the Commissioner to promote the observance\nby relevant public authorities of (a) the requirements of this Act; and\n(b) the provisions of the code of practice issued under\narticle 41.\n(2) The Commissioner shall arrange for the dissemination in\nsuch form and manner as he considers appropriate of such\ninformation as it may appear to him expedient to give to the\npublic (a) about the operation of this Act,\n(b) about compliance with the law, and\n\nGeneral functions\nof the\nCommissioner.\n\nCAP. 496.]\n\n(c) about other matters within the scope of his functions\nunder this Act,\n\nand he may give advice to any person or authority as to any of\nthose matters.\n(3) Without prejudice to articles 22, 24 and 25, the\nCommissioner may, with the consent or at the request of any public\nauthority, assess whether that authority is following good practice.\n(4) The Commissioner may charge such sums as he may, with\nthe consent of the Minister, determine for any of the services\nprovided by the Commissioner under this article.\n(5) Within three months following the end of each calendar\nyear the Commissioner shall prepare and submit to the Minister an\nannual report on the workings of this Act during that year, and the\nMinister shall at the first available opportunity cause a copy of the\nreport to be laid on the table of the House of Representatives; the\nreport shall state:\n(a) how many requests for information under this Act\nhave been made to public authorities;\n(b) how many of these requests have been accepted and\nrejected;\n(c) the reasons for rejection;\n(d) the average time taken to reply to requests;\n(e) how many complaints have been made to the\nCommissioner, the grounds for such complaints, and\nthe outcome thereof;\n(f) the number of appeals lodged with the Tribunal and\nhow they have been determined; and\n(g) the number of information, decision and enforcement\nnotices issued by the Commissioner.\n(6) Without prejudice to subarticle (4) and to articles 26, 39\na n d 4 0 , i n t h e e x e r c i s e o f hi s f u n c t i o n s u n d e r t h i s Ac t t h e\nCommissioner shall act independently and shall not be subject to\nthe direction or control of any other person or authority.\n(7) In this article \"good practice\", in relation to a public\nauthority, means such practice in the discharge of its functions\nunder this Act as appears to the Commissioner to be desirable, and\nincludes (but is not limited to) compliance with the requirements of\nthis Act and the provisions of the code of practice issued under\narticle 41.\nRecommendations\nas to good practice.",
+      "metadata": {
+        "source_line_start": 699,
+        "source_line_end": 763
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "as to good practice",
+      "content": "(1) If it appears to the Commissioner that the practice of a\nrelevant public authority in relation to the exercise of its functions\nunder this Act does not conform with that proposed in the code of\npractice issued under article 41, he may give to the authority a\nrecommendation (in this section referred to as a \"practice\nrecommendation\") specifying the steps which ought in his opinion\nto be taken for promoting such conformity.\n(2)\n\nA practice recommendation must be given in writing and\n\nmust refer to the particular provisions of the code of practice with\nwhich, in the Commissioner ’s opinion, the public authority’s\npractice does not conform.",
+      "metadata": {
+        "source_line_start": 764,
+        "source_line_end": 784
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "practice does not conform",
+      "content": "(1) Any applicant may apply to the Commissioner for a\ndecision whether, in any specified respect (a) a request for information made by the applicant to a\npublic authority has been dealt with in accordance\nwith the requirements of this Act; or\n(b) a public authority is in compliance with the\nrequirements set out in Part III.\n(2) On receiving an application under this article, the\nCommissioner shall make a decision unless it appears to him (a) that the applicant has not exhausted any complaints\nprocedure which may be provided by the public\nauthority in conformity with the code of practice\nissued under article 41:\nProvided that the Commissioner may decide on the\napplication if in his opinion the complaints procedure\nprovided by the public authority has not been, or is\nunlikely to be, concluded within a reasonable period;\n(b) that there has been undue delay in making the\napplication;\n(c) that the application is frivolous or vexatious; or\n(d) that the application has been withdrawn or abandoned.\n(3) Where the Commissioner has received an application under\nthis article, he shall either (a) notify the applicant that he has not made any decision\nunder this article as a result of the application and of\nhis grounds for not doing so; or\n(b) serve notice of his decision (in this Act referred to as a\n\"decision notice\") on the applicant and the public\nauthority.\n(4)\n\nWhere the Commissioner decides that a public authority (a) has failed to provide access to a document, or to\nconfirm or deny the existence of a document, in a case\nwhere it is required to do so under this Act; or\n(b) has failed to comply with any of the other\nrequirements of Part II in its handling of the\napplicant’s request for a document; or\n(c) has failed to comply with any of the requirements of\nPart III,\n\nthe decision notice shall specify the steps which must be taken by\nthe authority for complying with that requirement and the period\nwithin which they must be taken.\n(5) A decision notice shall contain particulars of the right of\nappeal conferred by article 39.\n\nApplication for\ndecision by\nCommissioner.\n\nCAP. 496.]\n\n(6) Where a decision notice requires steps to be taken by the\npublic authority within a specified period, the time specified in the\nnotice shall not expire before the end of the period within which an\nappeal can be brought against the notice and, if such an appeal is\nbrought, no step which is affected by the appeal need be taken\npending the determination or withdrawal of the appeal.\n(7)\nInformation\nnotices.\n\nThis article shall have effect subject to article 26.",
+      "metadata": {
+        "source_line_start": 785,
+        "source_line_end": 850
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "This article shall have effect subject to article 26",
+      "content": "(1) If the Commissioner has received an application under\narticle 23, or reasonably requires any information (a) for the purpose of determining whether a public\nauthority has complied or is complying with any of the\nrequirements of this Act; or\n(b) for the purpose of determining whether the practice of\na public authority in relation to the exercise of its\nfunctions under this Act conforms with that set out in\nthe code of practice established under article 41,\nhe may serve the authority with a notice (in this Act referred to as\nan \"information notice\") requiring it, within such time as is\nspecified in the notice, to furnish the Commissioner, in such a\nmanner as may be so specified, with such information as is so\nspecified relating to the application or to the purposes to which\nparagraphs (a) and (b) refer.\n(2) An information notice shall specify the purpose for which\nthe Commissioner requires the information and, where it refers to\ninformation recorded in a document, shall include such details as is\nreasonably necessary to enable a responsible officer of the public\nauthority to identify that document.\n(3) An information notice shall also contain particulars of the\nright of appeal conferred by article 39.\n(4) The time period specified in an information notice shall not\nexpire before the end of the period within which an appeal can be\nbrought against the notice and, if such an appeal is brought, the\ninformation required by the notice need not be furnished pending\nthe determination or withdrawal of the appeal.\n(5) A public authority shall not be required by virtue of this\narticle to make available to the Commissioner any information in\nrespect of:\n(a) any communication between a professional legal\nadviser and his client in connection with the giving of\nlegal advice to the client with respect to his\nobligations, liabilities or rights under this Act; or\n(b) any communication between a professional legal\nadviser and his client, or between such an adviser or\nhis client and any other person, made in connection\nwith or in contemplation of proceedings under or\narising out of this Act (including proceedings before\nthe Tribunal) and for the purposes of such proceedings.\n(6)\n\nIn subarticle (5) references to the client of a professional\n\nlegal adviser include references to any person representing such a\nclient.\n(7) The Commissioner may cancel an information notice by\nwritten notice to the public authority on which it was served.\n(8) In this\ninformation.\n\narticle\n\n\"information\"\n\nincludes\n\nunrecorded",
+      "metadata": {
+        "source_line_start": 851,
+        "source_line_end": 915
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "unrecorded",
+      "content": "(1) If the Commissioner is satisfied that a public authority\nhas failed to comply with any of its obligations under this Act, the\nCommissioner may serve the authority with a notice (in this Act\nreferred to as \"an enforcement notice\") requiring the authority to\ntake, within such a time as may be specified in the notice, such\nsteps as may be so specified for complying with those obligations.\n(2)\n\nEnforcement\nnotices.\n\nAn enforcement notice shall contain (a) a statement of the requirement or requirements of this\nAct with which the public authority has, in the\nCommissioner’s satisfied opinion, failed to comply,\nand his reasons for reaching that conclusion; and\n(b) particulars of the right of appeal conferred by article",
+      "metadata": {
+        "source_line_start": 916,
+        "source_line_end": 931
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "(b) particulars of the right of appeal conferred by article",
+      "content": "(3) An enforcement notice shall not require any of the\nprovisions of the notice to be complied with before the end of the\nperiod within which an appeal can be brought against the notice\nand, if such an appeal is brought, the notice need not be complied\nwith pending the determination or withdrawal of the appeal.\n(4) The Commissioner may cancel an enforcement notice by\nwritten notice to the public authority on which it was served.\n(5)\n\nThis article shall have effect subject to article 26.",
+      "metadata": {
+        "source_line_start": 932,
+        "source_line_end": 944
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "This article shall have effect subject to article 26",
+      "content": "(1) A decision or enforcement notice issued by the\nCommissioner in respect of the disclosure of a document shall not\nhave effect if the Prime Minister certifies to the Commissioner that,\nin his opinion, the document is an exempt document in terms of any\nof the provisions of Part V.\n\nException from\nduty to comply\nwith decision\nnotice or\nenforcement\nnotice.\n\n(2) A certificate under this article shall contain a statement by\nthe Prime Minister of the reasons for his opinion, except in so far\nas this would involve the disclosure of matter that is exempt matter\nin terms of the provisions of Part V.\n(3) Where the Prime Minister issues a certificate under this\narticle, he shall as soon as practicable thereafter lay a copy of it\nbefore the House of Representatives.\n(4) Where the Commissioner receives a certificate under this\narticle in respect of a decision notice, he shall inform the applicant\naccordingly.",
+      "metadata": {
+        "source_line_start": 945,
+        "source_line_end": 967
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "accordingly",
+      "content": "(1) Where a public authority or an officer of such an\nauthority refuses or, without a good reason, fails to comply with (a) so much of a decision notice as requires steps to be\ntaken;\n\nFailure to comply\nwith notice.\n\nCAP. 496.]\n\n(b) an information notice; or\n(c) an enforcement notice,\n\nthis shall be regarded as an offence in terms of article 22 (b) of the\nData Protection Act, and the Commissioner may also levy an\nadministrative fine against the defaulting authority or officer\nthereof as provided for by article 42(3) of the Data Protection Act.\n(2) Where a public authority fails to comply with an\ninformation notice, or where the Commissioner believes that an\noffence in terms of article 43 is being or is about to be committed,\nthe Commissioner may act to secure compliance with the notice or\nto prevent the offence from being committed using the powers of\nentry and search vested in the Commissioner under article 16(1) of\nthe Data Protection Act, which shall be applicable for this purpose.\n(3) For the purposes of this article, a public authority which, in\npurported compliance with an information notice (a) makes a statement which it knows to be false in a\nmaterial respect; or\n(b) recklessly makes a statement which is false in a\nmaterial respect,\nshall be taken to have failed to comply with the notice.\n\nNo civil action\nagainst a public\nauthority.",
+      "metadata": {
+        "source_line_start": 968,
+        "source_line_end": 1009
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "authority",
+      "content": "(1) This Act does not confer any right of action in civil\nproceedings in respect of any failure to comply with any duty\nimposed by or under this Act.\n(2) Subarticle (1) shall not affect the powers of the\nCommissioner under article 27.",
+      "metadata": {
+        "source_line_start": 1010,
+        "source_line_end": 1026
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Commissioner under article 27",
+      "content": "(1) A document is an exempt document if its disclosure\nunder this Act:\n(a) would, or could reasonably be expected to, cause\ndamage to the security, the defence, or the\ninternational relations of Malta; or\n(b) would\ndivulge\nany\ninformation\nor\nmatter\ncommunicated in confidence by or on behalf of a\nforeign government, an authority of a foreign\ngovernment, or an international organisation to the\nGovernment of Malta or to another public authority, or\nby the Government of Malta or another public\nauthority to a foreign government, an authority\nthereof, or an international organisation.\n(2) Subject to subarticle (3), a document is an exempt\ndocument if it is:\n(a) a document that has been submitted to the Cabinet for\nits consideration or is proposed by a Minister to be so\nsubmitted, being a document that was brought into\n\nexistence for the purpose of submission to the Cabinet;\n(b) an official record of the Cabinet;\n(c) a document that is a copy of all or part of, or contains\nan extract from, a document referred to in paragraph\n(a) or (b); or\n(d) a document the disclosure of which would involve the\ndisclosure of any deliberation or decision of the\nCabinet, other than a document by which a decision of\nthe Cabinet was published:\nProvided that each year, the Prime Minister may direct that\ncertain Cabinet documents, being documents selected from among\nthose that are thirty years old or more, shall be subject to\ndisclosure, whereupon this subarticle shall not apply to such\ndocuments.\n(3) Subarticle (2) shall not apply to a document if, and in so far\nas, it contains factual information relating to a decision of the\nCabinet that has been published.\n(4) In subarticles (2) and (3) \"Cabinet\" includes Cabinet\nCommittees.",
+      "metadata": {
+        "source_line_start": 1027,
+        "source_line_end": 1076
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Committees",
+      "content": "(1) A document is an exempt document if its disclosure\nunder this Act would, or could reasonably be expected to:\n(a) prejudice the conduct of an investigation of a breach,\nor possible breach, of the law, or a failure, or possible\nfailure, to comply with a law relating to taxation or\nprejudice the enforcement or proper administration of\nthe law in a particular instance;\n(b) disclose, or enable a person to ascertain, the existence\nor identity of a confidential source of information, or\nthe non-existence of a confidential source of\ninformation, in relation to the enforcement or\nadministration of the law; or\n(c) endanger the life or physical safety of any person.\n\nDocuments\naffecting the\nenforcement of the\nlaw and the\nprotection of\npublic safety.\n\n(2) A document is an exempt document if its disclosure under\nthis Act would, or could reasonably be expected to:\n(a) prejudice the fair trial of a person or the impartial\nadjudication of a particular case by any court, tribunal,\ndisciplinary board, arbitration panel or similar body, or\nprejudice an inquiry conducted under the Inquiries\nAct;\n(b) prejudice the effectiveness of lawful methods or\nprocedures for preventing, detecting, investigating, or\ndealing with matters arising out of breaches or\nevasions of the law through the disclosure thereof; or\n(c) prejudice the maintenance or enforcement of lawful\nmethods for the protection of public safety.\n(3) For the purposes of subarticle (1)(b), a person shall be\ntaken to be a confidential source of information in relation to the\n\nCAP. 496.]\n\nenforcement or administration of the law if the person is receiving,\nor has received, protection by the Police or other public authorities\nas:\n(a) a witness; or\n(b) a person who, because of his relationship to or\nassociation with a witness, needs or may need such\nprotection; or\n(c) any other person who, for any reason, needs or may\nneed such protection.\nDocuments subject\nto legal\nprofessional\nprivilege or\ncontaining material\nobtained in\nconfidence.",
+      "metadata": {
+        "source_line_start": 1077,
+        "source_line_end": 1139
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "confidence",
+      "content": "(1) A document is an exempt document if it is of such a\nnature that it would be privileged from production in legal\nproceedings on the ground of legal professional privilege.\n(2) A document is an exempt document if its disclosure under\nthis Act would found an action by a person (other than a public\nauthority) for breach of confidence.\n(3) Subarticle (2) shall not apply to internal working\ndocuments prepared by a member, officer or employee of the\nGovernment or any other public authority in the course of his\nduties unless the disclosure would constitute a breach of\nconfidence owed to a person or body other than a member, officer\nor employee of the Government or any other public authority as\naforesaid.\n\nDocuments\nrelating to business\naffairs, the\neconomy and\nresearch.",
+      "metadata": {
+        "source_line_start": 1140,
+        "source_line_end": 1159
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "research",
+      "content": "(1) A document is an exempt document if its disclosure\nunder this Act would disclose:\n(a) trade secrets;\n(b) any other information having a commercial value that\nwould be, or could reasonably be expected to be,\ndestroyed or diminished if the information were\ndisclosed; or\n(c) information (other than trade secrets or information to\nwhich paragraph (b) applies) concerning a person in\nrespect of his business or professional affairs or\nconcerning the business, commercial or financial\naffairs of an organisation or undertaking, being\ninformation:\n(i) the disclosure of which would, or could\nreasonably be expected to, unreasonably affect\nthat person adversely in respect of his lawful\nbusiness or professional affairs or that\norganisation or undertaking in respect of its\nlawful business, commercial or financial affairs;\nor\n(ii) the disclosure of which under this Act could\nreasonably be expected to prejudice the future\nsupply of information to the Government or to\nanother public authority for the purpose of the\nadministration of a law or the administration of\nmatters administered by the authority.\n\n(2) Subarticle (1) shall not apply to a request for access to a\ndocument by reason only that the document contains information\nabout:\n(a) the applicant’s own business or professional affairs;\n(b) the business, commercial or financial affairs of an\nundertaking where the applicant is the proprietor of\nthe undertaking or is acting on behalf of the proprietor;\nor\n(c) the business, commercial or financial affairs of an\norganisation where the applicant is acting on its\nbehalf.\n(3) Subarticle (1)(c) shall not apply to information solely\nconcerning a person’s status as a member of a profession.\n(4) A document is an exempt document if its disclosure under\nthis Act would be contrary to the public interest by reason that it:\n(a) would, or could reasonably be expected to, have a\nsubstantial adverse effect on the ability of the\nGovernment to manage the Maltese economy; or\n(b) could reasonably be expected to result in an undue\ndisturbance of the ordinary course of business in the\ncommunity, or an undue benefit or detriment to any\nperson or community, or an undue benefit or detriment\nto any person or class of persons, by reason of giving\npremature knowledge of or concerning proposed or\npossible action or inaction of the Government or\nParliament.\n(5) The kinds of documents to which subarticle (4) may apply\ninclude, but are not limited to, documents containing matter\nrelating to:\n(a)\n(b)\n(c)\n(d)\n\ncurrency or exchange rates;\ninterest rates;\ntaxes, including duties of customs or of excise;\nthe regulation or supervision of banking, insurance\nand other financial institutions;\n(e) the stability of the financial system;\n(f) proposals for expenditure;\n(g) foreign investment in Malta; or\n(h) borrowings by the Government or other public\nauthorities.\n(6) A document is an exempt document if it is in the possession\nof a member of the academic staff of the University of Malta and\ncontains information relating to research that has been or is being\nundertaken by such a member, unless the research has been\ncommissioned by a public authority.\n(7)\n\nA document is an exempt document if:\n(a) it contains information relating to scientific or\n\nCAP. 496.]\n\nacademic research that is being, or is to be, undertaken\nby a member of staff of a public authority, other than\nresearch to which subarticle (6) applies; and\n(b) disclosure of the information before the completion of\nthe research would be likely unreasonably to expose\nthe public authority or the member of staff to\ndisadvantage.\n\n(8) Subarticle (7) shall not apply to a document that, in so far\nas it contains information relating to research, only contains\ninformation relating to research that has been completed.\n(9) A document is an exempt document if it contains\ninformation relating to research on security and defence matters\nwhich has been undertaken or commissioned by, or with the\ninvolvement of, a public authority.\nDocuments the\ndisclosure of which\nwould be contempt\nof Parliament or of\nCourt.",
+      "metadata": {
+        "source_line_start": 1160,
+        "source_line_end": 1274
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Court",
+      "content": "A document is an exempt document if public disclosure of\nthe document would, apart from this Act and any immunity of the\nGovernment:\n(a) be in contempt of court;\n(b) be contrary to an order made or direction given by any\nBoard to which the Inquiries Act applies, or by any\ntribunal or other person having power to take evidence\non oath; or\n(c) infringe the privileges of Parliament.",
+      "metadata": {
+        "source_line_start": 1275,
+        "source_line_end": 1286
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Court",
+      "content": "Information\nconcerning\nexistence of certain\ndocuments.\n\nWhere (a) a request under this Act relates to a document to which\nthe provisions of this Part apply, or would apply if\nsuch a document existed; and\n(b) the existence or non-existence of the document would\nin its own right, if it were stated in a document, be\nsubject to non-disclosure in terms of any of the said\nprovisions,\n\nthe public authority dealing with the request may give notice in\nwriting to the applicant that it neither confirms nor denies the\nexistence or non-existence of that document.",
+      "metadata": {
+        "source_line_start": 1287,
+        "source_line_end": 1312
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Part",
+      "content": "(1) This Part shall apply subject to the provisions of Part\n\n(2) A document may be withheld in accordance with the\nprovisions of this Part only if it contains matter in relation to which\nthe public interest that is served by non-disclosure outweighs the\npublic interest in disclosure.\nInternal working\ndocuments.",
+      "metadata": {
+        "source_line_start": 1313,
+        "source_line_end": 1321
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Part",
+      "content": "(1) Subject to article 35 and to subarticles (2) and (3)\nhereof, a document is an exempt document if its disclosure under\n\nthis Act would disclose matter in the nature of, or relating to,\nopinions, advice or recommendations obtained, prepared or\nrecorded, or consultation or deliberation that has taken place, in the\ncourse of, or for the purposes of, the deliberative processes\ninvolved in the functions of the Government or another public\nauthority.\n(2) Subarticle (1) shall not apply to a document by reason only\nof purely factual information contained in the document.\n(3)\n\nSubarticle (1) shall not apply to:\n(a) reports (including reports concerning the results of\nstudies, surveys or tests) of scientific or technical\nexperts, whether employed by a public authority or\nnot, including reports expressing the opinions of such\nexperts on scientific or technical matters; or\n(b) the record of, or a final statement of the reasons for, a\nfinal decision given in the exercise of a power or of an\nadjudicative function.\n\n(4) In subarticle (3) the term \"scientific or technical expert\"\ns h a l l be c o n s t r u e d a s e x c l u d i n g se n i o r m a n a g e r s i n p u b l i c\nauthorities.",
+      "metadata": {
+        "source_line_start": 1322,
+        "source_line_end": 1354
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "authorities",
+      "content": "Subject to article 35, a document is an exempt document if\nits disclosure under this Act would have a substantial adverse effect\non the financial or property interests of the Government or of\nanother public authority.\n\nDocuments\naffecting financial\nor property\ninterests of public\nauthorities.",
+      "metadata": {
+        "source_line_start": 1355,
+        "source_line_end": 1365
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "authorities",
+      "content": "Subject to article 35, a document is an exempt document if\nits disclosure under this Act would, or could reasonably be\nexpected to:\n\nDocuments\nconcerning certain\noperations of\npublic authorities.\n\n(a) prejudice the effectiveness of procedures or methods\nfor the conduct of tests, examinations or audits by a\npublic authority;\n(b) prejudice the attainment of the objects of particular\ntests, examinations or audits conducted or to be\nconducted by a public authority;\n(c) have a substantial adverse effect on the proper and\nefficient conduct of the operations of a public\nauthority; or\n(d) have a substantial adverse effect on the conduct of\nnegotiations (including commercial and industrial\nnegotiations) by or on behalf of the Government or\nanother public authority.",
+      "metadata": {
+        "source_line_start": 1366,
+        "source_line_end": 1389
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Tribunal",
+      "content": "Decisions of the Tribunal under this Act shall be subject to\nappeal to the Court of Appeal as provided for by article 29 of the\nData Protection Act.",
+      "metadata": {
+        "source_line_start": 1437,
+        "source_line_end": 1442
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Code of practice",
+      "content": "(1) The Minister shall issue a code of practice providing\nguidance to public authorities as to the practice which it would, in\nhis opinion, be desirable for them to follow in connection with the\ndischarge of public authorities’ functions under Part II and Part III.\n(2) The code of practice shall, in particular, include provisions\nrelating to:\n(a) the provision of advice and assistance by public\nauthorities to persons who propose to make, or have\nmade, requests for information to them;\n(b) the transfer of requests by one public authority to\nanother public authority which holds, or may hold, the\ndocuments requested;\n(c) consultation with persons to whom the information\nrequested relates or persons whose interests are likely\nto be affected by the disclosure of information;\n(d) the inclusion in contracts entered into by public\nauthorities of terms relating to the disclosure of\ninformation;\n(e) the provision by public authorities of rapid procedures\nfor dealing with complaints about the handling by\nthem of requests for information; and\n(f) the keeping of documents and records by public\nauthorities in such a manner as to facilitate the\nidentification and retrieval of documents for the\n\npurposes of this Act.\n(3) The code may make different provision for different public\nauthorities.\n(4) Before issuing or revising any code under this article, the\nMinister shall consult the Commissioner and the Principal\nPermanent Secretary.",
+      "metadata": {
+        "source_line_start": 1443,
+        "source_line_end": 1480
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Permanent Secretary",
+      "content": "The Minister may, following consultation with the\nCommissioner, make regulations for any or all of the following\npurposes:\n\nRegulations.\n\n(a) to prescribe application forms (manual or electronic)\nand other documents required for the purposes of this\nAct, or authorising any person to prescribe or approve\nsuch forms or documents:\nProvided that forms cannot place requirements on\napplicants additional to those set out by this Act, and\nthat an application meeting all such requirements shall\nstill be considered if it is made otherwise than using\nthe prescribed form;\n(b) to establish the procedure for the service of notices\nand documents by public authorities under this Act;\n(c) to prescribe reasonable charges or scales of reasonable\ncharges for the purposes of this Act; and\n(d) to provide for such matters as are contemplated by or\nnecessary for giving full effect to this Act and for its\ndue administration.",
+      "metadata": {
+        "source_line_start": 1481,
+        "source_line_end": 1502
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Regulations",
+      "content": "Article 144 of the Criminal Code shall apply to any person\nwho embezzles, destroys, mutilates or purloins a document with the\nintention of preventing the disclosure of information to an\napplicant under this Act.\n\nDamage, etc., of\ndocuments to\nconstitute an\noffence.",
+      "metadata": {
+        "source_line_start": 1503,
+        "source_line_end": 1515
+      }
     }
   ],
   "definitions": [
     {
-      "term": "official document",
-      "definition": "Any document, record, file, or other information held by a public authority, in whatever format or medium, including electronic documents, photographs, audio-visual material, and databases.",
-      "source_provision": "art2"
+      "term": "Commissioner",
+      "definition": "the Information and Data Protection",
+      "source_provision": "s2"
     },
     {
-      "term": "public authority",
-      "definition": "Any Ministry, Department, Government entity, agency, or local council exercising public functions in Malta.",
-      "source_provision": "art2"
+      "term": "document",
+      "definition": "any article that is held by a public authority",
+      "source_provision": "s2"
     },
     {
-      "term": "requestor",
-      "definition": "Any natural or legal person making a request for access to an official document under this Act.",
-      "source_provision": "art2"
+      "term": "eligible person",
+      "definition": "a person who is resident in Malta and",
+      "source_provision": "s2"
     },
     {
-      "term": "public interest override",
-      "definition": "The principle that access to an official document shall be granted even where an exception applies if the public interest in disclosure clearly outweighs the public interest in non-disclosure.",
-      "source_provision": "art7"
+      "term": "exempt document",
+      "definition": "a document which is not subject to",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exempt matter",
+      "definition": "matter the inclusion of which in a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for freedom of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Principal Permanent Secretary",
+      "definition": "the officer appointed in",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant public authority",
+      "definition": "a public authority other than",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Information and Data Protection Appeals",
+      "source_provision": "s2"
     }
   ]
 }

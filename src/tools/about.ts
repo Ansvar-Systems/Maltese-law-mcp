@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Official Legal Database',
-      authority: 'Government (State Chancellery of Maltese)',
+      name: 'Legislation Malta (ELI portal)',
+      authority: 'Office of the State Advocate - Legislation Unit (Malta)',
       url: 'https://legislation.mt',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'EE',
-      languages: ['en'],
+      license: 'Public access official legal texts',
+      jurisdiction: 'MT',
+      languages: ['en', 'mt'],
     },
   };
 }

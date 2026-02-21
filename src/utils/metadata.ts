@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (legislation.mt) — Government (State Chancellery of Maltese)',
-    jurisdiction: 'EE',
+    data_source: 'Legislation Malta (legislation.mt) — Office of the State Advocate, Legislation Unit',
+    jurisdiction: 'MT',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Maltese). ' +
-      'Always verify with the official Official Legal Database portal (legislation.mt).',
+      'This data is sourced from official Maltese legal texts published on legislation.mt. ' +
+      'The authoritative versions are maintained by the Legislation Unit (Office of the State Advocate). ' +
+      'Always verify citations against the official portal (legislation.mt).',
     freshness,
   };
 }

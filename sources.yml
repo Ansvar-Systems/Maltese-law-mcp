@@ -4,18 +4,18 @@ jurisdiction: "MT"
 
 sources:
   - name: "Laws of Malta"
-    authority: "Laws of Malta"
+    authority: "Office of the State Advocate - Legislation Unit (Malta)"
     official_portal: "https://legislation.mt"
-    retrieval_method: "HTML_SCRAPE"
+    retrieval_method: "ELI_HTML_PLUS_OFFICIAL_PDF"
     update_frequency: "weekly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
+      type: "Public access official legal texts"
       url: "https://legislation.mt"
-      summary: "Official legislative texts are public domain"
+      summary: "Official legislative texts accessed from legislation.mt ELI pages and PDF consolidations"
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Ten Maltese legal instruments in cybersecurity, data protection, digital regulation, and freedom of information"
+      limitations: "Corpus is scoped to curated instruments; not a complete mirror of all Maltese legislation"
     languages:
       - "mt"
       - "en"

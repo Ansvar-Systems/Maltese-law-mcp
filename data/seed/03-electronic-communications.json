@@ -1,132 +1,1007 @@
 {
   "id": "mt-electronic-communications",
   "type": "statute",
-  "title": "Electronic Communications (Regulation) Act (Cap. 399)",
+  "title": "Electronic Communications (Regulation) Act",
   "title_en": "Electronic Communications (Regulation) Act",
   "short_name": "ECRA",
-  "status": "amended",
-  "issued_date": "2004-01-01",
-  "in_force_date": "2004-01-01",
-  "url": "https://legislation.mt/eli/cap/399/eng/pdf",
-  "description": "The Electronic Communications (Regulation) Act (Cap. 399) constitutes Malta's primary legislation governing the electronic communications sector, transposing the EU regulatory framework for electronic communications and establishing the Malta Communications Authority (MCA) as the national regulatory authority. The Act has been progressively amended to implement the European Electronic Communications Code (Directive (EU) 2018/1972) and subsequent Union measures. It establishes the general authorisation framework, market analysis procedures, consumer protection requirements, and interconnection and access rules.",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1997-12-31",
+  "url": "https://legislation.mt/eli/cap/399/20240402/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/399/20240402/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
+      "chapter": "PART I - PRELIMINARY",
       "section": "1",
-      "title": "Article 1. Interpretation",
-      "content": "In this Act, 'the Authority' means the Malta Communications Authority; 'electronic communications network' means transmission systems and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed terrestrial networks, mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks; 'electronic communications service' means a service normally provided for remuneration via electronic communications networks; 'end-user' means a user not providing public communications networks or publicly available electronic communications services."
+      "title": "LII of 2021 and XXIX and XXXV of 2023 and I of 2024",
+      "content": "The short title of this\nCommunications (Regulation) Act.\n\nAct\n\nis\n\nthe",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 37
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Malta Communications Authority",
-      "content": "The Malta Communications Authority established under this Act shall be an independent regulatory authority responsible for regulating the electronic communications sector and postal services in Malta. The Authority shall be governed by a Board of Governors appointed by the Minister responsible for communications, comprising a Chairperson and not fewer than four other members. The Authority shall perform its functions in an impartial, transparent, and proportionate manner and shall not seek or accept instructions from any other body in the exercise of its regulatory powers. The Authority shall cooperate with the European Commission, the Body of European Regulators for Electronic Communications (BEREC), and national regulatory authorities of other Member States."
+      "title": "Communications (Regulation) Act",
+      "content": "In this Act, and in regulations made thereunder, unless the\ncontext otherwise requires \"access\" means the making available of facilities and, or\nservices, to another undertaking, under defined conditions, on\neither an exclusive or a non-exclusive basis, for the purpose of\nproviding electronic communications services including when they\nare used for the delivery of information society services or\nbroadcast content services. It covers, inter alia, access to:\n(a) network elements and associated facilities, which may\ninvolve the connection of equipment, by fixed or nonfixed means (in particular this includes access to the\nlocal loop and to facilities and services necessary to\nprovide services over the local loop);\n(b) physical infrastructure including buildings, ducts and\nmasts;\n(c) relevant software\nsupport systems;\n\nsystems\n\nincluding\n\noperational\n\n(d) information systems or databases for pre-ordering,\nprovisioning, ordering, maintaining and repair\nrequests, and billing;\n(e) number translation or systems offering equivalent\nfunctionality;\n(f)\n\nfixed and mobile networks, in particular for roaming;\nand\n\n(g) conditional access systems for digital television\nservices and access to virtual network services;\n\"this Act\" means the Electronic Communications (Regulation) Act,\nand includes any regulations made thereunder unless the context\notherwise requires;\n\nShort title.\nAmended by:\nVII. 2004.11.\nInterpretation.\nAmended by:\nXIX. 1998.3;\nXVIII. 2000. 31;\nVII. 2004.12;\nIX. 2011.3;\nL.N. 180 of 2012;\nAmended by:\nLII. 2021.14.\n\nCAP. 399.]\n\n\"apparatus\" means any equipment or machinery however so\ndescribed;\n\"associated facilities\" means those associated services, physical\ninfrastructures and other facilities or elements associated with an\nelectronic communications network and, or an electronic\ncommunications service which enable and, or support the provision of\nservices through that network and, or service or have the potential to do\nso, and include inter alia buildings or entries to buildings, building\nwiring, antennae, towers and other supporting constructions, ducts,\nconduits, masts, manholes, and cabinets;\n\"associated services\" means a service associated with an electronic\ncommunications network and, or an electronic communications\nservice which enables and, or supports the provision, self-provision or\nautomated-provision of services through that network and, or service,\nor has the potential to do so and includes number translation or\nsystems offering equivalent functionality, conditional access systems\nand electronic programme guides (EPGs), as well as other services\nsuch as identity, location and presence service;\n\n\"the Authority\" means the Malta Communications Authority\nestablished under the Malta Communications Authority Act;\n\"BEREC\" means the Body of European Regulators for Electronic\nCommunications established by Regulation (EU) 2018/1971 of the\nEuropean Parliament and of the Council of 11 December 2018\nestablishing the Body of European Regulators for Electronic\nCommunications (BEREC) and the Agency for Support for BEREC\n(BEREC Office);\n\"cable television networks\" means any mainly wire-based\ninfrastructure established primarily for the delivery or distribution\nof radio or television broadcast to the public;\n\"conditional access system\" means any technical measure,\nauthentication system and, or arrangement whereby access to a\nprotected radio or television broadcasting service in intelligible\nform is made conditional upon subscription or other form of prior\nindividual authorisation;\n\"consumer\" means any natural person who uses or requests a\npublicly available electronic communications service, for purposes\nwhich are outside his trade, business, craft or profession;\n\"the Council\" means the Council of the European Union;\n\"decision\" includes any determination, directive, measure,\nrequirement or specification however so described made by the\nAuthority and the word \"decision\" shall be construed accordingly;\n\"Decision No. 676/2002/EC\" means Decision No. 676/2002/EC\nof the European Parliament and of the Council of 7 March 2002 on\na regulatory framework for radio spectrum policy in the European\nCommunity (Radio Spectrum Decision);\n\"Directive 2008/63/EC\" means Directive 2008/63/EC of 20 June\n2008 on competition in the markets in telecommunications terminal\nequipment;\n\n\"Electronic Communications Code\" means the Directive (EU)\n2018/1972 of the European Parliament and of the Council establishing\nthe European Electronic Communications Code;\n\"electronic communications network\" means transmission\nsystems, whether or not based on a permanent infrastructure or\ncentralised administration capacity, and, where applicable,\nswitching or routing equipment and other resources, including\nnetwork elements which are not active, which permit the\nconveyance of signals by wire, by radio, by optical or by other\nelectromagnetic means, including satellite networks, fixed (circuitswitched and packet-switched, including Internet) and mobile\nnetworks, electricity cable systems, to the extent that they are used\nfor the purpose of transmitting signals, networks used for radio and\ntelevision broadcasting, and cable television networks, irrespective\nof the type of information conveyed;\n\"electronic communications service\" means a service normally\nprovided for remuneration through electronic communications\nnetworks, which encompasses, with the exception of services\nproviding or exercising editorial control over, content transmitted\nusing electronic communications networks and services, the\nfollowing types of services:\n(a) \"internet access service\" as defined in point (2) of the\nsecond paragraph of Article 2 of Regulation (EU)\n2015/2120;\n(b) interpersonal communications service; and\n(c) services consisting wholly or mainly in the\nconveyance of signals such as transmission services\nused for the provision of machine-to-machine services\nand for broadcasting;\n\"emergency communication\" means communications by means\nof interpersonal communications services between an end-user and\nthe PSAP with the goal to request and receive emergency relief\nfrom emergency services;\n\"emergency service\" means a service, recognized as such by the\nGovernment, that provides immediate and rapid assistance in\nsituations where there is, in particular, a direct risk to life or limb,\nto individual or public health or safety, to private or public\nproperty, or to the environment, in accordance with national law;\n\" e n d - u s e r \" m e a n s a u s e r n o t p r o v i d i n g public electronic\ncommunications networks o r p u b l i c l y a v a i l a b l e e l e c t r o n i c\ncommunications services;\n\"end-users with disabilities\" means persons with disabilities as\ndefined in the Equal Opportunities (Persons with Disability) Act,\nwhose special needs as end-users are either due to a disability or\nrelated to ageing;\n\"Frequency Plan\" means the National Frequency Allocation Plan as\nadopted by the Authority and published in accordance with the\nprovisions of this Act;\n\"general authorisation\" means the legal framework established\n\nCAP. 399.]\n\nby or under this Act ensuring rights for the provision of electronic\ncommunications networks or services and laying down sector\nspecific obligations that may apply to all or to specific types of\nelectronic communications networks and services in accordance\nwith this Act;\n\"harmful interference\" means interference which endangers the\nfunctioning of a radio navigation service or of other safety services\nor which otherwise seriously degrades, obstructs or repeatedly\ninterrupts a radio communications service operating in accordance\nwith the applicable international, European Union or national\nregulations;\n\"harmonised radio spectrum\" means radio spectrum for which\nharmonised conditions relating to its availability and efficient use\nhave been established by way of technical implementing measures\nin accordance with Article 4 of EU Decision No. 676/2002/EC\n(Radio Spectrum Decision);\n\"interconnection\" means a specific type of access implemented\nbetween public network operators by means of the physical and logical\nlinking of public electronic communications networks used by the\nsame or a different undertaking in order to allow the users of one\nundertaking to communicate with users of the same or another\nundertaking, or to access services provided by another undertaking\nwhere such services are provided by the parties involved or other\nparties who have access to the network;\n\"i nterpersona l communications service \" means a service\nnormally provided for remuneration that enables direct\ninterpersonal and interactive exchange of information via\nelectronic communications networks between a finite number of\npersons, whereby the persons initiating or participating in the\ncommunication determine its recipient(s), and does not include\nservices which enable interpersonal and interactive communication\nmerely as a minor ancillary feature that is intrinsically linked to\nanother service;\n\"internal market\" means the internal market of the European\nUnion;\n\"ITU Radio Regulations\" means the Radio Regulations annexed\nto, or regarded as being annexed to the most recent International\nTe l e c o m m u n i c a t i o n s C o n v e n t i o n o f t h e I n t e r n a t i o n a l\nTelecommunications Union (ITU) which is in force at that time;\n\" l o c a l l o o p \" m e an s t he ph y sic al p at h u sed b y el ect r on i c\ncommunications signals connecting the network termination point to a\ndistribution frame or equivalent facility in the fixed public electronic\ncommunications network;\n\"Member State\" means a Member State of the European Union;\n\"the Minister\" means the Minister responsible for\ncommunications;\n\"national regulatory authority\" means the body or bodies notified\nfor the purposes of European Union law to the European\nCommission by a Member State as having been assigned tasks in\n\nthe regulation of electronic communications services, electronic\ncommunications networks, associated facilities and associated\nservices;\n\"network termination point\" means the physical point at which an\nend-user is provided with access to a public electronic\ncommunications network, and which in the case of networks involving\nswitching or routing is identified by means of a specific network\naddress, which may be linked to a number or name of an end-user;\n\"number-based interpersonal communications service\" means an\ninterpersonal communications service which connects with\npublicly assigned numbering resources, namely a number or\nnumbers in national or international numbering plans, or which\nenables communication with a number or numbers in national or\ninternational numbering plans:\nProvided that the mere use of a number as an identifier\nshould not be considered to be equivalent to the use of a number to\nconnect with publicly assigned numbers and should therefore, in\nitself, not be considered to be sufficient to qualify a service as a\nnumber-based interpersonal communication service;\n\"operator\" means an undertaking providing or authorised to\nprovide a public communications network or an associated facility;\n\"prescribed\" means prescribed by regulations made under this\nAct;\n\"provision of an electronic communications network\" means the\nestablishment, operation, control or making available of such a\nnetwork;\n\"public electronic communications network\" means an electronic\ncommunications network used wholly or mainly for the provision\nof electronic communications services available to the public\nwhich support the transfer of information between network\ntermination points;\n\"public safety answering point\" or \"PSAP\" means a physical\nlocation where an emergency communication is first received under\nthe responsibility of a public authority or a private organisation\nrecognized by the Government;\n\"publicly available electronic communications service\" means an\nelectronic communications service available to the public;\n\"radio spectrum allocation\" means the designation of a given\nradio sp ectrum band for use by on e or m ore types of radio\ncommunications services, where appropriate, under specified\nconditions;\n\"Regulation (EU) No. 531/2012\" means Regulation (EU) No 531/\n2012 of the European Parliament and of the Council of 13 June\n2012 on roaming on public mobile communications networks\nwithin the European Union;\n\"Regulation (EU) 2015/2120\" means Regulation (EU) 2015/2120\nof the European Parliament and of the Council of 25 November\n2015 laying down measures concerning open internet access and\n\nCAP. 399.]\n\namending Directive 2002/22/EC on universal service and users’\nrights relating to electronic communications networks and services\nand Regulation (EU) No. 531/2012 on roaming on public mobile\ncommunications networks within the European Union;\n\"RSPG\" means the Radio Spectrum Policy Group established by the\nEuropean Commission Decision of 11 June 2019 setting up the Radio\nSpectrum Policy Group;\n\"satellite earth station network\" mean a configuration of two or\nmore earth stations which inter-work by means of a satellite;\n\"sec urit y o f ne tw orks an d services\" means the a bility of\nelectronic communications networks and services to resist, at a\ngiven level of confidence, any action that compromises the\navailability, authenticity, integrity or confidentiality of those\nnetworks and services, of stored or transmitted or processed data,\nor of the related services offered by, or accessible through, those\nelectronic communications networks or services;\n\"shared use of radio spectrum\" means access by two or more\nusers to use the same radio spectrum bands under a defined sharing\narrangement, authorised on the basis of a general authorization,\nindividual rights of use for radio spectrum or a combination\nthereof, including regulatory approaches such as licensed shared\naccess aiming to facilitate the shared use of a radio spectrum band,\nsubject to a binding agreement of all parties involved, in\naccordance with sharing rules as included in their rights of use for\nradio spectrum in order to guarantee to all users predictable and\nreliable sharing arrangements, and without prejudice to the\napplication of competition law;\n\"significant market power\" or \"SMP\" means a position\ne q ui v a le n t t o d o m in a n c e e n j oy e d b y a n u n de r t a k i n g e i t he r\nindividually or jointly with others that is to say a position of\ne c o n o m i c s t r e n g t h a ff o r d i n g i t t h e p o w e r t o b e h a v e t o a n\nappreciable extent independently of competitors, customers and\nultimately consumers;\n\"special rights\" means the rights that are granted to a limited\nnumber of undertakings which, within a given geographical area:\n(i)\n\ndesignates or limits to two or more the number\nof such undertakings authorised to provide an\nelectronic communications service or undertake\nan\nelectronic\ncommunications\nactivity,\notherwise than according to objective,\nproportional and non-discriminatory criteria, or\n(ii) confers on undertakings, otherwise than\naccording to such criteria, legal or regulatory\nadvantages which substantially affect the ability\nof any other undertaking to provide the same\nelectronic communications activity in the same\ngeographical area under substantially equivalent\nconditions;\n\n\"terminal equipment\" means terminal equipment as defined in\npoint (1) of Article 1 of EU Commission Directive 2008/63/EC;\n\" Tr i b u n a l \" m e a n s t h e A d m i n i s t r a t i v e R e v i e w Tr i b u n a l\nestablished by article 5 of the Administrative Justice Act;\n\n\"undertaking\" means a person providing or authorised to provide\nelectronic communications networks and, or services or associated\nfacilities;\n\"universal services\" means the minimum set of services of\nspecified quality which is available to all users regardless of their\ngeo graphical locati on and, in the light of sp ecifi c natio nal\nconditions, at an affordable price as may be defined by or under\nthis Act;\n\"user\" means any person using or requesting a publicly available\nelectronic communications service;\n\"v ery hi gh ca paci ty n etwork\" me ans eithe r an electronic\ncommunications network which consists wholly of optical fibre\nelements at least up to the distribution point at the serving location,\nor an electronic communications network which is capable of\ndelivering, under usual peak-time conditions, similar network\nperformance in terms of available downlink and uplink bandwidth,\nresilience, error-related parameters, and latency and its variation:\nProvided that network performance can be considered\nsimilar regardless of whether the end-user experience varies due to\nthe inherently different characteristics of the medium by which the\nnetwork ultimately connects with the network termination point;\nand\n\"voice communications service\" means a publicly available\nelectronic communications service which uses specifically assigned\nnumb ering reso urces from the nat ional nu mberi ng plan for\noriginating and receiving, directly or indirectly, national calls or\nnational and international calls through a number or numbers in a\nnational or international numbering plan. \"Voice communications\nservice\" is a subset of \"number-based interpersonal communications\nservice.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 429
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. Policy Objectives",
-      "content": "In carrying out its functions under this Act, the Authority shall aim to promote competition in the provision of electronic communications networks, electronic communications services, and associated facilities and services; to contribute to the development of the internal market by cooperating with other national regulatory authorities and with the European Commission; to promote the interests of citizens; and to contribute to the digital transition and to investment in new and enhanced network infrastructure. The Authority shall promote access to, and take-up of, high-capacity networks, including networks based on optical fibre, and spectrum and numbering resources, as well as the roll-out of 5G and other advanced networks."
+      "title": "VII. 2004.13",
+      "content": "(1) The Malta Communications Authority established\nunder the Malta Communications Authority Act shall be the\ncompetent authority to regulate electronic communications under\nthis Act and, insofar as is provided in this Act, to enforce the\nprovisions of this Act.\n(2)\nThe Authority shall have a separate annual budget which it\nshall implement autonomously, which budget shall be made public.\nThe Authority shall be afforded adequate financial and human\nresources to carry out its functions under this Act and under any\nother applicable laws relating to electronic communications which\n\nMalta\nCommunications\nAuthority.\nSubstituted by:\nXVIII. 2000.31;\nVII. 2004.14;\nIX. 2011.4.\nAmended by:\nLII. 2021.15.\n\nCAP. 399.]\n\nthe Authority is entitled to enforce, including such resources to\nenable the Authority to actively participate in and contribute to\nBEREC and to any functions related to international cooperation.\n(3) In fulfilling its functions and duties under this Act and under\nany other laws relating to electronic communications which the\nAuthority is entitled to enforce, the Authority shall actively support\nthe goals of BEREC of promoting greater regulatory coordination and\nconsistency in the application of the Electronic Communications\nCode, and shall also take the utmost account of the guidelines,\nopinions, recommendations, common positions, best practices and\nmethodologies adopted by BEREC when the Authority is adopting\ndecisions for national markets.\n(4) In the exercise of its functions and duties under this Act and\nunder any other laws relating to electronic communications which\nthe Authority is entitled to enforce, the Authority shall take utmost\naccount of the relevant European Commission recommendations.\nWith reference to recommendations issued in accordance with\nArticle 38 of the Electronic Communications Code, the Authority\nshall, if it chooses not to follow a recommendation, inform the\nEuropean Commission, giving the reasons for its position.\nObjectives of the\nAuthority.\nSubstituted by:\nXVIII. 2000.31;\nVII. 2004.15.\nAmended by:\nIX. 2011.3, 5;\nVIII. 2014.41.\nSubstituted by:\nLII. 2021.14.",
+      "metadata": {
+        "source_line_start": 431,
+        "source_line_end": 492
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. General Authorisation",
-      "content": "Any natural or legal person may provide electronic communications networks or services subject to a general authorisation that takes effect upon notification to the Authority. Providers shall not be required to obtain an explicit decision or administrative act prior to commencing the provision of electronic communications networks or services under the general authorisation. The general authorisation shall impose conditions that are objectively justified in relation to the network or service concerned, proportionate, and non-discriminatory. The Authority shall publish the applicable conditions and shall ensure they are easily accessible. Rights of use for radio frequencies or numbers shall be granted through a separate procedure upon application, in addition to the general authorisation."
+      "title": "Authority",
+      "content": "(1) In the carrying out of its tasks at law, the Authority\nshall, to the extent that it is empowered at law, pursue and take the\nutmost account of each of the following policy objectives:\n(a) promote connectivity and access to, and take-up of,\nvery high capacity networks, including fixed, mobile\nand wireless networks, by all citizens and businesses\nof the European Union;\n(b) promote competition in the provision of electronic\ncommunications networks and associated facilities,\nincluding efficient infrastructure-based competition,\nand in the provision of electronic communications\nservices and associated services;\n(c) contribute to the development of the internal market\nby removing remaining obstacles to, and facilitating\nconvergent conditions for, investment in, and the\nprovision of, electronic communications networks,\nelectronic communications services, associated\nfacilities and associated services, throughout the\nEuropean Union, by developing common rules and\npredictable regulatory approaches, by favouring the\neffective, efficient and coordinated use of radio\nspectrum, open innovation, the establishment and\ndevelopment of trans-European networks, the\nprovision, availability and interoperability of panEuropean services, and end-to-end connectivity;\n(d) promote the interests of the citizens of the European\nUnion, by ensuring connectivity and the widespread\navailability and take-up of very high capacity\nnetworks, including fixed, mobile and wireless\nnetworks, and of electronic communications services,\nby enabling maximum benefits in terms of choice,\n\nprice and quality on the basis of effective competition,\nby maintaining the security of networks and services,\nby ensuring a high and common level of protection for\nend-users through the necessary sector-specific rules\nand by addressing the needs, such as affordable prices,\nof specific social groups, in particular end-users with\ndisabilities, elderly end-users and end-users with\nspecial social needs, and choice and equivalent access\nfor end-users with disabilities:\nProvided that where the European Commission\nestablishes benchmarks and reports on the\neffectiveness of the measures taken by the Authority\ntowards achieving the objectives referred to in this\nsub-article, the Authority shall, where necessary, assist\nthe European Commission.\n(2) The Authority shall, in pursuit of the policy objectives\nreferred to in sub-article (1), inter alia:\n(a) promote regulatory predictability by ensuring a\nconsistent regulatory approach over appropriate\nreview periods and through cooperation with other\nnational regulatory and competent authorities in other\nMember States, with BEREC, with the RSPG and with\nthe European Commission;\n(b) ensure that, in similar circumstances, there is no\ndiscrimination in the treatment of providers of\nelectronic communications networks and services;\n(c) apply national law and European Union law in a\ntechnically neutral fashion, to the extent that this is\nconsistent with the achievement of the objectives set\nout in sub-article (1);\n(d) promote efficient investment and innovation in new\nand enhanced infrastructures, including by ensuring\nthat any access obligation takes appropriate account of\nthe risk incurred by the investing undertakings and by\npermitting various cooperative arrangements between\ninvestors and parties seeking access to diversify the\nrisk of investment, whilst ensuring that competition in\nthe market and the principle of non-discrimination are\npreserved;\n(e) take due account of the variety of conditions relating\nto infrastructure, competition, the circumstances of\nend-users and, in particular consumers in the various\ngeographic areas in Malta including local\ninfrastructure managed by natural persons on a notfor-profit basis; and\n(f)\n\nimpose ex-ante regulatory obligations only to the\nextent necessary to secure effective and sustainable\ncompetition in the interest of end-users and relax or\nlift such obligations as soon as that condition is\nfulfilled.\n\nCAP. 399.]\n\n(3) The Authority shall, in the performance of its functions at\nlaw, act impartially, objectively, transparently and in a nondiscriminatory and proportionate manner.\n(4) The Authority shall contribute to the development of the\ninternal market by working in a transparent manner with the\nnational regulatory authorities of other Member States, the\nEuropean Commission and BEREC, in order to ensure the\nconsistent application in all Member States of the Electronic\nC o m m u n ic a t i o n s Co d e. I n d o in g s o t he A ut h o r i ty s h a ll , i n\nparticular, work with the European Commission and BEREC to\nidentify the types of instruments and remedies best suited to\naddress particular types of situations in the market.\nStrategic planning\nand coordination\nof radio spectrum\npolicy.\nAdded by:\nLII. 2021.17.",
+      "metadata": {
+        "source_line_start": 493,
+        "source_line_end": 608
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s4a",
+      "section": "4A",
+      "title": "LII. 2021.17",
+      "content": "(1) The Authority shall cooperate with the competent\na u t h o r i t i e s i n o t h e r M e m b e r St a t e s a n d w i t h t h e E u r o p e a n\nCommission in the strategic planning and harmonisation of the use\nof radio spectrum in the European Union in accordance with\nEuropean Union policies for the establishment and functioning of\nthe internal market in electronic communications. In doing so it\nshall take into consideration, inter alia, the economic, safety,\nhealth, public interest, freedom of expression, cultural, scientific,\nsocial and technical aspects of European Union policies, as well as\nthe various interests of radio spectrum user communities, with the\naim of optimising the use of radio spectrum and avoiding harmful\ninterference.\n(2)\nThe Authority in cooperating with the competent\na u t h o r i t i e s i n o t h e r M e m b e r St a t e s a n d w i t h t h e E u r o p e a n\nCommission shall promote the coordination of radio policy\napproaches in the European Union and, where appropriate,\nharmonised conditions with regard to the availability and efficient\nu s e o f r a d i o sp e c t r u m n e c e s s a r y f o r t h e e s t a bl i s hm e n t a n d\nfunctioning of the internal market in electronic communications.\n(3)\nThe Authority shall, through the RSPG, cooperate with\nthe competent authorities in other Member States and with the\nEuropean Commission in accordance with sub-article (1), and upon\ntheir request with the European Parliament and with the Council, in\nsupport of the strategic planning and coordination of radio\nspectrum policy approaches in the European Union, by:\n(a) developing best practices on radio spectrum related\nmatters, with a view to implementing the Electronic\nCommunications Code;\n(b) facilitating the coordination between Malta and other\nMember States with a view to implementing the\nElectronic Communications Code and other European\nUnion law and to contributing to the development of\nthe internal market; and\n(c) co-ordinating the approaches to the assignment and\nauthorisation of use of radio spectrum and publishing\nreports or opinions on radio spectrum related matters.",
+      "metadata": {
+        "source_line_start": 609,
+        "source_line_end": 654
+      }
+    },
+    {
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. Market Analysis and Significant Market Power",
-      "content": "The Authority shall define relevant markets appropriate to national circumstances in accordance with principles of competition law, taking utmost account of Commission recommendations, and shall carry out analyses of those markets. Where the Authority determines that a relevant market is effectively competitive, it shall not impose or maintain obligations on operators in that market. Where the Authority determines that a relevant market is not effectively competitive, it shall identify providers with significant market power on that market and shall impose, maintain, amend, or withdraw appropriate regulatory obligations. Before taking decisions under this Article, the Authority shall consult with the European Commission, BEREC, and the national regulatory authorities of Member States likely to be affected."
+      "title": "Section 5",
+      "content": "(1) This Act shall apply to the various electronic\ncommunications markets unless otherwise stated in this Act or any\nother law.\n\nApplicability of\nthis Act.\nAmended by:\nXIX. 1998.3;\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.17.\nAmended by:\nIX. 2011.3, 6;\nVIII. 2014.42;\nLII. 2021.18.",
+      "metadata": {
+        "source_line_start": 655,
+        "source_line_end": 670
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s1a",
+      "section": "1A",
+      "title": "LII. 2021.18",
+      "content": "The provisions of this Act shall also apply, in accordance with\nthe provisions of the 1982 United Nations Convention on the Law of\nthe Sea as ratified by the Law of the Sea (Ratification) Act, to an\nexclusive economic zone area or an environment protection area as\ndefined in the Exclusive Economic Zone Act. Any artificial island,\ninstallation, structure, equipment or device therein shall, solely for the\npurposes of this Act, be treated as if they were situated in Malta itself.\n\nExtension of\napplicability to\nexclusive\neconomic zone\narea or\nenvironment\nprotection area.\nAdded by:\nXXXV.2023.41.\n\n(2) This Act shall not apply to the content of any\ncommunications, howsoever described, transmitted through any\nelectronic communications network.\n(3)\n\nThe provisions of this Act shall be without prejudice to:\n(a) obligations imposed by any other law in respect of\nservices provided using electronic communications\nnetworks and services;\n(b) measures taken at European Union or national level, in\naccordance with European Union law, to pursue\ngeneral interest objectives in particular relating to the\nprotection of personal data and privacy, content\nregulation and audiovisual policy;\n(c) the operation of any other law relating to radio and\ntelecommunications terminal equipment;\n(d) any action taken for public order and public security\npurposes and for defence; or\n(e) Regulations (EU) No. 531/2012 and (EU) 2015/2120\nand the Radio Equipment Regulations.",
+      "metadata": {
+        "source_line_start": 671,
+        "source_line_end": 711
+      }
+    },
+    {
+      "provision_ref": "s5a",
+      "section": "5A",
+      "title": "and the Radio Equipment Regulations",
+      "content": "tasks:\n\n(1)\n\nThe Authority shall be responsible for the following\n\n(a) implementing ex ante market regulation, including the\nimposition of access and interconnection obligations;\n(b) ensuring the\nundertakings;\n\nresolution\n\nof\n\ndisputes\n\nbetween\n\n(c) managing the general authorisation framework;\n(d) developing the frequency plan;\n(e) carrying out radio spectrum management and\ndecisions, including matters relating to market-shaping\nand competition elements of processes related to the\nrights of use for radio spectrum for electronic\ncommunications networks and services;\n\nTasks onerous on\nthe Authority\nspecific to\nelectronic\ncommunications.\nAdded by:\nLII. 2021.19.\n\nCAP. 399.]\n\n(f)\n\ncontributing to the protection of end-user rights in the\nelectronic communications sector, in coordination,\nwhere relevant with other competent authorities;\n\n(g) developing and managing the national numbering plan\nand the granting of rights of use for all national\nnumbering resources;\n(h) assessing and monitoring closely market-shaping and\ncompetition issues regarding open internet access;\n(i)\n\nensuring the integrity and security of public electronic\ncommunications networks and publicly available\nelectronic communications service;\n\n(j)\n\nassessing the unfair burden and calculating the net cost\nof the provision of universal service; and\n\n(k) ensuring number portability between providers of\nvoice communications services.\n(2) The performance of the tasks listed under sub-article (1)\nshall be without prejudice to any other tasks which the Authority is\nrequired to perform by law.\n(3) The Authority shall publish in an easily accessible form the\ntasks assigned to it under the Electronic Communications Code and\nwhere applicable those assigned to other competent authorities, as\nwell as any change thereof.\nAdded by:\nVII. 2004.18.",
+      "metadata": {
+        "source_line_start": 712,
+        "source_line_end": 788
+      }
+    },
+    {
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Access and Interconnection",
-      "content": "The Authority may, acting in accordance with its policy objectives, impose obligations on providers of public electronic communications networks to negotiate in good faith with undertakings requesting access or interconnection; not to withdraw access already granted; to grant open access to technical interfaces, protocols, or other key technologies that are indispensable for the interoperability of services; to provide co-location or other forms of physical facility sharing; to provide specified services needed to ensure interoperability of end-to-end services; or to provide access to operational support systems. Obligations shall be proportionate to the identified competitive problems and shall be maintained only as long as necessary."
+      "title": "XXX. 2007.22",
+      "content": "Any person shall install or operate any electronic\ncommunications network or provide any electronic\ncommunications service in Malta in compliance with this Act.\n\nSpecial obligations\nof providers of\npublic electronic\ncommunications\nnetworks.\nAdded by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nXXX. 2007.23;\nIX. 2011.7;\nLII. 2021.20.",
+      "metadata": {
+        "source_line_start": 804,
+        "source_line_end": 822
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Universal Service",
-      "content": "The Authority shall ensure that at least one provider designated under this Act delivers access to functional internet access service and voice communications services to all end-users at an affordable price within the national territory. The Authority shall determine whether functional internet access service meets the social and economic needs of Maltese citizens and businesses having regard to bandwidth levels, quality of service, and prevailing prices. The Authority may impose universal service obligations on one or more designated providers and shall establish a mechanism for calculating any net costs of universal service obligations that represent an unfair burden, and for financing those costs, in accordance with Union law."
+      "title": "LII. 2021.20",
+      "content": "An undertaking authorised by or under this Act to operate a\npublic electronic communications network shall, in addition to\ncomplying with the provisions of this Act and with obligations in\naccordance with its authorisation, ensure:\n(a) that the capacity, quantity and features of the network\nare sufficient for providing and maintaining an\nefficient electronic communications network;\n(b) that the network is sufficient for and compatible with\nsuch international electronic communications services\nas the Authority may specify;\n(c) the security of the network and any extension thereof;\nand\n(d) that no person shall carry out any works or perform\nany other act, or be entrusted to carry out such works\nor perform such act, for the construction, repair,\nmaintenance, alteration or control of any electronic\n\ncommunications networks and, or equipment unless he\nis duly qualified and possesses such qualifications to\ncarry out such works or perform such act as may be\nprescribed in accordance with the provisions of article",
+      "metadata": {
+        "source_line_start": 823,
+        "source_line_end": 851
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Consumer Protection",
-      "content": "Providers of publicly available electronic communications services shall ensure that end-users have access to clear, comprehensive, and comparable information about the services they provide. Contracts shall specify at a minimum the identity and contact details of the provider, the services provided and their quality parameters, the prices and applicable charges, the duration of the contract and conditions for renewal and termination, and the means of initiating dispute resolution procedures. End-users shall have the right to terminate contracts without penalty upon notification of any change in contractual conditions proposed by the provider, unless the proposed changes are exclusively to the benefit of the end-user. Providers shall implement effective and transparent complaint handling mechanisms."
+      "title": "prescribed in accordance with the provisions of article",
+      "content": "An undertaking authorised by or under this Act to provide\na publicly available electronic communications service shall (a) provide such services efficiently, complying with the\nstandards for quality generally accepted in the industry\nor as may from time to time be specified by the\nAuthority;\n(b) notify the Authority and publish by notice in the media\nwhen the services are to be interrupted for the\ninstallation or repair or the changing of apparatus;\n\nSpecial obligations\nof providers of\npublicly available\nelectronic\ncommunications\nservices.\nAdded by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nXXX. 2007.24;\nIX. 2011.3, 8.\n\n(c) establish an efficient mechanism for receiving\ncomplaints and repairing failures in its networks and in\nthe services provided.",
+      "metadata": {
+        "source_line_start": 853,
+        "source_line_end": 879
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Spectrum Management",
-      "content": "The Authority shall manage the spectrum bands allocated to electronic communications services in accordance with national frequency allocation plans and applicable Union law, including the Radio Spectrum Policy Programme and spectrum coordination decisions of the European Commission. The Authority shall promote the efficient use of spectrum through authorisation frameworks based on general authorisations where technically and economically feasible, individual rights of use where necessary, and spectrum sharing arrangements. The Authority shall participate in multilateral and bilateral coordination with spectrum management authorities of other states and shall cooperate within the framework of the Radio Spectrum Committee and the Radio Spectrum Policy Group."
+      "title": "the services provided",
+      "content": "The Authority shall, subject to any procedures as may be\nprescribed under this Act and in accordance with the principles of\ncompetition law, define relevant markets appropriate to national\ncircumstances, in particular relevant geographic markets and it\nshall carry out an analysis of such relevant markets.\n\nMarket definition\nand analysis.\nSubstituted by:\nLII. 2021.21.",
+      "metadata": {
+        "source_line_start": 880,
+        "source_line_end": 891
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. Number Portability",
-      "content": "The Authority shall ensure that subscribers of publicly available telephone services can retain their number when changing provider, in accordance with the requirements of Directive (EU) 2018/1972. The porting of numbers shall be carried out without undue delay and at the latest within one working day following the conclusion of the porting agreement. Providers shall not use porting or pre-porting processes to deter subscribers from changing provider. The Authority shall establish number porting procedures and may impose technical and operational requirements on providers to facilitate number portability, and shall monitor compliance through annual reporting."
+      "title": "LII. 2021.21",
+      "content": "The Authority shall establish and manage the national\nnumbering plan for electronic communication services, and shall\ncontrol the allocation and assignment of all national numbering\nresources.\n\nNumbers.\nAdded by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nL.N. 425 of 2007’\nXXX. 2007.25;\nIX. 2011.10, 11.\nSubstituted by:\nLII. 2021.22.",
+      "metadata": {
+        "source_line_start": 892,
+        "source_line_end": 908
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Emergency Communications",
-      "content": "Providers of publicly available telephone services shall ensure free access to emergency communications services through the single European emergency number 112 from all terminal equipment, including mobile terminals and terminals capable of making voice calls via the internet. Providers shall ensure that the most accurate caller location information technically feasible is made available to the emergency services call centre receiving calls to 112. Providers shall ensure that access to emergency services is available to users with disabilities on an equivalent basis to other users. The Authority shall establish and monitor compliance with requirements for the implementation of emergency communications, in coordination with the competent authorities responsible for emergency services."
+      "title": "Numbers",
+      "content": "(1) Without prejudice to the Electronic Communications\nCode, no restrictions shall be imposed or maintained on the\nprovision of electronic communications services over electronic\ncommunications networks established by an undertaking providing\nelectronic communications services, over infrastructures provided\nby third parties, or by means of sharing networks, other facilities or\nsites.\n\nProhibition of\nrestrictions.\nAmended by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19;\nIX. 2011.12.\nAmended by:\nLII. 2021.23.\n\n(2 No exclusive or special rights for the establishment and, or\nthe provision of electronic communications networks, or for the\nprovision of publicly available electronic communications services\nshall be granted or maintained in force.",
+      "metadata": {
+        "source_line_start": 909,
+        "source_line_end": 930
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. Security of Networks and Services",
-      "content": "Providers of public electronic communications networks and publicly available electronic communications services shall take appropriate technical and organisational measures to appropriately manage the security of their networks and services and to minimise the impact of security incidents. Measures shall ensure a level of security appropriate to the risk presented and shall address physical and environmental security, security of network integrity, security of network elements and interfaces, and security operations including monitoring, fault management, and incident response. Providers shall notify MITA and, where the incident has an impact on personal data, the Commissioner for Data Protection, of significant security breaches or losses of integrity."
+      "title": "shall be granted or maintained in force",
+      "content": "(Deleted by Act LII.2021.24).\n\nImposition of\nsharing of wiring\nobligations\nAdded by:\nIX. 2011.13.\nSubstituted by:\nXVIII. 2016.20.\n\nCAP. 399.]\n\nAccess to inbuilding physical\ninfrastructure.\nAdded by:\nXVIII. 2016.20.",
+      "metadata": {
+        "source_line_start": 931,
+        "source_line_end": 955
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s12a",
+      "section": "12A",
+      "title": "Cap. 81",
+      "content": "(Deleted by Act LII.2021.24).",
+      "metadata": {
+        "source_line_start": 956,
+        "source_line_end": 957
+      }
+    },
+    {
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Article 13. Infrastructure Deployment",
-      "content": "The Authority, in coordination with relevant planning and local authorities, shall facilitate the deployment of electronic communications infrastructure, including the co-location and sharing of infrastructure, in-building physical infrastructure, and access to public land and property. Operators shall have the right to deploy electronic communications infrastructure, including cables and associated facilities, on public and private land subject to applicable planning and environmental requirements and to the payment of reasonable compensation where applicable. The Authority may mediate disputes between providers and between providers and infrastructure owners arising from the exercise of infrastructure deployment rights."
+      "title": "Cap. 418",
+      "content": "The Authority shall, acting in accordance with its\nobjectives as stated in this Act and in the Malta Communications\nAuthority Act, encourage and where appropriate, ensure, in\naccordance with the provisions made by or under this Act, adequate\naccess and interconnection and interoperability of services in such\na way as to:\n(a) promote efficiency;\n(b) promote sustainable competition;\n(c) promote efficient investment and innovation; and\n(d) give the maximum benefit to end-users.\n\nProhibition of\nrestrictions.\nAmended by:\nXVIII. 2000.31;\nXXVII. 2002.58.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nL.N. 425 of 2007;\nXXX. 2007.26;\nIX. 2011.15.",
+      "metadata": {
+        "source_line_start": 973,
+        "source_line_end": 995
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Dispute Resolution",
-      "content": "The Authority shall maintain procedures for the resolution of disputes between providers of electronic communications networks and services arising in connection with obligations under this Act. Any party to such a dispute may refer the matter to the Authority, which shall use its best endeavours to resolve the dispute through facilitated negotiation and, where parties cannot reach agreement, shall issue a binding decision within four months of the referral. The Authority shall publish its dispute resolution procedures and shall make available reasoned decisions, subject to requirements of commercial confidentiality. Decisions of the Authority may be appealed before the competent courts within thirty days of notification."
+      "title": "IX. 2011.15",
+      "content": "(Deleted by Act LII.2021.25).\n\nObligation of\nundertakings in\nrelation to\naccounting\nseparation.\nAmended by:\nXVIII. 2000.31;\nXXVII. 2002.58.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nL.N. 425 of 2007;\nXXX. 2007.27;\nIX. 2011.16.",
+      "metadata": {
+        "source_line_start": 996,
+        "source_line_end": 1012
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Broadband and Connectivity",
-      "content": "The Authority shall promote the roll-out of broadband electronic communications networks, including very high capacity networks, across Malta, and shall remove regulatory barriers to investment in such networks where consistent with its other regulatory objectives. In cooperation with the relevant government ministry, the Authority shall implement national broadband strategy objectives and shall administer any public support schemes for broadband deployment in areas where market-driven deployment is not commercially viable. The Authority shall monitor broadband coverage and quality indicators and shall publish annual reports on connectivity developments in Malta, contributing to relevant Union-level monitoring frameworks."
+      "title": "IX. 2011.16",
+      "content": "(Deleted by Act LII.2021.25).\n\nFinancial\nreporting.\nAmended by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nL.N. 425 of 2007;\nXXX. 2007.28;\nIX. 2011.17.",
+      "metadata": {
+        "source_line_start": 1013,
+        "source_line_end": 1028
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. Enforcement Powers",
-      "content": "The Authority shall have the power to investigate potential breaches of this Act and applicable regulations, including through the power to require providers to supply information, to carry out inspections of providers' premises and systems, and to take evidence. Where the Authority identifies a breach of applicable obligations, it shall notify the provider of the identified breach and shall give the provider the opportunity to make representations. Following the notification procedure, the Authority may issue binding decisions requiring the provider to take specified corrective action, impose financial penalties, suspend or withdraw rights of use, or take other proportionate enforcement action. Financial penalties shall be proportionate to the nature and duration of the breach."
+      "title": "Cap. 386",
+      "content": "(Deleted by Act LII.2021.25).",
+      "metadata": {
+        "source_line_start": 1029,
+        "source_line_end": 1032
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "IX. 2011.18",
+      "content": "(Deleted by Act LII.2021.25).\n\nGeneral\nauthorisations.\nAmended by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nIX. 2011.19.",
+      "metadata": {
+        "source_line_start": 1045,
+        "source_line_end": 1055
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "IX. 2011.19",
+      "content": "(Deleted by Act LII.2021.25).\n\nAdministrative\ncharges.\nAmended by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nIX. 2011.20.",
+      "metadata": {
+        "source_line_start": 1056,
+        "source_line_end": 1066
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "IX. 2011.20",
+      "content": "(Deleted by Act LII.2021.25).\n\nAuthorisation of\nelectronic\ncommunications\nnetworks and\nservices.\nAmended by:\nXIX. 1998.3;\nXVIII. 2000.31;\nVI. 2001.29.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nL.N. 425 of 2007;\nXXX. 2007.29;\nIX. 2011.21.",
+      "metadata": {
+        "source_line_start": 1067,
+        "source_line_end": 1084
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "IX. 2011.21",
+      "content": "(Deleted by Act LII.2021.25).\n\nAmendments of\ngeneral\nauthorisation and\nof rights of use.\nAdded by:\nIX. 2011.23.",
+      "metadata": {
+        "source_line_start": 1085,
+        "source_line_end": 1095
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "IX. 2011.23",
+      "content": "(Deleted by Act LII.2021.25).\n\nRequirement to\nobtain other\nauthorisations, etc.,\nrequired at law.\nAdded by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19.\nAmended by:\nIX. 2011.24.",
+      "metadata": {
+        "source_line_start": 1096,
+        "source_line_end": 1110
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "IX. 2011.24",
+      "content": "A vertically integrated undertaking, over which the\nGovernment of Malta or of a Member State has effective control,\nwhich provides electronic communications networks and which is\nin a dominant position shall not discriminate in favour of its own\nactivities.",
+      "metadata": {
+        "source_line_start": 1112,
+        "source_line_end": 1116
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "IX. 2011.25",
+      "content": "(Deleted by Act LII.2021.26).\n\nNullity of the\ncontract and of\ncertain terms and\nconditions.\nAmended by:\nXVIII. 2000.31.\nSubstituted by:\nVII. 2004.19;\nIX. 2011.26.",
+      "metadata": {
+        "source_line_start": 1148,
+        "source_line_end": 1159
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "IX. 2011.26",
+      "content": "(Deleted by Act LII.2021.26).",
+      "metadata": {
+        "source_line_start": 1160,
+        "source_line_end": 1180
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "LII. 2021.27",
+      "content": "(1) In this article:\n\"broadcaster\" means the natural or legal person who has editorial\nresponsibility for the composition of television programme services\nfor reception by the general public and transmits them, or has them\ntransmitted, complete and unchanged, by a third party;\n\"conditional access\" means any technical measure or\narrangement permitting access in an intelligible form, and subject\nto prior individual authorisation, to one of the services constituting\na protected service;\n\"conditional access device\" means any equipment, software, or\narrangement designed or adapted to give access in an intelligible\nform to one of the services constituting a protected service;\n\"illicit device\" means any equipment, software, or arrangement\ndesigned or adapted to give access in an intelligible form to one of\nthe services constituting a protected service without the\nauthorisation of the service provider;\n\"programme service\" means all the items within a single service\nprovided by a given broadcaster;\n\"protected service\" means any of the following services when\nprovided against remuneration and on the basis of conditional\naccess:\n(a) television programme services;\n(b) radio\nbroadcasting\nservices\nincluding\nradio\nprogrammes intended for reception by the public,\ntransmitted by wire or over the air, including by\nsatellite;\n(c) information society services offered by electronic\nmeans at a distance and at the individual request of the\nrecipient of the services; or\n(d) the provision of conditional access to the above\nservices considered as a service in its own right.\n\n(2)\n\nAny person who (a) manufactures or produces\ncommercial purposes; or\n\nillicit\n\ndevices\n\nfor\n\nInfringing acts\nconstituting a\ncriminal offence.\n\n(b) imports illicit devices into Malta for commercial\npurposes; or\n(c) distributes illicit devices in or from Malta for\ncommercial purposes; or\n(d) sells or rents out illicit devices for commercial\npurposes; or\n(e) is in possession of illicit devices for commercial\npurposes; or\n(f)\n\ninstalls, maintains or replaces illicit devices for\ncommercial purposes; or\n\n(g) commercially promotes, markets or advertises illicit\ndevices,\nshall, on conviction, be liable to imprisonment for a term not\nexceeding one year or to a fine (multa) of twenty-five thousand\neuro (€25,000) or to both such fine and imprisonment.\n(3) In proceedings taken under sub-article (2) the Court shall\norder the Commissioner of Police to destroy goods established to\nbe illicit devices without compensation of any sort to any person\nand, where a person is found guilty of infringing the provisions of\nsub-article (2) in respect of the said goods, at the cost of that\nperson.\n\nDestruction of\nillicit devices.\n\n(4) A provider of a protected service whose interests are\naffected by any act mentioned in sub-article (2)(a) to (g) shall have\nagainst the perpetrator of any such act and in respect of such act:\n\nCivil proceedings.\n\n(a) a civil action for damages, and\n(b) a right to demand a warrant of prohibitory injunction\nto obtain provisional protection of his interests, and\n(c) a right to demand an order from the competent Court\nfor the destruction or, if appropriate, the disposal\noutside commercial channels of illicit devices.",
+      "metadata": {
+        "source_line_start": 1181,
+        "source_line_end": 1283
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Civil proceedings",
+      "content": "(1) In this Part:\n\"apparatus\" or \"equipment\" means an electrical or electronic\nproduct, which intentionally emits and, or receives radio waves for\nthe purpose of radiocommunication and, or radiodetermination, or\nan electrical or electronic product which must be completed with an\naccessory, such as antenna, so as to intentionally emit and, or\nreceive radio waves for the purpose of radiocommunication and, or\nradiodetermination;\n\"apparatus general authorisation\" means the framework\nestablished by or under this Part laying down the rights and\nobligations of persons installing, making use of or dealing in any\n\nInterpretation.\nAdded by:\nXII. 2010.5.\nAmended by:\nIX. 2011.3.\nRe-numbered by:\nIX. 2011.27.\nAmended by:\nLII. 2021.28.\n\nCAP. 399.]\n\nsuch radiocommunications apparatus as the Authority may from\ntime to time in accordance with the provisions of this Part by\ndecision designate;\n\"authorisation\" includes an individual authorisation or licence\nhowever so described issued under this Part, or any apparatus\ngeneral authorisation however so described applicable to any\nradiocommunications apparatus as may be provided by or under\nthis Part;\n\"broadcast receiving apparatus\" means any apparatus used or\ncapable of being used for the reception of sound or visual image or\nof sound and visual image transmissions intended for direct\nreception by the general public;\n\"installed\" means radiocomm unications apparatus that is\nconnected to a source of energy so as to intentionally emit and, or\nreceive radio waves;\n\"Part\" means this Part of this Act and includes any regulations\nmade thereunder unless the context otherwise requires;\n\"radiocommunications\" means communications involving the\ntransmission, emission and, or reception by means of radio waves;\n\"radiocommunications individual licence\" means an individual\nlicence given in accordance with article 30;\n\"radiodetermination\" means the determination of the position,\nvelocity and, or other characteristics of an object, or the obtaining\nof information relating to these parameters, by means of the\npropagation properties of radio waves; and\n\"radio waves\" means electromagnetic waves of frequencies\narbitrarily lower than 3000 GHz, propagated in space without\nartificial guide.\n(2) For the purpose of this Part any apparatus ordinarily used as\na distinctive component part of an apparatus for\nradiocommunications shall be deemed to be intended to be so used,\nunless the contrary is proved.\nDelegation of\npowers under this\nPart.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.\nAmended by:\nVIII. 2014.43.",
+      "metadata": {
+        "source_line_start": 1284,
+        "source_line_end": 1354
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Part",
+      "content": "(Deleted by Act LII.2021.29).\n\nRadiocommunications\napparatus\nauthorisations by\nthe Minister.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.\nAmended by:\nV. 2012.56.",
+      "metadata": {
+        "source_line_start": 1355,
+        "source_line_end": 1367
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "V. 2012.56",
+      "content": "(Deleted by Act LII.2021.29).",
+      "metadata": {
+        "source_line_start": 1368,
+        "source_line_end": 1374
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Section 29",
+      "content": "(Deleted by Act LII.2021.29).",
+      "metadata": {
+        "source_line_start": 1375,
+        "source_line_end": 1376
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Section 30",
+      "content": "(1) Unless otherwise provided by or under this Part, no\nperson shall, without a radiocommunications individual licence\ngiven in writing by the Authority, install or use an apparatus.\n\nEnforcement.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.\nIndividual\nlicences.\nSubstituted by:\nLII. 2021.30.\n\n(2) A radiocommunications individual licence granted under\nthis article may be issued subject to such terms, conditions and, or\nlimitations as the Authority may think fit, including in particular\nlimitations as to the apparatus which may be installed or used, the\nplaces where, the purposes for which, the circumstances in which\nand the persons by whom the apparatus may be used, as may be\nestablished under such a licence:\nProvided that any such licence may only be issued if the\nprescribed fee is first received in full:\nProvided further that any such licence may be revoked, or\nthe terms, conditions or limitations thereof varied by a notice in\nwriting of the Authority served on the holder of the individual\nlicence or by a general notice issued by the Authority, applicable to\nindividual licences of the class to which the individual licence in\nquestion belongs, and made public.\n(3) A radiocommunications individual licence shall, unless\npreviously revoked by the Authority, continue to be in force for\nsuch period as may be specified in the licence.",
+      "metadata": {
+        "source_line_start": 1377,
+        "source_line_end": 1411
+      }
+    },
+    {
+      "provision_ref": "s30a",
+      "section": "30A",
+      "title": "such period as may be specified in the licence",
+      "content": "(1) The Authority may by decision issue any apparatus\ngeneral authorisation. In doing so the Authority shall establish any\nsuch terms and conditions, including those of a technical nature, as\nit may consider necessary, in particular to ensure the efficient use\nof radio spectrum:\nProvided that the Authority may by decision amend any\nsuch terms or conditions.\n(2) In issuing or amending any apparatus general authorisation\nthe Authority shall first publish on its website and, or any other\nmeans of communication, a statement of the proposed apparatus\ngeneral authorisation or of any amendments thereto, giving any\ninterested parties the opportunity to comment on the proposed\napparatus general authorisation or amendments thereto within a\nperiod the Authority considers reasonable:\nProvided that the requirement for the Authority to publish\na statement of the proposed apparatus general authorisation or of\nany amendments thereto and to give any interested parties the\nopportunity to comm ent on the proposed apparatus general\nauthorisation or amendments thereto shall not apply where such\namendments are strictly limited to compliance with any\ninternational obligations of Malta.\n(3) The Authority shall ensure that any apparatus general\nauthorisations or amendments thereto are given publicity.\n\nApparatus general\nauthorisations.\nAdded by:\nLII. 2021.31.\n\nCAP. 399.]\n\nEnforcement.\nAdded by:\nLII. 2021.31.",
+      "metadata": {
+        "source_line_start": 1412,
+        "source_line_end": 1451
+      }
+    },
+    {
+      "provision_ref": "s30b",
+      "section": "30B",
+      "title": "Enforcement",
+      "content": "(1) The Authority may require any person who:\n(a) is using an apparatus in breach of any of the provisions\nof this Part and, or of any authorisation conditions as\nmay be applicable to that apparatus; or\n(b) is using or allowing such apparatus to be used for\nunauthorised frequencies,\nto desist from the use of any such apparatus and, or require such\na person to deliver the apparatus to the Authority:\nProvided that the Authority may seize and, or retain any\nsuch apparatus and, or cause the use of any such apparatus to be\ndisabled or restricted in any manner, under such conditions and for\nsuch period of time as the Authority may specify where it results to\nthe Authority that such apparatus is being used in breach of this Part\nor of any authorisation conditions that may apply in relation to the\nsaid apparatus.\n(2) Any expenses incurred by the Authority in the exercise of\nits functions under this article including in the seizure, retention, or\nstorage however so described of the said apparatus, shall be\nrecoverable as a civil debt by the Authority from any person acting\nin breach of this article.\n\nPunishments.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.\nSubstituted by:\nLII. 2021.32.\nAmended by:\nI.2024.4.",
+      "metadata": {
+        "source_line_start": 1452,
+        "source_line_end": 1482
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Punishments",
+      "content": "Unless otherwise provided in this Part, any person who\ncontravenes any of the provisions of this Part, or of any regulations\nmade thereunder, or who acts in breach of any terms, conditions or\nlimitations, however so described, attached to an individual licence\nor to an apparatus general authorisation, shall be liable on\nconviction to a fine (multa) of not less than five hundred euro\n(€500) and not more than twenty five thousand euro (€25,000) in\nrespect of each apparatus, and upon the demand of the prosecution,\nthe Court may order the apparatus to be forfeited and delivered to\nthe Authority to be disposed of or stored, as the Authority may\nconsider appropriate in the circumstances:\nProvided that the Authority shall in such instances recover\nas a civil debt any costs it may incur in the disposal or storage\nhowever so described of any such apparatus from the person found\nguilty.\n\nHarmful\ninterference\ncaused by\nradiocommunicati\nons apparatus.\nAdded by:\nLII. 2021.31.",
+      "metadata": {
+        "source_line_start": 1483,
+        "source_line_end": 1506
+      }
+    },
+    {
+      "provision_ref": "s31a",
+      "section": "31A",
+      "title": "LII. 2021.31",
+      "content": "(1) Radiocommunications apparatus shall only be used\nin a manner so as to effectively use and support the efficient use of\nradio spectrum in order to avoid harmful interference.\n(2) The Authority may authorise a public body established at\nlaw to install or use radiocommunications apparatus capable of\ncausing deliberate interference. Any such apparatus shall be used\nexclusively to satisfy exigencies of defence, public security\nrequirements, including the securing or maintaining security or\ngood order and discipline in correctional or detention institutions,\nhowever so described:\nProvided that no such authorisation shall be required in\ncases of manifest urgency which may cause a threat to public\nsecurity or public safety.\n(3)\n\nAn authorisation granted by the Authority under this article\n\nshall not in any manner constitute an authorisation to legally\nintercept communications.\n(4) In granting an authorisation in accordance with this article,\nthe Authority shall establish any technical and operational\nconditions which it deems appropriate to safeguard the integrity of\npublic electronic communications networks and, or services,\nincluding radiodetermination.\n(5) An authorisation granted under this article shall be in\nwriting.",
+      "metadata": {
+        "source_line_start": 1507,
+        "source_line_end": 1539
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "writing",
+      "content": "No authorisation is required for sound only broadcast\nreceivers.\n\nSound only\nbroadcast\nreceivers.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.",
+      "metadata": {
+        "source_line_start": 1540,
+        "source_line_end": 1550
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "IX. 2011.27",
+      "content": "The Minister may, after consultation with the Authority, by\norder in the Gazette exempt certain categories of apparatus from\nthe requirements of articles 30 and 30A.\n\nMinister may\nexempt certain\ncategories from\nrequirements of\narticles 30 and",
+      "metadata": {
+        "source_line_start": 1551,
+        "source_line_end": 1559
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "LII. 2021.34",
+      "content": "The Minister may make regulations for the better carrying\nout of any of the provisions of this Part and without prejudice to the\ngeneral ity of th e aforesaid p ower, such regu latio ns m ay in\nparticular provide:\n\nPower to make\nregulations.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.\nAmended by:\nLII. 2021.35;\nI.2024.5.\n\n(a) for the manner in which radiocommunications\napparatus however so described is to be installed, sold,\nhired, operated, maintained, protected or controlled,\nand in the case of any apparatus seized in accordance\nwith articles 30 or 32, the manner as to the disposal\nand, or storage of any such apparatus;\n(b) for the technical standards or specifications to be\nobserved with respect to any radiocommunications\napparatus;\n(c) for\nany\naspect\nrelating\nto\nthe\nuse\nof\nradiocommunications by aircrafts and ships, including\nmerchant ships, foreign warships and foreign military\naircraft;\n(d) that any person who contravenes any provision of any\nregulations made under this article shall either (i)\n\nbe guilty of an offence punishable on conviction\nof a fine (multa) not exceeding twenty five\nthousand euro (€25,000), and, or five hundred\neuro (€500) for each day during which the\noffence continues; or\n(ii) be guilty of an infringement punishable as an\nadministrative penalty provided that such\n\nCAP. 399.]\n\nadministrative penalties do not exceed twenty\nfive thousand euro (€25,000) for each\ninfringement and, or five hundred euro (€500)\nfor each day during which such infringement\ncontinues:\nProvided that:\n(A) the procedure for the imposition of such\nadministrative penalties shall allow for\nthe right to be heard to be respected\nbefore any such administrative penalties\nare imposed;\n(B)\n\n(C)\n\nthe procedure for the imposition and\ncontestation of such administrative\npenalties shall be that established in respect\nof administrative penalties imposed by the\nAuthority under Part VI of the Malta\nCommunications Authority Act, and the\nrelevant provisions of the said Act and of\nany regulations made thereunder in\nrespect of any such procedure shall apply\nmutatis mutandis to administrative\npenalties imposed by the Minister under\nthis Part in such a manner that any\nreference to the Authority shall be\nconstrued as a reference to the Minister;\nin all cases where the Minister or the\nAuthority imposes an administrative\npenalty in respect of anything done or\nomitted to be done by any person and\nsuch act or omission also constitutes a\ncriminal offence, no proceedings may be\ntaken or continued against the said person\nin respect of such criminal offence;\n\n(e) for any aspect relating to the form, substance and\nduration of any radiocommunications individual\nlicence, the conditions on which such a licence is to be\nissued and held, the fees payable thereon and the\nnature and character of the apparatus authorised by the\nlicence which a sea-going Maltese ship may be\nrequired to obtain to keep and use a\nradiocommunications installation;\n(f)\n\nfor any fees and, or charges, however so described,\nthat may be payable in relation to any matters\nregulated by this Part, including the issue or renewal\nof any individual radiocommunications licences or\nauthorisations however so described:\nProvided that the Minister may, with the\nconcurrence of the Minister responsible for finance,\nreduce or remit any such fee or charge. Before doing so\nthe Minister shall first consult the Authority;\n\n(g) for any procedures for the out-of-court settlement of\n\ndisputes that may arise, including any agreement in\nwriting that may be entered into with a person accused\nof an offence under this Part, and any agreement for\nthe payment of a fine (multa) in lieu of prosecution for\nan offence under this Part, this notwithstanding any\nprovisions of this Part;\n(h) for any matter that may be required for the purpose of\ncomplying with any international obligations of Malta\nrelating to radiocommunications including those\nrelating to standards in Malta:\nProvided that the Minister may, when making any\nregulations under this article which relate to standards,\nspecifications or to matters of a strictly technical nature, make such\nregulations in the English language only.",
+      "metadata": {
+        "source_line_start": 1568,
+        "source_line_end": 1702
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "regulations in the English language only",
+      "content": "(Deleted by Act LII.2021.36).\n\nExemption from\nthe provisions of\nthis Part.\nAdded by:\nXII. 2010.5.\nRe-numbered by:\nIX. 2011.27.",
+      "metadata": {
+        "source_line_start": 1703,
+        "source_line_end": 1723
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "LII. 2021.37",
+      "content": "(1) In this Part, unless the context otherwise requires,\n\"general authorisation\" means a framework established by or under\nthis Part laying down the rights and obligations for the use of radio\nspectrum, when the use of the radio spectrum is not subject to an\nindividual licence.\n(2) This Part regulates all radio spectrum, with the exception of\nany radio spectrum expressly regulated under any other law, and\nidentified as such in the Frequency Plan.",
+      "metadata": {
+        "source_line_start": 1724,
+        "source_line_end": 1731
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "identified as such in the Frequency Plan",
+      "content": "(1) The Authority shall facilitate the use of radio\nspectrum, including shared use, under general authorisations issued\nunder this Act or following individual rights of use for radio\nspectrum authorised by the Authority in accordance with this Act,\nor following explicit authorisation in accordance with any other\nlaw.\n(2) The Authority shall limit the granting of individual rights\nof use for radio spectrum to situations where such rights are\nnecessary to maximise efficient use because of demand and taking\ninto account the criteria set out in this sub-article. In all other\ncases, the Authority shall set out the conditions for the use of radio\nspectrum in a general authorisation. To this end the Authority shall\ndecide on the most appropriate regime for authorising the use of\nradio spectrum, taking account of:\n(a) the specific characteristics of the radio spectrum\nconcerned;\n(b) the need to protect against harmful interference;\n\nInterpretation.\nAdded by:\nVII. 2004.23.\nRe-numbered by:\nXII. 2010.5.\nSubstituted by:\nIX. 2011.29.\nAmended by:\nLII. 2021.38.\n\nAuthorisation of\nthe use of radio\nspectrum.\nSubstituted by:\nLII. 2021.39.\n\nCAP. 399.]\n\n(c) the development of reliable conditions for radio\nspectrum sharing, where appropriate;\n(d) the need to ensure technical quality of communications\nor service;\n(e) the objectives of general interest as laid down by the\nMinister in accordance with European Union law; and\n(f)\n\nthe need to safeguard efficient use of radio spectrum.\n\n(3) When considering whether to issue general authorisations\nor to grant individual rights of use for the harmonised radio\nspectrum, taking into account technical implementing measures\nadopted in accordance with Article 4 of Decision No. 676/2002/EC,\nthe Authority shall seek to minimise problems of harmful\ninterference, including in cases of shared use of radio spectrum on\nthe basis of a combination of general authorisation and individual\nrights of use:\nProvided that where appropriate, the Authority shall\nconsider the possibility to authorise the use of radio spectrum based\non a combination of general authorisation and individual rights of\nuse, taking into account the likely effects of different combinations\nof general authorisations and individual rights of use and of gradual\ntransfers from one category to the other on competition, innovation\nand market entry.\n(4) The Authority shall seek to minimise restrictions on the\nuse of radio spectrum by taking appropriate account of\ntechnological solutions for managing harmful interference in order\nto impose the least onerous authorisation regime possible.\n(5) When taking a decision pursuant to sub-articles (1) and (2)\nwith a view to facilitating the shared use of radio spectrum, the\nAuthority shall ensure that the conditions for the shared use of\nradio spectrum are clearly set out. Such conditions shall facilitate\nefficient use of radio spectrum, competition and innovation.\nManagement of\nradio spectrum.\nAdded by:\nVII. 2004.23.\nRe-numbered by:\nXII. 2010.5.\nAmended by:\nIX. 2011.3.\nSubstituted by:\nIX. 2011.27.\nAmended by:\nVIII. 2014.44.\nSubstituted by:\nLII. 2021.40.",
+      "metadata": {
+        "source_line_start": 1732,
+        "source_line_end": 1820
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "LII. 2021.40",
+      "content": "(1) The Authority shall ensure the effective management of\nthe radio spectrum for electronic communications networks and\nservices in Malta in accordance with articles 4 and 4A. In doing so\nthe Authority shall take into account that the radio spectrum is a\npublic good that has an important social, cultural and economic\nvalue.\n(2) Without prejudice to specific criteria and procedures\nadopted to grant rights of use of radio spectrum to providers of\nradio or television broadcast content services with a view to\npursuing general interest objectives in conformity with European\nUnion law:\n(a) no exclusive or special rights of use of radio spectrum\nshall be granted for the provision of electronic\ncommunications services; and\n(b) the Authority shall in the exercise of its functions with\nregard to the allocation of, the issuing of general\nauthorisations in respect of, and the granting of\nindividual rights of use for radio spectrum for\n\nelectronic communications networks and, or services,\nact in accordance with objective, transparent, procompetitive, non-discriminatory and proportionate\ncriteria.\n(3) In applying the provisions of this article, the Authority\nshall respect relevant international agreements, including the ITU\nRadio Regulations, and other agreements adopted in the framework\nof the ITU applicable to radio spectrum and may take public policy\nconsiderations into account.\n(4) Upon the grant of rights for the use of radio spectrum and in\nany case not less than once a year, the Authority shall publish the\nassignment of such rights in so far as these relate to the provision\nof electronic communications services.",
+      "metadata": {
+        "source_line_start": 1821,
+        "source_line_end": 1858
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "of electronic communications services",
+      "content": "(1) The Authority shall draw up, adopt and publish a\nfrequency plan, which frequency plan shall from time to time be\nrevised and published by the Authority as it may be deemed\nnecessary:\nProvided that before adopting or revising the frequency\nplan, as the case may be, the Authority shall in all instances first\nconsult with the Minister:\nProvided further that the requirement to consult with the\nMinister shall not apply where such revisions are limited to\ncompliance with any international obligations of Malta.\n\nAdoption and\npublication of a\nfrequency plan.\nAdded by:\nVII. 2004.23.\nRe-numbered by:\nXII. 2010.5.\nAmended by:\nXII. 2010.7;\nIX. 2011.32.\nSubstituted by:\nLII. 2021.41.\n\n(2) The Authority shall in drawing up the frequency plan,\nestablish which frequencies are assigned under this Act and, or\nunder any other law and the purposes for which they may be used.",
+      "metadata": {
+        "source_line_start": 1859,
+        "source_line_end": 1885
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "under any other law and the purposes for which they may be used",
+      "content": "(Deleted by Act LII.2021.42).\n\nTechnology\nneutrality.\nAdded by:\nIX. 2011.35.",
+      "metadata": {
+        "source_line_start": 1886,
+        "source_line_end": 1892
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "IX. 2011.35",
+      "content": "(Deleted by Act LII.2021.42).\n\nService neutrality.\nAdded by:\nIX. 2011.35.",
+      "metadata": {
+        "source_line_start": 1893,
+        "source_line_end": 1898
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Service neutrality",
+      "content": "(Deleted by Act LII.2021.42).\n\nApplication of\ntechnology and\nservice neutrality.\nAdded by:\nIX. 2011.35.",
+      "metadata": {
+        "source_line_start": 1899,
+        "source_line_end": 1906
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Service neutrality",
+      "content": "(Deleted by Act LII.2021.42).\n\nReview of\nrestrictions on\nexisting rights.\nAdded by:\nIX. 2011.35.",
+      "metadata": {
+        "source_line_start": 1907,
+        "source_line_end": 1914
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Service neutrality",
+      "content": "(Deleted by Act LII.2021.42).\n\nRules preventing\nspectrum hoarding.\nAdded by:\nIX. 2011.35.",
+      "metadata": {
+        "source_line_start": 1915,
+        "source_line_end": 1923
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "IX. 2011.35",
+      "content": "(Deleted by Act LII.2021.42).\n\nSpectrum Trading.\nAdded by:\nIX. 2011.35.\n\nCAP. 399.]\n\nPowers of the\nAuthority specific\nto radio spectrum.\nSubstituted by:\nLII. 2021.43.",
+      "metadata": {
+        "source_line_start": 1924,
+        "source_line_end": 1942
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Spectrum Trading",
+      "content": "The Authority, in consultation with the Minister, may, for\nthe purpose of ensuring the most efficient and effective use of radio\nspectrum in accordance with the provisions of this Act, impose such\nrequirements or take such measures as it may consider appropriate\nincluding but not limited to the redistribution or sharing of\nfrequencies.\n\nRe-numbered by:\nXII. 2010.5.",
+      "metadata": {
+        "source_line_start": 1943,
+        "source_line_end": 1972
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Regulations",
+      "content": "(1) The Minister may, either on the recommendation of the\nAuthority or on his own initiative after consultation with the\nAuthority, make regulations to give better effect to any of the\nprovisions of this Act and in particular to:\n(a) regulate electronic communications services and, or\nnetworks including interconnection of networks,\ncollocation and sharing of network elements and\nassociated facilities, conduct of a geographical survey,\ncarrier pre-selection, access to networks, rights of way,\nsecurity of networks and services, the transmission or\nreception of satellite signals, the maintenance of and\npublication, and access to any information however so\ndescribed, stipulate universal service obligations, any\nmatter concerning numbers including portability, plans\nand allocation, any matter concerning e-mail\nforwarding or other similar services to ensure fair\ncompetition or for end-user protection purposes, the\nobligations of an undertaking having significant\nmarket power, competition and end-user or consumer\nprotection rules including but not limited to rules\nrelating to the suspension, termination and renewal of\nelectronic communications services to end-users and,\nor consumers, the use of unfair terms in electronic\ncommunications\ncontracts,\nunfair\ncommercial\npractices in so far as they relate to the provision of\nelectronic communications services to end-users and,\nor consumers, compensation and refund arrangements,\nbilling procedures and billing accuracy, emergency\ncommunications and services, public warning systems,\nharmonised services for social value, and directory\nenquiry services;\n(b) provide for any requirements that may be imposed on\nundertakings to adopt accounting systems as may be\nprescribed and to keep such operational, accounting,\nfinancial, statistical and technical records as may be\nspecified in the regulations, including the provision to\nthe Authority of such statement, returns and other\ninformation about any company in which an\nundertaking has a controlling interest as the Authority\nmay require for the carrying out of its functions under\nthis Act;\n(c) provide for the conditions applicable to any\nauthorisations and, or licences however so described,\n\nand returns and reports to be made to the Authority;\n(d) regulate the manner in which an electronic\ncommunications\nand,\nor\nradiocommunications\ninfrastructure or apparatus is to be installed, operated,\nmaintained, protected or controlled and the technical\nstandards or specifications to be observed with respect\nto such infrastructure or apparatus;\n(e) provide for the measures to be taken to ensure\ncompliance with international and other standards used\nin the electronic communications and for the means to\nbe used and the measures to be adopted to ensure\nsafety and prevent danger, damage or nuisance in\nrelation to any aspect of electronic communications;\n(f)\n\nregulate the quality and standard of electronic\ncommunications services to be provided, and quality\nof service targets and the establishment and\nmaintenance of an efficient assistance service by\nundertakings for users;\n\n(g) provide for the complaint processing procedures to be\nimplemented by an undertaking;\n(h) regulate television and radio distribution services\nincluding must carry rules, and the obligation to make\nchannel capacity for public, governmental or\neducational use;\n(i)\n\nprovide for any matter relating to the resolution of any\ndisputes and, or complaints however so described\nrelating to electronic communications networks or\nservices including appeals from any decision, and the\nprocedure to be followed in the resolution of crossborder disputes;\n\n(j)\n\nregulate the procedure for the resolution of disputes\ninvolving electronic communications networks and, or\nservices and end-users and the relationship between\nthe Authority and other public authorities responsible\nfor the resolution of disputes;\n\n(k) provide for data retention obligations, and for rules\nregarding the access by the Authority and by the\nPolice to data retained by undertakings, and prescribe\nmeasures to be taken by any person for the purpose of\nensuring\nthe\ninviolability\nof\nelectronic\ncommunications transmitted and their confidentiality\nand the protection of privacy in relation to any\nelectronic communications service including data\nprotection measures in the electronic communications\nsector and data protection measures related to the use\nof information obtainable in the electronic\ncommunications sector for the purpose of direct\nmarketing;\n(l)\n\nregulate the provision of information between Malta\nand the European Union and, or Members States;\n\nCAP. 399.]\n\n(m) regulate and provide for any fees and, or charges\nhowever so described that may be payable to the\nAuthority;\n(n) provide for any matters that may be required for the\npurpose of complying with any international\nobligations\nof\nMalta\nrelated\nto\nelectronic\ncommunications in particular for the purpose of\ncomplying with any requirements however so\ndescribed of the European Union;\n(o) regulate the allocation, assignment and use of radio\nspectrum for electronic communications networks and,\nor services, including the transfer or lease of rights to\nuse radio frequencies to other undertakings and the\nprocedure to be followed;\n(p) regulate any matter relating to the regulation,\nadministration, management and authorisation of radio\nspectrum, including any aspect concerning the issue of\nauthorisations, spectrum trading, the manner in which\nradio frequencies and, or apparatus as may be\ndesignated, may be used without the need of an\nauthorisation, and the fees and conditions that may be\nimposed in relation thereto;\n\n(q) empower the Authority to impose administrative\npenalties not exceeding the sum of two hundred and\nfifty thousand euro (€250,000) for each breach and, or\nfive thousand euro (€5,000) for each day during which\nfailure to comply with this Act continues, upon any\nperson acting in contravention of any regulations made\nunder this Act and to provide for the imposition and\nenforcement of such administrative penalties in\naccordance with the provisions of this Act and with the\nMalta Communications Authority Act;\n(r) provide for rules to be applicable in relation to the\nimposition of any administrative penalties as may be\nmade under this article where any person fails to\ncomply with this Act;\n(s) regulate the obligations including financial obligations\nof undertakings with regard to legal interception;\n(t)\n\nprovide for any matter relating to the qualifications\nthat a person may require in order to carry out any\nworks or perform any other act relating to\nconstruction, repair, maintenance, alteration or control\nof any electronic communications service and, or\nnetwork, including the tests to be employed for\nascertaining whether a person possesses these\nqualifications;\n(ta) regulate activities taking place within an exclusive\neconomic zone area or environment protection area as\ndefined in the Exclusive Economic Zone Act;\n(u) prescribe punishments for criminal offences against\n\nany regulations made under this Act, including\ndifferent fines (multa) for different offences and, or\nfines (multa) calculated in accordance with the\nduration of the commission of the offence:\nProvided that any such regulations as may be made\nshall not provide for a fine (multa) of more than\ntwenty five thousand euro (€25,000) and, or five\nhundred euro (€500) for each day during which the\noffence continues;\n(v) prescribe anything that may be prescribed under this\nAct:\nProvided that the Minister may, when making any\nregulations under this sub-article which relate to standards or to\nmatters of a strictly technical nature, make such regulations in the\nEnglish language only.\n(2) Without prejudice to the provisions of article 5A, the\nMinister may, after consultation with the Authority, by order in the\nGazette empower any other public authority established by law to\nexercise any specific functions under this Act or under any\nregulations made thereunder where in the opinion of the Minister it\nis deemed appropriate in the particular circumstances for the said\nfunctions to be exercised by another public authority:\nProvided that in issuing an order under this sub-article the\nMinister shall give his reasons therefor.\n(3) The Minister may, when making any regulations under this\narticle, require that the Authority acts in co-ordination and, or\nconsults with any other public body or bodies as the Minister may\nfrom time to time determine. In doing so the Minister shall consult\nwith any such other Minister as may be responsible for any such\npublic bodies, and with the Authority.\n(4) The Authority may by order in the Gazette amend the\nrights, conditions and procedures concerning general authorisations\nand rights of use for radio spectrum or for numbering resources or\nrights, to install facilities, as provided for in this Act or any\nregulations made thereunder. Any such amendments shall only be\nmade in objectively justified cases and in a proportionate manner,\ntaking into consideration, where appropriate, the specific\nconditions applicable to transferable rights of use for radio\nspectrum or for numbering resources:\nProvided that except where the proposed amendments are\nminor and have been agreed with the holder of the rights or of the\ngeneral authorisation, the Authority shall before making any\namendments in accordance with this sub-article, give notice in such\na manner as it considers appropriate of its intention to make such\namendments, inviting interested parties, including users and\nconsumers, to express their views on the proposed amendments\nwithin a period of not less than four weeks as may be specified in\nthe notice. The said period of four weeks shall not apply in\nexceptional circumstances:\n\nCAP. 399.]\n\nProvided further that the Authority shall publish any such\namendments giving its reasons therefor.",
+      "metadata": {
+        "source_line_start": 1973,
+        "source_line_end": 2245
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "LII. 2021.45",
+      "content": "(1) Any person who (a) constructs, repairs, maintains, alters or controls any\napparatus or installation without having the\nqualifications required for that purpose by or under\nthis Act;\n(b) sells or offers for sale or provides or installs or uses\nany installation or apparatus which does not conform\nwith such technical standards or specifications as are\nrequired or established by or under this Act, or which\nhe knows, or has reasonable cause to believe, to be\ndefective or incompatible with the services for which\nit was sold, provided, installed or used;\n(c) provides any electronic communications service or\ninstalls or operates any electronic communications\nnetwork or apparatus in breach of any provision of this\nAct or in breach of any condition, restriction or\nlimitation imposed by or under this Act;\n(d) uses any electronic communications network or\napparatus supplied by an undertaking for a purpose\nother than that for which it was supplied, or neglects to\nobserve instructions which are issued by an\nundertaking for the proper use of the electronic\ncommunications network or apparatus or makes\nimproper use thereof,\nshall be guilty of an offence under this Act and shall, on conviction,\nbe liable to a fine (multa) not exceeding twenty-five thousand euro\n(€25,000) and in the case of a continuing offence for a further fine\n(multa) not exceeding five hundred euro (€500) for each day during\nwhich the offence continues.\n(2) Any person who furnishes information to the Authority or\nthe Minister which he knows, or has reasonable cause to believe to\nbe false or misleading, or impedes or obstructs the Authority or the\nMinister, in the performance of any functions by or under this Act,\nshall be guilty of an offence under this Act, and shall on conviction,\nbe liable to a fine (multa) not exceeding twenty-five thousand euro\n(€25,000) or to imprisonment for a period not exceeding six\nmonths, or to both such fine and imprisonment.\n(3) Any person who being a person employed or detailed for\nduty with or attached to an undertaking (a) gives any information with regard to any message with\nwhich he becomes acquainted by reason of his office\nto any person not entitled to receive such information;\n(b) wilfully alters or suppresses any message or the\n\ndesignation of the person to whom it is transmitted or\nto whom it is addressed, without a good cause;\n(c) wilfully omits, delays or obstructs the transmission or\ndelivery of any message or cancels or destroys any\nmessage or an application for the transmission of any\nmessage without a good cause;\n(d) wilfully represents a message as having been sent by a\nperson other than the sender or as being addressed to a\nperson other than the addressee, or an application for\nthe transmission of a message as having been made by\na person other than the applicant, without good cause;\n(e) wilfully cancels or destroys any message not addressed\nto him or an application for the transmission of a\nmessage, without good cause; or\n(f)\n\nunlawfully withdraws from the control of an\nundertaking, or of an individual employed or detailed\nfor duty with, or attached to, an undertaking, a\nmessage addressed to another person,\n\nshall be guilty of an offence under this Act and shall be liable, on\nconviction, to a fine (multa) not exceeding twenty-five thousand\neuro (€25,000) or to imprisonment for a period not exceeding six\nmonths, or to both such fine and imprisonment.\n(4)\nAny person who assaults or obstructs or impedes any\nofficer, employee or agent of an undertaking in the exercise of his\nduties with such undertaking shall be guilty of an offence under\nthis Act, and shall on conviction be liable to a fine (multa) not\nexceeding fifteen thousand euro (€15,000) or to imprisonment for a\nperiod not exceeding three months, or to both such fine and\nimprisonment.\n(5)\nAny person who, without being duly authorised at law,\nuses any apparatus for the purpose of deliberately interfering with\nradiocommunications shall be guilty of an offence under this Act\nand shall on conviction be liable to a fine (multa) not exceeding\nfifty thousand euro (€50,000) and, or to a daily fine (multa) not\nexceeding one thousand euro (€1,000) for each day of noncompliance, and, or to imprisonment for a period not exceeding one\nyear, or to such fine or fines and to such imprisonment.",
+      "metadata": {
+        "source_line_start": 2246,
+        "source_line_end": 2335
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "year, or to such fine or fines and to such imprisonment",
+      "content": "Any person who by means\ncommunications network or apparatus -\n\nof\n\nan\n\nelectronic\n\n(a) threatens the commission of any crime; or\n(b) with intent to extort money or any other thing, or to\nmake any gain, or with intent to induce another person\nto do or omit from doing any thing, threatens to accuse\nor to make a complaint against, or to defame, that or\nanother person; or\n(c) makes any other improper use thereof,\ns h a l l b e g u i l t y o f a n o ff e n c e u n d e r t h i s A c t a n d s h a l l , o n\nconviction, be liable to a fine (multa) not exceeding twenty five\n\nUse of electronic\ncommunications\napparatus to make\nthreats.\nAdded by:\nXXX. 2007.33.\nRe-numbered by:\nXII. 2010.5;\nIX. 2011.34.\nAmended by:\nXI.2018.32;\nLII. 2021.46;\nXXIX.2023.5.\n\nCAP. 399.]\n\nthousand euro (€25,000) and, in the case of a continuing offence, to\na further fine (multa) not exceeding five hundred euro (€500) for\neach day during which the offence continues; for each day during\nwhich the offence continues:\nProvided that, without prejudice to the application of any other\nlaw, words or expressions uttered or published on an electronic\ncommunications network or apparatus shall not constitute an offence\nagainst this Act if they are uttered or published as part of artistic,\nsatirical, comic or cultural expression, of any kind, and do not lead to\ncredible and realistic threats to the personal liberty or security of any\nperson or to a person’s property.\nPower of Minister\nto make\nregulations in\nrelation to criminal\noffences.\nAdded by:\nVII. 2004.23.\nAmended by:\nL.N. 425 of 2007.\nRe-numbered by:\nXII. 2010.5;\nIX. 2011.34.\nAmended by:\nLII. 2021.47;\nI.2024.7.\n\nProceedings for a\ncriminal offence.\nAdded by:\nVII. 2004.23.\nAmended by:\nXXX. 2007.34.\nRe-numbered by:\nXII. 2010.5.\nAmended by:\nIX. 2011.37;\nVIII. 2014.45.",
+      "metadata": {
+        "source_line_start": 2336,
+        "source_line_end": 2415
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Cap. 9",
+      "content": "Without prejudice to any other provision of this Act the\nM i n i s t e r m a y, a f t e r c o n s u l t a t i o n w i t h t h e A u t h o r i t y, m a k e\nregulations prescribing punishments for criminal offences against\nany regulations made under this Act, and such regulations may:\n(a) prescribe different fines (multi) for different offences;\n(b) prescribe fines (multi) calculated in accordance with\nthe duration of the commission of the offence:\nProvided that any such regulations as may be made shall\nnot provide for a fine (multa) of more than twenty-five thousand\neuro (€25,000) and, or five hundred euro (€500) for each day\nduring which the offence continues.",
+      "metadata": {
+        "source_line_start": 2416,
+        "source_line_end": 2426
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "during which the offence continues",
+      "content": "(1) No proceedings for any criminal offence under this\nAct other than offences under article 25, under article 48(1)(d) or\nunder article 49 shall be instituted without the consent of the\nAuthority or at its request.\n(2) Notwithstanding anything contained in the Criminal Code,\nan appeal to the court of competent jurisdiction shall lie with the\nprosecution against any judgement delivered in any proceedings\nwith respect to an offence under this Act.",
+      "metadata": {
+        "source_line_start": 2427,
+        "source_line_end": 2441
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Saving",
+      "content": "(1) Any regulations made or kept in force by or under any of\nthe provisions of this Act as in force on the 21st December, 2020\nand still in force on the said date shall, until other provision is\nmade under or by virtue of this Act, continue to be in force and\nhave effect.\n(2) Any directives, decisions or designations however so\ndescribed made by the Authority under this Act as in force on the\n21st December, 2020 and still in force on the said date shall\ncontinue to be in force until revoked or amended by the Authority.",
+      "metadata": {
+        "source_line_start": 2442,
+        "source_line_end": 2458
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Section 53",
+      "content": "(Deleted by Act LII.2021.50).\n\nReview of former\nobligations for\naccess and\ninterconnection.\nAdded by:\nVII. 2004.27.\nRe-numbered by:\nXII. 2010.5;\nIX. 2011.39.",
+      "metadata": {
+        "source_line_start": 2459,
+        "source_line_end": 2476
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "IX. 2011.39",
+      "content": "(Deleted by Act LII.2021.50)\n\nExisting\nauthorisations.\nAmended by:\nXIX. 1998.3;\nXVIII. 2000.31;\nVII. 2004.25, 26.\nRe-numbered by:\nXII. 2010.5.\nSubstituted by:\nIX. 2011.40.",
+      "metadata": {
+        "source_line_start": 2477,
+        "source_line_end": 2489
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "IX. 2011.40",
+      "content": "(1) The Prime Minister may by order published in the\nGazette exempt from any of the provisions of this Act, any\nelectronic com munications network and, or service, or any\nradiocommunications apparatus exclusively used by the State for\nactivities concerning public security, defence, State security,\nincluding the economic well-being of the State in the case of\nactivities pertaining to State security matters, and the activities of\nthe State in the area of criminal law:\nto:\n\nProvided that no exemptions shall be granted with respect\n(a) the requirement of having an explicit authorisation\nissued by the Authority for the rights of use for radio\nspectrum; or\n(b) the installation or use of radiocommunications\napparatus capable of causing deliberate interference,\nas provided for in article 31A.\n\n(2) The Prime Minister shall, in making an order under this\narticle, first consult with the Authority, and may after having done\nso, impose any such conditions as he may consider appropriate in\nthe circumstances.\n\nExemption from\nthe provisions of\nthis Act.\nSubstituted by:\nLII. 2021.50.",
+      "metadata": {
+        "source_line_start": 2490,
+        "source_line_end": 2520
+      }
     }
   ],
   "definitions": [
     {
+      "term": "access",
+      "definition": "the making available of facilities and, or",
+      "source_provision": "s2"
+    },
+    {
+      "term": "this Act",
+      "definition": "the Electronic Communications (Regulation) Act,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apparatus",
+      "definition": "any equipment or machinery however so",
+      "source_provision": "s2"
+    },
+    {
+      "term": "associated facilities",
+      "definition": "those associated services, physical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "associated services",
+      "definition": "a service associated with an electronic",
+      "source_provision": "s2"
+    },
+    {
       "term": "the Authority",
-      "definition": "The Malta Communications Authority, established as the independent regulatory authority for electronic communications and postal services in Malta.",
-      "source_provision": "art1"
+      "definition": "the Malta Communications Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "BEREC",
+      "definition": "the Body of European Regulators for Electronic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cable television networks",
+      "definition": "any mainly wire-based",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conditional access system",
+      "definition": "any technical measure,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "any natural person who uses or requests a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the Council",
+      "definition": "the Council of the European Union",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Decision No. 676/2002/EC",
+      "definition": "Decision No",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directive 2008/63/EC",
+      "definition": "Directive 2008/63/EC of 20 June",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Electronic Communications Code",
+      "definition": "the Directive (EU)",
+      "source_provision": "s2"
     },
     {
       "term": "electronic communications network",
-      "definition": "Transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, radio, optical or other electromagnetic means.",
-      "source_provision": "art1"
+      "definition": "transmission",
+      "source_provision": "s2"
     },
     {
       "term": "electronic communications service",
-      "definition": "A service normally provided for remuneration via electronic communications networks, which encompasses internet access services, interpersonal communications services, and services consisting wholly or mainly in the conveyance of signals.",
-      "source_provision": "art1"
+      "definition": "a service normally",
+      "source_provision": "s2"
     },
     {
-      "term": "significant market power",
-      "definition": "A position equivalent to dominance held by a provider in a relevant market, consistent with competition law principles applied to the electronic communications sector.",
-      "source_provision": "art5"
+      "term": "emergency communication",
+      "definition": "communications by means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency service",
+      "definition": "a service, recognized as such by the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "end-users with disabilities",
+      "definition": "persons with disabilities as",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Frequency Plan",
+      "definition": "the National Frequency Allocation Plan as",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general authorisation",
+      "definition": "the legal framework established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "harmful interference",
+      "definition": "interference which endangers the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "harmonised radio spectrum",
+      "definition": "radio spectrum for which",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interconnection",
+      "definition": "a specific type of access implemented",
+      "source_provision": "s2"
+    },
+    {
+      "term": "i nterpersona l communications service",
+      "definition": "a service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "internal market",
+      "definition": "the internal market of the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ITU Radio Regulations",
+      "definition": "the Radio Regulations annexed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member State",
+      "definition": "a Member State of the European Union",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the Minister",
+      "definition": "the Minister responsible for",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national regulatory authority",
+      "definition": "the body or bodies notified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "network termination point",
+      "definition": "the physical point at which an",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "an undertaking providing or authorised to",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations made under this",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public electronic communications network",
+      "definition": "an electronic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "PSAP",
+      "definition": "a physical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio spectrum allocation",
+      "definition": "the designation of a given",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulation (EU) No. 531/2012",
+      "definition": "Regulation (EU) No 531/",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulation (EU) 2015/2120",
+      "definition": "Regulation (EU) 2015/2120",
+      "source_provision": "s2"
+    },
+    {
+      "term": "RSPG",
+      "definition": "the Radio Spectrum Policy Group established by the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sec urit y o f ne tw orks an d services",
+      "definition": "the a bility of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "shared use of radio spectrum",
+      "definition": "access by two or more",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SMP",
+      "definition": "a position",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special rights",
+      "definition": "the rights that are granted to a limited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terminal equipment",
+      "definition": "terminal equipment as defined in",
+      "source_provision": "s2"
+    },
+    {
+      "term": "undertaking",
+      "definition": "a person providing or authorised to provide",
+      "source_provision": "s2"
+    },
+    {
+      "term": "universal services",
+      "definition": "the minimum set of services of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "user",
+      "definition": "any person using or requesting a publicly available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "voice communications service",
+      "definition": "a publicly available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "by fixed or nonfixed",
+      "definition": "(in particular this includes access to the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "means communications by",
+      "definition": "of interpersonal communications services between an end-user and",
+      "source_provision": "s2"
+    },
+    {
+      "term": "means a specific type of access implemented between public network operators by",
+      "definition": "of the physical and logical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "and which in the case of networks involving switching or routing is identified by",
+      "definition": "of a specific network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mean a configuration of two or more earth stations which inter-work by",
+      "definition": "of a satellite",
+      "source_provision": "s2"
+    },
+    {
+      "term": "or by",
+      "definition": "of sharing networks, other facilities or",
+      "source_provision": "s11"
+    },
+    {
+      "term": "broadcaster",
+      "definition": "the natural or legal person who has editorial",
+      "source_provision": "s25"
+    },
+    {
+      "term": "conditional access",
+      "definition": "any technical measure or",
+      "source_provision": "s25"
+    },
+    {
+      "term": "conditional access device",
+      "definition": "any equipment, software, or",
+      "source_provision": "s25"
+    },
+    {
+      "term": "illicit device",
+      "definition": "any equipment, software, or arrangement",
+      "source_provision": "s25"
+    },
+    {
+      "term": "programme service",
+      "definition": "all the items within a single service",
+      "source_provision": "s25"
+    },
+    {
+      "term": "protected service",
+      "definition": "any of the following services when",
+      "source_provision": "s25"
+    },
+    {
+      "term": "information society services offered by electronic",
+      "definition": "at a distance and at the individual request of the",
+      "source_provision": "s25"
+    },
+    {
+      "term": "equipment",
+      "definition": "an electrical or electronic",
+      "source_provision": "s26"
+    },
+    {
+      "term": "apparatus general authorisation",
+      "definition": "the framework",
+      "source_provision": "s26"
+    },
+    {
+      "term": "broadcast receiving apparatus",
+      "definition": "any apparatus used or",
+      "source_provision": "s26"
+    },
+    {
+      "term": "installed",
+      "definition": "radiocomm unications apparatus that is",
+      "source_provision": "s26"
+    },
+    {
+      "term": "Part",
+      "definition": "this Part of this Act and includes any regulations",
+      "source_provision": "s26"
+    },
+    {
+      "term": "radiocommunications",
+      "definition": "communications involving the",
+      "source_provision": "s26"
+    },
+    {
+      "term": "radiocommunications individual licence",
+      "definition": "an individual",
+      "source_provision": "s26"
+    },
+    {
+      "term": "radiodetermination",
+      "definition": "the determination of the position,",
+      "source_provision": "s26"
+    },
+    {
+      "term": "radio waves",
+      "definition": "electromagnetic waves of frequencies",
+      "source_provision": "s26"
+    },
+    {
+      "term": "or reception by",
+      "definition": "of radio waves",
+      "source_provision": "s26"
+    },
+    {
+      "term": "or any other",
+      "definition": "of communication, a statement of the proposed apparatus",
+      "source_provision": "s30a"
+    },
+    {
+      "term": "general authorisation",
+      "definition": "a framework established by or under",
+      "source_provision": "s36"
+    },
+    {
+      "term": "Any person who by",
+      "definition": "communications network or apparatus -",
+      "source_provision": "s49"
     }
   ]
 }

@@ -1,132 +1,933 @@
 {
   "id": "mt-virtual-financial-assets",
   "type": "statute",
-  "title": "Virtual Financial Assets Act (Cap. 590)",
+  "title": "Virtual Financial Assets Act",
   "title_en": "Virtual Financial Assets Act",
   "short_name": "VFA",
-  "status": "amended",
-  "issued_date": "2018-11-01",
+  "status": "in_force",
+  "issued_date": "2018-08-06",
   "in_force_date": "2018-11-01",
-  "url": "https://legislation.mt/eli/cap/590/eng/pdf",
-  "description": "The Virtual Financial Assets Act (Cap. 590) established Malta's national regulatory framework for virtual financial assets and crypto-asset services, prior to the application of Regulation (EU) 2023/1114 (Markets in Crypto-Assets Regulation, MiCA). The Act designates the Malta Financial Services Authority (MFSA) as the competent authority, establishes registration and licence requirements for VFA agents and service providers, and sets out conduct of business, prudential, and governance requirements. The Act has been aligned with MiCA, which now provides the primary Union-wide framework.",
+  "url": "https://legislation.mt/eli/cap/590/20250516/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/590/20250516/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
+      "chapter": "PART I - Preliminary",
       "section": "1",
-      "title": "Article 1. Interpretation",
-      "content": "In this Act, 'virtual financial asset' or 'VFA' means any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not electronic money as defined under the Financial Institutions Act, not a financial instrument as defined under the Investment Services Act, and not a virtual token as defined herein; 'VFA agent' means a natural person or body corporate that is enrolled with MFSA and provides services in relation to an initial VFA offering or ongoing compliance with applicable requirements; 'VFA service provider' means a person who provides VFA services as defined in the Second Schedule to this Act on a professional basis; 'the Authority' means the Malta Financial Services Authority."
+      "title": "Preliminary",
+      "content": "The short title of this Act is the Virtual Financial Assets",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 75
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Scope and Application",
-      "content": "This Act applies to issuers of virtual financial assets that are established in Malta and issue VFAs to the public, to VFA agents enrolled with MFSA in terms of this Act, and to VFA service providers licensed under this Act. This Act applies without prejudice to Regulation (EU) 2023/1114 on markets in crypto-assets, which applies directly in Malta and provides the overarching Union framework for crypto-asset issuers and crypto-asset service providers. To the extent that the provisions of this Act are inconsistent with MiCA requirements, the requirements of MiCA shall prevail. The Authority shall apply this Act in a manner consistent with MiCA and with guidelines issued by the European Securities and Markets Authority."
+      "title": "Act",
+      "content": "(1)\nUnless the context otherwise requires, terms and\nphrases not defined in this Act shall have the same meaning as the\nsaid terms and phrases are given in the Malta Digital Innovation\nAuthority Act.\n(2) In this Act and in the Schedules thereto, unless the\ncontext otherwise requires -\n\nInterpretation.\nAmended by:\nL.N. 106 of 2021;\nXIV.2024.2.\n\n\"administrator\" means an officer or any person who is\nappointed to carry out representative and fiduciary functions in the\ncontrol and administration of a legal person, and any person who\ncarries out such functions even if under another name, but shall not\ninclude a technical administrator or a resident agent under the\nInnovative Technology Arrangements and Services Act, and the term\n\"board of administration\" shall be construed accordingly;\n\"advertisement\" means any form or medium of marketing\nactivity disseminated to the public by means of any type of media,\nwhich promotes the purchase of a virtual financial asset or the\nprocurement of a VFA service:\nProvided that an advertisement shall not include the\nprovision of a personal recommendation;\n\"asset-referenced token\" shall have the same meaning as that\nassigned to it in point (6) of Article 3(1) of the MiCA Regulation;\n\"assets\" means movable and immovable property of any kind;\n\"benchmark\" means any rate, index or figure, made available\nto the public or published that is periodically or regularly determined\nby the application of a formula to, or on the basis of, the value of one\nor more underlying assets or prices, including estimated prices, actual\nor estimated interest rates or other values, or surveys, and by\nreference to which the amount payable under a virtual financial asset\nor the value of a virtual financial asset is determined;\n\n\"beneficial owner\" shall have the same meaning assigned to it\nunder regulation 2 of the Prevention of Money Laundering and\nFunding of Terrorism Regulations, and \"beneficial ownership\" shall\nbe construed accordingly;\n\n\"Central Bank\" means the Central Bank of Malta as defined by\nthe Central Bank of Malta Act;\n\n\"company\" means a limited liability company constituted in\nMalta in accordance with the Companies Act or any law which may\nfrom time to time be in force, or a company incorporated outside\nMalta, provided that such company if not incorporated in Malta\nwould qualify to be so incorporated under the laws of Malta;\n\n\"competent authority\" means the Malta Financial Services\nAuthority established by the Malta Financial Services Authority Act;\n\"court\" means the Civil Court, First Hall;\n\"decision\" includes any directive, determination, direction,\ncondition, measure, requirement or specification, howsoever\ndescribed, made by the competent authority;\n\n\"Directive 2015/849/EU\" means Directive 2015/849/EU of the\nEuropean Parliament and of the Council of 20 May 2015 on the\nprevention of the use of the financial system for the purposes of\nmoney laundering or terrorist financing, amending Regulation (EU)\nNo 648/2012 of the European Parliament and of the Council, and\nrepealing Directive 2005/60/EC of the European Parliament and of\nthe Council and Commission Directive 2006/70/EC, as may be\namended from time to time;\n\"Distributed Ledger Technology\" or \"DLT\" means a database\nsystem in which information is recorded, consensually shared, and\nsynchronised across a network of multiple nodes as further described\nin the First Schedule of the Innovative Technology Arrangements and\nServices Act, whether the same is certified under that Act or\notherwise;\n\"DLT asset\" means (a)\n\na virtual token;\n\n(b)\n\na virtual financial asset;\n\n(c)\n\nelectronic money;\n\n(d)\n\nelectronic money token; or\n\n(e)\n\na financial instrument,\n\nthat is intrinsically dependent on, or utilises, Distributed Ledger\nTechnology;\n\"DLT exchange\" means any trading and, or exchange platform\nor facility, whether in Malta or in another jurisdiction, on which any\nform of DLT asset may be transacted in accordance with the rules of\nthe platform or facility;\n\"document\" or \"documentation\" includes information recorded\nin any form and, in relation to information recorded otherwise than in\nhumanly intelligible form, references to its production include\nreferences to producing a copy of the information in legible form;\n\"EBA\" means the European Banking Authority established by\nRegulation (EU) No 1093/2010;\n\"EEA State\" means a State which is a contracting party to the\nagreement on the European Economic Area signed in Porto on 2 May\n1992 as amended by the Protocol signed at Brussels on 17 March\n1993, and as amended by any subsequent acts;\n\"EIOPA\" means the European Insurance and Occupational\nPensions Authority established in terms of Article 1 of Regulation\n(EU) No 1094/2010;\n\n\"electronic money\" shall have the same meaning assigned to it\nunder the Third Schedule to the Financial Institutions Act;\n\"electronic money token\" or \"e-money token\" shall have the\nsame meaning as that assigned to it in point (7) of Article 3(1) of the\nMiCA Regulation;\n\"ESMA\" means the European Securities and Markets\nAuthority established by Regulation (EU) No 1095/2010 of the\nEuropean Parliament and of the Council of 24 November 2010;\n\"ESRB\" means the European Systemic Risk Board established\nby Regulation (EU) No 1092/2010 of the European Parliament and of\nthe Council of 24 November 2010, on European Union macroprudential oversight of the financial system and establishing a\nEuropean Systemic Risk Board;\n\n\"European regulatory authority\" means an authority in a\nMember State or EEA State, other than Malta, which exercises any\nregulatory or supervisory function in relation to financial services\ncorresponding to a function of the competent authority as defined in\nthe Malta Financial Services Authority Act;\n\"European right\" means the entitlement of a licence holder to\nestablish a branch or provide services in a Member State or an EEA\nState, other than Malta (a)\nin accordance with the Treaty on the Functioning\nof the European Union as applied in that Member State or EEA\nState; and\n(b)\nsubject to any regulations made under this Act,\nor rules issued by the competent authority pursuant to this Act;\n\"European Supervisory Authorities\" or \"ESAs\" means EBA,\nESMA and EIOPA;\n\n\"financial instrument\" shall have the same meaning assigned to\nit under the Second Schedule to the Investment Services Act, whether\nor not issued in Malta;\n\"funds\" means banknotes and coins, scriptural money,\nelectronic money and virtual financial assets;\n\"initial virtual financial asset offering\" or \"initial VFA\noffering\" means a method of raising funds whereby an issuer is\nissuing virtual financial assets and is offering them in exchange for\nfunds;\n\"inspector\" means an inspector appointed under article 40;\n\"issuer\" means a legal person duly formed under any law for\n\nthe time being in force in Malta which issues or proposes to issue\nvirtual financial assets in or from within Malta;\n\"licence\" means a licence to provide a VFA service or services\ngranted by the competent authority in terms of article 15;\n\"licence holder\" means a person who holds a licence under this\nAct;\n\"Malta’s international commitments\" means Malta’s\ncommitments, responsibilities and obligations arising out of\nmembership of, or affiliation to, or relationship with, any\ninternational, global or regional organisations or grouping of\ncountries or out of any treaty, convention or other international\nagreement, however called, whether bilateral or multilateral, to which\nMalta is a party;\n\"market abuse\" means insider dealing, the unlawful disclosure\nof inside information and market manipulation in relation to any\ntransaction, order or behaviour concerning any virtual financial asset;\n\"Member State\" means a Member State of the European\nUnion;\n\"MiCA Regulation” means Regulation (EU) 2023/1114 of the\nEuropean Parliament and of the Council of 31 May 2023 on markets\nin crypto-assets, and amending Regulations (EU) No. 1093/2010 and\n(EU) No. 1095/2010 and Directives 2013/36/EU and (EU) 2019/\n1937, as may be amended from time to time, and includes any\nbinding legal instruments, guidelines and other measures that have\nbeen or may be issued thereunder;\n\"MiFID\" means Directive 2014/65/EU of the European\nParliament and of the Council of 15 May 2014, on markets in\nfinancial instruments and amending Directive 2002/92/EC and\nDirective 2011/61/EU, as amended from time to time, and includes\nany implementing measures that have been or may be issued\nthereunder;\n\"Minister\" means the Minister responsible for the regulation of\nfinancial services;\n\"overseas regulatory authority\" means an authority in a\ncountry or territory outside Malta that is not a Member State or EEA\nState which exercises any regulatory or supervisory function in\nrelation to financial services corresponding to a function of the\ncompetent authority as defined in the Malta Financial Services\nAuthority Act;\n\"person\" means a natural or legal person in terms of law;\n\"prescribed\" means prescribed by regulations made under this\n\nAct;\n\"qualifying holding\" means a direct or indirect holding in a\nlegal person which represents ten per cent (10%) or more of the\ncapital or of the voting rights in such person which makes it possible\nto exercise a significant influence on the administration of the person\nin which that holding subsists and includes the holding of DLT assets\nwith voting, control or ownership rights, and \"qualifying holder\"\nshall be construed accordingly;\n\"recognised jurisdiction\" means a member of the European\nUnion or the EEA or the Organisation for Economic Co-operation\nand Development as well as any other jurisdiction approved by notice\nof the Minister from time to time for the purpose of this definition;\n\"resident in Malta\" means an individual whose habitual\nresidence is in Malta;\n\"rules\" refers to rules issued by the competent authority in\nterms of this Act;\n\"smart contract\" means a form of technology arrangement\nconsisting of (a)\n\na computer protocol; or\n\n(b)\nan agreement concluded wholly or partly in an\nelectronic form, which is automatable and enforceable by\ncomputer code, although some parts may require human input\nand control and which may be also enforceable by ordinary\nlegal methods or by a mixture of both;\n\n\"subject person\" shall have the same meaning assigned to it\nunder regulation 2 of the Prevention of Money Laundering and\nFunding of Terrorism Regulations;\n\n\"subsidiary\" has the same meaning assigned to it under article\n2 of the Companies Act;\n\n\"Tribunal\" means the Financial Services Tribunal established\nunder article 21 of the Malta Financial Services Authority Act;\n\"unit\" means any representation of the rights and interests in a\nlegal person and \"unit holder\" shall be construed accordingly;\n\nAct No. XIV of\n\n\"VFA agent\" means any person who is registered as such with\nthe competent authority on the first date of the coming into force of\nthe Virtual Financial Assets (Amendment) Act, 2024;\n\"VFA agreement\" means any agreement the making or\nperformance of which, by either party, constitutes a service or\nactivity licensable under this Act;\n\n\"VFA exchange\" means a DLT exchange for virtual financial\nassets, operating in or from within Malta, within which multiple third\nparty buying and selling interests for virtual financial assets can\ninteract in a manner that results in a contract, by exchanging one\nvirtual financial asset for another or a virtual financial asset for fiat\ncurrency that is legal tender or a fiat currency that is legal tender for a\nvirtual financial asset;\n\"VFA exchange operator\" means a person or persons who\nmanages and, or operates the business of a VFA exchange and may be\nthe VFA exchange itself;\n\"VFA service\" means any service falling within the Second\nSchedule when provided in relation to a DLT asset which has been\ndetermined to be a virtual financial asset;\n\"virtual financial asset\" or \"VFA\" means any form of digital\nmedium recordation that is used as a digital medium of exchange,\nunit of account, or store of value and that is not (a)\n\nelectronic money;\n\n(b)\n\na financial instrument; or\n\n(c)\n\na virtual token:\n\nProvided that, for the purposes of Part II, asset-referenced\ntokens and e-money tokens shall also be excluded;\n\"virtual token\" means a form of digital medium recordation\nwhose utility, value or application is restricted solely to the\nacquisition of goods or services, either solely within the DLT\nplatform on or in relation to which it was issued or within a limited\nnetwork of DLT platforms:\nProvided that the term ''DLT platform'' referred to in this\ndefinition shall exclude DLT exchanges:\nProvided further that a virtual token which is or may be\nconverted into another DLT asset type shall be treated as the DLT asset\ntype into which it is or may be converted;\n\"whitepaper\" means a document in such form and containing\nsuch information as specified in article 4 and the First Schedule.\n(3) Any reference in this Act to any law, or provision\nthereof, shall be construed as a reference to that law or provision as\nfrom time to time in force, and shall include a reference to any\nenactment replacing such law or provision, and to any subsidiary\nlegislation made thereunder.\n(4)\n\nIn this Act and in any regulations made thereunder, if\n\nthere is any conflict between the English and Maltese text, the\nEnglish text shall prevail.",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 509
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. Financial Instrument Test",
-      "content": "Prior to issuing a virtual financial asset or providing VFA services, issuers and service providers shall conduct and document a financial instrument test to determine the classification of the digital asset under applicable law. The financial instrument test shall determine whether the asset constitutes a financial instrument regulated under the Investment Services Act, electronic money regulated under the Financial Institutions Act, a virtual token which falls entirely outside regulated categories, or a virtual financial asset subject to this Act. The test shall be conducted by a VFA agent enrolled in terms of this Act and shall be submitted to MFSA for review. The Authority may issue guidance on the methodology and criteria applicable to the financial instrument test."
+      "title": "English text shall prevail",
+      "content": "(1)\nNo issuer shall offer a virtual financial asset to\nthe public in or from within Malta or shall apply for a virtual\nfinancial asset’s admission to trading on a DLT exchange unless such\nissuer draws up a whitepaper which (a)\n\ncomplies with the requirements of article 4; and\n\n(b)\n\nis registered in accordance with sub-article (2):\n\nProvided that where a DLT asset is determined by the\nissuer to be a financial instrument or electronic money, the issuer\nshall be required to comply with the respective applicable laws in lieu\nof the provisions of this Act.\n(2) No whitepaper shall be issued or published in terms of\narticle 9(2) unless, ten working days before the date of its circulation in\nany way whatsoever, a copy thereof, signed by every person named\ntherein as a member of the issuer’s board of administration or their\nagent authorised in writing has been delivered to the competent\nauthority.\n(3)\n\nRepealed by Act XIV.2024.3.\n\n(4) Upon being satisfied that the requirements of article 4(1)\nhave been complied with, the competent authority shall register the\nwhitepaper.\n(5) Where the applicant is constituted in a recognised\njurisdiction, he shall abide with any local presence requirements as\nmay be prescribed or provided for in rules issued under this Act.\nDating of\nwhitepaper and\nmatters to be stated\ntherein.",
+      "metadata": {
+        "source_line_start": 510,
+        "source_line_end": 547
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. VFA Agents",
-      "content": "Any person providing advisory or compliance services to issuers of virtual financial assets or VFA service providers in connection with their obligations under this Act or under MiCA shall be enrolled as a VFA agent in accordance with this Act. VFA agents shall be natural persons or bodies corporate that hold the qualifications, experience, and professional indemnity insurance specified by the Authority. VFA agents shall maintain their enrolment by meeting ongoing continuing professional development requirements and by complying with applicable conduct standards. MFSA shall maintain a public register of enrolled VFA agents and shall publish applicable enrolment requirements and conduct standards."
+      "title": "therein",
+      "content": "(1)\n\nEvery whitepaper shall -\n\n(a)\n\nbe dated;\n\n(b)\n\nstate the matters specified in the First Schedule;\n\nand\n(c)\ninclude a statement by the board of\nadministration confirming that the whitepaper complies with\nthe requirements of article 3 and of this article.\n(2) A condition requiring or binding an investor in an initial\nVFA offering to waive compliance with any requirement of this\narticle or purporting to affect the investor with notice of any contract,\n\ndocument or matter not specifically referred to in the whitepaper\nshall be void.",
+      "metadata": {
+        "source_line_start": 548,
+        "source_line_end": 579
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. Licensing of VFA Service Providers",
-      "content": "Persons providing VFA services in or from Malta shall be licensed by MFSA under this Act, to the extent not directly licensed under Regulation (EU) 2023/1114 (MiCA). The licensing requirements shall include conditions relating to the legal form, registered office, and governance structure of the applicant; the fitness and propriety of directors, senior managers, and qualifying shareholders; the adequacy of financial resources; the soundness of operational arrangements, including information technology systems and security measures; arrangements for the safeguarding of client assets; and compliance with applicable anti-money laundering and counter-terrorism financing requirements. MFSA shall process licence applications within a specified timeframe and shall publish its licensing criteria and procedures."
+      "title": "shall be void",
+      "content": "Where the issuer maintains a website, its homepage shall\nat least contain such information and in such format as may be\nrequired by the competent authority by means of rules issued under\nthis Act.",
+      "metadata": {
+        "source_line_start": 580,
+        "source_line_end": 587
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Conduct of Business",
-      "content": "VFA service providers shall conduct their business honestly, fairly, and professionally in accordance with the best interests of their clients and the integrity of the VFA market. VFA service providers shall disclose to clients all material information relevant to their services, including risks associated with VFA investments; shall treat all clients fairly and without discrimination; shall implement conflicts of interest policies and disclose material conflicts to clients; shall maintain adequate records of client instructions and transactions; and shall comply with applicable best execution requirements in the execution of client orders. MFSA may issue conduct of business rules providing more detailed requirements applicable to VFA service providers."
+      "title": "Website",
+      "content": "(1)\nAny type of advertisements relating to either an\ninitial VFA offering or the admission of a virtual financial asset to\ntrading on a VFA exchange shall satisfy the following requirements:\n\nAdvertisements.\n\n(a)\nadvertisements shall be clearly identifiable as\nsuch. The information contained in the advertisement shall not\nbe inaccurate or misleading. This information shall also be\nconsistent with the information contained in the whitepaper, if\nalready published in terms of article 9(2), or with the\ninformation required to be in the whitepaper, if the whitepaper\nis to be published afterwards;\n(b)\nan advertisement shall contain a statement that a\nwhitepaper has been or will be published in terms of article\n9(2) and the addresses and times at which copies of the\nwhitepaper are or will be available to the public; and\n(c)\nall information concerning the initial VFA\noffering or the admission to trading on a VFA exchange\ndisclosed in an oral or written form, even if not for advertising\npurposes, shall be consistent with that contained in the\nwhitepaper:\nProvided that the term \"information\" shall be deemed for\nthe purposes of this article to include the name of any person\nendorsing the issuer’s whitepaper:\nProvided further that where a person under this sub-article\nis an issuer within the meaning of this Act, the reference to \"VFA\nexchange\" shall be read as a reference to \"DLT exchange\".\n(2) Such information shall be included in the whitepaper or\nin a supplement thereto in accordance with the First Schedule.",
+      "metadata": {
+        "source_line_start": 588,
+        "source_line_end": 622
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Prudential Requirements",
-      "content": "VFA service providers shall at all times maintain the minimum initial capital and ongoing own funds specified by MFSA, having regard to the nature and scale of the services provided and the associated risks. VFA service providers shall implement risk management frameworks covering market risk, liquidity risk, operational risk, and any risks specific to VFA activities, and shall assess their capital adequacy in the light of identified risks. MFSA shall establish prudential requirements by regulation and shall keep these requirements under review in the light of market developments and applicable Union standards, including ESMA and EBA guidance on crypto-asset prudential requirements."
+      "title": "in a supplement thereto in accordance with the First Schedule",
+      "content": "The obligations of the issuer shall include:\n(a)\n\ncomplying with the provisions of this Act and with\nany regulations made and rules issued thereunder;\n\n(b)\n\nco-operating with the competent authority in an\nopen and honest manner;\n\n(c)\n\nproviding prompt feedback to the competent\nauthority with respect to any enquiries raised by the\n\nObligations of the\nissuer towards the\ncompetent\nauthority.\nSubstituted by:\nXIV.2024.4.\n\nsaid competent authority;\n\nAdmission of\nvirtual financial\nassets to trading.\nAmended by:\nXIV.2024.5.\n\n(d)\n\ndisclosing to the competent authority in a timely\nmanner any material information of which it has\nknowledge which addresses non-compliance, or\npotential non-compliance with any of the\nprovisions of this Act or of any regulations made or\nrules issued thereunder;\n\n(e)\n\nreceiving and retaining all documentation and\ninformation to demonstrate how, and to what\nextent, it has satisfied the requirements as\nprescribed in the provisions of this Act and of any\nregulations made and rules issued thereunder, in so\nfar as they apply to any offer or admission to\ntrading referred to in article 3, including inter alia\nhow the issuer is considered to be a fit and proper\nperson to carry out the activity or activities referred\nto in article 3, and to demonstrate how it has\ncomplied and, as far as it can determine, how it\nshall comply with its continuing obligations under\nthis Act;\n\n(f)\n\nsubmitting to the competent authority all required\ninformation and documentation in terms of this Act\nand of any regulations made and rules issued\nthereunder, including the confirmations in terms of\narticle 4(1), in a timely manner;\n\n(g)\n\ndisclosing to the competent authority without delay\nany information or explanations that the competent\nauthority may reasonably require for the purpose of\nverifying any information which should be taken\ninto account when considering an application for\nthe registration of a whitepaper;\n\n(h)\n\nsubmitting to the competent authority on an annual\nbasis a certificate of compliance within the\nmeaning of article 32; and\n\n(i)\n\ncomplying with any other conditions as the\ncompetent authority may require or as may be\nprescribed.Admission of virtual financial assets to\ntrading.",
+      "metadata": {
+        "source_line_start": 623,
+        "source_line_end": 716
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Safeguarding of Client Assets",
-      "content": "VFA service providers holding virtual financial assets on behalf of clients shall implement arrangements for the safeguarding of those assets, including by maintaining client assets separately from the provider's own assets and by holding client assets in regulated custodians or through equivalent safeguarding mechanisms. VFA service providers shall not use client assets for their own account without the explicit consent of the client concerned and shall maintain adequate records enabling the identification and attribution of client assets at all times. MFSA shall specify the safeguarding arrangements required of VFA service providers by regulation and may require providers to submit regular reports on their compliance with applicable safeguarding requirements."
+      "title": "trading",
+      "content": "(1)\nA person may apply for admission of its virtual\nfinancial assets to trading on a VFA exchange in accordance with the\nprovisions of any regulations made or rules issued under this Act:\nProvided that where a person under this sub-article is an\nissuer within the meaning found under this Act, the reference to\n\n\"VFA exchange\" shall be read as a reference to \"DLT exchange\".\n(2) Where, further to an application made under sub-article\n(1), an issuer’s virtual financial assets are admitted to trading, the\nissuer shall comply with all the applicable requirements as prescribed\nin this Act and any regulations made and rules issued thereunder for\nas long as such virtual financial assets remain admitted to trading:\nProvided that the provisions of article 3(1) and of this\nsub-article shall not apply in so far as the said virtual financial assets\nhave been admitted to trading irrespective of the issuer’s will.",
+      "metadata": {
+        "source_line_start": 717,
+        "source_line_end": 740
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Anti-Money Laundering",
-      "content": "VFA service providers are subject to the Prevention of Money Laundering Act and applicable regulations as 'subject persons' and shall implement all customer due diligence, transaction monitoring, and suspicious transaction reporting requirements applicable to them under that framework. VFA service providers shall also comply with the requirements of the Financial Intelligence Analysis Unit applicable to VFA activities, including requirements relating to the monitoring of transactions involving persons in high-risk jurisdictions or jurisdictions subject to applicable sanctions. MFSA shall cooperate with the Financial Intelligence Analysis Unit in the supervision of VFA service providers' compliance with anti-money laundering obligations."
+      "title": "have been admitted to trading irrespective of the issuer’s will",
+      "content": "(1)\n\nAn issuer shall:\n\n(a)\n\nconduct its business with honesty and integrity;\n\nApplicable\nprinciples.\n\n(b)\ncommunicate with his investors in a fair, clear\nand not misleading manner;\n(c)\ndiligence;\n\nconduct its business with due skill, care and\n\n(d)\nmay arise;\n\nidentify and manage any conflict of interest that\n\n(e)\nhave effective arrangements in place for the\nprotection of investors’ funds;\n(f)\n\nhave effective administration arrangements;\n\n(g)\nmaintain all of its systems and security access\nprotocols to appropriate international standards; and\n(h)\n\nbe considered as a subject person.\n\n(2) Where an issuer maintains a website in terms of article 5\nand is required to make public any information or provide notice to\nthe public, the issuer shall be considered to have complied with this\nobligation if it publishes such information or notice on his website.",
+      "metadata": {
+        "source_line_start": 741,
+        "source_line_end": 784
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. Market Integrity",
-      "content": "VFA service providers and issuers shall not engage in or facilitate insider dealing, market manipulation, or other practices that undermine the integrity of the VFA market, consistent with the requirements established under MiCA and applicable conduct standards. Issuers of virtual financial assets shall maintain insider dealing policies and shall establish procedures to prevent and detect market manipulation. MFSA shall have the power to investigate suspected market integrity violations and to take enforcement action against issuers and service providers found to have engaged in or facilitated such violations. MFSA shall cooperate with ESMA and with the competent authorities of other Member States in the investigation of cross-border market integrity violations."
+      "title": "obligation if it publishes such information or notice on his website",
+      "content": "(1)\nThe issuer shall be liable for damages sustained\nby a person as a direct consequence of such person having bought\nvirtual financial assets, either as part of an initial VFA offering by\nsuch issuer or on a DLT exchange, on the basis of information\ncontained in the whitepaper, website or advertisement by reason of\nany untrue statement included therein:\nProvided that a statement included in a whitepaper,\nwebsite or advertisement shall be deemed to be untrue if it is\nmisleading or otherwise inaccurate or inconsistent, either wilfully or\nin consequence of gross negligence, in the form and context in which\nit is included:\n\nCivil liability for\nmisstatements in\nwhitepaper,\nadvertisements and\nwebsite.\n\nProvided further that a statement shall be deemed to be\nincluded in a whitepaper if it is contained therein or in any document\nor information referred to therein or issued therewith.\n(2)\n\nNo person shall be liable under this article if -\n\n(a)\nhe proves that he believed and had reasonable\ngrounds to believe, that the statement was true; or\n(b)\non becoming aware of the untrue statement, he\nimmediately gave reasonable public notice in terms of article\n9(2) of the untruthfulness of the statement.\n(3) No person shall be liable for statements made in the\nsummary referred to in the First Schedule, including the translation\nthereof, except when such statements are misleading, inaccurate or\ninconsistent, when read together with the other parts of the\nwhitepaper, or if it does not provide, when read together with the\nother parts of the whitepaper, key information in order to aid\ninvestors when considering whether to invest in such virtual financial\nassets. The summary shall contain a clear warning to that effect.\nCross-border offers\nand admission to\ntrading.",
+      "metadata": {
+        "source_line_start": 785,
+        "source_line_end": 836
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Supervision by MFSA",
-      "content": "MFSA shall supervise compliance by VFA agents, VFA service providers, and issuers of virtual financial assets with the requirements of this Act and applicable regulations. MFSA shall have the power to require any person subject to this Act to provide information, to carry out on-site inspections, to obtain copies of relevant records and systems, and to take evidence. MFSA shall cooperate with other domestic regulators, including MDIA, the Financial Intelligence Analysis Unit, and the Malta Police, in the supervision of VFA market participants. MFSA shall also cooperate with ESMA, EBA, and the competent authorities of other Member States in cross-border supervision matters."
+      "title": "trading",
+      "content": "The offering of virtual financial assets, or the admission\nto trading on a DLT exchange, in a country outside Malta shall be\nsubject to the laws of that country.\n\nPowers of the\ncompetent\nauthority.",
+      "metadata": {
+        "source_line_start": 837,
+        "source_line_end": 844
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. Administrative Measures and Penalties",
-      "content": "MFSA may impose administrative measures and penalties on persons who fail to comply with applicable requirements, including suspension or revocation of licences or enrolments; prohibition on carrying out VFA activities; public statements identifying responsible persons and the nature of the infringement; and administrative fines proportionate to the gravity of the infringement. Before imposing an administrative measure or penalty, MFSA shall give the person concerned an adequate opportunity to make representations. Administrative measures and penalties shall be published by MFSA subject to applicable confidentiality requirements. Decisions of MFSA under this Act may be appealed to the Financial Services Tribunal."
+      "title": "authority",
+      "content": "(1)\nWithout prejudice to any other powers of the\ncompetent authority under other provisions of the Act, the competent\nauthority shall also have the power to:\n(a)\nrequire the inclusion in the whitepaper,\nadvertisements or the issuer’s website, as applicable, of\nsupplementary information necessary for investor protection\nas the competent authority may specify;\n(b)\nrequire the amendment in the whitepaper,\nadvertisements or the issuer’s website, as applicable, of any\ninformation necessary for investor protection as the competent\nauthority may specify;\n(c)\nsuspend an initial VFA offering or the trading on\na VFA exchange or prohibit or suspend advertisements if the\ncompetent authority, in its reasonable discretion, believes or\nsuspects that a provision of this Act has been infringed;\n(d)\nprohibit an initial VFA offering or trading on a\nVFA exchange if the provisions of this Act have been\ninfringed or if the competent authority, in its reasonable\ndiscretion, believes or suspects that they have been or could be\ninfringed; and\n(e)\n\nmake public the fact that an issuer is failing to\n\ncomply with his obligations under any provision of the Act\nand may disclose measures or sanctions imposed on any\nperson responsible for the issue, circulation or distribution of a\nwhitepaper,\nunless\nsuch\ndisclosure\nwould\ncause\ndisproportionate damage to the persons involved.\n(2) Where a person under sub-article (1) is an issuer within\nthe meaning found under this Act, the reference to \"VFA exchange\"\nshall be read as a reference to \"DLT exchange\".",
+      "metadata": {
+        "source_line_start": 845,
+        "source_line_end": 895
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
+      "chapter": "PART III - Licensing Requirements",
       "section": "13",
-      "title": "Article 13. Transition to MiCA",
-      "content": "As Regulation (EU) 2023/1114 (MiCA) has entered into application, VFA service providers licensed under this Act may continue to operate under their existing licences for a transitional period established by MiCA, after which they shall be required to obtain authorisation under MiCA. MFSA shall facilitate the transition of Maltese VFA service providers to the MiCA framework and shall provide guidance to providers on the steps required to obtain MiCA authorisation. Issuers of virtual financial assets that are categorised as asset-referenced tokens or e-money tokens under MiCA shall comply with the relevant MiCA requirements as of the applicable date and shall liaise with MFSA regarding any modifications required to their existing arrangements."
+      "title": "Licensing Requirements",
+      "content": "(1)\nNo person shall provide, or hold itself out as\nproviding, a VFA service in or from within Malta unless such person\nis in possession of a valid licence granted under this Act by the\ncompetent authority:\n\nLicensing and\ndetermination\nrequirement.\n\nProvided that, in so far as a determination has not\nalready been made in terms of article 3, a person under this subarticle shall make a determination as to whether a DLT asset in\nrelation to which it provides, or holds itself out as providing, a VFA\nservice falls within the meaning of a virtual financial asset.\n(2) The competent authority may by notice in writing to any\nperson determine that (a)\n\nan activity constitutes a VFA service; or\n\n(b)\na DLT asset qualifies as a virtual financial asset,\na virtual token, electronic money or a financial instrument, and\nwhether or not issued in Malta; or\n(c)\nMalta; or\n\na VFA service is provided in or from within\n\n(d)\nan initial VFA offering has been/is being made\nin or from within Malta:\nProvided that the competent authority’s determination\nshall be subject to any appeal in terms of article 51.",
+      "metadata": {
+        "source_line_start": 896,
+        "source_line_end": 930
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
+      "chapter": "PART IV - Application, Grant, Cancellation etc. of Licences",
       "section": "14",
-      "title": "Article 14. Consumer and Investor Protection",
-      "content": "MFSA shall maintain consumer and investor protection as central objectives in its supervision of the VFA market and shall ensure that applicable requirements provide adequate safeguards for persons investing in or using virtual financial asset services. VFA service providers shall implement complaint handling procedures enabling clients to submit complaints regarding the services received and shall participate in applicable dispute resolution schemes. MFSA shall publish guidance for consumers and investors on the characteristics and risks of virtual financial assets and on the regulatory protections available under this Act and applicable Union law."
+      "title": "Application, Grant, Cancellation etc. of Licences",
+      "content": "(1)\nAn application for a licence under this Act shall\nbe made in the form and manner required by the competent authority\nand shall furthermore (a)\n\ncontain or be accompanied by such information\n\nApplication for a\nlicence.\nAmended by:\nXIV.2024.6.\n\nand documentation, in addition to those required by this\narticle, as the competent authority may require or as may be\nprescribed;\n(b)\nbe verified in the manner and to the extent\nrequired by the competent authority, or as may be prescribed;\n(c)\ncontain the address in Malta for service on the\napplicant of any notice or other document required or\nauthorised to be served on it by or under this Act;\n(d)\nbe accompanied by a programme of operations\nsetting out the systems, security access protocols and any other\nmatters as may be required to be set out by the competent\nauthority from time to time; and\n(e)\nbe accompanied by such fee as may be\nprescribed in respect of the licence applied for, which fee shall\nnot be refundable.\n\n(2) An application for a licence under this Act may only be\nwithdrawn by written notice to the competent authority at a time\nbefore it has been granted or refused.\nWhere the\ncompetent\nauthority may\ngrant or refuse to\ngrant a licence.",
+      "metadata": {
+        "source_line_start": 931,
+        "source_line_end": 977
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. International Cooperation",
-      "content": "MFSA shall cooperate with competent authorities of third countries in matters relating to the regulation of virtual financial assets and crypto-asset services, subject to applicable confidentiality requirements and to the existence of equivalent data protection safeguards in the third country. International cooperation may include the exchange of supervisory information, the conduct of joint investigations, the provision of mutual assistance in enforcement proceedings, and the development of compatible regulatory frameworks. MFSA shall notify the European Commission and ESMA of significant international cooperation arrangements entered into and shall ensure that such arrangements are consistent with applicable Union law and international standards."
+      "title": "grant a licence",
+      "content": "(1)\nThe competent authority may grant or refuse to\ngrant a licence applied for under this Act:\nProvided that the competent authority shall only grant a\nlicence upon being satisfied that the conditions laid down in this\narticle have been met and such licence may be general or may be\nrestricted to particular specified VFA services.\n(2) The conditions referred to in sub-article (1) shall consist\nof the following and shall be satisfied on an ongoing basis:\n(a)\nthe applicant is a fit and proper person to provide\nthe VFA services concerned and that the applicant will comply\nwith and observe the requirements of this Act and any\nregulations made and rules issued thereunder and which are\napplicable to it;\n(b)\nwhere the applicant is a natural person, such\nperson is resident in Malta;\n(c)\n\nwhere the applicant is a legal person:\n\n(i)\nit is constituted either in Malta, in\naccordance with the laws of Malta, or in a recognised\njurisdiction:\nProvided that where the applicant is\nconstituted in a recognised jurisdiction, it shall abide\n\nwith any local presence requirements prescribed or as\nmay be prescribed; and\n(ii) its purposes or objects are limited to acting\nas a licence holder and carrying on activities ancillary\nor incidental thereto, and do not include purposes or\nobjects which are not compatible with the VFA\nservices of a licence holder.\nFor the purposes of this sub-paragraph, a\npurpose or object referring to any activity that\nrequires any kind of authorisation whatsoever by the\ncompetent authority under any Maltese law, other\nthan this Act, shall be deemed to be incompatible\nwith the VFA services of a licence holder:\nProvided that where a licence holder\nproposes to engage in business activities which are\nnot listed in the Second Schedule and are not\ncompatible within the meaning of this sub-paragraph,\nthe licence holder shall be required to establish a\nseparate entity; and\n(iii) its actual activities are compatible and\nconnected with the VFA services of a licence holder.\n(3) (a)\nIn granting a licence the competent authority\nmay subject it to such conditions as it may deem appropriate and\nhaving granted a licence it may, from time to time, vary or revoke any\ncondition so imposed or impose new conditions.\n(b)\nFor the better carrying out of the provisions of\nthis Act, the competent authority may, from time to time, issue and\npublish rules which shall be binding on licence holders and others as\nmay be specified therein. Such rules may lay down additional\nrequirements, conditions and, or exemptions in relation to activities\nof licence holders and any other matters as the competent authority\nmay consider appropriate:\nProvided that different rules may be issued by the\ncompetent authority with respect to different classes or categories of\napplications.\n(4) Without prejudice to the generality of sub-articles (1)\nand (2), where a VFA exchange is managed or operated by a VFA\nexchange operator other than the VFA exchange itself, the competent\nauthority shall establish by means of rules how the different\nobligations are to be allocated between the VFA exchange and the\nVFA exchange operator.\n(5)\n\nWhen considering whether to grant or refuse to grant a\n\nlicence the competent authority shall, in particular, have regard to (a)\npublic;\n\nthe protection of investors and the general\n\n(b)\nthe protection of the reputation of Malta taking\ninto account Malta’s international commitments;\n(c)\nchoice; and\n\nthe promotion of innovation, competition and\n\n(d)\nthe reputation and suitability of the applicant and\nall other parties connected with the applicant.\n(6) Every licence shall specify the VFA service or services\nwhich the holder thereof has been licensed to provide and shall state\nthe date on which it shall take effect.\n(7) Without prejudice to the generality of sub-article (2), the\nconditions to which the competent authority shall subject a licence\nmay be made applicable, or be prescribed to be applicable, to (a)\n\nall licences;\n\n(b)\n\ncertain categories of licences;\n\n(c)\nall licences granted to certain categories of\nlicence holders;\n(d)\nservices.\n\nall licences in relation to particular VFA\n\n(8) Any requirement in this Act that a person be a fit and\nproper person to carry out certain activities or functions shall be\ninterpreted as a requirement not only that such person be a fit and\nproper person to carry out such activities or functions, but also that\nany beneficial owner, qualifying holder, member of the board of\nadministration and any other person who will effectively direct the\nbusiness of the licence holder be a fit and proper person to carry out\nsuch activities or functions.\n(9) Where a licence holder proposes to engage in business\nactivities not listed in the Second Schedule but compatible within the\nmeaning of sub-article (2)(c)(ii), the competent authority may require\nthe establishment of a separate entity, where the proposed activities\nmay in the opinion of the competent authority impair or threaten to\nimpair either the financial soundness of the licence holder or the\nability of the competent authority to monitor the licence holder’s\ncompliance with all the obligations laid down in this Act or any\nregulations and rules issued thereunder.",
+      "metadata": {
+        "source_line_start": 978,
+        "source_line_end": 1127
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. White Paper Requirements",
-      "content": "Issuers of virtual financial assets who propose to offer their assets to the public shall, prior to the commencement of such an offer, publish a VFA white paper that has been reviewed by a VFA agent. The white paper shall contain clear, fair, and not misleading information about the issuer, the features and risks of the VFA, the rights and obligations attaching to it, the technology used, and the use of proceeds. The VFA white paper shall comply with the form and content requirements specified by MFSA and shall not contain statements that are materially false, misleading, or inconsistent with other information provided to the public. The white paper requirements are aligned with and have been superseded in relation to MiCA-classified assets by the crypto-asset white paper requirements under MiCA."
+      "title": "regulations and rules issued thereunder",
+      "content": "(1)\nThe competent authority shall establish a public\nregister of all licence holders. This register shall also indicate the\nVFA services in relation to which each licence was issued.\n\nRegister of licence\nholders.\n\n(2) Such register shall be publicly available for\nconsultation, shall be accessible online and shall be updated on a\nregular basis.",
+      "metadata": {
+        "source_line_start": 1128,
+        "source_line_end": 1140
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "VFA services in relation to which each licence was issued",
+      "content": "The competent authority shall refuse to grant a licence\nunder this Act in any of the following instances:\n(a)\nif the application is not submitted in accordance\nwith the established form or in accordance with applicable\nprocedure; or\n(b)\n\nif the applicable fees have not been paid; or\n\n(c)\nif the competent authority, in its reasonable\ndiscretion, is not satisfied that the applicant and all relevant\npersons mentioned in article 15(8) are fit and proper; or\n(d)\nif it transpires that any information or\nsubmission made to the competent authority is materially\nfalse, misleading, inaccurate or incomplete; or\n(e)\nif the competent authority, in its reasonable\ndiscretion, is not satisfied that (i)\nthe applicant has sound and prudent\nmanagement, robust administration arrangements and\nadequate internal control or security mechanisms:\nProvided\nthat\nsuch\narrangements,\nprocedures and mechanisms shall be comprehensive\nand proportionate to the nature, scale and complexity\nof the VFA services to be provided by the applicant;\nor\n(ii) where there are close links between the\napplicant and another person or persons, such links\nwill not through any law, regulation, administrative\nprovision or in any other manner prevent it from\nexercising effective supervision of that applicant\nunder the provisions of this Act or any rule:\nProvided that the competent authority may\nfrom time to time, by means of rules issued under this\nAct define the circumstances in which \"close links\"\nare to be regarded as existing between any two or\nmore persons; or\n(iii) the\n\napplicant\n\nwill\n\ncomply\n\nwith\n\nall\n\nWhere the\ncompetent\nauthority shall\nrefuse to grant a\nlicence.\n\nregulatory requirements applicable to licence holders\nof the relevant category, including those listed in\narticle 23, and with any additional requirements that\nthe competent authority considers necessary; or\n(iv) that the VFA service or services being\nproposed is compliant with any law, regulations or\nrules in force; or\n(f)\nif the competent authority, in its reasonable\ndiscretion, believes that granting a licence to the applicant may\npose a risk to investors, the general public, the reputation of\nMalta or the promotion of innovation, competition and choice;\nor\n(g)\nif sufficient information as requested by the\ncompetent authority has not been provided.",
+      "metadata": {
+        "source_line_start": 1141,
+        "source_line_end": 1226
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Burden of proof",
+      "content": "The burden of proving -\n\n(a)\nthe person’s qualification to hold a licence or to\ncontinue holding a licence; and, or\n(b)\nthe determination in terms of the proviso to\narticle 13(1),\nshall rest at all times on the applicant or the licence holder, as the\ncase may be.\nRevocable\nprivilege.",
+      "metadata": {
+        "source_line_start": 1227,
+        "source_line_end": 1241
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Burden of proof",
+      "content": "The granting of a licence is a concession and a revocable\nprivilege, and no holder thereof shall be deemed to have acquired any\nvested rights therein or thereunder.\n\nAssignment and\ntransferability.",
+      "metadata": {
+        "source_line_start": 1242,
+        "source_line_end": 1248
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "transferability",
+      "content": "A licence granted by the competent authority under this\nAct or a qualifying holding or beneficial ownership in a licence\nholder may not be assigned or transferred in any way whatsoever to\nany other person without the prior written consent of the competent\nauthority, and any such assignment or transfer to any other person\nwithout the competent authority’s consent shall be considered null\nand void and constitute sufficient grounds for the competent authority\nto cancel that licence.\n\nPower of\ncompetent\nauthority to cancel\nor suspend\nlicences.",
+      "metadata": {
+        "source_line_start": 1249,
+        "source_line_end": 1263
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "licences",
+      "content": "(1)\nThe competent authority may at any time cancel\nor suspend a licence in accordance with the provisions of this Act.\n(2) Without prejudice to the generality of sub-article (1), the\ncompetent authority may cancel or suspend a licence (a)\nif it considers that the holder thereof is not a fit\nand proper person to provide the VFA service he is authorised\nto provide; or\n\n(b)\nif it considers that the holder thereof does not\nfulfil the requirements of, or has contravened, any of the\nprovisions of this Act or of any regulations made or rules\nissued thereunder, or has failed to satisfy or comply with any\nobligation or condition to which he or the licence is subject by\nvirtue of or under this Act; or\n(c)\nif the competent authority has been furnished by\nor on behalf of the licence holder with information which is\nfalse, inaccurate or misleading, or if the licence holder has\nobtained the licence by making false statements or by any\nother irregular means; or\n(d)\nif the licence holder has not commenced to\nprovide the VFA service he has been authorised to provide\nwithin twelve months from the date of issue of the licence or\nhas ceased to provide such VFA service; or\n(e)\nif it considers it desirable to cancel or suspend\nthe licence for the protection of investors and the general\npublic, and the reputation of Malta taking into account Malta’s\ninternational commitments; or\n(f)\n\nat the request of the licence holder; or\n\n(g)\nif the licence holder is declared bankrupt or goes\ninto liquidation or makes a composition with its creditors or is\notherwise dissolved; or\n(h)\nif the licence holder has ceased to operate as a\nresult of a merger with another licence holder; or\n(i)\nin any of the circumstances under which the\ncompetent authority would have been precluded from issuing\nthe licence under this Act or where under this Act it would\nhave been entitled to refuse the grant of such licence; or\n(j)\nafter proper communication and investigation, at\nthe written request of another competent regulatory authority\nwhich is carrying regulatory functions in relation to the\nrelevant licence holder.\n(3) The competent authority, where so required, shall notify\nthe appropriate ESA and any other competent regulatory authority\nwhich is carrying out regulatory functions in relation to the relevant\nlicence holder of any cancellation of a licence in terms of sub-article\n(1).\n\nNotification of\nproposed refusal,\nvariation,\ncancellation or\nsuspension of a\nlicence.",
+      "metadata": {
+        "source_line_start": 1264,
+        "source_line_end": 1342
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "licence",
+      "content": "(1)\n\nWhere the competent authority proposes -\n\n(a)\nto vary any condition to which the licence is\nsubject or to impose a condition thereon; or\n(b)\nto refuse an application for a licence or to cancel\nor suspend a licence,\nit shall give the applicant or the licence holder, as the case may be,\nnotice in writing of its intention to do so, setting out the reasons for\nthe decision it proposes to take.\n(2) Every notice given under sub-article (1) shall state that\nthe recipient of the notice may, within such reasonable period after\nthe service thereof as may be stated in the notice, make\nrepresentations in writing to the competent authority giving reasons\nwhy the proposed decision should not be taken, and the competent\nauthority shall consider any representation so made before arriving at\na final decision.\n(3) The competent authority shall as soon as practicable\nnotify its final decision in writing to any of the persons to whom\nnotice is to be given under sub-article (1).",
+      "metadata": {
+        "source_line_start": 1343,
+        "source_line_end": 1377
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Act",
+      "content": "(1)\nLicence holders shall comply with and observe\nany applicable regulations made and rules issued under this Act,\nincluding with reference to prudential requirements, and shall be\nconsidered as subject persons.\nFor the purposes of this sub-article, the term \"prudential\nrequirements\" shall include requirements on administration,\ncompliance, risk management, systems and security access protocols,\nfinancial resources, capital adequacy, professional indemnity\ninsurance and any other related requirements included in the\nregulations made or rules issued under this Act.\n(2) Without prejudice to the generality of sub-article (1), a\nlicence holder shall ensure that all of its systems and security access\nprotocols are maintained at all times to appropriate high standards.\n\nBoard of\nadministration.",
+      "metadata": {
+        "source_line_start": 1378,
+        "source_line_end": 1395
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Act",
+      "content": "(1)\n\nThe licence holder shall ensure that -\n\n(a)\nmembers of its board of administration shall at\nall times be of sufficient good repute, possess sufficient\ncollective knowledge, skills and experience and commit\nsufficient time to perform their duties and be able to\nunderstand the licence holder’s activities, including the main\nrisks. In this regard, the licence holder shall devote adequate\n\nhuman and financial resources to the induction and training of\nmembers of its board of administration;\n(b)\nthe number of positions as administrator which\nmay be held by a member of its board of administration at the\nsame time shall take into account individual circumstances and\nthe nature, scale and complexity of the licence holder’s\nactivities; and\n(c)\neach member of its board of administration shall\nact with honesty, integrity and independence of mind to\neffectively assess and challenge the decisions of the senior\nmanagement where necessary and to effectively oversee and\nmonitor management decision-making.\n(2) The board of administration of the licence holder, or the\nlicence holder itself in the case of an individual, shall be vested with\nthe responsibility to abide by all requirements under this Act and any\nregulations made and rules issued thereunder:\nProvided that the board of administration or the licence\nholder itself, as applicable, shall not be held responsible when they\nprove that they have acted in good faith pursuant to their fiduciary\nobligations and in terms of applicable legislation.",
+      "metadata": {
+        "source_line_start": 1396,
+        "source_line_end": 1438
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "obligations and in terms of applicable legislation",
+      "content": "(1)\nThe licence holder shall provide the competent\nauthority with particulars in writing of any changes in the\ninformation provided under this Act as soon as such licence holder\nbecomes aware of such changes and shall notify the competent\nauthority, on a continuous basis, of any changes or circumstances\nwhich give rise to the existence of close links within the meaning in\narticle 17(e).\n\nChanges of\ninformation.\n\n(2) Notwithstanding the generality of sub-article (1), any\nsubstitutions or amendments which refer to upgrades, maintenance,\ninnovative evolution or mere replacement of operating systems shall\nbe notified to the competent authority where they have, or have the\npotential to have, a material impact on investors or they are not in any\nmanner in accordance with any provision of this Act:\nProvided that the competent authority may issue rules in\nterms of article 15(3)(b) in order to prescribe mandatory notification\nin general or provide guidelines in particular cases.",
+      "metadata": {
+        "source_line_start": 1439,
+        "source_line_end": 1459
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "in general or provide guidelines in particular cases",
+      "content": "Every licence holder shall pay to the competent\nauthority such periodic fee, and within such time, as may from time\nto time be prescribed.",
+      "metadata": {
+        "source_line_start": 1460,
+        "source_line_end": 1465
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Payment of fees",
+      "content": "(1)\nLicence holders shall act honestly, fairly and\nprofessionally and shall comply with the requirements laid down in\nthis Act and any regulations made and rules issued thereunder, as\nwell as with other legal and regulatory requirements as may be\n\nFiduciary\nobligations.\n\napplicable.\n\n(2) A licence holder shall be subject to fiduciary obligations\nas established in the Civil Code, in so far as applicable.\n\nParticipation in a\nlicence holder,\nmergers,\nreconstructions,\ndivisions and\nchanges in capital\nor voting rights.",
+      "metadata": {
+        "source_line_start": 1466,
+        "source_line_end": 1496
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "or voting rights",
+      "content": "(1)\nNotwithstanding anything contained in any other\nlaw, the consent of the competent authority given in writing shall be\nrequired before a person may lawfully (a)\nacquire, directly or indirectly, a qualifying\nholding in a licence holder;\n(b)\nincrease, directly or indirectly, an existing\nholding which is not a qualifying holding so as to cause it to\nbecome a qualifying holding in a licence holder;\n(c)\nfurther increase, directly or indirectly, such\nqualifying holding in a licence holder as a result of which the\nproportion of the voting rights or of the capital held would\nreach or exceed twenty per cent (20%), thirty per cent (30%)\nor fifty per cent (50%) or so, so that the licence holder, where a\ncompany, would become its subsidiary;\n(d)\ndispose, directly or indirectly, of a qualifying\nholding in a licence holder;\n(e)\nreduce, directly or indirectly, a qualifying\nholding so as to cause it to cease to be a qualifying holding; or\n(f)\nreduce, directly or indirectly, a qualifying\nholding so that the proportion of the voting rights or of the\ncapital held would fall below twenty per cent (20%), thirty per\ncent (30%) or fifty per cent (50%) or so, so that the licence\nholder, where a company, would cease to be its subsidiary.\n(2) Without prejudice to the other provisions of this Act and\nnotwithstanding anything contained in any other law, and without\nprejudice to sub-article (1), the consent of the competent authority\ngiven in writing shall be required before a licence holder may\nlawfully (a)\nsell or dispose of its business or any significant\npart thereof;\n(b)\nmerge with any other company, whether licensed\nunder this Act or not:\nProvided that for the purposes of this sub-article,\nno merger with a company that requires registration or any\nother kind of authorisation whatsoever by the competent\nauthority under any Maltese law, other than this Act, or which\nholds any other equivalent authorisation by a European or\n\noverseas regulatory authority shall be permissible under this\nAct;\n(c)\n\nundergo any reconstruction or division; or\n\n(d)\nincrease or reduce its capital or effect any\nmaterial change in voting rights.\n(3) It shall be the duty of all members of the board of\nadministration of a licence holder to notify the competent authority\nimmediately upon becoming aware that such person or licence holder\nintends to take any of the actions set out in sub-articles (1) and (2).\n(4) Upon receipt of such notification or receipt of such\ninformation as the competent authority may lawfully require,\nwhichever is the later, the competent authority shall issue a notice (a)\ngranting unconditional consent to the taking of\nthe action; or\n(b)\ngranting consent to the taking of the action\nsubject to such conditions as the competent authority may\ndeem appropriate; or\n(c)\nrefusing consent to the taking of the action, and\nif it refuses to grant consent, it shall inform the person or the\nlicence holder concerned in writing for the reason for its\nrefusal.\n(5) In assessing the notification and the information referred\nto in this article, the competent authority shall, in order to ensure the\nsound and prudent management of the licence holder in which an\nacquisition is proposed, and having regard to the likely influence of\nthe proposed acquirer on the licence holder, assess the suitability of\nthe proposed acquirer and the financial soundness of the proposed\nacquisition in accordance with the following criteria:\n(a)\n\nthe reputation of the proposed acquirer;\n\n(b)\nthe reputation, knowledge, skills and experience,\nas set out in article 24(1)(a), of any member of the board of\ndirectors and any member of senior management who will\ndirect the business of the licence holder as a result of the\nproposed acquisition;\n(c)\nthe financial soundness of the proposed acquirer,\nin particular in relation to the type of business pursued and\nenvisaged in the licence holder in which the acquisition is\nproposed;\n(d)\nwhether the licence holder will be able to\ncomply and continue to comply with the prudential\n\nrequirements based on this Act and any regulations made and\nrules issued thereunder and, where applicable, other European\nUnion laws, including whether the group of which it will\nbecome a part has a structure that makes it possible to exercise\neffective supervision, effectively exchange information among\nthe competent authority and the overseas regulatory authorities\nand determine the allocation of responsibilities among the\ncompetent authority and the overseas regulatory authorities;\n(e)\nwhether there are reasonable grounds to suspect\nthat, in connection with the proposed acquisition, money\nlaundering or terrorist financing within the meaning of Article\n1 of Directive 2015/849/EU is being or has been committed or\nattempted, or that the proposed acquisition could increase the\nrisk thereof.\n\n(6) If any person or any licence holder takes or decides to\ntake any action set out in sub-article (1) or (2) without obtaining the\nconsent of the competent authority, then, without prejudice to any\nother penalty which may be imposed under this Act, the competent\nauthority shall have the power to make an order:\n(a)\nrestraining such person or licence holder from\ntaking, or continuing with, such action;\n(b)\n\ndeclaring such action to be null and void;\n\n(c)\nrequiring such person or licence holder to take\nsuch steps as may be necessary to restore the position existing\nimmediately before the action was taken;\n(d)\nrestraining such person or licence holder from\nexercising any rights which such action would, if lawful, have\nconferred upon them; or\n(e)\nrestraining such person or licence holder from\ntaking any similar action or any other action within the\ncategories set out in sub-articles (1) and (2).\nAdvertisements.",
+      "metadata": {
+        "source_line_start": 1497,
+        "source_line_end": 1649
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Advertisements",
+      "content": "(1)\nNo person, other than licence holders, may issue\nor cause to be issued an advertisement relating to a VFA service in or\nfrom within Malta unless its contents have been vetted and approved\nby the licence holder’s board of administration.\n(2) The competent authority may, from time to time, issue\nsuch rules or directives to licence holders as it may consider\nappropriate in order to set minimum standards and requirements\nwhich are to be observed by licence holders when issuing or\napproving advertisements in accordance with sub-article (1). Such\nrules or directives may also include provision for such exemptions or\nconditions as may be specified therein and may make different\n\nprovision for different cases or classes of cases, under such terms and\nconditions as may be prescribed.\n(3) The competent authority may impose such conditions,\nlimitations and restrictions on a licence holder with respect to the\nissue or approval of advertisements, as it may consider appropriate.",
+      "metadata": {
+        "source_line_start": 1650,
+        "source_line_end": 1674
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "issue or approval of advertisements, as it may consider appropriate",
+      "content": "Where the licence holder maintains a website, the person\nresponsible for the licence holder’s compliance function shall ensure\nthat its homepage at least contains such information and in such\nformat as may be required by the competent authority by means of\nrules issued under this Act.",
+      "metadata": {
+        "source_line_start": 1675,
+        "source_line_end": 1682
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Website",
+      "content": "Notwithstanding any investigation provided for in this\nAct, where a VFA licence holder considers that it is likely to become\nunable to meet its obligations, it shall immediately inform the\ncompetent authority in writing.\n\nVFA licence\nholders unable to\nmeet obligations.",
+      "metadata": {
+        "source_line_start": 1683,
+        "source_line_end": 1691
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Website",
+      "content": "Without prejudice to any other obligations imposed\nunder this Act, a licence holder shall be required to submit to the\ncompetent authority on an annual basis a certificate of compliance in\nthe form and manner required by the competent authority confirming\nthe licence holder’s compliance with all the obligations laid down in\nthis Act or any regulations made and rules issued thereunder during\nthe period concerned:\n\nCertificate of\ncompliance.\n\nProvided that in the event of a breach of any provision of\nthis Act, regulations made or rules issued thereunder, the licence\nholder shall include the particular breach and any other additional\ninformation as may be required by the competent authority in the\ncompliance certificate:\nProvided further that, where the licence holder is an\nindividual, the licence holder itself shall be required to submit the\ncompliance certificate to the competent authority.",
+      "metadata": {
+        "source_line_start": 1692,
+        "source_line_end": 1712
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART VI - Prevention of Market Abuse",
+      "section": "33",
+      "title": "Prevention of Market Abuse",
+      "content": "The prohibitions and requirements laid down in this Part\nshall apply to acts carried out by any person in Malta or outside\nMalta, as prescribed or as may be prescribed by or under this Act or\nregulations made or rules issued thereunder, concerning virtual\nfinancial assets that are admitted to trading on a VFA exchange, or\nfor which a request for admission to trading on such VFA exchange\nhas been made.\n\nScope and\njurisdiction.",
+      "metadata": {
+        "source_line_start": 1713,
+        "source_line_end": 1723
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "jurisdiction",
+      "content": "(1)\nInsider dealing, recommending or inducing\nanother person to engage in insider dealing, as referred to in this\narticle, shall constitute an offence when committed intentionally.\n\nProhibition of\ninsider dealing.\n\n(2) It shall also be an offence to attempt to commit any of\nthe offences referred to in sub-article (1).\n(3) Inciting, aiding or abetting any of the offences referred\nto in sub-article (1) shall also amount to an offence.\n(4) For the purposes of sub-article (1), insider dealing arises\nwhere a person possesses inside information and uses that\ninformation by acquiring or disposing of, for its own account or for\nthe account of a third party, directly or indirectly, virtual financial\nassets to which that information relates.\n(5) For the purposes of sub-article (1), recommending that\nanother person engage in insider dealing, or inducing another person\nto engage in insider dealing, arises where the person possesses inside\ninformation and:\n(a)\nrecommends, on the basis of that information,\nthat another person acquire or dispose of virtual financial\nassets to which that information relates, or induces that person\nto make such an acquisition or disposal; or\n(b)\nrecommends, on the basis of that information,\nthat another person cancels or amends an order concerning a\nvirtual financial asset to which that information relates, or\ninduces that person to make such a cancellation or amendment:\nProvided that the use of the recommendations or\ninducements amounts to insider dealing where the person using the\nrecommendation or inducement knows that it is based upon inside\ninformation.\n(6) The provisions of this article apply to any person in the\nsituations or circumstances prescribed or as may be prescribed.\nProhibition of\nunlawful\ndisclosure of inside\ninformation.",
+      "metadata": {
+        "source_line_start": 1724,
+        "source_line_end": 1772
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "information",
+      "content": "(1)\nUnlawful disclosure of inside information shall\nalso constitute an offence under this Act when committed\nintentionally.\n(2) Inciting, aiding or abetting the offence referred to in\nsub-article (1) shall also amount to an offence.\n(3) For the purposes of this article, unlawful disclosure of\ninside information arises where a person possesses inside information\nand discloses that information to any other person, except in cases\nwhere such disclosure is permitted pursuant to any provisions of this\nAct, regulations made or rules issued thereunder.\n(4) The provisions of this article apply to any person in the\nsituations or circumstances prescribed or as may be prescribed.\n(5)\n\nFor the purposes of this Act, the onward disclosure of\n\nrecommendations or inducements referred to in article 34(5) amounts\nto unlawful disclosure of inside information where the person\ndisclosing the recommendation or inducement knows that it was\nbased on inside information.\n(6) This article shall be applied in accordance with the laws\nof the freedom of the press and the freedom of expression.",
+      "metadata": {
+        "source_line_start": 1773,
+        "source_line_end": 1802
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Act, regulations made or rules issued thereunder",
+      "content": "(1)\nMarket manipulation, as referred to in this\narticle, shall constitute an offence in severe cases or when committed\nintentionally.\n\nProhibition of\nmarket\nmanipulation.\n\n(2) It shall also be an offence to attempt to commit any of\nthe offences referred to in sub-article (1).\n(3) Inciting, aiding or abetting the offence referred to in\nsub-article (1) shall also amount to an offence.\n(4) For the purposes of this article, \"market manipulation\"\nmeans the manipulation or attempted manipulation of a virtual\nfinancial asset or a benchmark through the employment of an abusive\nstrategy that may be carried out by any available means of trading or\nother means, as prescribed or as may be prescribed.",
+      "metadata": {
+        "source_line_start": 1803,
+        "source_line_end": 1820
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "other means, as prescribed or as may be prescribed",
+      "content": "Without prejudice to any other obligations under this\nAct, regulations made or rules issued thereunder, a VFA exchange\nshall have in place effective systems, procedures and arrangements to\nmonitor and detect market abuse and where it suspects that there may\nexist circumstances to indicate that any violation of the provisions\nunder this Part may have been committed, is being committed or is\nlikely in the circumstances to be committed, it shall immediately\nreport such suspicion to the competent authority.\n\nDetection and\nreport on market\nabuse.",
+      "metadata": {
+        "source_line_start": 1821,
+        "source_line_end": 1835
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART VII - Regulatory and Investigatory Powers",
+      "section": "38",
+      "title": "Regulatory and Investigatory Powers",
+      "content": "(1)\nThe Minister, acting on the advice of the\ncompetent authority, may make regulations to give effect to the\nprovisions of this Act, and without prejudice to the generality of the\nforegoing may, by such regulations, in particular, do any of the\nfollowing:\n(a)\n\namend the definitions contained in this Act;\n\n(b)\nregulate the activities of issuers and licence\nholders, as well as services provided and activities carried on\nin conjunction therewith or in relation thereto; provide for any\nmatter he may deem expedient including the creation and\nexercise of rights by or for the benefit of the public, the\nimposition of duties and obligations on the issuers, licence\nholders or persons responsible for the management or\n\nMinister’s power\nto make\nregulations.\nAmended by:\nXIV.2024.7.\n\nadministration thereof, the regulation of branches established\nby licence holders, outsourcing or agency arrangements and of\nany fees and, or any other charges imposed directly or\nindirectly on investors; prescribe investment restrictions\napplicable to retail investors investing or wishing to invest, as\napplicable, in virtual financial assets, and for the purpose of\nthis paragraph \"retail investor\" shall mean an investor who is\nconsidered to be a retail client in terms of Article 4(11) of\nMiFID but shall exclude any retail client who may be treated\nas professional on request within the meaning of Annex II to\nMiFID; provide for the safekeeping and custody of the\ncryptographic keys and for the requirement to appoint a\ncustodian, and prescribe and regulate in the most extensive\nmanner the functions, duties, responsibilities and obligations\nof the custodian, and for the purpose of this paragraph\n\"custodian\" shall include a sub-custodian; require the keeping\nof records with respect to the transactions and financial\nposition of issuers and licence holders and for the inspection of\nthose records, and prescribe reporting and disclosure\nrequirements, including the preparation of periodical reports\nand the furnishing of those reports to investors, unitholders\nand to others;\n(c)\nestablish schemes or other arrangements for the\ncompensation of investors in cases where licence holders or\nany categories thereof as may be specified, are unable to\nsatisfy their obligations towards investors or claims in respect\nof any liability incurred by them in connection with the\ncarrying out of any activity in regard to which they are\nlicensed, and to regulate the management and the financing of\nany such schemes or arrangements, and the contributions and\nlevies to be paid thereto, to set the minimum and maximum\nlevels of compensation payable thereunder and may under\nsuch schemes and arrangements distinguish between different\nclasses of investors and exclude certain classes from\ncompensation, and to make provision for the regulation of and\nfor any other aspect related to such schemes or arrangements\nand may moreover provide that such schemes or arrangements\nas may be prescribed shall have a legal personality distinct\nfrom that of the contributors thereto and of the competent\nauthority and provide for the judicial and legal representation\nthereof; and such schemes shall be exempt from the payment\nof income tax as from the date of establishment of such\nschemes;\n(d)\ndefine the criteria for determining whether a\nholding is an indirect holding for the purposes of determining\nwhether a qualifying holding exists;\n(e)\n\ndefine the criteria for determining whether the\n\nsystems and security access protocols of issuers, applicants or\nlicence holders, as applicable, meet or are maintained to the\nappropriate high international standards that may be\nestablished from time to time;\n(f)\nregulate the promotion or sale by or on behalf of\nany issuer or licence holder, and by any means, of an initial\nvirtual financial asset offering or of a VFA service or of any\nDLT asset, including the criteria and procedures for the\ngranting or refusing of consent by the competent authority\npursuant to the provisions of article 30;\n(g)\namend the provisions of article 50 on the\ncircumstances in which auditors are obliged to communicate\ninformation to the competent authority, to prescribe\nregulations governing the disclosure by auditors of\ninformation pursuant to article 50 and to establish supervisory\nand disciplinary procedures for auditors in respect of their\nduties under the provisions of article 50;\n(h)\nregulate\nthe\ndrawing-up,\nregistration,\npublication and distribution in Malta of whitepapers relating to\nofferings, admission or trading of virtual financial assets on a\nVFA exchange where the respective issuer’s head office is\nlocated in a country outside Malta and to make provision for\nthe recognition of such whitepapers taking into account the\nobligations emanating from European legislation or Malta’s\ninternational commitments;\n(i)\nprovide for and regulate the payment by any\nperson of registration, licence or other fees and such other\ncharges payable to the competent authority in respect of any\nmatter provided for, by or under this Act or any regulations\nmade under this article, as may be prescribed;\n(j)\nexempt any issuer, licence holder or any other\nperson, VFA service, DLT asset, whitepaper or advertisement\nfrom any one or more of the provisions of this Act subject to\nsuch variations, additions, adaptations and modifications as\nmay be prescribed and subject to such conditions or other\nrequirements, including other forms of registration,\nauthorisation and notification procedures, as may be\nprescribed;\n(k)\nestablish prudential requirements for licence\nholders; regulate the supervision on a consolidated basis,\nprovide for the consultation, co-ordination, co-operation and\nthe sharing and exchange of information with national,\nEuropean and other third country regulatory authorities as may\nbe necessary; provide for the exchange of information with the\nESRB, central banks which are members of the European\n\nSystem of Central Banks, including the Central Bank of Malta,\nexchange of information with ESAs and exchange of\ninformation with other departments of government\nadministrations in other Member States responsible for the law\non the supervision of institutions, financial institutions and\ninsurance undertakings and with inspectors acting on behalf of\nthose departments as may be necessary; provide for the\nestablishment of colleges of supervisors; provide for the\nexercise of powers by the competent authority on issuers and\nlicence holders, or their effective managers; provide for the\nestablishment and imposition of administrative penalties on\nissuers, licence holders or others as specified therein or other\nmeasures for the contravention of any of the regulations, and\nto provide for appeals therefrom to the Tribunal or any other\ntribunal that he may prescribe; provide for the obligations of\nthe competent authority to report to the ESAs and the\nEuropean Commission as may be required and specified in the\nsaid regulations;\n(l)\nprovide for reporting and other requirements and\nconditions which a person must satisfy, on a continuing and\nongoing basis and to establish the circumstances and the\nmanner in which requirements and conditions may be varied,\nsuspended or revoked;\n\n(m)\nestablish centralised or decentralised data\nrepositories or other arrangements for the collection,\nrecording, organisation, structuring, storage, adaptation or\nalteration, retrieval, consultation, use, disclosure by\ntransmission, dissemination or otherwise making available,\nalignment or combination, restriction, erasure or destruction,\nin accordance with European legislation, of such information\nand documentation as may be required by subject persons to\nfulfil their customer due diligence requirements provided for\nunder the Prevention of Money Laundering and Funding of\nTerrorism Regulations; and to make provision for the\nregulation of and for any other aspect related to such data\nrepositories or arrangements and may moreover provide that\nsuch data repositories or arrangements as may be prescribed\nshall have a legal personality distinct from that of the subject\npersons thereto and of the competent authority and provide for\nthe judicial and legal representation thereof;\n(n)\nin consultation with the competent authority,\namend the Second Schedule in order to include any services\nwhich relate to virtual financial assets and which are not listed\nin the said Second Schedule and make regulations relative\nthereto;\n(o)\ntranspose, implement and give effect to the\nprovisions and requirements of Directives, Regulations and\n\nany other legislative measures of the European Union\nrequiring transposition and, or implementation, as they may be\namended from time to time, including any implementing\nmeasures that may be issued thereunder and relating to DLT\nassets, issuers, licence holders and others as may be specified\ntherein; regulations made under this paragraph, and strictly\nrelated to transposition or implementation as aforesaid, may\nprovide that any provision of this Act or of any other law shall\nnot apply to matters falling under the regulations, and that in\nso far as any of the provisions of the regulations are\ninconsistent with the provisions of this Act or of any other law,\nsuch provisions in any such regulations shall prevail;\n(p)\nprovide for arrangements for the investigation of\ncomplaints about issuers or licence holders;\n(q)\nprescribed;\n\nprescribe anything that is to be or which may be\n\n(r)\nprovide for any matter incidental to or connected\nwith any of the above.\n(2) Regulations made under this article may also contain\nprovisions for enabling a person who has entered, or offered to enter,\ninto a VFA agreement with a licence holder to rescind the agreement\nor withdraw the offer within such period and in such manner as may\nbe prescribed, and in particular, but without prejudice to the\ngenerality of the foregoing, may make provision (a)\nfor requiring the service of notice with respect to\nthe rights exercisable under the regulations;\n(b)\nfor the restitution of assets and the making or\nrecovery of payments where those rights are exercised;\n(c)\nfor such other matters as are incidental to or\nconnected with any of the above.\n(3) Regulations made under this article, may be made\nsubject to such exemptions or conditions as may be specified therein,\nmay make different provision for different cases, circumstances or\npurposes and may give to the competent authority such powers of\nadaptation of the regulations as may also be so specified.\n(4) Where regulations have been made in terms of this\narticle, the competent authority may issue rules within the meaning of\narticle 15 for the better carrying out and to better implement the\nprovisions of the regulations.\n(5)\n\nRegulations made under this article may impose:\n(a)\n\nadministrative penalties which may not exceed\n\none hundred and fifty thousand euro (€150,000) for each\ninfringement or failure to comply, as the case may be;\n(b)\npunishments or other penalties in respect of any\ncontravention or failure of compliance not exceeding a fine\n(multa) of fifteen million euro (€15,000,000) or up to three\ntimes the profits made or losses avoided by virtue of the\noffence, whichever is the greater, or to imprisonment for a\nterm not exceeding six years, or both such fine and\nimprisonment; and\n(c)\nadministrative penalties and fines higher than\none hundred and fifty thousand euro (€150,000), where\ndeemed necessary or appropriate for any contravention of or\nfailure of compliance with any EU Directive or EU Regulation\nor of any regulations made under this article to transpose or to\ngive effect to any EU Directive or EU Regulation.\n\n(6) Regulations made under this Act and any amendment or\nrevocation of such regulations, may be published in the English\nlanguage only.\n(7) The exercise of any of the powers assigned under this\narticle shall be subject to any obligations or rights arising from\nMalta’s international commitments.\nPower of\ncompetent\nauthority to require\ninformation.\nAmended by:\nXIV.2024.8.",
+      "metadata": {
+        "source_line_start": 1836,
+        "source_line_end": 2152
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "XIV.2024.8",
+      "content": "(1)\nwriting, require -\n\nThe competent authority may, by notice in\n\n(a)\nany person who is or was providing, or who\nappears to be or to have been providing a VFA service as well\nas any persons that control them or are controlled by them;\n(b)\nany issuer, intermediary involved in the initial\nVFA offering as well as any persons that control them or are\ncontrolled by them;\n(c)\nany person who has issued, or appears to have\nissued an advertisement falling within the provisions of\narticles 6 or 29;\n(d)\n\nan auditor of a person regulated under this Act;\n\n(e)\nany other person who appears to be in possession\nof relevant information or documentation,\nto do all or any of the following:\n(i)\nto furnish to the competent authority, at\nsuch time and place and in such form as it may\nspecify, such information and documentation as it\nmay require, including the power to require existing\n\ntelephone, existing data traffic and existing DLT\nrecords, with respect to any such service, DLT asset,\nadvertisement or website as aforesaid, or with respect\nto any person with whom the licence holder has close\nlinks within the meaning of article 17;\n(ii) to review the determination made in terms\nof articles 3 or 13 and confirm in writing the\ncompetent authority that such determination is true\nand accurate or otherwise;\n(iii) to furnish to the competent authority any\ninformation or documentation aforesaid verified in\nsuch manner as it may specify;\n(iv) to attend before the competent authority, or\nbefore a person appointed by it, at such time and\nplace as it may specify, to answer questions and\nprovide information and documentation with respect\nto any such service, scheme or advertisement as\naforesaid:\nProvided that the powers in this article shall not permit\nthe competent authority to demand information about source codes of\nany proprietary technology or of information of highly sensitive,\nintellectual property which is protected by law and which relates to\ninnovative DLT or smart contracts.\n(2) Without prejudice to anything which the competent\nauthority may require under sub-article (1), all information in respect\nof virtual financial assets traded on a VFA exchange and held by the\nexchange shall be freely accessible to the competent authority:\nProvided that the provisions of this sub-article shall also\nbe applicable where a virtual financial asset is determined by the\ncompetent authority to be electronic money or a financial instrument\nin terms of article 13(2)(b).\n(3) The competent authority may take copies of any\ndocuments furnished or provided under this article.\n(4) Where the person required to provide information or\ndocumentation under this article does not have the relevant\ninformation or documentation, he shall disclose to the competent\nauthority where, to the best of his knowledge, that information or\ndocumentation is, and the competent authority may require any\nperson, whether indicated as aforesaid or not, who appears to it to be\nin possession of that information or documentation, to provide it.\n(5) A statement made and documentation provided in\npursuance of any requirement under this article may be used in\n\nevidence against the person making the statement or providing the\ndocumentation as well as against any person to whom they relate.\n\n(6) The provisions of this article shall not apply to\ninformation or documentation which is privileged in accordance with\nthe provisions of article 642(1) of the Criminal Code or which refer\nto cryptographic keys belonging to the person required to provide\ninformation or documentation under this article:\nProvided that the provisions of this sub-article shall not\napply to the actual information protected by the cryptographic keys.\n(7) The power to require the production of documentation\nunder the provisions of this article shall be without prejudice to any\nlien or charge claimed by any person in relation to such\ndocumentation.\n(8) Where the competent authority has appointed a person\nunder article 42(1)(c), such person shall, for the purposes of carrying\nout his functions under his appointment, have all the powers\nconferred on the competent authority by this article and a\nrequirement made by it shall be deemed to be and have the same\nforce and effect as a requirement of the competent authority.\n\n(9) Without prejudice to the other provisions of this article,\na licence holder may be required to submit to the Central Bank of\nMalta such information as the Bank may reasonably require for the\ndischarge of its duties under the Central Bank of Malta Act.\n\nAppointment of\ninspectors.\nAmended by:\nXIV.2024.9.",
+      "metadata": {
+        "source_line_start": 2153,
+        "source_line_end": 2282
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "XIV.2024.9",
+      "content": "(1)\nThe competent authority may, whenever it\ndeems it necessary or expedient, appoint an inspector or inspectors to\ninvestigate and report on the affairs of any issuers or licence holders\nor any other persons referred to in article 39(1).\n(2)\n\nAn inspector appointed under sub-article (1) -\n\n(a)\nmay also, if he thinks it necessary or expedient\nfor the purposes of that investigation, investigate the affairs of\nany person mentioned in sub-article (1);\n(b)\nshall have and may exercise all the powers\nconferred on the competent authority by article 39, and any\nrequirement made by it shall be deemed to be and have the\nsame force and effect as a requirement of the competent\nauthority;\n(c)\nmay, and if so directed by the competent\nauthority shall, make interim reports and on the conclusion of\nhis investigation shall make a final report to the said authority.\n(3) The competent authority shall have power to order that\nall expenses of, and incidental to, an investigation pursuant to this\n\narticle be paid by the persons concerned.\n(4) For the purposes of this article, an inspector shall be a\nperson considered by the competent authority as possessing suitable\nexpertise to exercise such function.",
+      "metadata": {
+        "source_line_start": 2283,
+        "source_line_end": 2317
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "expertise to exercise such function",
+      "content": "(1)\nWithout prejudice to any of the powers\nconferred on it by articles 39 and 40, the competent authority may,\nwhenever it deems it necessary, and whether upon a report by an\ninspector appointed under article 40 or not, give, by notice in writing,\nsuch directives as it may deem appropriate in the circumstances; and\nany person as is referred to in article 39(1) to whom the notice is\ngiven shall obey, comply with and otherwise give effect to any such\ndirective within the time and in the manner stated in the directive or\nfurther directive.\n(2) Without prejudice to the generality of the foregoing\nprovisions of this article, a directive under this article may (a)\nrequire anything to be done or be omitted to be\ndone, or impose any prohibition, restriction or limitation, or\nany other requirement, including any requirement emanating\nfrom European Union legislation, and confer powers, with\nrespect to any offering or trading of DLT assets, VFA service,\ntransaction or other act, or to any assets, or to any other thing\nwhatsoever;\n(b)\nrequire that any person having functions in\nrelation to the issuer or licence holder be prohibited,\ntemporarily or otherwise, suspended from carrying out\nactivities under this Act, or removed and replaced by another\nperson acceptable to the competent authority;\n(c)\nrequire an issuer, licence holder or any person\nwho is or was, or who appears to be or to have been\nundertaking an activity or providing a service regulated under\nthis Act to cease operations and to wind up its affairs, in\naccordance with such procedures and directions as may be\nspecified in the directive, which may provide for the\nappointment of a person to take possession and control of all\ndocuments, records and assets belonging to or in the\npossession or control of the issuer, licence holder or such other\nperson;\n(d)\nrequire a licence holder to submit a financial\nrecovery plan, as may be determined in the rules, if it\nconsiders that the interests of investors, consumers, creditors\nor other interested persons are likely to be prejudiced owing to\na deterioration in the financial position of the licence holder;\n(e)\n\nrequire the removal of a virtual financial asset\n\nPower to issue\ndirectives.\nAmended by:\nXIV.2024.9.\n\nfrom trading on a VFA exchange or the suspension of trading\nin such virtual financial asset:\nProvided that the provisions of this paragraph\nshall also be applicable where a virtual financial asset is\ndetermined by the competent authority to be electronic money\nor a financial instrument in terms of article 13(2)(b);\n(f)\nrequest any person to take steps to reduce the\nsize of the position or exposure:\n\nProvided that in applying the provisions of paragraph\n(c), the competent authority may also appoint a competent person to\nact as liquidator for the purposes of winding up the affairs of an\nissuer or licence holder under this Act; and such person shall be the\nliquidator of the issuer or licence holder for all purposes of law to the\nexclusion of any other person.\n(3) The power to give directives under this article shall\ninclude the power to vary, alter, add to or withdraw any directive, as\nwell as the power to issue new or further directives.\n(4) Where the competent authority is satisfied that the\ncircumstances so warrant, it may at any time make public any\ndirective it has given under any of the provisions of this article.\nPower of the\ncompetent\nauthority to protect\nthe public interest.\nAmended by:\nXIV.2024.11.",
+      "metadata": {
+        "source_line_start": 2318,
+        "source_line_end": 2405
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "XIV.2024.11",
+      "content": "(1)\nWithout prejudice to the powers conferred to the\ncompetent authority under this Act, the competent authority may,\nwhere it is satisfied that sufficient circumstances exist, proceed to\ntake any one or more of the following measures:\n(a)\nappoint a person to advise the issuer or licence\nholder in the proper conduct of their business;\n(b)\nappoint a person to take charge of the assets of\nthe issuer or licence holder, or any portion of them, for the\npurposes of safeguarding the interests of investors, consumers,\ncreditors or, if any, unitholders, of the issuer or licence holder;\n(c)\nappoint a person to assume control of the\nbusiness of the issuer or licence holder, either to carry on that\nbusiness or to carry out such other function or functions in\nrespect of such business, or part thereof, as the competent\nauthority may direct;\n(d)\nfix the remuneration to be paid by the issuer or\nlicence holder to any person appointed under article 41 or\nunder this article;\n(e)\ndo such other act as it may deem appropriate in\nthe circumstances to give better effect to the implementation\nof the provisions of this article,\n\nand, having adopted any one or more of the measures aforesaid, the\ncompetent authority may further proceed in any one or more such\nmeasures, whether in addition thereto or in substitution therefor.\n(2)\n\nWhere a person is appointed by the competent authority-\n\n(a)\nunder sub-article (1)(a), it shall be the duty of\nthe issuer or licence holder, as applicable, to act in accordance\nwith the advice given by such person unless and until the\ncompetent authority, on representation made to it, directs\notherwise;\n(b)\nunder sub-article (1)(b), the issuer or licence\nholder, as applicable, shall deliver to such person all the assets,\nwhether movable or immovable, of which he is placed in\ncharge, and all the powers, functions and duties of the said\nissuer or licence holder in respect of those assets, including, if\nsuch issuer or licence holder is a legal person, those\nexercisable by the legal person in a general meeting, or by the\nmembers of the board of administration, or by any other\nperson, including the legal and judicial representation of such\nlegal person, shall be exercisable by and vest in the person\nappointed under the said paragraph to the exclusion of any\nother person;\n(c)\nunder sub-article (1)(c), the issuer or licence\nholder, as applicable, shall submit its business to the control of\nsuch person and shall provide such person with such facilities\nas may be required to carry on that business or to carry out the\nfunctions assigned to such person under the said paragraph;\nand all the powers, functions and duties of the said issuer or\nlicence holder, including, if such issuer or licence holder is a\nlegal person, those exercisable by the legal person in a general\nmeeting, or by the members of the board of administration, or\nby any other person, including the legal and judicial\nrepresentation of such legal person in all matters, shall be\nexercisable by and vest in such person to the exclusion of any\nother person.\n(3) The competent authority may, where it feels it is in the\nbest interest of the public so to do, make or issue public statements or\nnotices giving warnings or information about any measure taken in\nterms of this article.\n(4) The competent authority may require the issuer or\nlicence holder concerned to pay all the expenses of, and incidental to,\nthe publication or issue of public statements or notices pursuant to\nthis article, or such part thereof as it may deem appropriate; and any\nsum so due shall be recoverable by the competent authority in the\nsame manner as an administrative penalty imposed under this Act.",
+      "metadata": {
+        "source_line_start": 2406,
+        "source_line_end": 2500
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Right of entry",
+      "content": "(1)\nAny officer, employee or agent of the competent\nauthority, on producing, if required, evidence of his authority, may\nenter premises occupied by a person on whom a notice has been\nserved under article 39 or whose affairs are being investigated under\narticle 40, for the purpose of obtaining there the information or\ndocuments required by that notice, or otherwise for the purpose of the\ninvestigation, and of exercising any of the powers conferred by the\nsaid articles.\n(2) Where any officer, employee or agent of the competent\nauthority has reasonable cause to believe that if such notice as is\nreferred to in sub-article (1) were served it would not be complied\nwith or that any documents to which it could relate would be\nremoved, tampered with or destroyed, such person may, on\nproducing, if required, evidence of his authority, enter any premises\nreferred to in sub-article (1) for the purpose of obtaining there any\ninformation or documents specified in the authority, being\ninformation or documents that could have been required under such\nnotice as is referred to in sub-article (1).\n(3) For the purposes of any action taken under the\nprovisions of this article, the competent authority may request the\nassistance of the Commissioner of Police, who may for such purpose\nexercise such powers as are vested in it for the prevention of offences\nand the enforcement of law and order.\n\nDiscontinuation or\nsuspension from\ntrading on a VFA\nexchange.",
+      "metadata": {
+        "source_line_start": 2501,
+        "source_line_end": 2530
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "exchange",
+      "content": "(1) (a) The competent authority may, in accordance\nwith rules issued under this Act, and whether of its own motion or at\nthe request of a VFA exchange on which a virtual financial asset has\nbeen admitted to trading, discontinue or suspend the trading of such\nvirtual financial asset if it is satisfied that there are circumstances\nwhich warrant such suspension or discontinuance.\n(b) Without prejudice to the right of the\ncompetent authority under paragraph (a) to demand suspension or\nremoval of a virtual financial asset from trading, a VFA exchange\noperator may suspend or remove from trading a virtual financial asset\nwhich no longer complies with the definition of a virtual financial\nasset or the bye-laws of the VFA exchange unless such a step would\nbe likely to cause significant damage to the investors’ interests or the\norderly functioning of the VFA exchange. The VFA exchange\noperator that suspends or removes from trading a virtual financial\nasset shall make public this decision and communicate the relevant\ninformation to the competent authority. Where required, the\ncompetent authority shall inform the European regulatory authorities\nof the other Member States or EEA States of this decision.\n(c) When the competent authority demands the\nsuspension or removal of a virtual financial asset from trading on one\nor more VFA exchanges, it shall immediately make public its\ndecision and inform any regulatory authority, as required, pursuant to\n\nthe obligations emanating from European legislation or Malta’s\ninternational commitments.\n(d) A VFA exchange operator that suspends or\nremoves from trading a virtual financial asset shall also suspend or\nremove any derivatives thereof which relate or are referenced to that\nvirtual financial asset as may be necessary to support the objectives\nof the suspension or removal of the underlying virtual financial asset.\nThe VFA exchange operator shall make public its decision on the\nsuspension or removal of the virtual financial asset and of any related\nderivatives and communicate the relevant decisions to the competent\nauthority:\nProvided that the term \"derivatives\" in this\nparagraph shall exclude the derivatives as referred to in points (4) to\n(10) of Section C of Annex I to MiFID.\n(e) Paragraph (d) shall also apply when the\nsuspension from trading of a virtual financial asset or derivatives\nthereof which relate or are referenced to that virtual financial asset is\nlifted.\n(f) The notification procedure referred to in\nparagraph (d) shall also apply in the case where the decision to\nsuspend or remove from trading a virtual financial asset or\nderivatives thereof which relate or are referenced to that virtual\nfinancial asset is taken by the competent authority.\n(2) If the trading of any virtual financial asset is suspended\nunder sub-article (1) such virtual financial asset may still be treated\nas being traded on a VFA exchange for such purposes as may be set\nout in rules issued under this Act.\n(3) If the competent authority discontinues or suspends the\ntrading of any virtual financial assets, the issuer shall have a right of\nappeal to the Tribunal in terms of article 51.\n(4) This article shall also be applicable where a virtual\nfinancial asset is determined by the competent authority to be\nelectronic money or a financial instrument in terms of article\n13(2)(b).",
+      "metadata": {
+        "source_line_start": 2531,
+        "source_line_end": 2595
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "13(2)(b)",
+      "content": "(1)\n\nIf the competent authority -\n\n(a)\nproposes to discontinue or suspend the trading of\na virtual financial asset on a VFA exchange; or\n(b)\ndecides to suspend the trading of a virtual\nfinancial asset on a VFA exchange with immediate effect,\nit must give the issuer of such virtual financial asset notice in writing:\n\nNotice of\ndiscontinuation or\nsuspension.\n\nProvided that a notice under this sub-article shall not be\nrequired when a virtual financial asset has been admitted to trading\nirrespective of the issuer’s will.\n(2) The discontinuance or suspension of the trading of a\nvirtual financial asset shall take effect immediately or on such date as\nmay be specified in the notice under sub-article (1).\n(3)\n\nA notice given under sub-article (1) shall (a)\n\ngive details of the discontinuance or suspension;\n\n(b)\nstate the competent authority’s reason for the\ndiscontinuance or suspension, provided that the interest of a\nVFA exchange or the interest of the public or the investors\nshall constitute sufficient reason;\n(c)\ninform the issuer of a virtual financial asset that\nhe may make representations to the competent authority within\nsuch period as may be specified in the notice; and\n(d)\ninform the issuer of the date on which the\ndiscontinuance or suspension will take effect or of the date on\nwhich the suspension took effect if the notice under sub-article\n(1) states that suspension is to take place with immediate\neffect:\nProvided that the obligation to give notice of a decision\nto suspend the trading of a virtual financial asset and the right of the\nissuer to make representations in relation thereto shall be without\nprejudice to the power of the competent authority to suspend the\ntrading of any virtual financial assets with immediate effect.\n(4) The competent authority may extend the period within\nwhich representations may be made to it.\n(5) If having considered any representations made by the\nissuer of a virtual financial asset the competent authority decides (a)\nto discontinue or suspend the trading of a virtual\nfinancial asset; or\n(b)\n\nif the suspension has taken effect, not to cancel\n\nit,\nthe competent authority shall give the issuer of a virtual financial\nasset notice in writing of its decision.\n(6) If the competent authority decides to discontinue or\nsuspend the trading of a virtual financial asset, or if the suspension\nhas taken effect, not to cancel it, the issuer of the virtual financial\nasset concerned shall have a right of appeal to the Tribunal and a\n\nnotice given under sub-article (5) shall inform the issuer of his right\nto refer the matter to the Tribunal.\n(7) The effect of cancelling a discontinuance is that the\nvirtual financial asset concerned is to be re-admitted to trading on the\nVFA exchange on which it had been admitted to trading.\n(8) The provisions of this article shall also be applicable\nwhere a virtual financial asset is determined by the competent\nauthority to be electronic money or a financial instrument in terms of\narticle 13(2)(b).",
+      "metadata": {
+        "source_line_start": 2596,
+        "source_line_end": 2686
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "VFA exchange on which it had been admitted to trading",
+      "content": "(1)\nWithout prejudice to the provisions of article 45,\nthe competent authority shall have the power to suspend temporarily\nthe trading in a virtual financial asset on any VFA exchange, if in its\nopinion, the orderly transaction of business is being prevented, or is\nlikely to be prevented.\n\nTemporary\nsuspension of\ntrading on a VFA\nexchange.\n\n(2) The Minister may recommend to the competent\nauthority the temporary suspension of trading if he is of the opinion\nthat the orderly transaction of business of a VFA exchange is being\ndisrupted because of any occurrence which in the opinion of the\nMinister merits such closure.\n(3) The competent authority may order that, for such time as\nit may determine, no trading of any kind may be transacted in one or\nmore specified virtual financial assets if it has reason to believe that\nthis would be in the interest of the VFA exchange concerned, the\npublic or investors in general.\n(4) No transaction may be executed at any time in the event\nof the temporary suspension of trading under this article. Any\ntransaction so executed in contravention of this sub-article shall be\ninvalid.\n(5) This article shall also be applicable where a virtual\nfinancial asset is determined by the competent authority to be\nelectronic money or a financial instrument in terms of article\n13(2)(b).",
+      "metadata": {
+        "source_line_start": 2687,
+        "source_line_end": 2716
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Minister merits such closure",
+      "content": "Without prejudice to any other powers assigned to the\ncompetent authority in terms of this Act, the competent authority\nshall introduce a test applicable to issuers and licence holders for the\npurpose of determining whether a DLT asset qualifies as electronic\nmoney, a financial instrument, virtual financial asset or virtual token:\nProvided that such test shall be applicable prior to the\nsubmission of the whitepaper to the competent authority or the\nprovision of a VFA service, as the case may be.\n\nPower of the\ncompetent\nauthority to\nintroduce test.\nAmended by:\nXIV.2024.12.\n\nAdministrative\npenalties and other\nmeasures. \nAmended by:\nXIV.2024.13.",
+      "metadata": {
+        "source_line_start": 2717,
+        "source_line_end": 2745
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "XIV.2024.13",
+      "content": "(1)\nWithout prejudice to any other powers assigned\nto the competent authority in terms of this Act, where a licence holder\nor the secretary, a member of the board of administration or any other\nperson responsible for a licence holder contravenes or fails to comply\nwith any of the conditions imposed in a licence, and, or where the\ncompetent authority is satisfied that a person’s conduct amounts to a\nbreach of any of the provisions of this Act, regulations made or rules\nissued thereunder, including failure to cooperate in an investigation,\nthe competent authority may by notice in writing and without\nrecourse to a court hearing impose on the licence holder, secretary,\nmember of the board of administration and, or any other person as the\ncase may be, an administrative penalty which may not exceed one\nhundred and fifty thousand euro (€150,000) for each infringement or\nfailure to comply, as the case may be:\nProvided that the provisions of this sub-article shall\napply to issuers mutatis mutandis.\n(2) Administrative penalties or other measures that may be\nimposed by the competent authority on issuers, licence holders or\nothers, as may be specified, may be imposed in the form of a fixed\npenalty, a daily penalty, or both.\n(3) The imposition by the competent authority of an\nadministrative penalty in terms of this article shall be without\nprejudice to any other consequence of the act or omission of the\noffender under civil or criminal law:\nProvided that in all cases where the competent authority\nimposes an administrative penalty in respect of anything done or\nomitted to be done by any person and such act or omission also\nconstitutes a criminal offence, no proceedings may be taken or\ncontinued against the said person in respect of such criminal offence.\n(4) The competent authority may, by means of a public\nstatement, disclose the name of the person sanctioned, the particular\nbreach of the provision of this Act, regulations made or rules issued\nthereunder, and the penalty or administrative measure imposed. The\ncompetent authority shall withhold such public disclosure where it\ndeems that such disclosure would seriously jeopardise the financial\nmarkets, be detrimental to the interests of investors or consumers or\ncause disproportionate damage to the parties involved.\n\nObligation to state\ngrounds for\ndecisions.",
+      "metadata": {
+        "source_line_start": 2746,
+        "source_line_end": 2788
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "decisions",
+      "content": "Any decision taken under this Act by the competent\nauthority, including any rules issued or regulations made thereunder,\nshall state the grounds on which such a decision has been based.",
+      "metadata": {
+        "source_line_start": 2789,
+        "source_line_end": 2799
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Duty of Auditors",
+      "content": "(1)\nA licence holder shall appoint an auditor who\nshall have the duty to report immediately to the competent authority\nany fact or decision of which he becomes aware in his capacity as\nauditor of such licence holder which (a)\nis likely to lead to a serious qualification or\nrefusal of the auditor’s report on the accounts of such licence\nholder; or\n(b)\nconstitutes or is likely to constitute a material\nbreach of the legal or regulatory requirements applicable to the\nlicence holders in or under this Act; or\n(c)\ngravely impairs the licence holder’s ability to\ncontinue as a going concern; or\n(d)\nprescribed.\n\nrelates to any other matter which may be\n\n(2) An auditor of a licence holder shall report to the\ncompetent authority any facts or decision as specified in sub-article\n(1) of any person having close links with such licence holder within\nthe meaning in article 17, of which he becomes aware in his capacity\nas auditor of the licence holder or of the person having such close\nlinks.\n(3) No duty (including the duty of professional secrecy) to\nwhich an auditor of the licence holder may be subject, shall be\nregarded as contravened by reason of his communicating in good\nfaith to the competent authority, whether or not in response to a\nrequest from it, any information or opinion on a matter of which the\nauditor has become aware in his capacity as auditor of that licence\nholder and which is relevant to any functions of the competent\nauthority under the provisions of this Act or is required to be\ncommunicated by virtue of sub-article (1).\n(4) The matters prescribed for the purposes of sub-article\n(1)(d) may include matters related to persons other than the licence\nholder.\n(5) An auditor of a licence holder shall, in the absence of\ncompelling reasons not to do so, simultaneously report the\ninformation specified in sub-articles (1) and (2), in accordance with\nthe provisions of sub-articles (3) and (4), to the board of\nadministration of the licence holder.\n(6) An auditor of a licence holder shall report annually to\nthe competent authority on the licence holder’s systems and security\naccess protocols in the manner and format required by the competent\nauthority.\n(7)\n\nThe provisions of this article shall apply to issuers mutatis\n\nAuditor’s duty to\nreport.\nAmended by:\nXIV.2024.14.\n\nmutandis.",
+      "metadata": {
+        "source_line_start": 2800,
+        "source_line_end": 2869
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART IX - Appeals, Remedies, Sanctions and Confidentiality",
+      "section": "51",
+      "title": "Appeals",
+      "content": "(1)\nSubject to the provisions of this article and\nwithout prejudice to any other article under this Act, an appeal shall\nlie to the Tribunal with respect to:\n(a)\n\nany decision under article 12(c) and (d);\n\n(b)\n\nany notice in terms of article 13(2);\n\n(c)\n\nany administrative penalty imposed under article\n\n48;\n(d)\nany refusal, variation, cancellation or suspension\nof a licence under article 22(3);\n(e)\nany notice issued or any order made in terms of\narticles 28, 44 and 45;\n(f)\nany decision concerning an advertisement under\narticles 6 or 29;\n(g)\n\nany punishment or penalty imposed under article\n\n(h)\n\nany directive given under article 41; or\n\n38(5);\n\n(i)\nand (4).\n\nany measure taken in terms of article 42(1), (2)\n\n(2) The provisions of article 21 of the Malta Financial\nServices Authority Act shall apply mutatis mutandis to appeals that\nmay be brought before the Tribunal under this article.\n\nPowers of the court\nin the case of a\nlikely\ncontravention.",
+      "metadata": {
+        "source_line_start": 2870,
+        "source_line_end": 2921
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "contravention",
+      "content": "(1)\nIf, on an application by the competent authority\nmade to the court, such court is satisfied (a)\nthat there is reasonable likelihood that a person\nwill contravene any of the provisions of this Act or of any\nregulations made or rules issued thereunder, or will contravene\nor fail to comply with any condition, obligation, requirement,\nrules, directive, or order made or given under any of the\nprovisions of this Act; or\n(b)\nthat a person has contravened any such provision\nor has contravened or failed to comply with any such\ncondition, obligation, requirement, rules, directive, or order\nand that steps could be taken to remedy the contravention or\nfailure,\n\nthe court may give such orders as it may deem appropriate to restrain\nthe contravention or, as the case may be, to require the person\nreferred to in paragraph (a) or (b), or any other person who appears to\nthe court to have been knowingly concerned in the contravention, to\ntake such steps as the court may direct.\n(2) If, on an application made under sub-article (1), the\ncourt is satisfied that a person has entered into any transaction in\ncontravention of any of the provisions of this Act, the court may\norder that person and any other person who appears to the court to\nhave been knowingly concerned in the contravention to take such\nsteps as the court may direct for restoring the parties to the position in\nwhich they were before the transaction was entered into.\n(3) If, on an application made under sub-article (1), the\ncourt is further satisfied that (a)\nprofits have accrued to any person as a result of\nthe contravention; or\n(b)\nan investor has suffered loss or been otherwise\nadversely affected as a result of that contravention,\nthe court may order the person responsible for the contravention to\npay into court such sum as appears to it to be just having regard to the\nextent of the profit, loss or adverse effect as aforesaid, and order such\nsum to be paid out as the court may direct to the persons who have\nentered into transactions as a result of which profits have accrued or\nlosses or adverse effects have been suffered as aforesaid.\n(4) For the purposes of this article the court may order the\nproduction by any person of such accounts and the provision of such\ninformation, and verified in such manner, as the court may deem\nappropriate.\n(5) The provisions of this article shall be without prejudice\nto any right of any aggrieved person to bring proceedings directly in\nrespect of any right such person may otherwise have independently of\nthe competent authority.",
+      "metadata": {
+        "source_line_start": 2922,
+        "source_line_end": 2975
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "the competent authority",
+      "content": "(1)\nWithout prejudice to any other article under this\nAct, any person who contravenes or fails to comply with any of the\nprovisions of articles 3, 7, 13, 25, 26, 28, 39, 41 or 57 or of article 39\nas applied by article 40 or of any court order made under article 52 or\nof any regulations made under article 38 shall be guilty of an offence.\n(2) Any person who for the purposes of, or pursuant to, any\nof the provisions of this Act or of any regulations made thereunder, or\nany condition, obligation, requirement, directive or order made or\ngiven as aforesaid, furnishes information or makes a statement which\nhe knows to be inaccurate, false or misleading in any material\n\nOffences.\n\nrespect, or recklessly furnishes information or makes a statement\nwhich is inaccurate, false or misleading in any material respect, shall\nbe guilty of an offence.\n(3) Any person who is knowingly a party to the carrying on\nof any activity regulated under this Act, or any regulations made or\nrules issued thereunder, with a fraudulent intent or for a fraudulent\npurpose, shall be guilty of an offence.\n(4) Any person who by any statement, promise or forecast\nwhich he knows to be misleading, false or deceptive, or by any\ndishonest concealment of material facts, or by the reckless making\n(whether dishonest or otherwise) of any statement, promise or\nforecast which is misleading, false or deceptive, induces or attempts\nto induce another person to enter into or offer to enter into a VFA\nagreement, shall be guilty of an offence.\n(5) Any person who with intent to avoid detection of the\ncommission of an offence under this Act removes, destroys, conceals\nor fraudulently alters any book, document or other paper or record,\neither tangible or intangible, shall be guilty of an offence.\n(6) Any person who intentionally obstructs a person from\nexercising rights conferred by this Act shall be guilty of an offence.\nPenalties.\nAmended by:\nXIV.2024.15.",
+      "metadata": {
+        "source_line_start": 2976,
+        "source_line_end": 3022
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "XIV.2024.15",
+      "content": "(1)\nAn issuer or a licence holder, other than a licence\nholder referred to in sub-article (2), guilty of an offence under the\nprovisions of article 53 shall be liable on conviction to a fine (multa)\nnot exceeding ten million euro (€10,000,000) or up to three times the\nprofits made or losses avoided by virtue of the offence, whichever is\nthe greater, or to imprisonment for a term not exceeding six years, or\nboth such fine and imprisonment, unless such fine or term of\nimprisonment is otherwise imposed under article 38(5).\n(2)\n\nRepealed by Act XIV.2024.15.\n\nSanctions on\nmembers of the\nbody of\nadministration of\nthe legal entity.\nAmended by:\nXIV.2024.16.",
+      "metadata": {
+        "source_line_start": 3023,
+        "source_line_end": 3043
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "XIV.2024.16",
+      "content": "Where obligations imposed in terms of the Act or any\nregulations made or rules issued thereunder apply to the issuer,\nlicence holder or to any other legal entity, in the event of a breach,\nsanctions can also be applied, subject to the conditions laid down in\nnational law, to the members of the body of administration of the\nlegal entity concerned, and to other individuals who are responsible\nfor the breach under national law.\n\nPublic statement as\nto person’s\nmisconduct.",
+      "metadata": {
+        "source_line_start": 3044,
+        "source_line_end": 3055
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "misconduct",
+      "content": "(1)\nIf it appears to the competent authority that a\nperson who holds or who held a licence, or registration, or any other\nperson, has contravened any of the provisions of this Act or of any\nregulations made under this Act or has contravened or failed to\ncomply with any condition, obligation, requirement, rules, directive\nor order made or given under any of the provisions of this Act, the\ncompetent authority may publish a statement to that effect.\n\n(2) Nothing in this article shall restrict or otherwise\nprejudice the powers of the competent authority under article 41(4).",
+      "metadata": {
+        "source_line_start": 3056,
+        "source_line_end": 3073
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "prejudice the powers of the competent authority under article 41(4)",
+      "content": "(1)\nInformation obtained by the competent authority\nor by its officers, employees or agents, as well as by auditors,\ninspectors or any other persons engaged by the competent authority\nfor the purposes of, or pursuant to, any of the provisions of this Act,\nor of any regulations made or rules issued thereunder, or in the\ndischarge of any functions under any of the said provisions, shall be\ntreated as confidential and protected by the duty of professional\nsecrecy, and shall not be disclosed to any other person, except in the\nfollowing cases:\n(a)\nwhere the disclosure is required for the\ndetection, prevention or prosecution of criminal offences\nunder the criminal provisions of this Act or any other law;\n(b)\nwhere the information is disclosed with a view to\nthe institution of, or otherwise for the purposes of any\nproceedings by the competent authority before any court under\nthis Act;\n(c)\nwhere the information is disclosed in civil or\ncommercial proceedings in relation to the bankruptcy or\ndissolution and consequential winding up by the court of an\nissuer or licence holder, provided such information does not\nconcern third parties and is necessary for the carrying out of\nthe proceedings, or is disclosed to an overseas body\nresponsible for the liquidation and bankruptcy of a person\nholding a licence or an equivalent authorisation from a\nEuropean regulatory authority or an overseas regulatory\nauthority;\n(d)\nwhere a summary or collection of the\ninformation is prepared or supplied in such a way as not to\nenable the identity of any persons, to whom the information\nrelates to be ascertained;\n(e)\nwhere the information is disclosed to an auditor\nwhere such disclosure would assist it in the exercise of his\nfunctions under article 50;\n(f)\nwhere the information is provided to the Central\nBank of Malta in the exercise of its functions in terms of law;\n(g)\nwhere the information is provided to such other\nlocal or European or overseas regulatory, judicial or\nenforcement authorities in the pursuance of serious concerns\nof a regulatory or criminal nature:\nProvided that the provisions of this article shall not\n\nConfidentiality.\nAmended by:\nXLVI.2021.69;\nXIV.2024.17.\n\nprevent the competent authority from exchanging or transmitting\nconfidential information belonging to issuers or licence holders to\nESAs or the ESRB:\nProvided further that the provisions of this article shall\nnot prevent the competent authority from using such information for\nother purposes where the body or person communicating information\nto the competent authority consents thereto.\n(2) The provisions of this article shall not preclude the\ncompetent authority from transmitting to the Central Bank of Malta,\nthe ESCB and the ECB, in their capacity as monetary authorities,\nand, where appropriate, to recognised clearing houses or other similar\nbody performing clearing or settlement services, and to other public\nauthorities responsible for overseeing payment and settlement\nsystems, confidential information intended for the performance of\ntheir functions. Likewise, the competent authority shall be entitled to\nthe receipt of such information as it may require for the purpose of\nperforming its functions under the Act.\n\n(3) Where an officer or an employee of an issuer or licence\nholder has reason to believe that a transaction or a proposed\ntransaction could involve money laundering or the funding of\nterrorism, he shall act in compliance with the reporting and other\nobligations set out in the regulations made under article 12 of the\nPrevention of Money Laundering Act and any procedures and\nguidance issued thereunder, and such disclosure shall not constitute a\nbreach of confidentiality.",
+      "metadata": {
+        "source_line_start": 3074,
+        "source_line_end": 3176
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Notices, etc",
+      "content": "Deleted by Act XI.2025.43.",
+      "metadata": {
+        "source_line_start": 3177,
+        "source_line_end": 3180
+      }
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "Notices, etc",
+      "content": "A notice or other document to be given or served under\nthis Act, or any rules issued or regulations made thereunder, shall be\ndeemed to have been duly given or served on a person if (a)\n\nit has been delivered to it; or\n\n(b)\nit has been left at the address furnished by it to\nthe competent authority, or to his last known address; or\n(c)\nif it has been sent to it by post or by telefax at\nany of the aforesaid addresses; or\n(d)\nin the case of a body of persons, whether\ncorporate or unincorporate, if it has been given or served in\nany of the manners aforesaid to or on a secretary, clerk,\nmanager or their equivalent, or to any member of the board of\n\nadministration or an appointed representative.",
+      "metadata": {
+        "source_line_start": 3181,
+        "source_line_end": 3206
+      }
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "administration or an appointed representative",
+      "content": "Where a licence holder wishes to carry on the respective\nactivities in a Member State or EEA State, in exercise of a European\nright, such right shall be subject to -\n\nEuropean right.\n\n(a)\na prior notification to the competent authority in\naccordance with regulations made and rules issued under this\nAct; and\n(b)\n\nthe laws of that Member State or EEA State.",
+      "metadata": {
+        "source_line_start": 3207,
+        "source_line_end": 3220
+      }
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "European right",
+      "content": "The competent authority shall cooperate with the ESAs\nand other European, overseas and national regulatory authorities\nwhenever necessary and in accordance with any applicable European\nor Maltese law or Malta’s international commitments, as the case\nmay be.\n\nCo-operation with\nESAs and other\nEuropean, overseas\nand national\nregulatory\nauthorities.",
+      "metadata": {
+        "source_line_start": 3221,
+        "source_line_end": 3235
+      }
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART XI - Transitory Provisions",
+      "section": "62",
+      "title": "Transitory Provisions",
+      "content": "(1)\nforce of this Act -\n\nAny person who, on the date of the coming into\n\n(a)\nis undertaking an activity in terms of article 3\nshall, within three months from the date of coming into force\nof this Act, draw up a whitepaper and register it with the\ncompetent authority in terms of the said article:\nProvided that this paragraph shall be applicable\nonly to those persons who have commenced an offering or have\napplied for admission to trading in terms of article 3 by not\nearlier than two weeks prior to the coming into force of this Act;\n(b)\nis providing the services of a VFA agent within\nthe meaning found under this Act, shall, within one month\nfrom the date of coming into force of this Act, apply to the\ncompetent authority for registration in terms of article 7;\n(c)\nis providing a VFA service within the meaning\nfound under this Act shall, within twelve months from the date\nof coming into force of this Act, apply to the competent\nauthority for licence in terms of article 14.\n(2) A person under sub-article (1) may, subject to a prior\nnotification to the competent authority of the activity it is undertaking\nand, or service or services it is providing, immediately upon the\ncoming into force of this Act, continue to undertake such activity or\nprovide such service or services in or from within Malta until the\nwhitepaper has been registered with, or the application has been\ndetermined by, the competent authority and, in so doing, is not to be\n\nTransitory\nprovisions.\n\nregarded as carrying on such activity or providing such service in\ncontravention of this Act.\nFurther transitory\nprovisions relating\nto VFA agents.\nAdded by:\nXIV.2024.18.\nAct No. XIV of",
+      "metadata": {
+        "source_line_start": 3236,
+        "source_line_end": 3287
+      }
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "2024",
+      "content": "(1)\nAny issuer who, as from the first date of coming into\nforce of the Virtual Financial Assets (Amendment) Act, 2024, shall\nseek to register a whitepaper in accordance with article 3, shall deliver to\nthe competent authority an application for the registration of a\nwhitepaper, and the appointment and services of a VFA agent shall no\nlonger be required.\n\nAct No. XIV of\n\n(2)\nWithout prejudice to article 64(2), any person who, as from\nthe first date of coming into force of the Virtual Financial Assets\n(Amendment) Act, 2024 shall seek to apply for a licence to provide a\nVFA service in or from within Malta in accordance with article 14(1),\nshall submit an application to the competent authority, and such person\nshall no longer be required to make the application through a VFA agent.\n\nAct No. XIV of\n\n(3)\nNotwithstanding the provisions of sub-articles (1) and (2),\nwhere a VFA agent has submitted an application to the competent\nauthority for the registration of a whitepaper or for the issuance of a\nlicence prior to the first date of coming into force of the Virtual\nFinancial Assets (Amendment) Act, 2024 and such application has, by\nsuch date, not yet been determined by the competent authority in terms\nof articles 3(4) and 15(1), the VFA agent appointed to provide its\nservices in relation to any such application shall be permitted to continue\nto offer its services with respect to that application until the competent\nauthority issues a decision in relation thereto:\n\nAct No. XIV of\n\nProvided that the VFA agent shall, in any case, cease to offer\nits services in relation to such application within three (3) months from\nthe first date of coming into force of the Virtual Financial Assets\n(Amendment) Act, 2024 or until the competent authority issues a\ndecision in relation to the said application, whichever is the earlier.\n\nAct No. XIV of\n\n(4)\nWithout prejudice to the provisions of sub-article (3), VFA\nagents shall cease to carry on the activities for which they are registered\nwith the competent authority upon the first date of coming into force of\nthe Virtual Financial Assets (Amendment) Act, 2024 and shall, within\nthree (3) months from the said date, submit to the competent authority\nthe VFA Agent Deregistration Form provided for in the rules issued\nunder this Act.\n\nFurther transitory\nprovisions relating\nto applications for\na licence. \nAdded by:\nXIV.2024.18.\nAct No. XIV of",
+      "metadata": {
+        "source_line_start": 3288,
+        "source_line_end": 3374
+      }
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "2024",
+      "content": "(1)\nWhen a person has submitted, through a VFA agent,\nan application as referred to in article 14 prior to the first date of coming\ninto force of the Virtual Financial Assets (Amendment) Act, 2024 and\nthe competent authority has not yet determined, in terms of article 15,\nwhether to grant or refuse the licence being applied for by such date, the\nsaid person shall notify the competent authority, in writing, whether they\nshall proceed with that application or whether they shall withdraw the\nsaid application:\n\nProvided that, when such person does not notify the\ncompetent authority in accordance with this sub-article within one (1)\nmonth from the first date of coming into force of the Virtual Financial\nAssets (Amendment) Act, 2024, the competent authority shall deem the\napplication submitted by that person to have been withdrawn.\n\nAct No. XIV of\n\n(2) Notwithstanding the provisions of this Act, and any\nregulations made, and rules issued thereunder, applications as referred\nto in article 14 may not be submitted to, and in any case shall not be\naccepted by, the competent authority as from 1st August 2024.",
+      "metadata": {
+        "source_line_start": 3375,
+        "source_line_end": 3408
+      }
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "accepted by, the competent authority as from 1st August 2024",
+      "content": "(1)\nWhere a person has made, either directly or through a\nVFA agent, a request to the competent authority to register a white\npaper in accordance with article 3(4) prior to the first date of coming\ninto force of the Markets in Crypto-Assets Act and the competent\nauthority has not yet determined, in terms of the said article, whether\nor not to register that white paper by such date, the said person\nshall notify the competent authority in writing, whether it wishes to\nproceed with its request for the registration of the white paper or\nwhether it wishes to withdraw the said request:\n\nFurther transitory\nprovisions relating\nto white papers.\nAdded by:\nXXXVI.2024.63.\n\nProvided that, where such person does not notify the\ncompetent authority, in accordance with this sub-article, within one (1)\nmonth from the first date of coming into force of the Markets in\nCrypto-Assets Act the competent authority shall deem the request\nmade by such person to have been withdrawn.\n\n(2)\nNotwithstanding the provisions of this Act, and any\nregulations made, and rules issued thereunder, requests for the\nregistration of white papers in accordance with article 3(4) may not\nbe made to, and in any case shall not be accepted by the competent\nauthority as from 1 August 2024.\n(3) Any whitepaper relating to an e-money token which is\nregistered by the competent authority under this Act shall be deemed\nto have automatically been deregistered on 30 June 2024.\n(4) Any whitepaper relating to a virtual financial asset other than\nan e-money token or an asset- referenced token which is registered by\nthe competent authority under this Act shall automatically be\nderegistered on 30 December 2024.\n(5) The provisions of articles 3 to 13 shall cease to have effect as\nfrom 30 December 2024.",
+      "metadata": {
+        "source_line_start": 3409,
+        "source_line_end": 3453
+      }
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "from 30 December 2024",
+      "content": "(1)\nPersons who, on 30 December 2024, are licensed\nunder this Act to provide, or hold themselves out as providing, one or\nmore VFA services may continue to provide, or hold themselves out as\nproviding, those services in accordance with the applicable\nprovisions of the said Act and any regulations made, and rules issued\nthereunder, until 1 July 2026 or until they are granted or refused an\nauthorisation pursuant to Article 63 of the MiCA Regulation,\n\nFurther transitory\nprovisions relating\nto the provision of\nVFA services.\nAdded by:\nXXXVI.2024.63.\n\nwhichever comes first.\n(2) Without prejudice to article 21, any licence granted to a\nperson under this Act shall automatically be cancelled on 2 July 2026\nor upon the granting or refusal of an authorisation pursuant to\nArticle 63 of the MiCA Regulation to such person, whichever\ncomes first.\n\n(Article 2)\nMatters to be specified in a whitepaper of an issuer and requirements\nfor its approval and publication\nGeneral principles",
+      "metadata": {
+        "source_line_start": 3454,
+        "source_line_end": 3494
+      }
     }
   ],
   "definitions": [
     {
-      "term": "virtual financial asset",
-      "definition": "Any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not electronic money, not a financial instrument, and not a virtual token.",
-      "source_provision": "art1"
+      "term": "administrator",
+      "definition": "an officer or any person who is",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "any form or medium of marketing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assets",
+      "definition": "movable and immovable property of any kind",
+      "source_provision": "s2"
+    },
+    {
+      "term": "benchmark",
+      "definition": "any rate, index or figure, made available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank",
+      "definition": "the Central Bank of Malta as defined by",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "a limited liability company constituted in",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "the Malta Financial Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the Civil Court, First Hall",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directive 2015/849/EU",
+      "definition": "Directive 2015/849/EU of the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DLT",
+      "definition": "a database",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DLT exchange",
+      "definition": "any trading and, or exchange platform",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EBA",
+      "definition": "the European Banking Authority established by",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EEA State",
+      "definition": "a State which is a contracting party to the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EIOPA",
+      "definition": "the European Insurance and Occupational",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ESMA",
+      "definition": "the European Securities and Markets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ESRB",
+      "definition": "the European Systemic Risk Board established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "European regulatory authority",
+      "definition": "an authority in a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "European right",
+      "definition": "the entitlement of a licence holder to",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "banknotes and coins, scriptural money,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector appointed under article 40",
+      "source_provision": "s2"
+    },
+    {
+      "term": "issuer",
+      "definition": "a legal person duly formed under any law for",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence to provide a VFA service or services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence holder",
+      "definition": "a person who holds a licence under this",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Malta’s international commitments",
+      "definition": "Malta’s",
+      "source_provision": "s2"
+    },
+    {
+      "term": "market abuse",
+      "definition": "insider dealing, the unlawful disclosure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member State",
+      "definition": "a Member State of the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MiFID",
+      "definition": "Directive 2014/65/EU of the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for the regulation of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "overseas regulatory authority",
+      "definition": "an authority in a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "a natural or legal person in terms of law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations made under this",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualifying holding",
+      "definition": "a direct or indirect holding in a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recognised jurisdiction",
+      "definition": "a member of the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "resident in Malta",
+      "definition": "an individual whose habitual",
+      "source_provision": "s2"
+    },
+    {
+      "term": "smart contract",
+      "definition": "a form of technology arrangement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Financial Services Tribunal established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unit",
+      "definition": "any representation of the rights and interests in a",
+      "source_provision": "s2"
     },
     {
       "term": "VFA agent",
-      "definition": "A natural person or body corporate enrolled with MFSA that provides advisory or compliance services to issuers of virtual financial assets or VFA service providers.",
-      "source_provision": "art1"
+      "definition": "any person who is registered as such with",
+      "source_provision": "s2"
     },
     {
-      "term": "VFA service provider",
-      "definition": "A person who provides VFA services on a professional basis as specified in the Second Schedule to this Act.",
-      "source_provision": "art1"
+      "term": "VFA agreement",
+      "definition": "any agreement the making or",
+      "source_provision": "s2"
     },
     {
-      "term": "financial instrument test",
-      "definition": "An analysis conducted by a VFA agent to determine the regulatory classification of a digital asset as a financial instrument, electronic money, virtual token, or virtual financial asset.",
-      "source_provision": "art3"
+      "term": "VFA exchange",
+      "definition": "a DLT exchange for virtual financial",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VFA exchange operator",
+      "definition": "a person or persons who",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VFA service",
+      "definition": "any service falling within the Second",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VFA",
+      "definition": "any form of digital",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual token",
+      "definition": "a form of digital medium recordation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "whitepaper",
+      "definition": "a document in such form and containing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "means any form or medium of marketing activity disseminated to the public by",
+      "definition": "of any type of media,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and in such format as may be required by the competent authority by",
+      "definition": "of rules issued under",
+      "source_provision": "s5"
+    },
+    {
+      "term": "the competent authority shall establish by",
+      "definition": "of rules how the different",
+      "source_provision": "s15"
+    },
+    {
+      "term": "market manipulation",
+      "definition": "the manipulation or attempted manipulation of a virtual",
+      "source_provision": "s36"
+    },
+    {
+      "term": "the employment of an abusive strategy that may be carried out by any available",
+      "definition": "of trading or",
+      "source_provision": "s36"
     }
   ]
 }

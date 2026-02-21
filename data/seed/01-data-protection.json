@@ -1,132 +1,401 @@
 {
   "id": "mt-data-protection",
   "type": "statute",
-  "title": "Data Protection Act (Cap. 586)",
+  "title": "Data Protection Act",
   "title_en": "Data Protection Act",
   "short_name": "DPA",
   "status": "in_force",
-  "issued_date": "2018-05-28",
+  "issued_date": "2018-05-31",
   "in_force_date": "2018-05-28",
-  "url": "https://legislation.mt/eli/cap/586/eng/pdf",
-  "description": "The Data Protection Act (Cap. 586) constitutes Malta's primary legislation implementing Regulation (EU) 2016/679 (GDPR) and repealing the earlier Data Protection Act (Cap. 440). It designates the Information and Data Protection Commissioner as Malta's independent supervisory authority, establishes national specifications and derogations permitted under the GDPR, and provides for the exercise of investigative, corrective, and advisory powers. The Act also addresses the processing of personal data by competent authorities for law enforcement purposes, implementing Directive (EU) 2016/680.",
+  "url": "https://legislation.mt/eli/cap/586/20230919/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/586/20230919/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
       "section": "1",
-      "title": "Article 1. Interpretation",
-      "content": "In this Act, unless the context otherwise requires, 'the GDPR' means Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data; 'the Commissioner' means the Information and Data Protection Commissioner appointed under this Act; 'personal data' has the meaning assigned to it in Article 4(1) GDPR; 'processing' has the meaning assigned to it in Article 4(2) GDPR; 'controller' has the meaning assigned to it in Article 4(7) GDPR; 'processor' has the meaning assigned to it in Article 4(8) GDPR. All definitions established by the GDPR shall apply for the purposes of this Act unless otherwise provided."
+      "title": "Interpretation",
+      "content": "The short title of this Act is the Data Protection Act.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 66
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Application and Scope",
-      "content": "This Act applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system. Processing of personal data by the competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, is governed by Part VII of this Act, which transposes Directive (EU) 2016/680. The Act does not apply to the processing of personal data by a natural person in the course of a purely personal or household activity."
+      "title": "The short title of this Act is the Data Protection Act",
+      "content": "This Act implements and further specifies the relevant\nprovisions of Regulation (EU) 2016/679 of the European Parliament\nand of the Council of 27 April 2016 on the protection of natural\npersons with regard to the processing of personal data and on the free\nmovement of such data, and repealing Directive 95/46/EC (General\nData Protection Regulation).",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 73
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. The Information and Data Protection Commissioner",
-      "content": "There shall be an Information and Data Protection Commissioner who shall be an independent authority responsible for monitoring and enforcing the application of the GDPR and this Act in Malta. The Commissioner shall be appointed by the President of Malta acting on the advice of the Prime Minister and shall serve a term of five years, renewable once. The Commissioner shall exercise their functions in full independence and shall not be subject to direction in the exercise of their statutory powers. The Commissioner shall have the powers, tasks, and functions assigned to supervisory authorities under the GDPR, including investigative powers, corrective powers, authorisation and advisory powers, and shall cooperate with supervisory authorities of other Member States through the European Data Protection Board."
+      "title": "Data Protection Regulation)",
+      "content": "(1)\n\nIn this Act unless the context otherwise requires\n\n\"Commissioner\" means the Information and Data Protection\nCommissioner appointed under article 11 and includes any officer or\nemployee of the Commissioner authorised by him in that behalf;\n\n\"identity document\" means a legally valid identity document\nas provided in the Identity Card and other Identity Documents Act;\n\"Minister\" means the Minister responsible for data protection;\n\"official statistics\" shall mean information collected, analysed\nand produced for the benefit of the society to characterize collective\nphenomena in a considered population and produced by the National\nStatistics Office as provided for by law, or by other national\nauthorities as designated by Eurostat following recommendation by\nthe National Statistics Office;\n\"the Regulation\" means Regulation (EU) 2016/679 of the\nEuropean Parliament and of the Council of 27 April 2016 on the\nprotection of natural persons with regard to the processing of\npersonal data and on the free movement of such data, and repealing\nDirective 95/46/EC;\n\"Tribunal\" means the Information and Data Protection Appeals\nTribunal established under article 24.\n(2) The definitions in Article 4 of the Regulation shall apply to\nthis Act.",
+      "metadata": {
+        "source_line_start": 74,
+        "source_line_end": 108
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. National Derogations — Processing of Special Categories",
-      "content": "In accordance with Article 9(4) GDPR, Malta maintains additional conditions for the processing of special categories of personal data in specific sectors. Processing of health data for the provision of healthcare services shall be permitted subject to the obligation of professional secrecy binding healthcare professionals. Processing of personal data relating to members by political parties, trade unions, religious organisations, and not-for-profit associations for the legitimate purposes of such bodies is permitted subject to appropriate safeguards ensuring the protection of data subjects' rights. Research institutions may process special categories of data for scientific or historical research purposes subject to compliance with the safeguards specified by the Commissioner."
+      "title": "Scope",
+      "content": "(1)\nSubject to the provisions of sub-article (2), the\nprovisions of this Act shall apply to the processing of personal data,\nwholly or partly, by automated means and to such processing other\nthan by automated means where such personal data forms part of a\n\nfiling system or is intended to form part of a filing system:\nProvided that this Act shall not apply to the processing\nof personal data:\n(a)\nin the course of an activity which falls outside\nthe scope of Union law;\n(b)\nby the Government of Malta when carrying out\nactivities which fall within the scope of Chapter 2 of Title V of\nthe Treaty on European Union;\n(c)\nby a natural person in the course of a purely\npersonal or household activity; or\n(d)\nby competent authorities for the purposes of the\nprevention, investigation, detection or prosecution of criminal\noffences or the execution of criminal penalties, including the\nsafeguarding against and the prevention of threats to public\nsecurity:\nProvided further that the Minister may by regulations,\nafter consultation with the Commissioner and with the concurrence of\nthe Minister responsible for the Police, make provisions on the\nprocessing of personal data by competent authorities for the purposes\nof the prevention, investigation, detection or prosecution of criminal\noffences or the execution of criminal penalties, including the\nsafeguarding against and the prevention of threats to public security.\n(2)\n\nThis Act shall apply to:\n\n(a)\nthe processing of personal data in the context of\nthe activities of an establishment of a controller or a processor\nin Malta or in a Maltese Embassy or High Commission abroad,\nregardless of whether the processing takes place in Malta or\nnot;\n(b)\nthe processing of personal data of data subjects\nwho are in Malta by a controller or processor not established in\nthe European Union, where the processing activities are\nrelated to:\n(i)\nthe offering of goods or services,\nirrespective of whether a payment of the data subject is\nrequired, to such data subjects in Malta; or\n(ii) the monitoring of their behaviour in so\nfar as their behaviour takes place within Malta;\n(c)\nthe processing of personal data by a controller\nnot established in the Union but in a place where the laws of\nMalta apply by virtue of public international law.",
+      "metadata": {
+        "source_line_start": 109,
+        "source_line_end": 185
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
+      "chapter": "PART III - Restrictions, Consultation and Prior Authorisation",
       "section": "5",
-      "title": "Article 5. Processing for Journalistic and Artistic Purposes",
-      "content": "In accordance with Article 85 GDPR, processing of personal data carried out for journalistic purposes or for the purposes of academic, artistic, or literary expression shall be exempt from the application of specified GDPR provisions to the extent necessary to reconcile the right to the protection of personal data with the freedom of expression and information. Controllers relying on this exemption shall maintain records of the journalistic, academic, artistic, or literary purpose for which personal data is processed. The Commissioner may issue guidance on the conditions under which processing for journalistic or artistic purposes may claim exemptions from specific GDPR requirements."
+      "title": "Restrictions",
+      "content": "The Minister may, after consultation with the\nCommissioner and with the concurrence of the Minister responsible for\njustice, by regulations provide for a restriction to the obligations to\nwhich the data controller or processor is subject pursuant to Article 23\nof the Regulation.\n\nSafeguards and\nderogations\nrelating to\nprocessing for\narchiving purposes\nin the public\ninterest, scientific\nor historical\nresearch purposes\nor statistical\npurposes.",
+      "metadata": {
+        "source_line_start": 186,
+        "source_line_end": 204
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Age of Consent for Information Society Services",
-      "content": "In accordance with Article 8(1) GDPR, Malta sets the age of consent for children in relation to the use of information society services at sixteen years. Where a child is below this age, the processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child. Controllers shall make reasonable efforts to verify that the holder of parental responsibility has consented, taking into account available technology. Service providers offering information society services targeted at children shall implement age verification and parental consent mechanisms appropriate to the risk presented by the processing."
+      "title": "purposes",
+      "content": "(1)\nSubject to the provisions of sub-article (4),\ncontrollers and processors may derogate from the provisions of\nArticles 15, 16, 18 and 21 of the Regulation for the processing of\npersonal data for scientific or historical research purposes or official\nstatistics in so far as the exercise of the rights set out in those Articles:\n(a)\nis likely to render impossible or seriously impair\nthe achievement of those purposes; and\n(b)\nthe data controller reasonably believes that such\nderogations are necessary for the fulfilment of those purposes.\n(2) Subject to the provisions of sub-article (4), controllers\nand processors may derogate from the provisions of Articles 15, 16,\n18, 19, 20 and 21 of the Regulation for the processing of personal\ndata for archiving purposes in the public interest in so far as the\nexercise of the rights set out in those Articles:\n(a)\nis likely to render impossible or seriously impair\nthe achievement of those purposes; and\n(b)\nthe controller reasonably believes that such\nderogations are necessary for the fulfilment of those purposes.\n(3) Where data processing referred to in sub-articles (1) and\n(2) serves at the same time another purpose, the derogations shall\napply only to processing for the purposes referred to in those subarticles.\n(4) Processing for the purposes referred to in sub-articles (1)\nand (2) shall be subject to appropriate safeguards for the rights and\nfreedoms of the data subject, including pseudonymisation and other\ntechnical and organisational measures to ensure respect for the\nprinciple of data minimisation:\nProvided that, where such purposes can be fulfilled by\nprocessing which does not permit, or no longer permits, the\nidentification of data subjects, those purposes shall be fulfilled in that\nmanner.",
+      "metadata": {
+        "source_line_start": 205,
+        "source_line_end": 246
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Data Protection Officers in the Public Sector",
-      "content": "All public authorities and bodies in Malta shall designate a Data Protection Officer in accordance with Article 37(1)(a) GDPR. Public authorities may designate a single Data Protection Officer to cover multiple bodies within the same administrative cluster, subject to the conditions established by the GDPR. Data Protection Officers in the public sector shall have the tasks specified in Article 39 GDPR and shall report directly to the highest management level of the public authority. Public authorities shall publish the contact details of their Data Protection Officers and shall ensure that the Officer is adequately resourced and has access to the personal data and processing operations required to fulfil their tasks."
+      "title": "manner",
+      "content": "A controller shall consult with, and obtain prior\nauthorisation from, the Commissioner where the controller intends to\nprocess in the public interest:\n\nConsultation and\nprior authorisation.\n\n(a)\ngenetic data, biometric data or data concerning\nhealth for statistical or research purposes; or\n(b)\nspecial categories of data in relation to the\nmanagement of social care services and systems, including for\nthe purposes of quality control, management information and\nthe general national supervision and monitoring of such\nservices and systems:\nProvided that, where genetic data, biometric data or data\nconcerning health are required to be processed for research purposes,\nthe Commissioner shall consult a research ethics committee or of an\ninstitution recognised by the Commissioner for the purposes of this\narticle.",
+      "metadata": {
+        "source_line_start": 247,
+        "source_line_end": 270
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Supervisory Powers of the Commissioner",
-      "content": "The Commissioner shall have the investigative powers specified in Article 58(1) GDPR, including the power to order the controller and the processor to provide any information required for the performance of supervisory tasks, to carry out investigations in the form of data protection audits, to carry out reviews of certifications, and to notify the controller or processor of an alleged infringement of the GDPR. The Commissioner shall have the corrective powers specified in Article 58(2) GDPR, including the power to impose a temporary or permanent ban on processing and to order the suspension of data flows to a recipient in a third country. The Commissioner may impose administrative fines in accordance with Articles 83 and 84 GDPR."
+      "title": "article",
+      "content": "An identity document shall only be processed when such\nprocessing is clearly justified having regard to the purpose of the\nprocessing and (a)\n\nthe importance of a secure identification; or\n\n(b)\n\nany other valid reason as may be provided by\n\nProcessing of an\nidentity document.\n\nlaw:\nProvided that the national identity number or any other\nidentifier of general application shall be used only under appropriate\nsafeguards for the rights and freedoms of the data subject pursuant to\nthe Regulation.",
+      "metadata": {
+        "source_line_start": 271,
+        "source_line_end": 289
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Administrative Fines",
-      "content": "The Commissioner may impose administrative fines in accordance with Article 83 GDPR, up to the amounts specified therein. In determining the amount of any administrative fine, the Commissioner shall give due regard to the nature, gravity, and duration of the infringement, the intentional or negligent character of the infringement, the categories of personal data affected, the degree of responsibility of the controller or processor, the manner in which the infringement became known to the Commissioner, and any other aggravating or mitigating factor applicable to the circumstances. Administrative fines shall be effective, proportionate, and dissuasive and may be imposed in addition to, or instead of, other corrective measures."
+      "title": "the Regulation",
+      "content": "(1)\nPersonal data processed for the purpose of\nexercising the right to freedom of expression and information,\nincluding processing for journalistic purposes or for the purposes of\nacademic, artistic or literary expression, shall be exempt from\ncompliance with the provisions of the Regulation specified in subarticle (2) where, having regard to the importance of the right of\nfreedom of expression and information in a democratic society,\ncompliance with any of the provisions as specified in sub-article (2)\nwould be incompatible with such processing purposes:\nProvided that when reconciling the right to the\nprotection of personal data with the right to freedom of expression\nand information, the controller shall ensure that the processing is\nproportionate, necessary and justified for reasons of substantial\npublic interest.\n(2) For the purposes of the provisions of sub-article (1), the\nprovisions of the following chapters of the Regulation may be\nexempted or derogated therefrom pursuant to Article 85(2) of the said\n\nFreedom of\nexpression and\ninformation.\n\nRegulation:\n(a)\n\nChapter II (Principles):\n\n(i)\nArticle 5(1)(a) to (e) (principles relating\nto processing);\n(ii)\n\nArticle 6 (lawfulness);\n\n(iii)\n\nArticle 7 (conditions for consent);\n\n(iv) Article 10 (data relating to criminal\nconvictions, etc);\n(v)\nArticle 11(2) (processing not requiring\nidentification);\n(b)\n\nChapter III (rights of the data subject):\n\n(i)\nArticle 13(1) to (3) (personal data\ncollected from data subject: information to be provided);\n(ii) Article 14(1) to (4) (personal data\ncollected other than from data subject);\n(iii) Article 15(1) to (3) (access to data and\nsafeguards for third country transfers);\n(iv)\n\nArticle 17(1) and (2) (right to erasure);\n\n(v)\nArticle 18(1)(a), (b) and (d) (restriction\nof processing);\n(vi)\nportability);\n\nArticle 20(1) and (2) (right to data\n\n(vii) Article 21(1) (objections to processing);\n(c)\n\nChapter IV (controller and processor):\n\n(i)\nby default);\n\nArticle 25 (data protection by design and\n\n(ii) Article 27 (representatives of controllers\nor processors not established in the Union);\n(iii)\nactivities);\n\nArticle\n\n(records\n\nof\n\nprocessing\n\n(iv) Article 33 (notification of personal data\nbreach to supervisory authority);\n(v)\n\nArticle 34 (communication of personal\n\ndata breach to the data subject);\n(vi)\n\nArticle 42 (certification);\n\n(vii) Article 43 (certification bodies);\n(d)\n\nChapter VII (co-operation and consistency):\n(i)\n\nArticles 60 to 62 (co-operation);\n\n(ii)",
+      "metadata": {
+        "source_line_start": 290,
+        "source_line_end": 418
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
+      "chapter": "PART IV - Transborder Data Transfers",
       "section": "10",
-      "title": "Article 10. Judicial Remedies",
-      "content": "Data subjects shall have the right to lodge a complaint with the Commissioner in accordance with Article 77 GDPR. Without prejudice to the administrative remedy available, any data subject shall have the right to an effective judicial remedy in accordance with Article 79 GDPR before the competent courts of Malta. Where a data subject considers that their rights under the GDPR have been infringed as a result of processing of their personal data in non-compliance with the GDPR, they may bring legal proceedings before the Civil Court or, where applicable, before the Administrative Review Tribunal. Data subjects may mandate a not-for-profit body to exercise rights on their behalf in accordance with Article 80 GDPR."
+      "title": "Articles 63 to 67 (consistency)",
+      "content": "In the absence of an adequacy decision pursuant to\nArticle 45(3) of the Regulation, the Minister may, following\nconsultation with the Commissioner, by regulations set limits to the\ntransfer of specific categories of personal data to a third country or an\ninternational organisation for important reasons of public interest.\n\nLimits to\ntransborder data\ntransfers.",
+      "metadata": {
+        "source_line_start": 419,
+        "source_line_end": 430
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
+      "chapter": "PART V - The Information and Data Protection Commissioner",
       "section": "11",
-      "title": "Article 11. Processing of Personal Data in Employment",
-      "content": "In accordance with Article 88 GDPR, Malta specifies that processing of employees' personal data in the employment context may be carried out by employers for the purposes of recruitment, management of the employment relationship, payroll administration, and compliance with legal obligations, provided that appropriate safeguards for employees' dignity and fundamental interests are in place. Employers shall not process employees' personal data in the employment context beyond what is necessary for the specific employment-related purpose and shall implement appropriate technical and organisational measures to prevent access to personal data beyond what is necessary. Monitoring of employees' use of employer-provided systems shall be subject to prior notification and shall be proportionate to the legitimate business purpose pursued."
+      "title": "Articles 63 to 67 (consistency)",
+      "content": "(1)\nThere shall be an Information and Data\nProtection Commissioner, who shall be appointed by the Prime\nMinister acting on the advice of the Cabinet of Ministers after\nconsulting the Leader of the Opposition, to perform the duties of\nsupervisory authority for the purposes of Chapter VI of the\nRegulation.\n(2) The Commissioner shall be responsible for monitoring\nand enforcing the application of the provisions of this Act and the\nRegulation, in order to protect the fundamental rights and freedoms\nof natural persons in relation to processing of personal data and to\nfacilitate the free flow of personal data between Malta and any other\nMember State.\n(3) A person shall not be qualified to hold office as\nCommissioner if he:\n(a)\nis a Minister, Parliamentary Secretary, or a\nMember of the House of Representatives; or\n(b)\n\nis a judge or magistrate of the courts of justice;\n\n(c)\n\nis an officer in the public service; or\n\n(d)\n\nis a member of a local council; or\n\nor\n\nInformation and\nData Protection\nCommissioner.\nAmended by:\nXII.2021.12.\n\n(e)\nhas a financial or other interest in any enterprise\nor activity which is likely to affect the discharge of his\nfunctions as a Commissioner.\n\n(4) The Information and Data Protection Commissioner\nshall have the qualifications, experience and skills, in particular in the\narea of the protection of personal data, required to perform his duties\nand exercise his powers in accordance with the provisions of Article\n53(2) of the Regulation.\nIndependence of\nfunctions.",
+      "metadata": {
+        "source_line_start": 431,
+        "source_line_end": 489
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. Restrictions on Data Subjects' Rights",
-      "content": "In accordance with Article 23 GDPR, the application of specified rights and obligations under the GDPR may be restricted by legislative measure to the extent necessary and proportionate in a democratic society to safeguard national security, defence, public security, the prevention, investigation, detection, or prosecution of criminal offences, other important objectives of public interest, the protection of judicial independence and judicial proceedings, the enforcement of civil law claims, or the protection of the data subject or the rights and freedoms of others. Any restriction shall respect the essence of fundamental rights and freedoms and shall be necessary and proportionate to the objective pursued."
+      "title": "functions",
+      "content": "(1)\nIn the exercise of his tasks and powers in\naccordance with this Act and the Regulation, the Commissioner shall\nact with complete independence and shall be free from external\ninfluence, whether direct or indirect, and shall neither seek nor take\ninstructions or direction from any person or entity.\n(2) It shall not be lawful for the Commissioner to carry out\nany other profession, business or trade or to hold any other office of\nprofit whatsoever, even though of a temporary nature, with the\nexception of any temporary judicial office on any international court\nor tribunal or any international adjudicating body, and the office of\nexaminer at a University and the Malta College of Arts, Science and\nTechnology.\n(3) Any officers or employees of the Commissioner shall be\nchosen by the Commissioner and shall be subject to his exclusive\ndirection.\n\nLegal personality\nand representation\nof the\nCommissioner.",
+      "metadata": {
+        "source_line_start": 490,
+        "source_line_end": 511
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Article 13. Obligations of Public Authorities",
-      "content": "Public authorities in Malta shall comply with the obligations of controllers under the GDPR in relation to all processing of personal data carried out in the exercise of their public functions. Public authorities shall conduct data protection impact assessments in accordance with Article 35 GDPR for processing operations that are likely to result in a high risk to the rights and freedoms of natural persons, in particular processing involving new technologies, systematic monitoring, profiling, or processing on a large scale. Public authorities shall engage in prior consultation with the Commissioner in accordance with Article 36 GDPR where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk."
+      "title": "Commissioner",
+      "content": "(1)\nThe Commissioner shall have a separate and\ndistinct legal personality and shall be capable of entering into\ncontracts, of acquiring, holding and disposing of any kind of property\nfor the purposes of his tasks and powers, of suing and being sued, and\nof doing all such things and entering into all such transactions as are\nincidental or conducive to the effective performance of his tasks and\nexercise of his powers under this Act and the Regulation.\n(2) Any document purporting to be an instrument made or\nissued by the Commissioner and signed by him shall be received in\nevidence and shall, until the contrary is proved, be deemed to be an\ninstrument made or issued by the Commissioner.",
+      "metadata": {
+        "source_line_start": 512,
+        "source_line_end": 526
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Cross-Border Processing",
-      "content": "Where processing of personal data carried out by a controller or processor established in Malta involves cross-border processing as defined in Article 4(23) GDPR, the Commissioner shall act as lead supervisory authority in relation to such processing where Malta is the place of the controller's or processor's main establishment within the Union, in accordance with the one-stop-shop mechanism established under Article 56 GDPR. The Commissioner shall cooperate with other concerned supervisory authorities in accordance with the consistency mechanism established in Chapter VII GDPR and shall participate in the work of the European Data Protection Board."
+      "title": "Tenure of office",
+      "content": "(1)\nThe Commissioner shall hold office for a term of\nfive years and shall be eligible for reappointment on the expiration of\nhis term of office.\n(2) The Commissioner shall not be removed from his office\nexcept by the Prime Minister upon an address of the House of\nRepresentatives supported by the votes of not less than two-thirds of\nall the members thereof and praying for such removal on the ground\nof proved inability to perform the duties of his office (whether arising\nfrom infirmity of body or mind or any other cause) or proved\n\nmisbehaviour.\n(3) The Commissioner shall nominate a person from his\noffice to act as Deputy Commissioner and who shall have the\nqualifications, experience and skills, in particular in the area of the\nprotection of personal data.\n(4) If the Commissioner resigns, if his office is otherwise\nvacant, if for any reason he is unable to perform the duties of his\noffice, or for any other temporary purpose where the Commissioner\nconsiders it necessary not to carry out any of his duties that were he a\njudge of the superior courts he would abstain, the Deputy\nCommissioner shall perform the Commissioner’s duties and exercise\nhis powers in accordance with the provisions of Article 53(2) of the\nRegulation.",
+      "metadata": {
+        "source_line_start": 527,
+        "source_line_end": 557
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Law Enforcement Processing",
-      "content": "Part VII of this Act transposes Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties. Competent authorities designated under applicable legislation shall implement appropriate technical and organisational measures to ensure that only personal data which are necessary for each specific purpose of processing are processed, in accordance with the data minimisation principle. Data subjects whose personal data is processed by competent authorities under this Part shall have specified rights of access, rectification, and erasure, subject to applicable restrictions."
+      "title": "Regulation",
+      "content": "(1)\nThe Commissioner shall perform the duties\nassigned to him under this Act and the Regulation and shall carry out\nthe functions assigned to him under the Freedom of Information Act\nand any other law.\n\nFunctions and\nduties of the\nCommissioner.\n\n(2) The Commissioner shall have the power to institute civil\njudicial proceedings in cases where the provisions of this Act or the\nRegulation have been or are about to be violated.\n(3) The Commissioner may seek the advice of, and may\nconsult with, any other competent authority in the exercise of his\nfunctions under this Act and the Regulation.",
+      "metadata": {
+        "source_line_start": 558,
+        "source_line_end": 574
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. Annual Report and Transparency",
-      "content": "The Commissioner shall publish an annual report on the activities of the office, covering the number and categories of complaints received, the outcomes of complaints, the nature and outcomes of enforcement action taken, the administrative fines imposed, any data breach notifications received and actions taken, and the Commissioner's participation in the European Data Protection Board and in international cooperation. The annual report shall be laid before the House of Representatives and published on the Commissioner's website. The Commissioner shall also publish guidance documents, decisions of general interest, and any codes of conduct approved under Article 40 GDPR, to assist controllers and processors in understanding and complying with their obligations."
+      "title": "Regulation have been or are about to be violated",
+      "content": "(1)\nIn the exercise of the investigative powers\npursuant to Article 58 of the Regulation, or any other law, the\nCommissioner may request the assistance of the executive police in\norder to enter and search any premises.\n\nCommissioner’s\nright of access to\ninformation.\n\n(2) In the event of joint operations with supervisory\nauthorities of one or more other Member States the Commissioner\nmay, where appropriate, in accordance with the provisions of Article\n63 of the Regulation, confer powers, including investigative powers,\non the seconding supervisory authority’s members or staff:\nProvided that such powers are exercised under the\nguidance and in the presence of the Commissioner.",
+      "metadata": {
+        "source_line_start": 575,
+        "source_line_end": 591
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "guidance and in the presence of the Commissioner",
+      "content": "(1)\nThe Commissioner and any officer and\nemployee of the Commissioner shall, before assuming their duties,\ntake the oath of office set out in the First Schedule, to carry out their\nduties with equity and impartiality and in accordance with the\nprovisions of this Act and the Regulation, and shall be subject to the\nprovisions of the Official Secrets Act, Professional Secrecy Act and\nthe Code of Ethics applicable to public officers.\n(2)\n\nThe oath of office shall be taken before the State\n\nOath of office.\nAmended by:\nL.N. 212 of 2023.\nCap. 50.\n\nAdvocate.\nFinancial\nprovisions.",
+      "metadata": {
+        "source_line_start": 592,
+        "source_line_end": 627
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Advocate",
+      "content": "(1)\nThe financial resources required by the\nCommissioner for the effective performance of his tasks and exercise\nof his powers under this Act and the Regulation, under the Freedom\nof Information Act and under any other law, as may be fixed by the\nHouse of Representatives in accordance with this article, shall be a\ncharge on the Consolidated Fund without the need of any further\nappropriation other than this Act.\n(2) Where during the course of any financial year the sum\nfixed by the House of Representatives is, in the opinion of the\nCommissioner, insufficient to enable him to efficiently and\neffectively fulfil his functions, the Commissioner shall prepare\nsupplementary estimates for consideration by the House of\nRepresentatives.\n(3) The Commissioner shall cause to be prepared in every\nfinancial year, and shall not later than six months after the end of\neach such year adopt, estimates of the income and expenditure of the\nCommissioner for the next following financial year.\n(4) A copy of the estimates shall, upon their adoption by the\nCommissioner, be sent forthwith to the Minister and to the Minister\nresponsible for finance.\n(5) The Minister shall at the earliest opportunity, and not\nlater than six weeks after he has received a copy of the estimates from\nthe Commissioner, approve the same with or without amendment\nafter consultation with the Minister responsible for finance.\n\nAccounts and\naudit.",
+      "metadata": {
+        "source_line_start": 628,
+        "source_line_end": 658
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Commissioner for the next following financial year",
+      "content": "(1)\nThe Commissioner shall cause to be kept proper\naccounts and other records in respect of his operations under this Act,\nthe Regulation and under the Freedom of Information Act and any\nother law, and shall cause to be prepared a statement of accounts in\nrespect of each financial year.\n(2) The accounts of the Commissioner shall be audited by\nan auditor or auditors to be appointed by the Commissioner:\nProvided that the Minister responsible for finance may,\nafter consultation with the Minister, require the books or the accounts\nof the Commissioner to be audited or examined by the Auditor\nGeneral who shall for the purpose have the power to carry out such\nphysical checking and other certifications as he may deem necessary.\n(3) After the end of each financial year, and not later than\nthe date on which the estimates of the Commissioner are forwarded to\nthe Minister under article 18(4), the Commissioner shall cause a copy\nof the statement of account duly audited to be transmitted to the\nMinister and to the Minister responsible for finance together with a\n\ncopy of any report made by the auditors on that statement or on the\naccounts of the Commissioner.\n(4) The Minister shall, at the earliest opportunity and not\nlater than eight weeks after he has received a copy of every such\nstatement and report, or if at any time during that period the House of\nRepresentatives is not in session, within eight weeks from the\nbeginning of the next following session, cause every such statement\nand report to be laid on the Table of the House of Representatives.\n(5) The Commissioner shall, by not later than six months\nafter the end of each financial year, make and transmit to the Minister\nand to the Minister responsible for finance a report dealing generally\nwith the activities of the Commissioner during the financial year and\ncontaining such information relating to the proceedings and policy of\nthe Commissioner as either of the said Ministers may from time to\ntime require. The Minister shall, at the earliest opportunity and not\nlater than eight weeks after he has received a copy of every such\nreport, or if at any time during that period the House of\nRepresentatives is not in session, within eight weeks from the\nbeginning of the next following session, cause a copy of every such\nreport to be laid on the Table of the House of Representatives.",
+      "metadata": {
+        "source_line_start": 659,
+        "source_line_end": 704
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART VI - Administrative Fines and Penalties",
+      "section": "20",
+      "title": "Administrative Fines and Penalties",
+      "content": "(1)\nWhere the Commissioner imposes an\nadministrative fine, he shall by order in writing require the controller\nor processor, as the case may be, to pay such administrative fine,\nwhich shall be due to the Commissioner as a civil debt:\n\nAdministrative\nfines.\n\nProvided that such order shall be subject to the appeal\nprocedure as established under article 26.\n(2) In the absence of an appeal, the decision of the\nCommissioner shall become final and shall constitute an executive\ntitle for the purposes of Title VII of the Code of Organization and\nCivil Procedure as if the decision had been ordered by a judgement of\na court of civil jurisdiction.\n(3) Where a notice imposing an administrative fine is served\non a person and (a)\nsuch person fails to appeal within such time as\nan appeal may be entered under article 26, and fails to pay the\nfine so imposed; or\n(b)\nsuch person appeals within such time to the\nTribunal and the appeal is withdrawn or the Tribunal confirms\nthe fine in the amount fixed by the Commissioner or in an\namount reduced by it and no further appeal is filed with the\n\nCourt of Appeal, or if an appeal is filed with the Court of\nAppeal and such Court either confirms the decision taken or\ndecides that a penalty is due in another amount, or the imposed\npenalty is not paid within fifteen days from the date of the\ndecision or the withdrawal of the appeal, or the date when the\nTribunal or the Court of Appeal confirms or varies the penalty\nas aforesaid,\n\nthe Commissioner shall be entitled to take civil action to recover the\namount due.\nAdministrative\nfines on public\nauthorities or\nbodies.",
+      "metadata": {
+        "source_line_start": 705,
+        "source_line_end": 760
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "bodies",
+      "content": "The Commissioner may, after giving due regard to the\ncircumstances of the case pursuant to Article 83(2) of the Regulation,\nimpose an administrative fine on a public authority or body:\nProvided that such a fine shall not exceed twenty-five\nthousand euro (€25,000) for each violation and, additionally, the\nCommissioner may impose a daily fine payment of twenty-five euro\n(€25) for each day during which such violation persists, which fine\nshall be determined and imposed by the Commissioner in accordance\nwith the procedure under article 26 for an infringement of Article\n83(4) of the Regulation:\nProvided further that such a fine shall not exceed fifty\nthousand euro (€50,000) for each violation and, additionally, the\nCommissioner may impose a daily fine payment of fifty euro (€50)\nfor each day during which such violation persists, which fine shall be\ndetermined and imposed by the Commissioner, in accordance with\nthe procedure stipulated under article 26 for an infringement of\nArticles 83(5) or 83(6) of the Regulation.",
+      "metadata": {
+        "source_line_start": 761,
+        "source_line_end": 780
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Offences",
+      "content": "Without prejudice to the provisions of article 21 and\nArticle 83 of the Regulation, any person who (a)\nknowingly provides false information to the\nCommissioner when so requested by the Commissioner\npursuant to his investigative powers under Article 58 of the\nRegulation, or any other law; or\n(b)\ndoes not comply with any lawful request\npursuant to an investigation by the Commissioner,\nshall be guilty of an offence against this article and shall, upon\nconviction, be liable to a fine (multa) of not less than one thousand,\ntwo hundred and fifty euro (€1,250) and not more than fifty thousand\neuro (€50,000) or to imprisonment for six months or to both such fine\n(multa) and imprisonment:\nProvided that no proceedings shall be instituted in\nrespect of any offence under this article except where the\nCommissioner provides information to any officer of the Executive",
+      "metadata": {
+        "source_line_start": 781,
+        "source_line_end": 806
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Police",
+      "content": "(1)\nWhere the Commissioner exercises his powers\npursuant to the Regulation, or any other law, the decision of the\nCommissioner shall forthwith be served on the person to whom the\ndecision is addressed, which decision shall be served either\npersonally, by registered post to the person’s last known business or\nprivate address, or by electronic means that provide a reliable record\nof when service took place.\n\nMethods of\nservice.\n\n(2) In the case of service by electronic means, the decision\nshall be deemed to have been served upon each person to whom the\ndecision is addressed when the Commissioner has received:\n(a)\nan electronic receipt automatically generated by\nthe e-mail server when the communication is read;\n(b)\na written confirmation by return electronic mail\nfrom the person to whom the decision is addressed; or\n(c)\na verbal confirmation from the person to whom\nthe decision is addressed that the electronic mail was received.\n(3) If service is not effected within a week of issuing the\ndecision, because the person to whom the decision refers could not be\nfound or for any other reason attributable to the person to whom the\ndecision is addressed, the Commissioner shall publish a notice in the\nGazette and in one or more daily newspapers, stating that a decision\nhas been taken in respect of the person to whom the decision is\naddressed and inviting him to collect the decision from the\nCommissioner’s office. In any such case, service shall be deemed to\nhave been effected on the third day after the date of publication of the\nlast notice.",
+      "metadata": {
+        "source_line_start": 807,
+        "source_line_end": 842
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART VII - Appeals",
+      "section": "24",
+      "title": "Appeals",
+      "content": "(1)\nThere shall be a tribunal to be known as the\nInformation and Data Protection Appeals Tribunal, referred to in this\nAct as ''the Tribunal'', having the functions and powers assigned to it\nby this Act or by any other law.\n(2) The Tribunal shall consist of a chairperson and two other\nmembers appointed by the Minister.\n(3) The chairperson shall be an advocate with a minimum of\ntwelve years legal experience and shall have the qualifications,\nexperience and skills, in particular in the area of the protection of\npersonal data, required to fulfil his role.\n(4)\n\nThe two other members mentioned in sub-article (2)\n\nInformation and\nData Protection\nAppeals Tribunal.\n\nshall be persons who, in the opinion of the Minister, equally represent\nthe interests of data subjects on the one hand, and of data controllers\nand data processors on the other, and who have the qualifications,\nexperience and skills, in particular in the area of the protection of\npersonal data, required to fulfil their roles.\n(5) The chairperson and other members of the Tribunal shall\nhold office for a period of three years and cannot be removed during\ntheir term of office except on grounds of proved inability to perform\nthe functions of their office, whether arising from infirmity of body\nor mind or any other cause, or proved misbehaviour.\n\n(6) A member of the Tribunal may be challenged or abstain\nfor any of the reasons for which a judge may be challenged or abstain\nin accordance with article 734 of the Code of Organization and Civil\nProcedure. In any such case the Minister shall appoint a person,\nhaving the qualifications of the member challenged or abstaining, to\nsit as a member of the Tribunal in substitution of the said member.\n(7) A member of the House of Representatives or of a local\ncouncil, a judge or a magistrate, or an officer in the public service\nshall be disqualified from being appointed or continuing to be a\nmember of the Tribunal for so long as he holds that office.\n(8) The Minister shall also designate a person to serve as\nsecretary to the Tribunal.\n\nRegistry of the\nInformation and\nData Protection\nAppeals Tribunal.",
+      "metadata": {
+        "source_line_start": 843,
+        "source_line_end": 901
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Appeals Tribunal",
+      "content": "(1)\nThere shall be a Registry of the Tribunal and all\nrecords shall be filed therein and made accessible to the public.",
+      "metadata": {
+        "source_line_start": 902,
+        "source_line_end": 907
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Procedure",
+      "content": "(1)\nAny person to whom a legally binding decision\nof the Commissioner is addressed, shall have the right to appeal in\nwriting to the Tribunal within twenty days from the service of the\nsaid decision as provided in article 23.\n\n(2) The Secretary to the Tribunal shall be responsible for\nmanaging the Registry. The Secretary shall also perform any other\nduty which may be incumbent upon him under this Act or any rules\nmade thereunder.\n\n(2) An appeal to the Tribunal may be made on any of the\nfollowing grounds:\n(a)\n\nthat a material error as to the facts has been\n\n(b)\n\nthat there was a material procedural error;\n\n(c)\n\nthat an error of law has been made;\n\nmade;\n\n(d)\nthat there was some material illegality, including\nunreasonableness or lack of proportionality.\n\n(3) An appeal from a decision of the Commissioner shall be\nfiled in the Registry of the Tribunal and shall contain:\n(a)\n\nthe grounds on which such appeal is based;\n\n(b)\nthe names of the witnesses the appellant intends\nto produce in evidence, together with their full address, stating\nin respect of each of them the facts and proof he intends to\nestablish by their evidence; and\n(c)\nany other documents as may be necessary in\nsupport of the appeal.\n(4) The Registry of the Tribunal shall, no later than ten days\nfrom the date of filing of the appeal:\n(a)\nserve a copy of the appeal on the Commissioner,\nand request him to file a statement on his decision together\nwith any other information on which such decision was based,\nwithin twenty days from the date when the appeal was served;\nand\n(b)\nserve a copy of the appeal on the respondent or\nrespondents to the appealed decision, and request the\nrespondent or respondents to file a reply within twenty days of\nservice of the appeal.\n(5) The respondent or respondents shall file their reply to\nthe appeal in the Registry of the Tribunal within twenty days of\nservice of the appeal. Such reply shall contain:\n(a)\na statement of the facts upon which the\nrespondent bases his rebuttal of the appellant’s claim;\n(b)\nthe names of the witnesses the respondent\nintends to produce in evidence, together with their full address,\nstating, in respect of each of them, the facts and proof he\nintends to establish by their evidence; and\n(c)\nany other documents as may be necessary in\nsupport of the defence.\n(6) The reply, together with any documents in support\nthereof, shall be served without delay on the appellant and on the\nCommissioner by the Tribunal.\n(7) Upon the expiry of the time-limits for filing the\nCommissioner’s statement and the reply, the Tribunal shall fix a date\nand time for the hearing. The Tribunal shall notify such date and time\nto the appellant, the respondent or respondents to the appealed\ndecision and to the Commissioner.\n\n(8) The parties to an appeal may be represented or assisted\nby their advocates or legal procurators, or by any other person who\nenjoys their trust:\nProvided that no person shall claim fees for representing\nor assisting a party before the Tribunal unless such assistance is\nprovided by an advocate or legal procurator.\nCompetence of the\nTribunal.",
+      "metadata": {
+        "source_line_start": 908,
+        "source_line_end": 1011
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Tribunal",
+      "content": "(1)\nThe Tribunal shall be competent to hear and\ndecide any appeal made to it in accordance with the provisions of this\nAct and, subject to the provisions of article 29, the decisions of the\nTribunal shall be final and binding.\n(2) The Tribunal may summon any person to appear before\nit to give evidence and produce documents. The Tribunal may also\nappoint experts to advise it on any technical issue that may be\nrelevant to its decision. On the day appointed by the Tribunal for the\nhearing of the appeal, it shall hear, under oath, the evidence of the\nappellant and of the respondent, as well as of other witnesses. The\nsecretary shall issue the necessary summons by the method of service\nreferred to in article 23 for any person involved in the hearing of the\nappeal.\n(3) The Tribunal shall hold its sittings in public unless,\nhaving regard to the nature of the appeal or any other matter before it,\nit deems it proper to conduct the proceedings or part thereof in\nprivate.\n(4) The Tribunal shall have the same powers as are\ncompetent to the First Hall, Civil Court according to law.\n(5) Without prejudice to the provisions of this Act or any\nother law, the Tribunal shall regulate its own procedure.\n(6) If any party requires the attendance of witnesses, that\nparty shall complete Form A in the Second Schedule, which shall be\nsigned by the Chairman of the Tribunal and served on each witness in\naccordance with sub-article (2).\n\nDecisions of the\nTribunal.",
+      "metadata": {
+        "source_line_start": 1012,
+        "source_line_end": 1041
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Tribunal",
+      "content": "(1)\n\n(a)\nits entirety;\n\nIn determining an appeal the Tribunal may:\ndismiss the appeal and confirm the decision in\n\n(b)\n\nsubstitute the decision;\n\n(c)\n\nmodify or vary the decision; or\n\n(d)\n\nannul the decision.\n\n(2) The Tribunal shall give reasons for its decision and shall\ncause such decision to be made public omitting, if it deems it\n\nappropriate for reasons of confidentiality, the identity of the persons\ninvolved.\n(3) The effects of a decision of the Commissioner which is\nappealed from shall not, except where the Tribunal or the Court of\nAppeal, as the case may be, so orders, be suspended by virtue of the\nappeal:\nProvided that any administrative fine imposed by the\nCommissioner shall not apply until the person on whom the\nadministrative fine is imposed has exhausted all legal remedies\nprovided pursuant to articles 26 and 29, or if the person to whom the\ndecision is addressed has permitted the relevant time-limits to expire\nwithout availing himself of the said legal remedies.\n(4) The decisions of the Tribunal shall be notified to all\nparties to the appeal and to the Commissioner, by any of the methods\nof service referred to in article 23.",
+      "metadata": {
+        "source_line_start": 1042,
+        "source_line_end": 1088
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "of service referred to in article 23",
+      "content": "Any party to an appeal before the Tribunal who feels\naggrieved by a decision of the Tribunal, or the Commissioner if he\nfeels aggrieved by any such decision, may appeal to the Court of\nAppeal as constituted in accordance with article 41(9) of the Code of\nOrganization and Civil Procedure by means of an application filed in\nthe registry of that court within twenty days from the date on which\nthe decision of the Tribunal was notified pursuant to article 26.\n\nCourt of Appeal.",
+      "metadata": {
+        "source_line_start": 1089,
+        "source_line_end": 1102
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Cap. 12",
+      "content": "(1)\nWithout prejudice to any other remedy available\nto him, including the right to lodge a complaint with the\nCommissioner, a data subject may, where he believes that his rights\nunder the Regulation or this Act have been infringed as a result of the\nprocessing of his personal data in contravention of the provisions of\nthe Regulation or this Act, by sworn application filed before the First\nHall of the Civil Court, institute an action for an effective judicial\nremedy against the controller or processor concerned.\n\nRight to take action\nagainst the\ncontroller or\nprocessor.\n\n(2) A data subject may also, by sworn application filed\nbefore the First Hall of the Civil Court, institute an action for\ndamages against the controller or processor who processes personal\ndata in contravention of the provisions of the Regulation or this Act.\n(3) If in determining an action under sub-article (2) the\ncourt finds that the controller or processor is liable for the damage\ncaused pursuant to Article 82 of the Regulation, the court shall\ndetermine the amount of damages, including, but not limited to,\nmoral damages as the court may determine, due to the data subject.\n(4) Any action under this article shall be instituted within a\nperiod of twelve months from the date when the data subject became\naware, or ought to have reasonably become aware, of such a\ncontravention, whichever is the earlier.\n\nActions against the\nCommissioner.",
+      "metadata": {
+        "source_line_start": 1103,
+        "source_line_end": 1141
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Commissioner",
+      "content": "(1)\nWhere the Commissioner fails to act in\naccordance with Article 78(2) of the Regulation, the data subject may\nappeal to the Tribunal in accordance with the procedures established\nin article 26.\n(2) Where the Tribunal finds that such an appeal is justified\nit shall, where appropriate, order the Commissioner to update the data\nsubject on the progress or outcome of the complaint lodged or order\nthe Commissioner to handle the complaint lodged in accordance with\nArticle 77(1) of the Regulation.",
+      "metadata": {
+        "source_line_start": 1142,
+        "source_line_end": 1160
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Article 77(1) of the Regulation",
+      "content": "(1)\nThe certification bodies referred to in Article 43\nof the Regulation shall be accredited by the National Accreditation\nBoard (Malta) as established by regulation 3 of the National\nAccreditation Board (Malta) (Establishment) Regulations.\n(2) The Board referred to in sub-article (1) shall accredit\ncertification bodies in accordance with EN-ISO/IEC 17065/2012 and\nwith the additional criteria and requirements established by the\nCommissioner.\n(3) For the purposes of this article, the National\nAccreditation Board (Malta) may consult the Commissioner in the\nprocess of accrediting certification bodies.\n(4) Where the Commissioner concludes that the conditions\nfor accreditation are not, or are no longer met, or where action taken\nby a certification body infringes the Regulation, the Commissioner\nshall advise the National Accreditation Board (Malta) not to issue\nsuch accreditation, or to revoke such accreditation, as the case may\nbe.\n\nPower to make\nregulations.",
+      "metadata": {
+        "source_line_start": 1161,
+        "source_line_end": 1182
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Commissioner",
+      "content": "The Minister may, after consultation with the\nCommissioner, prescribe regulations for the better carrying out of the\nprovisions of this Act and the Regulation, and without prejudice to\nthe generality of the foregoing and the provisions of the Regulation,\nmay in particular prescribe regulations concerning:\n(a)\nany\nCommissioner;\n(b)\nthis Act;\n\nfees\n\nthat\n\nmay\n\nbe\n\nlevied\n\nby\n\nthe\n\nthe criminal penalties that may be imposed under\n\n(c)\nfor establishing rules, procedures, formalities\nand time limits in respect of any matter provided for under this\nAct;\n\n(d)\nthe extension of the application of this Act to\nany particular activity or sector and to provide for the manner\nin which data protection is to be implemented in specific\nsectors or in respect of specific activities;\n(e)\nfor anything that may be prescribed under any of\nthe provisions of this Act or the Regulation;\n(f)\nthe cases, other than those referred to in Article\n37(1) of the Regulation, where the controller or processor or\nassociations and other bodies representing categories of\ncontrollers or processors shall designate a data protection\nofficer;\n(g)\nthe establishment of a lower age than sixteen\nyears where the processing of the personal data of a child shall\nbe deemed to be lawful in the absence of consent by the holder\nof parental responsibility over the child, provided that such\nlower age is not below thirteen years pursuant the provisions\nof Article 8(1) of the Regulation;\n(h)\n\nto amend the Schedules to this Act; and\n\n(i)\n\non any other matter relating to data protection.",
+      "metadata": {
+        "source_line_start": 1183,
+        "source_line_end": 1248
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "on any other matter relating to data protection",
+      "content": "(1)\nThe Data Protection Act, hereinafter referred to\nas \"the repealed Act\", is hereby repealed, and any references in any\nlaw to the repealed Act shall be construed as references to this Act.\n(2)\n\nNotwithstanding the provisions of sub-article (1):\n\n(a)\nthe repealed Act shall remain in force for the\npurpose of any act, decision, action or proceedings taken in\nrespect of any breach of the repealed Act that occurred or were\ninstituted prior to the coming into force of this Act; and\n(b)\nany subsidiary legislation made under the\nprovisions of the repealed Act shall, until other provision is\nmade under or by virtue of this Act, continue in force and have\neffect as if it was made under this Act.\n\nRepeal and\nSavings.\n\n(Article 17)\nOath of Office\n\nI ……………………………………… solemnly swear / affirm\nthat I will faithfully and conscientiously perform my duties as\n(Information and Data Protection Commissioner / Officer of the\nInformation and Data Protection Commissioner / Employee of the\nInformation and Data Protection Commissioner) in terms of the Data\nProtection Act, the General Data Protection Regulation and in\naccordance with the laws of Malta, without fear or favour. (So help\nme God).\n\n(Article 27)\nSummons of Witnesses\nIn the case.....................................................................\nversus........................................................\nApplication of\nRespectfully requests the issue of a summons of a witness in\nthe above-stated cause against the person mentioned hereunder\nto attend for the hearing at the time stated hereunder, and at\nany other hearing as may be required, and to bring with him/\nher any documents referred to hereunder.\nName and address (home or work or e-mail) of the person\nsummoned to attend as a witness:\n……………………………………...........................................\n…………………………………………………………………\nDocuments to be brought by him/her:\n…………………………………………………………………\nDate, time and place where he/she is to attend:\n…………………………………………………………………\nThe said ……………………………………is hereby being\nwarned that should he/she fail to attend the sitting without\ninforming the Tribunal of his/her unavailability beforehand, he/\nshe may be compelled to attend by a warrant of escort and shall\nbe liable to all consequences according to the provisions of the\nCode of Organization and Civil Procedure.\nGiven by order of the Information and Data Protection\nAppeals Tribunal.\nThis, .................... day of .............................. 20...............",
+      "metadata": {
+        "source_line_start": 1249,
+        "source_line_end": 1334
+      }
     }
   ],
   "definitions": [
     {
-      "term": "the Commissioner",
-      "definition": "The Information and Data Protection Commissioner appointed under this Act as Malta's independent supervisory authority for the application of the GDPR.",
-      "source_provision": "art1"
+      "term": "Commissioner",
+      "definition": "the Information and Data Protection",
+      "source_provision": "s3"
     },
     {
-      "term": "personal data",
-      "definition": "Any information relating to an identified or identifiable natural person ('data subject'), as defined in Article 4(1) GDPR.",
-      "source_provision": "art1"
+      "term": "identity document",
+      "definition": "a legally valid identity document",
+      "source_provision": "s3"
     },
     {
-      "term": "controller",
-      "definition": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, as defined in Article 4(7) GDPR.",
-      "source_provision": "art1"
+      "term": "Minister",
+      "definition": "the Minister responsible for data protection",
+      "source_provision": "s3"
     },
     {
-      "term": "processor",
-      "definition": "A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as defined in Article 4(8) GDPR.",
-      "source_provision": "art1"
+      "term": "the Regulation",
+      "definition": "Regulation (EU) 2016/679 of the",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Information and Data Protection Appeals",
+      "source_provision": "s3"
+    },
+    {
+      "term": "by automated means and to such processing other than by automated",
+      "definition": "where such personal data forms part of a",
+      "source_provision": "s4"
+    },
+    {
+      "term": "or by electronic",
+      "definition": "that provide a reliable record",
+      "source_provision": "s23"
+    },
+    {
+      "term": "of the Code of Organization and Civil Procedure by",
+      "definition": "of an application filed in",
+      "source_provision": "s29"
     }
   ]
 }

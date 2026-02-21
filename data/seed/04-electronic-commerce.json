@@ -1,132 +1,715 @@
 {
   "id": "mt-electronic-commerce",
   "type": "statute",
-  "title": "Electronic Commerce Act (Cap. 426)",
+  "title": "Electronic Commerce Act",
   "title_en": "Electronic Commerce Act",
   "short_name": "ECA",
-  "status": "amended",
-  "issued_date": "2002-06-04",
-  "in_force_date": "2002-06-04",
-  "url": "https://legislation.mt/eli/cap/426/eng/pdf",
-  "description": "The Electronic Commerce Act (Cap. 426) establishes the legal framework for electronic commerce in Malta, transposing Directive 2000/31/EC (E-Commerce Directive). It governs information society services, including requirements for commercial communications, online contract formation, and liability exemptions for intermediary service providers. The Act ensures that information society services can be provided freely from Malta to other EU Member States, and vice versa, while maintaining applicable national consumer protection requirements.",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2002-05-10",
+  "url": "https://legislation.mt/eli/cap/426/20240217/eng",
+  "description": "Official consolidated text from legislation.mt (eli/cap/426/20240217/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
       "section": "1",
-      "title": "Article 1. Interpretation",
-      "content": "In this Act, 'information society service' means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; 'service provider' means any natural or legal person providing an information society service; 'established service provider' means a service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Malta; 'recipient of the service' means any natural or legal person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible; 'commercial communication' means any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession."
+      "title": "XXXV of 2016 and XXXIII of 2021*, XVII of 2023 and I of 2024",
+      "content": "The short title of this Act is the Electronic Commerce Act.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 22
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Scope of Application",
-      "content": "This Act applies to information society services provided by service providers established in Malta, and to the activities of service providers established in other Member States insofar as those activities are directed at recipients in Malta and are not covered by the internal market clause applicable in the country of establishment. This Act does not apply to the following fields: the field of taxation; questions relating to information society services covered by Directive 95/46/EC on data protection; questions relating to agreements or practices governed by cartel law; activities of notaries or equivalent professions to the extent that they involve a direct and specific connection with the exercise of public authority; and the representation of a client and defence of his interests before the courts."
+      "title": "The short title of this Act is the Electronic Commerce Act",
+      "content": "In this Act, the definitions contained in Article 3 of the\nRegulation shall apply and, unless the context otherwise requires \"the Act\" means the Electronic Commerce Act and includes,\nunless the context otherwise requires, any regulations made\nthereunder;\n\"addressee\" in relation to an electronic communication means a\nperson who is intended by the service provider to receive the\nelectronic communication, but does not include a person acting as a\nservice provider with respect to the processing, receiving or storing\nof that electronic communication or providing other services with\nrespect to it;\n\"certificate\" means any one of the following:\n(a) a certificate for electronic signature;\n(b) a certificate for electronic seal; or\n(c) a certificate for website authentication;\n\"certificate service provider\" means the trust service provider that\nissues certificates;\n\"commercial communication\" means any form of communication\ndesigned to promote directly or indirectly, the goods, services or image\nof a company, organisation or person pursuing a commercial,\nindustrial or craft activity or exercising a regulated profession. The\nfollowing do not in themselves constitute commercial\ncommunications:\n(a) information allowing direct access to the activity of\nthe company, organisation or person, in particular the\ndomain name of an electronic mail address;\n(b) communications relating to the goods, services or\nimage of the company, organisation or person\ncompiled in an independent manner, particularly when\nthis is without financial consideration;\n\"competent regulator\" means any such public body as may be\n*See commencement notice LN 296 of 2021.\n\nShort title.\nInterpretation.\nAmended by:\nXXVII. 2002.59;\nXIII. 2005.73;\nXXX. 2007.51, 52;\nXII. 2010.79;\nXXXV. 2016.2;\nXVII.2023.43.\n\ndesignated by the Minister according to the Sixth Schedule to act as\nthe regulatory body tasked with ensuring compliance with this Act\nand, or with the Regulation:\nProvided that the Minister may amend such Schedule by\nOrder in the Gazette, and in doing so may provide for the exercise\nof the regulatory powers of the regulatory body designated to act as\nthe competent regulator for the purposes of this Act:\nProvided further that in doing so the Minister may\ndesignate different public bodies to administer and enforce\ndifferent provisions of this Act and, or of the Regulation. In doing\nso the Minister shall clearly establish the remit of each such public\nbody ensuring also that there is effective co-ordination between\nsuch bodies;\n\"consumer\" means any natural person who is acting for purposes\nwhich are outside his trade, business or profession;\n\"coordinated field\" means requirements applicable to\ninformation society service providers or information society\nservices, regardless of whether they are of a general nature or\nspecifically designed for them, and covers requirements with which\nthe service provider has to comply in respect of:\n(a) the taking up of the activity of an information society\nservice,\nsuch\nas\nrequirements\nconcerning\nqualifications, authorisation or notification;\n(b) the pursuit of the activity of an information society\nservice, such as requirements concerning the\nbehaviour of the service provider, requirements\nregarding the quality or content of the service,\nincluding those applicable to advertising and\ncontracts, or requirements concerning the liability of\nthe service provider,\nbut does not cover requirements such as those applicable to goods\nas such, to the delivery of goods or to services not provided by\nelectronic means;\n\"cross-border infringement\" means:\n(a) an act or omission contrary to this Act and, or to the\nRegulation which takes place in Malta and which\nharms or is likely to harm the collective interests of\nconsumers residing in a Member State or in Member\nStates other than Malta; or\n(b) an act or omission contrary to this Act and, or to the\nRegulation by a seller or supplier who is established in\nMalta and which harms or is likely to harm the\ncollective interests of consumers residing in a Member\nState or in Member States other than Malta; or\n(c) an act or omission contrary to this Act and, or to the\nRegulation which takes place in Malta and which\nharms or is likely to harm the collective interests of\nconsumers residing in a Member State or in Member\nStates other than Malta where the evidence or assets\n\npertaining to the act or omission are to be found in\nMalta;\n\"data\" means a representation of information, knowledge, facts,\nconcepts or instructions that has been prepared or is being prepared\nin any manner and has been processed, is being processed or is\nintended to be processed in an information system, a computer\nsystem or a computer network. Data may be in any form or derived\nfrom any device or source, including computer memory, computer\nprintouts, any storage media, electronic or otherwise and punched\ncards;\n\"data storage device\" means any thing, including a disk, from\nwhich data and information is capable of being reproduced with or\nwithout the aid of any thing or device;\n\"electronic communication\" means information generated,\ncommunicated, processed, sent, received, recorded, stored or\ndisplayed by electronic means;\n\"electronic contract\" means a contract concluded wholly or\npartly by electronic communications or wholly or partly in an\nelectronic form;\n\"Electronic Commerce Directive\" means Directive 2000/31/EC\nof the European Parliament and of the Council of 8 June 2000 on\ncertain legal aspects of information society services, in particular\nelectronic commerce, in the internal market;\n\"enforcement action\" means any form of enforcement action,\nhowever so described, including the imposition of any sanctions\nthat an enforcement authority, including the competent regulator, is\nempowered to take at law;\n\"enforcement authority\" means any public entity which at law is\nauthorised to take enforcement action, but does not include a court\nhowever so described;\n\"European Commission\" or \"Commission\" means the European\nCommission of the European Union;\n\"information\" includes information in the form of data, text,\nimages, sound or speech;\n\"information society service\" means any service which is\nprovided at a distance, by electronic means and at the individual\nrequest of a recipient of the service, whether such service is\nprovided for consideration or not, and for the purposes of this\ndefinition:\n(a) \"at a distance\" means that the service is provided\nwithout the parties being simultaneously present;\n(b) \"by electronic means\" means that the service is sent\ninitially and received at its destination by means of\nelectronic equipment for the processing (including\ndigital compression) and storage of data, and entirely\ntransmitted, conveyed and received by wire, by radio,\nby optical means or by any electromagnetic means;\n(c) \"at the individual request of a recipient of the service\"\n\nmeans that the service is provided through the\ntransmission of data on individual request;\n\n\"information system\" means a system for generating, sending,\nreceiving, recording, storing or otherwise processing electronic\ncommunications;\n\"information technology requirements\" includes software,\nnetwork and data storage requirements;\n\"Member State\" means a Member State of the European Union;\n\"Minister\" means the Minister responsible for communications;\n\"place of business\" in relation to a government, an authority of a\ngovernment, a public body, a charitable, philanthropic or similar\ninstitution means a place where any operations or activities are\ncarried out by that government, authority, body or institution;\n\"prescribed\" means prescribed by regulations made by the\nMinister in accordance with the provisions of this Act;\n\"recipient of the service\" means any person w ho uses an\ninformation society service for the purposes of seeking information\nor making it accessible;\n\"regulated profession\" means any profession within the meaning\nof either:\n(a) Article 1(d) of the European Council Directive 89/48/\nEEC of the 21 December 1988 on a general system for\nthe recognition of higher education diplomas awarded\non completion of professional education and training\nfor a duration of at least three years; or\n(b) Article 1(f) of the European Council Directive 92/51/\nEEC of the 18 June 1992 on a second general system\nfor the recognition of professional education and\ntraining to supplement Directive 89/84/EEC;\n\"Regulation\" means Regulation number 910/2014 of the\nEuropean Parliament and of the Council of 23 July 2014 on\nelectronic identification and trust services for electronic\ncommunications in the internal market and repealing Directive\n1999/93/EC;\n\"service provider\" means any person established in Malta\nproviding an information society service;\n\n\"transaction\" includes a transaction of a non-commercial nature;\n\" Tr i b u n a l ” m e a n s t h e A d m i n i s t r a t i v e R e v i e w Tr i b u n a l\nestablished by article 5 of the Administrative Justice Act;\n\"Union\" means the European Union.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 240
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. Country of Origin Principle",
-      "content": "Service providers established in Malta shall comply with the national provisions applicable in Malta that fall within the coordinated field, and shall be free to provide information society services in other Member States without being required to comply with national law requirements of those Member States within the coordinated field. Restrictions on the free movement of services may be imposed by other Member States in relation to a specific information society service only in derogation from this principle and where justified by reasons of public policy, public health, or consumer protection, subject to proportionality requirements and prior notification to the European Commission."
+      "title": "transactions",
+      "content": "For the purposes of any law in Malta and subject to the\nother provisions of this Act, a transaction is not deemed to be\ninvalid merely because it took place wholly or partly by means of\n\none or more electronic communications.",
+      "metadata": {
+        "source_line_start": 241,
+        "source_line_end": 253
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. General Information Requirements",
-      "content": "Service providers shall ensure that recipients of the service and competent authorities can easily, directly, and permanently access at least the following information: the name of the service provider; the geographic address at which the service provider is established; the details of the service provider, including the provider's electronic mail address; where the service provider is registered in a trade or similar public register, the trade register in which the service provider is entered and its registration number or equivalent means of identification; where an activity is subject to an authorisation scheme, the particulars of the relevant supervisory authority; and any applicable professional title, the Member State where it was granted, a reference to the professional rules applicable, and means to access them."
+      "title": "one or more electronic communications",
+      "content": "(1) Unless otherwise prescribed, the provisions of this Act\nshall not apply to those activities or areas as are listed in the Fifth\nSchedule. The Minister may, after consultation with the competent\nregulator, by notice in the Gazette, amend the Fifth Schedule.\n(2)\n\nWhere the Minister is of the opinion that -\n\nExcluded laws.\nAmended by:\nIV. 2004.48;\nXXX. 2007.53;\nXXXV. 2016.4;\nXXXIII. 2021.16.\n\n(a) technology has advanced to such an extent, and access\nto it is so widely available, or\n(b) adequate procedures and practices have developed in\npublic registration or other services, so as to warrant\nsuch action, or\n(c) the public interest so requires,\nhe may, after consultation with that Minister as in his opinion has\nsufficient interest or responsibility in relation to the matter, by\nOrder in the Gazette extend the application of this Act or a\nprovision of this Act to or in relation to a matter specified in subarticle (1) above, including the applicability to a particular area or\nsubject, or for a particular time, for the purposes of a trial of the\ntechnology and procedures, subject to such conditions as he thinks\nfit.",
+      "metadata": {
+        "source_line_start": 254,
+        "source_line_end": 281
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. Commercial Communications",
-      "content": "Commercial communications which are part of or constitute an information society service shall comply with the following conditions: the commercial communication shall be clearly identifiable as such; the natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable; promotional offers shall be clearly identifiable as such, and the conditions which must be met to qualify for them shall be easily accessible and presented clearly and unambiguously; promotional competitions or games shall be clearly identifiable as such, and the conditions for participation shall be easily accessible and presented clearly and unambiguously. Unsolicited commercial communications by electronic mail shall be identifiable as such clearly and unambiguously as soon as they are received."
+      "title": "Excluded laws",
+      "content": "(1) If under any law in Malta a person is required or\npermitted to give information in writing, that requirement shall be\ndeemed to have been satisfied if the person gives the information\nby means of an electronic communication:\nProvided that (a) at the time the information was given, it was\nreasonable to expect that the information would be\nreadily accessible so as to be usable for subsequent\nreference; and\n(b) if the information is required to be given to a person,\nor to another person on his behalf, and the first\nmentioned person requires that the information be\ngiven in accordance with particular information\ntechnology requirements, by means of a particular\nkind of electronic communication, that person’s\nrequirement has been met; and\n(c) if the information is required to be given to a person who\nis neither a public body nor to a person acting on behalf\nof a public body, then the person to whom the\ninformation is required or permitted to be given, consents\nto the information being given by means of an electronic\ncommunication;\n(d) if the information is required to be given to a person,\nor to another person on his behalf, and the first\nmentioned person requires that a particular action be\ntaken by way of verifying the receipt of the\ninformation, that person’s requirement has been met.\n(2) For the purposes of this article, giving information\nincludes, but is not limited to, the following:\n\nRequirement or\npermission to give\ninformation in\nwriting.\nAmended by:\nXXVII. 2002.59.\n\n(a) making an application;\n(b) making or lodging a claim;\n(c) giving, sending or serving a notification;\n(d) lodging a return;\n(e) making a request;\n(f)\n\nmaking a declaration;\n\n(g) lodging or issuing a certificate;\n(h) lodging an objection; and\n(i)\n\nmaking a statement.\n\n(3) For the purposes of this article, a requirement or\npermission in relation to a person to give information shall extend\nto and shall be equally applicable to the requirement or information\nwhich is stated to be sent, filed, submitted, served or otherwise\ntransmitted and includes similar or cognate expressions, thereof.\nSignature.\nRequirement or\npermission for\nproduction of\ndocument and\nintegrity.\nAmended by:\nXXVII. 2002.59.",
+      "metadata": {
+        "source_line_start": 282,
+        "source_line_end": 352
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Contracts Concluded by Electronic Means",
-      "content": "Service providers shall ensure that contracts concluded by electronic means can be stored and reproduced. Service providers shall, prior to the placing of an order, provide information to the recipient of the service at least covering the technical steps necessary to conclude the contract, whether the concluded contract will be filed by the service provider and whether it will be accessible, the technical means for identifying and correcting input errors prior to the placing of the order, and the languages offered for conclusion of the contract. Service providers shall without undue delay and by electronic means acknowledge the receipt of the order from the recipient of the service. Contractual terms and general conditions provided to the recipient must be provided in a way that allows him to store and reproduce them."
+      "title": "Signature",
+      "content": "(Deleted by Act XXXV. 2016.5.).",
+      "metadata": {
+        "source_line_start": 353,
+        "source_line_end": 356
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Liability of Intermediary Service Providers — Mere Conduit",
-      "content": "A service provider that transmits information in a communication network, or that provides access to a communication network, shall not be liable for the information transmitted where the service provider did not initiate the transmission, did not select the receiver of the transmission, and did not select or modify the information contained in the transmission. The acts of transmission and of provision of access referred to in this Article include the automatic, intermediate, and transient storage of the information transmitted, insofar as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission."
+      "title": "Signature",
+      "content": "(1) Unless otherwise provided by or under this Act, if\nunder any law in Malta, a person is required to produce a document\nthat is in the form of a paper, or of any other substance or material,\nthat requirement is deemed to have been satisfied if the person\nproduces, by means of an electronic communication, an electronic\nform of that document:\nProvided that:\n(a) having regard to all the relevant circumstances at the\ntime of the communication, the method of generating\nthe electronic form of the document provided a\nreliable means of assuring the maintenance of the\nintegrity of the information contained in the document;\n(b) at the time the communication was sent, it was\nreasonable to expect that the information contained in\nthe electronic form of the document would be readily\naccessible so as to be usable for subsequent reference;\n(c) if the document is required to be produced to a person\nwho is neither a public body nor to a person acting on\nbehalf of a public body, then the person to whom the\ndocument is required to be produced, consents to the\nproduction by means of an electronic communication of\nan electronic form of the document;\n(d) if the document is required to be given to a person, or\nto another person on his behalf, and the first\nmentioned person requires that an electronic form of\nthe document be given, in accordance with particular\ninformation technology requirements, by means of a\nparticular kind of electronic communication, the\nperson’s requirement is satisfied; and\n(e) if the document is required to be given to a person, or\nto another person on his behalf, and the first\nmentioned person requires that a particular action be\ntaken by way of verifying the receipt of the\n\ninformation, the person’s requirement is satisfied.\n(2) For the purposes of this article, the integrity of information\ncontained in a document is only maintained if the information\nremains complete and unaltered, save for (a) the addition of any endorsement; or\n(b) any change not being a change to the information,\nwhich is necessary in the normal course of\ncommunication, storage or display.\n(3) For the purposes of article 8 (1) and (2), the production by\nmeans of an electronic communication of an electronic form of a\ndocument or the generation of an electronic form of a document\nshall not give rise to any liability for infringement of the copyright\nin a work or other subject matter embodied in the document.",
+      "metadata": {
+        "source_line_start": 357,
+        "source_line_end": 409
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Liability of Intermediary Service Providers — Caching",
-      "content": "A service provider that transmits information provided by a recipient of the service over a communication network and stores that information automatically, intermediately, and temporarily for the sole purpose of making more efficient the information's onward transmission to other recipients of the service upon their request, shall not be liable for the automatic, intermediate, and temporary storage of that information where the service provider does not modify the information, complies with conditions on access to the information, complies with rules regarding the updating of the information, does not interfere with the lawful use of technology used to obtain data on the use of the information, and acts expeditiously to remove or disable access to stored information upon actual knowledge that the information at the initial source of transmission has been removed from the network or access to it has been disabled."
+      "title": "in a work or other subject matter embodied in the document",
+      "content": "(1) If under any law in Malta, a person is required to\nrecord information in writing, that requirement is deemed to have\nbeen satisfied if the person records the information in electronic\nform:\nProvided that such information in electronic form is readily\naccessible so as to be usable for subsequent reference and it\ncomplies with such regulations as may be prescribed.\n(2) If under any law in Malta, a person is required to retain, for\na particular period, a document that is in the form of a paper or of\nany other substance or material, that requirement is deemed to have\nbeen satisfied if the person retains an electronic form of the\ndocument throughout that period:\nProvided that if (a) having regard to all the relevant circumstances at the\ntime of the generation of the electronic form of the\ndocument, the method of generating the electronic\nform of the document, provided a reliable means of\nassuring the maintenance of the integrity of the\ninformation contained in that document; and\n(b) at the time of the generation of the electronic form of\nthe document, it was reasonable to expect that the\ninformation contained in the electronic form of the\ndocument would be readily accessible so as to be\nusable for subsequent reference; and\n(c) it complies with such regulations as may be\nprescribed.\n(3) For the purpose of sub-article (2), the integrity of\ninformation contained in a document is only maintained if the\ninformation has remained complete and unaltered, save for(a) the addition of any endorsement; or\n(b) any change not being a change to the information,\nwhich is necessary in the normal course of\ncommunication, storage or display.\n(4) If under any law in Malta, a person is required to retain, for\na pa rticular pe r iod, i nformation tha t w as t he s ubject of an\n\nRetention of\ninformation,\ndocuments and\ncommunications.\n\nelectronic communication, that requirement is deemed to have been\nsatisfied if that person retains, or causes another person to retain, in\nelectronic form, that (a) at the time of commencement of the retention of the\ninformation, it was reasonable to expect that the\ninformation would be readily accessible so as to be\nusable for subsequent reference; and\n(b) having regard to all the relevant circumstances, at the\ntime of commencement of the retention of the\ninformation, the method of retaining the information in\nelectronic form provided a reliable means of assuring\nthe maintenance of the integrity of the information\ncontained in the electronic communication; and\n(c) throughout that period that person also retains, or\ncauses another person to retain, in electronic form,\nsuch additional information obtained as is sufficient to\nenable the identification of the following:\n(i) the origin of the electronic communication;\n(ii) the destination of the electronic communication;\n(iii) the time when the electronic communication was\nsent;\n(iv) the time when the electronic communication was\nreceived; and\n(d) at the time of commencement of the retention of the\nadditional information specified in paragraph (c) it\nwas reasonable to expect that the additional\ninformation would be readily accessible so as to be\nusable for subsequent reference; and\n(e) it complies with\nprescribed.\n\nsuch regulations as may be\n\n(5) For the purposes of sub-article (4), the integrity of the\ninformation which is the subject of an electronic communication is\nonly maintained if the information remains complete and unaltered,\nsave for (a) the addition of any endorsement; or\n\nInternal market.\nAdded by:\nXXXV. 2016.6.\n\n(b) any change not being a change to the information,\nwhich arises in the normal course of communication,\nstorage or display.",
+      "metadata": {
+        "source_line_start": 410,
+        "source_line_end": 499
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s8a",
+      "section": "8A",
+      "title": "Internal market",
+      "content": "(1) Subject to the provisions of sub-article (4), any\nrequirement that falls within the coordinated field shall apply to the\nprovision of an information society service by a service provider\nestablished in Malta, irrespective of whether that service is\nprovided in Malta or in another Member State.\n(2) Subject to the provisions of sub-article (4) an enforcement\nauthority with responsibility in relation to any requirement in subarticle (1) shall ensure that the provision of an information service\nby a service provider established in Malta complies with that\nrequirement irrespective of whether the service is provided in\nMalta or in another Member State, and any power, remedy or\n\nprocedure for taking enforcement action shall be available to secure\ncompliance.\n(3) Subject to the provisions of sub-articles (4) and (5), no\nrequirement shall be applied to the provision of an information\nsociety service by a service provider established in a Member State\nother than Malta for reasons which fall within the coordinated field\nif the application of the requirement would restrict the freedom to\nprovide information society services to a person in Malta from that\nMember State.\n(4) Sub-articles (1), (2) and (3) shall not apply to the fields set\nout in the Seventh Schedule to this Act.\n(5) The reference to any requirements the application of which\nwould restrict the freedom to provide information society services\nfrom another Member State in sub-article (3) does not include any\nrequirement maintaining the level of protection for public health\nand consumer interests established by European Union law.",
+      "metadata": {
+        "source_line_start": 500,
+        "source_line_end": 533
+      }
+    },
+    {
+      "provision_ref": "s8b",
+      "section": "8B",
+      "title": "Member State",
+      "content": "(1) Notwithstanding the provisions of article 8A(3), an\nenforcement authority may take measures, including applying any\nrequirement which would otherwise not apply by virtue of article\n8A(3), in respect of a given information society service, where\nthose measures are necessary for reasons of (a) public policy, in particular the prevention,\ninvestigation, detection and prosecution of criminal\noffences, including the protection of minors and the\nfight against any incitement to hatred on grounds of\nrace, sex, religion or nationality, and violations of\nhuman dignity concerning individual persons;\n(b) the protection of public health;\n(c) public security, including the safeguarding of national\nsecurity and defence; or\n(d) the protection of consumers, including investors,\nand are proportionate to those objectives.\n(2) Notwithstanding the provisions of article 8A(3), in any case\nwhere an enforcement authority is not party to the proceedings, a\ncourt may, on the application of any person or of its own motion,\napply any requirement which would otherwise not apply by virtue\nof article 8A(3) in respect of a given information society service, if\nthe application of that law or requirement is necessary for and\nproportionate to any of the objectives set out in sub-article (1).\n(3) Sub-articles (1) and (2) shall only apply where the\ninformation society service prejudices or presents a serious and\ngrave risk of prejudice to an objective as stated in sub-article (1)(a)\nto (d).\n(4) Subject to the provisions of sub-articles (5) and (6), an\nenforcement authority shall not take the measures in sub-article (1)\nunless it:\n(a) asks the Member State in which the service provider is\nestablished to take measures and the aforesaid Member\n\nDerogations from\narticle 8A.\nAdded by:\nXXXV. 2016.6.\n\nState does not take such measures or the measures\ntaken are considered by the enforcement authority\nconcerned as inadequate; and\n(b) notifies the European Commission and the Member\nState in which the service provider is established of its\nintention to take such measures.\n\n(5) Nothing in sub-article (4) affects the commencement of any\nlegal proceedings or the investigation of any offence or breach,\nhowever so described, by any enforcement authority.\n(6) If it appears to the enforcement authority that the matter is\none of urgency, it may take the measures under sub-article (1)\nwithout first applying the requirements of sub-article (4).\n(7) In a case where a measure is taken pursuant to sub-article\n(6), the enforcement authority shall notify the measures taken, to\nthe European Commission and to the Member State concerned in\nthe shortest time possible thereafter stating in writing the reasons\nfor urgency.\nGeneral\ninformation to be\nprovided.\nAdded by:\nXXXV. 2016.6.",
+      "metadata": {
+        "source_line_start": 534,
+        "source_line_end": 600
+      }
+    },
+    {
+      "provision_ref": "s8c",
+      "section": "8C",
+      "title": "XXXV. 2016.6",
+      "content": "(1) Without prejudice to other information requirements as\nmay be established at law, a service provider shall make available\nto the recipient of the service and where appropriate or requested,\nto the enforcement authority responsible at law in ensuring\ncompliance, including where applicable to the competent regulator,\nin a form and manner which is easily, directly and permanently\naccessible, the following information:\n(a) the name of the service provider;\n(b) the geographic address where the service provider is\nestablished;\n(c) the details of the service provider, including his\nelectronic mail address, which allow him to be\ncontacted rapidly and communicated with in a direct\nand effective manner;\n(d) where the service provider is registered in a trade or\nsimilar public register, the trade or other such register\nin which the service provider is entered and his\nregistration number, or equivalent means of\nidentification in that register;\n(e) where the activity is subject to an authorisation\nscheme, the particulars of the relevant supervisory\nauthority;\n(f)\n\nwhere the service provider is a member of a regulated\nprofession (i)\n\nany professional body or similar institution with\nwhich the service provider is registered;\n(ii) the professional title of the provider and the\nMember State where it has been granted; and\n(iii) a reference to the applicable professional rules\nin the Member State of establishment and the\nmeans to access them;\n\n(g) where the service provider undertakes an activity that\nis subject to value added tax, the identification number\nreferred to in Article 22(1) of the Sixth Council\nDirective 77/388/EEC of 17th May 1977 on the\nharmonisation of the laws of the Member States\nrelating to turnover taxes - Common system of value\nadded tax: uniform basis of assessment; and\n(h) when a service provider sends unsolicited commercial\ncommunications, details of how users of the service\ncan register their choice regarding unsolicited\ncommercial communications, which details must be\nprominently displayed on the website of the service\nprovider and at every point where users of the service\nare asked to provide information when accessing the\nwebsite of the service provider.\n(2) Where the service provider refers to prices, such prices\nshall be indicated clearly and unambiguously and, in particular,\nshall indicate whether they are inclusive of any tax, however so\ndescribed, and delivery costs.",
+      "metadata": {
+        "source_line_start": 601,
+        "source_line_end": 661
+      }
+    },
+    {
+      "provision_ref": "s8d",
+      "section": "8D",
+      "title": "described, and delivery costs",
+      "content": "In addition to any other information requirements that may\nbe established at law, a service provider shall ensure that any\ncommercial communication provided by him, which constitutes or\nforms part of an information society service shall (a) be clearly identified as a commercial communication;\n\nProvision of\ninformation in\ncommercial\ncommunications.\nAdded by:\nXXXV. 2016.6.\n\n(b) clearly identify the person on whose behalf the\ncommercial communication is made;\n(c) clearly identify as such any promotional offer,\nincluding any discount, premium or gift, and ensure\nthat any conditions which must be met to qualify for it\nare easily accessible, and presented clearly and\nunambiguously;\n(d) clearly identify as such any promotional competition\nor game and ensure that any conditions for\nparticipation are easily accessible and presented\nclearly and unambiguously; and\n(e) without prejudice to the provisions of the Data\nProtection Act and of any other laws regulating data\nprotection, clearly identify details of how users of the\nservice can register their choice regarding unsolicited\ncommercial communications, which details must be\nprominently displayed at every point where users of\nthe service are asked to provide information.",
+      "metadata": {
+        "source_line_start": 662,
+        "source_line_end": 691
+      }
+    },
+    {
+      "provision_ref": "s8e",
+      "section": "8E",
+      "title": "the service are asked to provide information",
+      "content": "(1) This article establishes and regulates the right under\nthe Act to make a commercial communication which is part of, or\nconstitutes, a service provided by a m ember of a regulated\nprofession.\n(2) Without prejudice to any other provision of the Act\npermitting a restriction or limitation of the right to which this\narticle applies, a body which at law is responsible for a regulated\n\nRegulated\nprofessions.\nAdded by:\nXXXV. 2016.6.\n\nprofession may, in exercise of any powers vested in it at law to\nregulate the activities of its members, make the exercise by a\nmember of the profession of the right to which this article applies,\nsubject to compliance with specified conditions as referred to in\nsub-article (3).\n(3) The conditions that may be so specified are those that may\nreasonably be regarded as appropriate for the purpose of\nmaintaining the standing and integrity of the profession concerned\nand ensuring adherence by its members to the requisite standards\nand, in particular, for the purpose of ensuring (a) the independence,\nprofession, and\n\ndignity\n\nand\n\nhonour\n\nof\n\nthe\n\n(b) compliance with obligations of professional secrecy\nand fairness towards clients and other members of the\nprofession.\nNo requirement for\nprior\nauthorisations.\nAdded by:\nXXXV. 2016.6.\nAmended by:\nXXXIII. 2021.17.",
+      "metadata": {
+        "source_line_start": 692,
+        "source_line_end": 748
+      }
+    },
+    {
+      "provision_ref": "s8f",
+      "section": "8F",
+      "title": "Cap. 399",
+      "content": "The provision of information society services by a service\nprovider shall not be subject to any prior authorisation:\n\nProvided that the provision of such information society\nservices shall be without prejudice to authorisation schemes which\nare not specifically and exclusively targeted at information society\nservices, or which are covered by the Electronic Communications\n(Regulation) Act or any regulations made thereunder.\n\nNotification\nrequirement.\nAdded by:\nXXXV. 2016.6.",
+      "metadata": {
+        "source_line_start": 749,
+        "source_line_end": 762
+      }
+    },
+    {
+      "provision_ref": "s8g",
+      "section": "8G",
+      "title": "XXXV. 2016.6",
+      "content": "(Deleted by Act XXXIII. 2021.18).\n\nNon-applicability\nof certain articles\nto the activities or\nareas listed in the\nFifth Schedule of\nthe Act.\nAdded by:\nXXXV. 2016.6.",
+      "metadata": {
+        "source_line_start": 763,
+        "source_line_end": 773
+      }
+    },
+    {
+      "provision_ref": "s8h",
+      "section": "8H",
+      "title": "XXXV. 2016.6",
+      "content": "(Deleted by Act XXXIII. 2021.18).\n\nElectronic\ncontract.\nAmended by:\nXXXIII. 2021.19.",
+      "metadata": {
+        "source_line_start": 774,
+        "source_line_end": 783
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III - ELECTRONIC CONTRACTS",
       "section": "9",
-      "title": "Article 9. Liability of Intermediary Service Providers — Hosting",
-      "content": "A service provider that stores information provided by a recipient of the service shall not be liable for the information stored at the request of a recipient of the service where the service provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent, or where the service provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information. This provision does not apply where the recipient of the service is acting under the authority or the control of the service provider. This Article shall not affect the possibility for a court or administrative authority to require the service provider to terminate or prevent an infringement."
+      "title": "XXXIII. 2021.19",
+      "content": "An electronic contract shall not be denied legal effect,\nvalidity or enforceability solely on the grounds that it is wholly or\npartly in electronic form, or has been entered into wholly or partly\nby way of electronic communications or otherwise:\nProvided that the provisions of this article shall not apply\nin relation to the contracts or laws, however so described, listed in\nthe Eighth Schedule to this Act:\nProvided further that the Minister may, after consulting the\ncompetent regulator, by notice in the Gazette amend the Eighth\nSchedule.\n(2) For the purposes of any law relating to contracts, an offer,\nan acceptance of an offer and any related communication, including\nany subsequent amendment, cancellation or revocation of the offer,\n\nthe acceptance of the contract may, unless otherwise agreed by the\ncontracting parties, be communicated by means of electronic\ncommunications.",
+      "metadata": {
+        "source_line_start": 784,
+        "source_line_end": 808
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. No General Monitoring Obligation",
-      "content": "Service providers shall not be subject to a general obligation to monitor the information which they transmit or store, nor to actively seek facts or circumstances indicating illegal activity. Member States may establish obligations for information society service providers to inform the competent authorities of alleged illegal activities undertaken or information provided by recipients of their service, or obligations to communicate to the competent authorities, at their request, information enabling the identification of recipients of their service with whom they have storage agreements."
+      "title": "Schedule",
+      "content": "(1) Unless otherwise agreed by parties who are not\nconsumers, where the recipient of the service places his order\nthrough technological means:\n(a) an electronic contract is concluded when after placing\nhis order, the recipient of the service has received from\nthe service provider an acknowledgement of receipt of\nthe order made by the recipient:\n\nFormation of\nelectronic contract.\nAmended by:\nVII. 2004.49.\nSubstituted by:\nXXX. 2007.54.\n\nProvided that the service provider must acknowledge\nreceipt of the order made by the recipient without\nundue delay and by electronic means; and\n(b) the order made by the recipient and the\nacknowledgement of receipt are deemed to have been\nreceived when the parties to whom they are addressed\nare able to access them.\n(2) Unless otherwise agreed by parties who are not consumers,\nthe service provider shall provide the recipient of the service with\neffective and accessible technical means to identify and correct\nhandling and input errors and accidental transactions prior to the\nconclusion of the contract.\n(3) The provisions of sub-article (1)(a) and of sub-article (2)\nshall not apply to contracts concluded exclusively by electronic\nmail or by equivalent individual communications.",
+      "metadata": {
+        "source_line_start": 809,
+        "source_line_end": 838
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Codes of Conduct",
-      "content": "The responsible minister shall encourage the drawing up of codes of conduct at Union and national level by trade associations, professional bodies, and consumer organisations, in order to contribute to the proper application of this Act. The minister shall encourage trade associations and professional bodies, when drawing up codes of conduct, to consult with consumer organisations and associations representing service users. The minister shall encourage service providers and recipients of services to assess the codes of conduct of their associations and, where appropriate, to comply with applicable codes. Codes of conduct shall be notified to the European Commission to enable their dissemination and accessibility to users throughout the Union."
+      "title": "mail or by equivalent individual communications",
+      "content": "(1) Unless otherwise agreed by parties who are not\nconsumers, and without prejudice to any consumer rights under the\nprovisions of any other law, the service provider shall provide\ninformation in clear, comprehensive and unambiguous terms\nregarding the matters set out in the First Schedule, which Schedule\nmay by notice in the Gazette, be amended by the Minister after\nconsultation with the competent regulator:\nProvided that any such information shall be provided to the\naddressee prior to the placement of the order by him.\n(2) Unless parties who are not consumers have agreed\notherwise, a service provider shall indicate which relevant codes of\nconduct he subscribes to and provide information as to how those\ncodes can be consulted electronically.\n(3) Where the service provider provides terms and conditions\napplicable to the contract to the addressee, the service provider\nshall make them available to the addressee in a way that allows the\naddressee to store and reproduce them.\n(4) The provisions of sub-articles (1) and (2) shall not apply to\ncontracts concluded exclusively by exchange of electronic mail or\nby equivalent individual communications.\n\nInformation\nrequirements\nrelating to\nelectronic\ncontracts.\nSubstituted by:\nVII. 2004.50.\nAmended by:\nXXX. 2007.52;\nXXXV. 2016.3.",
+      "metadata": {
+        "source_line_start": 839,
+        "source_line_end": 881
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
+      "chapter": "PART IV - TRANSMISSION OF ELECTRONIC COMMUNICATIONS",
       "section": "12",
-      "title": "Article 12. Out-of-Court Dispute Settlement",
-      "content": "The minister shall ensure that, in case of disagreement between an information society service provider and the recipient of the service, adequate and effective out-of-court schemes for dispute settlement are available under applicable law. The minister shall encourage bodies responsible for out-of-court dispute settlement to inform the Commission of significant decisions taken and any other information on practices, usages, or customs relating to electronic commerce. The availability of out-of-court dispute resolution mechanisms shall complement and not replace the right of parties to pursue their claims through the courts. Service providers shall inform recipients of the service of the out-of-court settlement bodies whose jurisdiction they accept."
+      "title": "Time of dispatch",
+      "content": "(1) If an electronic communication enters a single\ninformation system outside of the control of the originator, then,\nsave as otherwise agreed between the originator and the addressee\nof the electronic communication, the dispatch of the electronic\ncommunication occurs at the time when it enters the information\nsystem.\n(2) If an electronic communication enters successively two or\nmore information systems outside of the control of the originator,\nthen, unless otherwise agreed between the originator and the\naddressee of the electronic communication, the dispatch of the\nelectronic communication occurs when it enters the first of those\ninformation systems.\n\nTime of receipt.\nAmended by:\nXXXV. 2016.7.",
+      "metadata": {
+        "source_line_start": 882,
+        "source_line_end": 898
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Article 13. Regulated Professions",
-      "content": "Service providers pursuing activities in regulated professions may provide information society services subject to compliance with applicable professional rules, including rules on the independence, dignity, and discretion of the profession, professional secrecy, and fairness towards clients and other members of the profession. Professional associations and bodies shall encourage their members, when providing information society services, to comply with applicable codes of conduct. Professional associations shall inform the Commission of applicable professional rules which might restrict the freedom to provide information society services and shall assess the necessity and proportionality of such rules in the light of the objectives pursued."
+      "title": "Time of receipt",
+      "content": "(1) If the addressee of an electronic communication has\ndesignated an information system for the purpose of receiving\nelectronic communications, then, save as otherwise agreed between\nthe originator and the addressee of the electronic communication or\nas otherwise required under the Regulation, the time of receipt of\nthe electronic communication is the time when the electronic\ncommunication enters the information system.\n(2) If the addressee of an electronic communication has not\ndesignated an information system for the purpose of receiving\nelectronic communications, then, save as otherwise agreed between\nthe originator and the addressee of the electronic communication,\nthe time of receipt of the electronic communication is the time\nwhen the electronic communication comes to the attention of the\naddressee.\n\nPlace of dispatch\nand receipt.",
+      "metadata": {
+        "source_line_start": 899,
+        "source_line_end": 916
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Electronic Contracts and Formalities",
-      "content": "Malta shall ensure that the legal system allows contracts to be concluded by electronic means, and shall ensure that the legal requirements applicable to the contractual process neither create obstacles for the use of electronic contracts nor result in such contracts being deprived of legal effectiveness and validity on account of their having been made by electronic means. This requirement shall not apply to contracts that require the involvement of courts, public authorities or professions exercising public authority, contracts of suretyship granted by persons acting for purposes outside their trade, business, or profession, or contracts in the field of family law or the law of succession."
+      "title": "and receipt",
+      "content": "(1) Save as may be otherwise agreed between the\noriginator and the addressee of an electronic communication (a) the electronic communication is deemed to have been\ndispatched at the place where the originator has his\nplace of business; and\n(b) the electronic communication is deemed to have been\nreceived at the place where the addressee has his place\nof business.\n(2)\n\nFor the purposes of the sub-article (1) (a) if the originator or the addressee has more than one\nplace of business, and one of those places has a closer\nrelationship to the underlying transaction, that place of\nbusiness shall be deemed to be the originator’s or the\naddressee’s place of business; and\n(b) if the originator or the addressee has more than one\nplace of business, but paragraph (a) does not apply, the\noriginator’s or the addressee’s principal place of\nbusiness shall be deemed to be the originator’s or the\naddressee’s place of business; and\n(c) if the originator or addressee does not have a place of\n\nbusiness, the originator’s or the addressee’s place of\nbusiness shall be deemed to be the originator’s or\naddressee’s ordinary residence.",
+      "metadata": {
+        "source_line_start": 917,
+        "source_line_end": 947
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Administrative Cooperation",
-      "content": "The Malta Communications Authority, as the authority responsible for administering this Act, shall cooperate with supervisory authorities in other Member States and with the European Commission in matters relating to the cross-border provision of information society services, including the exchange of information on service providers, the provision of mutual assistance, and the coordination of enforcement action in relation to cross-border infringements. The MCA shall participate in applicable Union-level coordination networks and shall notify the Commission of contact points for the purposes of administrative cooperation in the information society services sector."
+      "title": "addressee’s ordinary residence",
+      "content": "(1) Save as otherwise agreed between the originator and\nthe addressee of an electronic communication, the originator of an\nelectronic communication is bound by that communication only if\nthe communication was sent by him or under his authority.\n\nAttribution of\nelectronic\ncommunication.\n\n(2) Nothing in sub-article (1) shall affect the operation of any\nlaw that makes provision for(a) the conduct engaged by a person within the scope of\nthe person’s actual or apparent authority to be\nattributed to another person; or\n(b) a person to be bound by conduct engaged in by another\nperson within the scope of the other person’s actual or\napparent authority.\n(3) An electronic communication between an originator and an\naddressee shall be deemed to be of the originator if it was sent by\nan information system programmed to operate automatically by or\non behalf of the originator.\n(4) An addressee shall have the right to consider each\nelectronic communication received by him as a separate electronic\ncommunication and to act on that assumption, except to the extent\nthat such communication is a duplicate of another electronic\ncommunication and the addressee knew or should have known, had\nhe exercised reasonable care or used any agreed procedure, that the\nelectronic communication was a duplicate.",
+      "metadata": {
+        "source_line_start": 948,
+        "source_line_end": 974
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s15a",
+      "section": "15A",
+      "title": "electronic communication was a duplicate",
+      "content": "Wherever any legal requirement exists to communicate by\nway of registered mail, this requirement shall be deemed to be\nsatisfied by the use of a qualified electronic registered delivery\nservice by all parties participating in the communication:\n\nCommunications\nby registered mail.\nAdded by:\nXXXV. 2016.8.\n\nProvided that this article shall come into force on such date\nas the Minister may expressly determine by order in the Gazette.",
+      "metadata": {
+        "source_line_start": 975,
+        "source_line_end": 988
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART V - PROVISION OF SIGNATURE CERTIFICATION SERVICES",
       "section": "16",
-      "title": "Article 16. Relationship with Digital Services Act",
-      "content": "This Act applies without prejudice to Regulation (EU) 2022/2065 (Digital Services Act), which directly applies in Malta and establishes harmonised rules for providers of intermediary services, including obligations for hosting service providers, online platforms, and very large online platforms and search engines. Where the Digital Services Act imposes obligations that are more specific than or supplement those established by this Act, the provisions of the Digital Services Act shall take precedence. The Malta Communications Authority is designated as Malta's Digital Services Coordinator under the Digital Services Act and shall coordinate with the European Commission and other Member States' Digital Services Coordinators in the supervision and enforcement of the Digital Services Act."
+      "title": "as the Minister may expressly determine by order in the Gazette",
+      "content": "(Deleted by Act XXXV. 2016.9.).\n\nAccreditation of\nsignature\ncertification\nservice providers.",
+      "metadata": {
+        "source_line_start": 989,
+        "source_line_end": 997
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "service providers",
+      "content": "(Deleted by Act XXXV. 2016.9.).\n\nSupervision of\nsignature\ncertification\nservice providers\nthat issue qualified\ncertificates.\nAmended by:\nXIII. 2005.74.",
+      "metadata": {
+        "source_line_start": 998,
+        "source_line_end": 1010
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "XIII. 2005.74",
+      "content": "(Deleted by Act XXXV. 2016.9.).\n\nLiability of\nsignature\ncertification\nservice providers.",
+      "metadata": {
+        "source_line_start": 1011,
+        "source_line_end": 1031
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Mere conduit",
+      "content": "Repealed by Act I.2024.20.\n\nCaching.\nAmended by:\nXXXV. 2016.3.",
+      "metadata": {
+        "source_line_start": 1032,
+        "source_line_end": 1037
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Hosting",
+      "content": "Repealed by Act I.2024.20.\n\nObligations of\nintermediary\nservice providers.",
+      "metadata": {
+        "source_line_start": 1042,
+        "source_line_end": 1047
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Hosting",
+      "content": "Prohibition on\nmisuse of\nelectronic\nsignatures,\nsignature creation\ndevices,\ncertificates and\nfraud.\nAmended by:\nXXXV. 2016.10.\n\nRepealed by Act I.2024.20.\n\nRepealed by Act I.2024.20.",
+      "metadata": {
+        "source_line_start": 1048,
+        "source_line_end": 1066
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART VII - GENERAL",
+      "section": "23",
+      "title": "Repealed by Act I.2024.20",
+      "content": "(1) No person shall access, copy or otherwise obtain\npossession of or recreate the electronic signature creation device or\nan electronic seal creation device of another person without\nauthorisation, for the purpose of creating, or allowing or causing\nanother person to create an unauthorised electronic signature or\nelectronic seal using such signature device.\n(2) No person shall alter, disclose or use the electronic\nsignature creation device or an electronic seal creation device of\nanother person without authorisation, or in excess of lawful\nauthorisation, for the purpose of creating or allowing or causing\nanother person to create an unauthorised electronic signature using\nsuch electronic signature creation device or an electronic seal\ncreation device.\n(3) No person shall create, publish, alter or otherwise use a\ncertificate or an electronic signature or electronic seal for any\nfraudulent or other unlawful purpose.\n(4) No person shall misrepresent his identity or authorisation\nin requesting or accepting a certificate or in requesting suspension\nor revocation of a certification.\n(5) No person shall access, alter, disclose or use the electronic\nsignature creation device or an electronic seal creation device of a\ncertificate service provider used to issue certificates without the\nauthorisation of the certificate service provider, or in excess of\nlawful authorisation, for the purpose of creating, or allowing or\ncausing another person to create, an unauthorised electronic\nsignature or electronic seal using such electronic signature creation\ndevice or an electronic seal creation device.\n(6) No person shall publish a certificate, or otherwise\nknowingly make it available to anyone likely to rely on the\ncertificate or on an electronic signature or electronic seal that is\nverifiable with reference to data such as codes, passwords,\nalgorithms, public cryptographic keys or other data which are used\nfor the purposes of verifying an electronic signature or electronic\nseal, listed in the certificate, if such person knows that (a) the certificate service provider listed in the certificate\nhas not issued it; or\n(b) the subscriber listed in the certificate has not accepted\nit; or\n(c) the certificate has been revoked or suspended, unless\nsuch publication is for the purpose of verifying an\n\nelectronic signature or electronic seal created prior to\nsuch revocation or suspension, or giving notice of\nrevocation or suspension.\n(7) No person shall use cryptographic or other similar\ntechniques for any illegal purpose.",
+      "metadata": {
+        "source_line_start": 1067,
+        "source_line_end": 1118
+      }
+    },
+    {
+      "provision_ref": "s23a",
+      "section": "23A",
+      "title": "techniques for any illegal purpose",
+      "content": "(1) The competent regulator shall be responsible for the\nsupervisory tasks stated in the Regulation and in doing so shall in\nparticular:\n(a) supervise qualified trust service providers established\nin Malta ensuring through ex ante and ex post\nsupervisory activities, that such qualified trust service\nproviders and the qualified trust services that they\nprovide, meet the requirements laid down in the\nRegulation;\n(b) take action if necessary, in relation to non-qualified\ntrust service providers established in Malta through ex\npost supervisory activities, when informed that those\nnon-qualified trust service providers or the trust\nservices they provide allegedly do not meet the\nrequirements laid down in the Regulation.\n(2) Without prejudice to the generality of the tasks onerous on\nthe competent regulator as stated in sub-article (1), the competent\nregulator shall be responsible for the following:\n(a) cooperating with other supervisory bodies and provide\nthem with assistance in accordance with Article 18 of\nthe Regulation;\n(b) analysing the conformity assessment reports referred\nto in Articles 20(1) and 21(1) of the Regulation;\n(c) informing other supervisory bodies and the public\nabout breaches of security or loss of integrity in\naccordance with Article 19(2) of the Regulation;\n(d) reporting to the European Commission about its main\nactivities in accordance with paragraph 6 of Article 17\nof the Regulation;\n(e) carrying out audits or requesting a conformity\nassessment body to perform a conformity assessment\nof the qualified trust service providers in accordance\nwith Article 20(2) of the Regulation;\n(f)\n\ncooperating with the Office of the Information and\nData Protection Commissioner in Malta, in particular,\nby informing that Office without undue delay, about\nthe results of audits of qualified trust service\nproviders, where personal data protection rules may in\nthe opinion of the competent regulator have been\nbreached;\n\n(g) granting qualified status to trust service providers and\nto the services they provide and to withdraw this status\nin accordance with Articles 20 and 21 of the\nRegulation;\n\nSupervisory body\nfor the purposes of\nthe Regulation.\nAdded by:\nXXXV. 2016.11.\nAmended by:\nXXXIII. 2021.20.\n\n(h) informing the body responsible for the national trusted\nlist referred to in Article 22(3) of the Regulation about\nits decisions to grant or to withdraw qualified status:\nProvided that such a requirement shall not apply if the\ncompetent regulator also performs the tasks of the\nbody referred to in this paragraph;\n(i)\n\nverifying the existence and correct application of\nprovisions on termination plans in cases where the\nqualified trust service provider ceases its activities\nincluding how information is kept accessible in\naccordance with point (h) of Article 24(2) of the\nRegulation;\n\n(j)\n\nrequiring that trust service providers remedy any\nfailure to fulfil the requirements laid down in the\nRegulation;\n\n(k) establishing, maintaining and publishing trusted lists\nin accordance with Articles 22(1) and 22(2) of the\nRegulation, and notifying the Commission in relation\nthereto in accordance with Article 22(3) of the\nRegulation; and\n(l)\n\nnotifying the Commission in relation to any lists in\naccordance with Articles 31(1) and 39(3) of the\nRegulation.\n\n(3) The competent regulator may, in the performance of its\nsupervisory tasks as stated in the Regulation, determine any such\ntechnical and, or operational requirements as it may consider\nnecessary for the effective implementation and, or compliance with\nany of the provisions of the Regulation:\n\nNon-compliance\nwith the\nRegulation.\nAdded by:\nXXXV. 2016.11.\n\nProvided that in doing so the competent regulator shall first\nconsult with any interested parties.",
+      "metadata": {
+        "source_line_start": 1119,
+        "source_line_end": 1226
+      }
+    },
+    {
+      "provision_ref": "s23b",
+      "section": "23B",
+      "title": "Regulation",
+      "content": "Unless stated otherwise in this Act, where applicable, any\nnon-compliance with the provisions of this Act or of the\nRegulation, shall constitute a breach of this Act, and shall be\ntreated accordingly by the competent regulator who shall as it\nconsiders appropriate take the necessary regulatory measures in\naccordance with its powers at law.\n\nNon-compliance\nwith the Act and\npowers of the\ncompetent\nregulator.\nAdded by:\nXXXV. 2016.11.",
+      "metadata": {
+        "source_line_start": 1227,
+        "source_line_end": 1241
+      }
+    },
+    {
+      "provision_ref": "s23c",
+      "section": "23C",
+      "title": "XXXV. 2016.11",
+      "content": "Unless stated otherwise in the Act, a breach of any of the\nprovisions of the Act shall be subject to any such sanctions as the\ncompetent regulator is empowered by law to impose.\n\nOffences and\npenalties.\nAmended by:\nL.N. 426 of 2007.\nSubstituted by:\nXXXV. 2016.12.\nAmended by:\nXXXIII. 2021.21;\nI.2024.21.",
+      "metadata": {
+        "source_line_start": 1242,
+        "source_line_end": 1255
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "I.2024.21",
+      "content": "Any person contravening article 23 of the Act, or Articles\n19(2), 20(1), 21(1), 21(3), 23 and 24 of the Regulation, shall be\nguilty of an offence and shall on conviction be liable to a fine\n(multa) of not more than two hundred and fifty thousand euro\n(€250,000) or to imprisonment not exceeding two years or to both\nsuch fine (multa) and imprisonment, and in the case of a continuous\noffence to a fine not exceeding two thousand, five hundred euro\n(€2,500) for each day during which the offence continues:\n\nProvided that where any proceedings are undertaken by the\nCommissioner of Police under this sub-article, the Commissioner\nof Police shall in writing notify the competent regulator of the\ntaking of such proceedings and of the final outcome of the same.",
+      "metadata": {
+        "source_line_start": 1256,
+        "source_line_end": 1275
+      }
+    },
+    {
+      "provision_ref": "s24a",
+      "section": "24A",
+      "title": "taking of such proceedings and of the final outcome of the same",
+      "content": "(1) Where a dispute however so described arises between\na service provider and a consumer further to a complaint by a\nconsumer alleging an infringement of the Act or of the Regulation\nas are enforced by the competent regulator, any party to such a\ndispute may refer the dispute to the competent regulator:\nProvided that in making a complaint the consumer must\nprima facie show that he has been affected by the act or omission of\nthe service provider giving rise to the complaint.\n(2) Upon receipt of any reference as aforesaid, or upon\notherwise becoming aware of any such dispute that the competent\nregulator believes should be investigated, the competent regulator\nshall notify all the parties to the dispute that the matter is being\ninvestigated. In doing so, the competent regulator shall regulate its\nown procedure, which procedure shall, as far as is reasonably\npossible, be transparent, simple, inexpensive and conducive to a\nprompt and fair settlement of the dispute, and shall afford all\nparties to the dispute reasonable opportunity to make their\nsubmissions and to produce any relevant information:\nProvided that the competent regulator may decide not to\ninitiate an investigation in accordance with this article where it is\nsatisfied that other means of resolving the dispute in a timely\nmanner are available to the parties, or if legal proceedings in\nrelation to the dispute have been initiated by any party to the\ndispute, or if another public authority is already investigating the\nsame dispute.\n(3) The competent regulator in resolving any disputes referred\nto it under this article, may issue directives to the service provider\nrequiring that service provider to comply with any measure the\ncompetent regulator may specify for the resolution of the dispute.\nSuch directives may, having regard to its determination of the\ndispute and to all other relevant matters, include an order to effect\nthe reimbursement of payments received or to make compensation\npayments. Such payments may also include the whole or part of the\ncosts of any party relating to the engagement of a lawyer and, or of\na technical adviser in relation to any submissions relating to the\ndispute.\n(4) The competent regulator shall make publicly available any\nadministrative procedures it may from time to time establish in\nrelation to the handling of any disputes referred to it under this\narticle.\n(5) The provisions of this article shall be without prejudice to\nthe right of the consumer to have recourse, in accordance with\nMaltese law, to any other body empowered to resolve any such\ndisputes and, or to any out-of-court dispute resolution processes,\nhowever so described.\n(6)\n\nIn issuing a decision under this article the competent\n\nDisputes between a\nservice provider\nand a consumer.\nAdded by:\nXXXV. 2016.13.\n\nregulator shall state the reasons on which it is based, and shall,\nsubject to such requirements of commercial confidentiality as it\nmay deem appropriate, notify the parties to the dispute with a copy\nof the decision.\n(7) The competent regulator shall publish notice of a decision\ngiven under this article and shall state from where copies of, or\ninformation regarding the decision, may be obtained.\nIssue of a\ncompliance order.\nAdded by:\nXXXV. 2016.13.\nAmended by:\nXVII.2023.44.",
+      "metadata": {
+        "source_line_start": 1276,
+        "source_line_end": 1351
+      }
+    },
+    {
+      "provision_ref": "s24b",
+      "section": "24B",
+      "title": "XVII.2023.44",
+      "content": "(1) Where the competent regulator feels it is reasonably\nappropriate or necessary for the protection of consumers, it may\nissue a compliance order against a service provider or any other\nperson for one or more of the following purposes:\n(a) requiring any person to take any measures specified in\nthe compliance order, within the time specified in the\norder to ensure that the provisions of the Act and, or of\nthe Regulation are complied with; or\n(b) requiring any person to cease and desist from\ncommitting a breach of the Act and, or of the\nRegulation.\n(2) The competent regulator shall when issuing a compliance\norder under this article:\n(a) notify a copy of the compliance order on each person\nagainst whom the order is made;\n(b) include with the compliance order, information about\nthe right to contest the order before the Tribunal; and\n(c) briefly state the reasons for issuing the compliance\norder, which reasons shall be notified to each person\nagainst whom the order is issued and, if any, to the\nqualifying body on whose application the order is\nissued.\n(3) No precautionary warrant or other similar order under this\nor any other law shall be issued by the Tribunal or by any court\nrestraining or restricting the competent regulator from issuing a\ncompliance order under this Act.\n(4) A compliance order issued by the competent regulator shall\ncome into force with immediate effect, unless the order provides\notherwise.\n\nApplication for the\nissue of a\ncompliance order.\nAdded by:\nXXXV. 2016.13.",
+      "metadata": {
+        "source_line_start": 1352,
+        "source_line_end": 1387
+      }
+    },
+    {
+      "provision_ref": "s24c",
+      "section": "24C",
+      "title": "XXXV. 2016.13",
+      "content": "Repealed by Act XVII.2023.45.\n\nDiscretion of the\ncompetent\nregulator to issue a\ncompliance order.\nAdded by:\nXXXV. 2016.13.",
+      "metadata": {
+        "source_line_start": 1388,
+        "source_line_end": 1396
+      }
+    },
+    {
+      "provision_ref": "s24d",
+      "section": "24D",
+      "title": "XXXV. 2016.13",
+      "content": "Repealed by Act XVII.2023.45.",
+      "metadata": {
+        "source_line_start": 1397,
+        "source_line_end": 1403
+      }
+    },
+    {
+      "provision_ref": "s24e",
+      "section": "24E",
+      "title": "Section 24E",
+      "content": "(1) A person against whom a compliance order has been\nmade, may, within twenty days from receipt of notification of the\ncompliance order, appeal in writing to the Tribunal for the\nrevocation or amendment of the compliance order, giving detailed\ngrounds for the request. The competent regulator shall be notified\nwith the appeal and shall have twenty (20) days from the date when it\nis notified with the appeal in which to reply.\n\nAppeals from a\ncompliance order.\nAdded by:\nXXXV. 2016.13.\nAmended by:\nXVII.2023.46.\n\n(2) The Tribunal may confirm, change or cancel the\ncompliance order as it considers appropriate, provided that in doing\nso the Tribunal shall in all instances state its reasons.\n(3) Where an appeal is instituted under this article the\ncompliance order shall remain in force unless the Tribunal, at the\nrequest of the party contesting the order, specifically orders that the\ncompliance order shall be suspended pending the outcome of the\nappeal, subject to such conditions and amendments to the order as\nthe Tribunal may determine:\nProvided that in deciding any such request for a suspension\nof the compliance order, the Tribunal shall give its reason in\nwriting for its decision.",
+      "metadata": {
+        "source_line_start": 1404,
+        "source_line_end": 1432
+      }
+    },
+    {
+      "provision_ref": "s24f",
+      "section": "24F",
+      "title": "writing for its decision",
+      "content": "(1) Appeals instituted under article 24E shall be heard and\ndetermined by the Tribunal with urgency and as expeditiously as\npossible.\n(2) The Tribunal, at the request of any of the parties to the\nproceedings before it, may abridge any time limits established\nunder this Act in relation to the conduct of the appeal before it:\n\nCases to be heard\nand determined\nwith urgency.\nAdded by:\nXXXV. 2016.13.\nAmended by:\nXVII.2023.47.\n\nProvided that in doing so the Tribunal shall state its reasons\nin writing.",
+      "metadata": {
+        "source_line_start": 1433,
+        "source_line_end": 1449
+      }
+    },
+    {
+      "provision_ref": "s24g",
+      "section": "24G",
+      "title": "in writing",
+      "content": "The competent regulator when issuing a compliance order\nunder the Act shall not be required to prove:\n(a) actual loss or damage; or\n\nNo need to prove\nactual loss.\nAdded by:\nXXXV. 2016.13.\n\n(b) actual recklessness, negligence or fault on the part of\nthe service provider or person against whom the order\nis made.",
+      "metadata": {
+        "source_line_start": 1450,
+        "source_line_end": 1461
+      }
+    },
+    {
+      "provision_ref": "s24h",
+      "section": "24H",
+      "title": "is made",
+      "content": "(1) Without prejudice to any other powers it has at law, the\ncompetent regulator may, in writing, order any person to cease and\ndesist from committing any cross-border infringement and, or from\nacting in breach of any of the provisions of the Act, and, or of the\nRegulation.\n(2) The competent regulator may, in issuing an order under\nsub-article (1) require the person concerned to provide it with a\nwritten undertaking whereby that person agrees to cease and desist\nfrom any such breach and which undertaking shall include any\nconditions as the competent regulator may consider necessary in\nthe circumstances.\n(3) A person who makes an undertaking in accordance with this\narticle and who subsequently acts in breach of any conditions stated\nin the undertaking, shall be liable to the imposition of an\nadministrative fine by the competent regulator not exceeding the\n\nTaking of other\nmeasures to ensure\ncompliance.\nAdded by:\nXXXV. 2016.13.\n\nsum of twenty-five thousand euro (€25,000) and, or five hundred\neuro (€500) for each day during which the failure to comply with\nthe undertaking persists:\nProvided that the imposition of a fine under this sub-article\nshall be without prejudice to any other sanctions however so\ndescribed that the competent regulator may impose at law.\nCompetent\nregulator may\nrequire\npublication.\nAdded by:\nXXXV. 2016.13.",
+      "metadata": {
+        "source_line_start": 1462,
+        "source_line_end": 1503
+      }
+    },
+    {
+      "provision_ref": "s24i",
+      "section": "24I",
+      "title": "XXXV. 2016.13",
+      "content": "(1) The competent regulator may, for the better\ninformation of the public, require the service provider or person\nagainst whom the compliance order has been issued, at the expense\nof the latter to communicate in any manner the competent regulator\nconsiders appropriate, including publication in at least two daily\nnewspapers:\n(a) a copy in full or in part (i)\n\nof a compliance order made under article 24B;\nand, or\n(ii) a copy of an undertaking given under article 24H\nor an abstract of any such order and, or of any\nsuch undertaking; and, or\n(b) a corrective statement in relation to any contravention\nof the Act and, or of the Regulation.\n(2) Any communications required in terms of sub-article (1)\nmust be made within seven days from receipt of a notice issued by\nthe competent regulator requiring the service provider or person\nconcerned to make any such communications. Where the said\ncommunications are not effected as aforesaid, the competent\nregulator may proceed to issue the communications itself and any\nexpenses incurred by the competent regulator in issuing any\ncommunications made by it in accordance with the provisions of\nthis article shall be recoverable as a civil debt from the person\nagainst whom the compliance order was issued.\nRight of appeal.\nAdded by:\nXXXV. 2016.13.\nAmended by:\nXVII.2023.48.",
+      "metadata": {
+        "source_line_start": 1504,
+        "source_line_end": 1534
+      }
+    },
+    {
+      "provision_ref": "s24j",
+      "section": "24J",
+      "title": "Right of appeal",
+      "content": "Any person aggrieved by a decision however so described\ntaken by the competent regulator in accordance with the Act and\nhaving a legal interest to contest such a decision, may appeal to the\nTribunal:\nProvided that in the case of a contestation of any matter\nrelating to the issue of a compliance order as provided for in this\nAct, the procedures as stated in article 24E shall apply.\n\nConsultation with\nand by other\nenforcement\nauthorities.\nAdded by:\nXXXV. 2016.13.",
+      "metadata": {
+        "source_line_start": 1535,
+        "source_line_end": 1549
+      }
+    },
+    {
+      "provision_ref": "s24k",
+      "section": "24K",
+      "title": "Act, the procedures as stated in article 24E shall apply",
+      "content": "(1) The competent regulator may request the advice of\nand where appropriate shall consult with any other enforcement\nauthority in the exercise of any of its functions under the Act and,\nor the Regulation.\n(2) In acting in accordance with any of the provisions of this\nAct, an enforcement authority shall, in all instances, first consult\nand act in co-ordination with the competent regulator.",
+      "metadata": {
+        "source_line_start": 1550,
+        "source_line_end": 1562
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "and act in co-ordination with the competent regulator",
+      "content": "(1) The Minister may make regulations to provide for any\nmatter related to electronic commerce however so described,\nelectronic identification, trust services, electronic transactions, and\nany such other matters as may be complementary or related thereto,\nin order to give fuller effect to the provisions of this Act, and in\nparticular, but without prejudice to the generality of the aforesaid,\nsuch regulations may provide for (a) any derogation from or restriction in relation to any\ncross-border transaction where this is necessary for\none of the following reasons (i)\n\npublic policy, in particular the protection of\nminors, or the fight against any incitement to\nhatred on grounds of race, sex, religion, political\nopinion or nationality;\n(ii) the protection of public health;\n(iii) public security;\n(iv) consumer protection;\n(b) identifying:\n(i) transactions;\n(ii) requirements or permissions to give information\nin writing;\n(iii) requirements or permissions to produce\ndocuments;\n(iv) requirements to retain information, documents\nand communications;\n(v) trust services;\nthat may be exempt from any provision of this Act;\n(c) (Deleted by Act XXXV. 2016.14.);\n(d) (Deleted by Act XXXV. 2016.14.);\n(e) any matter relating to commercial communications,\nincluding, but not limited to matters relating to:(i)\n\ninformation to be provided in commercial\ncommunications;\n(ii) unsolicited commercial communications;\n(iii) commercial communications by regulated\nprofessions;\n(f)\n\nthe authorisation to the competent regulator to impose\nadministrative fines or sanctions on any person acting\nin contravention of any provision of this Act or of any\nregulation made thereunder:\nProvided that (i) any administrative fine provided for by regulations\nmade under this article shall not exceed the amount\nof one hundred and twenty-five thousand euro\n(€125,000) for each breach and two thousand and\nfive hundred euro (€2,500) for each day during\nwhich failure to observe the provisions of any\nregulation made thereunder persists;\n\nPower to make\nregulations.\nAmended by:\nVII. 2004.51;\nXIII. 2005.75;\nL.N. 426 of 2007;\nXXXV. 2016.3, 14;\nXXXIII. 2021.22.\n\n(ii)\n\n(iv)\n\nregulations made under this paragraph may\nprescribe that any such administrative penalty or\nsanction shall be due to the competent regulator\nas a civil debt constituting an executive title for\nthe purposes of Title VII of Part I of Book\nSecond of the Code of Organization and Civil\nProcedure as if the payment of the amount of the\nfine had been ordered by a judgement of a court\nof civil jurisdiction;\nsuch regulations may also prescribe any right of\nappeal from decisions of the competent regulator\nto impose an administrative sanction;\n\n(g) procedures to be established for out of court schemes,\nfor the settlement of disputes arising in relation to\ninformation society services including appropriate\nelectronic measures;\n(h) the compliance with any international obligation\nentered into by Government in relation to any aspect\nof electronic commerce regulated by or under this Act;\n(i)\n\nthe definition of requirements and procedures for the\ndesignation of appropriate public or private bodies\nauthorised to assess the conformity of qualified\nelectronic signature creation devices and qualified\nelectronic seal creation devices with the requirements\nof the Regulation, as well as the designation itself of\nsuch bodies; and\n\n(j)\n\nany fees and, or charges, however so described, that\nmay be payable in relation to any matters regulated by\nor under this Act or by or under the Regulation.\n\n(2) The Minister may also by regulations amend the Schedules\nto this Act and prescribe anything that may or is required to be\nprescribed under this Act.\nEnglish text to\nprevail.",
+      "metadata": {
+        "source_line_start": 1563,
+        "source_line_end": 1678
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "prevail",
+      "content": "In the case of conflict between the Maltese and English\ntexts of this Act, the English text shall prevail.\n\nAmended by:\nVII. 2004.52;\nXXX. 2007.52;\nXXXV. 2016.16.\n\n(Article 11)\nInformation Requirements\nRelating to Electronic Contracts\n\n(a) the name and address where the service provider is established;\n(b) the electronic-mail address where the service provider can be contracted in a\ndirect manner;\n(c) the registration number of the service provider in any trade register or of any\nprofessional body if applicable;\n(d) where the activity of the service provider is subject to an authorisation, the\nactivities covered by the authorisation granted to the service provider and the\nparticulars of the authority providing such authorisation;\n(e) the Value Added Tax (VAT) registration number of the service provider where\nthe service provider undertakes an activity that is subject to VAT;\n(f)\n\nthe different steps to follow to conclude the contract;\n\n(g) the technical means for identifying and correcting input errors prior to the\nplacing of the order;\n(h) the language or languages in which the contract may be concluded;\n(i)\n\na statement of whether the concluded contract will be filed by the service\nprovider and whether it will be accessible;\n\n(j)\n\nin relation to a regulated profession:\n-\n\nany professional body or similar institution with which the service\nprovider is registered,\n\n-\n\nthe professional title and the Member State where it has been granted,\nand\n\n-\n\na reference to the applicable professional rules in the Member State of\nestablishment and the means to access them.\n\n(Article 2)\nRequirements for Qualified Certificates\n(Deleted by Act XXXV. 2016.17.).\n\n(Article 2)\nRequirements for Signature Certification Service\nProviders Issuing Qualified Certificates\n(Deleted by Act XXXV. 2016.17.).\n\n(Article 2)\nRequirements for Secure Signature-Creation Devices\n(Deleted by Act XXXV. 2016.17.).\n\nAdded by:\nVII. 2004.53.\n(Article 4)\nAmended by:\nXXX. 2007.55;\nActivities or areas listed in accordance with article 4 XXXIII. 2021.23.\n\n(a)\n\nthe field of taxation;\n\n(b) matters in relation to information society services covered by any laws relating\nto data protection and, or privacy;\n(c) questions in relation to agreements or practices governed by competition\nlaw; and\n(d)\n\nthe following activities of information society services:\n(i)\n\nthe representation of a client and defence of his interests before the\ncourts,\n\n(ii) gambling activities which involve wagering a stake with monetary value\nin games of chance, including lotteries and betting transactions.\n\nAdded by:\nXXXV. 2016.18.\n\n(Article 2)\nDesignation of competent regulator in accordance\nwith article 2\n\nIn accordance with the provisions of article 2 within the context of the definition\n\"competent regulator\", the following public authority is being designated as the\ncompetent regulator for all the purposes of the Act and of the Regulation:\nThe Malta Communications Authority:\nProvided that unless stated otherwise in the Malta Communications Authority Act\n(Cap. 418), the provisions of Part VI entitled \"Enforcement and Sanctions\" of that\nAct shall apply in relation to the exercise by the Malta Communications Authority of\nany of its regulatory functions as the competent regulator, in particular where the\nMalta Communications Authority as the competent regulator considers that a breach\nof the Act or of the Regulation may be liable to the imposition of a sanction as\nprovided for in article 31 of the Malta Communications Authority Act (Cap. 418).\n\nAdded by:\nXXXV. 2016.18.\n\n(Article 8A)\nFields excluded in accordance with article 8A(4)",
+      "metadata": {
+        "source_line_start": 1679,
+        "source_line_end": 1843
+      }
     }
   ],
   "definitions": [
     {
-      "term": "information society service",
-      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
-      "source_provision": "art1"
+      "term": "the Act",
+      "definition": "the Electronic Commerce Act and includes,",
+      "source_provision": "s2"
     },
     {
-      "term": "service provider",
-      "definition": "Any natural or legal person providing an information society service.",
-      "source_provision": "art1"
+      "term": "certificate",
+      "definition": "any one of the following:",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate service provider",
+      "definition": "the trust service provider that",
+      "source_provision": "s2"
     },
     {
       "term": "commercial communication",
-      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity or exercising a regulated profession.",
-      "source_provision": "art1"
+      "definition": "any form of communication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent regulator",
+      "definition": "any such public body as may be",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "any natural person who is acting for purposes",
+      "source_provision": "s2"
     },
     {
       "term": "coordinated field",
-      "definition": "Requirements laid down in Member States' legal systems applicable to information society service providers or information society services, regardless of whether they are of a general nature or specifically designed for them.",
-      "source_provision": "art2"
+      "definition": "requirements applicable to",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data",
+      "definition": "a representation of information, knowledge, facts,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data storage device",
+      "definition": "any thing, including a disk, from",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic communication",
+      "definition": "information generated,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic contract",
+      "definition": "a contract concluded wholly or",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Electronic Commerce Directive",
+      "definition": "Directive 2000/31/EC",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enforcement action",
+      "definition": "any form of enforcement action,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enforcement authority",
+      "definition": "any public entity which at law is",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information society service",
+      "definition": "any service which is",
+      "source_provision": "s2"
+    },
+    {
+      "term": "at a distance",
+      "definition": "that the service is provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "by electronic means",
+      "definition": "that the service is sent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "at the individual request of a recipient of the service",
+      "definition": "that the service is provided through the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information system",
+      "definition": "a system for generating, sending,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member State",
+      "definition": "a Member State of the European Union",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for communications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations made by the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recipient of the service",
+      "definition": "any person w ho uses an",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated profession",
+      "definition": "any profession within the meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulation",
+      "definition": "Regulation number 910/2014 of the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service provider",
+      "definition": "any person established in Malta",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Union",
+      "definition": "the European Union",
+      "source_provision": "s2"
+    },
+    {
+      "term": "by electronic",
+      "definition": "and at the individual",
+      "source_provision": "s2"
+    },
+    {
+      "term": "by optical",
+      "definition": "or by any electromagnetic means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "philanthropic or similar institution",
+      "definition": "a place where any operations or activities are",
+      "source_provision": "s2"
+    },
+    {
+      "term": "shall be deemed to have been satisfied if the person gives the information by",
+      "definition": "of an electronic communication:",
+      "source_provision": "s5"
+    },
+    {
+      "term": "consents to the information being given by",
+      "definition": "of an electronic",
+      "source_provision": "s5"
+    },
+    {
+      "term": "the method of generating the electronic form of the document provided a reliable",
+      "definition": "of assuring the maintenance of the",
+      "source_provision": "s7"
+    },
+    {
+      "term": "consents to the production by",
+      "definition": "of an electronic communication of",
+      "source_provision": "s7"
+    },
+    {
+      "term": "the production by",
+      "definition": "of an electronic communication of an electronic form of a",
+      "source_provision": "s7"
+    },
+    {
+      "term": "the method of retaining the information in electronic form provided a reliable",
+      "definition": "of assuring",
+      "source_provision": "s8"
+    },
+    {
+      "term": "to the applicable professional rules in the Member State of establishment and the",
+      "definition": "to access them",
+      "source_provision": "s8c"
+    },
+    {
+      "term": "be communicated by",
+      "definition": "of electronic",
+      "source_provision": "s9"
+    },
+    {
+      "term": "provide the recipient of the service with effective and accessible technical",
+      "definition": "to identify and correct",
+      "source_provision": "s10"
+    },
+    {
+      "term": "an investigation in accordance with this article where it is satisfied that other",
+      "definition": "of resolving the dispute in a timely",
+      "source_provision": "s24a"
+    },
+    {
+      "term": "the technical",
+      "definition": "for identifying and correcting input errors prior to the",
+      "source_provision": "s26"
+    },
+    {
+      "term": "to the applicable professional rules in the Member State of establishment and the",
+      "definition": "to access them",
+      "source_provision": "s26"
     }
   ]
 }
