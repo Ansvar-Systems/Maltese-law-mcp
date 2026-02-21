@@ -1,0 +1,127 @@
+{
+  "id": "mt-technology-services",
+  "type": "statute",
+  "title": "Technology Arrangements and Services Act (Cap. 592)",
+  "title_en": "Technology Arrangements and Services Act",
+  "short_name": "TASA",
+  "status": "in_force",
+  "issued_date": "2018-11-01",
+  "in_force_date": "2018-11-01",
+  "url": "https://legislation.mt/eli/cap/592/eng/pdf",
+  "description": "The Technology Arrangements and Services Act (Cap. 592) constitutes the third element of Malta's 'blockchain triptych' legislation and establishes the regulatory framework for technology service providers operating in relation to innovative technology arrangements. It works in conjunction with the Malta Digital Innovation Authority Act (Cap. 591) and the Virtual Financial Assets Act (Cap. 590), establishing categories of technology service providers, their licensing or registration requirements, and applicable conduct standards. The Act has been progressively aligned with applicable EU law including the Digital Operational Resilience Act (DORA) and the Cyber Resilience Act.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Scope and Purpose",
+      "content": "This Act establishes the regulatory framework for technology service providers offering services in relation to innovative technology arrangements, including distributed ledger technology-based services, smart contract-related services, and associated technology infrastructure services. The Act aims to foster the responsible development and deployment of technology services in Malta, to protect users of technology services, and to promote Malta as a jurisdiction for innovative technology activities conducted in accordance with high regulatory standards. This Act applies in conjunction with applicable EU law including Regulation (EU) 2022/2554 (DORA) in the financial services sector and Regulation (EU) 2024/2847 (Cyber Resilience Act) for ICT products and services."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Technology Service Providers",
+      "content": "For the purposes of this Act, technology service providers include: technology exchanges providing services enabling the exchange or trading of virtual financial assets or other digital assets; VFA wallet services providing software-based services for the secure storage and management of cryptographic keys and digital assets; portfolio management services for virtual financial assets; payment services facilitated through innovative technology arrangements; investment advice services relating to virtual financial assets; and other categories of technology service specified by the Minister responsible for innovation by regulation. Technology service providers offering services within the scope of this Act shall obtain the applicable authorisation or registration prior to commencing operations."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Authorisation Requirements",
+      "content": "Technology service providers shall obtain the appropriate authorisation from the competent authority before commencing the provision of technology services covered by this Act. Applications for authorisation shall include information on the legal form and registered office of the applicant, the identity and fitness and propriety of directors, shareholders, and senior managers, the proposed services to be provided and the business plan, the financial resources available and arrangements for the safeguarding of client assets, the technology infrastructure and security arrangements, and the compliance framework. The competent authority shall process applications within a specified timeframe and shall grant authorisation where the applicable requirements are satisfied."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Ongoing Obligations",
+      "content": "Authorised technology service providers shall at all times maintain the conditions required for authorisation, including the minimum financial resources, governance arrangements, technology infrastructure standards, and compliance framework. Technology service providers shall notify the competent authority without undue delay of any material change to the information provided in their application for authorisation, including changes in the composition of the board or senior management, significant changes to the services offered, or changes to the technology infrastructure underlying their services. Failure to maintain applicable conditions or to notify the competent authority of material changes shall constitute grounds for suspension or withdrawal of authorisation."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Technology Infrastructure Requirements",
+      "content": "Technology service providers shall implement and maintain technology infrastructure that meets applicable security, resilience, and performance standards. Technology infrastructure requirements include the use of systems and networks meeting applicable security standards, the implementation of access controls and encryption, business continuity and disaster recovery capabilities, capacity management, and regular security testing including penetration testing. Technology service providers shall document their technology risk management framework and shall conduct regular assessments of technology risks. The competent authority shall issue technical standards for technology infrastructure applicable to technology service providers, aligned with relevant Union standards."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Smart Contracts",
+      "content": "Technology service providers utilising smart contracts in the provision of their services shall ensure that smart contracts meet applicable technical standards for security, functionality, and transparency. Smart contracts shall be audited by qualified technical experts prior to deployment and following significant modifications, and audit reports shall be made available to the competent authority upon request. Smart contracts operating in critical applications shall implement mechanisms for governance, including administrative rights enabling authorised modifications or deactivation where necessary to address security vulnerabilities or regulatory compliance requirements. The MDIA may certify smart contracts meeting specified technical and governance requirements."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Conduct of Business Obligations",
+      "content": "Technology service providers shall conduct their business honestly, fairly, and transparently and shall act in the best interests of their clients. Providers shall disclose to clients all material information relevant to the services offered, including risks, fees, and any conflicts of interest. Providers shall implement effective client on-boarding procedures including applicable identity verification, suitability assessment, and anti-money laundering checks. Client assets shall be segregated from the provider's own assets and held in accordance with applicable safeguarding requirements. Technology service providers shall maintain adequate records of all transactions and client interactions and shall provide clients with clear and timely information on the status of their accounts and transactions."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Incident Management",
+      "content": "Technology service providers shall implement robust incident management capabilities enabling them to detect, respond to, and recover from operational incidents and cybersecurity events affecting their services. Providers shall maintain documented incident response plans covering triage and classification of incidents, internal escalation and communication, notification of affected clients and the competent authority, and post-incident review. Material incidents shall be notified to the competent authority within the timeframe specified by applicable regulation, and detailed post-incident reports shall be submitted within a specified period following resolution. The competent authority shall maintain an aggregate view of incidents affecting technology service providers and shall coordinate with MITA on incidents with cybersecurity dimensions."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Third-Party Risk Management",
+      "content": "Technology service providers shall manage risks arising from their use of third-party services, including cloud computing services, software development services, and infrastructure services, in accordance with applicable requirements. The competent authority may require technology service providers to notify it of material arrangements with third-party service providers and to demonstrate that applicable due diligence and contractual protections are in place. Technology service providers shall maintain and regularly test exit strategies enabling them to switch third-party service providers or to bring services in-house in the event of a third-party failure or unacceptable deterioration in service quality. Third-party service providers that are critical to the operation of technology service providers shall be subject to enhanced oversight requirements."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Operational Resilience",
+      "content": "Technology service providers shall implement an operational resilience framework ensuring that they can withstand, respond to, and recover from all types of disruption and ensure the continuity of their critical services. Operational resilience requirements include testing of critical systems and services, scenario-based resilience assessments, recovery time and recovery point objective targets for critical services, and cross-entity coordination arrangements. The competent authority shall conduct resilience assessments of technology service providers and may participate in sector-wide resilience exercises coordinated with other regulatory authorities. The operational resilience framework shall be aligned with the requirements of Regulation (EU) 2022/2554 (DORA) to the extent applicable to technology service providers subject to that Regulation."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Supervision and Examination",
+      "content": "The competent authority shall supervise technology service providers on an ongoing basis, including through the review of regular supervisory reports, on-site examinations of providers' systems and records, and thematic reviews of specific risk areas or regulatory requirements. Supervisory examinations shall assess the adequacy of governance arrangements, technology infrastructure, risk management, compliance frameworks, and financial resources. The competent authority shall have the power to require technology service providers to provide any information needed for supervisory purposes, to require independent audits of technology systems, and to require providers to engage external experts to assess specific aspects of their operations. Examination findings shall be communicated to the management of the provider and shall be followed up to verify that deficiencies are addressed."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Cross-Border Provision of Services",
+      "content": "Technology service providers authorised under this Act may provide services cross-border to recipients in other jurisdictions subject to compliance with applicable law in those jurisdictions and with any applicable Union law provisions. Where technology service providers provide services in other EU Member States, they shall comply with applicable Union law requirements, including MiCA requirements for crypto-asset service providers and DORA requirements for ICT third-party service providers in the financial sector. The competent authority shall cooperate with the supervisory authorities of other jurisdictions in the supervision of cross-border technology services and shall participate in applicable international supervisory cooperation frameworks."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Enforcement Powers",
+      "content": "The competent authority shall have enforcement powers enabling it to take effective action against technology service providers that breach applicable requirements. Enforcement powers include the power to issue warnings and reprimands, to require technology service providers to take specified remedial action, to suspend or restrict the provision of services, to withdraw authorisation, and to impose administrative fines proportionate to the gravity of the infringement. The competent authority shall publish a statement of its enforcement policy specifying the factors taken into account in determining the appropriate enforcement response. Enforcement decisions shall be proportionate and shall take into account the impact on clients and on financial stability."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Consumer Disputes",
+      "content": "Technology service providers shall implement accessible and effective complaints handling procedures enabling clients to submit complaints and receive responses within specified timeframes. Providers shall participate in any alternative dispute resolution scheme designated by the competent authority for the resolution of disputes between technology service providers and their clients. Where a dispute cannot be resolved through the provider's internal complaints process or through alternative dispute resolution, clients may pursue their claims through the competent courts. The competent authority shall monitor complaints data and dispute resolution outcomes and shall use this information to identify systemic issues and inform its supervisory priorities."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Regulatory Cooperation",
+      "content": "The competent authority shall cooperate with the Malta Financial Services Authority, MDIA, MITA, the Malta Communications Authority, and the Information and Data Protection Commissioner in the supervision of technology service providers and the development of consistent regulatory standards. Memoranda of understanding shall be maintained between the competent authority and other regulatory bodies specifying cooperation arrangements, including information sharing, joint investigations, and supervisory colleges for significant cross-sector providers. The competent authority shall contribute to Union-level regulatory developments relating to technology services and shall participate in relevant ESMA, EBA, and EIOPA working groups as appropriate."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Regulatory Technology",
+      "content": "The competent authority shall promote the use of regulatory technology (RegTech) to improve the efficiency and effectiveness of regulatory compliance by technology service providers and to enhance the competent authority's own supervisory capabilities. Technology service providers are encouraged to use automated compliance monitoring, smart contract-based regulatory reporting, and other innovative approaches to demonstrating compliance with applicable requirements. The competent authority shall engage with technology service providers and technology developers to understand emerging RegTech solutions and to assess their suitability for integration into the regulatory framework. Malta shall participate in relevant Union-level initiatives on supervisory technology and regulatory technology."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "technology service provider",
+      "definition": "A natural or legal person providing technology services in relation to innovative technology arrangements, including technology exchanges, VFA wallet services, portfolio management services, and other specified categories of technology service.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "smart contract",
+      "definition": "A computer programme or transaction protocol stored on a distributed ledger that automatically executes, controls, or documents legally relevant events and actions according to the terms of a contract or agreement.",
+      "source_provision": "art6"
+    },
+    {
+      "term": "operational resilience",
+      "definition": "The ability of a technology service provider to build, assure, and review its operational integrity and reliability by ensuring that all disruptions to the continuity of critical services are prevented, responded to, and recovered from, through the deployment of appropriate ICT capabilities.",
+      "source_provision": "art10"
+    }
+  ]
+}

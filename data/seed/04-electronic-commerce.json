@@ -1,0 +1,132 @@
+{
+  "id": "mt-electronic-commerce",
+  "type": "statute",
+  "title": "Electronic Commerce Act (Cap. 426)",
+  "title_en": "Electronic Commerce Act",
+  "short_name": "ECA",
+  "status": "amended",
+  "issued_date": "2002-06-04",
+  "in_force_date": "2002-06-04",
+  "url": "https://legislation.mt/eli/cap/426/eng/pdf",
+  "description": "The Electronic Commerce Act (Cap. 426) establishes the legal framework for electronic commerce in Malta, transposing Directive 2000/31/EC (E-Commerce Directive). It governs information society services, including requirements for commercial communications, online contract formation, and liability exemptions for intermediary service providers. The Act ensures that information society services can be provided freely from Malta to other EU Member States, and vice versa, while maintaining applicable national consumer protection requirements.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Interpretation",
+      "content": "In this Act, 'information society service' means any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; 'service provider' means any natural or legal person providing an information society service; 'established service provider' means a service provider effectively pursuing an economic activity using a fixed establishment for an indefinite period and actually established in Malta; 'recipient of the service' means any natural or legal person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible; 'commercial communication' means any form of communication designed to promote, directly or indirectly, the goods, services or image of a company, organisation or person pursuing a commercial, industrial or craft activity or exercising a regulated profession."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Scope of Application",
+      "content": "This Act applies to information society services provided by service providers established in Malta, and to the activities of service providers established in other Member States insofar as those activities are directed at recipients in Malta and are not covered by the internal market clause applicable in the country of establishment. This Act does not apply to the following fields: the field of taxation; questions relating to information society services covered by Directive 95/46/EC on data protection; questions relating to agreements or practices governed by cartel law; activities of notaries or equivalent professions to the extent that they involve a direct and specific connection with the exercise of public authority; and the representation of a client and defence of his interests before the courts."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Country of Origin Principle",
+      "content": "Service providers established in Malta shall comply with the national provisions applicable in Malta that fall within the coordinated field, and shall be free to provide information society services in other Member States without being required to comply with national law requirements of those Member States within the coordinated field. Restrictions on the free movement of services may be imposed by other Member States in relation to a specific information society service only in derogation from this principle and where justified by reasons of public policy, public health, or consumer protection, subject to proportionality requirements and prior notification to the European Commission."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. General Information Requirements",
+      "content": "Service providers shall ensure that recipients of the service and competent authorities can easily, directly, and permanently access at least the following information: the name of the service provider; the geographic address at which the service provider is established; the details of the service provider, including the provider's electronic mail address; where the service provider is registered in a trade or similar public register, the trade register in which the service provider is entered and its registration number or equivalent means of identification; where an activity is subject to an authorisation scheme, the particulars of the relevant supervisory authority; and any applicable professional title, the Member State where it was granted, a reference to the professional rules applicable, and means to access them."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Commercial Communications",
+      "content": "Commercial communications which are part of or constitute an information society service shall comply with the following conditions: the commercial communication shall be clearly identifiable as such; the natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable; promotional offers shall be clearly identifiable as such, and the conditions which must be met to qualify for them shall be easily accessible and presented clearly and unambiguously; promotional competitions or games shall be clearly identifiable as such, and the conditions for participation shall be easily accessible and presented clearly and unambiguously. Unsolicited commercial communications by electronic mail shall be identifiable as such clearly and unambiguously as soon as they are received."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Contracts Concluded by Electronic Means",
+      "content": "Service providers shall ensure that contracts concluded by electronic means can be stored and reproduced. Service providers shall, prior to the placing of an order, provide information to the recipient of the service at least covering the technical steps necessary to conclude the contract, whether the concluded contract will be filed by the service provider and whether it will be accessible, the technical means for identifying and correcting input errors prior to the placing of the order, and the languages offered for conclusion of the contract. Service providers shall without undue delay and by electronic means acknowledge the receipt of the order from the recipient of the service. Contractual terms and general conditions provided to the recipient must be provided in a way that allows him to store and reproduce them."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Liability of Intermediary Service Providers — Mere Conduit",
+      "content": "A service provider that transmits information in a communication network, or that provides access to a communication network, shall not be liable for the information transmitted where the service provider did not initiate the transmission, did not select the receiver of the transmission, and did not select or modify the information contained in the transmission. The acts of transmission and of provision of access referred to in this Article include the automatic, intermediate, and transient storage of the information transmitted, insofar as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Liability of Intermediary Service Providers — Caching",
+      "content": "A service provider that transmits information provided by a recipient of the service over a communication network and stores that information automatically, intermediately, and temporarily for the sole purpose of making more efficient the information's onward transmission to other recipients of the service upon their request, shall not be liable for the automatic, intermediate, and temporary storage of that information where the service provider does not modify the information, complies with conditions on access to the information, complies with rules regarding the updating of the information, does not interfere with the lawful use of technology used to obtain data on the use of the information, and acts expeditiously to remove or disable access to stored information upon actual knowledge that the information at the initial source of transmission has been removed from the network or access to it has been disabled."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Liability of Intermediary Service Providers — Hosting",
+      "content": "A service provider that stores information provided by a recipient of the service shall not be liable for the information stored at the request of a recipient of the service where the service provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent, or where the service provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information. This provision does not apply where the recipient of the service is acting under the authority or the control of the service provider. This Article shall not affect the possibility for a court or administrative authority to require the service provider to terminate or prevent an infringement."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. No General Monitoring Obligation",
+      "content": "Service providers shall not be subject to a general obligation to monitor the information which they transmit or store, nor to actively seek facts or circumstances indicating illegal activity. Member States may establish obligations for information society service providers to inform the competent authorities of alleged illegal activities undertaken or information provided by recipients of their service, or obligations to communicate to the competent authorities, at their request, information enabling the identification of recipients of their service with whom they have storage agreements."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Codes of Conduct",
+      "content": "The responsible minister shall encourage the drawing up of codes of conduct at Union and national level by trade associations, professional bodies, and consumer organisations, in order to contribute to the proper application of this Act. The minister shall encourage trade associations and professional bodies, when drawing up codes of conduct, to consult with consumer organisations and associations representing service users. The minister shall encourage service providers and recipients of services to assess the codes of conduct of their associations and, where appropriate, to comply with applicable codes. Codes of conduct shall be notified to the European Commission to enable their dissemination and accessibility to users throughout the Union."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Out-of-Court Dispute Settlement",
+      "content": "The minister shall ensure that, in case of disagreement between an information society service provider and the recipient of the service, adequate and effective out-of-court schemes for dispute settlement are available under applicable law. The minister shall encourage bodies responsible for out-of-court dispute settlement to inform the Commission of significant decisions taken and any other information on practices, usages, or customs relating to electronic commerce. The availability of out-of-court dispute resolution mechanisms shall complement and not replace the right of parties to pursue their claims through the courts. Service providers shall inform recipients of the service of the out-of-court settlement bodies whose jurisdiction they accept."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Regulated Professions",
+      "content": "Service providers pursuing activities in regulated professions may provide information society services subject to compliance with applicable professional rules, including rules on the independence, dignity, and discretion of the profession, professional secrecy, and fairness towards clients and other members of the profession. Professional associations and bodies shall encourage their members, when providing information society services, to comply with applicable codes of conduct. Professional associations shall inform the Commission of applicable professional rules which might restrict the freedom to provide information society services and shall assess the necessity and proportionality of such rules in the light of the objectives pursued."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Electronic Contracts and Formalities",
+      "content": "Malta shall ensure that the legal system allows contracts to be concluded by electronic means, and shall ensure that the legal requirements applicable to the contractual process neither create obstacles for the use of electronic contracts nor result in such contracts being deprived of legal effectiveness and validity on account of their having been made by electronic means. This requirement shall not apply to contracts that require the involvement of courts, public authorities or professions exercising public authority, contracts of suretyship granted by persons acting for purposes outside their trade, business, or profession, or contracts in the field of family law or the law of succession."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Administrative Cooperation",
+      "content": "The Malta Communications Authority, as the authority responsible for administering this Act, shall cooperate with supervisory authorities in other Member States and with the European Commission in matters relating to the cross-border provision of information society services, including the exchange of information on service providers, the provision of mutual assistance, and the coordination of enforcement action in relation to cross-border infringements. The MCA shall participate in applicable Union-level coordination networks and shall notify the Commission of contact points for the purposes of administrative cooperation in the information society services sector."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Relationship with Digital Services Act",
+      "content": "This Act applies without prejudice to Regulation (EU) 2022/2065 (Digital Services Act), which directly applies in Malta and establishes harmonised rules for providers of intermediary services, including obligations for hosting service providers, online platforms, and very large online platforms and search engines. Where the Digital Services Act imposes obligations that are more specific than or supplement those established by this Act, the provisions of the Digital Services Act shall take precedence. The Malta Communications Authority is designated as Malta's Digital Services Coordinator under the Digital Services Act and shall coordinate with the European Commission and other Member States' Digital Services Coordinators in the supervision and enforcement of the Digital Services Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "information society service",
+      "definition": "Any service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "service provider",
+      "definition": "Any natural or legal person providing an information society service.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "commercial communication",
+      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a company, organisation, or person pursuing a commercial, industrial, or craft activity or exercising a regulated profession.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "coordinated field",
+      "definition": "Requirements laid down in Member States' legal systems applicable to information society service providers or information society services, regardless of whether they are of a general nature or specifically designed for them.",
+      "source_provision": "art2"
+    }
+  ]
+}

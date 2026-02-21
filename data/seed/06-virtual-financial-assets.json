@@ -1,0 +1,132 @@
+{
+  "id": "mt-virtual-financial-assets",
+  "type": "statute",
+  "title": "Virtual Financial Assets Act (Cap. 590)",
+  "title_en": "Virtual Financial Assets Act",
+  "short_name": "VFA",
+  "status": "amended",
+  "issued_date": "2018-11-01",
+  "in_force_date": "2018-11-01",
+  "url": "https://legislation.mt/eli/cap/590/eng/pdf",
+  "description": "The Virtual Financial Assets Act (Cap. 590) established Malta's national regulatory framework for virtual financial assets and crypto-asset services, prior to the application of Regulation (EU) 2023/1114 (Markets in Crypto-Assets Regulation, MiCA). The Act designates the Malta Financial Services Authority (MFSA) as the competent authority, establishes registration and licence requirements for VFA agents and service providers, and sets out conduct of business, prudential, and governance requirements. The Act has been aligned with MiCA, which now provides the primary Union-wide framework.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Interpretation",
+      "content": "In this Act, 'virtual financial asset' or 'VFA' means any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not electronic money as defined under the Financial Institutions Act, not a financial instrument as defined under the Investment Services Act, and not a virtual token as defined herein; 'VFA agent' means a natural person or body corporate that is enrolled with MFSA and provides services in relation to an initial VFA offering or ongoing compliance with applicable requirements; 'VFA service provider' means a person who provides VFA services as defined in the Second Schedule to this Act on a professional basis; 'the Authority' means the Malta Financial Services Authority."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Scope and Application",
+      "content": "This Act applies to issuers of virtual financial assets that are established in Malta and issue VFAs to the public, to VFA agents enrolled with MFSA in terms of this Act, and to VFA service providers licensed under this Act. This Act applies without prejudice to Regulation (EU) 2023/1114 on markets in crypto-assets, which applies directly in Malta and provides the overarching Union framework for crypto-asset issuers and crypto-asset service providers. To the extent that the provisions of this Act are inconsistent with MiCA requirements, the requirements of MiCA shall prevail. The Authority shall apply this Act in a manner consistent with MiCA and with guidelines issued by the European Securities and Markets Authority."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Financial Instrument Test",
+      "content": "Prior to issuing a virtual financial asset or providing VFA services, issuers and service providers shall conduct and document a financial instrument test to determine the classification of the digital asset under applicable law. The financial instrument test shall determine whether the asset constitutes a financial instrument regulated under the Investment Services Act, electronic money regulated under the Financial Institutions Act, a virtual token which falls entirely outside regulated categories, or a virtual financial asset subject to this Act. The test shall be conducted by a VFA agent enrolled in terms of this Act and shall be submitted to MFSA for review. The Authority may issue guidance on the methodology and criteria applicable to the financial instrument test."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. VFA Agents",
+      "content": "Any person providing advisory or compliance services to issuers of virtual financial assets or VFA service providers in connection with their obligations under this Act or under MiCA shall be enrolled as a VFA agent in accordance with this Act. VFA agents shall be natural persons or bodies corporate that hold the qualifications, experience, and professional indemnity insurance specified by the Authority. VFA agents shall maintain their enrolment by meeting ongoing continuing professional development requirements and by complying with applicable conduct standards. MFSA shall maintain a public register of enrolled VFA agents and shall publish applicable enrolment requirements and conduct standards."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Licensing of VFA Service Providers",
+      "content": "Persons providing VFA services in or from Malta shall be licensed by MFSA under this Act, to the extent not directly licensed under Regulation (EU) 2023/1114 (MiCA). The licensing requirements shall include conditions relating to the legal form, registered office, and governance structure of the applicant; the fitness and propriety of directors, senior managers, and qualifying shareholders; the adequacy of financial resources; the soundness of operational arrangements, including information technology systems and security measures; arrangements for the safeguarding of client assets; and compliance with applicable anti-money laundering and counter-terrorism financing requirements. MFSA shall process licence applications within a specified timeframe and shall publish its licensing criteria and procedures."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Conduct of Business",
+      "content": "VFA service providers shall conduct their business honestly, fairly, and professionally in accordance with the best interests of their clients and the integrity of the VFA market. VFA service providers shall disclose to clients all material information relevant to their services, including risks associated with VFA investments; shall treat all clients fairly and without discrimination; shall implement conflicts of interest policies and disclose material conflicts to clients; shall maintain adequate records of client instructions and transactions; and shall comply with applicable best execution requirements in the execution of client orders. MFSA may issue conduct of business rules providing more detailed requirements applicable to VFA service providers."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Prudential Requirements",
+      "content": "VFA service providers shall at all times maintain the minimum initial capital and ongoing own funds specified by MFSA, having regard to the nature and scale of the services provided and the associated risks. VFA service providers shall implement risk management frameworks covering market risk, liquidity risk, operational risk, and any risks specific to VFA activities, and shall assess their capital adequacy in the light of identified risks. MFSA shall establish prudential requirements by regulation and shall keep these requirements under review in the light of market developments and applicable Union standards, including ESMA and EBA guidance on crypto-asset prudential requirements."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Safeguarding of Client Assets",
+      "content": "VFA service providers holding virtual financial assets on behalf of clients shall implement arrangements for the safeguarding of those assets, including by maintaining client assets separately from the provider's own assets and by holding client assets in regulated custodians or through equivalent safeguarding mechanisms. VFA service providers shall not use client assets for their own account without the explicit consent of the client concerned and shall maintain adequate records enabling the identification and attribution of client assets at all times. MFSA shall specify the safeguarding arrangements required of VFA service providers by regulation and may require providers to submit regular reports on their compliance with applicable safeguarding requirements."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Anti-Money Laundering",
+      "content": "VFA service providers are subject to the Prevention of Money Laundering Act and applicable regulations as 'subject persons' and shall implement all customer due diligence, transaction monitoring, and suspicious transaction reporting requirements applicable to them under that framework. VFA service providers shall also comply with the requirements of the Financial Intelligence Analysis Unit applicable to VFA activities, including requirements relating to the monitoring of transactions involving persons in high-risk jurisdictions or jurisdictions subject to applicable sanctions. MFSA shall cooperate with the Financial Intelligence Analysis Unit in the supervision of VFA service providers' compliance with anti-money laundering obligations."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Market Integrity",
+      "content": "VFA service providers and issuers shall not engage in or facilitate insider dealing, market manipulation, or other practices that undermine the integrity of the VFA market, consistent with the requirements established under MiCA and applicable conduct standards. Issuers of virtual financial assets shall maintain insider dealing policies and shall establish procedures to prevent and detect market manipulation. MFSA shall have the power to investigate suspected market integrity violations and to take enforcement action against issuers and service providers found to have engaged in or facilitated such violations. MFSA shall cooperate with ESMA and with the competent authorities of other Member States in the investigation of cross-border market integrity violations."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Supervision by MFSA",
+      "content": "MFSA shall supervise compliance by VFA agents, VFA service providers, and issuers of virtual financial assets with the requirements of this Act and applicable regulations. MFSA shall have the power to require any person subject to this Act to provide information, to carry out on-site inspections, to obtain copies of relevant records and systems, and to take evidence. MFSA shall cooperate with other domestic regulators, including MDIA, the Financial Intelligence Analysis Unit, and the Malta Police, in the supervision of VFA market participants. MFSA shall also cooperate with ESMA, EBA, and the competent authorities of other Member States in cross-border supervision matters."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Administrative Measures and Penalties",
+      "content": "MFSA may impose administrative measures and penalties on persons who fail to comply with applicable requirements, including suspension or revocation of licences or enrolments; prohibition on carrying out VFA activities; public statements identifying responsible persons and the nature of the infringement; and administrative fines proportionate to the gravity of the infringement. Before imposing an administrative measure or penalty, MFSA shall give the person concerned an adequate opportunity to make representations. Administrative measures and penalties shall be published by MFSA subject to applicable confidentiality requirements. Decisions of MFSA under this Act may be appealed to the Financial Services Tribunal."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Transition to MiCA",
+      "content": "As Regulation (EU) 2023/1114 (MiCA) has entered into application, VFA service providers licensed under this Act may continue to operate under their existing licences for a transitional period established by MiCA, after which they shall be required to obtain authorisation under MiCA. MFSA shall facilitate the transition of Maltese VFA service providers to the MiCA framework and shall provide guidance to providers on the steps required to obtain MiCA authorisation. Issuers of virtual financial assets that are categorised as asset-referenced tokens or e-money tokens under MiCA shall comply with the relevant MiCA requirements as of the applicable date and shall liaise with MFSA regarding any modifications required to their existing arrangements."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Consumer and Investor Protection",
+      "content": "MFSA shall maintain consumer and investor protection as central objectives in its supervision of the VFA market and shall ensure that applicable requirements provide adequate safeguards for persons investing in or using virtual financial asset services. VFA service providers shall implement complaint handling procedures enabling clients to submit complaints regarding the services received and shall participate in applicable dispute resolution schemes. MFSA shall publish guidance for consumers and investors on the characteristics and risks of virtual financial assets and on the regulatory protections available under this Act and applicable Union law."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. International Cooperation",
+      "content": "MFSA shall cooperate with competent authorities of third countries in matters relating to the regulation of virtual financial assets and crypto-asset services, subject to applicable confidentiality requirements and to the existence of equivalent data protection safeguards in the third country. International cooperation may include the exchange of supervisory information, the conduct of joint investigations, the provision of mutual assistance in enforcement proceedings, and the development of compatible regulatory frameworks. MFSA shall notify the European Commission and ESMA of significant international cooperation arrangements entered into and shall ensure that such arrangements are consistent with applicable Union law and international standards."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. White Paper Requirements",
+      "content": "Issuers of virtual financial assets who propose to offer their assets to the public shall, prior to the commencement of such an offer, publish a VFA white paper that has been reviewed by a VFA agent. The white paper shall contain clear, fair, and not misleading information about the issuer, the features and risks of the VFA, the rights and obligations attaching to it, the technology used, and the use of proceeds. The VFA white paper shall comply with the form and content requirements specified by MFSA and shall not contain statements that are materially false, misleading, or inconsistent with other information provided to the public. The white paper requirements are aligned with and have been superseded in relation to MiCA-classified assets by the crypto-asset white paper requirements under MiCA."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "virtual financial asset",
+      "definition": "Any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not electronic money, not a financial instrument, and not a virtual token.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "VFA agent",
+      "definition": "A natural person or body corporate enrolled with MFSA that provides advisory or compliance services to issuers of virtual financial assets or VFA service providers.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "VFA service provider",
+      "definition": "A person who provides VFA services on a professional basis as specified in the Second Schedule to this Act.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "financial instrument test",
+      "definition": "An analysis conducted by a VFA agent to determine the regulatory classification of a digital asset as a financial instrument, electronic money, virtual token, or virtual financial asset.",
+      "source_provision": "art3"
+    }
+  ]
+}

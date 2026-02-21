@@ -1,0 +1,127 @@
+{
+  "id": "mt-mdia-act",
+  "type": "statute",
+  "title": "Malta Digital Innovation Authority Act (Cap. 591)",
+  "title_en": "Malta Digital Innovation Authority Act",
+  "short_name": "MDIA",
+  "status": "in_force",
+  "issued_date": "2018-11-01",
+  "in_force_date": "2018-11-01",
+  "url": "https://legislation.mt/eli/cap/591/eng/pdf",
+  "description": "The Malta Digital Innovation Authority Act (Cap. 591) establishes the Malta Digital Innovation Authority (MDIA) as the regulatory body responsible for certifying innovative technology arrangements and services, promoting the responsible use of innovative technology, and administering Malta's regulatory framework for technology governance. MDIA operates as part of the 'blockchain triptych' legislation and provides the regulatory foundation for technology governance in areas including distributed ledger technology, artificial intelligence, and other emerging technologies.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Establishment of the Malta Digital Innovation Authority",
+      "content": "There is hereby established an authority to be known as the Malta Digital Innovation Authority (MDIA), which shall be a body corporate with a separate legal personality and capable of entering into contracts, of acquiring, holding, and disposing of property, of suing and being sued in its corporate name. MDIA shall be governed by a Board of Governors appointed by the Minister responsible for digital innovation, comprising a Chief Executive Officer and not fewer than four other members, including persons with expertise in technology, law, finance, and consumer affairs. MDIA shall exercise its functions independently, though it shall be accountable to the Minister for the general exercise of its duties."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Objects and Functions of MDIA",
+      "content": "The principal objects of MDIA are to promote and develop innovative technology and to ensure that innovative technology arrangements and related services operate in accordance with applicable standards and principles, including the principles of transparency, auditability, integrity, security, and accountability. MDIA shall certify innovative technology arrangements meeting specified requirements; maintain a register of certified arrangements and recognised system administrators; establish, publish, and enforce standards applicable to innovative technology arrangements and related services; provide guidance to applicants for certification and to operators of innovative technology arrangements; and cooperate with other regulators in Malta and with regulatory bodies in other jurisdictions on matters relating to innovative technology governance."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Innovative Technology Arrangements",
+      "content": "For the purposes of this Act, 'innovative technology arrangement' means software and architecture used in designing and delivering distributed ledger technology, including related applications, and other technology architectures that rely on distributed governance and use cryptographic methods to verify and secure transactions or other data. Innovative technology arrangements may include software protocols and codified governance structures, smart contracts, decentralised autonomous organisations, and other arrangements in which code constitutes a binding framework for transactional or governance purposes. MDIA may, by regulation, extend the definition of innovative technology arrangement to encompass additional categories of emerging technology as they develop."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Certification of Innovative Technology Arrangements",
+      "content": "Operators of innovative technology arrangements may apply to MDIA for certification of their arrangement. MDIA shall assess applications against applicable standards and requirements, including requirements relating to the security, resilience, and integrity of the arrangement, the adequacy of governance mechanisms, the protection of users, and compliance with applicable law. Certification shall be granted for a specified period and shall be subject to ongoing compliance obligations. MDIA shall maintain a public register of certified innovative technology arrangements and shall publish information on the standards met by each certified arrangement. Certification by MDIA shall not constitute a guarantee of the commercial viability or investment suitability of the arrangement."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. System Administrators",
+      "content": "MDIA shall maintain a register of recognised system administrators, being persons qualified and authorised to carry out specified functions in relation to certified innovative technology arrangements. System administrators shall have the qualifications and meet the eligibility requirements specified by MDIA, including requirements relating to technical competence, professional integrity, and the absence of relevant regulatory sanctions or convictions. System administrators shall carry out their functions in accordance with applicable standards and guidelines issued by MDIA and shall be subject to ongoing fitness and propriety requirements. MDIA may revoke the recognition of a system administrator who no longer meets applicable requirements or who has failed to comply with obligations under this Act."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Technology Service Providers",
+      "content": "Technology service providers offering services in relation to innovative technology arrangements in or from Malta shall be subject to the requirements of the Technology Arrangements and Services Act (Cap. 592) and applicable secondary legislation. MDIA shall cooperate with the competent authority under the Technology Arrangements and Services Act in the supervision of technology service providers and in the development of consistent standards and requirements for persons operating in the innovative technology sector. MDIA shall maintain liaison with the Malta Financial Services Authority in relation to technology service providers that are also subject to financial services regulation, to ensure a coordinated approach to oversight."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Regulatory Sandbox",
+      "content": "MDIA shall operate a regulatory sandbox programme enabling operators of innovative technology arrangements and technology service providers to test innovative products, services, and business models in a controlled environment, under regulatory oversight and with appropriate consumer protection measures in place. Participants in the regulatory sandbox shall be granted specified exemptions from or modifications to applicable regulatory requirements for a defined testing period, subject to conditions established by MDIA to protect consumers and to limit the scope and scale of operations within the sandbox. MDIA shall evaluate the results of sandbox testing and shall use insights gained to inform the development of the regulatory framework for innovative technology."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Standards and Guidelines",
+      "content": "MDIA shall develop and publish standards and guidelines applicable to innovative technology arrangements and services, covering technical architecture and security requirements, governance frameworks, user protection mechanisms, data management practices, and environmental sustainability considerations. Standards shall be developed through a consultative process involving industry, consumer representatives, academic institutions, and other relevant stakeholders, and shall take into account applicable international and Union standards. MDIA shall regularly review published standards to ensure they remain current with technological developments and shall cooperate with international standardisation bodies in the development of standards relevant to innovative technology."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Cooperation with Other Regulators",
+      "content": "MDIA shall cooperate with other regulatory and supervisory authorities in Malta, including the Malta Financial Services Authority, the Malta Communications Authority, the Information and Data Protection Commissioner, and the Malta Competition and Consumer Affairs Authority, to ensure a coordinated and consistent approach to the regulation of innovative technology. MDIA shall participate in the inter-regulatory coordination forum established for this purpose and shall enter into memoranda of understanding with other regulatory bodies as appropriate. MDIA shall also cooperate with regulatory authorities in other jurisdictions and with international bodies working on innovative technology governance, contributing to the development of consistent international regulatory frameworks."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Consumer Protection",
+      "content": "MDIA shall maintain consumer protection as a central objective in its regulatory activities and shall ensure that the certification framework and applicable standards adequately protect users of innovative technology arrangements and services. MDIA shall maintain an accessible process for receiving and investigating complaints from consumers in relation to certified innovative technology arrangements, and shall cooperate with the Malta Competition and Consumer Affairs Authority in addressing consumer protection issues arising in the innovative technology sector. MDIA shall publish information for consumers on the nature and risks of innovative technology arrangements and on the protections afforded by applicable regulatory requirements."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Artificial Intelligence Governance",
+      "content": "MDIA shall serve as the national competent authority responsible for co-ordinating the implementation of Regulation (EU) 2024/1689 (AI Act) in Malta and shall cooperate with other sectoral competent authorities in the assessment and supervision of high-risk AI systems in their respective areas of responsibility. MDIA shall develop national guidance on compliance with the AI Act for operators of AI systems, notifying bodies, and developers of AI products and services operating in Malta. MDIA shall participate in the European Artificial Intelligence Board established under the AI Act and shall contribute to the development of consistent Union-wide approaches to AI governance."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. MDIA's Supervisory Powers",
+      "content": "MDIA shall have the power to supervise compliance by certified innovative technology arrangements and recognised system administrators with applicable requirements, including through the right to request information and documentation, to carry out inspections of systems and records, and to engage technical experts to assist in the assessment of compliance. Where MDIA identifies a failure to comply with applicable requirements, it may issue a compliance notice requiring the operator or system administrator to take specified corrective action within a specified period. MDIA may suspend or revoke certification or recognition where an operator or system administrator fails to comply with a compliance notice or is found to be in serious or persistent breach of applicable requirements."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Administrative Penalties",
+      "content": "MDIA may impose administrative penalties on operators of innovative technology arrangements and system administrators that fail to comply with applicable obligations. Administrative penalties shall be proportionate to the nature, gravity, and duration of the infringement and shall take into account whether the infringement was intentional or negligent, the financial capacity of the infringer, and any action taken by the infringer to mitigate the impact of the infringement. Before imposing an administrative penalty, MDIA shall give the person concerned the opportunity to make representations. Administrative penalty decisions may be appealed to the Administrative Review Tribunal."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Reporting and Transparency",
+      "content": "MDIA shall publish an annual report on its activities, covering the number of certifications granted, suspended, and revoked; the outcomes of supervisory and enforcement activities; significant developments in the innovative technology sector relevant to MDIA's regulatory functions; and MDIA's cooperation activities with other regulators and international bodies. The annual report shall be laid before the House of Representatives and shall be published on MDIA's website. MDIA shall also publish information on approved certifications, recognised system administrators, and applicable standards and guidelines in an accessible format on its website."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Delegated Authority",
+      "content": "MDIA may, with the approval of the Minister, delegate specified regulatory or administrative functions to suitably qualified persons or bodies, subject to conditions and oversight arrangements that ensure that the delegated functions are carried out in accordance with applicable requirements and standards. Any delegation of functions shall be published in the Government Gazette and on MDIA's website. MDIA shall remain responsible for the exercise of delegated functions and shall maintain adequate oversight of persons or bodies to whom functions have been delegated. Delegation of functions shall not preclude MDIA from exercising those functions directly in any particular case."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. International Recognition",
+      "content": "MDIA shall pursue international recognition agreements with regulatory bodies in other jurisdictions to promote the mutual recognition of certifications and regulatory approvals, facilitating the cross-border operation of innovative technology arrangements and the development of a global regulatory framework for innovative technology. In pursuing international recognition, MDIA shall ensure that the requirements applicable to recognised arrangements in other jurisdictions provide equivalent protections to those established under Maltese law and applicable Union law. MDIA shall inform the relevant national authorities and the European Commission of international recognition agreements entered into and of their implications for Union-level regulatory frameworks."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "innovative technology arrangement",
+      "definition": "Software and architecture used in designing and delivering distributed ledger technology, including related applications, and other technology architectures that rely on distributed governance and use cryptographic methods to verify and secure transactions or other data.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "system administrator",
+      "definition": "A person recognised by MDIA as qualified and authorised to carry out specified functions in relation to certified innovative technology arrangements.",
+      "source_provision": "art5"
+    },
+    {
+      "term": "regulatory sandbox",
+      "definition": "A controlled environment operated by MDIA in which operators may test innovative products, services, and business models under regulatory oversight and with specified exemptions from or modifications to applicable regulatory requirements.",
+      "source_provision": "art7"
+    }
+  ]
+}

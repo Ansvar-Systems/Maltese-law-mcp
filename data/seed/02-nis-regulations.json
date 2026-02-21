@@ -1,0 +1,132 @@
+{
+  "id": "mt-nis-regulations",
+  "type": "statute",
+  "title": "Network and Information Systems Regulations (S.L. 586.07)",
+  "title_en": "Network and Information Systems (NIS) Regulations",
+  "short_name": "NIS-REG",
+  "status": "in_force",
+  "issued_date": "2018-05-09",
+  "in_force_date": "2018-05-09",
+  "url": "https://legislation.mt/eli/sl/586.07/eng/pdf",
+  "description": "The Network and Information Systems Regulations (S.L. 586.07) transpose Directive (EU) 2016/1148 concerning measures for a high common level of security of network and information systems across the Union (NIS Directive) into Maltese law, subsequently aligned with Directive (EU) 2022/2555 (NIS2). The Regulations designate the Malta Information Technology Agency (MITA) as the national competent authority and establish MALTACERT as the national computer security incident response team. They impose security and incident notification obligations on operators of essential services and digital service providers.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Regulation 1. Citation and Commencement",
+      "content": "These regulations may be cited as the Network and Information Systems Regulations and shall come into force on the date of publication in the Government Gazette. These Regulations transpose into Maltese law Directive (EU) 2016/1148 of the European Parliament and of the Council concerning measures for a high common level of security of network and information systems across the Union, as amended to align progressively with Directive (EU) 2022/2555. All public authorities, operators of essential services, and digital service providers within the scope of these Regulations shall ensure compliance with the applicable requirements within the timeframes specified herein."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Regulation 2. Scope",
+      "content": "These Regulations apply to operators of essential services established in Malta and to digital service providers offering services to users in Malta. Essential services sectors covered by these Regulations include energy (electricity, oil, gas), transport (air, rail, water, road), banking, financial market infrastructure, health, drinking water supply and distribution, and digital infrastructure. Digital service providers covered include online marketplaces, online search engines, and cloud computing services. Public administration bodies designated as in-scope entities are also subject to applicable security and incident notification requirements. Micro and small enterprises as defined in Commission Recommendation 2003/361/EC are excluded from the scope of these Regulations unless they are operators of essential services."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Regulation 3. National Competent Authority",
+      "content": "The Malta Information Technology Agency (MITA) is designated as the national competent authority for the purposes of these Regulations and for the coordination of national cybersecurity activities. MITA shall carry out the functions assigned to national competent authorities under the NIS Directive and NIS2, including the supervision of compliance by operators of essential services and digital service providers with applicable security requirements, the receipt and processing of incident notifications, and the coordination of national cybersecurity strategy implementation. MITA shall cooperate with competent authorities of other Member States and with the European Union Agency for Cybersecurity (ENISA) in matters of cross-border cybersecurity."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Regulation 4. MALTACERT",
+      "content": "MALTACERT, operating within MITA, is designated as Malta's national Computer Security Incident Response Team (CSIRT) for the purposes of these Regulations. MALTACERT shall have the tasks and capabilities specified for CSIRTs under the NIS Directive and NIS2, including monitoring incidents at a national level, providing early warning, alerts, announcements, and dissemination of information on risks and incidents, responding to incidents, providing dynamic risk and incident analysis, and participating in the CSIRTs Network established under Union law. MALTACERT shall establish and maintain a 24/7 capability for responding to significant cybersecurity incidents and shall publish its services, operational hours, and secure communication channels."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Regulation 5. Identification of Operators of Essential Services",
+      "content": "MITA shall, in cooperation with relevant sectoral competent authorities, identify operators of essential services in Malta in accordance with the criteria established by the NIS Directive and NIS2. The identification process shall take into account whether the entity provides a service essential for the maintenance of critical societal or economic activities, the provision of that service depends on network and information systems, and an incident would have significant disruptive effects on the provision of that service. Operators of essential services shall be notified of their designation and shall be informed of the obligations applicable to them. The list of designated operators shall be reviewed at regular intervals."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Regulation 6. Security Requirements for Operators",
+      "content": "Operators of essential services shall take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of the network and information systems which they use in the provision of their essential services. Having regard to the state of the art, these measures shall ensure a level of security appropriate to the risk presented and shall address at a minimum the following aspects: policies on risk analysis and information system security; incident handling; business continuity management; supply chain security; security in network and information systems acquisition, development, and maintenance; policies and procedures to assess the effectiveness of security measures; and basic cyber hygiene practices and cybersecurity training."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Regulation 7. Incident Notification",
+      "content": "Operators of essential services shall notify MITA and MALTACERT without undue delay of any incident having a significant impact on the continuity of the essential services they provide. The notification shall include information enabling MITA and MALTACERT to determine the cross-border impact of the incident. MITA shall establish procedures specifying the timeframes for initial and detailed notifications, the content and format of notifications, and the thresholds for significance applicable in each sector. Where an incident may have an impact on the continuity of essential services in other Member States, MITA shall notify the competent authorities or CSIRTs of those Member States of the incident through established cooperation channels."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Regulation 8. Digital Service Providers",
+      "content": "Digital service providers offering services within the scope of these Regulations shall take appropriate and proportionate technical and organisational measures to manage the risks to the security of the network and information systems they use in the provision of their services within the European Union. The security requirements and incident notification obligations applicable to digital service providers shall take into account the nature and scale of the service provided and the potential impact of an incident on the provision of the service. Digital service providers established outside the Union providing services in Malta shall designate a representative established in the Union for the purposes of these Regulations."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Regulation 9. Supervision and Enforcement",
+      "content": "MITA shall supervise compliance by operators of essential services with the requirements of these Regulations, including through the receipt of evidence of implementation of security policies, on-site inspections, and off-site supervision. MITA may require operators to submit information necessary to assess the security of their network and information systems, to provide evidence that security policies are effectively implemented, and to undergo security audits carried out by MITA or by a qualified auditor designated by MITA. Where MITA identifies deficiencies in an operator's security measures or non-compliance with notification requirements, it may issue binding instructions requiring corrective action and may impose administrative sanctions."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Regulation 10. National Cybersecurity Strategy",
+      "content": "Malta shall maintain a national cybersecurity strategy establishing the strategic objectives and appropriate policy and regulatory measures aimed at achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall address the objectives and priorities in the area of cybersecurity, a governance framework for the achievement of the objectives including the roles and responsibilities of government bodies and other relevant actors, the identification of measures relating to preparedness, response, and recovery, and a programme of education, awareness-raising, and training. The strategy shall be reviewed at least every five years and shall be notified to the European Commission."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Regulation 11. Cooperation and Information Sharing",
+      "content": "MITA shall participate in the Cooperation Group established under Article 14 of the NIS Directive and in the CSIRTs Network, and shall cooperate with the competent authorities and CSIRTs of other Member States in addressing cross-border cybersecurity risks and incidents. MITA shall share relevant information on cybersecurity risks and incidents with the competent authorities of other Member States and with ENISA to the extent permitted by applicable confidentiality requirements. Operators of essential services and digital service providers are encouraged to share threat intelligence and information on cybersecurity incidents with MITA and with sector-specific information sharing and analysis centres."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Regulation 12. Supply Chain Security",
+      "content": "Operators of essential services shall take into account the security of their supply chains, including the security-related aspects of the relationships between each entity and its direct suppliers or service providers, in implementing their security risk management measures. MITA may issue sector-specific guidance on supply chain security requirements taking into account the risks identified at a national and European level and the vulnerability of specific supply chains to interference by malicious actors. Operators shall assess the cybersecurity practices of their key suppliers and service providers and shall include cybersecurity requirements in their procurement processes and contractual arrangements with suppliers and service providers."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Regulation 13. Peer Reviews",
+      "content": "Malta shall cooperate with other Member States in conducting peer reviews under the NIS Directive and NIS2 framework, under which national cybersecurity capabilities and practices are voluntarily assessed by teams composed of experts from other Member States and ENISA. The results of peer reviews shall be used to identify areas for improvement in Malta's national cybersecurity framework and shall inform the updating of the national cybersecurity strategy and of these Regulations. MITA shall coordinate Malta's participation in peer reviews as both a reviewed and a reviewing country and shall share the outcomes of reviews with relevant stakeholders in Malta's cybersecurity ecosystem."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Regulation 14. Vulnerability Disclosure",
+      "content": "MALTACERT shall establish a coordinated vulnerability disclosure policy facilitating the reporting and remediation of vulnerabilities identified in products or services used within Malta, in accordance with the framework established under the NIS Directive and NIS2 and in coordination with ENISA and the European vulnerability database. Researchers identifying vulnerabilities in network and information systems used by operators of essential services or digital service providers may report such vulnerabilities to MALTACERT through the established coordinated disclosure process. Operators shall implement vulnerability management processes enabling them to identify, assess, and remediate vulnerabilities in their network and information systems in a timely manner."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Regulation 15. Sanctions",
+      "content": "Administrative sanctions applicable to entities that fail to comply with the requirements of these Regulations shall be proportionate, effective, and dissuasive. MITA shall have the power to impose administrative fines on operators of essential services and digital service providers that fail to implement appropriate security measures or to notify incidents in accordance with these Regulations. The amount of any administrative fine shall take into account the nature, gravity, and duration of the infringement, whether the infringement was intentional or negligent, the measures taken by the entity to mitigate the damage, the degree of responsibility of the entity, and any previous relevant infringements. Decisions imposing sanctions may be appealed before the competent courts."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Regulation 16. Relationship with Sector-Specific Legislation",
+      "content": "These Regulations apply without prejudice to sector-specific Union law that contains provisions on the security of network and information systems or on the notification of incidents, including Union law applicable to digital operational resilience in the financial sector, the security of the electronic communications sector, safety of transport systems, and the security of energy networks. Where sector-specific Union law requires operators to take measures to manage the security of their network and information systems or to notify incidents and where those requirements are at least equivalent in effect to the obligations laid down in these Regulations, the relevant provisions of the sector-specific law shall apply. MITA shall coordinate with sectoral competent authorities to avoid duplication of reporting requirements."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "network and information system",
+      "definition": "An electronic communications network, any device or group of interconnected or related devices, one or more of which automatically processes digital data pursuant to a program, or digital data stored, processed, retrieved, or transmitted by elements covered by the preceding categories.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "operator of essential services",
+      "definition": "A public or private entity operating in a sector covered by these Regulations that has been identified and designated by MITA as providing a service essential for the maintenance of critical societal or economic activities.",
+      "source_provision": "art5"
+    },
+    {
+      "term": "digital service provider",
+      "definition": "A legal person that provides a digital service, being an online marketplace, an online search engine, or a cloud computing service.",
+      "source_provision": "art8"
+    },
+    {
+      "term": "incident",
+      "definition": "Any event having an actual adverse effect on the security of network and information systems.",
+      "source_provision": "art7"
+    }
+  ]
+}

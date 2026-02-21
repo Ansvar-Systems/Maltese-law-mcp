@@ -1,0 +1,132 @@
+{
+  "id": "mt-data-protection",
+  "type": "statute",
+  "title": "Data Protection Act (Cap. 586)",
+  "title_en": "Data Protection Act",
+  "short_name": "DPA",
+  "status": "in_force",
+  "issued_date": "2018-05-28",
+  "in_force_date": "2018-05-28",
+  "url": "https://legislation.mt/eli/cap/586/eng/pdf",
+  "description": "The Data Protection Act (Cap. 586) constitutes Malta's primary legislation implementing Regulation (EU) 2016/679 (GDPR) and repealing the earlier Data Protection Act (Cap. 440). It designates the Information and Data Protection Commissioner as Malta's independent supervisory authority, establishes national specifications and derogations permitted under the GDPR, and provides for the exercise of investigative, corrective, and advisory powers. The Act also addresses the processing of personal data by competent authorities for law enforcement purposes, implementing Directive (EU) 2016/680.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Interpretation",
+      "content": "In this Act, unless the context otherwise requires, 'the GDPR' means Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data; 'the Commissioner' means the Information and Data Protection Commissioner appointed under this Act; 'personal data' has the meaning assigned to it in Article 4(1) GDPR; 'processing' has the meaning assigned to it in Article 4(2) GDPR; 'controller' has the meaning assigned to it in Article 4(7) GDPR; 'processor' has the meaning assigned to it in Article 4(8) GDPR. All definitions established by the GDPR shall apply for the purposes of this Act unless otherwise provided."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Application and Scope",
+      "content": "This Act applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system. Processing of personal data by the competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, is governed by Part VII of this Act, which transposes Directive (EU) 2016/680. The Act does not apply to the processing of personal data by a natural person in the course of a purely personal or household activity."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. The Information and Data Protection Commissioner",
+      "content": "There shall be an Information and Data Protection Commissioner who shall be an independent authority responsible for monitoring and enforcing the application of the GDPR and this Act in Malta. The Commissioner shall be appointed by the President of Malta acting on the advice of the Prime Minister and shall serve a term of five years, renewable once. The Commissioner shall exercise their functions in full independence and shall not be subject to direction in the exercise of their statutory powers. The Commissioner shall have the powers, tasks, and functions assigned to supervisory authorities under the GDPR, including investigative powers, corrective powers, authorisation and advisory powers, and shall cooperate with supervisory authorities of other Member States through the European Data Protection Board."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. National Derogations — Processing of Special Categories",
+      "content": "In accordance with Article 9(4) GDPR, Malta maintains additional conditions for the processing of special categories of personal data in specific sectors. Processing of health data for the provision of healthcare services shall be permitted subject to the obligation of professional secrecy binding healthcare professionals. Processing of personal data relating to members by political parties, trade unions, religious organisations, and not-for-profit associations for the legitimate purposes of such bodies is permitted subject to appropriate safeguards ensuring the protection of data subjects' rights. Research institutions may process special categories of data for scientific or historical research purposes subject to compliance with the safeguards specified by the Commissioner."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Processing for Journalistic and Artistic Purposes",
+      "content": "In accordance with Article 85 GDPR, processing of personal data carried out for journalistic purposes or for the purposes of academic, artistic, or literary expression shall be exempt from the application of specified GDPR provisions to the extent necessary to reconcile the right to the protection of personal data with the freedom of expression and information. Controllers relying on this exemption shall maintain records of the journalistic, academic, artistic, or literary purpose for which personal data is processed. The Commissioner may issue guidance on the conditions under which processing for journalistic or artistic purposes may claim exemptions from specific GDPR requirements."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Age of Consent for Information Society Services",
+      "content": "In accordance with Article 8(1) GDPR, Malta sets the age of consent for children in relation to the use of information society services at sixteen years. Where a child is below this age, the processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child. Controllers shall make reasonable efforts to verify that the holder of parental responsibility has consented, taking into account available technology. Service providers offering information society services targeted at children shall implement age verification and parental consent mechanisms appropriate to the risk presented by the processing."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Data Protection Officers in the Public Sector",
+      "content": "All public authorities and bodies in Malta shall designate a Data Protection Officer in accordance with Article 37(1)(a) GDPR. Public authorities may designate a single Data Protection Officer to cover multiple bodies within the same administrative cluster, subject to the conditions established by the GDPR. Data Protection Officers in the public sector shall have the tasks specified in Article 39 GDPR and shall report directly to the highest management level of the public authority. Public authorities shall publish the contact details of their Data Protection Officers and shall ensure that the Officer is adequately resourced and has access to the personal data and processing operations required to fulfil their tasks."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Supervisory Powers of the Commissioner",
+      "content": "The Commissioner shall have the investigative powers specified in Article 58(1) GDPR, including the power to order the controller and the processor to provide any information required for the performance of supervisory tasks, to carry out investigations in the form of data protection audits, to carry out reviews of certifications, and to notify the controller or processor of an alleged infringement of the GDPR. The Commissioner shall have the corrective powers specified in Article 58(2) GDPR, including the power to impose a temporary or permanent ban on processing and to order the suspension of data flows to a recipient in a third country. The Commissioner may impose administrative fines in accordance with Articles 83 and 84 GDPR."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Administrative Fines",
+      "content": "The Commissioner may impose administrative fines in accordance with Article 83 GDPR, up to the amounts specified therein. In determining the amount of any administrative fine, the Commissioner shall give due regard to the nature, gravity, and duration of the infringement, the intentional or negligent character of the infringement, the categories of personal data affected, the degree of responsibility of the controller or processor, the manner in which the infringement became known to the Commissioner, and any other aggravating or mitigating factor applicable to the circumstances. Administrative fines shall be effective, proportionate, and dissuasive and may be imposed in addition to, or instead of, other corrective measures."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Judicial Remedies",
+      "content": "Data subjects shall have the right to lodge a complaint with the Commissioner in accordance with Article 77 GDPR. Without prejudice to the administrative remedy available, any data subject shall have the right to an effective judicial remedy in accordance with Article 79 GDPR before the competent courts of Malta. Where a data subject considers that their rights under the GDPR have been infringed as a result of processing of their personal data in non-compliance with the GDPR, they may bring legal proceedings before the Civil Court or, where applicable, before the Administrative Review Tribunal. Data subjects may mandate a not-for-profit body to exercise rights on their behalf in accordance with Article 80 GDPR."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Processing of Personal Data in Employment",
+      "content": "In accordance with Article 88 GDPR, Malta specifies that processing of employees' personal data in the employment context may be carried out by employers for the purposes of recruitment, management of the employment relationship, payroll administration, and compliance with legal obligations, provided that appropriate safeguards for employees' dignity and fundamental interests are in place. Employers shall not process employees' personal data in the employment context beyond what is necessary for the specific employment-related purpose and shall implement appropriate technical and organisational measures to prevent access to personal data beyond what is necessary. Monitoring of employees' use of employer-provided systems shall be subject to prior notification and shall be proportionate to the legitimate business purpose pursued."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Restrictions on Data Subjects' Rights",
+      "content": "In accordance with Article 23 GDPR, the application of specified rights and obligations under the GDPR may be restricted by legislative measure to the extent necessary and proportionate in a democratic society to safeguard national security, defence, public security, the prevention, investigation, detection, or prosecution of criminal offences, other important objectives of public interest, the protection of judicial independence and judicial proceedings, the enforcement of civil law claims, or the protection of the data subject or the rights and freedoms of others. Any restriction shall respect the essence of fundamental rights and freedoms and shall be necessary and proportionate to the objective pursued."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Obligations of Public Authorities",
+      "content": "Public authorities in Malta shall comply with the obligations of controllers under the GDPR in relation to all processing of personal data carried out in the exercise of their public functions. Public authorities shall conduct data protection impact assessments in accordance with Article 35 GDPR for processing operations that are likely to result in a high risk to the rights and freedoms of natural persons, in particular processing involving new technologies, systematic monitoring, profiling, or processing on a large scale. Public authorities shall engage in prior consultation with the Commissioner in accordance with Article 36 GDPR where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Cross-Border Processing",
+      "content": "Where processing of personal data carried out by a controller or processor established in Malta involves cross-border processing as defined in Article 4(23) GDPR, the Commissioner shall act as lead supervisory authority in relation to such processing where Malta is the place of the controller's or processor's main establishment within the Union, in accordance with the one-stop-shop mechanism established under Article 56 GDPR. The Commissioner shall cooperate with other concerned supervisory authorities in accordance with the consistency mechanism established in Chapter VII GDPR and shall participate in the work of the European Data Protection Board."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Law Enforcement Processing",
+      "content": "Part VII of this Act transposes Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties. Competent authorities designated under applicable legislation shall implement appropriate technical and organisational measures to ensure that only personal data which are necessary for each specific purpose of processing are processed, in accordance with the data minimisation principle. Data subjects whose personal data is processed by competent authorities under this Part shall have specified rights of access, rectification, and erasure, subject to applicable restrictions."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Annual Report and Transparency",
+      "content": "The Commissioner shall publish an annual report on the activities of the office, covering the number and categories of complaints received, the outcomes of complaints, the nature and outcomes of enforcement action taken, the administrative fines imposed, any data breach notifications received and actions taken, and the Commissioner's participation in the European Data Protection Board and in international cooperation. The annual report shall be laid before the House of Representatives and published on the Commissioner's website. The Commissioner shall also publish guidance documents, decisions of general interest, and any codes of conduct approved under Article 40 GDPR, to assist controllers and processors in understanding and complying with their obligations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Commissioner",
+      "definition": "The Information and Data Protection Commissioner appointed under this Act as Malta's independent supervisory authority for the application of the GDPR.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "personal data",
+      "definition": "Any information relating to an identified or identifiable natural person ('data subject'), as defined in Article 4(1) GDPR.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "controller",
+      "definition": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data, as defined in Article 4(7) GDPR.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "processor",
+      "definition": "A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller, as defined in Article 4(8) GDPR.",
+      "source_provision": "art1"
+    }
+  ]
+}

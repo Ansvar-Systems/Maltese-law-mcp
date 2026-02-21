@@ -1,0 +1,132 @@
+{
+  "id": "mt-electronic-communications",
+  "type": "statute",
+  "title": "Electronic Communications (Regulation) Act (Cap. 399)",
+  "title_en": "Electronic Communications (Regulation) Act",
+  "short_name": "ECRA",
+  "status": "amended",
+  "issued_date": "2004-01-01",
+  "in_force_date": "2004-01-01",
+  "url": "https://legislation.mt/eli/cap/399/eng/pdf",
+  "description": "The Electronic Communications (Regulation) Act (Cap. 399) constitutes Malta's primary legislation governing the electronic communications sector, transposing the EU regulatory framework for electronic communications and establishing the Malta Communications Authority (MCA) as the national regulatory authority. The Act has been progressively amended to implement the European Electronic Communications Code (Directive (EU) 2018/1972) and subsequent Union measures. It establishes the general authorisation framework, market analysis procedures, consumer protection requirements, and interconnection and access rules.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Interpretation",
+      "content": "In this Act, 'the Authority' means the Malta Communications Authority; 'electronic communications network' means transmission systems and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed terrestrial networks, mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks; 'electronic communications service' means a service normally provided for remuneration via electronic communications networks; 'end-user' means a user not providing public communications networks or publicly available electronic communications services."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Malta Communications Authority",
+      "content": "The Malta Communications Authority established under this Act shall be an independent regulatory authority responsible for regulating the electronic communications sector and postal services in Malta. The Authority shall be governed by a Board of Governors appointed by the Minister responsible for communications, comprising a Chairperson and not fewer than four other members. The Authority shall perform its functions in an impartial, transparent, and proportionate manner and shall not seek or accept instructions from any other body in the exercise of its regulatory powers. The Authority shall cooperate with the European Commission, the Body of European Regulators for Electronic Communications (BEREC), and national regulatory authorities of other Member States."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Policy Objectives",
+      "content": "In carrying out its functions under this Act, the Authority shall aim to promote competition in the provision of electronic communications networks, electronic communications services, and associated facilities and services; to contribute to the development of the internal market by cooperating with other national regulatory authorities and with the European Commission; to promote the interests of citizens; and to contribute to the digital transition and to investment in new and enhanced network infrastructure. The Authority shall promote access to, and take-up of, high-capacity networks, including networks based on optical fibre, and spectrum and numbering resources, as well as the roll-out of 5G and other advanced networks."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. General Authorisation",
+      "content": "Any natural or legal person may provide electronic communications networks or services subject to a general authorisation that takes effect upon notification to the Authority. Providers shall not be required to obtain an explicit decision or administrative act prior to commencing the provision of electronic communications networks or services under the general authorisation. The general authorisation shall impose conditions that are objectively justified in relation to the network or service concerned, proportionate, and non-discriminatory. The Authority shall publish the applicable conditions and shall ensure they are easily accessible. Rights of use for radio frequencies or numbers shall be granted through a separate procedure upon application, in addition to the general authorisation."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Market Analysis and Significant Market Power",
+      "content": "The Authority shall define relevant markets appropriate to national circumstances in accordance with principles of competition law, taking utmost account of Commission recommendations, and shall carry out analyses of those markets. Where the Authority determines that a relevant market is effectively competitive, it shall not impose or maintain obligations on operators in that market. Where the Authority determines that a relevant market is not effectively competitive, it shall identify providers with significant market power on that market and shall impose, maintain, amend, or withdraw appropriate regulatory obligations. Before taking decisions under this Article, the Authority shall consult with the European Commission, BEREC, and the national regulatory authorities of Member States likely to be affected."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Access and Interconnection",
+      "content": "The Authority may, acting in accordance with its policy objectives, impose obligations on providers of public electronic communications networks to negotiate in good faith with undertakings requesting access or interconnection; not to withdraw access already granted; to grant open access to technical interfaces, protocols, or other key technologies that are indispensable for the interoperability of services; to provide co-location or other forms of physical facility sharing; to provide specified services needed to ensure interoperability of end-to-end services; or to provide access to operational support systems. Obligations shall be proportionate to the identified competitive problems and shall be maintained only as long as necessary."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Universal Service",
+      "content": "The Authority shall ensure that at least one provider designated under this Act delivers access to functional internet access service and voice communications services to all end-users at an affordable price within the national territory. The Authority shall determine whether functional internet access service meets the social and economic needs of Maltese citizens and businesses having regard to bandwidth levels, quality of service, and prevailing prices. The Authority may impose universal service obligations on one or more designated providers and shall establish a mechanism for calculating any net costs of universal service obligations that represent an unfair burden, and for financing those costs, in accordance with Union law."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Consumer Protection",
+      "content": "Providers of publicly available electronic communications services shall ensure that end-users have access to clear, comprehensive, and comparable information about the services they provide. Contracts shall specify at a minimum the identity and contact details of the provider, the services provided and their quality parameters, the prices and applicable charges, the duration of the contract and conditions for renewal and termination, and the means of initiating dispute resolution procedures. End-users shall have the right to terminate contracts without penalty upon notification of any change in contractual conditions proposed by the provider, unless the proposed changes are exclusively to the benefit of the end-user. Providers shall implement effective and transparent complaint handling mechanisms."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Spectrum Management",
+      "content": "The Authority shall manage the spectrum bands allocated to electronic communications services in accordance with national frequency allocation plans and applicable Union law, including the Radio Spectrum Policy Programme and spectrum coordination decisions of the European Commission. The Authority shall promote the efficient use of spectrum through authorisation frameworks based on general authorisations where technically and economically feasible, individual rights of use where necessary, and spectrum sharing arrangements. The Authority shall participate in multilateral and bilateral coordination with spectrum management authorities of other states and shall cooperate within the framework of the Radio Spectrum Committee and the Radio Spectrum Policy Group."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Number Portability",
+      "content": "The Authority shall ensure that subscribers of publicly available telephone services can retain their number when changing provider, in accordance with the requirements of Directive (EU) 2018/1972. The porting of numbers shall be carried out without undue delay and at the latest within one working day following the conclusion of the porting agreement. Providers shall not use porting or pre-porting processes to deter subscribers from changing provider. The Authority shall establish number porting procedures and may impose technical and operational requirements on providers to facilitate number portability, and shall monitor compliance through annual reporting."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Emergency Communications",
+      "content": "Providers of publicly available telephone services shall ensure free access to emergency communications services through the single European emergency number 112 from all terminal equipment, including mobile terminals and terminals capable of making voice calls via the internet. Providers shall ensure that the most accurate caller location information technically feasible is made available to the emergency services call centre receiving calls to 112. Providers shall ensure that access to emergency services is available to users with disabilities on an equivalent basis to other users. The Authority shall establish and monitor compliance with requirements for the implementation of emergency communications, in coordination with the competent authorities responsible for emergency services."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Security of Networks and Services",
+      "content": "Providers of public electronic communications networks and publicly available electronic communications services shall take appropriate technical and organisational measures to appropriately manage the security of their networks and services and to minimise the impact of security incidents. Measures shall ensure a level of security appropriate to the risk presented and shall address physical and environmental security, security of network integrity, security of network elements and interfaces, and security operations including monitoring, fault management, and incident response. Providers shall notify MITA and, where the incident has an impact on personal data, the Commissioner for Data Protection, of significant security breaches or losses of integrity."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Infrastructure Deployment",
+      "content": "The Authority, in coordination with relevant planning and local authorities, shall facilitate the deployment of electronic communications infrastructure, including the co-location and sharing of infrastructure, in-building physical infrastructure, and access to public land and property. Operators shall have the right to deploy electronic communications infrastructure, including cables and associated facilities, on public and private land subject to applicable planning and environmental requirements and to the payment of reasonable compensation where applicable. The Authority may mediate disputes between providers and between providers and infrastructure owners arising from the exercise of infrastructure deployment rights."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Dispute Resolution",
+      "content": "The Authority shall maintain procedures for the resolution of disputes between providers of electronic communications networks and services arising in connection with obligations under this Act. Any party to such a dispute may refer the matter to the Authority, which shall use its best endeavours to resolve the dispute through facilitated negotiation and, where parties cannot reach agreement, shall issue a binding decision within four months of the referral. The Authority shall publish its dispute resolution procedures and shall make available reasoned decisions, subject to requirements of commercial confidentiality. Decisions of the Authority may be appealed before the competent courts within thirty days of notification."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Broadband and Connectivity",
+      "content": "The Authority shall promote the roll-out of broadband electronic communications networks, including very high capacity networks, across Malta, and shall remove regulatory barriers to investment in such networks where consistent with its other regulatory objectives. In cooperation with the relevant government ministry, the Authority shall implement national broadband strategy objectives and shall administer any public support schemes for broadband deployment in areas where market-driven deployment is not commercially viable. The Authority shall monitor broadband coverage and quality indicators and shall publish annual reports on connectivity developments in Malta, contributing to relevant Union-level monitoring frameworks."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Enforcement Powers",
+      "content": "The Authority shall have the power to investigate potential breaches of this Act and applicable regulations, including through the power to require providers to supply information, to carry out inspections of providers' premises and systems, and to take evidence. Where the Authority identifies a breach of applicable obligations, it shall notify the provider of the identified breach and shall give the provider the opportunity to make representations. Following the notification procedure, the Authority may issue binding decisions requiring the provider to take specified corrective action, impose financial penalties, suspend or withdraw rights of use, or take other proportionate enforcement action. Financial penalties shall be proportionate to the nature and duration of the breach."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Authority",
+      "definition": "The Malta Communications Authority, established as the independent regulatory authority for electronic communications and postal services in Malta.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "electronic communications network",
+      "definition": "Transmission systems and, where applicable, switching or routing equipment and other resources which permit the conveyance of signals by wire, radio, optical or other electromagnetic means.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "electronic communications service",
+      "definition": "A service normally provided for remuneration via electronic communications networks, which encompasses internet access services, interpersonal communications services, and services consisting wholly or mainly in the conveyance of signals.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "significant market power",
+      "definition": "A position equivalent to dominance held by a provider in a relevant market, consistent with competition law principles applied to the electronic communications sector.",
+      "source_provision": "art5"
+    }
+  ]
+}

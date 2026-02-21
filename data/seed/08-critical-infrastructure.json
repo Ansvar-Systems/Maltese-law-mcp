@@ -1,0 +1,132 @@
+{
+  "id": "mt-critical-infrastructure",
+  "type": "statute",
+  "title": "Critical Infrastructure Protection Regulations (S.L. 520.01)",
+  "title_en": "Critical Infrastructure Protection Regulations",
+  "short_name": "CIP-REG",
+  "status": "in_force",
+  "issued_date": "2012-01-01",
+  "in_force_date": "2012-01-01",
+  "url": "https://legislation.mt/eli/sl/520.01/eng/pdf",
+  "description": "The Critical Infrastructure Protection Regulations transpose Council Directive 2008/114/EC on the identification and designation of European critical infrastructures into Maltese law and are being aligned with Directive (EU) 2022/2557 on the resilience of critical entities (CER Directive). The Regulations establish the competent authority, define critical infrastructure sectors, and set out the obligations of critical infrastructure operators including the preparation of Operator Security Plans. Malta's critical infrastructure is concentrated in energy, transport, and digital services given the island nation's geographic characteristics.",
+  "provisions": [
+    {
+      "provision_ref": "reg1",
+      "section": "1",
+      "title": "Regulation 1. Citation and Scope",
+      "content": "These Regulations may be cited as the Critical Infrastructure Protection Regulations and shall apply to critical infrastructure located in Malta that meets the designation criteria established herein, including infrastructure that may be designated as European critical infrastructure under Directive 2008/114/EC. These Regulations are being progressively aligned with Directive (EU) 2022/2557 on the resilience of critical entities (CER Directive), which replaces the European Critical Infrastructure Directive and extends the framework to encompass the physical resilience of critical entities across a broader range of sectors. Operators of designated critical infrastructure shall comply with applicable requirements within the timelines specified in these Regulations and in related guidance."
+    },
+    {
+      "provision_ref": "reg2",
+      "section": "2",
+      "title": "Regulation 2. Competent Authority",
+      "content": "The Office of the Prime Minister is designated as the primary competent authority responsible for coordinating the implementation of these Regulations, with responsibility for the national register of designated critical infrastructure and for cross-sectoral coordination of critical infrastructure protection activities. Sectoral competent authorities shall be designated for each critical infrastructure sector and shall carry out the identification and designation of critical infrastructure in their respective sectors in coordination with the Office of the Prime Minister. The Police, the Armed Forces of Malta, and the Civil Protection Department shall cooperate with the competent authority in matters relating to the protection of critical infrastructure."
+    },
+    {
+      "provision_ref": "reg3",
+      "section": "3",
+      "title": "Regulation 3. Critical Infrastructure Sectors",
+      "content": "The following sectors are designated as critical infrastructure sectors for the purposes of these Regulations: energy, including the electricity transmission system and electricity generation facilities, oil import and storage facilities, and gas supply infrastructure; transport, including the Malta International Airport, the Grand Harbour and other commercial ports, major road infrastructure, and ferry services; water, including the Water Services Corporation's supply and distribution infrastructure; information and communications technology, including submarine cable landing stations, national data centres, and critical electronic communications infrastructure; banking and finance, including the Bank of Valletta and other systemically important financial institutions; health, including Mater Dei Hospital; and government administration."
+    },
+    {
+      "provision_ref": "reg4",
+      "section": "4",
+      "title": "Regulation 4. Designation of Critical Infrastructure",
+      "content": "The competent authority shall initiate the designation process for infrastructure meeting the cross-cutting criteria, which assess the significance of the potential impact of a disruption in terms of casualties, economic effects, public confidence effects, and political effects. Infrastructure shall be designated following a determination by the competent authority and relevant sectoral authority that it meets the applicable criteria, after consultation with the operator. Operators shall be formally notified of designation in writing and shall be informed of the obligations applicable to them as operators of designated critical infrastructure. The national register of designated critical infrastructure shall be classified at an appropriate security level."
+    },
+    {
+      "provision_ref": "reg5",
+      "section": "5",
+      "title": "Regulation 5. Operator Security Plans",
+      "content": "Operators of designated critical infrastructure shall prepare an Operator Security Plan within twelve months of designation, or within such shorter period as the competent authority may require. The Operator Security Plan shall identify the critical assets of the operator within the designated infrastructure, assess the risks to those assets including physical, cybersecurity, and insider threats, and identify protective measures in place or to be implemented for the protection of those assets. The Plan shall be reviewed and updated at least every two years and following significant changes to the infrastructure, the threat environment, or the protective measures in place. Operators shall submit their Plans to the competent authority for review."
+    },
+    {
+      "provision_ref": "reg6",
+      "section": "6",
+      "title": "Regulation 6. Security Liaison Officers",
+      "content": "Each operator of designated critical infrastructure shall designate a Security Liaison Officer who shall serve as the primary contact point between the operator and the competent authority on security matters. The Security Liaison Officer shall have the requisite security clearance and shall be subject to vetting in accordance with applicable procedures. The Security Liaison Officer shall be responsible for coordinating the preparation and updating of the Operator Security Plan, for monitoring implementation of security measures, for communicating with the competent authority on threat information and incidents, and for participating in relevant national forums and exercises. Operators shall notify the competent authority promptly of any change of Security Liaison Officer."
+    },
+    {
+      "provision_ref": "reg7",
+      "section": "7",
+      "title": "Regulation 7. Physical Security Requirements",
+      "content": "Operators of designated critical infrastructure shall implement physical security measures appropriate to the risk presented, addressing access control to critical facilities and sites, perimeter security, detection of unauthorised access or tampering, protection of critical equipment, and personnel security. Physical security requirements shall be proportionate to the threat level and the potential impact of disruption to the designated infrastructure. The competent authority may issue sector-specific guidance on minimum physical security standards and may verify compliance through inspections of designated infrastructure. Operators shall maintain records of physical security incidents and shall report significant incidents to the competent authority."
+    },
+    {
+      "provision_ref": "reg8",
+      "section": "8",
+      "title": "Regulation 8. Cybersecurity of Critical Infrastructure",
+      "content": "Operators of designated critical infrastructure that includes information systems, operational technology, or industrial control systems shall implement cybersecurity measures consistent with the requirements of the NIS Regulations where applicable and with guidance issued by MITA. Cybersecurity measures shall address network segmentation between IT and OT environments, access control, vulnerability management, incident detection and response, and supply chain security. Operators shall report significant cybersecurity incidents to MITA and MALTACERT in accordance with applicable notification requirements. The competent authority shall cooperate with MITA in ensuring a coordinated approach to the cybersecurity of critical infrastructure."
+    },
+    {
+      "provision_ref": "reg9",
+      "section": "9",
+      "title": "Regulation 9. Resilience and Business Continuity",
+      "content": "Operators of designated critical infrastructure shall develop and maintain business continuity and disaster recovery plans addressing the measures to be implemented in the event of a significant disruption to their critical assets. Business continuity plans shall identify critical business processes, the minimum resources required to maintain essential operations, recovery time objectives for critical systems and services, and alternative supply arrangements. Plans shall be tested at appropriate intervals, and exercise results shall be used to improve the plans. The competent authority may coordinate sector-level or cross-sector exercises to test resilience and to identify systemic vulnerabilities and opportunities for improvement."
+    },
+    {
+      "provision_ref": "reg10",
+      "section": "10",
+      "title": "Regulation 10. Information Sharing and Threat Intelligence",
+      "content": "The competent authority shall maintain a secure information-sharing mechanism through which threat intelligence and incident information relevant to critical infrastructure protection may be exchanged between the competent authority, sectoral authorities, and operators of designated critical infrastructure. Information shared through this mechanism shall be subject to appropriate confidentiality protections and shall not be further disclosed without the consent of the originating authority or operator. Operators are encouraged to share information on threats and incidents that may be relevant to other operators or to national authorities responsible for critical infrastructure protection, and the competent authority shall facilitate such sharing through appropriate forums."
+    },
+    {
+      "provision_ref": "reg11",
+      "section": "11",
+      "title": "Regulation 11. European Critical Infrastructure",
+      "content": "Where infrastructure designated as critical infrastructure in Malta may have a significant cross-border impact in one or more other Member States, the competent authority shall notify the relevant authorities of those Member States and shall engage in bilateral or multilateral consultation in accordance with the requirements of Directive 2008/114/EC and its successor, Directive (EU) 2022/2557 (CER Directive). The competent authority shall cooperate with the European Commission in the identification and designation of European critical infrastructure and shall participate in the Critical Infrastructure Warning Information Network (CIWIN). Malta's small geographic size and island status shall be considered in assessing cross-border impact criteria."
+    },
+    {
+      "provision_ref": "reg12",
+      "section": "12",
+      "title": "Regulation 12. Due Diligence for Third-Party Service Providers",
+      "content": "Operators of designated critical infrastructure shall conduct appropriate due diligence when engaging third-party service providers for services that affect the security or resilience of their critical assets. Due diligence shall address the cybersecurity practices of third-party providers, the security of supply chains, the applicability of foreign law or foreign ownership to the provider, and the contractual arrangements available to protect the operator's interests. Contracts with significant third-party service providers shall include appropriate security requirements, audit rights, and notification obligations in respect of security incidents. Operators shall maintain an inventory of significant third-party dependencies and shall assess associated risks."
+    },
+    {
+      "provision_ref": "reg13",
+      "section": "13",
+      "title": "Regulation 13. Incident Reporting",
+      "content": "Operators of designated critical infrastructure shall report significant incidents affecting their designated infrastructure to the competent authority without undue delay. The competent authority shall establish procedures specifying the threshold of significance, the content of incident reports, and the timeframes for initial and detailed notifications. The competent authority shall ensure that relevant incident information is shared with MITA, the Malta Police, and other relevant national authorities as appropriate. Incident reports shall be treated as sensitive and shall be subject to appropriate confidentiality protections. The competent authority shall maintain a database of significant incidents and shall use incident analysis to inform protective measures and national risk assessments."
+    },
+    {
+      "provision_ref": "reg14",
+      "section": "14",
+      "title": "Regulation 14. CER Directive Alignment",
+      "content": "These Regulations are being progressively aligned with the requirements of Directive (EU) 2022/2557 on the resilience of critical entities (CER Directive), which replaces Directive 2008/114/EC and extends the framework to cover additional sectors including public administration, space, and food production. The alignment process includes updating the definition and scope of critical entities, establishing comprehensive risk assessment requirements, implementing background screening requirements for persons working in sensitive roles, and ensuring cross-sector coordination in the assessment and management of cascading effects. National implementing measures for the CER Directive shall be adopted within the timelines established by the Directive."
+    },
+    {
+      "provision_ref": "reg15",
+      "section": "15",
+      "title": "Regulation 15. Supervision and Enforcement",
+      "content": "The competent authority shall supervise compliance by operators of designated critical infrastructure with the requirements of these Regulations, including through reviews of Operator Security Plans, inspections of designated infrastructure, and exercises testing operators' incident response and resilience capabilities. Where the competent authority identifies deficiencies in an operator's security or resilience arrangements, it may issue recommendations or binding requirements for corrective action. Operators that fail to comply with binding requirements or with applicable obligations under these Regulations may be subject to administrative sanctions, which shall be proportionate, effective, and dissuasive. The competent authority shall report annually on its supervisory and enforcement activities."
+    },
+    {
+      "provision_ref": "reg16",
+      "section": "16",
+      "title": "Regulation 16. Inter-Agency Coordination",
+      "content": "The competent authority shall maintain effective coordination mechanisms with all relevant government departments and agencies responsible for aspects of critical infrastructure protection, including the Ministry for Home Affairs and National Security, MITA, the Malta Communications Authority, the Energy Regulatory Board, the Transport Malta, and the Health Department. An inter-ministerial critical infrastructure protection committee shall be established to provide strategic oversight and coordination of national critical infrastructure protection activities. The competent authority shall also coordinate Malta's participation in European and international critical infrastructure protection initiatives, including exercises, peer reviews, and knowledge-sharing activities."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "critical infrastructure",
+      "definition": "An asset, system, or part thereof essential for the maintenance of vital societal functions, health, safety, security, economic, or social well-being, whose disruption or destruction would have a significant impact.",
+      "source_provision": "reg4"
+    },
+    {
+      "term": "Operator Security Plan",
+      "definition": "A document prepared by a critical infrastructure operator identifying relevant assets, assessing risks, and documenting protective measures in place or to be implemented for the protection of those assets.",
+      "source_provision": "reg5"
+    },
+    {
+      "term": "Security Liaison Officer",
+      "definition": "The individual designated by a critical infrastructure operator as the primary contact point between the operator and the competent authority on security matters.",
+      "source_provision": "reg6"
+    },
+    {
+      "term": "European critical infrastructure",
+      "definition": "Critical infrastructure located in a Member State the disruption or destruction of which would have a significant impact on at least two Member States.",
+      "source_provision": "reg11"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+schema_version: "1.0"
+mcp_name: "Maltese Law MCP"
+jurisdiction: "MT"
+
+sources:
+  - name: "Laws of Malta"
+    authority: "Laws of Malta"
+    official_portal: "https://legislation.mt"
+    retrieval_method: "HTML_SCRAPE"
+    update_frequency: "weekly"
+    last_ingested: "2026-02-21"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://legislation.mt"
+      summary: "Official legislative texts are public domain"
+    coverage:
+      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
+      limitations: "AI-generated seed data; full official ingestion pending"
+    languages:
+      - "mt"
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "2026-02-21"

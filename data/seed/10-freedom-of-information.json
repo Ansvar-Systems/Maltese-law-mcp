@@ -1,0 +1,132 @@
+{
+  "id": "mt-freedom-of-information",
+  "type": "statute",
+  "title": "Freedom of Information Act (Cap. 496)",
+  "title_en": "Freedom of Information Act",
+  "short_name": "FOIA",
+  "status": "in_force",
+  "issued_date": "2012-09-01",
+  "in_force_date": "2012-09-01",
+  "url": "https://legislation.mt/eli/cap/496/eng/pdf",
+  "description": "The Freedom of Information Act (Cap. 496) establishes the right of members of the public to access official documents held by public authorities in Malta, subject to specified exceptions protecting national security, personal privacy, commercial confidentiality, and other legitimate interests. The Act designates the Information and Data Protection Commissioner as the supervisory authority, establishes the procedure for making and responding to access requests, and provides for an internal review and appeal process. The Act promotes transparency and accountability in public administration and complements the open data framework.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Right of Access",
+      "content": "Every person shall have the right to access official documents held by public authorities in accordance with the provisions of this Act, subject to applicable exceptions and limitations. The right of access applies to documents existing at the time of the request and held by the public authority to which the request is addressed, including documents created by the public authority, documents received from other persons or authorities, and documents held on behalf of another authority. The right of access is subject to the principle that the disclosure of official information serves the public interest in transparency and accountability, and shall be interpreted broadly. Restrictions on access shall be interpreted narrowly and applied only to the extent necessary to protect the interests specified in this Act."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "In this Act, 'official document' means any document, record, file, or other information held by a public authority, in whatever format or medium, including electronic documents, photographs, audio-visual material, and databases; 'public authority' means any Ministry, Department, Government entity, agency, or local council exercising public functions; 'requestor' means any natural or legal person making a request for access to an official document under this Act; 'administrative head' means the most senior civil servant responsible for the day-to-day administration of a public authority; 'the Commissioner' means the Information and Data Protection Commissioner, who is designated as the supervisory authority under this Act."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Proactive Disclosure",
+      "content": "Public authorities shall proactively make available to the public, without the need for a formal request, categories of information that are of broad public interest. Categories of information subject to proactive disclosure include: general information about the public authority, its structure, functions, and senior staff; information on decision-making processes and criteria applied; policies, strategies, and plans of the public authority; statistics and research produced by the public authority; information on public procurement and contracts above specified thresholds; and any other categories specified by the Minister. Public authorities shall publish proactively disclosed information on their official websites and shall update it regularly to ensure it remains current and accurate."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Making a Request",
+      "content": "A request for access to an official document may be made in writing or through any other medium accepted by the public authority, including electronic means. Requests shall identify the official document or the subject matter of the document sought with sufficient clarity to enable the public authority to identify and locate the relevant document. Requestors shall not be required to state reasons for their request and shall not be required to provide personal identification beyond what is necessary for the processing of the request and the provision of a response. Public authorities shall provide assistance to requestors who are unable to formulate their request in writing or who need assistance in identifying the relevant document."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Processing of Requests",
+      "content": "Public authorities shall acknowledge receipt of requests for access to official documents without undue delay and shall respond to requests within twenty working days of receipt. Where a request relates to a very large volume of documents or is particularly complex, the public authority may extend this period by a further twenty working days, subject to notification of the requestor. The response to a request shall either grant access to the document in the form requested or, where access is refused wholly or partly, provide reasons for the refusal and inform the requestor of the available review and appeal mechanisms. Public authorities shall apply a presumption in favour of disclosure and shall consider partial disclosure where a document contains both disclosable and non-disclosable information."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Exceptions to the Right of Access",
+      "content": "Access to official documents may be refused where disclosure would reasonably be expected to cause substantial harm to: national security, defence, or international relations; the prevention, detection, or investigation of offences; personal privacy, where the document contains personal data whose disclosure is not authorised under applicable data protection law; commercial confidentiality, including trade secrets and confidential business information; internal deliberative processes of public authorities, where premature disclosure would substantially inhibit free and frank discussion; the effective administration of justice or legal proceedings; the financial, monetary, or economic interests of the State; or the safety of persons. Exceptions shall be applied only where the harm is clearly established and the public interest in non-disclosure outweighs the public interest in access."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Public Interest Override",
+      "content": "Even where an exception applies, access shall be granted where the public interest in disclosure clearly outweighs the public interest in non-disclosure. The public interest in disclosure shall be considered to be particularly strong where the document relates to evidence of wrongdoing, corruption, or maladministration by a public authority; the health, safety, or welfare of the public; the environment; or the use of public funds. The public interest override shall be assessed by the administrative head of the public authority in light of the specific circumstances of each request, taking into account the nature and extent of the potential harm and the significance of the public interest served by disclosure."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Personal Data and Privacy",
+      "content": "Access to official documents containing personal data shall be subject to compliance with applicable data protection law, including the GDPR and the Data Protection Act (Cap. 586). Where a document contains personal data of a third party, the public authority shall assess whether disclosure of the personal data is lawful under the GDPR, including whether there is a legitimate ground for disclosure and whether the disclosure is proportionate to the purpose. Where it is possible to provide access to the non-personal data parts of a document by redacting personal data, the public authority shall do so rather than refusing access to the whole document. Requestors seeking access to documents containing their own personal data may also exercise rights under the GDPR."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Internal Review",
+      "content": "A requestor who is not satisfied with the response to their request, whether because access has been refused, or because of the form in which access has been provided, or because of the failure of the public authority to respond within the required timeframe, may request an internal review by the senior official of the public authority, being the Permanent Secretary or equivalent. An internal review request shall be made within thirty days of the response or of the expiry of the response timeframe. The public authority shall complete the internal review within twenty working days of receipt of the review request and shall provide the requestor with a written decision, including reasons. The internal review decision may uphold, modify, or reverse the original decision."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Appeal to the Commissioner",
+      "content": "A requestor who is not satisfied with the outcome of an internal review may lodge an appeal with the Information and Data Protection Commissioner within thirty days of the internal review decision or of the expiry of the internal review timeframe. The Commissioner shall investigate the appeal and may request information from the public authority, may examine the document concerned, and may hold hearings. The Commissioner shall issue a decision on the appeal within a specified timeframe and shall give reasons for the decision. Where the Commissioner determines that access should be granted, the Commissioner shall specify the form in which access is to be provided. Decisions of the Commissioner may be appealed to the Administrative Review Tribunal within specified timeframes."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Fees",
+      "content": "No fee shall be charged for processing a request for access to an official document or for providing access in electronic format. A fee may be charged for providing access in physical format, such as printed copies, provided that the fee does not exceed the cost of reproduction. Fees shall not be charged for internal reviews or for appeals to the Commissioner. Where the estimated fee for physical reproduction exceeds a specified amount, the public authority shall notify the requestor of the estimated fee before proceeding and shall give the requestor the opportunity to modify the request or to elect to receive the document in electronic format instead."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Assistance to Requestors",
+      "content": "Public authorities shall designate a Freedom of Information Officer responsible for coordinating the handling of requests, providing assistance to requestors, and maintaining the authority's compliance with this Act. Freedom of Information Officers shall be available to assist requestors in formulating their requests, to explain applicable procedures, and to identify documents held by the authority that are responsive to the subject matter of a request. The Commissioner shall publish guidance for public authorities on the implementation of this Act, including guidance on the application of exceptions, the conduct of internal reviews, and the proactive disclosure of information."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Monitoring and Reporting",
+      "content": "Public authorities shall maintain records of requests received under this Act, the decisions taken, and the outcomes. Each public authority shall submit an annual report to the Commissioner covering the number of requests received, the number granted in full and in part and refused, the exceptions relied upon, the number of internal reviews conducted, and the outcomes of internal reviews. The Commissioner shall consolidate annual reports and shall publish a national report on freedom of information covering trends, systemic issues, and recommendations for the improvement of the system. The national report shall be laid before the House of Representatives and published on the Commissioner's website."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Non-Applicability to Certain Bodies",
+      "content": "This Act does not apply to the President of Malta or the Secretariat of the President; to the House of Representatives and its Secretariat; to the judiciary and related bodies; to security and intelligence services; or to bodies carrying out functions relating to criminal intelligence or criminal investigations, to the extent that the documents concerned are directly related to those functions. The Minister may, by regulation, extend the application of this Act to additional bodies not currently covered or may designate additional categories of documents as subject to proactive disclosure requirements."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Relationship with Other Legislation",
+      "content": "This Act applies in addition to other legislation providing rights of access to information held by public authorities, and shall not be construed to restrict any such rights. Where other legislation provides more extensive rights of access than those established under this Act, the more extensive rights shall apply. Access to environmental information is governed by the Environmental Information Regulations implementing Directive 2003/4/EC, which provides a parallel access regime for environmental documents held by public authorities. The Act applies alongside the GDPR provisions granting data subjects the right of access to their personal data."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16. Whistleblower Protection",
+      "content": "Public officials and other persons who provide information to requestors under this Act, or who assist in the implementation of this Act, shall not be subject to any disciplinary or other adverse action solely on the grounds of having provided or facilitated access to official documents in accordance with this Act. This provision applies without prejudice to applicable whistleblower protection legislation, which provides additional protections for persons reporting breaches of law or other wrongdoing. Public authorities shall not adopt or implement policies or practices that deter or punish staff for providing information to requestors in good faith in accordance with applicable requirements."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "official document",
+      "definition": "Any document, record, file, or other information held by a public authority, in whatever format or medium, including electronic documents, photographs, audio-visual material, and databases.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "public authority",
+      "definition": "Any Ministry, Department, Government entity, agency, or local council exercising public functions in Malta.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "requestor",
+      "definition": "Any natural or legal person making a request for access to an official document under this Act.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "public interest override",
+      "definition": "The principle that access to an official document shall be granted even where an exception applies if the public interest in disclosure clearly outweighs the public interest in non-disclosure.",
+      "source_provision": "art7"
+    }
+  ]
+}
