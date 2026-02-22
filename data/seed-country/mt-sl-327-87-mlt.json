@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-327-87-mlt",
+  "type": "statute",
+  "title": "Statut 11 - Statut dwar il-Ħarsien tal-Kwalità u l-Awditjar Akkademiku",
+  "title_en": "Statut 11 - Statut dwar il-Ħarsien tal-Kwalità u l-Awditjar Akkademiku",
+  "short_name": "eli/sl/327.87/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.87/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.87/mlt, expression eli/sl/327.87/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STATUT 11 - }ARSIEN TAL-KWALITÀ\nU L-AWDITJAR AKKADEMIKU\n\n[ L.S.327.87\n\nLE{ISLAZZJONI SUSSIDJARJA 327.87\nSTATUT 11 - STATUT DWAR IL-}ARSIEN TALKWALITÀ U L-AWDITJAR AKKADEMIKU\n14 ta’ Novembru, 1997\nL-AVVI| LEGALI 178 tal-1997, kif emendat bl-Avvi\\ Legali 218 tal2002.\n\nRevokat bl-Avviż Legali 313 tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-590-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Virtual Financial Assets",
+  "title_en": "Regolamenti dwar Virtual Financial Assets",
+  "short_name": "eli/sl/590.1/mlt",
+  "status": "in_force",
+  "issued_date": "2018-11-05",
+  "in_force_date": "2018-11-01",
+  "url": "https://legislation.mt/eli/sl/590.1/20240630/mlt",
+  "description": "Official text from legislation.mt (eli/sl/590.1/mlt, expression eli/sl/590.1/20240630/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "VIRTUAL FINANCIAL ASSETS\n\n[ L.S. 590.01\n\nLEĠISLAZZJONI SUSSIDJARJA 590.01\nREGOLAMENTI DWAR VIRTUAL FINANCIAL\nASSETS\n1 ta’ Novembru, 2018\nL-AVVIŻ LEGALI 357 tal-2018, kif emendat bl-Avviżi Legali 25 u 332\ntal-2022 u 134 u 296 tal-2024.\n\nDawn ir regolamenti ġew ippubblikati bl-Ilslien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

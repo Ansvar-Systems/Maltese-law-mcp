@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-35-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kompatibilità Elettromanjetika",
+  "title_en": "Regolamenti dwar Kompatibilità Elettromanjetika",
+  "short_name": "eli/sl/427.35/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.35/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.35/mlt, expression eli/sl/427.35/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KOMPATIBILITÀ ELETTROMANJETIKA\n\n[L.S.427.35\n\nLE{ISLAZZJONI SUSSIDJARJA 427.35\nREGOLAMENTI DWAR KOMPATIBILITÀ\nELETTROMANJETIKA*\n20 ta’ April, 2016\nL-AVVI| LEGALI 98 tal-2016.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

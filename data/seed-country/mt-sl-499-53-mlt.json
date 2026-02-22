@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-499-53-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ħlas ta’ Taxxi għall-Użu ta’ Toroq Imħassrin bl-Avviż Legali 338 tal-2024",
+  "title_en": "Regolamenti dwar il-Ħlas ta’ Taxxi għall-Użu ta’ Toroq Imħassrin bl-Avviż Legali 338 tal-2024",
+  "short_name": "eli/sl/499.53/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2008-10-16",
+  "url": "https://legislation.mt/eli/sl/499.53/20241210/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.53/mlt, expression eli/sl/499.53/20241210/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 260 ta’ l-2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nil-Ħlas ta’ Taxxi għall-Użu ta’ Toroq.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra:\n\nTifsir.\n\n\"id-Direttiva 1999/62/KE\" tfisser id-Direttiva 1999/62/KE talParlament Ewropew u tal-Kunsill tas-17 ta’ Ġunju, 1999 dwar ilħlas li għandu jsir minn vetturi ta’ merkanzija tqila għall-użu ta’\n`erti infrastrutturi kif emendata bid-Direttiva 2006/38/KE tas-17 ta’\nMejju, 2006 u mid-Direttiva tal-Kunsill 2006/103/KE tal-20 ta’\nNovembru, 2006.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Novembru, 2006",
+      "content": "Id-disposizzjonijiet tad-Direttiva 1999/62/KE għandhom\nikunu japplikaw jekk jiġri li tiġi stabbilita sistema ta’ ħlas ta’ taxxi\ngħall-użu ta’ xi triq f’Malta.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 338 tal-2024.\n\nApplikabbiltà.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

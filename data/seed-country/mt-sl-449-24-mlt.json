@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-449-24-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Aċdu Eruċiku",
+  "title_en": "Regolamenti dwar l-Aċdu Eruċiku",
+  "short_name": "eli/sl/449.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.24/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.24/mlt, expression eli/sl/449.24/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 247 ta’ l-2000",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lA`idu Eru`iku.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 11
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lA`idu Eru`iku",
+      "content": "Dawn ir-regolamenti g]andhom ikunu japplikaw g]al:\n\nTitolu.\nSkop.\n\n(a) \\jut, xa]mijiet u ta]litiet tag]hom ma]subin b]ala tali\ng]all-konsum mill-bniedem;\n(b) komposti ta’ oggetti ta’ l-ikel li jkunu \\diedu\nmag]hom \\jut, xa]mijiet jew ta]litiet tag]hom u li lkontenut totali ta’ xa]am fihom jaqbe\\ il-5%.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Skop",
+      "content": "1 Il-prodotti msemmija fir-regolament 2 g]andu jkollhom\nmhux aktar minn 5% ta’ a`idu eru`iku kkolkulat fuq il-livell totali\nta’ acidi xa]min fil-komponent ta’ xa]am.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 25
+      }
+    }
+  ],
+  "definitions": []
+}

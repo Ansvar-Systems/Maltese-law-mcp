@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-465-44-mlt",
+  "type": "statute",
+  "title": "Ordni li jħassar l-Ordni dwar is-Sospensjoni ta’ Termini Legali (Atti dwar it-Taxxa)",
+  "title_en": "Ordni li jħassar l-Ordni dwar is-Sospensjoni ta’ Termini Legali (Atti dwar it-Taxxa)",
+  "short_name": "eli/sl/465.44/mlt",
+  "status": "repealed",
+  "issued_date": "2020-07-09",
+  "in_force_date": "2020-07-09",
+  "url": "https://legislation.mt/eli/sl/465.44/20200709/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.44/mlt, expression eli/sl/465.44/20200709/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 242 tal-2020",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni li jħassar l-Ordni dwar\nis-Sospensjoni ta’ Termini Legali (Atti dwar it-Taxxa).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Ordni dwar is-Sospensjoni ta’ Termini Legali (Atti\ndwar it-Taxxa), hawn iżjed ’il quddiem imsejjaħ \"l-ordni prinċipali\",\nhuwa b’dan l-ordni imħassar b’effett mill-15 ta’ Ġunju 2020, mingħajr\npreġudizzju għall-validità ta’ kull ħaġa magħmula jew li tħalliet barra\nmilli ssir fuq il-bażi ta’ dak l-ordni u soġġett għad-dispożizzjonijiet ta’\ndan l-ordni.\n\nTħassir.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "B’konsegwenza tat-tħassir tal-ordni prinċipali:\n\n(a)\nkull terminu legali li kien sospiż bis-saħħa talordni prinċipali u li kien beda jiddekorri qabel id-data li fiha dik\nis-sospensjoni bdiet fis-seħħ imma li ma kienx skada qabel dik\nid-data għandu jerġa’ jkompli jiddekorri, għaż-żmien li kien\nbaqa’ f’dik id-data, mill-15 ta’ Ġunju 2020;\n(b)\nkull terminu legali li kien sospiż bl-ordni\nprinċipali u li, kieku mhux għal dak l-ordni, kien se jibda\njiddekorri waqt li s-sospensjoni kienet fis-seħħ, għandu jibda\njiddekorri mill-15 ta’ Ġunju 2020.\n\nL.S. 465. 39.\n\nKonsegwenza tattħassir tal-ordni\nprinċipali.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

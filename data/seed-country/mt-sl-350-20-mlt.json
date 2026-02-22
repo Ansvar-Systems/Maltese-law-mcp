@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-350-20-mlt",
+  "type": "statute",
+  "title": "Ħtiġiet dwar Standards u Prattika dwar Sottotitli u Titli Oħrajn fil-Programmi Televiżivi",
+  "title_en": "Ħtiġiet dwar Standards u Prattika dwar Sottotitli u Titli Oħrajn fil-Programmi Televiżivi",
+  "short_name": "eli/sl/350.20/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.20/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.20/mlt, expression eli/sl/350.20/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Introduzzjoni",
+      "content": "Dawn il-}ti[iet dwar Standards u Prattika saru millAwtorità tax-Xandir bis-sa]]a ta’ l-artikolu 20(3) ta’ l-Att dwar ixXandir, Kapitlu 350 tal-Li[ijiet ta’ Malta.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "kliem `ar li jidentifika l-prodott innifsu",
+      "content": "}ti[iet {enerali dwar is-Sottotitli, Titli Normali u dawk\nli jikkreditaw il-programmi",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 31
+      }
+    }
+  ],
+  "definitions": []
+}

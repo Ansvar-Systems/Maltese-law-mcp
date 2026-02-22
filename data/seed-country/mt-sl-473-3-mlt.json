@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-473-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Eko-Kontribuzzjoni (Formula u Dritt Amministrattiv għall-Appell)",
+  "title_en": "Regolamenti dwar l-Eko-Kontribuzzjoni (Formula u Dritt Amministrattiv għall-Appell)",
+  "short_name": "eli/sl/473.3/mlt",
+  "status": "in_force",
+  "issued_date": "2012-05-03",
+  "in_force_date": "2012-05-03",
+  "url": "https://legislation.mt/eli/sl/473.3/20120503/mlt",
+  "description": "Official text from legislation.mt (eli/sl/473.3/mlt, expression eli/sl/473.3/20120503/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 282 tal-2007, kif emendat bl-Avviż Legali 427 tal2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar lEko-Kontribuzzjoni (Formula u Dritt amministrattiv għall-Appell).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Persuna li tirċievi u tiġi notifikata bi prospett skond lartikolu 13A tal-Att dwar l-Eko-Kontribuzzjoni, jew li tiġi\nnotifikata b’att maħruġ mill-qorti kif msemmi fl-artikolu 18(2) talistess Att, tista’ fi żmien tletin jum minn meta tiġi hekk notifikata\ntagħmel appell quddiem il-Bord tal-Appell fejn hija toġġezzjona\ngħall-penali amministrattivi li tkun weħlet. Dan l-appell għandu\njsir permezz ta’ Formola ta’ Appell stabbilita fl-Iskeda u għandha\ntiġi ppreżentata fil-Bord tal-Appell.\n\nAppeal form.\nKap. 473.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appeal form",
+      "content": "Għandu jitħallas dritt amministrattiv ta’ tmienja u ħamsin\neuro u tlieta u għoxrin ċenteżmu (€58.23) lis-segretarju tal-Bord\ntal-Appell minn persuna li tippreżenta appell.\n\nDritt\namministrattiv.\nEmendat:\nA.L. 427 tal-2007.\n\n[ L.S.473.03\n\nU DRITT AMMINISTRATTIV GĦALL-APPELL)\nRegolament 2\n\nU DRITT AMMINISTRATTIV GĦALL-APPELL)\n\n[ L.S.473.03",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

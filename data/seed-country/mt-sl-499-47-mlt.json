@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-47-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Distribution of Traffic Rights) Regulations",
+  "title_en": "Civil Aviation (Distribution of Traffic Rights) Regulations",
+  "short_name": "eli/sl/499.47/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/499.47/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.47/mlt, expression eli/sl/499.47/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (DISTRIBUTION OF TRAFFIC RIGHTS) [L.S.499.47\n\nLEĠISLAZZJONI SUSSIDJARJA 499.47\nCIVIL AVIATION (DISTRIBUTION OF TRAFFIC\nRIGHTS) REGULATIONS*\n13 ta’ Frar, 2007\nL-AVVIŻ LEGALI 23 ta’ l-2007.\n\n*Dan l-Ordni ġie ppubblikat bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

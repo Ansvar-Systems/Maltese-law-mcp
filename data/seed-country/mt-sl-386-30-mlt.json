@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Companies Act (Agricultural Companies)",
+  "title_en": "Regolamenti dwar Companies Act (Agricultural Companies)",
+  "short_name": "eli/sl/386.30/mlt",
+  "status": "in_force",
+  "issued_date": "2026-01-08",
+  "in_force_date": "2025-12-26",
+  "url": "https://legislation.mt/eli/sl/386.30/20251226/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.30/mlt, expression eli/sl/386.30/20251226/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 386.30]\n\nAGRICULTURAL COMPANIES\n\nLEĠISLAZZJONI SUSSIDJARJA 386.30\nREGOLAMENTI DWAR AGRICULTURAL\nCOMPANIES\n26 ta’ Dicembru, 2025\nL-AVVIŻ LEGALI 307 tal-2025.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

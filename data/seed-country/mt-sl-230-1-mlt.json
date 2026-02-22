@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-230-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Ħin tas-Sajf",
+  "title_en": "Ordni dwar il-Ħin tas-Sajf",
+  "short_name": "eli/sl/230.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/230.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/230.1/mlt, expression eli/sl/230.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 76 tal-2001, 150 tal-2006 u 84 tal-2012, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-}in tas-Sajf.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-}in tas-Sajf",
+      "content": "(1) Fis-snin 2002, 2003, 2004, 2005 u 2006, i\\-\\mien tal]in tas-sajf ikun i\\-\\mien li jibda fis-sag]tejn ta’ filg]odu, ]in\nlokali, ta’ l-a]]ar }add ta’ Marzu u li jispi``a it-tlieta ta’ filg]odu,\n]in tas-sajf lokali, ta’ l-a]]ar }add ta’ Ottubru ta’ dawk is-snin.\n(2) Fis-snin 2007 sa 2011 it-tnejn inkluzi, i\\-\\mien tal-]in tassajf g]andu jibda mis-sag]tejn ta’ filg]odu, ]in lokali, ta’ l-a]]ar\n}add ta’ Marzu u jispi``a fit-tlieta ta’ filg]odu, ]in tas-sajf lokali,\nta’ l-a]]ar }add ta’ Ottubru ta’ l-istess snin, kif [ej:\nfl-2007:\n\nil-}add 25 ta’ Marzu u l-}add 28 ta’ Ottubru\n\nfl-2008:\n\nil-}add 30 ta’ Marzu u l-}add 26 ta’ Ottubru\n\nfl-2009:\n\nil-}add 29 ta’ Marzu u l-}add 25 ta’ Ottubru\n\nfl-2010:\n\nil-}add 28 ta’ Marzu u l-}add 31 ta’ Ottubru\n\nfl-2011:\n\nil-}add 27 ta’ Marzu u l-}add 30 ta’ Ottubru.\n\n(3) Fis-snin 2012 sa 2016, it-tnejn inklu\\i, i\\-\\mien tal-]in tassajf g]andu jibda mis-sag]tejn ta’ filg]odu, ]in lokali, tal-a]]ar\n}add ta’ Marzu u jispi``a fit-tlieta ta’ filg]odu, ]in tas-sajf lokali,\ntal-a]]ar }add ta’ Ottubru tal-istess snin, kif [ej Sena\nfl-2012\nfl-2013\nfl-2014\nfl-2015\nfl-2016\n\nBidu tal-]in tas-sajf\nil-}add 25 ta’ Marzu\nil-}add 31 ta’ Marzu\nil-}add 30 ta’ Marzu\nil-}add 29 ta’ Marzu\nil-}add 27 ta’ Marzu\n\nTmiem tal-]in tas-sajf\nil-}add 28 ta’ Ottubru\nil-}add 27 ta’ Ottubru\nil-}add 26 ta’ Ottubru\nil-}add 25 ta’ Ottubru\nil-}add 30 ta’ Ottubru\n\nTitolu.\n|mien tal-]in tassajf.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 71
+      }
+    }
+  ],
+  "definitions": []
+}

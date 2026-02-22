@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-246-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Valur ta' Immobbli fl-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti",
+  "title_en": "Ordni dwar Valur ta' Immobbli fl-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti",
+  "short_name": "eli/sl/246.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.4/mlt, expression eli/sl/246.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 98 ta’ l-1999, kif emendat bl-Avvi\\ Legali 411 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Valur ta’\nImmobbli fl-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux\nResidenti.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]all-fini tal-paragrafu (b) tal-proviso li hemm massubartikolu (1) ta’ l-artikolu 5 ta’ l-Att dwar l-Akkwist ta’\nProprjetà Immobbli minn Persuni mhux Residenti, il-valur talproprjetà immobbli indikat fil-paragrafu msemmi u li dwarha lMinistru ma g]andux i\\omm il-permess tieg]u qieg]ed ji[i\nstabbilit b]ala €70,000 fil-ka\\ ta’ appartament u €117,000 fil-ka\\\nta’ kull proprjetà o]ra.\n\nIffssar ta’ valur.\nEmendat:\nA.L. 411 ta’ l-2007.\nKap. 246.\n\nG]all-fini ta’ dan l-Ordni \"appartament\" tfisser residenza\nta’ sular wie]ed, li tissejjah b’liema mod tissejja], fi blokk\nvertikali ta’ mill-inqas \\ew[ oqsma residenzjali li jkunu sovrastanti\ng]al xulxin u li jkunu mibnija fuq sit komuni.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

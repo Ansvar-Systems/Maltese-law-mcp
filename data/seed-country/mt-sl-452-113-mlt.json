@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-113-mlt",
+  "type": "statute",
+  "title": "Regolamenti li Jestendu l-Applikabilità ta’ Dispożizzjonijiet dwar Rikonoxximent tat-Trade Unions għal Servizz mal-Gvern",
+  "title_en": "Regolamenti li Jestendu l-Applikabilità ta’ Dispożizzjonijiet dwar Rikonoxximent tat-Trade Unions għal Servizz mal-Gvern",
+  "short_name": "eli/sl/452.113/mlt",
+  "status": "in_force",
+  "issued_date": "2016-12-14",
+  "in_force_date": "2016-12-14",
+  "url": "https://legislation.mt/eli/sl/452.113/20161214/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.113/mlt, expression eli/sl/452.113/20161214/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 414 of 2016",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti li\nJestendu l-Applikabilità ta’ Dispożizzjonijiet dwar Rikonoxximent\ntat-Trade Unions għal Servizz mal-Gvern.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tat-Trade Unions għal Servizz mal-Gvern",
+      "content": "L-artikolu 48(2) tal-Att dwar l-Impiegi u r-Relazzjonijiet\nIndustrijali, sakemm dan ikun id-dispożizzjoni li tagħti l-poter li\njinħarġu r-Regolamenti dwar Rikonoxximent tat-Trade Unions,\ngħandu jkun applikabbli għal servizz mal-Gvern.\n\nTitolu.\n\nApplikabilità għal\nservizz mal-Gvern.\nKap. 452.\nL.S. 452.112",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-261-34-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta’ Proprjetà) (2011)",
+  "title_en": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta’ Proprjetà) (2011)",
+  "short_name": "eli/sl/261.34/mlt",
+  "status": "in_force",
+  "issued_date": "2011-03-02",
+  "in_force_date": "2011-03-02",
+  "url": "https://legislation.mt/eli/sl/261.34/20110302/mlt",
+  "description": "Official text from legislation.mt (eli/sl/261.34/mlt, expression eli/sl/261.34/20110302/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 65, 128 u 236 tal-2011, konsolidati",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar l-Awtorità tad-Djar\n(Trasferiment ta’ Proprjetà) (2011).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-proprjetà deskritta fl-Iskeda hi b’dan spe`ifikata g]allfinijiet ta’ l-artikolu 12 ta’ l-Att dwar l-Awtorità tad-Djar.\n\nProprjetà\nspe`ifikata.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-proprjetà spe`ifikata fl-artikolu 2 g]andha ti[i trasferita\nlill-Awtorità tad-Djar u ti[i vestita fiha kif provdut fl-imsemmi\nartikolu b’se]] mid-data spe`ifikata fl-Iskeda.\n\nJum stabbilit.\n\n(Artikolu 2)\nDeskrizzjoni tal-proprjetà msemmija fl-artikolu 2\nu jum stabbilit",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

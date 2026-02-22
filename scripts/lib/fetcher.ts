@@ -8,7 +8,7 @@
  */
 
 const USER_AGENT = 'Maltese-Law-MCP/1.0 (https://github.com/Ansvar-Systems/Maltese-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 1200;
+const MIN_DELAY_MS = 1000;
 
 let lastRequestTime = 0;
 

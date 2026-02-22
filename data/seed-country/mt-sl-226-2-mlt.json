@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-226-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ibħra Terrirorjali",
+  "title_en": "Regolamenti dwar l-Ibħra Terrirorjali",
+  "short_name": "eli/sl/226.2/mlt",
+  "status": "in_force",
+  "issued_date": "2015-08-27",
+  "in_force_date": "2015-08-27",
+  "url": "https://legislation.mt/eli/sl/226.2/20150827/mlt",
+  "description": "Official text from legislation.mt (eli/sl/226.2/mlt, expression eli/sl/226.2/20150827/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 236 tal-2015",
+      "content": "(1) It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nl-Ibħra Terrirorjali.\n\nTitolu, skop u\ngħan.\n\n(2) Dawn ir-regolamenti japplikaw għall-ibħra interni u l-ibħra\nterritorjali ta’ Malta.\n(3) L-għan ta’ dawn ir-regolamenti hu sabiex jirregola lattivitajiet fl-ibħra interni u fl-ibħra territorjali ta’ Malta.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "territorjali ta’ Malta",
+      "content": "(1) Kemm-il darba ma jitfissirx xort’oħra f’dawn irregolamenti, kliem u frażijiet li jintużaw hawnhekk għandu\njkollhom l-istess tifsir kif mogħti lilhom fl-Att.\n(2) F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra:\n\"l-Att\" tfisser l-Att dwar l-Ibħra Territorjali u ż-Żona Kontigwa;\n\nTifsir.\n\nKap. 226.\n\n\"ibħra interni\" tfisser l-ibħra fuq in-naħa tal-art tal-linji bażi li\nminnhom jitkejjel l-wisà tal-ibħra territorjali;\n\"ibħra territorjali\" għandha l-istess tifsira mogħtija lilha blartikolu 3 tal-Att;",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Bis-saħħa tad-dispożizzjonijiet tar-regolament 11 tarRegolamenti dwar il-Blata Kontinentali, id-dispożizzjonijiet tarregolamenti 3 sa 10 tal-imsemmija Regolamenti japplikaw ukoll\ngħall-ibħra interni u l-ibħra territorjali ta’ Malta.\n\nApplikabilità.\nL.S. 535.02.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-465-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tat-Titqib fil-Ġisem",
+  "title_en": "Regolamenti dwar il-Kontroll tat-Titqib fil-Ġisem",
+  "short_name": "eli/sl/465.7/mlt",
+  "status": "repealed",
+  "issued_date": "2012-02-27",
+  "in_force_date": "2012-02-27",
+  "url": "https://legislation.mt/eli/sl/465.7/20120227/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.7/mlt, expression eli/sl/465.7/20120227/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 13 tal-2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilKontroll tat-Titqib fil-Āisem.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieā xort’oħra -\n\nTifsir.\n\n\"is-Suprintendent\" tfisser is-Suprintendent tas-Saħħa Pubblika;\n\"titqib fil-āisem\" tfisser it-titqib ta’ kull parti tal-āisem għal\ngħanijiet kosmetiëi, iŜda ma tinkludix it-titqib tal-āisem li jsir minn\nprofessjonist fil-kura medika bħala parti mit-trattament u l-kura ta’\npazjenti u t-titqib tal-widna b’labra li tkun qabel āiet sterilizzata u\nli tintuŜa għal darba waħda biss u sistema ta’ titqib bil-klasp.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1)\n\nĦadd m’għandu:\n\n(a) jagħmel ebda forma ta’ titqib fil-āisem kemm-il darba\nma jkunx āie awtorizzat jagħmel dan bil-miktub misSuprintendent; u\n\nPermess biex ikun\njista’ jsir titqib filāisem.\n\n(b) juŜa xi stabbiliment jew fond jew parti minn bini jew\nbini sħiħ bil-għan li hemm āew jew f’dak il-post\njagħmel xi għamla ta’ titqib fil-āisem kemm-il darba\ndak l-istabbiliment jew fond, jew parti minn bini jew\nbini sħiħ, ma jkunx kopert b’liëenza valida maħruāa\ngħal dak il-għan mis-Suprintendent.\n(2) Is-Suprintendent jista’ jassoāāetta l-ħruā u t-tiādid talpermess għal dawk il-kundizzjonijiet li huwa jista’ jimponi flinteress tas-saħħa pubblika.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "għal dak il-għan mis-Suprintendent",
+      "content": "(1) Ħadd m’għandu jkollu fil-pussess tiegħu, jew iŜomm\nf ’xi stabbiliment jew fond, xi strument, tagħmir, materjal jew\noāāett ieħor li jkollu x’jaqsam mas-sengħa tat-titqib fil-āisem\nkemm-il darba dik il-persuna ma jkollhiex permess validu maħruā\nmis-Suprintendent skont ir-regolament 3.\n\nPermess għal\nstabbiliment fejn\njista’ jsir titqib filāisem.\n\n(2) Dak il-permess għandu jkun validu għal perjodu ta’ sena u\njista’ jiāāedded għal aktar perjodi ta’ sena kull wieħed misSuprintendent.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "jista’ jiāāedded għal aktar perjodi ta’ sena kull wieħed misSuprintendent",
+      "content": "Min jagħmel reat kontra dawn ir-regolamenti jista’ jeħel (a) meta jinsab ħati għall-ewwel darba, multa ta’ mhux\ninqas minn mitejn u tnejn u tletin euro u erbgħa u\ndisgħin ëenteŜmu (€232.94) u mhux iŜjed minn erba’\nmija u ħamsa u sittin euro u tmienja u tmenin\n\n*ara r-regolament 1(2) ta’ dawn ir-Regolamenti kif promulgati oriāinarjament.\n\nReati.\n\n[ L.S.465.07\n\nKONTROLL TAT-TITQIB FIL-ĀISEM\nëenteŜmu (€465.88); u\n(b) meta jinsab ħati għat-tieni darba jew kull darb’oħra li\ntiāi wara, multa ta’ mhux inqas minn erba’ mija u\nħamsa u sittin euro u tmienja u tmenin ëenteŜmu\n(€465.88) u mhux iŜjed minn elfejn, tlett mija u disgħa\nu għoxrin euro u sebgħa u tletin ëenteŜmu (€2329.37).",
+      "metadata": {
+        "source_line_start": 61,
+        "source_line_end": 86
+      }
+    }
+  ],
+  "definitions": []
+}

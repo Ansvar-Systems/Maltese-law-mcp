@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-318-9-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Bonus lil Familja",
+  "title_en": "Ordni dwar Bonus lil Familja",
+  "short_name": "eli/sl/318.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.9/mlt, expression eli/sl/318.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 93 ta’ l-1989",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Bonus lil Familja.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar Bonus lil Familja",
+      "content": "G]andu jit]allas bonus lil familja ekwivalenti g]al Lml fil[img]a mid-Direttur tas-Sigurtà So`jali skond il-paragrafu 3 ta’\ndan l-Ordni lil min jir`ievi xi wa]da mill-allowances li jit]allsu\nta]t u skond l-artikoli 81 sa 88 ta’ l-Att dwar is-Sigurtà So`jali,\nhawnhekk i\\jed ’il quddiem imsejja] \"l-Att\".",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "hawnhekk i\\jed ’il quddiem imsejja] \"l-Att\"",
+      "content": "Il-bonus lil familja msemmi fl-artikolu 2 ta’ dan l-Ordni\ng]andu jit]allas f’intervalli ta’ sitta u g]oxrin [img]a u g]andu,\nf’kull sena kalendarja, ikun dovut kif [ej:\n\nTitolu.\nRata ta’ bonus lil\nfamilja.\nKap. 318.\n}las ta’ bonus lil\nfamilja.\n\n(a) dwar l-ewwel ]las, fil-jum meta t-tieni ]las ta’ kull\ntliet xhur ta’ xi allowance skond l-artikoli 81 sa 88 ta’\nl-Att jkun dovut skond l-artikolu 99(1)(b)(iv) ta’ limsemmi Att; u\n(b) dwar it-tieni ]las, fil-jum meta r-raba’ ]las ta’ kull\ntliet xhur ta’ xi allowance skond l-imsemmija artikoli\n81 sa 88 jkun dovut skond l-imsemmi subparagrafu\n(iv).",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Kull ]las kif imsemmi qabel g]andu jkopri kull bonus lil\nfamilja li jista’ jit]allas dwar it-tlettax-il [img]a konsekuttivi blarretrati, jew parti minnhom, kif ikun il-ka\\, li jintemmu fl-a]]ar\njum minnufih qabel il-jum meta l-]las tal-bonus lil familja jkun\ndovut skond l-artikolu 3 ta’ dan l-Ordni u kull bonus lil familja li\njista’ jit]allas dwar it-tlettax-il [img]a konsekuttivi bil-quddiem,\njew parti minnhom, kif ikun il-ka\\, li jibdew mill-ewwel jum\nminnufih wara l-jum meta l-]las tal-bonus lil familja jkun dovut\nskond l-imsemmi artikolu 3.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "skond l-imsemmi artikolu 3",
+      "content": "Ma jibqax jit]allas bonus lil familja f’dak l-istess jum li xi\nwa]da mill-allowances li jit]allsu ta]t u skond id-disposizzjonijiet\nta’ l-artikoli 81 sa 88 ta’ l-Att ma tibqax tit]allas iktar; u g]al dan\nil-g]an id-disposizzjonijiet ta’ l-artikolu 99(3) ta’ l-imsemmi Att\ng]andhom japplikaw bl-istess mod kif jistg]u japplikaw dwar xi\nwa]da mill-allowances li tit]allas skond id-disposizzjonijiet ta’ limsemmija artikoli 81 sa 88 g]ar-rigward ta’ l-istess benefi`jarju.\n\nPerijodu kopert\nb’kull ]las talbonus lil familja.\n\nWaqefien ta’ ]las\nta’ bonus lil\nfamilja.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 69
+      }
+    }
+  ],
+  "definitions": []
+}

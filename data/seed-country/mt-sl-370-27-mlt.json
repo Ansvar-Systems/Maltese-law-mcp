@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar Servizzi ta' Investiment (European Social Entrepreneurship Funds)",
+  "title_en": "Regolamenti dwar l-Att dwar Servizzi ta' Investiment (European Social Entrepreneurship Funds)",
+  "short_name": "eli/sl/370.27/mlt",
+  "status": "in_force",
+  "issued_date": "2014-04-01",
+  "in_force_date": "2014-04-01",
+  "url": "https://legislation.mt/eli/sl/370.27/20140401/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.27/mlt, expression eli/sl/370.27/20140401/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR SERVIZZI INVESTMENT\n(EUROPEAN SOCIAL ENREPRENEURSHIP FUNDS)\n\n[ L.S.370.27\n\nLEĠISLAZZJONI SUSSIDJARJA 370.27\nREGOLAMENTI DWAR L-ATT DWAR SERVIZZI TA’\nINVESTIMENT (EUROPEAN SOCIAL\nENTREPRENEURSHIP FUNDS)*\n28 ta’ Marzu, 2014\nL-AVVIŻ LEGALI 106 tal-2014.\n\n*Dawn ir-regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

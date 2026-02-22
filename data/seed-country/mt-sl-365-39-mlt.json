@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-365-39-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Eżenzjoni minn ProjbizzjonijietImħassrin bl-Att XX tal-2020",
+  "title_en": "Regolamenti dwar Eżenzjoni minn ProjbizzjonijietImħassrin bl-Att XX tal-2020",
+  "short_name": "eli/sl/365.39/mlt",
+  "status": "repealed",
+  "issued_date": "2011-08-29",
+  "in_force_date": "2018-07-03",
+  "url": "https://legislation.mt/eli/sl/365.39/20180703/mlt",
+  "description": "Official text from legislation.mt (eli/sl/365.39/mlt, expression eli/sl/365.39/20180703/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "EŻENZJONI MINN PROJBIZZJONIJIET\n\n[ L.S.365.39\n\nLEĠISLAZZJONI SUSSIDJARJA 365.39\nREGOLAMENTI DWAR EŻENZJONI MINN\nPROJBIZZJONIJIET\n23 ta’ Awwissu, 2011\nL-AVVIŻ LEGALI 336 tal-2011.\n\nImħassrin bl-Att XX.2020.5.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

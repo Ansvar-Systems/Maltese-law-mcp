@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-104-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Korp li Jagħti Kumpens",
+  "title_en": "Regolamenti dwar Korp li Jagħti Kumpens",
+  "short_name": "eli/sl/104.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/104.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/104.4/mlt, expression eli/sl/104.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 94 ta’l-2004",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nKorp li Jag]ti Kumpens.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Korp li Jag]ti Kumpens",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\ntkunx te]tie[ xort’o]ra -\n\nTitolu.\nTifsir.\n\n\"l-Ordinanza\" tfisser l-Ordinanza dwar l-Assigurazzjoni ta’ Kap. 104.\nVetturi bil-Mutur g]ar-Riskji ta’ Terzi Persuni;\n\"il-Fond\" tfisser il-Fond g]all-Protezzjoni u Kumpens stabbilit\nbl-artikolu 49 ta’ l-Att dwar il-Kummer` ta’ l-Assigurazzjoni.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-Korp li Jag]ti Kumpens imsemmi fl-artikolu 9~ ta’ lOrdinanza, g]andu jkun il- Bureau imfisser g]all-finijiet tarregolament 23(1) tar-Regolamenti dwar il-Fond g]all-Protezzjoni u\nKumpens, mag]ruf b]ala l-Motor Insurers Bureau.\n\nKap. 403.\nKorp li Jag]ti\nKumpens.\nL.S. 403.14",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kumpens",
+      "content": "Kull assiguratur li jmexxi l-kummer` ta’ assigurazzjoni ta’ Kontribuzzjonijiet\nvetturi f’Malta g]andu j]allas kontribuzzjoni lill-Korp li Jag]ti lill-Korp li Jag]ti\nKumpens.\nKumpens li jkun utilizzat esklu\\ivament g]all-]las ta’ talbiet ta’\nresponsabbilt à `ivili mill-Korp li Jag]ti Kumpens. Il-Korp li Jag]ti\nKumpens g]andu jistabbilixxi dik il-kontribuzzjoni, billi jqis lammonti me]tie[a, jew mistennija li jkunu me]tie[a, g]all-iskop\ntal-Korp li Jag]ti Kumpens.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kumpens",
+      "content": "Ebda ]las ma g]andu jsir mill-Korp li Jag]ti Kumpens\nf’dawk i`-`irkostanzi fejn ebda ]las ma kien isir mill-Fond bissa]]a tar-regolament 28( b) tar-Regolamenti dwar il-Fond g]allProtezzjoni u Kumpens.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Kumpens",
+      "content": "Meta jqis il-kumpens dwar xi applikazzjoni g]all-]las, ilKorp li Jag]ti Kumpens g]andu jqis kull ammont ie]or ta’ kumpens\nmag]mul lill-applikant fir-rigward ta’ l-istess responsabbilt à ta]t\nkull li[i o]ra.\n\nKa\\ijiet fejn jista’\njing]ata kumpens.\nL.S. 403.14\nG]andu jitqies kull\nkumpens ie]or li\nseta’ng]ata.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "seta’ng]ata",
+      "content": "Fil-ka\\ijiet kollha ta’ kumpens, ir-responsabbiltà totali Limiti ta’\nme]tie[a li ting]ata mill-Korp li Jag]ti Kumpens g]andha til]aq l- responsibilità.\nistess ammont kif inhu me]tie[ li jkun kopert minn polza ta’\nassigurazzjoni ta]t l-Ordinanza jew b’dawk ir-regolamenti li\njistg]u jin]ar[u minn \\mien g]al \\mien.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 72
+      }
+    }
+  ],
+  "definitions": []
+}

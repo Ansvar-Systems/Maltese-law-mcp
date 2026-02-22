@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-14-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għax-Xogħol ta' l-Injam",
+  "title_en": "Ordni għal Kunsill tal-Pagi għax-Xogħol ta' l-Injam",
+  "short_name": "eli/sl/452.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.14/mlt, expression eli/sl/452.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "19 ta’ Awissu, 1955",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]ax-Xog]ol ta’ l-Injam.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Kunsill tal-Pagi g]ax-xog]ol ta’ l-injam jopera g]allimpjegati kollha li ja]dmu fi stabbilimenti fejn tin]adem g]amara,\nfixtures u o[[etti o]ra kollha kemm huma jew fil-bi``a l-kbira ta’ linjam (esklu\\i l-pipi i\\da inklu\\i d-dg]ajjes u l-bodies ta’ vetturi\nbil-mutur, tapizzerija u xog]ol tal-wicker jew tal-qasab, naturali\njew mhux) u g]all-impjegati li ja]dmu ma’ kuntratturi fix-xog]ol\nta’ l-injam fis-seng]a tal-bini u l-in[inerija `ivili.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-avvi\\ li sejra ssir din l-Ordni kien ippubblikat filGazzetta tat-18 ta’ {unju, 1954.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

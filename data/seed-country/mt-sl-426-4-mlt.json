@@ -1,0 +1,185 @@
+{
+  "id": "mt-sl-426-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Servizzi Fiduċjarji Elettroniċi (Proċeduri ta’ Identifikazzjoni mill-Bogħod)",
+  "title_en": "Regolamenti dwar Servizzi Fiduċjarji Elettroniċi (Proċeduri ta’ Identifikazzjoni mill-Bogħod)",
+  "short_name": "eli/sl/426.4/mlt",
+  "status": "in_force",
+  "issued_date": "2021-05-10",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislation.mt/eli/sl/426.4/20210316/mlt",
+  "description": "Official text from legislation.mt (eli/sl/426.4/mlt, expression eli/sl/426.4/20210316/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 103 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nServizzi Fiduċjarji Elettroniċi (Proċeduri ta’ Identifikazzjoni millBogħod).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nKull referenza f’dawn ir-regolamenti għal \"l-Att\"\nhija referenza għall-Att dwar il-Komunikazzjonijiet u Transazzjonijiet\nElettroniċi, u kull referenza għal \"ir-Regolament eIDAS\" hija\nreferenza għar-Regolament (UE) Nru. 910/2014 tal-Parlament\nEwropew u tal-Kunsill tat-23 ta’ Lulju 2014 dwar l-identifikazzjoni\nelettronika u s-servizzi fiduċjarji għal transazzjonijiet elettroniċi fissuq intern u li jħassar id-Direttiva 1999/93/KE. Kemm-il darba ma\njingħadx xort’oħra f’dawn ir-regolamenti id-dispożizzjonijiet talartikolu 2 tal-Att, u tal-Artikolu 3 tar-Regolament eIDAS għandhom\nikunu japplikaw fir-rigward ta’ dawn ir-regolamenti.\n\nTifsir.\nKap. 426.\nRegolament (UE)\nNru. 910/2014.\n\n(2)\nF’dawn ir-regolamenti kemm-il darba r-rabta tal-kliem\nma tkunx teħtieġ xort’oħra:\n\"Awtorità\" tfisser l-Awtorità ta’ Malta dwar il-Komunikazzjoni\nmwaqqfa taħt l-Att dwar l-Awtorità ta’ Malta dwar il-Komunikazzjoni;\n\"dokument tal-identifikazzjoni\" tfisser karta tal-identità,\ndokument għal residenza, jew dokument ta’ identifikazzjoni maħruġ\ntaħt l-Att dwar il-Karta tal-Identità u Dokumenti oħra tal-Identità, jew\nkarta tal-identità jew passaport maħruġ mill-awtoritajiet rilevanti ta’ xi\nStat Membru tal-Unjoni Ewropea, tan-Norveġja, l-Iżlanda,\nLiechtenstein jew l-Isvizzera;\n\nKap. 418.\n\nKap. 258.\n\n\"konferenzi bil-video\" tirreferi għal dawk il-mezzi ta’\nkomunikazzjoni li jikkonsistu f’kull għamla ta’ komunikazzjoni\ninterattiva li tippermetti t-trażmissjoni u l-qbid ta’ ħsejjes, xbihat u\ndata fil-ħin attwali;\n\"liġijiet dwar il-Protezzjoni tad-Data\" tfisser l-Att dwar ilProtezzjoni u l-Privatezza tad-Data, kull regolamenti magħmulin taħtu\nu kull liġi tal-UE li tista’ tkun tapplika u li tirregola il-protezzjoni taddata inkluż ir-Regolament (UE) 2016/679 (Regolament Ġenerali dwar\nil-Protezzjoni tad-Data); u\n\"Lista Affidabbli ta’ Malta\" tfisser il-lista stabbilita u miżmuma\nmill-Awtorità kif hemm fl-Artikolu 22 tar-Regolament eIDAS.\n\nKap. 586.\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "IDENTIFIKAZZJONI MILL-BOGĦOD)",
+      "content": "(1)\nL-iskop ta’ dawn ir-regolamenti huwa li jiġi\nregolat l-użu ta’ proċeduri ta’ identifikazzjoni mill-bogħod permezz ta’\nkonferenzi bil-video minn fornituri ta’ servizzi fiduċjarji kwalifikati,\nmeta dawk il-proċeduri jkunu jipprovdu għal assigurazzjoni\nekwivalenti f’termini ta’ affidabbiltà għal preżenza fiżika kif hemm\nimsemmi fl-Artikolu 24(1)(d) tar-Regolament eIDAS.\n\n[ L.S. 426.04\n\nSkop u\napplikazzjoni.\n\n(2) Dawn ir-regolamenti għandhom ikunu japplikaw biss għal\nfornituri ta’ servizzi fiduċjarji kwalifikati li jkunu awtorizzati\njipprovdu servizzi fiduċjarji kwalifikati f’Malta kif elenkati fil-Lista\nAffidabbli ta’ Malta.\nPreżentazzjoni ta’\nrapport ta’\nvalutazzjoni ta’\nkonformità.",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 93
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "konformità",
+      "content": "(1) Fornitur ta’ servizz fiduċjarju kwalifikat li jkun bi\nħsiebu jidentifika lil xi individwi permezz ta’ proċeduri ta’\nidentifikazzjoni mill-bogħod kif hemm fid-dispożizzjonijiet talArtikolu 24(1)(d) tar-Regolament eIDAS, għandu qabel ma jibda\njimplimenta dawk il-proċeduri, jippreżenta lill-Awtorità rapport ta’\nvalutazzjoni ta’ konformità maħruġ minn korp ta’ valutazzjoni ta’\nkonformità. Dan ir-rapport għandu jkun jikkonsisti f’rapport separat li\njkun jikkonferma b’mod inekwivoku jew xort’oħra li l-fornitur ta’\nservizz fiduċjarju kwalifikat involut u l-proċeduri ta’ identifikazzjoni\nmill-bogħod hawn qabel imsemmija jipprovdu assigurazzjoni\nekwivalenti f’dik li hi affidabbiltà għall-preżenza fiżika, u\njikkonformaw mar-rekwiżiti msemmija fir-regolamenti 5 sa 14:\nIżda dak ir-rapport għandu f’kull każ ikun distint mirrapport ta’ valutazzjoni ta’ konformità li jkun jikkonferma loperazzjonijiet tal-fornitur ta’ servizz fiduċjarju kwalifikat involut:\nIżda wkoll il-proċess ta’ identifikazzjoni mill-bogħod\ngħandu mbagħad jiġi valutat bħala parti mill-operazzjonijiet globali talfornitur ta’ servizz fiduċjarju kwalifikat matul il-valutazzjonijiet ta’\nkonformità ppjanati u mill-inqas darba kull sentejn.\n(2)\nFornitur ta’ servizz fiduċjarju kwalifikat m’għandux\njagħmel użu minn xi proċedura ta’ identifikazzjoni mill-bogħod kemmil darba l-Awtorità ma tkunx qabel approvat bil-miktub ir-rapport ta’\nvalutazzjoni ta’ konformità meħtieġ kif hemm fis-subregolament (1):\nIżda l-Awtorità għandha tikkommunika d-deċiżjoni\ntagħha bil-miktub filwaqt li tagħti r-raġunijiet tagħha dwar jekk tkunx\ntapprova jew le r-rapport ta’ valutazzjoni ta’ konformità meħtieġ, lillfornitur ta’ servizz fiduċjarju kwalifikat fi żmien tlett xhur minn meta lAwtorità tirċievi r-rapport hawn qabel imsemmi.\n\nValutazzjoni ta’\nriskji u ġestjoni ta’\nriskji.",
+      "metadata": {
+        "source_line_start": 94,
+        "source_line_end": 121
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "riskji",
+      "content": "(1)\nQabel ma tiġi adottata xi proċedura ta’\nidentifikazzjoni mill-bogħod, fornitur ta’ servizz fiduċjarju kwalifikat\ngħandu:\n(a)\niwettaq u jiddokumenta kif xieraq analiżi ta’ riskju\nkif hemm fl-Artikolu 19(1) tar-Regolament eIDAS dwar l-\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n\n[ L.S.426.04\n\nimplimentazzjoni tal-identifikazzjoni ta’ individwi permezz ta’\nproċeduri ta’ identifikazzjoni mill-bogħod. Tali analiżi ta’\nriskju għandha b’mod partikolari tidentifika:\n(i)\nir-riskju ta’ identifikazzjoni żbaljata u\nimpersonifikazzjoni,\n(ii)\nriskji li għandhom x’jaqsmu malpreżentazzjoni ta’ dokumenti falsifikati jew foloz, u\n(iii) riskji li għandhom x’jaqsmu mat-tbagħbis\nta’ sistemi ta’ ġbid ta’ xbihat jew ta’ kanali ta’\nkomunikazzjoni; u\n(b)\niwettaq testijiet tal-effettività u s-sigurezza talmetodu ta’ identifikazzjoni mill-bogħod implimentat;\n(ċ)\niwettaq valutazzjoni interna tal-adegwatezza talmetodu ta’ identifikazzjoni mill-bogħod użat biex jimmitiga rriskji identifikati fl-analiżi ta’ riskju:\nIżda fil-kuntest ta’ xi valutazzjoni bħal dik, leffiċjenza tal-identifikazzjoni ta’ riskji hawn qabel imsemmija\ngħandha mill-inqas tkun ekwivalenti għall-preżentazzjoni fiżika\ntad-dokument ta’ identifikazzjoni.\n(2)\nKull analiżi, test jew opinjoni jiġu kif jiġu deskritti li\njsiru taħt dan ir-regolament għandhom jiġu rrekordjati u rreġistrati\ngħal perjodu ta’ mill-inqas tlett snin jew għal dak il-perjodu itwal li lAwtorità tista’ tqis adatt fiċ-ċirkostanzi.",
+      "metadata": {
+        "source_line_start": 122,
+        "source_line_end": 160
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "jsiru taħt dan ir-regolament għandhom jiġu rrekordjati u rreġistrati",
+      "content": "(1)\nIl-metodi ta’ identifikazzjoni mill-bogħod\ngħandhom jiġu biss operati minn persuni mħarrġa u b’ħiliet għal\nkollox speċjalizzati li jkunu debitament awtorizzati mill-fornitur ta’\nservizz fiduċjarju kwalifikat li joperaw f’ismu u li jwettqu kull ħidma\nli jkollha x’taqsam ma’ metodi bħal dawk.\n\nRekwiżiti li\ngħandhom\nx’jaqsmu malpersunal ta’ xi\nfornitur ta’ servizz\nfiduċjarju\nkwalifikat.\n\n(2)\nFornitur ta’ servizz fiduċjarju kwalifikat għandu jiżgura\nli persuni li joperaw f’ismu metodi ta’ identifikazzjoni mill-bogħod,\njingħataw dak it-taħriġ li l-Awtorità tista’ minn żmien għal żmien\nteħtieġ bil-miktub dwar il-verifika ta’ dokumenti ta’ identifikazzjoni\napprovati nazzjonali, dwar l-identifikazzjoni ta’ frodi u, jew dwar\nprattiċi ta’ falsifikazzjoni ta’ provi fuq l-identità u, jew ta’ dokumenti.\nL-Awtorità tista’ f’dan ir-rigward toħroġ dawk il-linji gwida li tista’\ntqis li jkunu meħtieġa f’konformità ma’ normi tal-Unjoni Ewropea u,\njew internazzjonali.",
+      "metadata": {
+        "source_line_start": 161,
+        "source_line_end": 185
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "jew internazzjonali",
+      "content": "Fornitur ta’ servizz fiduċjarju kwalifikat għandu jiżgura\n\nli:\n(a)\n\nl-identifikazzjoni mill-bogħod titwettaq permezz\n\nRekwiżiti tekniċi u\norganizzattivi.\n\n[ L.S. 426.04\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\nta’ konferenzi bil-video li jsiru fil-ħin attwali u mingħajr\ninterruzzjoni jew pawsa, u f’post fejn l-aċċess ikun ristrett\nkemm fiżikament kemm minn perspettiva ta’ computer u, jew\nta’ network ta’ komunikazzjonijiet;\n(b)\nis-sessjoni ta’ identifikazzjoni mill-bogħod li\njkollha x’taqsam mal-persuna li għandha tiġi identifikata tkun\nadegwatament protetta bi kriptaġġ minn tarf sa tarf li jkun\njiżgura l-integrità u l-kunfidenzjalità tiegħu;\n(ċ)\nis-sessjoni ta’ identifikazzjoni mill-bogħod tiġi\nrrekordjata b’tali mod hekk li jiġi adegwatament żgurat\nrekordjar bil-ħoss u xbihat bil-kulur ta’ kwalità tajba biżżejjed\nbiex issir verifika tad-data ta’ identifikazzjoni miġbura:\nIżda dak ir-rekordjar għandu jkun jinkludi d-data u\nl-ħin ta’ rekordjar u l-identifikazzjoni tal-persuna jew persuni li\njkunu operaw is-sistema u kienu responsabbli għas-sessjoni ta’\nidentifikazzjoni mill-bogħod, hekk li dik id-data u ħin\ngħandhom jiġu sinkronizzati ma’ sors ikkalibrat u traċċabbli\nvalutat matul il-valutazzjonijiet ta’ konformità ppjanati:\nIżda wkoll id-data tas-sessjoni ta’ identifikazzjoni\nmill-bogħod għandha tiġi rrekordjata b’tali mod li tiġi żgurata lintegrità tagħha u biex jiġi evitat kull falsifikar ta’ dawk id-data;\n(d)\nil-mezz ta’ identifikazzjoni mill-bogħod ikun ta’\nkwalità daqstant adegwata li tkun tista’ ssir identifikazzjoni ċara\nbi grad għoli ta’ definizzjoni, tal-elementi u fattizzi ta’ sigurezza\ntad-dokument ta’ identifikazzjoni tal-persuna li tkun se tiġi\nidentifikata;\n(e)\nis-sistema li tintuża għall-identifikazzjoni millbogħod tkun tagħraf u taf tinterpreta xi parti li tista’ tinqara millmachine-readable\nzone\n(MRZ)\ntad-dokument\nta’\nidentifikazzjoni; u\n(f)\njistabbilixxi u regolarment jaġġorna struzzjonijiet\nmiktuba u dokumentati biex tkun tista’ ssir identifikazzjoni millbogħod, hekk li dawk l-istruzzjonijiet għandhom jintużaw minn\nkull persuna li tkun qegħda taġixxi f’ismu għar-rigward ta’ xi\nkonferenza bil-video għal identifikazzjoni mill-bogħod li tkun\nqegħda titmexxa kif hawn f’dawn ir-regolamenti:\nIżda dawk l-istruzzjonijiet għandhom jagħmluha\npossibbli li ssir il-verifika ta’ dokumenti ta’ identifikazzjoni u\ntal-persuna li għandha tiġi identifikata b’tali mod li jiġi żgurat li\nl-kontrolli u l-ordni kif isiru dawk il-kontrolli ma jkunux jistgħu\njitbassru:\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n\n[ L.S.426.04\n\nIżda wkoll l-istruzzjonijiet għandhom jinkludu lużu ta’ xi kodiċi uniku li jitħassar b’użu għal żmien limitat,\nbħal m’huma password li tintuża darba biss, li tiġi\nspeċifikament provduta għall-finijiet tas-sessjoni ta’\nidentifikazzjoni mill-bogħod, hekk li dak il-kodiċi għandu jiġi\nġenerat ċentralment filwaqt li tiġi żgurata t-traċċabilità talproċedura ta’ identifikazzjoni u l-provdiment ta’ ħin attwali u\nkonferenzi bil-video mhux interrotti. Tali kodiċi għandu\njintbagħat lill-persuna li għandha tiġi identifikata permezz ta’\nkanal sekondarju bħal m’huma e-mail sigura jew servizz ta’\nmessaġġ qasir (SMS - short message service).",
+      "metadata": {
+        "source_line_start": 186,
+        "source_line_end": 268
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "messaġġ qasir (SMS - short message service)",
+      "content": "(1)\nIl-proċedura għall-identifikazzjoni mill-bogħod\ngħandha tkun tapplika biss għal persuni fiżiċi li jkollhom dokument ta’\nidentifikazzjoni li jkun rikonoxxut taħt il-liġi ta’ Malta jew tal-Unjoni\nEwropea u biex hekk tkun tista’ ssir identifikazzjoni u verifika ċara\ntad-detentur tar-ritratt fid-dokument ta’ identifikazzjoni hawn qabel\nimsemmi, tinkludi l-firma tal-persuna involuta fuq dak id-dokument, u\nsett minimu ta’ mill-inqas żewġ fattizzi ta’ sigurezza ta’ kategoriji\ndifferenti.\n\nDokumenti ta’\nidentifikazzjoni\npermessi.\n\n(2)\nIl-fornitur ta’ servizz fiduċjarju kwalifikat għandu jara li\njkun hemm disponibbli għall-pubbliku lista tad-dokumenti ta’\nidentifikazzjoni li taċċetta għall-finijiet ta’ identifikazzjoni millbogħod, u dik il-lista għandha tiġi ppreżentata għall-approvazzjoni talAwtorità mill-provditur tas-servizz hawn qabel imsemmi. Kull tibdil li\njsir fil-lista għandu jiġi notifikat lill-Awtorità kif hemm fir-regolament\n13(1).",
+      "metadata": {
+        "source_line_start": 269,
+        "source_line_end": 289
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "13(1)",
+      "content": "(1)\nMeta fornitur ta’ servizz fiduċjarju kwalifikat ikun\nqed jopera metodu ta’ identifikazzjoni mill-bogħod, huwa għandu:\n(a)\njivverifika\nl-istat\ntad-dokument\nta’\nidentifikazzjoni użat mill-persuna li għandha tiġi identifikata,\nbiex jiġi żgurat li d-dokument ma jkun b’ebda mod imħassar\njew imbagħbas;\n(b)\njivverifika t-tqassim globali tad-dokument ta’\nidentifikazzjoni, id-daqs, pożizzjoni, spazjar u kobor tat-tipi, u\nl-font tipografiku tad-dokument:\nIżda meta jagħmel dan, għandu jsir paragun ma’\nmudell ta’ verifika tad-dokument li tkun qegħda ssir il-verifika\ntiegħu;\n(ċ)\njivverifika mill-inqas żewġ fattizzi ta’ sigurezza\nta’ kategoriji differenti;\n(d)\njeħtieġ lill-persuna li tkun qegħda tiġi identifikata\ntinklina d-dokument orizzontalment u, jew vertikalment\nquddiem il-kamera;\n\nRekwiżiti li\ngħandhom\njinżammu matul lidentifikaz-zjoni\nmill-bogħod.\n\n[ L.S. 426.04\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n(e)\njivverifika l-kontenut tal-karatteristiċi individwali\nmisjuba fid-dokument ta’ identifikazzjoni, jiġifieri l-paragun ta’\nritratti primarji u sekondarji (identigram);\n(f)\njiġbed xbiha minn quddiem u minn wara taddokument ta’ identifikazzjoni;\n(g)\njivverifika li r-ritratt u d-deskrizzjoni personali fiddokument ikunu jidentifikaw lill-persuna li għandha tiġu\nidentifikata;\n(h)\njivverifika l-preċiżjoni tal-informazzjoni li tinsab\nfid-dokument ta’ identifikazzjoni;\n(i)\njaċċerta l-veraċità tal-informazzjoni provduta millpersuna li għandha tiġi identifikata matul is-sessjoni ta’\nidentifikazzjoni mill-bogħod;\n(j)\njagħmel mistoqsijiet ta’ tip u sekwenza li ma\njkunux identiċi matul sessjonijiet ta’ identifikazzjoni\nkonsekuttivi;\n(k)\njivverifika\nl-konsistenza\ntal-informazzjoni\nmiġbura dwar il-persuna li għandha tiġi identifikata u linformazzjoni li tirriżulta mill-kalkolazzjoni awtomatika ta’\nkarattri li jinsabu fil-machine-readable zone (MRZ); u\n(l)\njistaqsi lill-persuna li għandha tiġi identifikata\ntagħmel xi att kawżali wieħed jew aktar biex turi l-awtentiċità\ntal-proċess ta’ identifikazzjoni mill-bogħod.\n\n(2)\nIl-proċedura biex issir prova tal-identifikazzjoni għandha\nbiss titqies li tkun mitmuma wara li l-persuna identifikata ddaħħal ilkodiċi uniku bħal mhi password li tintuża darba biss, u dak il-kodiċi\nuniku jiġi rispettivament konfermat mill-metodi ta’ identifikazzjoni\nmill-bogħod użati.\n(3)\nDokument ta’ identifikazzjoni li jkun provdut għallfinijiet ta’ dawn ir-regolamenti, għandu jkun jinkludi fih ritratt reċenti\nu li jintgħaraf tal-persuna involuta, bil-firma tiegħu u li jkun maħruġ\nminn awtorità pubblika kompetenti li tkun debitament awtorizzata\ntoħroġ dokument bħal dak.\nInterruzzjoni ta’\nproċedura ta’\nidentifikazzjoni.",
+      "metadata": {
+        "source_line_start": 290,
+        "source_line_end": 372
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "identifikazzjoni",
+      "content": "Sessjoni ta’ identifikazzjoni mill-bogħod għandha tiġi\ninterrotta u titqies li tkun null u bla effett u mingħajr ebda seħħ fil-liġi\njekk:\n(a)\nma jiġux segwiti l-kondizzjonijiet tekniċi meħtieġa\ngħat-tmexxija sew tal-identifikazzjoni mill-bogħod, speċjalment\nfil-każ li jirriżultaw, imma mhux hekk biss, kwalità ħażina talistampa, dawl imċajpar, ħoss batut jew interruzzjonijiet jew\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n\n[ L.S.426.04\n\ndewmien fis-sessjoni ta’ identifikazzjoni mill-bogħod jew\ntrażmissjoni bil-video;\n(b)\nid-dokument ta’ identifikazzjoni ppreżentat matul\nis-sessjoni ta’ identifikazzjoni mill-bogħod, joħloq dubju dwar\nil-kontenut, awtentiċità, puntwalità, preċiżjoni jew adegwatezza\ntiegħu; jew\n(ċ)\nwaqt sessjoni ta’ identifikazzjoni mill-bogħod\nikun hemm xi dubju dwar il-veraċità ta’ xi element ta’\nidentifikazzjoni.",
+      "metadata": {
+        "source_line_start": 373,
+        "source_line_end": 400
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "identifikazzjoni",
+      "content": "(1)\nQabel sessjoni ta’ identifikazzjoni mill-bogħod,\nil-fornitur ta’ servizz fiduċjarju kwalifikat għandu jiġbed kull ritratt u\nkull dokument ta’ identifikazzjoni ieħor li għandu jkun irrekordjat\nmatul is-sessjoni kollha u sħiħa ta’ identifikazzjoni mill-bogħod firrigward tal-individwu identifikat:\n\nDikjarazzjoni.\n\nIżda kif hawn f’dan ir-regolament, is-sessjoni ta’\nidentifikazzjoni mill-bogħod għandha tiġi reġistrata mill-fornitur ta’\nservizz fiduċjarju kwalifikat.\n(2)\nQabel ma tinbeda sessjoni ta’ identifikazzjoni millbogħod il-fornitur ta’ servizz fiduċjarju kwalifikat għandu jipprovdi\nlill-persuna li għandha tiġi identifikata b’kull informazzjoni meħtieġa\ndwar l-ipproċessar tad-data personali tagħha, u wara dan teħtieġ lil dik\nil-persuna tiffirma dikjarazzjoni li hija konxja minn kull użu li jista’\njsir mir-ritratt tagħha u, jew minn kull dokument ta’ identifikazzjoni\nieħor li tista’ tkun meħtieġa tipproduċi biex tiffaċilita l-għemil ta’ dik\nis-sessjoni.",
+      "metadata": {
+        "source_line_start": 401,
+        "source_line_end": 420
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Dikjarazzjoni",
+      "content": "Il-fornitur ta’ servizz fiduċjarju kwalifikat għandu\njiżgura li s-sessjoni kollha u sħiħa ta’ identifikazzjoni mill-bogħod tiġi\nrrekordjata u li r-reġistrazzjoni tagħha tinżamm għal perjodu ta’ millinqas tlett snin wara li jiskadi ċ-ċertifikat kwalifikat maħruġ bħala\neżitu ta’ xi sessjoni kif hemm fl-Artikolu 24(2)(h) tar-Regolament\neIDAS.\n\nŻamma u\nrekordjar.",
+      "metadata": {
+        "source_line_start": 421,
+        "source_line_end": 430
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "rekordjar",
+      "content": "(1)\nFornitur ta’ servizz fiduċjarju kwalifikat għandu\njinnotifika bil-miktub lill-Awtorità dwar kull bidla fl-implimentazzjoni\ntal-proċeduri ta’ identifikazzjoni mill-bogħod inklużi fir-rapport ta’\nvalutazzjoni ta’ konformità msemmi fir-regolament 4:\n\nTibdil fil-proċeduri\nta’ identifikazzjoni\nmill-bogħod.\n\nIżda kull bidla bħal dik għandha tiġi notifikata lillAwtorità mill-inqas sittin ġurnata qabel ma ssir l-implimentazzjoni\nproposta ta’ dawk il-bidliet mill-fornitur ta’ servizz fiduċjarju\nkwalifikat.\n(2)\nKull bidla fil-proċeduri ta’ identifikazzjoni mill-bogħod\nm’għandhiex tiġi implimentata kemm-il darba ma tkunx ġiet qabel\napprovata bil-miktub mill-Awtorità.\n\n[ L.S. 426.04\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n\n(3)\nL-Awtorità tista’, meta tiġi notifika b’xi bidla filproċedura ta’ identifikazzjoni mill-bogħod, teħtieġ lill-fornitur ta’\nservizz fiduċjarju kwalifikat jitlob lil xi korp ta’ valutazzjoni ta’\nkonformità jwettaq u jipprovdi rapport ta’ valutazzjoni ta’ konformità\nfuq il-bidliet fil-proċeduri ta’ identifikazzjoni mill-bogħod biex jiġi\nkonfermat jew xort’oħra li l-bidliet ikunu konformi maddispożizzjonijiet ta’ dawn ir-regolamenti:\nIżda jekk l-Awtorità teħtieġ rapport ta’ valutazzjoni ta’\nkonformità, allura japplikaw id-dispożizzjonijiet tar-regolament 4:\nIżda wkoll kull spejjeż relatati ma’ tali rapport għandhom\njitħallsu mill-fornitur ta’ servizz fiduċjarju kwalifikat.\nKonformità malliġijiet dwar ilprotezzjoni taddata.",
+      "metadata": {
+        "source_line_start": 431,
+        "source_line_end": 469
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Konformità malliġijiet dwar ilprotezzjoni taddata",
+      "content": "Il-fornitur ta’ servizz fiduċjarju kwalifikat għandu jiżgura\nli kull data personali jkunu proċessati kif hemm fl-liġijiet dwar ilprotezzjoni tad-data.\n\nSetgħat ta’ infurzar\ntal-Awtorità.\nKap. 418.",
+      "metadata": {
+        "source_line_start": 470,
+        "source_line_end": 477
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Kap. 418",
+      "content": "(1)\nMingħajr preġudizzju għas-setgħat li għandha taħt\nil-Att dwar l-Awtorità ta’ Malta dwar il-Komunikazzjoni, l-Awtorità\ngħandu jkollha s-setgħa li tispezzjona u, jew teħtieġ kull informazzjoni\nmingħand kull persuna dwar kull proċedura ta’ identifikazzjoni millbogħod li sseħħ taħt dawn ir-regolamenti:\nIżda l-Awtorità tista’ wkoll teħtieġ lill-fornitur ta’ servizz\nfiduċjarju kwalifikat jitlob għas-spejjeż tiegħu lill-korp ta’ valutazzjoni\nta’ konformità jwettaq valutazzjoni ta’ konformità tal-proċeduri ta’\nidentifikazzjoni mill-bogħod tiegħu.\n(2)\nL-Awtorità tista’ f’kull waqt teħtieġ lil xi persuna li tieqaf\nminnufih milli tibqa’ tuża xi metodi ta’ identifikazzjoni mill-bogħod\nkif jingħad f’dawn ir-regolamenti, jekk l-Awtorità tqis li jista’ jkun\nhemm nuqqas ta’ konformità ma’ xi dispożizzjoni ta’ dawn irregolamenti:\nIżda meta l-Awtorità taġixxi b’dan il-mod hija għandha\ntiddikjara bil-miktub ir-raġunijiet tagħha għal dan, u dawk ir-raġunijiet\ngħandhom jitwasslu lill-persuna involuta.\n\nNuqqas ta’\nkonformità ma’\ndawn irregolamenti.\nKap. 418.",
+      "metadata": {
+        "source_line_start": 478,
+        "source_line_end": 501
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Kap. 418",
+      "content": "L-Awtorità tista’, bis-setgħat li għandha taħt it-Taqsima\nVII tal-Att dwar l-Awtorità ta’ Malta dwar il-Komunikazzjoni, timponi\ndawk is-sanzjonijiet li tista’ tqis adatti għal kull ksur ta’ dawn irregolamenti:\nIżda kull multa amministrattiva li l-Awtorità tista’\ntiddeċiedi li timponi m’għandhiex tkun ta’ iżjed mill-ammont ta’\nħamsa u għoxrin elf euro (€25,000) għal kull ksur u elfejn u ħames mitt\neuro (€2,500) għal kull ġurnata li matulha jibqa’ għaddej in-nuqqas ta’\nosservanza tad-dispożizzjonijiet ta’ dawn ir-regolamenti.\n\nSERVIZZI FIDUĊJARJI ELETTRONIĊI (PROĊEDURI TA’\nIDENTIFIKAZZJONI MILL-BOGĦOD)\n\n[ L.S.426.04",
+      "metadata": {
+        "source_line_start": 502,
+        "source_line_end": 517
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "[ L.S.426.04",
+      "content": "Fornitur ta’ servizz fiduċjarju kwalifikat li, kif hemm firregolament 4, ikun irid jipprovdi proċeduri ta’ identifikazzjoni millbogħod, għandu, meta jkun qed jippreżenta lill-Awtorità rapport ta’\nvalutazzjoni ta’ konformità maħruġ minn korp ta’ valutazzjoni ta’\nkonformità kif meħtieġ taħt ir-regolament 4 hawn qabel imsemmi,\niħallas lill-Awtorità dritt ta’ darba ta’ elfejn euro (€2,000).\n\nDrittijiet dovuti\nmeta jiġi\nppreżentat xi\nrapport ta’\nvalutazzjoni ta’\nkonformità.",
+      "metadata": {
+        "source_line_start": 518,
+        "source_line_end": 534
+      }
+    }
+  ],
+  "definitions": []
+}

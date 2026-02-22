@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-95-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Personal Protective Equipment",
+  "title_en": "Regolamenti dwar Personal Protective Equipment",
+  "short_name": "eli/sl/427.95/mlt",
+  "status": "in_force",
+  "issued_date": "2018-06-18",
+  "in_force_date": "2018-06-18",
+  "url": "https://legislation.mt/eli/sl/427.95/20180618/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.95/mlt, expression eli/sl/427.95/20180618/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PERSONAL PROTECTIVE EQUIPMENT\n\n[ L.S. 427.95\n\nLEĠISLAZZJONI SUSSIDJARJA 427.95\nREGOLAMENTI DWAR PERSONAL PROTECTIVE\nEQUIPMENT REGULATIONS\n21 ta’ April, 2018\nL-AVVIŻ LEGALI 186 tal-2018.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

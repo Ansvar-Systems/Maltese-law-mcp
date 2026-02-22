@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-220-6-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Għoti ta Setgħat lill-Forzi Armati ta Malta",
+  "title_en": "Ordni dwar l-Għoti ta Setgħat lill-Forzi Armati ta Malta",
+  "short_name": "eli/sl/220.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/220.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/220.6/mlt, expression eli/sl/220.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "8 ta’ Awissu, 1980",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-G]oti ta’ Setg]at\nlill-Forzi Armati ta’ Malta.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Fil-qadi ta’ dmirijiet ta’ patrol, gwardja jew sigurtà jew ta’\ndmirijiet li g]andhom x’jaqsmu ma’ reati kriminali, mog]tija lilu\nmill-Kmandant tal-Forzi Armatl ta’ Malta, sew jekk dawk iddmirijiet isiru fuq l-art, fuq il-ba]ar jew fl-ajru, membru tal-Forzi\nArmati ta’ Malta jkollu s-setg]a li je\\er`ita dawk il-funzjonijiet,\nsetg]at u dmirijiet kollha li bil-li[i huma vestiti f’uffi`jal tadDwana jew f’membru tal-Korp tal-Pulizija ta’ Malta:\n\nG]oti ta’ setg]at\nlill-membri talForzi Armatl ta’\nMalta.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Malta",
+      "content": "Matul dak i\\-\\mien li ra[el tal-Forzi Armati ta’ Malta li\njkun inga[[at g]al tanx jew erbatax jew tmintax-il xahar ikun\nimqabbad biex jaqdi dmirijiet mal-Korp tal-Pulizija ta’ Malta, dak\nir-ra[el ikollu s-setg]a li je\\er`ita dawk il-funzjonijiet, setg]at u\ndmirijiet kollha li bil-li[i huma vestiti f’membru tal-Korp talPulizija ta’ Malta, u jkun su[[ett g]all-awtorità u g]ad-dixxiplina\nli g]alihom huwa su[[ett membru tal-Korp tal-Pulizija ta’ Malta.\n\nRa[el imqabbad\nbiex jaqdi dmirijiet\nmal-Korp talPulizija ta’ Malta.\nMi\\jud:\nA.L. 53 ta’ l-1981.\nEmendat:\nA.L. 44 ta’ l-1983;\nA.L. 15 ta’ l-1984.\n\nI\\da dawk il-funzjonijet, setg]at u dmirijiet li bil-li[i huma\nri\\ervati g]al uffi`jali li jkollhom il-grad mhux ta]t dak ta’ Spettur\ntal-Pulizija jkunu e\\er`itabbli biss minn membru li jkollu\nkummissjoni fil-Forzi Armati ta’ Malta.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

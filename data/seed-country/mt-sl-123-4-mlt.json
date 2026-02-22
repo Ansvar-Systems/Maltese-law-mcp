@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-4-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Formuli Mixxellanji Imħassrin bl-Avviż Legali 430 tal-2014",
+  "title_en": "Regoli dwar Formuli Mixxellanji Imħassrin bl-Avviż Legali 430 tal-2014",
+  "short_name": "eli/sl/123.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.4/mlt, expression eli/sl/123.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "9 ta’ Lulju, 1976",
+      "content": "It-titolu ta’ dawn ir-Regoli hu Regoli dwar Formuli\nMixxellanji.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Avvi\\i ta’ Likwidazzjoni dwar l-individwu, dwar\nkumpannija, dwar korp ta’ persuni o]ra li g]andhom ji[u notifikati\nm i l l - K u m m i s s a r j u t a t - Ta x x i I n t e r n i s k o n d l - A t t d w a r l Amministrazzjoni tat-Taxxa, l-Avvi\\ ta’ Taxxa li g]andha tit]allas,\nl-Avvi\\ tar-Rufjut ta’ l-O[[ezzjoni, l-Avvi\\ ta’ De`i\\joni tatTribunal ta’ Revi\\joni Amministrattiva, u l-Avvi\\ ta’ Taxxa li\ng]andha tit]allas kif de`iz mill-Qorti ta’ l-Appell g]andhom f’kull\nka\\ ikunu fuq il-formola I.T. 6 murija fl-Iskeda.\n\nFormula I.T.6\n[dida.\nEmendata:\nA.L. 336 tal-2010.\nKap. 372.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-Avvi\\ lill-persuna li bag]tet avvi\\ ta’ o[[ezzjoni biex\ntidher u/jew i[[ib kotba, e``., quddiem il-Kummissarlu tat-Taxxi\nInterni, u l-Avvi\\ lill-persuna sabiex tixhed u/jew i[[ib kotba e``.,\nquddiem il-Kummissarju tat-Taxxi Interni g]andhom ikunu fuq ilformuli I.T.13 u I.T.14 rispettivament fl-Iskeda.\n\nFormuli [odda\nI.T.13 u I.T.14.\n\nL.S.123.04]\n\nEmendata:\nA.L. 409 ta’ l-2007.\n\n(Regoli 2 u 3)\n\n[L.S.123.04\n\nL.S.123.04]\n\n[L.S.123.04",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 76
+      }
+    }
+  ],
+  "definitions": []
+}

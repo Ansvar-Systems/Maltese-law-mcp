@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-44-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Money Market Funds)",
+  "title_en": "Regolamenti dwar Investment Services Act (Money Market Funds)",
+  "short_name": "eli/sl/370.44/mlt",
+  "status": "in_force",
+  "issued_date": "2019-02-18",
+  "in_force_date": "2019-02-18",
+  "url": "https://legislation.mt/eli/sl/370.44/20190218/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.44/mlt, expression eli/sl/370.44/20190218/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (MONEY MARKET FUNDS)\n\n[ L.S. 370.44\n\nLEĠISLAZZJONI SUSSIDJARJA 370.44\nREGOLAMENTI DWAR INVESTMENT SERVICES ACT\n(MONEY MARKET FUNDS)\n12 ta’ Frar, 2019\nL-AVVIŻ LEGALI 25 tal-2019.\n\nDawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-345-1-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Estensjoni għat-Tnaqqis fir-Rata tat-Taxxa fuq l-Income dovuta fuq Qligħ jew Profitti ta' Kumpanniji Kwotati",
+  "title_en": "Avviż dwar Estensjoni għat-Tnaqqis fir-Rata tat-Taxxa fuq l-Income dovuta fuq Qligħ jew Profitti ta' Kumpanniji Kwotati",
+  "short_name": "eli/sl/345.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.1/mlt, expression eli/sl/345.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1997",
+      "content": "It-titolu ta’ dan l-Avvi\\ hu Avvi\\ dwar Estensjoni g]atTnaqqis fir-Rata tat-Taxxa fuq l-Income dovuta fuq Qlig] jew\nProfitti ta’ Kumpanniji Kwotati.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Profitti ta’ Kumpanniji Kwotati",
+      "content": "Il-Ministru ta’ l-Ekonomija u l-Finanzi jidhirlu li huwa flinteress pubbliku li jestendi t-tnaqqis fir-rata tat-taxxa fuq lincome, kif hemm provdut fl-artikolu 31(1) ta’ l-Att dwar is-Swieq\nFinanzjarji, g]al ]ames snin o]ra b’effett mit-8 ta’ Jannar, 1997.\n\nTitolu.\n\nEstensjoni.\nKap. 343.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

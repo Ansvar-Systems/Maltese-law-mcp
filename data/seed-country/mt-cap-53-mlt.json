@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-53-mlt",
+  "type": "statute",
+  "title": "Att dwar l-Inkuraġġiment ta' Industriji Ġodda Imħassar bl-Att II tal-2015",
+  "title_en": "Att dwar l-Inkuraġġiment ta' Industriji Ġodda Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 53(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1925-07-17",
+  "url": "https://legislation.mt/eli/cap/53/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/53/mlt, expression eli/cap/53/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INKURAĠĠIMENT TA’ INDUSTRJI ĠODDA\n\n[KAP. 53.\n\nKAPITOLU 53\nATT DWAR L-INKURAĠĠIMENT TA’ INDUSTRJI\nĠODDA\nBiex iħassar u jagħmel isseħħ mill-ġdid b’emendi l-liġi dwar linkuraġġiment ta’ industrji ġodda.\n\n(17 ta’ Lulju, 1925)*\nL-ATT X tal-1925, kif emendat bl-Atti: VI tal-1947, VIII tal-1950; blOrdinanzi ta’ Emerġenza: XV tal-1958, XXI tal-1959; bl-Ordinanza XXV\ntal-1962; bl-AvviżLegali 4 tal-1963; bl-Atti: X tal-1963, XXVII tal-1967;\nbl-Avviż Legali 148 tal-1975; bl-Atti XI tal-1977, XIII tal-1983, XXIV tal1995; u bl-Avviż Legali 408 tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 187 tas-17 ta’ Lulju. 1925.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

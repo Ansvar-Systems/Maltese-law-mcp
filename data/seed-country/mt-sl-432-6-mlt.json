@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-432-6-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Restituzzjoni ta’ Ċertu Artijiet",
+  "title_en": "Ordni dwar Restituzzjoni ta’ Ċertu Artijiet",
+  "short_name": "eli/sl/432.6/mlt",
+  "status": "in_force",
+  "issued_date": "2026-01-05",
+  "in_force_date": "2025-12-23",
+  "url": "https://legislation.mt/eli/sl/432.6/20251223/mlt",
+  "description": "Official text from legislation.mt (eli/sl/432.6/mlt, expression eli/sl/432.6/20251223/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 295 tal-2025",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Restituzzjoni ta’\nĊertu Artijiet.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-proprjetà speċifikata fl-artikolu 3 għandha terġa’ lura\ngħand il-persuna li lilha kienet tappartjeni l-art, b’liema titolu jkun,\nbħallikieku l-akkwist bis-saħħa tal-artikolu 5 tal-Att dwar Arei għallIżvilupp tal-Bini qatt ma seħħ, b’effett mit-18 ta’ Ġunju 1985, f’liema\ndata l-art inkwistjoni ġiet akkwistata mill-Gvern bis-saħħa talimsemmi artikolu.\n\nProprjetà\nspeċifikata.\nKap. 303.\n(Revokat)",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-proprjetà li għaliha l-artikolu 2 jirreferi hi din li ġejja:\n\nBiċċa art fil-Mosta magħrufa bħala Tal-Blata l-Għolja li fiha lkejl ta’ cirka erba’ mija u erbgħa u disgħin metru kwadru (494m2),\nliema porzjon tmiss mil-Lvant, min-Nofsinhar u mill-Punent ma’\nproprjetà ta’ terzi, indikata bil-blu u mmarkata bħala plot 7_3 fuq ilpjanta P.D.234A/88/1 fl-Iskeda.\n\nDeskrizzjoni talproprjetà\nspeċifikata.\n\n[ L.S. 432.06]\n\nRESTITUZZJONI TA’ ĊERTU ARTIJIET",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

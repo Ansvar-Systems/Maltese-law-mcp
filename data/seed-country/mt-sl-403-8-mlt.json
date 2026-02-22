@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Linked Long Term Contracts)",
+  "title_en": "Regolamenti dwar Insurance Business (Linked Long Term Contracts)",
+  "short_name": "eli/sl/403.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/403.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.8/mlt, expression eli/sl/403.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS (LINKED LONG TERM CONTRACTS) [L.S.403.08\n\nLE{ISLAZZJONI SUSSIDJARJA 403.08\nREGOLAMENTI DWAR INSURANCE BUSINESS\n(LINKED LONG TERM CONTRACTS)*\n1 ta’ Jannar, 2001\nL-AVVI| LEGALI 104 tal-2000, kif emendat bl-Avvi\\i Legali 353 tal2005 u 398 tal-2015.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

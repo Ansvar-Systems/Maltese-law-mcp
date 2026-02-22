@@ -1,0 +1,605 @@
+{
+  "id": "mt-sl-35-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li jitħallsu fid-Dipartimenti tal-Gvern",
+  "title_en": "Regolamenti dwar id-Drittijiet li jitħallsu fid-Dipartimenti tal-Gvern",
+  "short_name": "eli/sl/35.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1925-11-02",
+  "url": "https://legislation.mt/eli/sl/35.1/20250930/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.1/mlt, expression eli/sl/35.1/20250930/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "bl-Atti XVI tal-2018 u XXXIV tal-2023 u bl-Avviz Legali 210 tal-2025",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar idDrittijiet li jitħallsu fid-Dipartimenti tal-Gvern.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet speċifikati fl-Iskeda ta’ dawn ir-Regolamenti\ngħandhom jitħallsu fid-dipartimenti msemmija fl-istess Skeda.\n\nSkeda ta’ drittijiet.\n\nL.S.35.01]\n\nSostitwita:\nA.L. 407 tal-2007.\nEmendata:\nA.L. 6 tal-2008;\nA.L. 98 tal-2011;\nXIII. 2015.18;\nA.L. 73 tal-2018;\nXVI.2018.\nIr-Raba’ Skeda.\nA.L. 419 tal-2018;\nA.L. 7 tal-2020;\nA.L. 18 tal-2023;\nXXXIV.2023.3.\n\nDRITTIJIET LI JITĦALLSU\n\n(Regolament 2)\n\n€\nUFFIĊĊJU TAL-PRIM MINISTRU\nA.L. 60 tal-1974\nServizz pubbliku\nA.L. 239 tal-1997 Id-drittijiet għall-eżami ta’ skrivan ..........................................\nĊertifikat maħruġ bis-Siġill Pubbliku minn\nsa\nEstratti minn dokumenti maħruġin mhux bis-Siġill Pubbliku,\ngħal kull paġna ........................................................................\nN.G. 13 tal-1937\nTħaffir għaż-żejt\nLiċenza għat-tfittix jew tħaffir għaż-żejt ..................................\nN.G. 386 tal-1926\nN.G. 120 tal-1927\nN.G. 329 tal-1931\nN.G. 201 tal-1956\nA.L. 62 tal-1959\nA.L. 106 tal-1974\nA.L. 3 tal-1975\nA.L. 32 tal-1980\nA.L. 26 tal-1995\nA.L. 104 tal-1995\nA.L. 134 tal-1997\nA.L. 231 tal-1997\nA.L. 82 tal-1998\nA.L. 72 tal-1999\nA.L. 312 tal-2004\nA.L. 97 tal-2010\nA.L. 232 tal-2010\nA.L. 225 tal-2011\nA.L. 194 tal-2012\nA.L. 286 tal-2015\nA.L. 419 tal-2018;\nA.L. 7 tal-2020.\n\nRadjokomunikazzjoni\nI.\nEżamijiet u Ċertifikati",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 101
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "(b)",
+      "content": "microlight glider ..............................................................\nfuq l-art ...........................................................................\nImħassra bl-Avviż Legali 7 tal-2020.\n(a) Fixed radio link li topera fil-bandi ta’ frekwenza taħt\n1 GHz, għal kull terminal, li jkun jiddependi millbandwidth, dritt fis-sena:\n(i) mhux iżjed minn 100 kHz .................................................\n(ii) iżjed minn 100KHz sa 1MHz ...........................................\n(iii) iżjed minn 1MHz sa 10MHz .............................................\n(iv) iżjed minn 10MHz sa 100MHz .........................................",
+      "metadata": {
+        "source_line_start": 117,
+        "source_line_end": 128
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Section 11",
+      "content": "DRITTIJIET LI JITĦALLSU\n\n[ L.S.35.01\n\n(v) iżjed minn 100MHz, kull 100MHz bandwidth ..................\n(b) Fixed radio link li topera fil-bandi ta’ frekwenza ’l fuq\nminn 1 GHz, dritt fis-sena:\n(i) għall-ewwel link, li topera fuq kanal, għal kull MHz\nbandwidth ........................................................................\n(ii) għal-links l-oħra kollha li jiġu wara, li joperaw fuq kanal\nużat mill-ġdid, għal kull link, għal kull MHz bandwidth.......",
+      "metadata": {
+        "source_line_start": 146,
+        "source_line_end": 168
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "użat mill-ġdid, għal kull link, għal kull MHz bandwidth......",
+      "content": "(iii) għal kanal, ikun x’ikun l-għadd ta’ links użati, għal kull MHz\nbandwidth ........................................................................ 247.50",
+      "metadata": {
+        "source_line_start": 169,
+        "source_line_end": 171
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "(iii) għal kanal, ikun x’ikun l-għadd ta’ links użati, għal kull MHz",
+      "content": "(a) Servizz ta’ Xandir (Anċillari) li jopera fil-bandi ta’\nfrekwenzi taħt 1GHz, dritt fis-sena:\n(i) Smigħ a. Link bejn l-istudju u t-transmitter ....................................\nb. Outside broadcasting unit ................................................ 116.40\nċ. Ripetitur .......................................................................... 116.40\n(ii) Viżjoni a. Link bejn l-istudju u t-transmitter ....................................\nb. Outside broadcasting unit ................................................\nċ. Ripetitur .......................................................................... 116.40\n(b) Servizzi ta’ Xandir (Anċillari) li jopera fil-bandi ta’\nfrekwenza ’l fuq minn 1 GHz, dritt fis-sena:\n(i) għall-ewwel link, li topera fuq kanal, għal kull MHz\nbandwidth.......................................................................\n(ii) għal kull link oħra li tiġi wara, li topera fuq kanal użat\nmill-ġdid, għal kull link, għal kull MHz bandwidth ......",
+      "metadata": {
+        "source_line_start": 172,
+        "source_line_end": 189
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "(iii) għal kanal, ikun x’ikun l-għadd ta’ links użati, għal kull",
+      "content": "Stazzjon Marittimu, dritt għal kull sena:\n(a) Apparat ta’ radjukomunikazzjoni installat fuq bastiment:\n(i) installazzjoni GMDSS konformi mal-Konvenzjoni",
+      "metadata": {
+        "source_line_start": 193,
+        "source_line_end": 196
+      }
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "(i) installazzjoni GMDSS konformi mal-Konvenzjoni",
+      "content": "(ii) installazzjoni MF / HF u, jew earth station installat fuq\nbastiment:\na. li b’kollox hu anqas minn 24 metru fit-tul .......................",
+      "metadata": {
+        "source_line_start": 197,
+        "source_line_end": 200
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "a. li b’kollox hu anqas minn 24 metru fit-tul ......................",
+      "content": "b. li b’kollox hu daqs jew aktar minn 24 metru fit-tul .......... 115.00\n(iii) stazzjon VHF li jopera fil-banda tal-frekwenza 156.0125 162.0375 MHz, 25 kHz channel spacing ......................... ebda ħlas\n(iv) VHF hand-portable, li jopera fil-banda tal-frekwenza",
+      "metadata": {
+        "source_line_start": 201,
+        "source_line_end": 204
+      }
+    },
+    {
+      "provision_ref": "s156",
+      "section": "156",
+      "title": "(iv) VHF hand-portable, li jopera fil-banda tal-frekwenza",
+      "content": "0125 - 162.0375 MHz, 25 kHz channel spacing ......... ebda ħlas\n(b) Stazzjon fejn jiġi kalibrat apparat li jsib id-direzzjoni\n(ċ) Stazzjon tar-Radju għal Ħidma fil-Port ............................\n(d) Stazzjon tar-Radju tal-Kosta ............................................\n1,160\n(e) Stazzjon tar-Radju Mobbli Marittimu:\n(i) Ripetitur, kull kanal ......................................................... 116.40\n(ii) Bażi, kull kanal ................................................................ 116.40\n(iii) Mobbli, kull kanal ...........................................................",
+      "metadata": {
+        "source_line_start": 205,
+        "source_line_end": 215
+      }
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "(e) Stazzjon tar-Radju Mobbli Marittimu:",
+      "content": "(iv) Handportable, kull kanal .................................................",
+      "metadata": {
+        "source_line_start": 216,
+        "source_line_end": 217
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "(iv) Handportable, kull kanal ................................................",
+      "content": "Liċenza proviżorja għal:\n\nL.S.35.01]\n\nDRITTIJIET LI JITĦALLSU\n\nApparat ta’ radjukomunikazzjoni installat fuq bastiment\ndritt jitħallas mal-ħruġ tal-liċenza provviżorja għal\nterminu li ma jeċċedix is-sitt xhur:\n(i) installazzjoni GMDSS konformi mal-Konvenzjoni\nSOLAS ........................................................................... 115.00\n(ii) installazzjoni MF / HF u, jew earth station installat fuq\nbastiment:\na. li b’kollox hu anqas minn 24 metru fit-tul .......................",
+      "metadata": {
+        "source_line_start": 219,
+        "source_line_end": 236
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "b. li b’kollox hu daqs jew aktar minn 24 metru fit-tul .......... 115.00",
+      "content": "Paging bir-radju, dritt fis-sena:\n(a) Sistema fuq il-post (i) Stazzjon bażi b’radjazzjoni libera ...................................",
+      "metadata": {
+        "source_line_start": 239,
+        "source_line_end": 240
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "b. li b’kollox hu daqs jew aktar minn 24 metru fit-tul .......... 115.00",
+      "content": "(ii) Induction communications ...............................................",
+      "metadata": {
+        "source_line_start": 241,
+        "source_line_end": 242
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "2,325",
+      "content": "Radju privat mobbli\n(a) Għal liċenza permanenti, dritt ta’kull sena:\n(i) Stazzjon ripetitur, kull kanal ............................................ 116.40\n(ii) Stazzjon bażi, kull kanal ..................................................",
+      "metadata": {
+        "source_line_start": 246,
+        "source_line_end": 249
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "(a) Għal liċenza permanenti, dritt ta’kull sena:",
+      "content": "(iii) Stazzjon mobbli, kull kanal ..............................................",
+      "metadata": {
+        "source_line_start": 250,
+        "source_line_end": 251
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "(iii) Stazzjon mobbli, kull kanal .............................................",
+      "content": "(iv) Stazzjon handportable, kull kanal ....................................",
+      "metadata": {
+        "source_line_start": 252,
+        "source_line_end": 253
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "(i) ta’ mhux aktar minn 30 ġurnata, dritt għal kull kanal",
+      "content": "(ii) ta’ mhux aktar minn 9 xhur, dritt għal kull kanal ..............",
+      "metadata": {
+        "source_line_start": 257,
+        "source_line_end": 258
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "(ii) ta’ mhux aktar minn 9 xhur, dritt għal kull kanal .............",
+      "content": "Prova u Żvilupp, dritt fis-sena:\n(a) Radjazzjoni .....................................................................",
+      "metadata": {
+        "source_line_start": 260,
+        "source_line_end": 261
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Tletin Skeda li tinsab mar-Regolamenti dwar",
+      "content": "Liċenza biex persuna tinnegozja f’apparat tarradjokomunikazzjoni li ma jkunx televiżjoni u apparat li\njirċievi xandir ................................................................. ebda ħlas",
+      "metadata": {
+        "source_line_start": 270,
+        "source_line_end": 271
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Tletin Skeda li tinsab mar-Regolamenti dwar",
+      "content": "Liċenza\nbiex\njinżamm\nsiġillat\napparat\nta’\nradjokomunikazzjoni, barra minn televiżjoni u apparat li\njirċievi xandir, għal kull siġill ..........................................",
+      "metadata": {
+        "source_line_start": 272,
+        "source_line_end": 279
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "jirċievi xandir, għal kull siġill .........................................",
+      "content": "Tagħmir fuq medda qasira użat għall-fini li jiġi kontrollat\nil-moviment ta’ mudell, b’qawwa sa 100 milliwatt e.r.p. .. ebda ħlas",
+      "metadata": {
+        "source_line_start": 281,
+        "source_line_end": 282
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "il-moviment ta’ mudell, b’qawwa sa 100 milliwatt e.r.p. .. ebda ħlas",
+      "content": "Stazzjon Terrestri ta’ Satellita:\n(a) għal\nkull\nstazzjon,\ngħat-trasmissjoni\nta’\nkomunikazzjonijiet, kif jiddependu fuq il-bandwidth talfrekwenzi tar-radju:\n(i) stazzjonijiet li jużaw sa 10 MHz bandwidth ta’ frekwenza\ntar-radju, għal kull 1 MHz bandwidth ta’ frekwenza tarradju, dritt fis-sena ........................................................\n(ii) stazzjonijiet li jużaw iżjed minn 10 MHz bandwidth ta’\nfrekwenza tar-radju, dritt fis-sena ...................................\n6,500\n(b) għal\nkull\nstazzjon,\ngħat-trasmissjoni\nta’\nkomunikazzjonijiet, użat għal kull avveniment:\n\nDRITTIJIET LI JITĦALLSU\n(i)\n\n[ L.S.35.01\n\nli jdum 30 ġurnata jew parti minnhom, għal kull 1 MHz\nbandwidth ta’ frekwenza tar-radju ..................................\n(ii) li jdum iżjed minn 30 ġurnata jew parti minnhom, dritt\nfix-xahar, għal kull 1 MHz bandwidth ta’ frekwenza tarradju ...............................................................................",
+      "metadata": {
+        "source_line_start": 283,
+        "source_line_end": 317
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "(ii) li jdum iżjed minn 30 ġurnata jew parti minnhom, dritt",
+      "content": "Apparat tar-radju kif ġej:\n(a) assistive listening devices ............................................... ebda ħlas\n(b) telefon cordless li jinkludi Digital Enhanced Cordless\nTelecommunications (DECT) user terminals, li jopera filbanda 1880 - 1900 MHz, qawwa sa’ 250 milliwatt peak\ne.r.p., għandu antenna integrali jew dedikata, 1728 kHz\nchannel spacing .............................................................. ebda ħlas\n(ċ) electronic kits għal esperimenti (istituzzjonijiet edukattivi\nbiss) ................................................................................ ebda ħlas\n(d) kull apparat li mhux imsemmi f’dawn ir-regolamenti,\nq a w w a s a 1 0 m i l l i w a t t s e . i . r. p . l i g ħ a nd u a n t e n na\nintregrali ........................................................................ ebda ħlas",
+      "metadata": {
+        "source_line_start": 318,
+        "source_line_end": 328
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "q a w w a s a 1 0 m i l l i w a t t s e . i . r. p . l i g ħ a nd u a n t e n na",
+      "content": "Stazzjon għal Trasmissjoni ta’ Xandir għal servizz ta’\nxandir pubbliku, dritt fis-sena:\n(a) għal kull stazzjon ta’ smiegħ ............................................\n3,490\n(b) għal kull stazzjon ta’ televiżjoni ......................................\n6,985",
+      "metadata": {
+        "source_line_start": 329,
+        "source_line_end": 334
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "6,985",
+      "content": "Apparat għar-radjokomunikazzjoni Citizens’ Band li jopera\nkif hemm fis-Sebgħa u Għoxrin Skeda li tinsab marRegolamenti dwar Awtorizzazzjonijiet Ġenerali (Apparat\ntar-Radjokomunikazzjoni) .................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 335,
+        "source_line_end": 337
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "6,985",
+      "content": "Dimostrazzjoni ta’ apparat tar-radjokomunikazzjoni:\nGħal perijodu ta’ 30 ġurnata jew parti minnu ........................... 58.20",
+      "metadata": {
+        "source_line_start": 338,
+        "source_line_end": 339
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Għal perijodu ta’ 30 ġurnata jew parti minnu ........................... 58.20",
+      "content": "Apparat ieħor tar-radjokomunikazzjoni li mhux xort’oħra\nstipulat f’dawn ir-regolamenti, dritt fis-sena ....................",
+      "metadata": {
+        "source_line_start": 340,
+        "source_line_end": 341
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "stipulat f’dawn ir-regolamenti, dritt fis-sena ...................",
+      "content": "Sistema terrestri ta’ lokazzjoni u sorveljanza ta’\ninformazzjoni, sew fissa sew mobbli fil-ħin attwali:\n(a) Kull stazzjon għall-ewwel ħames snin, dritt fis-sena\n2,325\n(b) Id-dritt taħt il-paragrafu (a) jiżdied fis-sena fit-tmiem ta’\nkull ħames snin għal kull żmien ieħor ta’ ħames snin .......\n1,160",
+      "metadata": {
+        "source_line_start": 343,
+        "source_line_end": 349
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Ġenerali (Apparat tar-Radjokomunikazzjoni) ....................... ebda ħlas",
+      "content": "Sistema ta’ Wideband data transmission, inklużi sistemi ta’\nwireless access bħalma huma radio local area networks li\njoperaw kif hemm fit-Tieni Skeda li tinsab mar-Regolamenti\nd w a r Aw t o r i z z a z z j o n i Ġ e n e r a l i ( A p p a r a t t a r - ebda ħlas\nRadjokomunikazzjoni) .................................................",
+      "metadata": {
+        "source_line_start": 356,
+        "source_line_end": 360
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Radjokomunikazzjoni) ................................................",
+      "content": "Apparat short range li jintuża għal applikazzjonijiet induttivi\nli jopera skont il-Ħames Skeda li tinsab mar-Regolamenti\nd w a r Aw t o r i z z a z z j o n i j i e t Ġ e n e r a l i ( A p p a r a t t a r Radjokomunikazzjoni) ....................................................\nebda ħlas",
+      "metadata": {
+        "source_line_start": 361,
+        "source_line_end": 364
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "ebda ħlas",
+      "content": "Apparat high duty cycle/continuous transmission li jopera kif\nhemm fit-Tmien Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i\nĠenerali\n(Apparat\ntarRadjokomunikazzjoni) ........................................................ ebda ħlas\n\nL.S.35.01]\n\nDRITTIJIET LI JITĦALLSU",
+      "metadata": {
+        "source_line_start": 365,
+        "source_line_end": 379
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "DRITTIJIET LI JITĦALLSU",
+      "content": "Apparat low duty cycle/high reliability li jopera kif hemm\nfis-Seba’ Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i\nĠenerali\n(Apparat\ntarRadjokomunikazzjoni) .................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 380,
+        "source_line_end": 385
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "(Apparat",
+      "content": "Apparat ta’ radjokomunikazzjoni PMR 446 li jopera skont lGħaxar Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i j i e t Ġ e n e r a l i ( A p p a r a t t a r Radjokomunikazzjoni) ...................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 386,
+        "source_line_end": 387
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "(Apparat",
+      "content": "Automotive short range radars li joperaw fil-bandi talfrekwenza 21.65 - 26.65 GHz u 77 - 81 GHz ................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 388,
+        "source_line_end": 388
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "(Apparat",
+      "content": "Apparat tar-radjukomunikazzjoni short range li juża\nteknoloġija ultra-wideband ............................................. ebda ħlas",
+      "metadata": {
+        "source_line_start": 389,
+        "source_line_end": 390
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "(Apparat",
+      "content": "Radio Frequency Identification Devices (RFID) li joperaw\nkif hemm fit-Tnax-il Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i j i e t Ġ e n e r a l i ( A p p a r a t t a r Radjokomunikazzjoni) ....................................................\nebda ħlas",
+      "metadata": {
+        "source_line_start": 391,
+        "source_line_end": 394
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "ebda ħlas",
+      "content": "Apparat tar-radjukomunikazzjoni g#al tracking, traċċar u\nakkwist ta’ data li jopera kif hemm fit-Tlettax-il Skeda li\ntinsab mar-Regolamenti dwar Awtorizzazzjonijiet Ġenerali\n(Apparat tar-Radjokomunikazzjoni) ..................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 395,
+        "source_line_end": 398
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "tinsab mar-Regolamenti dwar Awtorizzazzjonijiet Ġenerali",
+      "content": "Apparat użat għal servizzi ta’ komunikazzjoni mobbli fuq\nl-inġenji tal-ajru (servizzi MCA) .............................\nebda ħlas",
+      "metadata": {
+        "source_line_start": 399,
+        "source_line_end": 401
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "ebda ħlas",
+      "content": "Apparat li jintuża għal applikazzjonijiet relatati massikurezza ta’ Trasport Intelligenti (ITS), li joperaw filfaxxa ta’ frekwenzi 5875 - 5095 MHz, densità tal-qawwa\nspettrali sa 23 dBm/MHz, qawwa ta’ trasmissjoni sa\n33dBm medju e.i.r.p. ....................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 402,
+        "source_line_end": 404
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Ġenerali (Apparat tar-Radjokomunikazzjoni) ....................... ebda ħlas",
+      "content": "Apparat ta’ radjokomunikazzjoni li jintuża fil-kura tas-saħħa\nli jopera kif hemm fid-Dsatax-il Skeda li tinsab marRegolamenti dwar Awtorizzazzjonijiet Ġenerali (Apparat\ntar-Radjokomunikazzjoni) .................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 414,
+        "source_line_end": 416
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Ġenerali (Apparat tar-Radjokomunikazzjoni) ....................... ebda ħlas",
+      "content": "Very small aperture terminals (VSAT), li joperaw filfaxxa 10.7-11.7 GHz (space-to Earth) u 14.25-14.50 GHz\n(Earth-to-space), qawwa ta’ trasmissjoni massima 2\nWatts, effettiv massimu e.i.r.p. ........................................ ebda ħlas",
+      "metadata": {
+        "source_line_start": 417,
+        "source_line_end": 419
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "(Earth-to-space), qawwa ta’ trasmissjoni massima 2",
+      "content": "Low e.i.r.p. satellite terminals (LEST), li joperaw fil-faxxi",
+      "metadata": {
+        "source_line_start": 420,
+        "source_line_end": 420
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "qawwa ta’ trasmissjoni massima 34 dBW e.i.r.p. .............. ebda ħlas",
+      "content": "High e.i.r.p. satellite terminals (HEST), li joperaw filfaxxi10.7-12.75 GHz (space-to Earth), 19.7-20.2 GHz\n(space-to Earth), 14.0-14.25 GHz (Earth-to-space), 29.530.0 GHz (Earth-to-space) u 11.7 - 12.5 GHz (space-to\nEarth), qawwa ta’ trasmissjoni massima 50 dBW e.i.r.p. .. ebda ħlas",
+      "metadata": {
+        "source_line_start": 424,
+        "source_line_end": 426
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Earth), qawwa ta’ trasmissjoni massima 50 dBW e.i.r.p. .. ebda ħlas",
+      "content": "Aircraft earth station (AES) li joperaw fil-faxxi 14.0-14.5\nGHz (Earth-to-space), 10.7-11.7 GHz (space-to Earth) u",
+      "metadata": {
+        "source_line_start": 427,
+        "source_line_end": 428
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "GHz (Earth-to-space), 10.7-11.7 GHz (space-to Earth) u",
+      "content": "Stazzjonijiet tal-Art abbord Bastimenti (ESV):\n(a) li joperaw fil-faxxi 5925-6425 MHz (Earth-to-space) u\n3700-4200 MHz (space-to Earth), qawwa ta’ trasmissjoni\nmassima lejn horizon 20.8 dBW e.i.r.p., densità talispektrum massima lejn horizon 17 dBW ......................... ebda ħlas\n\nDRITTIJIET LI JITĦALLSU\n\n[ L.S.35.01\n\n(b) li joperaw fil-faxxi 14.0-14.5 GHz (Earth-to-space), 10.711.7 GHz (space-to Earth) u 12.5-12.75 GHz (space-to\nEarth), qawwa ta’ trasmissjoni massima lejn horizon 16.3\ndBW e.i.r.p., densità tal-ispektrum massima lejn horizon",
+      "metadata": {
+        "source_line_start": 431,
+        "source_line_end": 446
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "dBW e.i.r.p., densità tal-ispektrum massima lejn horizon",
+      "content": "Meta taħt din it-Taqsima ma jkun hemm ebda dritt\nspeċifikat fir-rigward ta’ xi liċenza proviżorja,\ngħaldaqstant f’każijiet ta’ dik ix-xorta, id-dritt li jitħallas\nikun fuq bażi pro rata hekk li d-dritt minimu f ’kull każ\nikun dak ta’ xahar wieħed",
+      "metadata": {
+        "source_line_start": 448,
+        "source_line_end": 452
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "ikun dak ta’ xahar wieħed",
+      "content": "Apparat li jintuża biex jingħataw servizzi ta’\nkomunikazzjoni mobbli abbord bastimenti (servizzi\nMCV) ............................................................................. ebda ħlas",
+      "metadata": {
+        "source_line_start": 453,
+        "source_line_end": 455
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "komunikazzjoni mobbli abbord bastimenti (servizzi",
+      "content": "Stazzjonijiet tal-Art fuq Pjattaformi Mobbli li joperaw ma’\nGeostationary Satellite Networks, li joperaw kif hemm\nfis-Sbatax-il Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i\nĠenerali\n(Apparat\ntarRadjokomunikazzjoni) .................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 456,
+        "source_line_end": 462
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "(Apparat",
+      "content": "Stazzjonijiet Transmit-only Mobile Earth li joperaw kif\nhemm fl-Għoxrin Skeda li tinsab mar-Regolamenti dwar\nAw t o r i z z a z z j o n i\nĠenerali\n(Apparat\ntarRadjokomunikazzjoni) .................................................... ebda ħlas",
+      "metadata": {
+        "source_line_start": 463,
+        "source_line_end": 468
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Transport and Traffic Telematics - RTTT) li topera kif",
+      "content": "Radiobeacons li joperaw kif hemm fit-Tlieta u Tletin\nSkeda li tinsab mar-Regolamenti dwar Awtorizzazzjoni\nĠenerali (Apparat tar-Radjokomunikazzjoni) .................. ebda ħlas",
+      "metadata": {
+        "source_line_start": 472,
+        "source_line_end": 474
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Ġenerali (Apparat tar-Radjokomunikazzjoni) .................. ebda ħlas",
+      "content": "Stazzjonijiet tal-Art fuq Pjattaformi Mobbli Terrestri u\nMarittimi li joperaw ma’ Non-Geostationary Satellite\nNetworks, li joperaw kif hemm fl-Erbgħa u Tletin Skeda li\ntinsab mar-Regolamenti dwar Awtorizzazzjoni Ġenerali\n(Apparat tar-Radjokomunikazzjoni) ................................ ebda ħlas",
+      "metadata": {
+        "source_line_start": 475,
+        "source_line_end": 479
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "(Apparat tar-Radjokomunikazzjoni) ................................ ebda ħlas",
+      "content": "Eżenzjoni minn kwalunkwe dritt applikabbli taħt din itTaqsima:\nIII. Kopja duplikata ta’ liċenza:",
+      "metadata": {
+        "source_line_start": 480,
+        "source_line_end": 481
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "Section 55",
+      "content": "DRITTIJIET LI JITĦALLSU\n\n[ L.S.35.01\n\nMINISTERU GĦALL-AFFARIJIET BARRANIN\nN.G. 367 tal-1934 Id-drittijiet li jitħallsu lill-uffiċjali konsulari jew uffiċjali oħra\nA.L. 17 tal-1970 li jirrappreżentaw il-Gvern ta’ Malta f ’territorji oħra għasA.L. 65 tal-1973 servizzi speċifikati hawn taħt:\nA.L. 59 tal-1974 1. Għas-somministrazzjoni ta’ ġurament jew jekk tiġi\nA.L. 239 tal-1997\nriċevuta dikjarazzjoni jew affermazzjoni bl-attestazzjoni\nA.L. 233 tal-2007\nta’ firma jew mingħajrha .................................................\nA.L. 426 tal-2012",
+      "metadata": {
+        "source_line_start": 561,
+        "source_line_end": 577
+      }
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "0.58",
+      "content": "L.S.35.01]\n\nDRITTIJIET LI JITĦALLSU",
+      "metadata": {
+        "source_line_start": 675,
+        "source_line_end": 684
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "(servizz ta’ dokumenti)",
+      "content": "Għall-esekuzzjoni ta’ talbiet għall-infurzar ta’ ordnijiet Ewropej\ngħall-preservazzjoni tal-kontijiet, skont l-Artikolu 23 tarRegolament (UE) Nru 655/2014 tal-Parlament Ewropew u talKunsill tal-15 ta’ Mejju 2014 li jistabbilixxi proċedura ta’ Ordni\nEwropea tal-Preservazzjoni tal-Kontijiet sabiex jiġi ffaċilitat lirkupru transkonfinali tad-dejn f’materji ċivili u kummerċjali",
+      "metadata": {
+        "source_line_start": 784,
+        "source_line_end": 787
+      }
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Għat-tneħħija ta' fdalijiet minn qabar għal qabar ieħor f’ċimiterju",
+      "content": "00:\nIżda l-imsemmija drittijiet huma applikabbli fuq kull dritt li jista’ jkun\npagabbli fuq kull katavru u ma jinkludux kull dritt li jista' jkun pagabbli lillPulizija jew awtorità kompetenti oħra għal permessi relatati ma' dfin jew\neżumazzjoni.\n\nL.S.35.01]\n\nDRITTIJIET LI JITĦALLSU\n\nDawn id-drittijiet jeskludu kull taxxa, dazju, boll, imposti u, jew drittijiet oħra\nmiżjuda li għandhom jiġu mħallsa skond il-liġijiet fiskali taż-żmien li fihom\ndawn id-drittijiet qegħdin jitħallsu.\".\nTrasport ta’ kadavri f ’Għawdex\nN.G. 275 tal-1948 Il-kuntrattur għat-trasport ta’ kadavri ta’ nies foqra f’Għawdex\ngħandu jħallas dritt ta’ 12ċ5 kull darba li l-karru tal-Gvern\njinkera mill-kuntrattur għal funeral li ma jkunx funeral ta’\nwieħed fqir\nA.L. 118 tal-1975\nĠarr ta’ kadavri\nA.L. 148 tal-1998 Dritt għas-sorveljanza tal-ġarr ta’ xi kadavri għal jew millajruport jew xi port f’dawn il-Gżejjer ...................................\nIżda ma għandu jinġabar ebda dritt meta l-kadavru jkun\nqiegħed jinġarr minn Għawdex biex jindifen f’Malta, jew viċi\nversa\nA.L. 40 tal-1973\nKiri ta’ apparat\nKiri ta’ oġġetti jew tagħmir mediku, barra minn strumenti\nkirurġiċi, li ma jkunux jistgħu jinkisbu fis-suq lokali:\ngħall-ewwel xahar jew parti minnu ..........................................\ngħal kull xahar ieħor jew parti minnu .......................................\nIżda, meta d-drittijiet kollha mħallsa għall-kiri kontinwu\nminn xi persuna waħda jkunu iżjed minn kemm jiswa l-oġġett\njew it-tagħmir mediku b’ħamsin fil-mija, dak l-oġġett jew ittagħmir isir proprjetà tal-persuna li tikrih.\nKiri ta’ strumenti kirurġiċi li ma jkunux jistgħu jinkisbu fis-suq\nlokali:\nterz ta’ kemm jiswa l-istrument għal kull perijodu sa tliet ijiem,\nli meta jgħaddu l-istrument għandu jiġi mogħti lura.\nMINISTERU GĦAT-TRASPORT\nA.L. 210 tal-1997 Liċenza ta’ bennej, għall-ħruġ tal-liċenza u t-tiġdid tagħha ta’\nXIII. 2015.18\nkull sena .......................................................................\nN.G. 437 tal-1948 Għall-eżami ta’ kandidati li jixtiequ jkollhom il-liċenza biex\nA.L. 210 tal-1997 jagħmulha ta’ bennejja skont l-artikolu 95 tal-Kodiċi talXIII. 2015.18\nLiġijiet tal-Pulizija (Kap. 10) ta’ kull darba li jsir l-eżami ........\n\nMiżjud:\nA.L. 18 tal-2023.",
+      "metadata": {
+        "source_line_start": 1332,
+        "source_line_end": 1383
+      }
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "Bażiku.................................................................",
+      "content": "Dritt li għandu jitħallas minn kull student fl-Istadju Bażiku talprogramm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit\nintitolat Ħiliet Diġitali.............................................................. 72.05\n\nDRITTIJIET LI JITĦALLSU\n\n[ L.S.35.01\n\nDritt li għandu jitħallas minn kull student fi Stadju I talprogramm Jien Nappartjeni għar-ripetizzjoni ta’ kwalunkwe\nwieħed\nmill-Iskill\nk i t s 90.82\n...................................................................\nDritt li għandu jitħallas minn kull student fi Stadju II talprogramm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit\nintitolat il-Malti għall-Integrazzjoni ..............................",
+      "metadata": {
+        "source_line_start": 1401,
+        "source_line_end": 1419
+      }
+    },
+    {
+      "provision_ref": "s187",
+      "section": "187",
+      "title": "intitolat il-Malti għall-Integrazzjoni .............................",
+      "content": "Dritt li għandu jitħallas minn kull student fi Stadju II talprogramm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit\nintitolat Orjentazzjoni Kulturali ...................................\n374.39",
+      "metadata": {
+        "source_line_start": 1420,
+        "source_line_end": 1426
+      }
+    }
+  ],
+  "definitions": []
+}

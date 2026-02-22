@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-494-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi 2008 Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi 2008 Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 494(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2008-01-01",
+  "url": "https://legislation.mt/eli/cap/494/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/494/mlt, expression eli/cap/494/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ KAP. 494.\n\nMIŻURI TAL-ESTIMI\n\nKAPITOLU 494\nATT LI JIMPLIMENTA MIŻURI\nTAL-ESTIMI 2008\nBiex jimplimenta diversi miżuri tal-Estimi għall-2008 u miżuri\namministrattivi oħra.\n\n1 ta’ Jannar, 2008\nL-ATT XXII tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

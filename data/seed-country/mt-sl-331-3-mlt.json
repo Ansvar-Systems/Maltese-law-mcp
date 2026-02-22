@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-331-3-mlt",
+  "type": "statute",
+  "title": "Regolament dwar Eżenzjoni lit-Trust tal-Università għar-Riċerka, Innovazzjoni u Żvilupp",
+  "title_en": "Regolament dwar Eżenzjoni lit-Trust tal-Università għar-Riċerka, Innovazzjoni u Żvilupp",
+  "short_name": "eli/sl/331.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/331.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/331.3/mlt, expression eli/sl/331.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 185 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regoli hu Regoli dwar E\\enzjoni litTrust tal-Università g]ar-Ri`erka, Innovazzjoni u |vilupp.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-Trustees tat-trust mag]ruf b]ala t-Trust tal-Università\ng]ar-Ri`erka, Innovazzjoni u |vilupp stabbilit mill-Prim Ministru\nbis-sa]]a tas-setg]at mog]tija bl-artikolu 131 tal-Att dwar lEdukazzjoni g]andhom ikunu e\\entati mill-]ti[iet tal-artikolu 43 u\n43A tal-Att dwar Trusts u Trustees skont l-artikolu 57(1)(g) tal-Att\ndwar Trusts u Trustees.\n\nE\\enzjoni.\nKap. 327.\nKap. 331.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

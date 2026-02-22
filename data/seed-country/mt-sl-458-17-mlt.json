@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-458-17-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Taqsimiet Speċjali tar-Reġistru u l-Elenku ta' L-Infermieri",
+  "title_en": "Regolamenti dwar it-Taqsimiet Speċjali tar-Reġistru u l-Elenku ta' L-Infermieri",
+  "short_name": "eli/sl/458.17/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.17/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.17/mlt, expression eli/sl/458.17/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 49 ta’ l-1984, kif emendati bl-Avvi\\ Legali 13 ta’ l1994",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTaqsimiet Spe`jali tar-Re[istru u l-Elenku ta’ l-Infermieri.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 49 ta’ l-1984, kif emendati bl-Avvi\\ Legali 13 ta’ l1994",
+      "content": "Fir-re[istru ta’ l-infermieri g]andu jkun hemm dawn ittaqsimiet spe`jali:\n\n(a) re[istru ta’ infermieri kwalifikati fl-infermerija ta’\npazjenti li jbatu b’mard tal-mo]]. (infermieri re[istrati\ng]al dawk li huma morda b’mo]]hom);\n\nTitolu.\nTaqsimiet spe`jali\ntar-re[istru ta’ linfermieri.\nEmendat:\nA.L. 13 ta’ l-1994.\n\n(b) re[istru ta’ infermieri kwalifikati fl-infermerija ta’\npazjenti mentalment inkapa`i. (infermieri re[istrati\ng]al dawk li huma mentalment inkapa`i);\n(`) re[istru ta’ infermieri kwalifikati fl-infermerija ta’ tfal\nmorda. (infermieri re[istrati g]al tfal morda);\n(d) re[istru ta’ infermieri m]arr[in fl-infermerija g]alladulti.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Fl-elenku ta’ l-infermieri g]andu jkun hemm dawn ittaqsimiet spe`jali:\n\n(a) elenku ta’ infermieri kwalifikati fl-infermerija ta’\npazjenti li jbatu b’mard tal-mo]]. (infermieri elenkati\ng]al dawk morda b’mo]]hom);\n(b) elenku ta’ infermieri kwalifikati fl-infermerija ta’\npazjenti mentalment inkapa`i. (infermieri elenkati g]al\ndawk li huma mentalment inkapa`i);\n\n(`) elenku ta’ infermieri kwalifikati fl-infermerija ta’ tfal\nmorda. (infermieri elenkati g]al tfal morda).\n\nTaqsimiet spe`jali\nta’ l-elenku ta’ linfermieri.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 54
+      }
+    }
+  ],
+  "definitions": []
+}

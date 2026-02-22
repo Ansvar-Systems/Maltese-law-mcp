@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-41-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ir-Reġistri tal-Merkanzija - Spiriti",
+  "title_en": "Ordni dwar ir-Reġistri tal-Merkanzija - Spiriti",
+  "short_name": "eli/sl/41.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/41.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/41.1/mlt, expression eli/sl/41.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-ORDNI tat-18 ta’ Mejju, 1937",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Re[istri talMerkanzija - Spiriti.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Re[istri talMerkanzija - Spiriti",
+      "content": "Ir-re[istri tal-merkanzija li g]andhom jin\\ammu minn kull\nnegozjant jew bejjieg] bl-imnut ta’ l-ispirti g]andhom ikunu skond\nil-mod imfisser fl-Iskeda ta’ hawn ta]t.\n\nTitolu.\nRe[istri talmerkanzija.\n\nD}UL\n\n(G]andha tkun u\\ata minn negozjanti u bejjieg]a)\nKwantità\nData ta’\nd]ul ta’\nSpirti\n\nKwantità,\nDeskrizzjoDeskrizzjoni, Marki u\nni ta’ Spirti Numri ta’\nKollijiet\n\nLitri talLikwidu\n\nForza\n\nIsem u\nindirizz talpersuna\nminn g]and\nLitri skond min ir`evejt\nil-prova jew Isem ilbastiment li\nfuqu n[iebu\nl-ispirti\n\n}RU{\n\n(G]andha tkun u\\ata minn negozjanti biss)\nData ta’\n]ru[ ta’\nSpirti\n\nKwantità,\nDeskrizzjoDeskrizzjoni ta’ Spirti ni, Marki u\nNumri ta’\nKollijiet\n\nKwantità\nLitri talLikwidu\n\nForza\n\nIsem u\nindirizz talpersuna li\nLitri skond\nlilha\nil-prova\nikkunsinnajt l-ispirti",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

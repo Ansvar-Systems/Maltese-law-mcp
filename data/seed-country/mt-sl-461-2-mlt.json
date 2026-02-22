@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-461-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Tipi ta’ Awditjar Intern",
+  "title_en": "Regolamenti dwar Tipi ta’ Awditjar Intern",
+  "short_name": "eli/sl/461.2/mlt",
+  "status": "in_force",
+  "issued_date": "2012-01-10",
+  "in_force_date": "2012-01-10",
+  "url": "https://legislation.mt/eli/sl/461.2/20120110/mlt",
+  "description": "Official text from legislation.mt (eli/sl/461.2/mlt, expression eli/sl/461.2/20120110/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 434 tal-2004",
+      "content": "It- titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nTipi ta’ Awditjar Intern.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-tipi differenti ta’ awditjar intern li jsiru mid-Direttorat\nhuma dawn li āejjin:\n\nTipi ta’ awditjar\nintern.\n\n(a) Awditjar finanzjarju;\n(b) Awditjar dwar Konformità;\n(ë) Awditjar dwar EŜekuzzjoni / Operattiv;\n(d) Awditjar Komprensiv;\n(e) Awditjar dwar Valur għal flus li jitħallsu;\n(f)\n\nAwditjar dwar Sistemi ta’\nInformazzjoni / Informazzjoni;\n\nTeknoloāija\n\ntal-\n\n(g) Awditjar dwar il-Management;\n(h) Awditjar dwar Programmi;\n(i)\n\nAwditjar Konāunt dwar l-Unjoni Ewropea;\n\n(j)\n\nAwditjar Relatat mal-Unjoni Ewropea;\n\n(k) Awditjar ta’ Prosegwiment;\n(l)\n\nReferencing;\n\n(m) kull xort’oħra ta’ awditjar intern u xogħol relatat li\njistgħu jinħtieāu minn Ŝmien għal Ŝmien fiddiskrezzjoni tad-Direttur.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 59
+      }
+    }
+  ],
+  "definitions": []
+}

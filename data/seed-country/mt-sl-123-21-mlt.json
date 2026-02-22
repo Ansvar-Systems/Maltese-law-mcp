@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-21-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Eżenzjoni mit-Taxxa fuq l-Income",
+  "title_en": "Ordni dwar Eżenzjoni mit-Taxxa fuq l-Income",
+  "short_name": "eli/sl/123.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2002-04-02",
+  "url": "https://legislation.mt/eli/sl/123.21/20240202/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.21/mlt, expression eli/sl/123.21/20240202/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "120 tal-2022 u 19 tal-2024",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Eżenzjoni mitTaxxa fuq l-Income.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-allowances u benefiċċji, imniżżlin fl-Iskeda ta’ dan lOrdni, u kull allowance u benefiċċji oħra mhux kontributorji, li\njitħallsu skont l-Att dwar is-Sigurtà Soċjali, ikunu eżenti mill-ħlas\ntat-taxxa fuq l-income.\n\nEżenzjoni.\nEmendat:\nA.L. 181 tal-2015.\nKap. 318.\n\n(Artikolu 2)\n\nSostitwit:\nA.L. 120 tal-2022.\nEmendat:\nA.L. 19 tal-2024.\n\nAllowances jew Benefiċċji\n\nDispożizzjoni rilevanti\ntaħt l-Att dwar isSigurtà Soċjali\nBenefiċċju għall-Mard\nArtikolu 18\nAssistenzi għal Diżabilità u Assistenza\nArtikolu 27\ngħal Persuna b’Vista Batuta\nBenefiċċji għal Korriment fuq ixArtikoli 28 u 29\nXogħol\nGħajnuna Soċjali\nArtikolu 30\nBenefiċċju għal Disimpieg\nArtikolu 30\nBenefiċċju Speċjali għal Disimpieg\nArtikolu 30\nPensjoni tar-Romol u Pensjoni ta’\nArtikolu 31\nSuperstiti\nPensjoni tal-Età\nArtikolu 66\nAllowance ta’ Ltim\nArtikolu 69\nGħotja taż-Żwieġ\nArtikolu 70\nBenefiċċju dwar il-Maternità\nArtikolu 71\nAllowance tat-Tfal\nArtikolu 76\nAllowance dwar Affidament\nArtikolu 76A\nAllowance għal Tfal b’Diżabilità\nArtikolu 77",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 73
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-318-16-mlt",
+  "type": "statute",
+  "title": "Ordni dwar is-Sigurtà Soċjali (Konvenzjoni tan-Nazzjonijiet Uniti dwar l-Istatus tar-Rifuġjati)",
+  "title_en": "Ordni dwar is-Sigurtà Soċjali (Konvenzjoni tan-Nazzjonijiet Uniti dwar l-Istatus tar-Rifuġjati)",
+  "short_name": "eli/sl/318.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.16/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.16/mlt, expression eli/sl/318.16/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 291 ta’ l-2001",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar is-Sigurtà Soċjali\n(Konvenzjoni tan-Nazzjonijiet Uniti dwar 1-Istatus tar-Rifuġjati).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet ta’ dan l-Ordni, il-Konvenzjoni tanNazzjonijiet Uniti dwar l-Istatus tar-Rifuġjati tirriferixxi għallKonvenzjoni tan-Nazzjonijiet Uniti ta’ l-1951 rigward l-Istatus ta’\nRifuġjati, u l-Protokol rigward l-Istatus tar-Rifuġjati tal-31 ta’\nJannar, 1967.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Id-disposizzjonjiet ta’ l-Att dwar is-Sigurtà Soċjali\ngħandhom japplikaw għal rifuġjati li, skond il-provvedimenti ta’ lAtt dwar il-Protezzjoni Internazzjonali huma meqjusa bħala\nrifuġjati mill-Kummissjoni għar-Rifuġjati maħtura taħt l-Att.\n\nEstensjoni u\napplikazzjoni.\nKap. 420.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

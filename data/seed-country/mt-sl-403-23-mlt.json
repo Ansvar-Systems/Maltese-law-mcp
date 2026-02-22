@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Solvency II Transitional Provisions) Regulations",
+  "title_en": "Regolamenti dwar Insurance Business (Solvency II Transitional Provisions) Regulations",
+  "short_name": "eli/sl/403.23/mlt",
+  "status": "in_force",
+  "issued_date": "2016-01-11",
+  "in_force_date": "2016-01-11",
+  "url": "https://legislation.mt/eli/sl/403.23/20160111/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.23/mlt, expression eli/sl/403.23/20160111/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS\n(SOLVENCY II TRANSITIONAL PROVISIONS)\n\n[ L.S.403.23\n\nLE{ISLAZZJONI SUSSIDJARJA 403.23\nREGOLAMENTI DWAR INSURANCE BUSINESS\n(SOLVENCY II TRANSITIONAL PROVISIONS)*\n1 ta’ Jannar, 2016\nL-AVVI| LEGALI 404 tal-2015.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

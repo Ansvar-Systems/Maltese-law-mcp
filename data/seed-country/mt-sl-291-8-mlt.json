@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-291-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Notifika li tirrigwarda l-Infurzar tal-Kwarantina",
+  "title_en": "Regolamenti dwar Notifika li tirrigwarda l-Infurzar tal-Kwarantina",
+  "short_name": "eli/sl/291.8/mlt",
+  "status": "in_force",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://legislation.mt/eli/sl/291.8/20200326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/291.8/mlt, expression eli/sl/291.8/20200326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 44 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nNotifika li tirrigwarda l-Infurzar tal-Kwarantina.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nUffiċjal tal-Pulizija, li jkun assenjat biex\njikkonferma l-osservanza jew le tar-Regolamenti tal-2020 dwar lInfurzar ta’ Ordnijiet li jirrigwardaw il-Kwarantina, li jiskopri li\npersuna tkun kisret l-kondizzjonijiet li jirrigwardaw il-kwarantina li\njkun ġew imposti fuqha, għandu jagħti lil min wettaq ir-reat jew\niwaħħal f’post fejn ikun jidher fl-indirizz ta’ min ikun wettaq ir-reat,\navviż li jkun fih:\n\nAvviż dwar ir-reat.\n\n(i)\n\nix-xorta tar-reat;\n\n(ii)\n\nil-post, il-ħin u d-data tar-reat;\n\n(iii) il-firma tal-uffiċjal\njagħti jew li jwaħħal l-avviż; u\n(iv)\n\ntal-Pulizija\n\nli\n\ntagħrif dwar il-ħlas tal-penali.\n\n(2) Meta xi avviż ikun ingħata jew twaħħal kif previst fissubregolament (1), min jkun wettaq ir-reat jista’ fi żmien ħmistax-il\nġurnata mit-temm tal-perjodu tiegħu ta’ kwarantina, iħallas l-penali\nfir-rigward tal-ksur skont kif muri f’dak l-avviż.\n(3) Meta l-imsemmija penali ma tkunx tħallset fiż-żmien\nimsemmi fis-subregolament (2), għandhom jittieħdu proċedimenti\nquddiem Kummissarju għall-Ġustizzja fir-rigward tar-reat li jkun\nimsemmi fl-avviż.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "imsemmi fl-avviż",
+      "content": "Kull ksur tad-dispożizzjonijiet tar-Regolamenti tal-2020\ndwar l-Infurzar ta’ Ordnijiet li jirrigwardaw il-Kwarantina għandu\njitqies bħala reat imniżżel fl-Iskeda għall-finijiet tal-Att dwar ilKummissarji għall-Ġustizzja.\n\nReat imniżżel flIskeda.\nKap. 291.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 67
+      }
+    }
+  ],
+  "definitions": []
+}

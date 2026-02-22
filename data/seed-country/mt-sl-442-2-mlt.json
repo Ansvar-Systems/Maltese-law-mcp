@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-442-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta’ Atti bil-Miktub f’konnessjoni ma’ Appelli",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta’ Atti bil-Miktub f’konnessjoni ma’ Appelli",
+  "short_name": "eli/sl/442.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/442.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/442.2/mlt, expression eli/sl/442.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 104 ta’ l-2001, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti bil-Miktub\nf’konnessjoni ma’ Appelli.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 110(3)\nta’ l-Att dwar l-G]aqdiet Koperattivi g]all-pre\\entata ta’ atti bilmiktub f’konnessjoni ma’ appell g]andhom ikunu mija u sittax-il\neuro u sebg]a u erbg]in `ente\\mu (€116.47).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 426 ta’ l2007.\nKap. 442.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-106-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Projbizzjoni tal-Koltivazzjoni tat-Tabakk",
+  "title_en": "Ordni dwar il-Projbizzjoni tal-Koltivazzjoni tat-Tabakk",
+  "short_name": "eli/sl/106.1/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/106.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/106.1/mlt, expression eli/sl/106.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 560 ta’ l-1939",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-Projbizzjoni talKoltivazzjoni tat-Tabakk.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 560 ta’ l-1939",
+      "content": "Il-koltivazzjoni tat-tabakk f’dawn il-G\\ejjer hi pprojbita.\n\nTitolu.\nProjbizzjoni.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 24
+      }
+    }
+  ],
+  "definitions": []
+}

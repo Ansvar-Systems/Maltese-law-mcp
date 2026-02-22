@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-9-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ħlas lil Ġurati",
+  "title_en": "Regolamenti dwar il-Ħlas lil Ġurati",
+  "short_name": "eli/sl/9.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/9.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.6/mlt, expression eli/sl/9.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u 105 tal-2016",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilĦlas lil Ġurati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilĦlas lil Ġurati",
+      "content": "F’dawn ir-regolamenti -\n\n\"ġurat\" tfisser persuna li tieħu l-ġurament bħala ġurat skont iddisposizzjonijiet tal-Kodiċi Kriminali u tinkludi prim ġurat, ġurat\nsupplenti u ġurat speċjali;\n\"ġurnata servizz\" tfisser jum li matulu ġurat ikun tas-servizz\ntiegħu u tinkludi s-Sibt, il-ħadd u kull btala pubblika oħra meta lġurati ma jitħallewx jerġgħu lura d-dar skont ma hemm fissubartikolu (2) ta’ l-artikolu 471 tal-Kodiċi Kriminali;\n\nTitolu.\nTifsir.\nKap. 9.\n\nKap. 9.\n\n\"reġistratur\" tfisser ir-Reġistratur tal-Qrati Superjuri.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ir-reġistratur għandu jħallas, kemm jista’ jkun malajr, hekk\nkif tintemm kull kawża li fiha jkun hemm il-ġurati, lil ġurat dritt ta’\ntletin euro (€30) għal kull ġurnata servizz, jew parti minn ġurnata\nservizz, li matulha dak il-ġurat ma jkun irċieva ebda salarju jew\npaga minn xogħlu meta l-kawża ma tkunx itwal minn ħmistax-il\nġuranta tax-xogħol, u erbgħin euro (€40) għal kull ġuranta servizz\naddizjonali, jew parti minn dik il-ġurnata, kif imsemmi qabel, iktar\nmill-ewwel ħmistax-il ġurnata tax-xogħol.\n\nĦlas lil ġurati li ma\njirċevux salarju\njew paga.\nEmendat:\nA.L. 407 tal-2007.\nSostitwit:\nA.L. 105 tal-2016.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 105 tal-2016",
+      "content": "Ir-reġistratur għandu jħallas, kemm jista’ jkun malajr, hekk\nkif tintemm kull kawża li fiha jkun hemm il-ġurati, lil ġurat dritt ta’\ngħaxar euro (€10) għal kull ġurnata servizz, jew parti minn ġurnata\nservizz, li matulha dak il-ġurat ikun irċieva -\n\nĦlas lil ġurat li\njirċevi salarju jew\npaga.\nEmendat:\nA.L. 407 tal-2007.\nSostitwit:\nA.L. 105 tal-2016.\n\n(a) salarju jew paga minn xogħolu; jew\n(b) pensjoni; jew\n(ċ) jekk il-ġurat ikun bla xogħol; jew\n(d) jekk il-ġurat tkun mara tad-dar’",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "(d) jekk il-ġurat tkun mara tad-dar’",
+      "content": "(Revokat bl-Avviż Legali 105 tal-2016).\n\nDisposizzjonijiet\nsupplimentari.",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

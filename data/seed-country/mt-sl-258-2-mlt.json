@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-258-2-mlt",
+  "type": "statute",
+  "title": "Avviż dwar id-Data ta’ Skadenza ta’ Ċerti Karti ta’ l-Identità",
+  "title_en": "Avviż dwar id-Data ta’ Skadenza ta’ Ċerti Karti ta’ l-Identità",
+  "short_name": "eli/sl/258.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/258.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/258.2/mlt, expression eli/sl/258.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 123 ta’l-2004",
+      "content": "It-titolu ta’ dan l-avvi\\ hu Avvi\\ dwar id-Data ta’ Titolu.\nSkadenza ta’ ~erti Karti ta’ l-Identità.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Skadenza ta’ ~erti Karti ta’ l-Identità",
+      "content": "G]all-finijiet tal-proviso mar-regolament 3(1) tarRegolamenti dwar il-}ru[ u Validit à ta’ Karti ta’ l-Identità, l-1 ta'\nApril, 2004, [iet stabbilita b]ala d-data li fiha 1-karti ta’ l-identità\nkollha mag]mula mill-karta u mag]luqa fil-plastik ma]ru[a skond\nl-Att dwar il-Karta ta’ l-Identit à qabel l-1 ta’April, 2002 ma\ng]andhomx jibq]u jkunu validi.\n\nData ta’ skadenza.\nL.S. 258.01\n\nKap. 258.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-26-mlt",
+  "type": "statute",
+  "title": "Regoli dwar it-Tnaqqis ta Spejjeż dwar Proprjetà Immobbli",
+  "title_en": "Regoli dwar it-Tnaqqis ta Spejjeż dwar Proprjetà Immobbli",
+  "short_name": "eli/sl/123.26/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.26/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.26/mlt, expression eli/sl/123.26/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 100 tal-1993",
+      "content": "It-titolu ta’ dawn r-regoli hu Regoli dwar it-Tnaqqis ta’\nSpejjeż dwar Proprjetà Immobbli.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regoli, \"l-Att\" tfisser l-Att dwar it-Taxxa fuq lIncome.\n\nTifsir.\nKap. 123.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "It-tnaqqis li jingħata kull sena skont l-artikolu 14(1) talAtt, dwar income suġġett għat-taxxa skont l-artikolu 4(1)(f) tal-Att,\ngħandu, meta dak l-income li jinqala’ minn proprjetà immobbli,\nikun it-total ta’ -\n\nTnaqqis li jingħata.\n\n(a) l-ammont ta’ imgħax li jingħata skont l-artikolu\n14(1)(a) tal-Att;\n(b) kull kera, ċens jew piż simili li jkollu jitħallas;\n(ċ) meta japplika, id-dritt ta’ liċenza mħallas għall-finijiet\ntal-Att dwar Servizzi tal-Ivvjaġġar u tat-Turiżmu għal\nMalta; u\n(d) ammont ieħor li jkun daqs għoxrin fil-mija tal-income\nnett li jibqa’ wara li jitnaqqsu mit-total ta’ dak lincome l-ispejjeż imsemmija fil-paragrafi (b) u (ċ),\nhekk iżda li ebda tnaqqis bħal dan ma jingħata dwar\nincome li jinqala’ minn xi għoti enfitewtiku.\n\nKap. 409.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

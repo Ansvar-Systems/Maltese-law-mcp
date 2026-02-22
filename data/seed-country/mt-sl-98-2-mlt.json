@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-98-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Oġġetti dikjarati li huma Ħwejjeġ Essenzjali",
+  "title_en": "Ordni dwar Oġġetti dikjarati li huma Ħwejjeġ Essenzjali",
+  "short_name": "eli/sl/98.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/98.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/98.2/mlt, expression eli/sl/98.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 51 ta’ l-1939",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni dwar O[[etti dikjarati li\nhuma }wejje[ Essenzjali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "huma }wejje[ Essenzjali",
+      "content": "L-o[[etti mni\\\\lin fl-Iskeda huma ]wejje[ essenzjali\ng]all-finijiet ta’ l-Ordinanza dwar il-G]oli ta’ Prezzijiet bla\nRa[uni.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Sulfarini",
+      "content": "Pitrolju\nSapun\n\n(Artikolu 2)\n\nTitolu.\n}wejje[ essenzjali\nKap. 98.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

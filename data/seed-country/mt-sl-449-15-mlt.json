@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-449-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tikkettjar ta’ Fażola Niexfa",
+  "title_en": "Regolamenti dwar it-Tikkettjar ta’ Fażola Niexfa",
+  "short_name": "eli/sl/449.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.15/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.15/mlt, expression eli/sl/449.15/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 82 ta’ l-1993",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar itTikkettjar ta’ Fa\\ola Niexfa.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra -\n\nTifsir.\n\n\"fa\\ola niexfa\" tinkludi kull tip ta’ fa\\ola niexfa tal-ispe`i\nPhasoleus, sew jekk ikollha lewn sew jekk le, li jkunu mag]rufin\nb]ala li g]andhom sustanzi msejj]a lectins li jinsabu b’mod\nnaturali fil-fa\\ola.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Ebda fa\\ola niexfa f’pakketti lesti ma g]andha tinbieg]\ng]all-konsum mill-bniedem kemm-il darba il-kontenitur jew ilpakkett relattiv ma jkunx fih tikketta li tkun tg]id dan li [ej:\n\nTikkettjar.\n\n\"TAG}RIF IMPORTANTI:\nSabiex il-fa\\ola tittiekel bla ma jsirlek deni huwa importanti li\ntimxi fuq dan it-tag]rif li [ej:\nQABEL ma ssajjar jew tiekol il-fa\\ola\n(1) Xarrab sew il-fa\\ola g]all mill-inqas ]ames sig]at;\n(2) Armi l-ilma;\n(3) G]alli l-fa\\ola f’ilma [did li jkun ilu jbaqbaq g]al\nmill-inqas 10 minuti;\nMBAG}AD kompli skond ir-ri`etta li g]andek.\".\n(2) Il-kliem fuq it-tikketta jista’ jkum sew bl-ilsien Malti jew\nbl-ilsien Ingli\\.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tikkettjar",
+      "content": "F’kull post minn fejn tinbieg] jew tin\\amm g]all-bejg]\nfa\\ola niexfa sfu\\a li ma tkunx f ’pakketti lesti, g]andu jintwera\navvi\\ fil-vi`in li jkun fih it-tag]rif imsemmi fir-regolament 3. Dan\nl-avvi\\ g]andu jkun sew bl-ilsien Malti u bl-ilsien Ingli\\, u g]andu\njintwera b’mod prominenti hekk li xerrej ikun jista’ jarah fa`ilment\nfilwaqt li jkun jixtri dik il-fa\\ola niexfa.\n\nJintwera avvi\\.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

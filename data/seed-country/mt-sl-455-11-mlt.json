@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-455-11-mlt",
+  "type": "statute",
+  "title": "SportMalta (Trasferiment ta’ Proprjetà Assenjata) (2015)",
+  "title_en": "SportMalta (Trasferiment ta’ Proprjetà Assenjata) (2015)",
+  "short_name": "eli/sl/455.11/mlt",
+  "status": "in_force",
+  "issued_date": "2015-03-09",
+  "in_force_date": "2015-03-09",
+  "url": "https://legislation.mt/eli/sl/455.11/20150309/mlt",
+  "description": "Official text from legislation.mt (eli/sl/455.11/mlt, expression eli/sl/455.11/20150309/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 62 tal-2015, kif emendat bl-Att VI tal-2016",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar SportMalta\n(Trasferiment ta’ Proprjetà Assenjata) (2015).\n\nTitolu.\nEmendat:\nVI. 2016.7.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-proprjetajiet deskritti fl-Iskeda huma b’dan assenjati\ngħall-finijiet tat-tgawdija, pussess, użu u amministrazzjoni taddrittijiet u obbligazzjonijiet li jappartjenu għal dawk il-proprjetajiet\nassenjati skont l-artikolu 16 tal-Att dwar l-Isports.\n\nProprjetà assenjata.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-proprjetajiet assenjati msemmija fl-artikolu 2 għandhom jiġu\ntrasferiti u jkunu vestiti fi SportMalta kif provdut fl-imsemmi artikolu\nb’seħħ mid-dati msemmija fl-Iskeda.\n\nJum stabbilit.\nEmendat:\nVI. 2016.7.\n\nKap. 455.\n\n(TRASFERIMENT TA’ PROPRJETÀ ASSENJATA)\n\nA.L. 62 tal-2015.\n\nMill-1 ta’ Jannar, 2013:\nBiċċa art (Water polo pitch u club house) ġewwa l-Belt Valletta ta’ madwar 3,240 metru\nkwadru, li tmiss mill-Punent, min-Nofsinhar u mil-Lvant ma proprjetà tal-Gvern, kif\nmurija delineata bl-aħmar fuq il-pjanta P.D. 56_99_B u soġġetta għad-dritt ta' aċċess\ngħal partijiet terzi fuq xtajta u dwal fuq is-swar.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-512-3-mlt",
+  "type": "statute",
+  "title": "Ordni għal Eżenzjoni mill-Applikazzjoni tal-proviso tal-artikolu 3(2)(b) tal-Att dwar l-Intrapriżi ż-Żgħar",
+  "title_en": "Ordni għal Eżenzjoni mill-Applikazzjoni tal-proviso tal-artikolu 3(2)(b) tal-Att dwar l-Intrapriżi ż-Żgħar",
+  "short_name": "eli/sl/512.3/mlt",
+  "status": "in_force",
+  "issued_date": "2020-01-29",
+  "in_force_date": "2020-01-29",
+  "url": "https://legislation.mt/eli/sl/512.3/20200129/mlt",
+  "description": "Official text from legislation.mt (eli/sl/512.3/mlt, expression eli/sl/512.3/20200129/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 5 tal-2020",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni għal Eżenzjoni millApplikazzjoni tal-proviso tal-artikolu 3(2)(b) tal-Att dwar l-Intrapriżi\nż-Żgħar.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-Regolamenti dwar ir-Reġistrazzjoni ta’ Moduli talIdentità tal-Abbonati (SIMs) li jintużaw għal Servizzi ta’\nKomunikazzjonijiet Elettroniċi Disponibbli għall-Pubbliku, hawn\naktar 'il quddiem imsejħa \"ir-regolamenti\", qed jiġu, permezz ta’ dan lordni, eżentati mill-applikazzjoni tal-proviso tal-artikolu 3(2)(b) talAtt dwar l-Intrapriżi ż-Żgħar u dan għar-raġunijiet li ġejjin:\n\nEżenzjoni.\nL.S. 399.45.\n\n(i)\nir-regolamenti jipprovdu għal perijodu minimu\ntranżitorju ta’ sitt (6) xhur li matulu tista’ ssir ir-reġistrazzjoni\nvolontarja, qabel ma r-reġistrazzjoni tas-SIMs ssir mandatorja u\ninfurzabbli u għaldaqstant hemm biżżejjed żmien sabiex innegozji affettwati jadattaw ruħhom għar-rekwiżiti previsti firregolamenti;\n(ii)\nil-miżuri previsti fir-regolamenti huma meħtieġa\nb'mod urġenti, sabiex jassistu lill-awtoritajiet tal-infurzar talliġi fit-twettiq ta’ dmirijiethom.\n\nKap. 512.\n\nKap. 512.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

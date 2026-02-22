@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-20-mlt",
+  "type": "statute",
+  "title": "Avviż dwar il-Kalkolu lejn l-Eqreb Lira Maltija fit-Taxxa fuq l-Income",
+  "title_en": "Avviż dwar il-Kalkolu lejn l-Eqreb Lira Maltija fit-Taxxa fuq l-Income",
+  "short_name": "eli/sl/123.20/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.20/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.20/mlt, expression eli/sl/123.20/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 110 ta’ l-1988, kif emendat bl-Avvi\\ Legali 409 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Avvi\\ hu Avvi\\ dwar il-Kalkolu lejn lEqreb Lira Maltija fit-Taxxa fuq l-Income.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 110 ta’ l-1988, kif emendat bl-Avvi\\ Legali 409 ta’ l2007",
+      "content": "Il-Kummissarju tat-Taxxi Interni g]andu (i)\n\nmeta jkun qieg]ed jistabbilixxi l-income taxxabbli ta’\nxi persuna wara l-1 ta’ Jannar, 1989, ma jag]tix kont\nta’ xi frazzjoni ta’ l-euro dwar kull g]ajn ta’ income, u\njqis b]ala euro s]i] kull frazzjoni ta’ euro ta’ kull\nammont li jirrappre\\enta xi tnaqqis mill-income jew\ntnaqqis personali; u\n\n(ii) meta jkun qieg]ed jistabbilixxi l-ammont ta’ taxxa\ndovuta minn xi persuna u meta jkun qieg]ed jag]ti xi\ntnaqqis wara l-1 ta’ Jannar, 1989, ma jag]tix kont ta’\nxi frazzjoni ta’ l-Euro li tkun daqs jew inqas minn\n]amsin `ente\\mu, u jikkalkola lejn l-eqreb Euro kull\nfrazzjoni ta’ Euro li te``edi l-]amsin `ente\\mu.\n\nTitolu.\nKalkolu lejn leqreb lira.\nEmendat:\nA.L. 409 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

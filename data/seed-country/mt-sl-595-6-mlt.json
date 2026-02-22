@@ -1,0 +1,405 @@
+{
+  "id": "mt-sl-595-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bord tal-Appelli dwar l-Akkwist ta' Enerġija u Karburanti",
+  "title_en": "Regolamenti dwar Bord tal-Appelli dwar l-Akkwist ta' Enerġija u Karburanti",
+  "short_name": "eli/sl/595.6/mlt",
+  "status": "repealed",
+  "issued_date": "2013-06-10",
+  "in_force_date": "2013-06-10",
+  "url": "https://legislation.mt/eli/sl/595.6/20130610/mlt",
+  "description": "Official text from legislation.mt (eli/sl/595.6/mlt, expression eli/sl/595.6/20130610/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Disposizzjonijiet Ġenerali",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar Bord\ntal-Appelli dwar l-Akkwist ta' Enerġija u Karburanti.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet ta’ dawn ir-regolamenti, sakemm ir-rabta talkliem ma teħtieġx xort’oħra-\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Amministrazzjoni Pubblika;\n\"aġenzija tal-Gvern\" jew \"aġenzija\" tfisser korp kif imsemmi firRaba’ Skeda li tinsab mal-Att;\n\"Bord\" tfisser bord imwaqqaf skont ir-regolament 4;\n\"dipartiment tal-gvern\" jew \"dipartiment\" tfisser kull entità fisServizz Pubbliku elenkata fit-Tieni Skeda li tinsab mal-Att;\n\"entità ta’ akkwist\" tfisser il-Gvern, kull dipartiment tal-Gvern,\naġenzija tal-Gvern jew entità tal-Gvern;\n\"entità tal-Gvern\" tfisser organizzazzjoni, li ma tkunx\ndipartiment tal-Gvern, aġenzija tal-Gvern jew soċjetà kummerċjali,\nl i f i h a l - G v e r n i k o l l u k o n t r o l l e f f e t t i v, s e w j e k k d i k l organizzazzjoni tkun jew ma tkunx imwaqqfa b’liġi;\n\"ġranet tax-xogħol\" tfisser il-ġranet kollha minbarra is-Sibt, ilĦadd jew xi btala pubblika jew btajjel nazzjonali f’Malta;\n\"kandidat\" tfisser persuna fiżika jew ġuridika jew entità jew\ngrupp ta’ dawk il-persuni u, jew korpi li jipparteċipaw fi proċedura\nta’ akkwist;\n\"kandidat rakkomandat\" tfisser il-kandidat li kien ġie indikat fiddeċiżjoni ta’ aġġudikazzjoni tal-entità tal-akkwist bħala dak li lilu\nkellu jingħata l-kuntratt;\n\"Kostituzzjoni\" tfisser il-Kostituzzjoni ta’ Malta;\n\"kuntratt\" tfisser kull kuntratt b’interess ta’ flus li jsir bil-miktub\nbejn kandidat wieħed jew iżjed u entità tal-akkwist waħda jew iżjed\nli jkollha bħala l-għan ewlieni tagħha \u0003l-provvista tal-enerġija jew\nkarburanti għall-produzzjoni tal-enerġija;\n\"persuna li tagħmel ilment\" tfisser kull kandidat li jippreżenta\nilment lill-Bord skont ir-regolament 30;\n\"proċeduri ta’ akkwist\" tfisser proċess mibdi minn entità ta’\nakkwist għall-għotja ta’ kuntratt;\n\nKap. 595.\n\n[ L.S.595.06\n\nTA’ ENERĠIJA U KARBURANTI\n\n\"Segretarju\" tfisser is-Segretarju tal-Bord;\n\"Servizz Pubbliku\" għandu jkollha l-istess tifsira kif mogħti lilha\nbil-Kostituzzjoni, iżda, għall-finijiet ta’ dawn ir-regolamenti\ngħandha tinftiehem skont l-artikolu 2(2) tal-Att.\nSkop.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 68
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Skop",
+      "content": "Dawn ir-regolamenti jipprovdu sabiex jiġu determinati\nilmenti minn kandidati kontra kull deċiżjoni ta’ entità ta’ akkwist\nsabiex tiskwalifika u, jew teskludi l-kandidat minn xi proċedura ta’\nakkwist jew kontra xi għotja ta’ kuntratt proposta.\n\nTwaqqif tal-Bord\ntal-Appelli dwar lAkkwist ta'\nEnerġija u\nKarburanti.",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 79
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Karburanti",
+      "content": "Għandu jitwaqqaf bord ta’ reviżjoni li għandu jkun\nmagħruf bħala l-Bord tal-Appelli dwar l-Akkwist ta' Enerġija u\nKarburanti li għandu jkun regolat skont dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 80,
+        "source_line_end": 86
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Funzjonijiet talBord",
+      "content": "Għandu jkun il-funzjoni tal-Bord:\n(a) li jisma’ u jiddeċiedi ilmenti li jkollhom x’jaqsmu ma’\nproċeduri ta’ akkwist, li fir-rigward ta’ dan, l-entità ta’\nakkwist tkun indikat b’mod speċifiku li kandidati li\nsaritilhom ħsara jew li jissugraw li ssirilhom ħsara\nminn xi deċiżjoni tal-entità ta’ ajjwist, jista’ jkollhom\nrikors lill-Bord; u\n(b) sabiex jiskwalifika u, jew jeskludi l-kandidat minn xi\nproċedura ta’ akkwist jew kontra xi għotja ta’ kuntratt\nproposta.\n\nProċeduri ta’\nakkwist għarreviżjoni tal-Bord.",
+      "metadata": {
+        "source_line_start": 87,
+        "source_line_end": 102
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Funzjonijiet talBord",
+      "content": "Jekk entità ta’ akkwist tkun tixtieq tissoġġetta proċedura\nta’ akkwist għar-reviżjoni tal-Bord, id-dokument jew dokumenti li\njirregolaw il-proċedura ta’ akkwist għandhom speċifikament\njirreferu għal dawn ir-regolamenti u jistgħu jinkludu kopja tatTaqsima III, għall-gwida tal-kandidati. Dawn ir-regolamenti\ngħandhom japplikaw għal proċeduri ta’ akkwist li jkunu bdew\nqabel il-promulgazzjoni ta’ dawn ir-regolamenti jekk l-entità ta’\nakkwist tinnotifika lill-kandidati li hija tissottometti ruħha għallġurisdizzjoni tal-Bord fir-rigward tal-proċedura ta’ akkwist\nrilevanti.\nKomposizzjoni u Setgħat tal-Bord",
+      "metadata": {
+        "source_line_start": 103,
+        "source_line_end": 116
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Komposizzjoni talBord",
+      "content": "Il-Bord għandu jkun kompost minn Chairperson u żewġ\nmembri oħra li għandhom ikunu maħtura mill-Prim Ministru għal\nperjodu ta’ tliet snin bill-possibbiltà li jinħatru mill-ġdid.\n\nĦatra ta’\nChairperson talBord.",
+      "metadata": {
+        "source_line_start": 117,
+        "source_line_end": 124
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Chairperson talBord",
+      "content": "Persuna ma tkunx kwalifikata biex tkun maħtura bħala\nChairperson tal-Bord sakemm ma tkunx eżerċitat bħala avukat\nf’Malta għal perjodu ta’, jew perjodi sħaħ li jammontaw għal mhux\ninqas minn seba’ snin.\n\nĦatra ta’ membri\ntal-Bord.",
+      "metadata": {
+        "source_line_start": 125,
+        "source_line_end": 133
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Chairperson talBord",
+      "content": "Persuna ma tkunx kwalifikata li tinħatar jew tkompli\nżżomm il-kariga ta’ membru tal-Bord, jekk tkun:\n(a) Ministru, Segretarju Parlamentari, Membru tal-Kamra\ntad-Deputati, uffiċjal pubbliku jew impjegat ta’ xi\nentità jew xi aġenzija tal-gvern; jew\n(b) instabet ħatja ta’ xi reat punibbli bi priġunerija għal\nkull żmien li jkun; jew\n\nTA’ ENERĠIJA U KARBURANTI\n\n[ L.S.595.06\n\n(ċ) skwalifikata milli tiġi eletta bħala membru tal-Kamra\ntad-Deputati għal xi waħda mir-raġunijiet imsemmija\nfl-artikolu 54(1)(a), (ċ), (d), (e), (f), (g) jew (h) talKostituzzjoni.",
+      "metadata": {
+        "source_line_start": 134,
+        "source_line_end": 153
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "fl-artikolu 54(1)(a), (ċ), (d), (e), (f), (g) jew (h) talKostituzzjoni",
+      "content": "Persuna għandha tkun skwalifikata milli tkun maħtura jew\ntkompli tkun membru tal-Bord jekk ikollha xi interess finanzjarju\njew xi interess ieħor li x’aktarx jippreġudika l-qadi xieraq talfunzjonijiet tagħha bħala membru tal-Bord.\n\nSkwalifika ta’\nmembri tal-Bord.",
+      "metadata": {
+        "source_line_start": 154,
+        "source_line_end": 160
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "membri tal-Bord",
+      "content": "Iċ-Chairperson jew membri oħra tal-Bord jistgħu\njitneħħew individwalment mill-kariga mill-Prim Ministru\nminħabba f’inkapaċità ppruvata li jaqdu d-dmirijiet ta’ dik il-kariga\n(sew minħabba mard mentali jew korporali jew għal xi raġuni oħra)\njew minħabba f’imġieba ħażina ppruvata.\n\nTneħħija millkariga.",
+      "metadata": {
+        "source_line_start": 161,
+        "source_line_end": 168
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Tneħħija millkariga",
+      "content": "Iċ-Chairperson jew membru ieħor tal-Bord ikun\nskwalifikat mis-smiegħ tal-ilment f ’dawk iċ-ċirkostanzi li kieku\njiskwalifikaw maġistrat jew imħallef f’kawża ċivili.\n\nSkwalifika millparteċipazzjoni fi\nsmigħ ta’ ilment.",
+      "metadata": {
+        "source_line_start": 169,
+        "source_line_end": 175
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "smigħ ta’ ilment",
+      "content": "Membru tal-Bord li jista’ jkollu xi interess dirett jew\nindirett f’xi kuntratt li jkun fil-qofol ta’ xi ilment għandu jgħarraf\nbil-miktub liċ-Chairperson b’dak l-interess li jkollu u f’dak il-każ\nil-membru jiġi prekluż milli jkompli jipparteċipa fis-smigħ talilment.\n\nInteress dirett jew\nindirett f’kuntratt.",
+      "metadata": {
+        "source_line_start": 176,
+        "source_line_end": 183
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "indirett f’kuntratt",
+      "content": "Il-Prim Ministru jista’ jaħtar persuna sostitut, jew dak lgħadd ta’ persuni sostituti, bħala Chairperson u bħala membri talBord, u f’dak il-każ il-membri jibqgħu f’dik il-kariga matul dak iżżmien li jiġi hekk stabbilit minn qabel, skond dak it-tqassim ta’\ndmirijiet, inklużi disposizzjonijiet dwar l-inkapaċità ta’ membri li\njservu u ċirkostanzi oħra, hekk kif jistgħu jiġu stabbiliti mill-Prim\nMinistru.",
+      "metadata": {
+        "source_line_start": 184,
+        "source_line_end": 190
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Sostituti",
+      "content": "Il-Bord għandu jkun assistit minn Segretarju.",
+      "metadata": {
+        "source_line_start": 191,
+        "source_line_end": 194
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Sostituti",
+      "content": "Il-membri\ntal-Bord\ngħandhom\njirċievu\nrimunerazzjoni li l-Prim Ministru jista’ jiddetermina.\n\nSegretarju.\n\ndik\n\nir-",
+      "metadata": {
+        "source_line_start": 195,
+        "source_line_end": 208
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Rimunerazzjoni",
+      "content": "Il-membri tal-Bord m’għandhomx jinżammu personalment\nresponsabbli għal xi att jew ommissjoni li jsiru b’bona fede waqt li\njkunu qegħdin jaqdu dmirijiethom bħala membri tal-Bord.\n\nResponsabbiltà.",
+      "metadata": {
+        "source_line_start": 209,
+        "source_line_end": 214
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Rimunerazzjoni",
+      "content": "Il-Bord jkollu s-setgħa li jħarrek xhieda, jamministra\nġuramenti u li jikseb parir espert minn barra l-entità li tkun qed\ntagħmel l-akkwist biex jassistih fl-investigazzjonijiet tiegħu.\n\nSetgħat tal-Bord.",
+      "metadata": {
+        "source_line_start": 215,
+        "source_line_end": 220
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Rimunerazzjoni",
+      "content": "Is-sessjonijiet tal-Bord li matulhom jiġi ttrattat l-ilment\ngħandhom isiru bil-miftuħ. Kemm min ikun qed jagħmel l-ilment\nkemm il-kandidat rakkomandat, jekk ikun hemm, ikollhom jedd\njattendu u jkollhom magħhom persuna professjonali jew xort’oħra,\nli huma jqisu li tkun idonea biex tiddefendi l-interessi tagħhom.",
+      "metadata": {
+        "source_line_start": 221,
+        "source_line_end": 228
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Sessjonijiet talBord",
+      "content": "Iċ-Chairperson għandu jkollu s-setgħat jistabbilixxi lproċedura għas-smigħ tal-ilmenti kollha li jsiru lill-Bord u għandu\njiżgura li matul is-smigħ li jsir bil-miftuħ kull parti li jkollha\ninteress tingħata l-opportunità li tressaq il-każ tagħha.\n\nSetgħa taċChairperson biex\ntiġi stabbilità lproċedura għassmigħ.",
+      "metadata": {
+        "source_line_start": 229,
+        "source_line_end": 235
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Sessjonijiet talBord",
+      "content": "Ir-reviżjoni għandha ssir mill-Bord qabel ma jibda l-istadju\nli jmiss tal-proċess ta’ aġġudikazzjoni u, jew qabel l-għotja talkuntratt skont kif ikun il-każ.\n\nReviżjoni.\n\n[ L.S.595.06\n\nTA’ ENERĠIJA U KARBURANTI\n\nProċedura segwita\nmill-Bord.",
+      "metadata": {
+        "source_line_start": 236,
+        "source_line_end": 251
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "mill-Bord",
+      "content": "Il-proċedura li għandha tiġi segwita mill-Bord għandha\ntikkonsisti f ’reviżjoni tad-deċiżjoni tal-bord tal-aġġudikazzjoni\nsabiex jiġi determinat jekk id-deċiżjoni kinitx, fis-sustanza, skont\nil-liġi u d-dokumentazzjoni li jirregolaw il-proċedura ta’ akkwist\nrilevanti. Il-Bord m’għandux jissostitwixxi id-diskrezzjoni tiegħu\ngħal dak tal-bord tal-aġġudikazzjoni.\n\nJedd għal\nmistoqsijiet xierqa.",
+      "metadata": {
+        "source_line_start": 252,
+        "source_line_end": 261
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "mistoqsijiet xierqa",
+      "content": "Fit-twettiq tal-obbligu msemmi fir-regolament 22, iċCha irp erson t al -Bord jista’ agħ mel m istoqsiji et xierqa l irrappreżentant ta’ xi entità ta’ akkwist kif ukoll lill-membri talbordijiet aġġudikanti rispettivi u li jirrikorri għad-dokumentazzjoni\nkollha rilevanti.\n\nAzzjoni meħuda\nmill-Bord.",
+      "metadata": {
+        "source_line_start": 262,
+        "source_line_end": 267
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "mill-Bord",
+      "content": "Meta jlesti mir-reviżjoni tal-ilment, il-Bord jista’ jagħmel\nwaħda jew iżjed minn dawn li ġejjin:\n(a) jannulla dak kollu li tkun għamlet l-entità ta’ akkwist\nfil-proċedura tal-akkwist, inkluż li jannulla lproċedura tal-akkwist fl-intier tagħha;\n(b) jagħti direzzjoni lill-entità ta’ akkwist fir-rigward ta’\ndak kollu li jrid isir jew isir mill-ġdid fil-proċedura talakkwist; u\n(ċ) jissostitwixxi d-deċiżjoni tal-Bord għal xi deċiżjoni\ntal-entità ta’ akkwist fil-proċedura tal-akkwist.\n\nMiżuri ‘ad\ninterim’.",
+      "metadata": {
+        "source_line_start": 268,
+        "source_line_end": 279
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "interim’",
+      "content": "Il-Bord jista’ jiddeċiedi li jikkonċedi miżuri ‘ad interim’\njekk, wara li jkun ikkunsidra il-konsegwenzi probabbli tal-miżuri\ndwar l-interessi kollha li x’aktarx issirilhom ħsara, flimkien malinteress pubbliku involut, jikkonkludi illi l-benefiċċji tal-mizuri\ngħandhom jeċċedu l-konsegwenzi negattivi tagħhom.\n\nDeċiżjonijiet talBord.",
+      "metadata": {
+        "source_line_start": 280,
+        "source_line_end": 286
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Deċiżjonijiet talBord",
+      "content": "Id-deċiżjoni tal-Bord għandha tkun finali sakemm tkun\ntikkonċerna l-għotja tal-kuntratt rilevanti u, jew l-iskwalifika minn\njew l-integrazzjoni mill-ġdid ta’ kandidat fil-proċedura tal-akkwist:\nIżda, minkejja d-drittijiet tal-kandidat skont it-Taqsima IV,\nl-entità ta’ akkwist għandu jkollha l-awtorità li tipproċedi bilproċedura tal-akkwist, inkluż l-għotja u l-eżekuzzjoni tal-kuntratt\nma’ kandidat, hekk kif tkun pubblikata u notifikata d-deċiżżjoni\ntal-Bord lil partijiet kollha interessati:\nIżda wkoll li, kandidati jkunu projbiti milli jitolbu xi qorti\nli toħroġ mandati kawtelatorji kontra l-entità ta’ akkwist sabiex\niwaqqfu lil-entità ta’ akkwist milli tipproċedi bil-proċedura ta’\nakkwist, inkluż l-għotja u l-eżekuzzjoni tal-kuntratt ma’ kandidat.\n\nUnanimità.",
+      "metadata": {
+        "source_line_start": 287,
+        "source_line_end": 300
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Unanimità",
+      "content": "Id-deċiżjonijiet tal-Bord għandhom preferibbilment ikunu\nunanimi:\nIżda d-deċiżjonijiet li jittieħdu b’maġġoranza għandhom\nikunu finali u konklużivi fir-rigward tal-għoti tal-kuntratt:\nIżda wkoll iċ-Chairperson u ż-żewġ membri l-oħra għandu\njkollhom vot kull wieħed.\n\nForma ta’\ndeċiżjonijiet\nmeħuda.",
+      "metadata": {
+        "source_line_start": 301,
+        "source_line_end": 311
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "meħuda",
+      "content": "Id-deċiżjonijiet kollha li jittieħdu mill-Bord għandhom\njitniżżlu bil-miktub, iffirmati mill-membri kollha tal-Bord u datati.\nIl-Bord għandu jindika r-raġunijiet li jkunu wasslu għal dik id-\n\nTA’ ENERĠIJA U KARBURANTI\n\n[ L.S.595.06\n\ndeċiżjoni u d-deċiżjoni għandha tkun konkluża\nb’rakkomandazzjonijiet definittivi li jkunu jorbtu lill-entità ta’\nakkwist u lill-kandidati kollha involuti.",
+      "metadata": {
+        "source_line_start": 312,
+        "source_line_end": 326
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "akkwist u lill-kandidati kollha involuti",
+      "content": "Fid-deċiżjoni tiegħu, il-Bord jirrakkomanda jekk depożitu\nli jkun sar mill-kandidat skont id-disposizzjonijiet tar-regolament\n31, għandux jingħata lura, kollu kemm hu jew parti minnu, jew\nxort’ oħra, filwaqt li jagħti raġunijiet bil-miktub għal dik irrakkomandazzjoni, u r-rakkomandazzjoni tal-Bord għandha tkun\nfinali u torbot.\n\nRifużjoni ta’\ndepożiti.\n\nProċedura għal preżentata u smigħ tal-ilmenti",
+      "metadata": {
+        "source_line_start": 327,
+        "source_line_end": 337
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Proċedura għal preżentata u smigħ tal-ilmenti",
+      "content": "Kull kandidat, li jħossu aggravat, jew bid-deċiżjoni talentità tal-akkwist biex tiskwalifika u, jew li teskludi lill-kandidat\nmill-proċedura ta’akkwist rilevanti jew kontra xi għotja proposta\nta’ kuntratt jista’, fi żmien sitt ijiem ta’ xogħol mill-pubblikazzjoni\ntad-deċiżjoni, jippreżenta ilment fil-bini tal-entità ta’ akkwist, li\ngħandha mill-ewwel twassal l-ilment lis-Segretarju tal-Bord.\n\nIlment wara\ndeċiżjoni.\n\nGħall-finijiet ta’ dan ir-regolament, \"pubblikazzjoni taddeċiżjoni\" tfisser il-pubblikazzjoni tad-deċiżjoni fuq in-notice\nboard tal-entità ta’ akkwist jew, fil-każ ta’ deċiżjoni li tkun\nittieħdet u pubblikata qabel il -promulgazzjoni ta’ dawn irregolamenti, il-pubblikazzjoni mill-ġdid tad-deċiżjoni li tinkorpora\navviż lil kandidati li dawn ir-regolamenti daħlu fis-seħħ u li l-entità\nta’ akkwist issottomettiet għall-ġurisdizzjoni tal-Bord fir-rigward\ntal-proċedura relevanti ta’ akkwist.",
+      "metadata": {
+        "source_line_start": 338,
+        "source_line_end": 352
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "tal-proċedura relevanti ta’ akkwist",
+      "content": "L-ilment imsemmi fir-regolament 30 għandu jkun validu\nbiss jekk:\n\nValidità tal-ilment.\n\n(a) ikollu miegħu depożitu fl-ammont speċifikat millentità tal-akkwist fil-proċedura tal-akkwist, jew fil-każ\nta’ proċeduri ta’ akkwist li jkunu bdew qabel ilpromulgazzjoni ta’ dawn ir-regolamenti, fin-notifika\nskont ir-regolament 6:\nIżda fl-ebda każ id-depożitu m’għandux jkun inqas\nminn elf u mitejn euro (€1,200) jew aktar minn tmienja\nu ħamsin elf euro (€58,000); u\n(b) ifisser b’mod dettaljat, ir-raġunijiet għall-ilment u\njkollu miegħu id-dokumentazzjoni meħtieġa kollha.",
+      "metadata": {
+        "source_line_start": 353,
+        "source_line_end": 365
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "jkollu miegħu id-dokumentazzjoni meħtieġa kollha",
+      "content": "L-entità ta’ akkwist għandha tkun prekluża milli tipproċedi\nbil-proċess tal-aġġudikazzjoni u, jew bl-għotja tal-kuntratt, matul\nil-perjodu tas-sitt (6) ijiem tax-xogħol permessi għal preżentata talilmenti, u, jekk ikun eventwalment ġie ppreżentat ilment, sakemm\nil-Bord ikun ħareġ id-deċiżjoni finali fir-rigward ta’ kull ilment.\n\nPreklużjoni ta’\nprosegwiment talproċess talaġġudikazzjoni.",
+      "metadata": {
+        "source_line_start": 366,
+        "source_line_end": 373
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "prosegwiment talproċess talaġġudikazzjoni",
+      "content": "Il-proċedura li għandha tiġi segwita meta jiġu preżentati u\ndeterminati ilmenti, għandha tkun kif ġej:\n\nProċedura.\n\n(a) kull deċiżjoni minn entità ta’ akkwist għandha ssir\npubblika fl-uffiċċju tal-entità ta’ akkwist. Jekk iddeċiżjoni tal-entità ta’akkwist tkun:\n(i)\n\nl-iskwalifika, rifjut jew esklużjoni ta’ kandidat,\n\nTA’ ENERĠIJA U KARBURANTI\n\n[ L.S.595.06\n\nl-entità ta’ akkwist għandha tavża lill-kandidat\ninvolut, tagħmel sommarju tar-raġunijiet\nrilevanti li jkollhom x’jaqsmu mar-rifjut talkandidat;\n(ii) l-għoti ta’ kuntratt, l-entità ta’ akkwist għandha\ntavża lil kandidati kollha li jkunu għadhom filproċedura tal-akkwist bl-għotja proposta u l-bażi\ntal-għotja.\n(b) kull kandidat li jħossu aggravat bid-deċiżjoni tal-entità\nta’ akkwist għandu jippreżenta ilment fi żmien sitt (6)\nijiem ta’ xogħol skont id-disposizzjonijiet tarregolament 31;\n(ċ) l-ilment ippreżentat skont ir-regolamenti 30 u 31\nflimkien mad-dokumentazzjoni kollha għandu jiġi\nnotifikat lill-kandidat rakkomandat, jekk ikun hemm;\n(d) il-kandidat rakkomandat, fil-każ li jkun ġie propost lgħotja ta’ kuntratt, għandu jkollu d-dritt li jippreżenta\nrisposta għall-ilment ippreżentat mill-persuna li tkun\ngħamlet l-ilment fi żmien ħamest (5) ijiem ta’ xogħol\nminn meta jkun ġie notifikat bil-kopja tal-ilment. Irrisposta għandha tiġi notifikata lil persuna li tkun\nressqet l-ilment;\n(e) iċ-Chairperson għandu jiffissa d-data tas-smigħ\npubbliku għad-data kemm jista’ jkun kmieni wara ttmiem tal-perjodu mogħti lil kandidati għal\npreżentazzjoni tal-ilmenti kif hemm fir-regolament 30\njew, fil-każ ta’ ilmenti minn għoti propost, wara ttmiem tal-perjodu mogħti lil kandidat rakkomandat kif\nhemm fil-paragrafu (d), skont kif ikun il-każ, u f’kull\nkaż mhux iżjed tard minn tliet ijiem tax-xogħol, u ssessjonijiet kollha tas-smigħ bil-miftuħ għandhom\nikunu konklużi bl-urġenza sa mid-data tal-ewwel\nsessjoni;\n(f)\n\nid-deċiżjoni tal-Bord għandha tingħata bil-miftuħ fi\nżmien tliet ijiem ta’ xogħol wara li ssir s-sessjoni\nfinali tas-smigħ bil-miftuħ u għandha tkun pubblikata\nfil-bini tal-entità ta’ akkwist:\nIżda jekk il-Bord ma jkunx jista’, għal raġunijiet\nvalidi, jagħti d-deċiżjoni tiegħu fil-perjodu stipulat, ilperjodu jiġi estiż għal perjodu ieħor ta’ tliet ijiem ta’\nxogħol;\n\n(g) l-entità ta’ akkwist għandha tagħti kopja tad-deċiżjoni\ntal-Bord lill-persuna li tkun ressqet l-ilment u lillkandidat rakkomandat, jekk ikun hemm.\nKażijiet meta\nkuntratt ikun\ndikjarat null.",
+      "metadata": {
+        "source_line_start": 374,
+        "source_line_end": 433
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "dikjarat null",
+      "content": "Fir-reviżjoni tiegħu, u sakemm ma jkunx speċifikat mod\nieħor f ’dawn ir-regolamenti, il-Bord għandu jikkunsidra, kuntratt\neżegwit mill-entità ta’ akkwist ma’ kandidat, bħala mhux effettiv, u\nb’hekk għandu jiddikjara l-kuntratt bħala null mid-data taddeċiżjoni mill-Bord jekk:\n(a) minkejja li jkun ġie preżentat ilment quddiem il-Bord,\n\nTA’ ENERĠIJA U KARBURANTI\n\n[ L.S.595.06\n\nl-entità ta’ akkwist tikkonkludi l-kuntratt qabel ma\ntingħata deċiżjoni finali mill-Bord;\n(b) il-kuntratt ikun konkluż mill-entità ta’ akkwist qabel\nit-tmiem tal-perjodu mogħti għall-preżentazzjoni talilmenti kif provdut fir-regolament 30.\nDritt għal Stħarriġ Ġudizzjarju",
+      "metadata": {
+        "source_line_start": 434,
+        "source_line_end": 453
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Dritt għal Stħarriġ Ġudizzjarju",
+      "content": "Kull kandidat li jħossu aggravat bid-deċiżjoni meħuda\nmill-Bord skont dawn ir-regolamenti jista’ jappella lill-Qorti talAppell (Ġurisdizzjoni Superjuri), kif kostitwita skont l-artikolu\n41(1) tal-Kodiċi tal-Organizzazzjoni u Proċedura Ċivili, fuq punt\nta’ liġi li joħroġ minn deċiżjoni finali tal-Bord f ’terminu ta’\ngħoxrin ġurnata kalendarja mid-data tad-deċiżjoni finali tal-Bord.\n\nDritt ta’ appell.",
+      "metadata": {
+        "source_line_start": 454,
+        "source_line_end": 461
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Dritt ta’ appell",
+      "content": "Il-Qorti tal-Appell għandha tikkunsidra l-appell biss jekk\nil-Qorti tkun sodisfatta li:\n\nValidità tal-appell.\n\nKap. 12\n\n(a) d-determinazzjoni tal-punt ta’ liġi ikun jaffettwa\nsostantzjalment id-drittijiet tal-kandidat;\n(b) l-punt ta’ liġi jkun wieħed li l-Bord kien mitlub li\njiddetermina jew li l-Bord ikun mod ieħor ibbaża ruħu\nfuqu fid-deċiżjoni tiegħu;\n(ċ) fuq il-bażi tas-sejbien dwar fatti fid-deċiżjoni talBord, id-deċiżjoni tal-Bord fuq il-punt ta’ liġi tkun\nprima facie miftuħa għal dubbji serji;\n(d) fuq bazi ta’ reviżjoni tal-ilment u ta’ kull risposta u\ndeċiżjoni tal-Bord, l-appell ma jkunx jidher dilatorju u\nvessatorju; u\n(e) u fil-każijiet l-oħra kollha l-Qorti għandha tiċħad lappell.",
+      "metadata": {
+        "source_line_start": 462,
+        "source_line_end": 479
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "(e) u fil-każijiet l-oħra kollha l-Qorti għandha tiċħad lappell",
+      "content": "Rikors lill-Qorti tal-Appell skont ir-regolament 35\nm’għandux jipprekludi jew idewwem lill-entità ta’ akkwist milli\ntimplimenta d-deċiżjoni finali tal-Bord.\n\nRikors lill-Qorti\ntal-Appell\nm’għandux\njipprekludi jew\nidewwem limplimentaz-zjoni\ntad-deċiżjoni finali\ntal-Bord.",
+      "metadata": {
+        "source_line_start": 480,
+        "source_line_end": 491
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "tal-Bord",
+      "content": "F’kull appell imressaq quddiem il-Qorti tal-Appell skont\nir-regolament 35, ir-rikorrent għandu jinkludi (apparti talba għal\ndikjarazzjoni illi d-deċizjoni finali tal-Bord kien fiha\ndeterminazzjoni żbaljata ta’ punt ta’ liġi) talba għal danni (iżda\nmhux għall-eżekuzzjoni speċifika ta’ xi obbligu). Id-danni ma\ngħandhomx jingħataw mill-Qorti ħlief jekk ir-rikorrent juri li kien\nhemm mala fede u irraġonevolezza manifesta. Id-danni għandhom\nikunu limitati għal dawk id-danni li jkunu diretti u prevedibbli u ma\ngħandhomx jinkludu telf ta’ qliegħ, ta’ opportunità, jew telf ieħor\nindirett, eventwali jew konsegwenzjali. Meta l-Qorti tal-Appell\nissib illi huma dovuti d-danni, hija tkun tista’, jew tiddetermina lammont tad-danni hi stess jew tirreferi l-każ lill-Prim’Awla talQorti Ċivili sabiex jiġi stabbilit l-ammont.\n\nTalba għal danni.\n\n[ L.S.595.06\n\nEsklużjoni talartikolu 469A talKodiċi talOrganiżazzjoni u\nProċedura Ċivili.\nKap.12.\n\nTA’ ENERĠIJA U KARBURANTI",
+      "metadata": {
+        "source_line_start": 492,
+        "source_line_end": 517
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "TA’ ENERĠIJA U KARBURANTI",
+      "content": "L-artikolu 469A tal-Kodiċi tal-Organizzazzjoni u\nProċedura Ċivili m’għandux japplika fir-rigward ta’ kull deċiżjoni\ntal-Bord.",
+      "metadata": {
+        "source_line_start": 518,
+        "source_line_end": 523
+      }
+    }
+  ],
+  "definitions": []
+}

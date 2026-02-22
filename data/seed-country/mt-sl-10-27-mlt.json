@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-10-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Iżbark ta' l-Annimali",
+  "title_en": "Regolamenti dwar l-Iżbark ta' l-Annimali",
+  "short_name": "eli/sl/10.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.27/mlt, expression eli/sl/10.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 8 ta’ l-1963",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lI\\bark ta’ Annimali.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lI\\bark ta’ Annimali",
+      "content": "F’dawn ir-Regolamenti, kemm-il-darba r-rabta tal-kliem\nma tfisserx xort’o]ra -\n\nTitolu.\nTifsir.\n\n\"annimal\" tfisser \\iemel, ]mar, bag]al, gendus jew baqra;\n\"baqra\" tinkludi g]o[la tqila;\n\n\"ti\\barka\" tfisser ti\\barka minn bastiment li fuqu jin[arru\nannimali bil-ba]ar g]al port jew post ie]or f’dawn il-G\\ejjer.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull min ji\\barka jew i[ieg]el li ji[u \\barkati annimali\nming]ajr ma ji[u osservati almenu dawn ir-Regolamenti dwar li\\bark, ikun ]ati ta’ reat.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1) |wiemel, ]mir, bg]ula u gniedes g]andhom ji[u\n\\barkati permezz ta’ `ineg protetti b’dak il-materjal li, fil-fehma\ntal-Veterinarju Prin`ipali tal-Gvern, jevita irritazzjoni.\n\nReati.\n\n|bark ta’ \\wiemel,\n]mir, bg]ula u\ngniedes.\n\n(2) |wiemel, ]mir u bg]ula g]andhom ji[u \\barkati wie]ed\nwie]ed.\n(3)\n\nGniedes jistg]u ji[u \\barkati tnejn tnejn.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Reati",
+      "content": "Kull baqra g]andha ti[i \\barkata f’kaxxa li tista’ tin[arr.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Reati",
+      "content": "Jekk xi annimal ikollu xi sieq miksura jew ikun xort’o]ra\nmwe[[a’ serjament jew ikun fi stat salva[[ li ma jkunx jista’ ji[i\n\\barkat skond id-disposizzjonijiet ta’ dawn ir-Regolamenti, ilpersuna inkarigata mill-i\\bark g]andha minnufih tg]arraf lil\nveterinarju tal-gvern, u l-annimal g]andu wara dan ji[i \\barkat jew\nmaqtul skond dawk id-direttivi li jistg]u jing]ataw minn dak ilveterinarju tal-gvern.\n\n|bark ta’ baqar.\nAnnimali mwe[[a’\njew selva[[i.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

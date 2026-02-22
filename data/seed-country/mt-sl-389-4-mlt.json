@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-389-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Servizzi ta' Uffiċjali tal-Komunità",
+  "title_en": "Regolamenti dwar Servizzi ta' Uffiċjali tal-Komunità",
+  "short_name": "eli/sl/389.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/389.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/389.4/mlt, expression eli/sl/389.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 256 ta’ l-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nServizzi ta’ Uffiċjali tal-Komunità.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar Gwardjani Privati u Uffiċjali talKomunità;\n\nKap. 389.\n\n\"servizzi ta’ uffiċjali tal-komunità\" g]andhu jkollha l-istess\ntifsira kif mog]ti lilha fl-artikolu 2 ta’ l-Att;\n\"triq\" g]andha l-istess tifsira kif mog]ti lilha bil-Kodi`i talLi[ijiet tal-Pulizija.\n\nKap. 10.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull meta uffiċjal tal-komunità, f’xi attività jew okka\\joni\npartikolari f’xi triq, f ’xi lokalità li g]aliha jkun in]are[ permess,\nli`enza jew awtorizzazzjoni mill-Kunsill Lokali jew minn xi\nawtorità o]ra kompetenti, jew min]abba f’`irkostanzi ta’ ur[enza,\niqis li l-a``ess u l-moviment ta’ vetturi g]andu jkun ikkontrollat,\nhuwa jista’ jidderigi u jag]ti kull ordni xierqa lis-sewwieqa ta’\ndawk il-vetturi.\n\nuffiċjal talkomunità jkollu ssetg]a jag]ti\nordnijiet lissewwieqa.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

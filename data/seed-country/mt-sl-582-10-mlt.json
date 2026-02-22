@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-582-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Għoti ta’ Liċenzja ta’ Emerġenza f’Ċirkostanzi Eċċezzjonali",
+  "title_en": "Regolamenti dwar l-Għoti ta’ Liċenzja ta’ Emerġenza f’Ċirkostanzi Eċċezzjonali",
+  "short_name": "eli/sl/582.10/mlt",
+  "status": "in_force",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-17",
+  "url": "https://legislation.mt/eli/sl/582.10/20210330/mlt",
+  "description": "Official text from legislation.mt (eli/sl/582.10/mlt, expression eli/sl/582.10/20210330/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 74 tal-2020, kif emendat bl-Avviż Legali 127 tal2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Għoti ta’ Liċenzja ta’ Emerġenza f’Ċirkostanzi Eċċezzjonali.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att tal-Awtorità ta’ Standards ta’ Ħarsien\nSoċjali;\n\nKap. 582.\n\n\"Awtorità\" tfisser l-Awtorità ta’ Standards ta’ Ħarsien Soċjali\nkif stabbilita permezz tal-artikolu 5 tal-Att;\n\"ċirkostanzi eċċezzjonali\" jfissru ċirkostanzi li jiġġustifikaw issospensjoni ta’ proċeduri li kieku kienu jiġu segwiti, b’hekk tiżgura lmitigazzjoni ta’ numru ta’ diffikultajiet;\n\"liċenzja ta’ emerġenza\" tfisser liċenzja maħruġa minnufih millAwtorità f’ċirkostanzi eċċezzjonali għal forniment ta’ servizz ta’\nħarsien soċjali, hekk kif definit fl-artikolu 2 tal-Att, inkluż għasservizz li jkun ipprovdut f’faċilità partikolari jew/u f’numru ta’ sodod;\n\"Uffiċjal Eżekuttiv Ewlieni\" għandu jkollha l-istess tifsira kif\nmogħtija lilha fl-Att.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1)\nL-Awtorità tista’, fi kwalunkwe ħin li tqis\nmeħtieġ, tagħti liċenzja ta’ emerġenza f’ċirkostanzi eċċezzjonali\nsabiex tipprovdi servizz ta’ ħarsien soċjali kif definit fl-artikolu 2 talAtt, inkluż għal servizz li jkun ipprovdut f’faċilità partikolari jew/u\nf’numru ta’ sodod.\n\nĦruġ ta’ liċenzja\nta’ emerġenza.\n\n(2)\nMeta tinħareġ liċenzja ta’ emerġenza, tali liċenzja tista’\ntkun fiha numru ta’ kondizzjonijiet stabbiliti mill-Awtorità.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "tkun fiha numru ta’ kondizzjonijiet stabbiliti mill-Awtorità",
+      "content": "(1)\nIl-liċenzja ta’ emerġenza għandha tinħareġ biss\ngħal perjodu massimu ta’ sitt (6) xhur iżda tista’ tiġi rtirata fi\nkwalunkwe ħin fil-każ li ċ-ċirkustanza eċċezzjonali ma tibqax teżisti\njew għal kwalunkwe raġuni oħra meqjusa neċessarja fid-diskrezzjoni\ntal-Uffiċjal Eżekuttiv Ewlieni tal-Awtorità.\n(2) Il-liċenzja ta’ emerġenza tista’ tiġġedded skont iddiskrezzjoni tal-Uffiċjal Eżekuttiv Ewlieni tal-Awtorità għal perjodu\njew perjodi oħra meqjusa neċessarji sakemm kwalunkwe perjodu ma\n\nIl-validità ta’\nliċenzja ta’\nemerġenza.\nEmendat:\nA.L. 127 tal-2021.\n\nGĦOTI TA’ LIĊENZJA TA’ EMERĠENZA\nF’ĊIRKOSTANZI EĊĊEZZJONALI\n[ L.S. 582.10\njkunx jeċċedi s-sitt (6) xhur.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 77
+      }
+    }
+  ],
+  "definitions": []
+}

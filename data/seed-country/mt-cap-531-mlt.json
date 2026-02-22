@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-531-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi (2014) Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi (2014) Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 531(R)",
+  "status": "repealed",
+  "issued_date": "2014-05-07",
+  "in_force_date": "2014-01-01",
+  "url": "https://legislation.mt/eli/cap/531/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/531/mlt, expression eli/cap/531/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "JIMPLIMENTA MIŻURI TAL-ESTIMI (2014)\n\n[ KAP. 531.\n\nKAPITOLU 531\nATT LI JIMPLIMENTA MIŻURI TAL-ESTIMI (2014)\nBiex jimplimenta Miżuri tal-Estimi Finanzjarji għall-2014 u miżuri\namministrattivi oħra.\n\n1 ta’ Jannar, 2014\nL-ATT XII tal-2014.\n\nImħassar bl-Att II tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

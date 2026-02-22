@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-14-mlt",
+  "type": "statute",
+  "title": "Ordnijiet dwar Ġbir fit-Toroq Imħassar bl-Avviż Legali 371 tal-2020",
+  "title_en": "Ordnijiet dwar Ġbir fit-Toroq Imħassar bl-Avviż Legali 371 tal-2020",
+  "short_name": "eli/sl/10.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.14/mlt, expression eli/sl/10.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.10.14\n\nĠBIR FIT-TOROQ\n\nLEĠISLAZZJONI SUSSIDJARJA 10.14\nORDNIJIET DWAR ĠBIR FIT-TOROQ\n5 ta’ Frar, 1937\nL-AVVIŻ TAL-PULIZIJA 13 ta’ l-1937, kif emendat bl-Att LVIII ta’ l1974.\n\nImħassar bl-Avviż Legali 371 tal-2020\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

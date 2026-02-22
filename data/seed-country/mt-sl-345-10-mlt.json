@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar is-Swieq Finanzjarji (Trasparenza)Imħassrin bl-Avviż Legali 393 tal-2017",
+  "title_en": "Regolamenti dwar l-Att dwar is-Swieq Finanzjarji (Trasparenza)Imħassrin bl-Avviż Legali 393 tal-2017",
+  "short_name": "eli/sl/345.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.10/mlt, expression eli/sl/345.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR IS-SWIEQ FINANZJARJI (TRASPARENZA)\n\n[L.S.345.10\n\nLEĠISLAZZJONI SUSSIDJARJA 345.10\nREGOLAMENTI DWAR L-ATT DWAR IS-SWIEQ\nFINANZJARJI (TRASPARENZA)\n1 ta’ Novembru, 2007\nL-AVVIŻ LEGALI 336 tal-2007.\n\nRevokati bl-Avviż Legali 393 tal-2017.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

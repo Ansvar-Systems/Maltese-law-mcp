@@ -1,0 +1,165 @@
+{
+  "id": "mt-sl-36-32-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Annimali li jinħalbu",
+  "title_en": "Regolamenti dwar Annimali li jinħalbu",
+  "short_name": "eli/sl/36.32/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.32/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.32/mlt, expression eli/sl/36.32/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 151 ta’ l-1989",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nAnnimali li jin]albu.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Annimali li jin]albu",
+      "content": "F’dawn ir-Regolamenti, sakemm ir-rabta ta’ kliem ma\ntkunx te]tie[ mod ie]or -\n\nTitolu.\nTifsir.\n\n\"Direttur\" tfisser id-Direttur ta’ l-Agrikoltura u Sajd u tinkludi\nkull uffi`jal tad-dipartiment li jkun debitament awtorizzat midDirettur li ja[ixxi f’ismu;\n\"t]axxen\" tfisser li \\\\omm minn \\mien-il ftim sa \\mien-il qatla;\n\n\"trabbi\" tfisser tnissel u trabbi sa \\mien-il qatla u tinkludi l-bejg]\nta’ annimali miftuma;\n\"i\\\\omm\" tinkludi trabbi, t]axxen u ta]leb;\n\n\"annimal\" tfisser annimal mara jew li tin]aleb tal-[ens bovin,\novin jew kaprin u tinkludi annimal ra[el ta’ l-istess [ens, kif ukoll\nnisel ra[el u mara tag]hom;\n\"veterinaru tal-gvern\" tfisser veterinarju fl-impieg tal-gvern;\n\n\"qasam\" tinkludi kull dairy, razzett, maqjel, depositu tal-]alib\nnej u kull imkien fejn jin\\ammu annimali li jin]albu.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) G]all-finijiet li jassigura il-prevenzjoni minn tixrid ta’\nmard fost l-annimali, id-Direttur g]andu j\\omm re[istru ta’ irziezet\nu ta’ kull min ikun ja]dem fihom.\n\nRe[istru ta’\nrziezet, e``.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "rziezet, e``",
+      "content": "Re[istrazzjoni li ssir skond ir-regolament ta’ qabel dan\ntkun valida sal-31 ta’ Di`embru tas-sena li fiha ssir, i\\da tista’\nti[[edded minn sena g]al sena skond dawk il-kundizzjonijiet li dDirettur jippreskrivi.\n\nValidità tarre[istrazzjoni.\n\n(2) Kull min i\\omm razzett, jew ja]dem jew ikun impjegat\nf’razzett, g]andu jirre[istra lilu nnifsu u r-razzett fejn ikun ja]dem,\njew li jkun i\\omm, g]and id-Direttur, u ]add ma g]andu j\\omm\nannimali, jew ja]dem, f’razzett sakemm hu u r-razzett li jkun\nja]dem fih ma jkunux hekk re[istrati.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 58
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "ja]dem fih ma jkunux hekk re[istrati",
+      "content": "Kull applikazzjoni g]ar-re[istrazzjoni ta’ razzett g]andha\nssir mid-detentur ta’ dak ir-razzett, u g]andu jkollha mag]ha pjanta\nli tkun turi s-sit u l-lokalità ta’ madwar sa distanza ta’ mitejn metru\nmill-perimetru tar-razzett.",
+      "metadata": {
+        "source_line_start": 59,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "mill-perimetru tar-razzett",
+      "content": "}add ma g]andu j`aqlaq jew jag]ti lok li ji``aqlaq xi\nannimal minn razzett re[istrat g]al x’imkien ie]or jew g]al\nbi``erija, sakemm ma jkunx qabel kiseb permess bil-miktub\nming]and id-Direttur g]al dak l-iskop.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 69
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "ming]and id-Direttur g]al dak l-iskop",
+      "content": "Kull detentur ta’ razzett g]andu j\\omm ktieb tar-razzett,\nf’dik il-forma li d-Direttur ikun je]tie[, li fih jinkitbu dettalji tan-\n\nPjanta.\n\n~aqlieq ta’\nannimali.\n\nKtieb tar-razzett.\n\nANNIMALI LI JIN}ALBU\n\nL.S.36.32]\n\nnumru u xorta ta’ annimali li jkunu qed jin\\ammu fir-razzett u kull\n\\ieda jew tnaqqis fl-g]add tag]hom, kif ukoll kull dettall dwar lidentifikazzjoni tag]hom, flimkien mad-dati relattivi.\nAkkwist ta’\nannimali.",
+      "metadata": {
+        "source_line_start": 70,
+        "source_line_end": 94
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Ktieb tar-razzett",
+      "content": "(1) Min ikun re[istrat kif imsemmi qabel f’dawn irRegolamenti ma jistax jakkwista annimali, g]al ebda ra[uni,\nming]and persuna li ma tkunx re[istrata skond ir-regolament 3 ta’\ndawn ir-Regolamenti.\n(2) Kull annimal li jin\\amm f’razzett li jkun re[istrat skond irregolamenti 7 g]andu jkun identifikat permezz ta’ tpin[ija bittattoo, freezebranding, tqeg]id ta’ lametta mal-widna, jew b’xi\nmetodu ie]or li jkun g]as-sodisfazzjon tad-Direttur.\n\nRe[istrajoni ta’\nkull twelid, e``.",
+      "metadata": {
+        "source_line_start": 95,
+        "source_line_end": 103
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "kull twelid, e``",
+      "content": "(1) Kull min i\\omm bovini g]andu jirre[istra kull twelid\ntag]hom g]and id-Direttur fi \\mien g]axart ijiem mit-tifri]\ntag]hom.\n\n(2) Kull min i\\omm ovini jew kaprini g]andu jirre[istra lannimali kollha li jkunu qeg]din jin\\ammu g]at-tnissil fi \\mien\ntliet xhur mit-tifri] tag]hom.\n\nRapport ta’ imwiet.\n\nTnissil artifi`jali.",
+      "metadata": {
+        "source_line_start": 104,
+        "source_line_end": 114
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Tnissil artifi`jali",
+      "content": "Minnufih kif ti[ri l-mewt ta’ annimal re[istrat, il-mewt\ng]andha jew ti[i rapportata lid-Direttur, jew `ertifikata minn\nveterinarju re[istrat.",
+      "metadata": {
+        "source_line_start": 115,
+        "source_line_end": 117
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "veterinarju re[istrat",
+      "content": "(1) }add ma jista’ jwettaq it-tnissil artifi`jali ta’ annimali\nsakemm id-Direttur ma jkunx sodisfatt li persuna tkun kwalifikata\nli twettaq tnissil u tkun re[istrata mid-Direttur g]al dak l-iskop.\n\n(2) G]all-finijiet ta’ dan ir-regolament, persuna titqies li hi\nkwalifikata jekk tg]addi minn e\\ami orali u prattiku fis-su[[ett\ng]as-sodisfazzjon tad-Direttur.",
+      "metadata": {
+        "source_line_start": 118,
+        "source_line_end": 127
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Funzjonijiet tadDirettur",
+      "content": "(1) G]all-finijiet tal-prevenzjoni minn tixrid ta’ mard, idDirettur jista’ -\n\n(a) b’avvi\\ fil-Gazzetta jillimita jew jipprojbixxi il-bejg]\njew i`-`aqlieq ta’ annimali, lejn jew minn xi n]awi ta’\ndawn il-G\\ejjer;\n(b) je]tie[ lil min ikun re[istrat kif imsemmi qabel f’dawn\nir-Regolamenti li jag]ti kull tag]rif dwar i`-`aqlieq ta’\nannimali lejn jew mir-razzett tieg]u, u ta’ kull bejg] u\nxiri tag]hom;\n\n(`) f’kull ]in jid]ol [ewwa kull maqjel jew imkien ie]or\nfejn ikollu g]aliex ra[onevolment ja]seb li jkunu\nqeg]din jin\\ammu annimali, biex (i)\n\njispezzjona l-annimali li jkunu qeg]din\njin\\ammu f’dak l-imkien; jew\n(ii) jag]mel kull e\\ami me]tie[ fuq l-annimali\nsabiex jag]mel djanjosi ta’ mard; jew\n(iii) jie]u e\\emplari ta’ demm jew materjal ie]or\nmill-annimali g]all-finijiet ta’ djanjosi ta’ mard;\njew\n(iv) jimmarka l-annimali b’dak il-mod li jkun\njikkunsidra b]ala me]tie[ g]all-fini ta’ l-\n\nANNIMALI LI JIN}ALBU\n\n(v)\n\n[L.S.36.32\n\nidentifikazzjoni tag]hom, jew kif jipprovdi rregolament 8(2); jew\nilaqqam l-annimali.\n\n(2) Kull min ikun re[istrat kif imsemmi qabel f’dawn irRegolamenti g]andu jipprovdi kull g]ajnuna me]tie[a lid-Direttur\nbiex jwettaq il-funzjonijiet tieg]u skond is-sub-regolament (1) ta’\ndan ir-regolament.",
+      "metadata": {
+        "source_line_start": 128,
+        "source_line_end": 166
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "dan ir-regolament",
+      "content": "Meta d-Direttur, wara li jag]mel dik l-investigazzjoni li\niqis me]tie[a, ikun sodisfatt li razzett ikun ]ieles mill-mard, huwa\njista’ jo]ro[ `ertifikat lid-detentur ta’ dak ir-razzett u, wara li\njin]are[ dak i`-`ertifikat, id-detentur ma g]andux ida]]al firrazzett xi annimal ie]or li ma jkunx `ertifikat minn veterinarju talgvern b]ala li hu ]ieles mill-mard.\n\n}ru[ ta’ `ertifikat\ndwar razzett.",
+      "metadata": {
+        "source_line_start": 167,
+        "source_line_end": 174
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "dwar razzett",
+      "content": "(1) Meta fil-fehma tad-Direttur l-irziezet kollha f’xi \\ona\nf’Malta jew f’G]awdex ikunu [ew `ertifikati minnu li huma ]ielsa\nmill-mard skond id-disposizzjonijiet tar-regolament 13, id-Direttur\njista’ jo]ro[ avvi\\ f’dan is-sens fil-Gazzetta.\n\n|oni nodfa.",
+      "metadata": {
+        "source_line_start": 175,
+        "source_line_end": 181
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "|oni nodfa",
+      "content": "Min jikser jew jonqos milli jikkonforma ru]u ma’ xi wa]da\nmid-disposizzjonijiet ta’ dawn ir-Regolamenti, jew ma’ xi avvi\\ li\njing]ata bis-sa]]a tag]hom, jew li jtellef jew ifixkel lid-Direttur\nmilli jag]mel xi ]a[a li jista’ jag]mel skond il-li[i skond iddisposizzjonijiet ta’ dawn ir-Regolamenti, ikun ]ati ta’ reat kontra\nt-Taqsima II ta’ l-Ordinanza dwar it-T]aris mill-Mard, u japplikaw\nid-disposizzjonijiet tat-Titolu III tat-Taqsima III ta’ l-Ordinanza.\n\nReati.\n\n(2) Meta jkun in]are[ l-avvi\\, ]add ma jista’ jda]]al f’dik i\\\\ona xi annimal sakemm dak l-annimal ma jkunx `ertifikat minn\nveterinarju tal-gvern li jkun ]ieles mill-mard.\n\nKap. 36.",
+      "metadata": {
+        "source_line_start": 182,
+        "source_line_end": 197
+      }
+    }
+  ],
+  "definitions": []
+}

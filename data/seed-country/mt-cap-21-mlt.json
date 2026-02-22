@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-21-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Priġunieri Abbord ta' Bastimenti MerkantiliImħassra bl-Att II tal-2015",
+  "title_en": "Ordinanza dwar il-Priġunieri Abbord ta' Bastimenti MerkantiliImħassra bl-Att II tal-2015",
+  "short_name": "Kap. 21(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1882-04-25",
+  "url": "https://legislation.mt/eli/cap/21/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/21/mlt, expression eli/cap/21/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PRIĠ UNIERI ABBORD TA’ BASTIMENTI MERKANTILI\n\n[KAP.\n\nKAPITOLU 21\nL-ORDINANZA DWAR IL-PRIĠUNIERI ABBORD\nTA’ BASTIMENTI MERKANTILI\nBiex temenda l-liġi dwar il-priġunieri abbord ta’ bastimenti merkantili.\n\n(25 ta’ April, 1882)*\nL-ORDINANZA III tal-1882 u ġiet emendata bl-Avviż Legali 46 tal1965; bl-Att LVIII tal-1974, XIII of 1983 u bl-Avviż Legali 407 tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Proklama Nru. III tal-1882.\n\n21.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

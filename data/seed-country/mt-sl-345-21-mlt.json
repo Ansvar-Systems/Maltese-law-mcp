@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Data Reporting Services",
+  "title_en": "Regolamenti Dwar Data Reporting Services",
+  "short_name": "eli/sl/345.21/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/345.21/20250117/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.21/mlt, expression eli/sl/345.21/20250117/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.345.21\n\nDATA REPORTING SERVICES\n\nLEĠISLAZZJONI SUSSIDJARJA 345.21\nREGOLAMENTI DWAR\nDATA REPORTING SERVICES*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 391 tal-2017, kif emendat bl-Avviżi Legali 136 tal2022 u 255 tal-2024.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-161-117-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €23,293,733.99 5.2% Stock tal-Gvern ta’ Malta 2020 (L-Ewwel Ħruġ)",
+  "title_en": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €23,293,733.99 5.2% Stock tal-Gvern ta’ Malta 2020 (L-Ewwel Ħruġ)",
+  "short_name": "eli/sl/161.117/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-27",
+  "in_force_date": "2013-03-27",
+  "url": "https://legislation.mt/eli/sl/161.117/20130327/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.117/mlt, expression eli/sl/161.117/20130327/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "TAL-FINANZI GĦALL-ĦRUĠ TA’ €23,293,733.99",
+      "content": "2% STOCK TAL-GVERN TA’ MALTA 2020\n(L-EWWEL ĦRUĠ)\n12 ta’ Ġunju, 2007\nL-AVVIŻ LEGALI 155 tal-2007, kif emendat bl-Avviż Legali 427 tal2007.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 155 tal-2007, kif emendat bl-Avviż Legali 427 tal2007",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Prim Ministru\nu Ministru tal-Finanzi għall-Ħruġ ta’ €23,293,733.99 5.2% Stock\ntal-Gvern ta’ Malta 2020 (L-Ewwel Ħruġ).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tal-Gvern ta’ Malta 2020 (L-Ewwel Ħruġ)",
+      "content": "L-iStock jinħareġ skond kif stipulat fil-prospett.\n\nTitolu.\nEmendat:\nA.L. 427 tal-2007.\nMod tal-ħruġ taliStock.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull persuna u, jew enti jistgħu japplikaw għal dan liStock. It-tqassim tal-iStock isir skont kif spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stock",
+      "content": "Skont\nid-disposizzjonijiet\ntal-Att\ndwar\nis-Swieq\nF i n a n z j a r j i , m e t a d a n l - i St o c k j i ġ i a l l o k a t , g ħ a n d h a s s i r\napplikazzjoni sabiex l-iStock jitqiegħed fuq il-lista uffiċjali u\nsabiex ikun negozjat fil-Borża ta’ Malta.\n\nNegozju fil-Borża\nta’ Malta.\nKap. 345.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "A.L. 427 tal-2007",
+      "content": "L-imgħax bir-rata ta’ €2.60,0 għal kull €100 Stock jitħallas\nkull sitt xhur b’lura fl-10 ta’ Ġunju u fl-10 ta’ Diċembru ta’ kull\nsena sakemm idum l-iStock. L-ewwel ħlas pro rata relattiv għallperjodu bejn it-28 ta’ Ġunju, 2007 u l-10 ta’ Diċembru, 2007 jsir fl10 ta’ Diċembru, 2007.\n\nRata ta’ mgħax u\ndati tal-ħlas.\nEmendat:\nA.L. 427 tal-2007.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "A.L. 427 tal-2007",
+      "content": "L-iStock għandu jiġi mifdi b’parità fl-10 ta’ Ġunju, 2020.\n\nFidwa ta’ Stock.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

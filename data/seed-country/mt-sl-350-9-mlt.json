@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-350-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "short_name": "eli/sl/350.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.9/mlt, expression eli/sl/350.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 106 ta’ l-2001, kif emendat bl-Avvi\\ Legali 424 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti {udizzjarji\nfuq Appelli.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 16(9) ta’\nl-Att dwar ix-Xandir g]all-pre\\entata ta’ atti [udizzjarji fuq appelli\ng]andhom ikunu tliet mija u disg]a u erbg]in euro (349).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 424 ta’ l2007.\nKap. 350.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

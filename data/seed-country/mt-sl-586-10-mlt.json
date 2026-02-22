@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-586-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ipproċessar ta’ Data dwar is-Saħħa għall-finijiet ta’ Assigurazzjoni",
+  "title_en": "Regolamenti dwar l-Ipproċessar ta’ Data dwar is-Saħħa għall-finijiet ta’ Assigurazzjoni",
+  "short_name": "eli/sl/586.10/mlt",
+  "status": "in_force",
+  "issued_date": "2018-06-04",
+  "in_force_date": "2018-06-04",
+  "url": "https://legislation.mt/eli/sl/586.10/20180604/mlt",
+  "description": "Official text from legislation.mt (eli/sl/586.10/mlt, expression eli/sl/586.10/20180604/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 178 tal-2018, kif emendat bl-Avviż Legali 107 tal2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Ipproċessar ta’ Data dwar is-Saħħa għall-finijiet ta’\nAssigurazzjoni.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nF’dawn ir-regolamenti, sakemm ir-rabta talkliem ma teħtieġx xort’oħra:\n\nTifsir.\nEmendat:\nA.L. 107 tal-2020.\n\n\"Att\" tfisser l-Att dwar il-Protezzjoni u l-Privatezza tad-Data;\n\"attivitajiet ta’ distribuzzjoni tal-assigurazzjoni\" għandu\njkollha l-istess tifsira kif provdut skont l-Att dwar il-Kummerċ talAssigurazzjoni.\n\"kummerċ tal-assigurazzjoni\" għandu jkollha l-istess tifsira kif\nmogħtija taħt l-Att dwar il-Kummerċ tal-Assigurazzjoni;\n\nKap. 586.\n\nKap. 487.\n\nKap. 403.\n\n\"ir-Regolament\" għandu jkollha l-istess tifsira kif mogħtija\nlilha fl-artikolu 3 tal-Att.\n(2) L-artikolu 3(2) tal-Att għandu japplika mutatis mutandis\ngħal dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-kamp ta’ applikazzjoni u l-għan ta’ dawn irregolamenti hu sabiex jintroduċi kondizzjonijiet addizzjonali fuq lipproċessar ta’ data li tirrigwarda s-saħħa għal għanijiet ta’\nassigurazzjoni konformement mal-Artikolu 9 tar-Regolament.\n\nKamp ta’\napplikazzjoni.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "applikazzjoni",
+      "content": "(1)\nL-ipproċessar ta’ data dwar is-saħħa għandu\njitqies li huwa ta’ interess pubbliku sostanzjali meta tali pproċessar\nikun meħtieġ għall-fini ta’ kummerċ tal-assigurazzjoni jew ta’\nattivitajiet ta’ distribuzzjoni tal-assigurazzjoni.\n\nIpproċessar ta’\ndata li tirrigwarda\ns-saħħa.\nSostitwit:\nA.L. 107 tal-2020.\n\n(2) L-ipproċessar imsemmi f’dan ir-regolament għandu\njkun soġġett għall-miżuri xierqa u speċifiċi mfassla biex\njissalvagwardjaw id-drittijiet fundamentali u l-libertajiet tas-suġġetti\ntad-data.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 73
+      }
+    }
+  ],
+  "definitions": []
+}

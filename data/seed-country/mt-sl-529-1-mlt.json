@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-529-1-mlt",
+  "type": "statute",
+  "title": "Company Service Providers Act (Fees) Regulations",
+  "title_en": "Company Service Providers Act (Fees) Regulations",
+  "short_name": "eli/sl/529.1/mlt",
+  "status": "in_force",
+  "issued_date": "2015-02-03",
+  "in_force_date": "2015-01-23",
+  "url": "https://legislation.mt/eli/sl/529.1/20250516/mlt",
+  "description": "Official text from legislation.mt (eli/sl/529.1/mlt, expression eli/sl/529.1/20250516/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANY SERVICE PROVIDERS (FEES)\n\n[ L.S.529.01\n\nLEĠISLAZZJONI SUSSIDJARJA 529.01\nCOMPANY SERVICE\nPROVIDERS (FEES) REGULATIONS\n23 ta’ Jannar, 2015\nL-AVVIŻ LEGALI 27 tal-2015, kif emendat bl-Avviżi Legali 117 tal-2021\nu 89 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

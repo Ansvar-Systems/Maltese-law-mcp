@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Cross-border Conversions of Limited Liability Companies",
+  "title_en": "Regolamenti dwar Cross-border Conversions of Limited Liability Companies",
+  "short_name": "eli/sl/386.27/mlt",
+  "status": "in_force",
+  "issued_date": "2023-02-14",
+  "in_force_date": "2023-01-31",
+  "url": "https://legislation.mt/eli/sl/386.27/20240315/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.27/mlt, expression eli/sl/386.27/20240315/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CROSS-BORDER CONVERSIONS OF LIMITED LIABILITY\nCOMPANIES\n\n[ L.S.386.27\n\nLEĠISLAZZJONI SUSSIDJARJA 386.27\nREGOLAMENTI DWAR CROSS-BORDER\nCONVERSIONS OF LIMITED LIABILITY\nCOMPANIES\n31 ta’ Jannar, 2023\n\nL-AVVIŻ LEGALI 27 tal-2023, kif emendat bl-Avviż Legali 68 tal2024.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

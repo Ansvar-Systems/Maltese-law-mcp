@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-449-37-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kava-Kava",
+  "title_en": "Regolamenti dwar il-Kava-Kava",
+  "short_name": "eli/sl/449.37/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.37/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.37/mlt, expression eli/sl/449.37/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 40 ta’ l-2004",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKava-Kava.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntitlobx xort’o]ra:\n\nTifsir.\n\n\"Kava-Kava\" tfisser pjanta, jew xi parti minn jew estratt minn\npjanta, li tkun tar-razza Piper methysticum;\n\" ikel\" tinkludi:\n(a) supplementi tal-ikel, kif definiti fir-Regolamenti dwar\nSupplementi ta’ l-Ikel, u\n\nL.S. 449.36\n\n(b) xarbiet mhux alko]oli`i u alko]oli`i,\ni\\da ma jinkludix prodotti medi`inali, kif definiti ta]t l-Att dwar ilMedi`ini.\n\nKap. 458.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "}add ma’ jista’ jimmanifattura, ibieg], jew jimporta\n[ewwa Malta ikel li jkun jikkonsisti fi jew li jkun fih, il-KavaKava.\n\nProjbizzjoni talbejg] ta’ l-ikel li\njkun jikkonsisti fi\njew li jkun fih ilKava-Kava.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 45
+      }
+    }
+  ],
+  "definitions": []
+}

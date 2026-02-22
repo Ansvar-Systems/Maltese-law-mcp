@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-38-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Port State Control",
+  "title_en": "Regolamenti dwar Port State Control",
+  "short_name": "eli/sl/234.38/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2021-02-02",
+  "url": "https://legislation.mt/eli/sl/234.38/20210202/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.38/mlt, expression eli/sl/234.38/20210202/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERCHANT SHIPPING (PORT STATE CONTROL)\n\n[L.S.234.38\n\nLEĠISLAZZJONI SUSSIDJARJA 234.38\nREGOLAMENTI DWAR PORT STATE CONTROL*\n1 ta’ Jannar, 2011\nL-AVVIŻ LEGALI 64 tal-2011, kif emendat bl-Avviżi Legali 25 u 156 tal2014 u 344 tal-2019 u 37 tal-2021.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

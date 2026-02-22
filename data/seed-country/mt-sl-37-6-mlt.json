@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-37-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Sigarretti Importati",
+  "title_en": "Regolamenti dwar Sigarretti Importati",
+  "short_name": "eli/sl/37.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.6/mlt, expression eli/sl/37.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ Settembru, 1963",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nSigarretti Importati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "}add ma jista’ jimporta f’dawn il-G\\ejjer jew johro[ middepo\\t xi sigarretti mportati kemm-il-darba l-pakkett, kaxxa jew\nkontenut li fih jing]alqu s-sigarretti ma jkunx issi[illat permezz ta’\nfaxxa jew bolla ma]ru[a mill-Kontrullur tad-Dwana.\n\nSigarretti mportati\ng]andu jkollhom\nmag]hom faxxa\nmwa]]la malkontenut.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-faxxa jew bolla g]andha titwa]]al b’mod illi ma jkunx\njista’ jinfeta] il-kontenut ming]ajr ma titqatta’.\n\nMod kif titwa]]al\nil-faxxa jew bolla.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Il-faxex jew bolli g]andhom jin]ar[u mill-Kontrullur tadDwana fuq talba mill-importutur tas-sigarretti bil-prezz ta’ 0.408\nta’ euro kull elf faxxa jew bolla.\n\nIl-faxex jew bolli\ng]andhom jin]ar[u\nmill-Kontrullur\ntad-Dwana.\nEmendat:\nXIII. 1983.5;\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "A.L. 407 ta’ l2007",
+      "content": "Kull persuna li jkollha fil-pussess tag]ha jew b’xi mod\ntiddisponi minn xi sigarretti importati li ma jkunux skond iddisposizzjonijiet tar-regolamenti 2 u 3 ta’ dawn ir-Regolamenti\ntista’ te]el, meta tinsab ]atja, l-pieni ma]suba fl-Ordinanza tadDwana.\n\nPieni.\n\nKap. 37.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

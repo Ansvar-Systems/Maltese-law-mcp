@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Sajd",
+  "title_en": "Regolamenti dwar is-Sajd",
+  "short_name": "eli/sl/10.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.12/mlt, expression eli/sl/10.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.10.12\n\nSAJD\n\nLEĀISLAZZJONI SUSSIDJARJA 10.12\nREGOLAMENTI DWAR IS-SAJD\n25 ta’ Mejju, 1934\n23 ta’ April, 1935\nIN-NOTIFIKAZZJONI TAL-GVERN 206 tal-1934, kif emendata blAvviŜi Legali: 48 tal-1962, 19 tal-1964, 80 tal-1978, 58 tal-1979 u 154 tal1993; u n-NOTIFIKAZZJONI TAL-GVERN 148 tal-1935, kif emendata binNotifikazzjoni tal-Gvern 481 tal-1936 u bl-AvviŜ tat-23.02.37, konsolidati.\n\nMeqjusa li saru taħt l-Att dwar il-Konservazzjoni u lAmministrazzjoni tas-Sajd - ara L.S. 425.01.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

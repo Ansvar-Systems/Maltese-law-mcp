@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-24-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Għajnuna għall-Investiment għal Proġetti ta’ Effiċjenza fl-Enerġija",
+  "title_en": "Regolamenti dwar l-Għajnuna għall-Investiment għal Proġetti ta’ Effiċjenza fl-Enerġija",
+  "short_name": "eli/sl/463.24/mlt",
+  "status": "repealed",
+  "issued_date": "2018-10-11",
+  "in_force_date": "2018-10-11",
+  "url": "https://legislation.mt/eli/sl/463.24/20181011/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.24/mlt, expression eli/sl/463.24/20181011/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 122 tal-2018, kif emendat bl-Avviż Legali 118 tal2019",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Għajnuna għall-Investiment għal Proġetti ta’ Effiċjenza flEnerġija",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\"il-Korporazzjoni\"\nmwaqqfa taħt l-Att;\n\ntfisser\n\nl-Intrapriża\n\nta’\n\nKap. 463.\n\nMalta\n\n\"Linji Gwida\" tfisser dawk il-linji gwida li jistgħu jiġu\npubblikati mill-Korporazzjoni minn żmien għal żmien skont lAtt.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta l-Korporazzjoni tkun sodisfatta li l-impriża hija\nimpriża eliġibbli kif preskritt fil-Linji Gwida, il-Korporazzjoni tista’\ntipprovdi assistenza lil dik l-impriża skont it-termini u lkondizzjonijiet stabbiliti fil- Linji Gwida.\n\nGħajnuna biex\ntappoġġa intrapriżi\neliġibbli taħt liskema Investment\nAid for Energy\nEfficiency Projects.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Efficiency Projects",
+      "content": "L-applikazzjonijiet għall-għajnuna taħt dawn irregolamenti għandhom jaslu għand il-Korporazzjoni mhux aktar tard\nmid-data stabbilita fil-Linji Gwida.\n\nSkadenza għassottomissjoni talapplikazzjonijiet.\nSostitwit:\nA.L.118 tal-2019.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

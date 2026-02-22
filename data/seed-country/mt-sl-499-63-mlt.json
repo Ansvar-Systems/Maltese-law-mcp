@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-63-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Air Traffic Flow Management) Regulations",
+  "title_en": "Civil Aviation (Air Traffic Flow Management) Regulations",
+  "short_name": "eli/sl/499.63/mlt",
+  "status": "in_force",
+  "issued_date": "2013-10-28",
+  "in_force_date": "2013-10-28",
+  "url": "https://legislation.mt/eli/sl/499.63/20131028/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.63/mlt, expression eli/sl/499.63/20131028/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (AIR TRAFFIC FLOW MANAGEMENT) [L.S.499.63\n\nLE{ISLAZZJONI SUSSIDJARJA 499.63\nCIVIL AVIATION (AIR TRAFFIC FLOW\nMANAGEMENT) REGULATIONS*\n25 ta’ Ottubru, 2013\nL-AVVI| LEGALI 342 tal-2013.\n\n*Dawn ir-Regolamenti [ew ippubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

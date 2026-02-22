@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-25-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi dwar l-Industriji tal-Manifattura ta' l-Ikel",
+  "title_en": "Ordni għal Kunsill tal-Pagi dwar l-Industriji tal-Manifattura ta' l-Ikel",
+  "short_name": "eli/sl/452.25/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.25/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.25/mlt, expression eli/sl/452.25/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 51 ta’ l-1965, kif emendat bl-Avvi\\ Legali 31 ta’ l1970",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi dwar\nl-Industriji tal-Manifattura ta’ l-Ikel.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi dwar l-Industriji talManifattura ta’ l-Ikel li japplika g]all-impjegati kollha f ’xi\nimpri\\a, jew parti minn impri\\a, li l-attivitajiet tag]ha jikkonsistu\ng]al kollox jew prin`ipalment fil-manifattura ta’ l-o[[etti ta’ l-ikel\ninklu\\i fran, fabbriki ta’ l-g]a[in, fabbriki li ja]dmu l-]elu u\nfabbriki tal-[elati u ta’ g]alf bilan`at u o[[etti o]ra ta’ l-ikel g]allkonsum mill-annimali.\n\nSafejn japplika ilKunsill tal-Pagi.\nSostitwit:\nA.L. 31 ta’ l-1970.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "Il-Kunsill tal-Pagi ma g]andux japplika g]all-impjegati fi\nstabilimenti koperti f’Ordni tal-Kunsill tal-Pagi li jirregola l-Pagi\n[a e\\istenti.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Riserva",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntal-25 ta’ Mejju, 1965.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-12-15-mlt",
+  "type": "statute",
+  "title": "Ordni dwar in-Numru ta' Imħallfin fil-Qrati Superjuri Imħassar bl-Avviż Legali 246 tal-2022",
+  "title_en": "Ordni dwar in-Numru ta' Imħallfin fil-Qrati Superjuri Imħassar bl-Avviż Legali 246 tal-2022",
+  "short_name": "eli/sl/12.15/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2014-03-25",
+  "url": "https://legislation.mt/eli/sl/12.15/20221011/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.15/mlt, expression eli/sl/12.15/20221011/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 91 tal-2014",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar in-Numru ta’\nImħallfin fil-Qrati Superjuri.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "In-numru ta’ imħallfin fil-Qrati Superjuri, minbarra l-Prim\nImħallef, għandu jkun erbgħa u għoxrin.\n\nNumru ta’\nimħallfin fil-qrati\nsuperjuri.\n\n* Dan l-ordni ġie mħassar bl-Avviż Legali 246 tal-2022.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

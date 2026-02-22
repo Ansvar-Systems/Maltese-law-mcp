@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-42-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Eżami għal Piżaturi Pubbliċi",
+  "title_en": "Regolamenti dwar l-Eżami għal Piżaturi Pubbliċi",
+  "short_name": "eli/sl/42.1/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/42.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/42.1/mlt, expression eli/sl/42.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "18 ta’ April, 1935",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lE\\ami g]al Pi\\aturi Pubbli`i.\n\nTitolu.\nMi\\jud:\nA.L. 49 ta’ l-1974.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) L-applikanti g]al li`enzja biex jag]mluha ta’ pi\\aturi\npubbli`i g]andhom ji[u e\\aminati fis-su[[etti msemmija fl-Iskeda\nta’ dawn ir-Regolamenti u g]andhom jag]mlu prova prattika fixxog]ol ta’ pi\\aturi pubbli`i.\n\nE\\amijiet.\nSostitwit:\nA.L. 49 ta’ l-1974.\nEmendat:\nXIII. 1983.5;\nA.L. 407 ta’ l2007.\n\n(2) }add ma ji[i m]olli jersaq g]al dan l-e\\ami jekk ma\njkunx (a) fuq it-tmintax-il sena dakinhar ta’ l-e\\ami;\n(b) ta’ kondotta tajba; u\n(`) ma j[ibx dokument tajjeb fejn juri li g]amel sitt xhur\nta]ri[ ta]t wie]ed li g]andu s-setg]a ja]dem b]ala\npi\\atur pubbliku li j]addem l-istasija u l-mi\\ien.\n(3) L-applikazzjonijiet, u mag]hom i`-`ertifikati msemmijin\nfis-subregolament (2)(a), (b) u (`) g]andhom ji[u mibg]uta lidDirettur ta’ l-Edukazzjoni.\n(4) Qabel ma ji[i m]olli jog]qod g]all-e\\ami kull applikant\nirid i]allas tmienja u ]amsin `ente\\mu (0.58) b]ala ]las ta’ lammissjoni.\n\nL.S.42.01]\n\nE|AMI G}AL PI|ATURI PUBBLI~I\n\n(Regolament 2)\nSu[[etti ta’ l-e\\ami\nMassimu\n\nMinimu\n\nARITMETIKA - L-erba regoli.\nRiduzzjoni u konversjoni ta’ flejjes\nu ta’ u\\in u kejl Maltin, Ingli\\i u\nmetri`i. Frazzjonijiet sempli`i\n(komuni u de`imali). Proporzjoni,\naverages u per`enta[[i ]fief. Arei u\nvolumi ta’ u`uh rettangolari u ta’\nsolidi.\n\nMEKKANIKA - Massa, tul, ]in u lunitajiet tag]hom (S.I.). Densità ta’\nsolidi u likwidi. Kwantitajiet Vector.\nRappre\\entazzjonijiet ta’ forzi\nb]ala vectors; il-paralello-gramma\nta’ forzi; trjangolu ta’ forzi;\nimwie\\en bil-molla u li jinqraw\ndirettament. Momentum ta’ forza;\ncouples; `entru ta’ massa; kif ti[i\nstabbilita f ’ka\\ijiet sempli`i;\nStabilità. Il-prin`ipji ta’ makni\nsempli`i, e\\., lieva, pjan inklinat,\nsistema sempli`i ta’ taljoli, viti. Ilmi\\ien komuni u l-istasija. Velo`ità\nuniformi u a``elerazzjoni uniformi\nf ’linja dritta. Momentum - Forza\nb]ala rata ta’ tibdil ta’ momentum.\n\nLINGWI (Malti u Ingli\\)\nProvi ta’ komprensjoni bil-Malti u\nIngli\\, traduzzjonijiet mill-Malti\ng]all-Ingli\\ u mill-Ingli\\ g]allMalti.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 97
+      }
+    }
+  ],
+  "definitions": []
+}

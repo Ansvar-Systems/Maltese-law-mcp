@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-350-21-mlt",
+  "type": "statute",
+  "title": "Ħtiġiet dwar Standards u Prattika dwar id-Diversi Tipi ta' Stħarriġ ta' l-Opinjoni Pubblika Mxandra fuq is-Servizzi ta' Radju u Televiżjoni",
+  "title_en": "Ħtiġiet dwar Standards u Prattika dwar id-Diversi Tipi ta' Stħarriġ ta' l-Opinjoni Pubblika Mxandra fuq is-Servizzi ta' Radju u Televiżjoni",
+  "short_name": "eli/sl/350.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.21/mlt, expression eli/sl/350.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Da]la",
+      "content": "1 Dawn il-}ti[iet dwar Standards u Prattika saru millAwtorità tax-Xandir bis-sa]]a ta’ l-artikolu 20(3) ta’ l-Att dwar ixXandir, Kapitlu 350 tal-Li[ijiet ta’ Malta.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "jimxu fuqhom l-istazzjonijiet lokali tax-xandir",
+      "content": "St]arri[ ta’ l-Opinjoni Pubblika",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "id-dettalji kollha",
+      "content": "St]arri[ bit-Televoting u l-Internet",
+      "metadata": {
+        "source_line_start": 162,
+        "source_line_end": 165
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Vox pops",
+      "content": "1. Intervisti vox pop ma’ nies fit-triq lanqas biss jag]tu ]jiel\ng]al dak li tabil]aqq ikun qed jg]id il-poplu. Jg]oddu numru \\g]ir\nwisq biex jistg]u b’xi mod ikunu rappre\\entattivi u fuq kollox\nlanqas huma mag]\\ula b]ala kampjun ta’ kwota. Jista’ jkun li l-vox\npops tintu\\a kultant biex turi dak li jkunu qed jg]idu n-nies fi\nst]arri[ mag]mul sewwa dwar l-opinjoni pubblika. Jistg]u wkoll\njit]addmu f ’diversi kontesti mhux politi`i sakemm ma jing]ata\nebda su[[eriment li b’xi mod jistg]u jirrappre\\entaw dak li\ntabil]aqq qed ja]seb il-poplu bi ][aru. G]aldaqstant kull meta ssir\nxi vox pop g]andu jing]ad minn qabel li l-metodu li jkun qed\njintu\\a ma g]andux valur xjentifiku u g]alhekk ma tistax toqg]od\nfuqu.",
+      "metadata": {
+        "source_line_start": 192,
+        "source_line_end": 203
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "fuqu",
+      "content": "St]arri[ barra l-post tal-votazzjoni",
+      "metadata": {
+        "source_line_start": 204,
+        "source_line_end": 207
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "jkunu qed jiksru il-li[i Maltija",
+      "content": "Ma jista’ jixxandar ebda st]arri[ fil-jiem minnufih qabel ilvotazzjoni.",
+      "metadata": {
+        "source_line_start": 225,
+        "source_line_end": 226
+      }
+    }
+  ],
+  "definitions": []
+}

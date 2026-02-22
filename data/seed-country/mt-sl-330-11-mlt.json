@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Malta Financial Services Authority Act (Transparency of securities financing transactions and of reuse)",
+  "title_en": "Regolamenti dwar Malta Financial Services Authority Act (Transparency of securities financing transactions and of reuse)",
+  "short_name": "eli/sl/330.11/mlt",
+  "status": "in_force",
+  "issued_date": "2017-03-08",
+  "in_force_date": "2017-03-08",
+  "url": "https://legislation.mt/eli/sl/330.11/20170308/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.11/mlt, expression eli/sl/330.11/20170308/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "(TRANSPARENCY OF SECURITIES FINANCING\nTRANSACTIONS AND OF REUSE)\n\n[ L.S.330.11\n\nLEĠISLAZZJONI SUSSIDJARJA 330.11\nREGOLAMENTI DWAR MALTA FINANCIAL\nSERVICES AUTHORITY ACT (TRANSPARENCY OF\nSECURITIES FINANCING TRANSACTIONS\nAND OF REUSE)\n7 ta’ Marzu, 2017\nAVVIŻ LEGALI 78 tal-2017, kif emendat bl-Avviż Legali 166 tal-2020.\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

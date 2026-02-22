@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tisqija tal-Ħxejjex (Prekawzjonijiet dwar is-Saħħa)",
+  "title_en": "Regolamenti dwar it-Tisqija tal-Ħxejjex (Prekawzjonijiet dwar is-Saħħa)",
+  "short_name": "eli/sl/36.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.30/mlt, expression eli/sl/36.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 71 ta’ l-1988",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTisqija tal-}xejjex (Prekawzjonijiet dwar is-Sa]]a).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 71 ta’ l-1988",
+      "content": "}add ma jista’ jsaqqi xi g]alqa fejn il-]xejjex ma]subin\ng]all-konsum mill-bniedem ikunu qeg]din, jew jistg]u jitkabbru,\nb’xi ilma tad-drena[[ jew b’ilma kontaminat b’ilma tad-drena[[.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "b’xi ilma tad-drena[[ jew b’ilma kontaminat b’ilma tad-drena[[",
+      "content": "Is-Suprintendent tas-Sa]]a g]andu dritt jordna l-qbid u/\njew id- distruzzjoni ta’ ]xejjex li jkunu ssaqqew b’ilma tad-drena[[\njew b’ilma kontaminat b’ilma tad-drena[[.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jew b’ilma kontaminat b’ilma tad-drena[[",
+      "content": "Id-disposizzjonijiet tar-regolamenti 2 u 3 ta’ dawn irRegolamenti ma japplikawx g]al xi g]alqa msoqqija b’ilma [ej\nminn ilma tad-drena[[ li jkun [ie pro`essat u purifikat f’impjant\nta’ l-ippro`essar ta’ l-ilma tad-drena[[ li jkun immexxi mill-gvern\ndwar dawk il-]xejjex li s-Suprintendent ikun approva b]ala li jkunu\njistg]u jitkabbru f’dik l-g]alqa.\n\nTitolu.\nProjbizzjoni ta’\ntisqija b’ilma taddrena[[.\nQbid u\ndistruzzjoni.\nRi\\erva.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

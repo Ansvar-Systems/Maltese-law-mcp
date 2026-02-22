@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-104-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Twaqqif ta' Uffċċju Ċentrali)",
+  "title_en": "Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Twaqqif ta' Uffċċju Ċentrali)",
+  "short_name": "eli/sl/104.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/104.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/104.7/mlt, expression eli/sl/104.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 188 ta’ l-2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lAssigurazzjoni ta’ Vetturi bil-Mutur g]ar-Riskji ta’ Terzi Persuni\n(Twaqqif ta’ Uffi``ju ~entrali).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx te]tie[ xort’o]ra:\n\nTifsir.\n\n\"l-Ordinanza\" tfisser l-Ordinanza dwar l-Assigurazzjoni ta’\nVetturi bil-Mutur g]ar-Riskji ta’ Terzi Persuni.\n\nKap. 104.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-Uffi``ju ~entrali msemmi fl-artikolu 9F ta’ l-Ordinanza\ng]andu jkun i`-~entru Malti ta’ Informazzjoni dwar lAssigurazzjoni mwaqqaf ta]t ir-Regolamenti dwar ~entru ta’\nInformazzjoni dwar l-Assigurazzjoni ta’ Vetturi.\n\nUffi``ju ~entrali.\nL.S. 104.06",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

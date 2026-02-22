@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-380-3-mlt",
+  "type": "statute",
+  "title": "Avviż dwar ir-Rimunerazzjoni li tingħata lil Ġudikanti tat-Tribunal għal Talbiet Żgħar",
+  "title_en": "Avviż dwar ir-Rimunerazzjoni li tingħata lil Ġudikanti tat-Tribunal għal Talbiet Żgħar",
+  "short_name": "eli/sl/380.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/380.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/380.3/mlt, expression eli/sl/380.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 139 tal-2015",
+      "content": "It-titolu ta’ dan l-Avviż hu Avviż dwar ir-Rimunerazzjoni li\ntingħata lil Ġudikanti tat-Tribunal għal Talbiet Żgħar.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-rimunerazzjoni li titħallas lil ġudikanti tat-Tribunal għal\nTalbiet Żgħar mill-1 ta’ April, 2015 għandha tkun bir-rata ta’\nħamsin euro (€50) għal kull każ li jinqata’, kemm jekk deċiż, ċedut\njew irtirat lura\n\nRimunerazzjoni li\ntitħallas lil\nġudikanti.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

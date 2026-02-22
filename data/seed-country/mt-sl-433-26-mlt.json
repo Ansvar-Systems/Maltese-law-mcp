@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tat-Tuta Absoluta Imħassrin bl-Avviż Legali 83 tal-2023",
+  "title_en": "Regolamenti dwar il-Kontroll tat-Tuta Absoluta Imħassrin bl-Avviż Legali 83 tal-2023",
+  "short_name": "eli/sl/433.26/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-01-12",
+  "url": "https://legislation.mt/eli/sl/433.26/20230414/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.26/mlt, expression eli/sl/433.26/20230414/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.433.26\n\nKONTROLL TAT-TUTA ABSOLUTA\n\nLEĠISLAZZJONI SUSSIDJARJA 433.26\nREGOLAMENTI DWAR Il-KONTROLL\nTAT-TUTA ABSOLUTA* *\n12 ta’ Jannar, 2010\nL-AVVIŻ LEGALI 26 tal-2010.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 83 tal-2023.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

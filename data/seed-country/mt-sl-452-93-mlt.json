@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-93-mlt",
+  "type": "statute",
+  "title": "Ordni ta’ Standard Nazzjonali dwar Bonus Speċali ta’ Darba",
+  "title_en": "Ordni ta’ Standard Nazzjonali dwar Bonus Speċali ta’ Darba",
+  "short_name": "eli/sl/452.93/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.93/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.93/mlt, expression eli/sl/452.93/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 110 ta’ l-2004, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni ta’ Standard Nazzjonali\ndwar Bonus Spe`jali ta’ Darba.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ammont ta’ €90.85, ekwivalenti g]al €1.75 fil-[img]a\ng]al tnax-il xahar, g]andu jit]allas mill-prin`ipal, f’somma wa]da\nf’daqqa, sa’ l-a]]ar ta’ Marzu 2004, lill-impjegati kollha li jkunu\nre[istrati mieg]u it-Tnejn, 15 ta’ Marzu 2004 u li jkunu qeg]din\njit]allsulhom il-kontribuzzjonijiet tas-sigurtà so`jali.\n\nBonus Spe`jali ta’\nDarba.\nEmendat:\nA.L. 427 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Darba",
+      "content": "Dik is-somma hawn imsemmija fl-artikolu 2 g]andha\ntin[abar lura mill-prin`ipal permezz ta’ tnaqqis minn fondi dovuti\nminnu lill-Gvern b]ala taxxa fuq l-income u kontribuzzjonijiet tassigurtà so`jali.\n\nIrkupru ta’ lammont millprin`ipal.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

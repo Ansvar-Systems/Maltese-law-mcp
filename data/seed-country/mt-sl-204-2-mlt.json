@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-204-2-mlt",
+  "type": "statute",
+  "title": "Avviż ta Xoljiment tal-Fond għall-PosteritàImħassar bl-Avviż Legali 436 tal-2014",
+  "title_en": "Avviż ta Xoljiment tal-Fond għall-PosteritàImħassar bl-Avviż Legali 436 tal-2014",
+  "short_name": "eli/sl/204.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/204.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/204.2/mlt, expression eli/sl/204.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "XOLJIMENT TAL-FOND G}ALL-POSTERITÀ\n\n[L.S.204.02\n\nLE{ISLAZZJONI SUSSIDJARJA 204.02\nAVVI| TA’ XOLJIMENT TAL-FOND\nG}ALL-POSTERITÀ\n31 ta’ Mejju, 1988\nL-AVVI| LEGALI 45 tal-1988.\n\nRevokat bl-Avvi\\ Legali 436 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

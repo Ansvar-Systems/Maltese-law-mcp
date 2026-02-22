@@ -1,0 +1,65 @@
+{
+  "id": "mt-cap-616-mlt",
+  "type": "statute",
+  "title": "Att dwar Garanziji lill-Bank Ewropew għall-Investiment",
+  "title_en": "Att dwar Garanziji lill-Bank Ewropew għall-Investiment",
+  "short_name": "Kap. 616",
+  "status": "in_force",
+  "issued_date": "2020-08-13",
+  "in_force_date": "2020-07-14",
+  "url": "https://legislation.mt/eli/cap/616/20200714/mlt",
+  "description": "Official text from legislation.mt (eli/cap/616/mlt, expression eli/cap/616/20200714/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "ATT XXXIII tal-2020",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar Garanziji lillBank Ewropew għall-Investiment.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx\nxort’ oħra:\n\nTifsir.\n\n\"Ftehim ta’ Garanzija tal-Ewwel Talba\" tfisser Ftehim\nta’ Garanzija li jista’ jsir bejn il-Garanturi Oriġinali, inkluż ilGvern ta’ Malta, u l-Garanturi Aderenti minn żmien għal żmien\nu l-Bank Ewropew għall-Investiment fir-rigward ta’\ntranżazzjonijiet li jsiru bejn il-Bank għall-kont tal-Fond\nriprodott fl-Ewwel Skeda;\n\"Ftehim ta’ Kontribuzzjoni\" tfisser il-Ftehim ta’\nKontribuzzjoni li jista’ jsir bejn il-Gvern ta’ Malta u l-Bank\nEwropew għall-Investiment fir-rigward tal-Fond ta’ Garanziji\nPan-Ewropej b’reazzjoni għall-COVID-19, riprodott fit-Tieni\nSkeda;\n\"Fond\" tfisser il-Fond ta’ Garanzija EU COVID-19 li\ngħandu jiġi stabbilit mill-Bank Ewropew għall-Investiment taħt\nil-Pjattaforma ta’ Sħubija għall-Fondi tiegħu;\n\"Malta\" għandu jkollha l-istess tifsira kif mogħtija lilha\nbl-artikolu 124 tal-Kostituzzjoni ta’ Malta;\n\"Ministru\" tfisser il-Ministru responsabbli għall-finanzi.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Soġġett għad-dispożizzjonijiet ta’ dan l-Att, il-Gvern ta’\nMalta jista’ joħroġ garanziji bla ebda kundizzjoni, irrevokabbli u talewwel talba lill-Bank Ewropew għall-Investiment billi jiħdol fi Ftehim\nt a ’ G a r a n z i j a t a l - E w w e l Ta l b a m a l - B a n k f i r - r i g w a r d t a ’\ntranżazzjonijiet li jsiru bejn il-Bank Ewropew għall-Investiment għallkont tal-Fond.\n\nAwtorità biex\njinħarġu garanziji.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jinħarġu garanziji",
+      "content": "(1)\nKwalunkwe garanzija maħruġa skont l-artikolu 3\ngħandha tkun soġġetta għat-termini inkorporati fil-Ftehim ta’\nKontribuzzjoni:\n\nMekkaniżmu għal\nħruġ ta’ garanziji.\n\n[ KAP. 616.\n\nGARANZIJI LILL-BANK EWROPEW GĦALLINVESTIMENT\n\nIżda l-garanzija maħruġa mill-Gvern ta’ Malta ma\ngħandhiex teċċedi l-ammont aggregat ta’ tnax-il miljun, mitejn u\nsebgħa u disgħin elf, erba’ mija u għaxar euro u sitt ċenteżmi\n(€12,297,410.06).\n(2)\nKwalunkwe garanzija maħruġa mill-Gvern ta’ Malta firrigward tal-Fond lil hinn mill-għan speċifikat taħt is-subartikolu (1)\ntista’ ssir biss f’dik il-manjiera u għal dak il-għan li l-Kamra tista’\ntiddetermina b’riżoluzzjoni.\nLingwa.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 78
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Lingwa",
+      "content": "L-Annessi li jinsabu ma’ dan l-Att jistgħu jsiru bil-lingwa\nIngliża biss.",
+      "metadata": {
+        "source_line_start": 79,
+        "source_line_end": 90
+      }
+    }
+  ],
+  "definitions": []
+}

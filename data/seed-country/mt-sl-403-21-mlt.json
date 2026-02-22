@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Commission Delegated Regulation on Solvency II)",
+  "title_en": "Regolamenti dwar Insurance Business (Commission Delegated Regulation on Solvency II)",
+  "short_name": "eli/sl/403.21/mlt",
+  "status": "in_force",
+  "issued_date": "2016-01-11",
+  "in_force_date": "2016-01-11",
+  "url": "https://legislation.mt/eli/sl/403.21/20160111/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.21/mlt, expression eli/sl/403.21/20160111/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS (COMMISSION\nDELEGATED REGULATION ON SOLVENCY II)\n\n[ L.S.403.21\n\nLE{ISLAZZJONI SUSSIDJARJA 403.21\nREGOLAMENTI DWAR INSURANCE BUSINESS\n(COMMISSION DELEGATED REGULATION\nON SOLVENCY II)*\n1 ta’ Jannar, 2016\nL-AVVI| LEGALI 400 tal-2015.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

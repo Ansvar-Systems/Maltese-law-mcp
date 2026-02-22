@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-407-mlt",
+  "type": "statute",
+  "title": "Att dwar Self Lokali",
+  "title_en": "Att dwar Self Lokali",
+  "short_name": "Kap. 407",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1999-05-07",
+  "url": "https://legislation.mt/eli/cap/407/20080101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/407/mlt, expression eli/cap/407/20080101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-ATT III ta’ 1-1999 , kif emendat bl-Avviż Legali 427 tal-2007 ",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar Self Lokali.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Għall-finijiet ta’ dan l-Att, \"dħul\" għandha l-istess tifsir\nbħalma għandha fl-artikolu 2 tal-Att dwar il-Ġestjoni tal-Finanzi\nPubbliċi, iżda ma tinkludix dħul minn self lokali.\n\nTifsir.\nKap. 601.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, il-Gvern\nta’ Malta jista’ jiġbor b’self f ’Malta somma ta’ flus li ma tkunx\niżjed minn mitejn u tnejn u tletin miljun u disa’ mija u sebgħa u\ntletin elf u tliet mija u disgħa u tletin euro u sitta u tmenin\nċenteżmu (232,937,339.86).\n\nAwtorità li jinġabar\nself.\nEmendat:\nA.L. 426 tal-2007.\n\n(2) Sabiex jinġabar is-self imsemmi, il-Ministru responsabbli\ngħall-finanzi huwa b’dan awtorizzat li joħroġ stock f’Malta taħt iddispożizzjonijiet tal-Ordinanza dwar Self Lokali (Stock u Titoli\nReġistrati) b’dawk il-patti u kundizzjonijiet hekk kif l-imsemmi\nMinistru jista’ japprova.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull somma mislufa taħt l-awtorità ta’ dan l-Att għandha\ntiġi approprjata u wżata biex tkopri nefqa ikbar mid-dħul li seħħet\nfil-Fond Konsolidat matul is-sena 1998, u n-nefqa li hemm\nmaħsuba li sseħħ matul is-sena 1999:\nIżda kull ammont misluf bis-saħħa ta’ dan l-artikolu iktar\nmill-ammont attwalment meħtieġ għal dawk l-għanijiet u li jifdal\nbħala bilanċ fil-Fond Konsolidat fi tmiem is-sena 1999, għandu\njintuża biex jagħmel tajjeb għan-nefqa ikbar mid-dħul fil-Fond\nKonsolidat matul l-ewwel sena sussegwenti, u li fiha ssir dik innefqa akbar.\n\nKap. 161.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

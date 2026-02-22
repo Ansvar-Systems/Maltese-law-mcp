@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kwarantina tal-Pjanti (Organiżmi li jagħmlu l-ħsara)",
+  "title_en": "Regolamenti dwar Kwarantina tal-Pjanti (Organiżmi li jagħmlu l-ħsara)",
+  "short_name": "eli/sl/433.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2020-07-22",
+  "url": "https://legislation.mt/eli/sl/433.3/20200722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.3/mlt, expression eli/sl/433.3/20200722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KWARANTINA TAL-PJANTI (ORGANIŻMI LI JAGĦMLU L-ĦSARA) [L.S.433.03\n\nLEĠISLAZZJONI SUSSIDJARJA 433.03\nREGOLAMENTI DWAR KWARANTINA\nTAL-PJANTI (ORGANIŻMI LI JAGĦMLU\nL-ĦSARA)*\n1 ta’ April, 2004\nL-AVVIŻ LEGALI 97 tal-2004, kif emendat bl-Avviżi Legali 477, 478,\n480 tal-2004, 42, 55, 307, 308, 361 tal-2005, 245 tal-2006, 359 tal-2007,\n270 tal-2008, 33, 100 tal-2009, 77, 119 tal-2010, 19 tal-2011, 9, 293, 426\ntal-2012, 162. 334 tal-2014, 293 tal-2015, 354 tal-2017, 27 tal-2018 u\n232 tal-2019.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-363-88-mlt",
+  "type": "statute",
+  "title": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Faċilitajiet (Kunsill Lokali Safi)",
+  "title_en": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Faċilitajiet (Kunsill Lokali Safi)",
+  "short_name": "eli/sl/363.88/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.88/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.88/mlt, expression eli/sl/363.88/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 83 tal-2002",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar id-Delega talAmministrazzjoni ta’ Fa`ilitajiet (Kunsill Lokali }al Safi).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 83 tal-2002",
+      "content": "Il-proprjetà deskritta fl-artikolu 3 ta’ dan l-ordni hija b’dan\nspe`ifikata g]all-finijiet tad-delega ta’ funzjonijiet imsemmija flar tik olu 33(1) (m) t al -Att dwar Gvern Loka li, mi d-dat a t alpubblikazzjoni ta’ dan l-ordni.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Il-proprjetà deskritta fl-artikolu 3 ta’ dan l-ordni hija b’dan",
+      "content": "Il-proprjetà fil-lokalità ta’ }al Safi msemmija fl-artikolu 2\ntikkonsisti kif [ej:\n(a) {nien Sir Alexander Ball li jidher delineat bl-a]mar\nfuq il-pjanta L.D. 73/96 mehmu\\a mal-Ftehim ta’ Kiri\ng]all-U\\u ta’ {nien Sir Alexander Ball f’Safi millKunsill Lokali Safi ffirmat fl-10 ta’ Marzu, 1999;\n\n(b) l-Uffi``ju Amministrattiv tal-Kunsill Lokali Safi li\njidher delineat bl-a]mar fuq pjanta L.D. 108/97\nmehmu\\a mal-Ftehim ta’ Kiri dwar proprjetà fi Triq lIskola, Safi ffirmat fl-1 ta’ Novembru. 1995;\n\n(`) Football Ground (pitch sintetiku tal-football) li jidher\ndelineat bl-a]mar u indikat b]ala Football Ground\n(Sand) fuq il-pjanta PD 133/2000 mehmu\\a malFtehim ta’ Kiri g]all-Amministrazzjoni u l-U\\u ta’\nProprjetà tal-Gvern mill-Kunsill Lokali }al Safi\nffirmat fil-15 ta’ Frar, 2001.\n\nTitolu.\nDelega ta’\nfunzjonijiet.\nKap. 363.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

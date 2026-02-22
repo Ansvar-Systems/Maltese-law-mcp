@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-358-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Avviż ta' Jum Stabbilit",
+  "title_en": "Ordni dwar Avviż ta' Jum Stabbilit",
+  "short_name": "eli/sl/358.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/358.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/358.1/mlt, expression eli/sl/358.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 57 ta’ l-1993",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni dwar Avvi\\ ta’ Jum\nStabbilit.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Stabbilit",
+      "content": "Hu hawnhekk av\\at li fit-18 ta’ Frar, 1993 il-Gvern ta’\nMalta u s-Santa Sede skambjaw komunikazzjoni uffi`jali li limplimentazzjoni s]i]a tad-dispo\\izzjonijiet kollha tal-Ftehim bissa]]a ta’ l-istrumenti legali xierqa skond is-sistema [uridiku ta’\nkull wie]ed issa saret. Dik l-istess data hija l-jum stabbilit g]allfinijiet ta’ l-Att dwar Proprjetà ta’ Entijiet Ekklesjasti`i.\n\nTitolu.\nAvvi\\ ta’ jum\nstabbilit.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 27
+      }
+    }
+  ],
+  "definitions": []
+}

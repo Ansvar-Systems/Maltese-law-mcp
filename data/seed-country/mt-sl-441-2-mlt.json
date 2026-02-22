@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-441-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Mistrieħ ta’ kull Ġimgħa tal-Furnara",
+  "title_en": "Regolamenti dwar il-Mistrieħ ta’ kull Ġimgħa tal-Furnara",
+  "short_name": "eli/sl/441.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/441.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/441.2/mlt, expression eli/sl/441.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "l-1968",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilMistrie] ta’ kull {img]a tal-Furnara.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "l-1968",
+      "content": "G]all-finijiet ta’ dawn ir-regolamenti -\n\n\"furnara\" tikkomprendi d-diri[enti ta’ fran u n-nies kollha li\nja]dmu fix-xog]al tal-]ob\\ inklu\\ ix-xog]ol biex ilestu l-g]a[ina,\niqattg]u u jkebbu l-g]a[ina, i]awru, ja]b\\u u ja]mu l-g]a[ina, sew\njekk ix-xog]ol isir bl-idejn kemm jekk bil-makni, u n-nies li\nja]dmu ta’ furnara g]al dak li hu xog]ol tal-]ob\\;\n\nTitolu.\nTifsir.\nEmendat:\nA.L. 61 ta’ l-1968;\nA.L. 64 ta’ l-1968.\n\n\"[urnata ta’ mistrie]\" tfisser perijodu ta’ erbg]a u g]oxrin sieg]a\nli jg]odd mill-1 a.m. ta’ nhar ta’ }add, tal-{img]a l-Kbira, tatTlieta tal-KarnivaI jew ta’ festa ta’ l-obbligu sa l-4 a.m. tal-[urnata\nta’ wara:\nI\\da meta festa ta’ l-obbligu ta]bat nhar ta’ Sibt jew nhar\nta’ Tnejn, ma tkunx [urnata ta’ mistrie] g]all-fini ta’ dawn irRegolamenti:\nI\\da wkoll meta [urnata ta’ mistrie] tibda nhar ta’ {img]a,\nhija g]andha tispi``a fis-2 a.m. tas-Sibt li ja]bat wara u meta\n[urnata ta’ mistrie] tibda nhar ta’ Tlieta, il-[urnata ta’ mistrie]\nrelattivament g]all-}add li ja]bat minnufih qabel g]andha tispi``a\nfis-2 a.m. tat-Tnejn li ja]bat wara.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-furnara g]andhom jieqfu mix-xog]ol f’kull [urnata ta’\nmistrie].\n\n{urnata ta’\nmistrie] g]all]addiema.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "mistrie] g]all]addiema",
+      "content": "Ikun jista’ jsir ]ami filg]odu f’[urnata ta’ mistrie], u\nmatul dawk il-[ranet il-furnara jistg]u jag]mlu kull xog]ol li jkun\nme]tie[ biex issir il-]mira.\n\nE``ezzjoni.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "E``ezzjoni",
+      "content": "Ming]ajr ]sara tas-setg]at u tad-dmirijiet tal-Pulizija, luffi`jali tax-xog]ol ikollhom id-dmir li jaraw li d-disposizzjonijiet\nta’ dawn ir-regolamenti ji[u m]arsa kif imiss.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Spezzjonijiet",
+      "content": "(1) Dawn ir-regolamenti g]andhom japplikaw biss g]allfurnara li ja]dmu ]ob\\ ta’ tip Malti u ma g]andhomx japplikaw\ng]all-furnara li ja]dmu xi tip ie]or ta’ ]ob\\.\n\nLimitazzjoni u\nestensjoni.\n\n(2) Dawn ir-regolamenti ma g]andhomx japplikaw g]al\nG]awdex.",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 72
+      }
+    }
+  ],
+  "definitions": []
+}

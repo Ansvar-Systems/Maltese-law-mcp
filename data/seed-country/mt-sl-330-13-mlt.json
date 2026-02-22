@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-13-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Markets In Financial Instruments",
+  "title_en": "Regolamenti dwar Markets In Financial Instruments",
+  "short_name": "eli/sl/330.13/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-30",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/330.13/20251003/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.13/mlt, expression eli/sl/330.13/20251003/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MARKETS IN FINANCIAL INSTRUMENTS\n\n[ L.S.330.13\n\nLEĠISLAZZJONI SUSSIDJARJA 330.13\nREGOLAMENTI DWAR MARKETS IN FINANCIAL\nINSTRUMENTS*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 402 tal-2017, kif emendat bl-Avviżi Legali 417 tal2018 u 218 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

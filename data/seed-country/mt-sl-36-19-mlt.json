@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Prevenzjoni tal-Kolera tal-Majjali",
+  "title_en": "Regolamenti dwar il-Prevenzjoni tal-Kolera tal-Majjali",
+  "short_name": "eli/sl/36.19/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.19/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.19/mlt, expression eli/sl/36.19/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 59 ta’ l-1965",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilPrevenzjoni tal-Kolera tal-Majjali.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 59 ta’ l-1965",
+      "content": "F’dawn ir-Regolamenti, kemm-il-darba r-rabta tal-kliem\nma te]tie[x xort’o]ra -\n\nTitolu.\nTifsir.\n\n\"Direttur\" tfisser id-Direttur ta’ l-Agrikoltura u tinkludi kull\nuffi`jal tad-Dipartiment ta’ l-Agrikoltura awtorizzat minnu biex\nja[ixxi f’ismu;\n\"majjali\" tfisser kull numru ta’ majjali u tinkludi majjal wie]ed;\n\"mard\" tfisser kolera tal-majjali;\n\n\"min irabbi majjali\" tfisser persuna li jkollha, tie]u ]sieb jew\ntinnegozja f’majjali.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1)\n\nG]all-prevenzjoni ta’ mard, id-Direttur jista’ -\n\n(a) jordna lil dawk kollha li jrabbu l-majjali jew li\njkollhom ta]t il-kura tag]hom xi majjali ta’ aktar minn\nxahrejn biex ilaqqmu kull majjal kontra l-kolera talmajjali ming]ajr ]las permezz tas-servizz veterinarju\ntal-gvern skond dawk l-arran[amenti li jistg]u jsiru\nmid-Direttur minn \\mien g]al \\mien;\n\n(b) jordna r-re[istrazzjoni ta’ majjali ta’ kull età jew ta’\n`erta età spe`ifikata f’kull lokalità jew lokalitajiet filforma u bil-mod u fi\\-\\mien li jidhrulu xierqa;\n(`) jordna lil kull min irabbi majjali biex jag]tih it-tag]rif\nkollu dwar il-movimenti, inklu\\ bejg] u xiri, talmajjali tal-mer]la tieg]u;\n(d) jipprojbixxi d-d]ul ta’ majjali [odda f’post jew\npostijiet re`entement infetti b’mard;\n\n(e) jid]ol f’]in xieraq f’kull gorbo[ jew post ie]or fejn\nra[jonevolment ja]seb li qed jin\\ammu annimali,\nsabiex (i)\n(ii)\n\njispezzjona il-majjali mi\\muma hemm hekk;\nilaqqam dawk il-majjali li jidhirlu li je]tie[u\ntilqim biex ma j]allix it-tixrid ta’ mard;\n(iii) jimmarka il-majjali b’dak il-mod li jidhirlu\nxieraq g]all-iskop ta’ l-identifikazzjoni tag]hom\nanki wara li jkunu maqtula u mismuta.\n\n(2) Min irabbi l-majjali g]andu jag]ti l-g]ajnuna kollha\nme]tie[a lid-Direttur g]all-qadi tal-funzjonijiet tieg]u skond iddisposizzjonijiet ta’ dawn ir-Regolamenti.\n\nTilqim kontra\nkolera tal-majjali,\nre[istrazzjoni talmajjali, e``.\n\nL.S.36.19]\n\n(3) Dawk li jrabbu il-majjali li jkollhom ta]t il-kura jew\npussess tag]hom majjali ta’ bejn xahrejn u erba’ xhur, g]andhom\njav\\aw lid-Direttur sabiex ji[u mlaqqma.\nPieni.\n\nKap. 36.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 84
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Pieni",
+      "content": "Kull min irabbi l-majjali li f’xi stadju jikser jew jonqos\nmilli j]ares id-disposizzjonijiet ta’ dawn ir-Regolamenti jew ifixkel\njew jostakola lid-Direttur milli jag]mel xi ha[a li jista’ jag]mel\nlegalment skond id-disposizzjonijiet ta’ dawn ir-Regolamenti jkun\n]ati ta’ reat skond it-Taqsima II ta’ l-Ordinanza dwar it-T]aris millMard.",
+      "metadata": {
+        "source_line_start": 85,
+        "source_line_end": 93
+      }
+    }
+  ],
+  "definitions": []
+}

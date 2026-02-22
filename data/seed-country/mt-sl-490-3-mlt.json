@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-490-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar it-Twaqqif ta’ Sezzjoni ta’ Ġurisdizzjoni Ġenerali fit-Tribunal ta’ Reviżjoni Amministrattiva",
+  "title_en": "Ordni dwar it-Twaqqif ta’ Sezzjoni ta’ Ġurisdizzjoni Ġenerali fit-Tribunal ta’ Reviżjoni Amministrattiva",
+  "short_name": "eli/sl/490.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/490.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/490.3/mlt, expression eli/sl/490.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 349 ta’ l-2008",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar it-Twaqqif ta’\nSezzjoni ta’ {urisdizzjoni {enerali fit-Tribunal ta’ Revi\\joni\nAmministrattiva.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) B’dan qed ti[i stabbilita Sezzjoni tat-Tribunal ta’\nRevi\\joni Amministrattiva li g]andha tkun mag]rufa b]ala sSezzjoni ta’ {urisdizzjoni {enerali.\n\nSezzjoni tatTribunal ta’\nRevi\\joni\nAmministrattiva.\n\n(2) Il-kategoriji kollha tal-ka\\ijiet li g]andhom ji[u assenjati\nlit-Tribunal ta’ Revi\\joni Amministrattiva g]andhom g]alissa ji[u\nassenjati lis-Sezzjoni ta’ {urisdizzjoni {enerali ta’ l-imsemmi\nTribunal.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

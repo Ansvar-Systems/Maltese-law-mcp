@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-12-mlt",
+  "type": "statute",
+  "title": "Regoli dwar is-Sinjal tat-Tagħbija Imħassrin bl-Avviż Legali 21 tal-2003",
+  "title_en": "Regoli dwar is-Sinjal tat-Tagħbija Imħassrin bl-Avviż Legali 21 tal-2003",
+  "short_name": "eli/sl/234.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.12/mlt, expression eli/sl/234.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SINJAL TAT-TAG}BIJA\n\n[L.S.234.12\n\n*LE{ISLAZZJONI SUSSIDJARJA 234.12\n\nREGOLI DWAR IS-SINJAL TAT-TAG}BIJA\n\n17 ta’ Di`embru, 1974\n\nL-AVVI| LEGALI 131 ta’ l-1974, kif emendat bl-Avvi\\i Legali 83 ta’ l1979 u 24 ta’ l-1984.\n\n*Im]assar bl-Avvi\\ Legali 21 ta’ l-2003.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

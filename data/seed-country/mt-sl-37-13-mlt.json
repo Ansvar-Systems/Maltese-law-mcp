@@ -1,0 +1,105 @@
+{
+  "id": "mt-sl-37-13-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ordinanza tad-Dwana (Konvenzjoni dwar l-Assistenza Reċiproka u Kooperazzjoni bejn Amministrazzjonijiet Doganali) (Naples II)",
+  "title_en": "Regolamenti dwar l-Ordinanza tad-Dwana (Konvenzjoni dwar l-Assistenza Reċiproka u Kooperazzjoni bejn Amministrazzjonijiet Doganali) (Naples II)",
+  "short_name": "eli/sl/37.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-08-09",
+  "in_force_date": "2010-08-09",
+  "url": "https://legislation.mt/eli/sl/37.13/20100809/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.13/mlt, expression eli/sl/37.13/20100809/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 297 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lOrdinanza tad-Dwana (Konvenzjoni dwar l-Assistenza Re`iproka u\nKooperazzjoni bejn Amministrazzjonijiet Doganali) (Naples II).",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) G]all-finijiet ta’ dawn ir-regolamenti, u kemm-il darba\nr-rabta tal-kliem ma tkunx te]tie[ xort’o]ra -\n\nTifsir.\n\n\"il-Konvenzjoni\" tfisser il-\"Konvenzjoni miktuba abba\\i talArtikolu K.3 tat-Trattat tal-Unjoni Ewropea dwar l-assistenza\nre`iproka u l-kooperazzjoni bejn l-amministrazzjonijiet doganali\"\nmag]mula fi Brussell fit-18 ta’ Di`embru, 1997, mag]rufa wkoll\nb]ala \"Naples II\", iffirmata mill-Gvern ta’ Malta fil-25 ta’ {unju,\n2007;\n\"Riservi\" tfisser ir-Riservi mag]mulin mill-Gvern ta’ Malta\ng]all-Konvenzjoni.\n(2) Kemm-il darba ma ji[ix imfisser xort’o]ra f’dawn irregolamenti, jew kemm-il darba r-rabta tal-kliem ma tkunx titlob\nxort’o]ra, il-kliem u l-fra\\ijiet u\\ati f’dawn ir-regolamenti g]andu\njkollhom l-istess tifsira mog]tija lilhom fil-Konvenzjoni.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Id-dispo\\izzjonijiet tal-Konvenzjoni li jinsabu fl-Ewwel\nSkeda u r-Riservi li jinsabu fit-Tieni Skeda, g]andhom ise]]u\nf’Malta.\n\nL-infurzar talKonvenzjoni u\nRiservi g]aliha.\n\n[ L.S.37.13\n\nL-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN\n(Regolament 3)\nDISPO|IZZJONIJIET {ENERALI\nArtikolu 1\nL-Ambitu",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "il-]asil ta’ flus li [ej mill-ksur imsemmi f’dan il-paragrafu;",
+      "content": "\"assistenza re`iproka\": l-g]oti ta’ assistenza bejn amministrazzjonijiet\ndoganali kif stipulat f’din il-Konvenzjoni;",
+      "metadata": {
+        "source_line_start": 172,
+        "source_line_end": 174
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "doganali kif stipulat f’din il-Konvenzjoni;",
+      "content": "\"l-awtorità applikanti\": l-awtorità kompetenti tal-Istat Membru li tag]mel\ntalba g]al assistenza;",
+      "metadata": {
+        "source_line_start": 175,
+        "source_line_end": 177
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "talba g]al assistenza;",
+      "content": "\"l-awtorità mitluba\": l-awtorità kompetenti tal-Istat Membru li tir`ievi talba\ng]all-assistenza;",
+      "metadata": {
+        "source_line_start": 178,
+        "source_line_end": 180
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "g]all-assistenza;",
+      "content": "\"l-ammnistrazzjonijiet doganali\": l-awtoritajiet doganali tal-Istati Membri\nkif ukoll awtoritajiet o]ra b’[urisdizzjoni g]all-implimentazzjoni taddispo\\izzjonijiet ta’ din il-Konvenzjoni;",
+      "metadata": {
+        "source_line_start": 181,
+        "source_line_end": 183
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "\"l-ammnistrazzjonijiet doganali\": l-awtoritajiet doganali tal-Istati Membri",
+      "content": "\"data personali\": l-informazzjoni kollha li g]andha x’taqsam ma’ persuna\nnaturali identifikata jew li tista’ ti[i identifikata; persuna titqies b]ala li tista’ ti[i\nidentifikata jekk hu jew hi jista’ jkun / tista’ tkun identifikat/a direttament jew\nindirettament, fost l-o]rajn permezz ta’ numru ta’ identifikazzjoni jew ta’ element\nspe`ifiku jew elementi spe`ifi`i li huma karatteristi`i g]all-identità fi\\ika,\nfi\\jolo[ika, psikolo[ika, ekonomika, kulturali jew so`jali tieg]u jew tag]ha;",
+      "metadata": {
+        "source_line_start": 184,
+        "source_line_end": 190
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "fi\\jolo[ika, psikolo[ika, ekonomika, kulturali jew so`jali tieg]u jew tag]ha;",
+      "content": "\"kooperazzjoni transkonfini\": kooperazzjoni bejn l-amministrazzjonijiet\n\n[ L.S.37.13\n\nL-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN\n\ndoganali lil hinn mill-fruntieri ta’ kull Stat Membru.\nArtikolu 5\nUnitajiet ¬entrali ta’ Koordinazzjoni",
+      "metadata": {
+        "source_line_start": 191,
+        "source_line_end": 206
+      }
+    }
+  ],
+  "definitions": []
+}

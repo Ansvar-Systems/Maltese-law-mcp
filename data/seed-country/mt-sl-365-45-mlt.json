@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-365-45-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Immaniġġjar ta’ Skart Radjuattiv Imħassrin bl-Avviż Legali 123 tal-2019",
+  "title_en": "Regolamenti dwar l-Immaniġġjar ta’ Skart Radjuattiv Imħassrin bl-Avviż Legali 123 tal-2019",
+  "short_name": "eli/sl/365.45/mlt",
+  "status": "repealed",
+  "issued_date": "2013-07-19",
+  "in_force_date": "2018-07-03",
+  "url": "https://legislation.mt/eli/sl/365.45/20180703/mlt",
+  "description": "Official text from legislation.mt (eli/sl/365.45/mlt, expression eli/sl/365.45/20180703/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "IMMANIĠĠJAR TA’ SKART RADJUATTIV\n\n[ L.S.365.45\n\nLEĠISLAZZJONI SUSSIDJARJA 365.45\nREGOLAMENTI DWAR L-IMMANIĠĠJAR\nTA’ SKART RADJUATTIV\n23 ta’ Awwissu, 2013*\nL-AVVIŻ LEGALI 186 tal-2013.\n\nImħassrin bl-Avviż Legali 123 tal-2019.\n\n*ara r-regolament 1(2) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

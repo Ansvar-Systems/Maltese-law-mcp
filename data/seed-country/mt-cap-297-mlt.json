@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-297-mlt",
+  "type": "statute",
+  "title": "Att dwar Pjan ta' Żvilupp għal Malta 1981-85 Imħassar bl-Att II tal-2015",
+  "title_en": "Att dwar Pjan ta' Żvilupp għal Malta 1981-85 Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 297(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1981-09-11",
+  "url": "https://legislation.mt/eli/cap/297/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/297/mlt, expression eli/cap/297/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PJAN TA’ ŻVILUPP GĦAL MALTA 1981-85\n\n[ KAP. 297.\n\nKAPITOLU 297\nATT DWAR PJAN TA’ ŻVILUPP GĦAL\nMALTA 1981-85\nBiex jipprovdi għal Pjan ta’ Żvilupp għall-perijodu 1981-85.\n\n11 ta’ Settembru, 1981*\nL-ATT XXXVI tal-1981.\n\nImħassar bl-Att II tal-2015.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 494 tal-11 ta’ Settembru, 1981.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

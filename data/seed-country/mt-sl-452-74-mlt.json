@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-74-mlt",
+  "type": "statute",
+  "title": "Ordni biex jitwaqqaf Kunsill tal-Pagi għas-Settur li jipprovdi Servizzi ta Tindif",
+  "title_en": "Ordni biex jitwaqqaf Kunsill tal-Pagi għas-Settur li jipprovdi Servizzi ta Tindif",
+  "short_name": "eli/sl/452.74/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.74/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.74/mlt, expression eli/sl/452.74/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 87 ta’ l-1999",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni biex jitwaqqaf Kunsill\ntal-Pagi g]as-Settur li jipprovdi Servizzi ta’ Tindif.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tal-Pagi g]as-Settur li jipprovdi Servizzi ta’ Tindif",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi li ja]dem g]allimpjegati kollha li ja]dmu ma’ ditti li jipprovdu servizzi ta’ tindif.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tal-Pagi g]as-Settur li jipprovdi Servizzi ta’ Tindif",
+      "content": "L-Avvi\\ tal-]sieb biex jin]are[ dan l-Ordni [ie pubblikat\nfil-Gazzetta ta’ l-20 ta’ April, 1999.\n\nTitolu.\nSafejn japplika ilKunsill tal-Pagi.\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

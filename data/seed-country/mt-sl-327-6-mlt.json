@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-327-6-mlt",
+  "type": "statute",
+  "title": "Statut għaċ-Centru Ewropew tal-Ġerontoloġija",
+  "title_en": "Statut għaċ-Centru Ewropew tal-Ġerontoloġija",
+  "short_name": "eli/sl/327.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.6/mlt, expression eli/sl/327.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STATUT G}A~-~ENTRU\nEWROPEW TAL-{ERONTOLO{IJA\n\n[ L.S.327.06\n\nLE{ISLAZZJONI SUSSIDJARJA 327.06\nSTATUT G}A~-~ENTRU EWROPEW\nTAL-{ERONTOLO{IJA\n30 ta’ Ottubru, 2009\nL-AVVI| LEGALI 315 tal-2009, kif emendat bl-Avvi\\ Legali 197 tal2012.\n\nRevokat bl-Avvi\\ Legali 397 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

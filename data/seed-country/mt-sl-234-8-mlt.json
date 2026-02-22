@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-8-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Merkanzija Perikoluża Imħassrin bl-Avviż Legali 22 tal-2003",
+  "title_en": "Regoli dwar Merkanzija Perikoluża Imħassrin bl-Avviż Legali 22 tal-2003",
+  "short_name": "eli/sl/234.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.8/mlt, expression eli/sl/234.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERKANZIJA PERIKOLU|A\n\n[L.S.234.08\n\n*LE{ISLAZZJONI SUSSIDJARJA 234.08\n\nREGOLI DWAR MERKANZIJA PERIKOLU|A\n\n13 ta’ Awissu, 1974\n\nL-AVVI| LEGALI 90 ta’ l-1974.\n\n*Im]assar bl-Avvi\\ Legali 22 ta’ l-2003.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

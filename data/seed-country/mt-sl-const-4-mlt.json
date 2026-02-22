@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-const-4-mlt",
+  "type": "statute",
+  "title": "Regoli dwar l-Elezzjoni tal-Membri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja",
+  "title_en": "Regoli dwar l-Elezzjoni tal-Membri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja",
+  "short_name": "eli/sl/const.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/const.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/const.4/mlt, expression eli/sl/const.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 52 tal-1994, kif emendat bl-Avviż Legali 330 tal-2017",
+      "content": "It-titolu ta’ dawn ir-Regoli hu Regoli dwar l-Elezzjoni talMembri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Meta l-President ta’ Malta jagħmel is-sejħa għallelezzjonijiet kif hemm maħsub fil-paragrafu (ċ) tas-subartikolu (5)\ntal-artikolu 101A tal-Kostituzzjoni ta’ Malta, il-Prim Imħallef\ngħandu fiż-żmien utili hemm imsemmi, isejjaħ il-laqgħat neċessarji\ntal-im ħallfin u tal-maġ istrati, sabiex, separatament, isiru lelezzjonijiet meħtieġa.\n\nIl-Prim Imħallef\nisejjaħ il-laqgħat\ntal-imħallfin u\nmaġistrati.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-elezzjoni ta’ żewġ imħallfin tal-Qrati Superjuri għandha\ntitmexxa kif ġej:\n\nElezzjoni millImħallfin tal-Qrati\nSuperjuri.\nSostitwit:\nA.L. 330 tal-2017.\n\n(a) il-Prim Imħallef u kull Imħallef ikollhom vot kull\nwieħed;\n(b) il-Prim Imħallef u kull Imħallef jistgħu jivvutaw biss\ngħal kandidat wieħed;\n(ċ) iż-żewġ kandidati li jġibu l-ogħla għadd ta’ voti\ng ħa n dh om , d imen t li k ull wi eħ e d min nh o m ik u n\nirċieva mill-inqas terz u wieħed tal-voti validi kollha\nmitfugħa, ikunu dikjarati eletti membri talKummissjoni. Jekk wieħed biss mill-imsemmija żewġ\nk a n d i d a ti j ku n ġ a b t er z u w ieħ e d tal - v o ti v a l id i\nmitfugħa ikun dak il-kandidat biss li jiġi dikjarat elett;\n(d) fil-każ li s-sehem ta’ terz u wieħed tal-voti validi\nmitfugħa ma jkunx intleħaq miż-żewġ kandidati li jkunu\nġabu l-ogħla numru ta’ voti jew minn xi wieħed minnhom\nl-elezzjoni dwar kull vakanza mhux mimlija fuq ilKummissjoni ssir mill-ġdid bejn il-kandidati kollha li ma\njkunux ġew eletti u l-ħtieġa li jinġieb mill-inqas terz u\nwieħed tal-voti validi mitfugħa ma tkunx tapplika dwar\ndik l-elezzjoni..",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "dik l-elezzjoni.",
+      "content": "Jekk sa mill-bidu jiġu nominati żewġ kandidati biss, dawn\ngħandhom jitqiesu li ġew eletti membri tal-Kummissjoni.\n\nMeta jiġu nominati\nżewġ kandidati\nbiss.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "biss",
+      "content": "Il-laqgħa u l-elezzjoni jitmexxew mill-Prim Imllallef u lgħadd tal-voti jsir minnu, assistit minn wieħed mill-imħallfin, fillaqgħa u fil-preżenza tal-Imħallfin.\n\nIl-Prim Imħallef\nimexxi l-laqgħa u\nl-elezzjoni.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "l-elezzjoni",
+      "content": "L-istess regoli hawn fuq imsemmija għandhom japplikaw,\nmutatis mutandis, għall-elezzjoni taż-żewġ maġistrati, b’dan, illi,\nf ’ d i n il -l aq g ħ a, i l- Pr im I m ħ al l ef, l i j ip p res e d i u j m ex x i lvotazzjoni, ma jkollux id-dritt tal-vot.\n\nElezzjoni millmaġistrati tal-qrati\ninferjuri.",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-254-15-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Trasferiment ta’ Proprjetà lil Maltapost plc",
+  "title_en": "Ordni dwar Trasferiment ta’ Proprjetà lil Maltapost plc",
+  "short_name": "eli/sl/254.15/mlt",
+  "status": "in_force",
+  "issued_date": "2011-02-25",
+  "in_force_date": "2011-02-25",
+  "url": "https://legislation.mt/eli/sl/254.15/20110225/mlt",
+  "description": "Official text from legislation.mt (eli/sl/254.15/mlt, expression eli/sl/254.15/20110225/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 53 tal-2011",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Trasferiment ta’\nProprjetà lil Maltapost plc.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Proprjetà lil Maltapost plc",
+      "content": "F’dan l-Ordni:\n\n\"l-Att\" tfisser l-Att dwar Servizzi Postali;\n\nTitolu.\nTifsir.\nKap. 254.\n\n\"il-kumpannija\" tfisser Maltapost plc;\n\"il-Kummissarju\" tfisser il-Kummissarju tal-Art;\n\"Maltapost plc\" tfisser il-kumpannija pubblika b’responsabbiltà\nlimitata reāistrata kif hemm fl-Att dwar il- Kumpanniji, u li\ngħandha liëenza taħt l-artikolu 8(1) tal-Att biex tipprovdi servizzi\npostali f’Malta.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-fond li jikkonsisti fil-bini u l-art li hemm fis-sit 305,\nTriq Ħal Qormi, il-Marsa, li huma proprjetà tal-Gvern u li bħalissa\nqed jintuŜaw minn Maltapost plc, immarkati bħala Sit A fuq ilPjanta fl-Iskeda, għandu jiāi trasferit b’titolu ta’ bejgħ millKummissarju lill-kumpannija taħt kuntratt ta’ bejgħ li jsir bejn ilKummissarju u l-kumpannija.\n\nKap. 386.\n\nTrasferiment ta’\nfond lil Maltapost\nplc.\n\n[ L.S.254.15\n\nTRASFERIMENT TA’ PROPRJETÀ LIL MALTAPOST P.L.C.\n(Artikolu 3)",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

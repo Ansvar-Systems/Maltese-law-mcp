@@ -1,0 +1,95 @@
+{
+  "id": "mt-sl-506-1-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għ\u0003all-Ħ\u0001ruġ\u0004 ta’ Euro 52,000,000 Stock tal-Gvern ta’ Malta",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għ\u0003all-Ħ\u0001ruġ\u0004 ta’ Euro 52,000,000 Stock tal-Gvern ta’ Malta",
+  "short_name": "eli/sl/506.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-13",
+  "in_force_date": "2011-08-13",
+  "url": "https://legislation.mt/eli/sl/506.1/20110813/mlt",
+  "description": "Official text from legislation.mt (eli/sl/506.1/mlt, expression eli/sl/506.1/20110813/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 161 tal-2011",
+      "content": "It-titolu ta’ din id-direttiva hu Direttiva mill-Ministru talFinanzi, l-Ekonomija u Investiment għall-Ħruġ ta’ Euro 52,000,000\nStock tal-Gvern ta’ Malta.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Citation",
+      "content": "Għandu jinħareġ ammont ta’ Euro 52,000,000 fi Stock talGvern ta’ Malta 2013 (VII) b’Rata ta’ Mgħax li Tvarja marbuta\nmal-Euribor tas-sitt xhur.\n\nĦruġ ta’ Stock.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Citation",
+      "content": "Il-ħruġ ta’ Stock ser isir kif stipulat fil-prospett.\n\nMod tal-Ħruġ ta’\nStock.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stock",
+      "content": "Kull persuna u, jew enti jistgħu japplikaw għal dan liStock. It-tqassim tal-iStock isir kif hemm spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Stock",
+      "content": "Taħt id-dispożizzjonijiet tal-Att dwar is-Swieq Finanzjarji,\nmeta dan l-iStock jiġi allokat, għandha ssir applikazzjoni sabiex liStock jitqiegħed fuq il-lista uffiċjali u biex ikun negozjat fil-Borża\nta’ Malta.\n\nNegozju fil-Borża\nta’ Malta.\nKap. 345.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "Is-somma ta’ flus li għandha tinġabar bl-iStock imsemmi\ntkun ta’ Euro 52,000,000.\n\nSomma ta’ flus li\ngħandha tinġabar.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Stock",
+      "content": "L-imgħax jitħallas bir-rata ta’ mgħax li tvarja kull sitt xhur\nmarbuta mal-Euribor tas-sitt xhur fis-seħħ fid-data meta tiġi\nmħabbra flimkien ma’ spread fissa ta’ 45bps u maħduma fuq Day\nCount Fraction (Actual/360) għal kull Euro 100. Tali spread ta’ 45\nbasis points (bps) hija fissa u applikabbli għal tul il-ħajja tal-iStock.\nL-imgħax jitħallas kull sitt xhur b’lura fit-18 ta’ Mejju u fit-18 ta’\nNovembru ta’ kull sena sakemm idum l-iStock. L-ewwel ħlas\ngħall-perjodu bejn it-18 ta’ Mejju, 2011 u s-17 ta’ Novembru, 2011\n(iż-żewg dati inklużi) isir fit-18 ta’ Novembru, 2011.\n\nRata ta’ mgħax u\ndati tal-ħlas.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "dati tal-ħlas",
+      "content": "L-iStock tal-Gvern ta’ Malta 2013 (VI) b’Rata ta’ Mgħax li\nTvarja marbuta mal-Euribor tas-sitt xhur jiġi mifdi b’parità fit-18\nta’ Mejju, 2013.\n\nFidwa ta’ Stock.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

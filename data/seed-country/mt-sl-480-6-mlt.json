@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-480-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Permessi (Protezzjoni lil Dinjitarji Barranin)",
+  "title_en": "Regolamenti dwar Permessi (Protezzjoni lil Dinjitarji Barranin)",
+  "short_name": "eli/sl/480.6/mlt",
+  "status": "in_force",
+  "issued_date": "2015-11-13",
+  "in_force_date": "2015-11-13",
+  "url": "https://legislation.mt/eli/sl/480.6/20151113/mlt",
+  "description": "Official text from legislation.mt (eli/sl/480.6/mlt, expression eli/sl/480.6/20151113/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 361 tal-2015",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti dwar\nPermessi (Protezzjoni lil Dinjitarji Barranin).",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Permessi (Protezzjoni lil Dinjitarji Barranin)",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta ta’ kliem ma\nteħtieġx xort’oħra:\n\"Att\" tfisser l-Att dwar l-Armi;\n\nCitation.\nTifsir.\nKap. 480.\n\n\"armi tan-nar\" tfisser l-armi tan-nar imniżżla taħt il-partiti 1 u 3\ntat-Taqsima I tal-Iskeda II li tinsab mal-Att;\n\"dinjitarju barrani\" tfisser kull persuna preżenti f’Malta u li hija\ndinjitarju jew uffiċjal għoli ta’ xi Stat ieħor li mhux Malta jew ta’\nxi organizzazzjoni internazzjonali rikonoxxuta mil-Ministru għallAffarijiet Barranin;\n\"Kummissarju\" tfisser il-Kummissarju tal-Pulizija;\n\"munizzjon\" tfisser il-munizzjon imniżżel taħt il-partita 10 tatTaqasima I tal-Iskeda II li tinsab mal-Att;\n\"uffiċjali tas-sigurtà\" tfisser uffiċjali impjegati minn Gvern\nbarrani jew minn organizzazzjoni internazzjonali li l-kompetenza\ntagħhom sabiex jaġixxu bħala tali tkun ġiet ċertifikata minn\nawtorità barra minn Malta, li huma awtorizzati sabiex iġorru armi\ntan-nar waqt il-qadi ta’ dmirijiethom barra minn Malta u li jkunu\nġew uffiċjalment fdati bir-responsabbiltà li jipprovdu servizz ta’\nprotezzjoni lil dinjitarji barranin li jkunu qed iżuru Malta.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Il-Kummissarju jista’ f’ċirkustanzi speċjali joħroġ\npermess skont dawn ir-regolamenti għall-importazzjoni u l-ġarr ta’\narmi tan-nar u munizzjon, għall-fini ta’ protezzjoni tal-ħajja u ssigurtà ta’ dinjitarju barrani, għall-uffiċjali ta’ sigurtà li jkunu qed\njakkumpanjaw id-dinjitari barrani li jkunu qed iżuru Malta.\n\nPermessi.\n\n(2) Talba għal permess taħt dawn ir-regolamenti għandha tiġi\nriċevuta l-Ministeru għall-Affarijiet Barranin u mgħoddija għallipproċessar mill-Kummissarju.\n(3) L-imsemmi permess jista’ joħroġ biss lil uffiċjali tassigurtà kif imfisser fir-regolament 2.\n(4) Fil-ħruġ ta’ permess taħt dawn ir-regolamenti, ilKummissarju jista’ jipprovdi għal dawk il-kundizzjonijiet,\nproċeduri jew restrizzjonijiet li hu jħoss li huma xierqa.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Permessi",
+      "content": "Permess maħruġ taħt dawn ir-regolamenti m’għandu ikun\nsoġġett għal ebda miżata u għandu jkun għal perjodu speċifiku.\n\nIl-permess mhux\nsoġġett għal\nmiżata.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

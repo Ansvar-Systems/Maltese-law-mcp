@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-12-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Żona Fort Cambridge Tigne bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Żona Fort Cambridge Tigne bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.12/mlt, expression eli/sl/246.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 159 ta’ l-2007",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar |ona Fort\nCambridge, Tignè b]ala |ona Spe`jali Msemmija.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "I\\-|ona Fort Cambridge, Tignè li tikkonsisti fi proprjetà\nimmobbli sitwata fi\\-\\ona delineata bl-a]mar fil-Pjanta tarR e [ is t ru ta’ l- Ar ti j ie t a nn e s s a ma ’ da n l- Or d ni , h ij a b ’ dan\nimsemmija b]ala |ona Spe`jali Msemmija g]all-finijiet ta’ l-Att\nd w a r l - A k k w i s t t a ’ P r o pr je t I m m o b b l i m i n n P e r s u n i M hu x\nResidenti.\n\nTismija ta’ |ona\nSpe`jali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Residenti",
+      "content": "I\\-|ona Fort Cambridge, Tignè g]andha ti\\died mal-Lista\nta’ |oni Skedati fl-Ewwel Skeda li tinsab ma’ l-Att dwar l-Akkwist\nta’ Proprjetà Immobbli minn Persuni Mhux Residenti.\n\n|ieda ma’ l-Ewwel\nSkeda li tinsab ma’\nl-Att.\nKap. 246.\n\nKap. 246.\n\nL.S.246.12]\n\n|ONA FORT CAMBRIDGE, TIGNÈ\nB}ALA |ONA SPE~JALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

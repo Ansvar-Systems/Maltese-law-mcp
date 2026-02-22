@@ -17,6 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
+const SEED_COUNTRY_DIR = path.resolve(__dirname, '../data/seed-country');
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
 // Seed file types
@@ -247,6 +248,30 @@ function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
   return Array.from(byRef.values());
 }
 
+function listJsonFilesRecursive(dir: string): string[] {
+  if (!fs.existsSync(dir)) return [];
+
+  const files: string[] = [];
+  const stack = [dir];
+
+  while (stack.length > 0) {
+    const current = stack.pop()!;
+    const entries = fs.readdirSync(current, { withFileTypes: true });
+    for (const entry of entries) {
+      const fullPath = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        stack.push(fullPath);
+        continue;
+      }
+      if (entry.isFile() && entry.name.endsWith('.json') && !entry.name.startsWith('.') && !entry.name.startsWith('_')) {
+        files.push(fullPath);
+      }
+    }
+  }
+
+  return files.sort((a, b) => a.localeCompare(b));
+}
+
 function extractEuReferences(text: string): ExtractedEUReference[] {
   if (!text || text.trim().length === 0) return [];
 
@@ -348,14 +373,16 @@ function buildDatabase(): void {
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
-  if (!fs.existsSync(SEED_DIR)) {
-    console.log(`No seed directory at ${SEED_DIR} — creating empty database.`);
+  if (!fs.existsSync(SEED_DIR) && !fs.existsSync(SEED_COUNTRY_DIR)) {
+    console.log(`No seed directories at ${SEED_DIR} or ${SEED_COUNTRY_DIR} — creating empty database.`);
     db.close();
     return;
   }
 
-  const seedFiles = fs.readdirSync(SEED_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_'));
+  const seedFiles = [
+    ...listJsonFilesRecursive(SEED_DIR),
+    ...listJsonFilesRecursive(SEED_COUNTRY_DIR),
+  ];
 
   if (seedFiles.length === 0) {
     console.log('No seed files found. Database created with empty schema.');
@@ -371,8 +398,7 @@ function buildDatabase(): void {
   const primaryImplementationByDocument = new Set<string>();
 
   const loadAll = db.transaction(() => {
-    for (const file of seedFiles) {
-      const filePath = path.join(SEED_DIR, file);
+    for (const filePath of seedFiles) {
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
 
@@ -449,7 +475,7 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'EE');
+    insertMeta.run('jurisdiction', 'MT');
     insertMeta.run('source', 'official-source');
     insertMeta.run('licence', 'See sources.yml');
   });

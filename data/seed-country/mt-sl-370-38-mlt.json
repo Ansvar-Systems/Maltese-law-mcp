@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-38-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Algorithmic Trading",
+  "title_en": "Regolamenti Dwar Algorithmic Trading",
+  "short_name": "eli/sl/370.38/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/370.38/20251003/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.38/mlt, expression eli/sl/370.38/20251003/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.370.38\n\nALGORITHMIC TRADING\n\nLEĠISLAZZJONI SUSSIDJARJA 370.38\nREGOLAMENTI DWAR\nALGORITHMIC TRADING*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 395 tal-2017, kif emendat bl-Avviżi Legali 250 tal2024 u 212 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

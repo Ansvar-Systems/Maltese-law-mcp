@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-33-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (UCITS Administrative Penalties, Measures and Investigatory Powers)",
+  "title_en": "Regolamenti dwar Investment Services Act (UCITS Administrative Penalties, Measures and Investigatory Powers)",
+  "short_name": "eli/sl/370.33/mlt",
+  "status": "in_force",
+  "issued_date": "2016-06-01",
+  "in_force_date": "2016-06-01",
+  "url": "https://legislation.mt/eli/sl/370.33/20160601/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.33/mlt, expression eli/sl/370.33/20160601/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (UCITS ADMINISTRATIVE\nPENALTIES, MEASURES AND INVESTIGATORY POWERS)\n\n[ L.S.370.33\n\nLEĠISLAZZJONI SUSSIDJARJA 370.33\nREGOLAMENTI DWAR UCITS ADMINISTRATIVE\nPENALTIES, MEASURES AND INVESTIGATORY\nPOWERS (INVESTMENT SERVICES ACT)*\n5 ta’ April, 2016\nL-AVVIŻ LEGALI 115 tal-2016, kif emendat bl-Avviż Legali 222 tal2016.\n\n*Dawn ir regolamenti ġre ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

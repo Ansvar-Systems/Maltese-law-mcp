@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-206-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Użu ta Laned taż-Żibel Standard",
+  "title_en": "Ordni dwar l-Użu ta Laned taż-Żibel Standard",
+  "short_name": "eli/sl/206.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/206.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/206.1/mlt, expression eli/sl/206.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 41 ta’ l-1974, kif emendat bl-Avvi\\ Legali 96 ta’ l1975",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-U\\u ta’ Laned ta\\|ibel Standard.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-U\\u ta’ Laned ta\\|ibel Standard",
+      "content": "Ebda persuna ma tista’, f’xi belt jew ra]al f’Malta jew\nG]awdex, tqieg]ed jew tiddepo\\ita g]all-[bir, jew t]alli li hekk\njitqieg]ed jew ji[i depo\\itat, xi \\ibel jekk mhux f’landa ta\\-\\ibel li\ntkun skond id-disposizzjoni li [ejja ta’ dan l-Ordni.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tkun skond id-disposizzjoni li [ejja ta’ dan l-Ordni",
+      "content": "Il-landa ta\\-\\ibel li g]andha tintu\\a g]all-finijiet ta’ lartikolu 2 g]andha tkun (a) mag]mula minn materjal o]xon u li minnu ma\njg]addix ilma;\n\n(b) provduta b’g]atu ta’ l-istess materjal li jkun jg]atti\ng]al kollox i\\-\\ibel li jkun hemm fiha, u mqieg]ed\nb’mod li ma jo]ro[x minn postu b’irji] qawwija;\n(`) provduta b’mezz xieraq biex tkun mani[atta b’mod\nfa`li;\n(d) ta’ kapa`ità ta’ mhux i\\jed minn ]amsin litru; u\n\n(e) mi\\muma nadifa bi\\\\ejjed u fi stat tajjeb ta’ tiswija.\n\nTitolu.\nU\\u ta’ laned ta\\\\ibel.\nSostitwit:\nA.L. 96 ta’ l-1975.\nMaterjal, daqs, e``.\nta’ landa ta\\-\\ibel.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

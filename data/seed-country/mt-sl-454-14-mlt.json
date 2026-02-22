@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-454-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kwantità Netta ta’ Oġġetti tal-Ikel Ippakkjati minn qabel",
+  "title_en": "Regolamenti dwar Kwantità Netta ta’ Oġġetti tal-Ikel Ippakkjati minn qabel",
+  "short_name": "eli/sl/454.14/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-31",
+  "in_force_date": "2011-08-31",
+  "url": "https://legislation.mt/eli/sl/454.14/20110831/mlt",
+  "description": "Official text from legislation.mt (eli/sl/454.14/mlt, expression eli/sl/454.14/20110831/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 255 tal-2003",
+      "content": "1. It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nKwantità Netta ta’ Oāāetti tal-Ikel Ippakkjati minn qabel.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1. Dawn ir-regolamenti għandhom japplikaw għal oāāetti talikel ippakkjati minn qabel kif definiti bi-rregolament 3.1(b) tarRegolamenti dwar Twaħħil ta’ Tikketti, PreŜentazzjoni u Riklamar\nta’ Oāāetti tal-Ikel.\n\nApplikabilità.\nL.S. 449.06",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "1. Il-kwantità netta ta’ oāāetti tal-ikel ippakkjati minn qabel\ngħandha tkun espressa:\n-\n\nf’unitajiet ta’ volum fil-kaŜ ta’ likwidi,\n\n-\n\nf’unitajiet ta’ massa fil-kaŜ ta’ prodotti oħra,\n\nbilli jintuŜaw il-litri, ëentilitri, millilitri, kilogrammi jew grammi,\nskont ma jkun adatt.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

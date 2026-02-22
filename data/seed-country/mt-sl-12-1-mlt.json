@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-12-1-mlt",
+  "type": "statute",
+  "title": "Regoli tal-Qorti dwar Bejgħ fl-Irkant tal-Qorti",
+  "title_en": "Regoli tal-Qorti dwar Bejgħ fl-Irkant tal-Qorti",
+  "short_name": "eli/sl/12.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/12.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.1/mlt, expression eli/sl/12.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 108 ta’ l-1884",
+      "content": "It-titolu ta’ dawn ir-Regoli hu Regoli tal-Qorti dwar Bejg]\nfl-Irkant tal-Qorti.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "fl-Irkant tal-Qorti",
+      "content": "Kull meta, fil-ka\\ ta’ bejg] fl-irkant, il-qorti ma te\\entax\nespressament mill-pubblikazzjoni, f’gazzetti, ta’ l-avvi\\i\nmsemmijin fl-artikoli 312, 313 u 314 tal-Kodi`i ta’ Organizzazzjoni u Pro`edura ~ivili, jew, meta tordna dik il-pubblikazzjoni,\nma ssemmix il-gazzetta li bil-mezz tag]ha g]andha ssir, irRe[istratur g]andu j[ib l-avvi\\ fil-Gazzetta tal-Gvern biss, sew\njekk l-avvi\\ ikun iffirmat minnu, kemm, fil-ka\\ imsemmi flartikolu 348, minn irkantatur.\n\nTitolu.\nPubblikazzjoni ta’\navvi\\ fil-Gazzetta\ntal-Gvern.\nKap. 12.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

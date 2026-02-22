@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-35-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Local Central Counterparties",
+  "title_en": "Regolamenti Dwar Local Central Counterparties",
+  "short_name": "eli/sl/370.35/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislation.mt/eli/sl/370.35/20180105/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.35/mlt, expression eli/sl/370.35/20180105/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CENTRAL COUNTERPARTIES ACCESS\n\n[ L.S.370.35\n\nLEĠISLAZZJONI SUSSIDJARJA 370.35\nREGOLAMENTI DWAR CENTRAL\nCOUNTERPARTIES ACCESS*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 387 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

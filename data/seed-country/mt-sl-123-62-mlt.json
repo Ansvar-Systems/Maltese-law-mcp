@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-62-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Nfiq qabel jibda n-Negozju",
+  "title_en": "Regolamenti dwar Nfiq qabel jibda n-Negozju",
+  "short_name": "eli/sl/123.62/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.62/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.62/mlt, expression eli/sl/123.62/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 88 ta’ l-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar Nfiq\nqabel jibda n-Negozju.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "qabel jibda n-Negozju",
+      "content": "Il-kategoriji ta’ nfiq li [ejjin huma preskritti g]all-finijiet\ntad-disposizzjonijiet ta’ l-artikolu 14(3) ta’ l-Att dwar it-Taxxa fuq\nl-Income:\n(a) ta]ri[ ta’ staff\n\n(b) salarji u, jew pagi\n(`) reklamar.\n\nTitolu.\nKategoriji\npreskritti ta’ nfiq.\nKap. 123.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

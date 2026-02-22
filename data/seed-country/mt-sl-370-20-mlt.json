@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-20-mlt",
+  "type": "statute",
+  "title": "Investment Services Act (UCITS Management Company Passport) Regulations",
+  "title_en": "Investment Services Act (UCITS Management Company Passport) Regulations",
+  "short_name": "eli/sl/370.20/mlt",
+  "status": "in_force",
+  "issued_date": "2011-07-13",
+  "in_force_date": "2011-07-01",
+  "url": "https://legislation.mt/eli/sl/370.20/20230704/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.20/mlt, expression eli/sl/370.20/20230704/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT\n(UCITS MANAGEMENT COMPANY PASSPORT)\n\n[ L.S. 370.20\n\nLEĠISLAZZJONI SUSSIDJARJA 370.20\nINVESTMENT SERVICES ACT\n(UCITS MANAGEMENT COMPANY PASSPORT)\nREGULATIONS*\n1 ta’ Lulju, 2011\nL-AVVIŻ LEGALI 243 tal-2011, kif emendat bl-Avviżi Legali 335 tal2012, 116 tal-2016, 242 tal-2019, 333 tal-2021 u 146 tal-2023.\n\n*Dawn ir-regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

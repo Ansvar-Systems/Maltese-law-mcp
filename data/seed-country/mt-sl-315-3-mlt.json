@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-315-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tipjip tat-Tabakk fir-Reġistri tal-Qrati",
+  "title_en": "Regolamenti dwar it-Tipjip tat-Tabakk fir-Reġistri tal-Qrati",
+  "short_name": "eli/sl/315.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/315.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/315.3/mlt, expression eli/sl/315.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 325 ta’ l-2002, kif emendat bl-Avvi\\ Legali 424 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar itTipjip tat-Tabakk fir-Re[istri tal-Qrati.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 12
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 325 ta’ l-2002, kif emendat bl-Avvi\\ Legali 424 ta’ l2007",
+      "content": "F’dawn ir-regolamenti -\n\nTitolu.\nTifsir.\n\n''prodott tat-tabakk'' tfisser prodott li jkun manifatturat, ukoll\nf’parti minnu, minn tabakk, u li jkun ma]sub li jintu\\a g]at-tipjip,\ni\\da la tinkludi tabakk li ma jitpejjipx li jkun ma]sub li jintu\\a billi\njintg]omod, u li jinkludi tabakk tat-tag]mid niexef li jittie]ed millimnie]er jew mill-]alq, u lanqas ebda medi`ina li tinbieg] jew ti[i\nprovduta kollha kemm hi jew prin`ipalment biex tintu\\a b]ala\ng]ajnuna biex persuna tirrinunzja g]at-tipjip.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "}add ma g]andu f'ebda waqt ipejjep xi prodott tat-tabakk\nfil-limiti tar-re[istri tal-Qrati Superjuri, kemm ~ivili kemm\nKriminali, u tal-Qrati Inferjuri f ’Malta, u tal-Qorti tal-Ma[istrati\n(G]awdex).\n\nProjbizzjoni ta’\ntipjip tat-tabakk\nfir-Re[istri talQrati.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull min jikser id-disposizzjonijiet ta’ dawn ir-regolamenti\njkun ]ati ta’ reat u jista’, meta jinsab ]ati, je]el multa ta’ mhux\ninqas minn ]dax-il euro u ]amsa u sittin `ente\\mu (11.65) u mhux\ni\\jed minn mija u sittax- il euro u sebg]a u erbg]in `ente\\mu\n(116.47).\n\nReati u pieni.\nEmendat:\nA.L. 424 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

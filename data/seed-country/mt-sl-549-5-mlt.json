@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-549-5-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Kontenituri għal Xorb mhux Alkoholiku",
+  "title_en": "Avviż dwar Kontenituri għal Xorb mhux Alkoholiku",
+  "short_name": "eli/sl/549.5/mlt",
+  "status": "repealed",
+  "issued_date": "2010-12-20",
+  "in_force_date": "2010-12-20",
+  "url": "https://legislation.mt/eli/sl/549.5/20101220/mlt",
+  "description": "Official text from legislation.mt (eli/sl/549.5/mlt, expression eli/sl/549.5/20101220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 103 tal-1994, kif emendat bl-Avvi\\ Legali 138 tal1994",
+      "content": "It-titolu ta’ dan l-Avvi\\ huwa Avvi\\ dwar Kontenituri g]al\nXorb mhux Alkoholiku.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Il-Ministru g]all-Ambjent b’dan qieg]ed jindika li lkompo\\izzjoni ta’ kontenituri g]al xorb mhux alkoholiku, li ma\njkunux kontenituri tal-][ie[ li jistg]u jer[g]u jimtlew, hija ta’\n]sara g]all-ambjent.\n\nKontenituri g]al\nxorb mhux\nalkoholiku.\nEmendat:\nA.L. 138 tal-1994.\n\n(2)\n\nG]all-finijiet ta’ dan l-Avvi\\ -\n\n\"kontenituri tal-][ie[ li jista’ jimtela\" tfisser kull kontenitur\nmag]mul mill-][ie[ li hu ma]sub li jer[a’ jintu\\a billi jer[a’\njimtela wara li jkun [ie u\\at; u\n\"xorb mhux-alkoholiku\" tfisser kull likwidu jew xorb li, sew jekk\nma ji[ix dilwit jew wara li ji[i dilwit, ikun ma]sub li jinbieg] b]ala\nxorb rifreskanti, u li ma jkunx fih iktar minn tnejn fil-mija b]ala\nkontenut ta’ alkohol; dak il-likwidu jew xorb ma g]andux ikun fih\nxi essenza jew [ulepp ma]sub g]all-produzzjoni industrijali ta’ soft\ndrinks [ewwa kontenituri tal-][ie[ li jistg]u jer[g]u jimtlew minn\npersuni li jkollhom li`enza biex jibbottiljaw soft drinks, jew xi ilma\ntax-xorb, ilma [ej minn spa, electrolyte replacement drinks, ]alib,\nte, kaffè, kokotina, meraq, nektar tal-frott, squashes jew likwidu\njew kull xorb ie]or b]al dawk li jista’ ji[i stabbilit.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

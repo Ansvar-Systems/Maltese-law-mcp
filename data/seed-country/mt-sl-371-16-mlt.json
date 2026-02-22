@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-371-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Banking Act (Supervisory Review)",
+  "title_en": "Regolamenti dwar Banking Act (Supervisory Review)",
+  "short_name": "eli/sl/371.16/mlt",
+  "status": "in_force",
+  "issued_date": "2015-04-29",
+  "in_force_date": "2015-04-10",
+  "url": "https://legislation.mt/eli/sl/371.16/20250117/mlt",
+  "description": "Official text from legislation.mt (eli/sl/371.16/mlt, expression eli/sl/371.16/20250117/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BANKING ACT (SUPERVISORY REVIEW)\n\n[L.S.371.16\n\nLEĠISLAZZJONI SUSSIDJARJA 371.16\nREGOLAMENTI DWAR BANKING ACT\n(SUPERVISORY REVIEW)*\n10 ta’ April, 2015\nL-AVVIŻ LEGALI 127 tal-2015, kif emendat bl-Avviżi Legali 76 tal2019, 493 tal-2021 u 253 tal-2024.\n\n*Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

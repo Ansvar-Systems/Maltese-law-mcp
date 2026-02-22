@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-33-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi ta' l-Aġenziji ta' l-Ivvjaġġar u Assikurazzjoni",
+  "title_en": "Ordni għal Kunsill tal-Pagi ta' l-Aġenziji ta' l-Ivvjaġġar u Assikurazzjoni",
+  "short_name": "eli/sl/452.33/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.33/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.33/mlt, expression eli/sl/452.33/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 19 ta’ l-1968",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi ta’ lA[enziji ta’ l-Ivvja[[ar u l-Assikurazzjoni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi ta’ l-A[enziji ta’ lIvvja[[ar u l-Assikurazzjoni g]all-impjegati kollha f’kull impri\\a\njew parti minn impri\\a, li l-attivitajiet tag]ha jikkonsistu g]al\nkollox jew prin`ipalment fil-provvediment ta’ servizzi dwar:\nvja[[ar (inklu\\a merkanzija bil-ba]ar jew bl-ajru), jew\nassikurazzjoni jew estate agency u g]al g]assiesa, telephone\noperators u persuni o]ra impjegati minn a[enti tal-vapuri, a[enti\nta’ l-ivvja[[ar, jew kuntratturi abbord ta’ vapuri waqt li jkunu flib]ra territorjali ta’ Malta.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "Dan il-Kunsill tal-Pagi ma japplikax g]al impjegati li lkondizzjonijiet tax-xog]ol tag]hom huma regolati b’tariffa\nmag]mula bil-li[i jew skond il-li[i jew g]all-impjegati li jkunu filqasam fejn japplika xi Kunsill tal-Pagi ie]or.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Riserva",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntal-31 ta’ Ottubru, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

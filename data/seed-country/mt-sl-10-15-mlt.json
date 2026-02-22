@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Protezzjoni tal-GħasafarImħassrin bl-Avviż Legali 68 tal-1980",
+  "title_en": "Regolamenti dwar il-Protezzjoni tal-GħasafarImħassrin bl-Avviż Legali 68 tal-1980",
+  "short_name": "eli/sl/10.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.15/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.15/mlt, expression eli/sl/10.15/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PROTEZZJONI TAL-G}ASAFAR\n\n[L.S.10.15\n\nLE{ISLAZZJONI SUSSIDJARJA 10.15\nREGOLAMENTI DWAR IL-PROTEZZJONI\nTAL-G}ASAFAR\n5 ta’ Jannar, 1937\nIN-NOTIFIKAZZJONI TAL-GVERN 7 tal-1937, kif emendata binNotifikazzjonijiet tal-Gvern: 100 tal-1937, 150 tal-1944, 358 tal-1945, 505\ntal-1955 u 124 tal-1958.\n\nRevokati bl-Avvi\\ Legali 68 tal-1980.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

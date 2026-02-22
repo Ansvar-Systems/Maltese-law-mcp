@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-23-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi dwar l-Industriji ta' Oġġetti tal-Ġilda u Żraben",
+  "title_en": "Ordni għal Kunsill tal-Pagi dwar l-Industriji ta' Oġġetti tal-Ġilda u Żraben",
+  "short_name": "eli/sl/452.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.23/mlt, expression eli/sl/452.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 45 ta’ l-1965, kif emendat bl-Avvi\\ Legali 27 ta’ l1967",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi dwar\nl-Industriji ta’ O[[etti tal-{ilda u |raben.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi dwar l-Industriji ta’\nO[[etti tal-{ilda u |raben li g]andu japplika g]all-impjegati\nkollha f ’kull impri\\a jew f ’kull parti ta’ impri\\a, li l-attivitajiet\ntag]ha jikkonsistu kollha jew prin`ipalment minn dawn li [ejjin:\n\nSafejn japplika ilKunsill tal-Pagi.\nEmendat:\nA.L. 27 ta’ l-1967.\n\n(a) il-fabbrikazzjoni u l-ippro`essar tal-[ilda, o[[etti tal[ilda, inklu\\i l-fabbrikazzjoni ta’ handbags u ngwanti;\nu\n(b) il-fabbrikazzjoni ta’ stvali, \\raben, sandlijiet u\nb]alhom tar-rigel, kif ukoll bagalji, brief-cases,\nbasktijiet ta’ l-idejn, basktijiet tax-xiri u basktijiet o]ra\nta’ natura simili.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntal-25 ta’ Mejju, 1965.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

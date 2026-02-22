@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-210-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Impieg Speċifikat ta' Persuni b'Diżabilità",
+  "title_en": "Ordni dwar l-Impieg Speċifikat ta' Persuni b'Diżabilità",
+  "short_name": "eli/sl/210.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/210.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/210.3/mlt, expression eli/sl/210.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 158 ta’ l-1995",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Impieg Spe`ifikat\nta’ Persuni b’Di\\abilità.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "ta’ Persuni b’Di\\abilità",
+      "content": "Impieg b]ala attendant ta’ lift elettriku tal-passi[[ieri,\nji[ifieri, impieg fit-t]addim u kontroll ta’ lift tal-passi[[ieri li\nja]dem bl-elettriku, g]andu jitqies li hu klassi spe`ifikata ta’\nimpieg li g]aliha japplika l-artikolu 19 ta’ l-Att dwar l-Impieg ta’\nPersuni b’Di\\abilità.\n\nTitolu.\nImpieg spe`ifikat.\n\nKap. 210.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

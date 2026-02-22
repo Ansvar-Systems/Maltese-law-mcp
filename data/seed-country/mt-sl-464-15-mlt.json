@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-464-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Liċenzi għall-Eżerċizzju tal-Professjoni ta’ Infermier",
+  "title_en": "Regolamenti dwar Liċenzi għall-Eżerċizzju tal-Professjoni ta’ Infermier",
+  "short_name": "eli/sl/464.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/464.15/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.15/mlt, expression eli/sl/464.15/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nLi`enzi g]all-E\\er`izzju tal-Professjoni ta’ Infermier.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx te]tie[ xort’o]ra -\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar il-Professjonijiet tas-Sa]]a;\n\nKap. 464.\n\n\"il-Ku nsill\" tf isser il- Kuns ill ta’ l- In ferm ieri u Qwiebel,\nimwaqqaf ta]t l-artikolu 21 ta’ l-Att;\n\"li`enza\" tfisser li`enza g]all-e\\er`izzju tal-professjoni ta’\ninfermier, ma]ru[a ta]t dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-li`enza g]andha ting]ata mill-President ta’ Malta lil\npersuna li tkun infermier u bir-rakkomandazzjoni tal-Kunsill.\n\nG]oti ta’ li`enza.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1) Il-li`enza biex persuna te\\er`ita l-professjoni g]andha\nting]ata lil dawk l-infermieri ta’ l-ewwel livell li jwettqu dawn ilkondizzjonijiet kollha li [ejjin:\n\nKondizzjonijiet talli`enza.\nEmendat:\nA.L. 181 tal-2010;\nA.L. 197 tal-2010.\n\n(a) ikollhom grad fl-infermerija mog]ti mill-Università\nta’ Malta jew inkella kwalifika ta’ infermerija\nekwivalenti li tinkiseb minn xi università, kulle[[ jew\nskola ta’ l-infermerija o]ra li jkunu rikonoxxuti millKunsill;\n(b) ikunu ilhom re[istrati mal-Kunsill g]al perjodu ta’\nmill-inqas sentejn;\n(`) ikunu ilhom je\\er`itaw il-professjoni tag]hom ta’\ninfermier fuq ba\\i full-time g]al \\mien sentejn jew\nperjodu ekwivalenti.\n(2) Fil-ka\\ ta’ dawk l-infermieri ta’ l-ewwel livell li ma jkunux\njissodisfaw il-kondizzjonijiet imsemmija fis-subregolament ta’\nqabel i\\da li jkunu detenturi ta’ diploma fl-infermerija mog]tija\nmill- Un iversità ta’ Malta, jew ta’ kwalif ik a ekwivalen ti flinfermerija li tinkiseb minn xi università, kulle[[ jew skola ta’ linfermerija o]ra li jkunu rikonoxxuti mill-Kunsill, il-li`enza\ng]andha ting]ata biss wara ]ames snin minn meta huma ji[u\nr e[ i st r ati m al - Ku n si ll u w ar a l i j k u n u il ho m je\\ er `it aw ilprofessjoni tag]hom ta’ infermier fuq ba\\i full-time g]al \\mien\n]ames snin jew perjodu ekwivalenti.\n(3) Id-dispo\\izzjonijiet tas-subregolamenti ta’ qabel g]andhom\nikunu japplikaw g]al infermieri li jkunu re[istrati fit-taqsima\nspe`jali tar-Re[istru.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "spe`jali tar-Re[istru",
+      "content": "Dawk l-infermieri li dawn ir-regolamenti japplikaw\n\nKodi`i ta’ prattika.\n\nL.S.464.15]\n\nLI~ENZI G}ALL-E|ER~IZZJU\nTAL-PROFESSJONI TA’ INFERMIER\n\ng]alihom ikollhom id-dmir li jikkonformaw ru]hom malkondizzjonijiet u li jissodisfaw il-]ti[iet stipulati fil-Kodi`i ta’\nPrattika tal-professjoni tag]hom.",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 85
+      }
+    }
+  ],
+  "definitions": []
+}

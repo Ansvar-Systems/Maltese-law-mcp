@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-378-6-mlt",
+  "type": "statute",
+  "title": "Avviż għall-għanijiet tat-tifsira ta' \"kummerċjant\" fl-Att dwar l-Affarijiet tal-Konsumatur",
+  "title_en": "Avviż għall-għanijiet tat-tifsira ta' \"kummerċjant\" fl-Att dwar l-Affarijiet tal-Konsumatur",
+  "short_name": "eli/sl/378.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/378.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/378.6/mlt, expression eli/sl/378.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 109 tal-1997, kif emendat bl-Att XXXIV tal-2014",
+      "content": "It-titolu ta’ dan l-Avviż hu Avviż għall-għanijiet tat-tifsira\nta’ \"kummerċjant\" fl-Att dwar l-Affarijiet tal-Konsumatur.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kull korporazzjoni pubblika li isimha jidher hawn aktar ’l\nisfel, li hi korporazzjoni li tipprovdi oġġetti jew servizzi lillkonsumatur bi ħlas, għandha titqies mill-1 ta’ Ottubru, 1997, bħala\nkummerċjant għall-għanijiet ta’ l-istess Att dwar l-Affarijiet talKonsumatur:\n\nKorporazzjonijiet\nmeqjusa bħala\nkummerċjanti.\nEmendat:\nXXXIV. 2014.36.\nKap. 378.\n\nKorporazzjoni għal Żvilupp ta’ Malta\nTarzna ta’ Malta\nKorporazzjoni Telemalta\nMalta Freeport Corporation Limited\nJobsplus\nKorporazzjoni għas-Servizz tal-Ilma.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

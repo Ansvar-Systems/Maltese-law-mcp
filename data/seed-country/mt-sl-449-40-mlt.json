@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-449-40-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Ħalib Ippriżervat",
+  "title_en": "Regolamenti dwar Ħalib Ippriżervat",
+  "short_name": "eli/sl/449.40/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.40/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.40/mlt, expression eli/sl/449.40/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 215 ta’ l-2004",
+      "content": "1. It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\n}alib Ippri\\ervat.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1. Prodotti li jaqg]u ta]t l-iskop ta’ dawn ir-regolamenti u li\nma jikkonformawx ma’ dawn ir-regolamenti, i\\da li jikkonformaw\nmad-disposizzjonijiet tal-Preserved Milk Regulations, jistg]u\njitqeg]du fis-suq sas-17 ta’ Lulju, 2004.\n\nDisposizzjonijiet\ntransitorji.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "1. Dawn ir-regolamenti g]andhom japplikaw g]al ]alib\nippri\\ervat parzjalment jew kompletament imnixxef mfissra flEwwel Skeda.\n\nApplikabilità.\nEmendat:\nA.L. 224 ta’ l2008.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 224 ta’ l2008",
+      "content": "1. Ir-Regolamenti dwar Twa]]il ta’ Tikketti, Pre\\entazzjoni u\nRiklamar ta’ O[[etti ta’ l-Ikel g]andhom japplikaw g]all-prodotti\nmsemmija fl-Ewwel Skeda, ta]t il-kondizzjonijiet li [ejjin:\n\nTwa]]il ta’ tikketti\nfuq prodotti.\nL.S. 449.46\n\n(a) l-ismijiet ta’ prodotti msemmija fl-Ewwel Skeda\ng]andhom japplikaw biss g]all-prodotti hemmhekk\nmsemmija u g]andhom, ming]ajr ]sara g]allparagrafu (b), jintu\\aw fil-kummer` b]ala ismijiet ta’\ndawn il-prodotti;\n(b) b]ala alternattiva g]all-ismijiet ta’ prodotti msemmija\nfil-paragrafu (a), it-Tieni Skeda tag]ti lista ta’ ismijiet\npartikolari. Dawn l-ismijiet jistg]u jintu\\aw fl-ilsien u\nta]t il-kondizzjonijiet imsemmija fit-Tieni Skeda.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "mix-xorrox li b’kontenut ta’ latto\\ju anidru\\ ta’ mhux anqas minn",
+      "content": "0% m/m fuq ba\\i niexfa. Dan jista’ jkun anidru\\ jew ikun fih\nmolekula wa]da ta’ ilma ta’ kristallizzazzjoni jew ikun ta]lita ta’\n\\ew[ forom.\n\nIsmijiet partikolari g]al `erti prodotti msemmija fl-Ewwel Skeda\n(a) L-isem bl-Ingli\\ evaporated milk ifisser il-prodott imsemmi fil-punt (1)(b)\nta’ l-Ewwel Skeda u li fih, skond il-pi\\, ta’ l-anqas 9% xa]am u 31% solidi totali tal]alib, b’dan i\\da, illi, fil-ka\\ ta’ prodotti inti\\i g]as-suq Malti, dan l-isem jista’\nwkoll jintu\\a b]ala sinonimu g]al ‘]alib ikkon`entrat ming]ajr zokkor mi\\jud’,\nikkwalifikat bi kliem ie]or xieraq li jirreferi g]all-kontenut imnaqqas ta’ xa]am\ntieg]u, skond il-ka\\.\n(b) L-ismijiet bl-Ingli\\ semi-skimmed milk powder jew dried semi-skimmed milk\nifissru l-prodott li hemm definizzjoni tieg]u fil-punt (2)(`) ta’ l-Ewwel Skeda\nb’kontenut ta’ xa]am ta’ bejn 14% u 16%.",
+      "metadata": {
+        "source_line_start": 215,
+        "source_line_end": 231
+      }
+    }
+  ],
+  "definitions": []
+}

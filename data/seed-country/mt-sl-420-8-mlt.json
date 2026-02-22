@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-420-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar drittijiet li għandhom jitħallsu għal dokumenti mitlufa jew meqruda",
+  "title_en": "Regolamenti dwar drittijiet li għandhom jitħallsu għal dokumenti mitlufa jew meqruda",
+  "short_name": "eli/sl/420.8/mlt",
+  "status": "in_force",
+  "issued_date": "2017-05-16",
+  "in_force_date": "2017-05-16",
+  "url": "https://legislation.mt/eli/sl/420.8/20170516/mlt",
+  "description": "Official text from legislation.mt (eli/sl/420.8/mlt, expression eli/sl/420.8/20170516/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 134 tal-2017",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti dwar\ndrittijiet li għandhom jitħallsu għal dokumenti mitlufa jew\nmeqruda.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "meqruda",
+      "content": "L-ebda ħlas m’għandu jkun impost fuq il-ħruġ għall-ewwel\ndarba tad-dokumenti mill-Aġenzija għall-Protezzjoni\nInternazzjonali. Dawn għandhom jinkludu:\n\nTitolu.\n\nEbda ħlas impost.\n\n(a) formola ta' applikazzjoni;\n(b) dokument tad-deċiżjoni;\n(ċ) traskrizzjoni tal-intervista;\n(d) dokument tal-persuni li jfittxu asil;\n(e) dokumenti oħra; jew\n(f) ċertifikat ta' protezzjoni.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Għandhom jiġu mħallsa fir-rigward ta’ kull partita, u taħt\nil-kondizzjonijiet deskritti hawn taħt, id-drittijiet li ġejjin:\n(a) ħruġ ta’ formola ta' applikazzjoni bħala sostituzzjoni\ntal-ewwel formola tal-applikazzjoni li tkun intilfet jew\nġiet meqruda ...........................................................€5\n(b) ħruġ ta’ dokument tad-deċiżjoni bħala sostituzzjoni\ntal-ewwel dokument tad-deċiżjoni li jkun intilef jew\nġie meqrud ............................................................. €5\n(ċ) ħruġ ta' traskrizzjoni tal-intervista bħala sostituzzjoni\ntal-ewwel traskrizzjoni tal-intervista li tkun intilfet\njew ġiet meqruda .................................................... €5\n(d) ħruġ ta’ dokument tal-persuni li jfittxu asil bħala\nsostituzzjoni tal-ewwel dokument tal-persuni li jfittxu\nasil li jkun intilef jew ġie meqrud ........................... €5\n(e) ħruġ ta’ dokumenti oħra bħala sostituzzjoni ta’\ndokumenti oħra maħruġa għall-ewwel darba li jkunu\nmitlufa jew ġew meqruda.................................... €5\ngħal kull dokument\n(f)\n\nħruġ ta' ċertifikat ta' protezzjoni bħala sostituzzjoni\ntal-ewwel ċertifikat ta' protezzjoni li jkun intilef jew\nġie meqrud ............................................................. €5",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

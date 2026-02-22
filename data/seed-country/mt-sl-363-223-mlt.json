@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-363-223-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Posta Mhux Mitluba (Kunsill Lokali Tas-Sliema)",
+  "title_en": "Bye-Laws dwar Posta Mhux Mitluba (Kunsill Lokali Tas-Sliema)",
+  "short_name": "eli/sl/363.223/mlt",
+  "status": "in_force",
+  "issued_date": "2021-02-11",
+  "in_force_date": "2021-02-11",
+  "url": "https://legislation.mt/eli/sl/363.223/20210211/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.223/mlt, expression eli/sl/363.223/20210211/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 59/01/2021",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu l-Bye-Laws dwar Posta\nMhux Mitluba (Kunsill Lokali Tas-Sliema).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Kunsill\" tfisser il-Kunsill Lokali Tas-Sliema;\n\"posta mhux mitluba\" tfisser reklamar kummerċjali mhux\nmixtieq jew mhux mitlub jew materjal promozzjonali kummerċjali\nriċevut bil-posta li xi kultant tissejjaħ junk mail.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull posta mhux mitluba għandha tintbagħat fil-kaxxi\ntal-ittri u mhux titħalla fuq l-għatba tal-bibien, bankina, kwalunkwe\nparti ta’ bini jew ġnien jew kontenitur anke jekk dak il-kontenitur\nhuwa maħsub għall-posta mhux mitluba.\n\nPosta mhux\nmitluba.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-47-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Supervisory Review Investment Firms Directive)",
+  "title_en": "Regolamenti dwar Investment Services Act (Supervisory Review Investment Firms Directive)",
+  "short_name": "eli/sl/370.47/mlt",
+  "status": "in_force",
+  "issued_date": "2022-01-26",
+  "in_force_date": "2022-02-11",
+  "url": "https://legislation.mt/eli/sl/370.47/20250729/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.47/mlt, expression eli/sl/370.47/20250729/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (SUPERVISORY REVIEW\nINVESTMENT FIRMS DIRECTIVE)\n\n[ L.S. 370.47.\n\nLEĠISLAZZJONI SUSSIDJARJA 370.47\nREGOLAMENTI DWAR INVESTMENT SERVICES ACT\n(SUPERVISORY REVIEW INVESTMENT FIRMS\nDIRECTIVE)\n11 ta’ Frar 2022\nAVVIŻ LEGALI 22 tal-2022, kif emendat bl-Avviżi Legali 74 tal2023 u 157 tal-2025.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

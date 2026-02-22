@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-383-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizjarji fuq Appelli",
+  "title_en": "Regolamenti dwar Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizjarji fuq Appelli",
+  "short_name": "eli/sl/383.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/383.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/383.1/mlt, expression eli/sl/383.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 112 ta’ l-2001, kif emendat bl-Avvi\\ Legali 425 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti {udizzjarji\nfuq Appelli.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 12(3) ta’\nl-Att dwar Kumpanniji Kontrollati (Pro`edura ta’ Stral`), g]allpre\\entata ta’ atti [udizzjarji fuq appelli g]andhom ikunu mija u\nsittax-il euro u sebg]a u erbg]in `ente\\mu (€116.47).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 425 ta’ l2007.\nKap. 383.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

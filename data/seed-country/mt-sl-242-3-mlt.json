@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-242-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Ġibiltà",
+  "title_en": "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Ġibiltà",
+  "short_name": "eli/sl/242.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/242.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/242.3/mlt, expression eli/sl/242.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 43 ta’ l-1978",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar l-Esekuzzjoni\nRe`iproka ta’ Ordnijiet ta’ Manteniment - {ibiltà.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Re`iproka ta’ Ordnijiet ta’ Manteniment - {ibiltà",
+      "content": "(1) It-territorju kollu ta’ {ibiltà g]andu ji[i kkunsidrat\nb]ala pajji\\ li jirre`iproka g]all-finijiet ta’ l-Att dwar lEsekuzzjoni Re`iproka ta’ Ordnijiet ta’ Manteniment.\n\n(2) Id-disposizzjonijiet tas-subartikolu (1) huma su[[etti\ng]all-kondizzjoni li, fil-ka\\ li l-benefi``ji mog]tija bl-Att dwar lEsekuzzjoni Re`iproka ta’ Ordnijiet ta’ Manteniment ji[u applikati\ng]al ordnijiet ta’ manteniment mag]mula mill-qrati ta’ {ibiltà,\nbenefi``ji b]alhom ji[u applikati f’dak il-pajji\\ g]al ordnijiet ta’\nmanteniment mag]mula mill-qrati ta’ Malta.\n\nTitolu.\nEsekuzzjoni\nre`iproka ta’\nordnijiet ta’\nmanteniment.\nKap. 242.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

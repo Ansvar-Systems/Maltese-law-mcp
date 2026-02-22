@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-1-mlt",
+  "type": "statute",
+  "title": "Liġi dwar il-Kostituzzjoni u Ġurisduzzjoni tal-Qrati Ekklesjastiċi",
+  "title_en": "Liġi dwar il-Kostituzzjoni u Ġurisduzzjoni tal-Qrati Ekklesjastiċi",
+  "short_name": "Kap. 1",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1828-04-10",
+  "url": "https://legislation.mt/eli/cap/1/19951001/mlt",
+  "description": "Official text from legislation.mt (eli/cap/1/mlt, expression eli/cap/1/19951001/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bil-PROKLAMA NRU. V TAl-1828, kif emendata bl-Avviż",
+      "content": "Din il-Proklama tista’ tissejjaħ il-Liġi\nKostituzzjoni u Ġurisdizzjoni tal-Qrati Ekklesjastiċi.\n\ndwar\n\nil-",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Il-qrati jew l-imħallfin ekklesjastiċi stabbiliti jew maħtura,\njew li għad ikunu stabbiliti jew maħtura f ’Malta, għad-deċiżjoni\ntal-kawżi li jirrigwardaw il-liġijiet tal-Knisja Kattolika Rumana ma\ngħandhom ebda ġurisdizzjoni u ma jistgħu jagħmlu jew jittantaw\njagħmlu ebda att ġudizzjarju li jkollu effett ċivili, u mhux biss\nspiritwali, ħlief kif jista’ jiġi provdut b’liġi.\n\nĠurisdizzjoni talqrati u talImħallfin\nekklesjastiċi.\nSostitwit:\nI. 1995.16.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "Id-dokumenti u l-atti tal-qrati ekklesjastiċi fil-każijiet fejn\nl-istess qrati jistgħu skond l-artikolu 2 ta’ din il-liġi ikollhom effett\nċivili huma ammissibbli bħala prova bl-istess mod kif provdut flartikolu 627 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili,\nkemm-il darba dawn ikunu awtentikati kif provdut minn żmien għal\nżmien, mil-liġi ekklesjastika li tirregola dawk il-qrati.\n\nDokumenti ta’\nQrati Ekkleżjastiċi.\nEmendat:\nA.L. 46 tal-1965;\nXXXI. 1966.2;\nLVIII. 1974.68.\nSostitwit:\nI. 1995.16\nKap. 12.\n\nImħassar: I. 1995.16.\n\nIl-qrati li\ngħandhom\nġurisdizzjoni\nspiritwali.\nEmendat:\nA.L. 148 tal-1975.\n\nImħassar: I. 1995.16.\n\nĦatra ta’ mħallfin\nekklesjastiċi.\nEmendat:\nA.L. 46 tal-1965;\nXXXI. 1966.2;\nLVIII. 1974.68;\nXXIV. 1975.2\n\nImħassar: I. 1995.16.\n\nEsekuzzjoni tassentenzi tal-qrati\nekklesjastiċi.\n\n*Ara l-Ordinanza dwar l-Estensjoni ta’ Privileġġi għall-Isqof ta’ Għawdex\n(Kapitolu 15).\n†Ara Gazzetta tal-Gvern Nru. 896 tas-16 ta’ April, 1828.\n\nKAP. 1.]\n\nTneħħija talimmunità\npersunali.\nEmendat:\nXXXI. 1966.2;\nXXIV. 1975.2;\nI. 1995.16;\nXXIV. 1995.360.\n\nQRATI EKKLESJASTIĊI",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 98
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "QRATI EKKLESJASTIĊI",
+      "content": "Mid-data ta’ din il-Proklama ’l quddiem, ebda persuna li\ntkun tgħix jew toqgħod f’Malta ma għandha tkun eżenti, minħabba\nl-grad, kondizzjoni soċjali jew professjoni tagħha, ċivili jew\nekklesjastika, militari jew navali, jew minħabba xi privileġġ ieħor,\nikun li jkun, milli tħarrek jew tiġi mħarrka fil-qrati sekulari, għal\njeddijiet temporali, jew milli tħarrek jew tiġi mħarrka fil-qrati\nsekulari, għal delitti temporali, jew, għal kull rigward ieħor, milli\ntkun suġġetta għall-ġurisdizzjoni tal-qrati hawn fuq imsemmija:\niżda, kull kawża, proċess jew proċedura oħra għandhom isiru\nquddiem qorti, imħallef jew maġistrat sekulari, kompetenti biex\njieħdu konjizzjoni tal-mertu tal-kawża, proċess jew proċedura.",
+      "metadata": {
+        "source_line_start": 99,
+        "source_line_end": 113
+      }
+    }
+  ],
+  "definitions": []
+}

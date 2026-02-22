@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-460-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar it-Trattat ta’ Tkabbir taż-Żona Ekonomika Ewropea",
+  "title_en": "Ordni dwar it-Trattat ta’ Tkabbir taż-Żona Ekonomika Ewropea",
+  "short_name": "eli/sl/460.4/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-30",
+  "in_force_date": "2011-11-30",
+  "url": "https://legislation.mt/eli/sl/460.4/20111130/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.4/mlt, expression eli/sl/460.4/20111130/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 108 tal-2004",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar it-Trattat ta’\nTkabbir taŜ-śona Ekonomika Ewropea.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-Ordni, kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieā xort’oħra -\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Unjoni Ewropea;\n\nKap. 460.\n\n\"it-Trattat\" għandha l-istess tifsira bħalma hi mogħtija lill-fraŜi\nfl-artikolu 2(1) tal-Att;\n\"it-Trattat Speëifikat\" tfisser it-Trattat ta’ Tkabbir taŜ-śona\nEkonomika Ewropea, iffirmat mill-Istati Membri tal-Unjoni\nEwropea, Malta u l-istati l-oħra li ser jaderixxu fl-Unjoni Ewropea\nfl-1 ta’ Mejju, 2004 f ’Lussemburgu fl-14 ta’ Ottubru, 2003 u\nffirmat mill-Islanda, Leichtenstein u n-Norveāja f ’Leichtenstein\nfil-11 ta’ Novembru, 2003.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Għall-fini tal-artikolu 2(2) tal-Att, qiegħed b’dan jiāi\ndikjarat li t-Trattat Speëifikat għandu jitqies bħala ħaāa waħda matTrattat.\n\nRatifika tat-Trattat\nSpeëifikat li\ngħandu jitqies\nbħala ħaāa waħda\nmat-Trattat.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

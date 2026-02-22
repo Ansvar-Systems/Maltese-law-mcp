@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-109-mlt",
+  "type": "statute",
+  "title": "Regolamenti li Jestendu l-Applikabilità ta’ Dispożizzjonijiet dwar l-Istatus tal-Impjieg għal Servizz mal-Gvern",
+  "title_en": "Regolamenti li Jestendu l-Applikabilità ta’ Dispożizzjonijiet dwar l-Istatus tal-Impjieg għal Servizz mal-Gvern",
+  "short_name": "eli/sl/452.109/mlt",
+  "status": "in_force",
+  "issued_date": "2012-02-06",
+  "in_force_date": "2012-02-06",
+  "url": "https://legislation.mt/eli/sl/452.109/20120206/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.109/mlt, expression eli/sl/452.109/20120206/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 45 tal-2012",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti li\nJestendu l-Applikabilità ta’ DispoŜizzjonijiet dwar l-Istatus talImpjieg għal Servizz mal-Gvern.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-artikolu 4 tal-Att dwar l-Impiegi u Relazzjonijiet\nIndustrijali, sakemm dan ikun id-dispoŜizzjoni li tagħti l-poter li\njinħareā l-Ordni ta’ Standard Nazzjonali dwar l-Istatus tal-Impjieg,\ngħandu jkun japplika għal servizz mal-Gvern.\n\nApplikabilità\ngħall-Gvern.\nKap. 452.\nL.S. 452.108",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

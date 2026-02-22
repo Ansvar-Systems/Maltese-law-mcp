@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-104-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Eżenzjoni għal Tractors bil-Mutur tal-Biedja",
+  "title_en": "Ordni dwar Eżenzjoni għal Tractors bil-Mutur tal-Biedja",
+  "short_name": "eli/sl/104.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/104.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/104.2/mlt, expression eli/sl/104.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 809 ta’ l-1957",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar E\\enzjoni g]al\nTractors bil-Mutur tal-Biedja.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Tractors bil-Mutur tal-Biedja",
+      "content": "Kull xorta ta’ tractor jew makna tal-biedja li ta]dem bilmutur u\\ati u intenzjonati biss g]al skopijiet tal-biedja huma\ne\\entati mid-disposizzjonijiet ta’ l-artikolu 2 ta’ l-Ordinanza dwar\nl-Assigurazzjoni ta’ Vetturi tal-Mutur g]ar-Riskji ta’ Terzi Persuni,\nkemm-il darba dawn ma jkunux jistg]u jisviluppaw velo`ità li\ntiskorri t-tmien mili fis-sieg]a u jkunu mag]mulin li ma jkunux\nkkontrollati minn sewwieq riekeb fuq it-tractor jew il-makna imma\nminn persuna li tkun qed timmani[[a bil-wieqfa.\n\nTitolu.\nE\\enzjoni.\nKap. 104.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

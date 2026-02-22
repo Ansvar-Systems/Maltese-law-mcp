@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-204-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Eżenzjoni mit-Taxxa fuq Pensjonijiet",
+  "title_en": "Regoli dwar Eżenzjoni mit-Taxxa fuq Pensjonijiet",
+  "short_name": "eli/sl/123.204/mlt",
+  "status": "in_force",
+  "issued_date": "2022-03-03",
+  "in_force_date": "2022-03-04",
+  "url": "https://legislation.mt/eli/sl/123.204/20250101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.204/mlt, expression eli/sl/123.204/20250101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "4 ta’ Marzu, 2022",
+      "content": "It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Eżenzjoni\nmit-Taxxa fuq Pensjonijiet.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\nSostitwit:\nA.L. 220 tal-2022.\n\n\"Att\" tfisser l-Att dwar it-Taxxa fuq l-Income;\n\nKap. 123.\n\n\"income minn pensjoni\" tfisser income minn pensjoni derivat\nminn individwu li jkollu mill-inqas wieħed u sittin (61) sena fis-sena li\njirċievi l-istess income u li jkun taxxabbli, kieku mhux għal dawn irregoli, skont id-dispożizzjonijiet tal-artikolu 4(1)(d) tal-Att.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Income minn pensjoni li jkun derivat minn individwu fl-1\nta’ Jannar 2022 jew wara għandu jkun parzjalment jew kompletament\neżentat mit-taxxa kif ġej:\nApplikabbilità tal-eżenzjoni\n\nAmmont eżenti\n\nIncome minn pensjoni\nGħoxrin fil-mija (20%), iżda ma\nderivat\nfis-sena\nli\ntiġijeċċedix elfejn, tmien mija u erbgħa w\nminnufih qabel is-sena ta’sittin euro (€2,864)\nstima 2023\nIncome minn pensjoni\nErbgħin fil-mija (40%), iżda ma\nderivat\nfis-sena\nli\ntiġijeċċedix ħamest elef, disa’ mija u\nminnufih qabel is-sena ta’sebgħa u tmenin euro (€5,987)\nstima 2024\nIncome minn pensjoni\nSittin fil-mija (60%), iżda ma\nderivat\nfis-sena\nli\ntiġijeċċedix disat elef, seba’ mija u tnejn u\nminnufih qabel is-sena ta’tletin euro (€9,732)\nstima 2025\nIncome minn pensjoni\nTmenin fil-mija (80%), iżda ma\nderivat\nfis-sena\nli\ntiġijeċċedix tlettax-il elf, tliet mija u disa’\nminnufih qabel is-sena ta’euro (€13,309)\nstima 2026\nIncome minn pensjoni\nMija fil-mija (100%), iżda ma\nderivat\nfis-sena\nli\ntiġijeċċedix sittax-il elf, sitt mija u sitta u\nminnufih qabel is-sena ta’tletin euro (€16,636)\nstima\nu\nfis-snin\nsussegwenti\n\nEżenzjoni mittaxxa. \nSostitwit:\nA.L. 220 tal-2022;\nA.L. 48 tal-2023.\nEmendat:\nA.L. 5 tal-2024;\nA.L. 356 tal-2024.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 97
+      }
+    }
+  ],
+  "definitions": []
+}

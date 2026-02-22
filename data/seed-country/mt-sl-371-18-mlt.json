@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-371-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Credit Institutions and Financial Institutions (Payment Accounts)",
+  "title_en": "Regolamenti dwar Credit Institutions and Financial Institutions (Payment Accounts)",
+  "short_name": "eli/sl/371.18/mlt",
+  "status": "in_force",
+  "issued_date": "2016-12-14",
+  "in_force_date": "2016-12-07",
+  "url": "https://legislation.mt/eli/sl/371.18/20240223/mlt",
+  "description": "Official text from legislation.mt (eli/sl/371.18/mlt, expression eli/sl/371.18/20240223/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CREDIT INSTITUTIONS AND FINANCIAL\nINSTITUTIONS (PAYMENT ACCOUNTS)\n\n[ L.S.371.18\n\nLEĠISLAZZJONI SUSSIDJARJA 371.18\nREGOLAMENTI DWAR CREDIT INSTITUTIONS\nAND FINANCIAL INSTITUTIONS (PAYMENT\nACCOUNTS)\n7 ta’ Diċembru, 2016;\n18 ta’ Ġunju, 2017 *;\n31 ta’ Ottubru, 2018 †\nL-AVVIŻ LEGALI 411 tal-2016 , kif emendati bl-Avviżi Legali 324 u 354\ntal-2018 u 33 tal-2024.\n\nDawn ir regolamenti ġew ippubblikat bl-Ilslien Ingliż biss.\n\n* Ara r-regolament 1(6) tal-Avviż Legali 411 tal-2017.\n† Ara l-Avviż Legali 354 tal-2018.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

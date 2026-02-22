@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-45-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Reklami fuq l-Internet (Kunsill Lokali Żurrieq)",
+  "title_en": "Bye-Laws dwar Reklami fuq l-Internet (Kunsill Lokali Żurrieq)",
+  "short_name": "eli/sl/363.45/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.45/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.45/mlt, expression eli/sl/363.45/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "425 tal-2007",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar Reklami\nfuq l-Internet (Kunsill Lokali I\\-|urrieq).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1 F’dawn il-Bye-Laws kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Kunsill\" tfisser il-Kunsill Lokali I\\-|urrieq;\n\"persuna\" tfisser dik il-persuna li tkun awtorizzata mill-Kunsill\nbiex tqabbad mal-Web-page tal-Kunsill skont id-dispo\\izzjonijiet\ntal-ordinament 3.2;\n\"reklam\" tinkludi promozzjoni kummer`jali jew mhux\nkummer`jali;\n\"Web-page\" tfisser a``ess ta' informazzjoni fuq sistema u\ndatabase permezz ta’ Internet, deskritt b]ala l-World Wide Web\n(WWW), liema Web-page tista’ tkun reklamata fuq dawk li jissej]u\nWeb Search Engines.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Web Search Engines",
+      "content": "1 Il-Kunsill g]andu jkollu Web-page fuq l-Internet li\ng]andha tinkludi l-informazzjoni fuq il-Kunsill u l-lokalità li lKunsill jag]\\el li jinkludi.\n\nWeb-page uffi`jali\ntal-Kunsill.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penali",
+      "content": "1 Il-Kunsill jista’ jikkuntratta, skont ir-regolamenti u\npro`eduri li japplikaw skont l-Att, ma’ entitajiet sew kummer`jali\nsew mhux kummer`jali biex dawk l-entitajiet jirreklamaw bi ]las\nfuq il-Web-page tal-Kunsill.\n\nAwtorizzazzjoni\ng]ar-reklamar fuq\nil-Web-page talKunsill.",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

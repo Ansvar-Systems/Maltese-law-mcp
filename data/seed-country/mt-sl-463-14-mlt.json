@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Servizzi ta' Appoġġ għan-Negozju tal-Familja",
+  "title_en": "Regolamenti dwar Servizzi ta' Appoġġ għan-Negozju tal-Familja",
+  "short_name": "eli/sl/463.14/mlt",
+  "status": "in_force",
+  "issued_date": "2017-06-06",
+  "in_force_date": "2017-01-01",
+  "url": "https://legislation.mt/eli/sl/463.14/20210412/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.14/mlt, expression eli/sl/463.14/20210412/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 429 tal-2017, kif emendat bl-Avviż Legali 155 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nServizzi ta' Appoġġ għan-Negozju tal-Familja.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Servizzi ta' Appoġġ għan-Negozju tal-Familja",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’ oħra:\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nTitolu.\nTitolu.\n\nTifsir.\n\nKap. 463.\n\n\"korporazzjoni\" tfisser l-Intrapriża ta’ Malta stabbilita taħt lAtt;\n\"linji gwida\" tfisser dawk il-linji gwida kif jistgħu jiġu\nppubblikati mill-Korporazzjoni minn żmien għal żmien skont l-Att;\n\"negozju tal-familja\" tfisser negozju reġistrat mar-Regolatur\nskont l-Att dwar in-Negozji tal-Familja u għandu ċertifikat aġġornat\nmaħruġ mir-Regolatur għan-Negozji tal-Familja.\n\nKap. 565.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Fejn il-Korporazzjoni tkun sodisfatta li n-negozju huwa\nkklassifikat bħala Negozju tal-Familja, il-Korporazzjoni tista’\ntipprovdi assistenza f’għotja ta' flus li m'għandhiex taqbeż l-ammont\nta' ħmistax-il elf euro (€15,000) għal kull negozju tal-familja fi\nkwalunkwe perjodu ta’ tliet (3) snin biex jagħmlu użu min\nkonsulenza fuq l-ippjanar tas-suċċessjoni u servizzi ta’ medjazzjoni\nbit-termini u l-kundizzjonijiet kif stabbiliti fil-Linji Gwida.\n\nGħajnuna biex jiġu\nappoġġati nnegozji tal-familja\nSostitwit:\nA.L. 155 tal-2021.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 155 tal-2021",
+      "content": "Applikazzjonijiet għal assistenza taħt dawn irregolamenti għandhom jaslu għand il-Korporazzjoni sa mhux iktar\ntard mit-30 ta’ Novembru, 2023. L-ebda assistenza taħt dawn irregolamenti ma għandha tingħata mill-Korporazzjoni wara l-31 ta’\nDiċembru, 2023.\n\nSkadenza għattressiq ta'\napplikazzjoni għal\ngħajnuna\nSostitwit:\nA.L. 155 tal-2021.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

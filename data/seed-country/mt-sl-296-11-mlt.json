@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-296-11-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Arei ta’ Reġistrazzjoni",
+  "title_en": "Ordni dwar Arei ta’ Reġistrazzjoni",
+  "short_name": "eli/sl/296.11/mlt",
+  "status": "in_force",
+  "issued_date": "2019-07-23",
+  "in_force_date": "2019-07-23",
+  "url": "https://legislation.mt/eli/sl/296.11/20190723/mlt",
+  "description": "Official text from legislation.mt (eli/sl/296.11/mlt, expression eli/sl/296.11/20190723/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 142 tal-2019",
+      "content": "It-titolu ta’ dan l-ordni huwa l-Ordni dwar Arei ta’\nReġistrazzjoni.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-artijiet murija mdawra b’linji mhux kontinwi suwed\nfuq il-mapep ta’ Għawdex enumerati G44 sa G48 u fuq il-mapep ta’\nMalta enumerati 90 sa 92 murija fl-Iskeda li tinsab ma’ dan l-ordni\nhuma dikjarati arei ta’ reġistrazzjoni għall-finijiet tal-artikolu 10 talAtt dwar ir-Reġistrazzjoni ta’ Artijiet.\n\nDikjarazzjoni\nta’ Arei ta’\nReġistrazzjoni.\nKap. 296\n\n[L.S. 296.11\n\nAREI TA’ REĠISTRAZZJONI\n\nAREI TA’ REĠISTRAZZJONI\n\n[ L.S. 296.11\n\n[L.S. 296.11\n\nAREI TA’ REĠISTRAZZJONI\n\nAREI TA’ REĠISTRAZZJONI\n\n[ L.S. 296.11\n\n[L.S. 296.11\n\nAREI TA’ REĠISTRAZZJONI\n\nAREI TA’ REĠISTRAZZJONI\n\n[ L.S. 296.11\n\n[L.S. 296.11\n\nAREI TA’ REĠISTRAZZJONI",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

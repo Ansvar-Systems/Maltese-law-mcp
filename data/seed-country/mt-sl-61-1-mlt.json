@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-61-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Meta Jaslu u Jitilqu l-Passiġġieri",
+  "title_en": "Regolamenti dwar Meta Jaslu u Jitilqu l-Passiġġieri",
+  "short_name": "eli/sl/61.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/61.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/61.1/mlt, expression eli/sl/61.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 331 ta’ l-1935",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nMeta Jaslu u Jitilqu l-Passi[[ieri.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Meta Jaslu u Jitilqu l-Passi[[ieri",
+      "content": "Kull frustier li jasal f’dawn il-G\\ejjer b]ala passi[[ier\ng]andu juri l-passaport tieg]u lill-Pulizija abbord tal-bastiment u\njie]u biljett ta’ l-i\\bark. Il-biljett ta’ l-i\\bark g]andu jurih lillPulizija fl-iskala ta’ l-i\\bark. Qabel ma jin\\el, sudditu Ingli\\\ng]andu juri l-passaport tieg]u lill-Pulizija fl-iskala ta’ l-i\\bark.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "g]andu juri l-passaport tieg]u lill-Pulizija fl-iskala ta’ l-i\\bark",
+      "content": "Kull passi[[ier, tkun xi tkun in-nazzjonalità tieg]u,\ng]andu juri l-passaport tieg]u lill-Pulizija tad-Dwana. Il-frustieri\ng]andhom jag]tu l-biljett ta’ l-i\\bark lill-Pulizija u s-sudditi Ingli\\i\ng]andhom ikollhom isimhom ivverifikat mal-lista tal-passi[[ieri.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "g]andhom ikollhom isimhom ivverifikat mal-lista tal-passi[[ieri",
+      "content": "Il-frustieri li jkunu g]addejjin minn hawn u jixtiequ jin\\lu\nl-art g]andhom ukoll jie]du abbord tal-bastiment biljett ta’ l-i\\bark\nmill-Pulizija.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "mill-Pulizija",
+      "content": "Il-passi[aieri li jkunu sejrin abbord ta’ bastiment g]assafar g]andhom jg]addu mill-uffi``ju tal-passaporti, id-Dwana,\nbiex ikollhom il-passaport tag]hom immarkat bil-boll \"departure\nstamp\".\nMeta jaslu fuq il-bastiment il-passi[[ieri g]andhom juru lpassaport tag]hom lill-Pulizija f’ras l-iskala.\n\nTitolu.\nPassi[[ieri li jaslu.\n\nPassi[[ieri\ng]andhom juru lpassaport.\nFrustieri\ng]andhom jie]du\nbiljett ta’ l-i\\bark\nmill-Pulizija.\nTluq ta’\npassi[[ieri.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

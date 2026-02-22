@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar il-Kumpanniji (Il-Prospett)",
+  "title_en": "Regolamenti dwar l-Att dwar il-Kumpanniji (Il-Prospett)",
+  "short_name": "eli/sl/386.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/386.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.11/mlt, expression eli/sl/386.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR IL-KUMPANNIJI (IL-PROSPETT)\n\n[L.S.386.11\n\nLE{ISLAZZJONI SUSSIDJARJA 386.11\nREGOLAMENTI DWAR L-ATT DWAR\nIL-KUMPANNIJI (IL-PROSPETT)*\n25 ta’ Novembru, 2005\nL-AVVI| LEGALI 389 tal-2005, kif emendat bl-Avvi\\i Legali 212 tal2007 u 118 tal-2012.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

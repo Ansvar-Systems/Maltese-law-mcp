@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-349-mlt",
+  "type": "statute",
+  "title": "Att dwar Self Lokali",
+  "title_en": "Att dwar Self Lokali",
+  "short_name": "Kap. 349",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1991-03-12",
+  "url": "https://legislation.mt/eli/cap/349/19910312/mlt",
+  "description": "Official text from legislation.mt (eli/cap/349/mlt, expression eli/cap/349/19910312/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl -Att VII tal-1991 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar Self Lokali.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Dan l-Att jista’ jissejjaħ l-Att dwar Self Lokali",
+      "content": "(1) Bla ħsara għad-disposizzjonijiet ta’ dan l-Att, il-Gvern\nta’ Malta jista’ jiġbor b’self f ’Malta s-somma li ma tkunx iżjed\nminn erbgħa u tletin miljun u erba’ mitt elf lira Maltija.\n(2) Sabiex jinġabar is-self kif intqal qabel, il-Ministru\nresponsabbli għall-finanzi huwa b’dan awtorizzat li joħroġ stock\nf’Malta skont id-disposizzjonijiet tal-Ordinanza dwar Self Lokali\n( S t o c k u Ti t o l i R e ġ i s t r a t i ) ; u s - s e l f m a g ħ m u l s k o n t i d disposizzjonijiet ta’ dan l-artikolu għandu jsir skont dawk ittermini u kundizzjonijiet li l-imsemmi Ministru jista’ japprova.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "f’Malta skont id-disposizzjonijiet tal-Ordinanza dwar Self Lokali",
+      "content": "Kull somma mislufa taħt l-awtorità ta’ dan l-Att għandha\ntiġi approprjata u użata biex tagħmel tajjeb għad-deficit fil-Fond\nKonsolidat minħabba l-ispiża matul is-sena 1990.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 212 tat-12 ta’ Marzu, 1991.\n\nTitolu fil-qosor.\nSetgħa għall-ġbir\nta’ self.\n\nKap. 161.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-144-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Applikabbiltà tal-Konvenzjonijiet dwar il-Konslijiet",
+  "title_en": "Ordni dwar l-Applikabbiltà tal-Konvenzjonijiet dwar il-Konslijiet",
+  "short_name": "eli/sl/144.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/144.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/144.1/mlt, expression eli/sl/144.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 69 ta’ l-1956",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Applikabbiltà talKonvenzjonijiet dwar il-Konslijiet.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 69 ta’ l-1956",
+      "content": "L-artikoli 3 u 5 ta’ l-Att dwar il-Konvenzjonijiet dwar ilKonslijiet japplikaw g]al Franza, il-Gre`ja, il-Messiku, inNorve[ja, l-Isvezja u l-Istati Uniti ta’ l-Amerika.\n\nTitolu.\nApplikabbiltà ta’\nartikoli.\nKap. 144.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 27
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-364-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar ir-Rata ta’ Mgħax fl-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti",
+  "title_en": "Regolamenti dwar ir-Rata ta’ Mgħax fl-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti",
+  "short_name": "eli/sl/364.18/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-17",
+  "in_force_date": "2020-06-17",
+  "url": "https://legislation.mt/eli/sl/364.18/20200617/mlt",
+  "description": "Official text from legislation.mt (eli/sl/364.18/mlt, expression eli/sl/364.18/20200617/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 167 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar ir-Rata ta’ Mgħax fl-Att dwar it-Taxxa fuq Dokumenti u\nTrasferimenti.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra-\n\nTifsir.\n\n\"l-Att\" tfisser\nTrasferimenti.\n\nKap. 364.\n\nl-Att\n\ndwar\n\nit-Taxxa\n\nfuq\n\nDokumenti\n\nu",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Trasferimenti",
+      "content": "Salv kif mod ieħor espressament provdut, l-imgħax taħt\nl-Att għandu japplika bir-rata ta’ żero punt tlieta tlieta fil-mija\n(0.33%) għal kull tletin (30) ġurnata jew parti minnhom.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Trasferimenti",
+      "content": "L-imgħax applikabbli fil-paragrafu (ii) tas-subartikolu\n(4) tal-artikolu 35 tal-Att għandu japplika bir-rata ta’ erbgħa fil-mija\n(4%) fis-sena.\n\nRata ta’ Mgħax.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

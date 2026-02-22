@@ -46,6 +46,7 @@ export interface ParsedAct {
 export interface ELIPageMetadata {
   title: string;
   titleEn: string;
+  language: 'eng' | 'mlt' | string;
   expressionPath: string; // e.g. eli/cap/586/20230919/eng
   sourceUrl: string;
   snapshotId: string;
@@ -104,32 +105,73 @@ function pickDateOrFallback(date: string | undefined, fallback: string | undefin
 }
 
 export function parseEliMetadata(html: string, eliPath: string): ELIPageMetadata {
+  return parseEliMetadataForLanguage(html, eliPath, 'eng');
+}
+
+function parseExpressionMatch(
+  html: string,
+  escapedPath: string,
+  lang: string,
+): RegExpMatchArray[] {
+  const source = `(?:https://legislation\\.mt/)?(?:mlt:)?eli/${escapedPath}/(\\d{8})/${lang}`;
+  return [
+    ...html.matchAll(new RegExp(source, 'gi')),
+  ];
+}
+
+function parseTitleForLanguage(html: string, escapedPath: string, lang: string): string | undefined {
+  const re = new RegExp(
+    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/${lang}"\\s+property="eli:title"\\s+content="([^"]+)"`,
+    'i',
+  );
+  return html.match(re)?.[1];
+}
+
+export function parseEliMetadataForLanguage(
+  html: string,
+  eliPath: string,
+  preferredLang: 'eng' | 'mlt',
+): ELIPageMetadata {
   const escapedPath = escapeRegex(eliPath);
 
-  const expressionMatches = [
-    ...html.matchAll(new RegExp(`https://legislation\\.mt/eli/${escapedPath}/(\\d{8})/eng`, 'g')),
-  ];
+  let language: 'eng' | 'mlt' | string = preferredLang;
+  let expressionMatches = parseExpressionMatch(html, escapedPath, preferredLang);
+  if (expressionMatches.length === 0) {
+    const fallbackLang = preferredLang === 'eng' ? 'mlt' : 'eng';
+    expressionMatches = parseExpressionMatch(html, escapedPath, fallbackLang);
+    if (expressionMatches.length > 0) {
+      language = fallbackLang;
+    }
+  }
+
+  if (expressionMatches.length === 0) {
+    expressionMatches = parseExpressionMatch(html, escapedPath, 'eng');
+    if (expressionMatches.length > 0) language = 'eng';
+  }
+
+  if (expressionMatches.length === 0) {
+    expressionMatches = parseExpressionMatch(html, escapedPath, 'mlt');
+    if (expressionMatches.length > 0) language = 'mlt';
+  }
+
   if (expressionMatches.length === 0) {
     throw new Error(`Could not locate expression URL for eli/${eliPath}`);
   }
   const expressionDate = expressionMatches[expressionMatches.length - 1][1];
-  const expressionPath = `eli/${eliPath}/${expressionDate}/eng`;
+  const expressionPath = `eli/${eliPath}/${expressionDate}/${language}`;
 
-  const titleMetaRegex = new RegExp(
-    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/eng"\\s+property="eli:title"\\s+content="([^"]+)"`,
-    'i',
-  );
-  const titleMetaMatch = html.match(titleMetaRegex);
-
+  const titleFromPreferred = parseTitleForLanguage(html, escapedPath, language);
+  const titleFromEnglish = parseTitleForLanguage(html, escapedPath, 'eng');
   const altTitleMatch = html.match(/"alternativeHeadline"\s*:\s*"([^"]+)"/i);
-  const title = normaliseTitle(titleMetaMatch?.[1] ?? altTitleMatch?.[1] ?? eliPath.toUpperCase());
+  const title = normaliseTitle(titleFromPreferred ?? altTitleMatch?.[1] ?? eliPath.toUpperCase());
+  const titleEn = normaliseTitle(titleFromEnglish ?? title);
 
   const inForceDateRegex = new RegExp(
-    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/eng"\\s+property="eli:first_date_entry_in_force"\\s+content="(\\d{4}-\\d{2}-\\d{2})"`,
+    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/${language}"\\s+property="eli:first_date_entry_in_force"\\s+content="(\\d{4}-\\d{2}-\\d{2})"`,
     'i',
   );
   const publicationDateRegex = new RegExp(
-    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/eng"\\s+property="eli:date_publication"\\s+content="(\\d{4}-\\d{2}-\\d{2})"`,
+    `<meta\\s+about="mlt:eli/${escapedPath}/\\d{8}/${language}"\\s+property="eli:date_publication"\\s+content="(\\d{4}-\\d{2}-\\d{2})"`,
     'i',
   );
 
@@ -144,7 +186,8 @@ export function parseEliMetadata(html: string, eliPath: string): ELIPageMetadata
 
   return {
     title,
-    titleEn: title,
+    titleEn,
+    language,
     expressionPath,
     sourceUrl: `https://legislation.mt/${expressionPath}`,
     snapshotId: snapshotMatch[1],

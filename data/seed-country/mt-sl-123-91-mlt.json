@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-91-mlt",
+  "type": "statute",
+  "title": "Regoli dwar l-Eżenzjoni mit-Taxxa fuq l-Income fuq Sussidji Agrikoli",
+  "title_en": "Regoli dwar l-Eżenzjoni mit-Taxxa fuq l-Income fuq Sussidji Agrikoli",
+  "short_name": "eli/sl/123.91/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.91/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.91/mlt, expression eli/sl/123.91/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 52 ta’ l-2006",
+      "content": "It-titolu ta’ dawn ir-regoli huwa Regoli dwar l-E\\enzjoni\nmit-Taxxa fuq l-Income fuq Sussidji Agrikoli, u dawn g]andhom\njitqiesu li da]lu fis-se]] mis-sena ta’ stima li bdiet fl-1 ta’ Jannar,\n\nTitolu u bidu fisse]].",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu u bidu fisse]]",
+      "content": "Is-sussidji li huma e\\enti mit-taxxa fuq l-income skond iddisposizzjonijiet ta’ l-artikolu 12(1)(r) ta’ l-Att dwar it-Taxxa fuq lIncome huma dawn li [ejjin:\n\nE\\enzjoni.\nKap. 123.\n\n(a) sussidji mog]tijin ta]t is-Social Market Policy\nProgramme g]all-Agrikoltura Maltija (SMPPMA) fissetturi tal-produzzjoni li [ejjin:\n(i)\n(ii)\n(iii)\n(iv)\n(v)\n(vi)\n\nfrott frisk;\n]axix frisk;\nfrott u ]axix g]all-ippro`essar;\ninbid;\nmajjal;\nla]am tat-tjur;\n\n(vii) bajd;\n(viii) ]alib;\n(b) sussidji ta’ l-Unjoni Ewropea g]all-biedja mog]tijin\nta]t il-Politika Agrikola Komuni (PAK):\n(i)\n\ng]ajnuna\nlill-produtturi\ntat-tadam\ng]allippro`essar;\n(ii) g]ajnuna finanzjarja fuq it-trobbija tan-nag]a[;\n(iii) g]ajnuna finanzjarja spe`jali fuq il-qatla talbovini;\n(iv) g]ajnuna finanzjarja fuq il-qatla tal-vitella;\n(v) g]ajnuna finanzjarja spe`jali fuq il-qatla ta’ lg]o[[iela;\n(vi) g]ajnuna fuq qmu], `ereali u mag]lef ie]or;\n(vii)\n\ng]ajnuna lil g]aqdiet ta’ produtturi u gruppi ta’\nprodutturi;\n(viii) g]ajnuna g]al produzzjoni ta’ \\ejt ta\\-\\ebbu[a;\n(ix) g]ajnuna fuq ir-raba’ mistrie];\n(x) g]ajnuna finanzjarja g]all-]alib;\n(`) mi\\uri ta’ g]ajnuna ta]t il-Programm ta’ |vilupp\nRurali (P|R):\n(i)\n\ng]ajnuna ta]t l-Iskema Rurali ta’ qabel lade\\joni g]ar-Restawr ta’ }itan tas-Sejjie];\n\nE|ENZJONI MIT-TAXXA FUQ L-INCOME\n\nL.S.123.91]\n\n(ii) g]ajnuna ta]t l-Iskema Rurali ta’ qabel lade\\joni g]al G]aqdiet tal-Produtturi;\n(iii) g]ajnuna ta]t il-mi\\ura tal-P|R g]al G]aqdiet\ntal-Produtturi;\n(iv) g]ajnuna ta]t il-mi\\uri Agro-ambjentali talP|R;\n(v) g]ajnuna ta]t il-mi\\ura tal-P|R g]al |oni\n|vanta[[ati;\n(vi) g]ajnuna ta]t il-mi\\ura Ad Hoc tal-P|R;\n(vii)\n\ng]ajnuna ta]t il-mi\\ura tal-P|R biex Jintla]qu lLivelli;\n(viii) g]ajnuna ta]t il-mi\\ura tal-Fondi Strutturali\ng]all-Investimenti fi Rziezet Agrikoli;\n(ix) g]ajnuna ta]t il-mi\\ura tal-Fondi Strutturali\ng]at-Tqeg]id fis-Suq u Pro`essar ta’ Prodotti\nAgrikoli.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 97
+      }
+    }
+  ],
+  "definitions": []
+}

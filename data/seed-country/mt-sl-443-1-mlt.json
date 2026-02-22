@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-443-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Nomina ta' Awtorità Ċentrali",
+  "title_en": "Ordni dwar Nomina ta' Awtorità Ċentrali",
+  "short_name": "eli/sl/443.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/443.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/443.1/mlt, expression eli/sl/443.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 163 ta’ l-2006, kif emendat bl-Avviż Legali 295 tal2020",
+      "content": "It-titolu ta’ dan l-Ordni huwa l-Ordni dwar Nomina ta’\nAwtorità Ċentrali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Avukat tal-Istat huwa b’dan maħtur bħala l-awtorità\nċentrali għall-finijiet ta’ l-Att dwar ir-Ratifika ta’ Konvenzjonijiet\ndwar Proċeduri Legali.\n\nAwtorità ċentrali.\nKap. 443.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

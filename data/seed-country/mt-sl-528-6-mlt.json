@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-528-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Bord tas-Servizzi Ġenerali",
+  "title_en": "Regolamenti dwar il-Bord tas-Servizzi Ġenerali",
+  "short_name": "eli/sl/528.6/mlt",
+  "status": "in_force",
+  "issued_date": "2014-03-11",
+  "in_force_date": "2014-03-11",
+  "url": "https://legislation.mt/eli/sl/528.6/20140311/mlt",
+  "description": "Official text from legislation.mt (eli/sl/528.6/mlt, expression eli/sl/528.6/20140311/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 72 tal-2014",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti dwar\nil-Bord tas-Servizzi Ġenerali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "il-Bord tas-Servizzi Ġenerali",
+      "content": "Għandu jkun hemm Bord tas-Servizzi Ġenerali li lfunzjonijiet tiegħu jkunu:\n(a) biex iservi bħala Bord tal-Appell minn deċiżjonijiet, li\njirrigwardaw materji u kwistjonijiet li għandhom\nx’jaqsmu mal-Kodiċi tal-Liġijiet tal-Pulizija, meħudin\nminn spetturi sanitarji jew minn uffiċjali sanitarji talAwtorità ta’ Malta dwar l-Ambjent u l-Ippjanar;\n(b) biex jaqdi dawk il-funzjonijiet li kienu, jew setgħu\nkienu, mogħtija lilu mill-Ordinanza dwar lOrganizzazzjoni tad-Dipartiment tas-Saħħa qabel ġiet\nimħassra, u mill-Ordinanza dwar il-Professjoni\nMedika u l-Professjonijiet li għandhom x’jaqsmu\nmagħha, u bir-regolamenti magħmulin taħt xi waħda\nminn dawn l-Ordinanzi;\n\nTitolu.\nIl-Bord tasServizzi Ġenerali.\n\nKap. 10.\n\nKap. 94.\nKap. 31.\n\n(ċ) biex jaqdi dawk il-funzjonijiet li huma, jew jistgħu\nikunu, mogħtija lilu b’xi liġi oħra fis-seħħ f’Malta.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "ġej:\n\n(1)\n\nIl-Bord tas-Servizzi Ġenerali għandu jkun kompost kif\n\n(a) is-Suprintendent\nChairperson;\n\ntas-Saħħa\n\nPubblika\n\nKompożizzjoni talBord.\n\nbħala\n\n(b) id-Direttur Ġenerali (Dipartiment tax-Xogħlijiet u\nServizzi) jew rappreżentant tiegħu;\n(ċ) żewġ konsulenti fis-Saħħa Pubblika maħtura millMinistru;\n(d) Uffiċjal Mediku Anzjan maħtur mill-Ministru;\n(e) id-Direttur tas-Saħħa Ambjentali jew rappreżentant\ntiegħu;\n(f)\n\nrappreżentant tal-Kamra tal-Arkitetti u Inġiniera\nĊivili;\n\n(g) Perit maħtur mill-Ministru;\n(h) persuna li mhix fis-servizz tal-Gvern, maħtura millPresident ta’ Malta.\n(2) Għandu jkun hemm Segretarju għall-Bord tas-Servizzi\nĠenerali li jkun maħtur mill-President ta’ Malta.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Ġenerali li jkun maħtur mill-President ta’ Malta",
+      "content": "Meta f’xi okkażjoni, il-Bord tas-Servizzi Ġenerali jixtieq\n\nMembri co-opted\nfil-Bord.\n\n[ L.S.528.06\n\nOsservanza talprinċipji ta’ mġiba\namministrattiva\ntajba.\nKap. 490.\n\nBORD TAS-SERVIZZI ĠENERALI\n\njikseb il-parir ta’ xi persuna dwar xi ħaġa jew ħwejjeġ partikolari,\nil-Bord jista’ jagħżel bħala membru lil dik il-persuna biex tkun\nmembru għal dik il-laqgħa jew laqgħat skont ma jkun meħtieġ, u\ndik il-persuna, waqt li tkun hekk magħżula bħala membru, jkollha\nd-drittijiet u l-privileġġi kollha ta’ membru, ħlief li ma jkollhiex\njedd tivvota fuq kull kwistjoni.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 96
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "jedd tivvota fuq kull kwistjoni",
+      "content": "Il-Bord tas-Servizzi Ġenerali għandu jirrispetta u japplika\nl-prinċipji ta’ mġiba amministrattiva tajba kif stabbilit fl-artikolu 3\ntal-Att dwar il-Ġustizzja Amministrattiva.",
+      "metadata": {
+        "source_line_start": 97,
+        "source_line_end": 103
+      }
+    }
+  ],
+  "definitions": []
+}

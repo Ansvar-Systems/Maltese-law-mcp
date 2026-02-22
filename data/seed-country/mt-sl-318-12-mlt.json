@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-318-12-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Karta Soċjali ta' l-Ewropa",
+  "title_en": "Ordni dwar il-Karta Soċjali ta' l-Ewropa",
+  "short_name": "eli/sl/318.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.12/mlt, expression eli/sl/318.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 204 ta’ l-1999",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar il-Karta So`jali ta’\nl-Ewropa.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "l-Ewropa",
+      "content": "Id-disposizzjonijiet ta’ l-Att dwar is-Sigurtà So`jali,\ng]andhom japplikaw g]al persuni ta’ nazzjonalità ta’ pajji\\i li\nhuma, flimkien ma’ Malta, partijiet fil-Karta So`jali ta’ l-Ewropa, u\nli g]andhom ir-residenza ordinarja tag]hom f’Malta.\n\nTitolu.\nEstensjoni ta’\napplikazzjoni.\nKap. 318.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

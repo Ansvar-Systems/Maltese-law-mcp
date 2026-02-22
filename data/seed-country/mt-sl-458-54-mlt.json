@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-458-54-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet li jinġabru mill-Kumitat dwar l-Etika fl-Affarijiet tas-Saħħa",
+  "title_en": "Regolamenti dwar Drittijiet li jinġabru mill-Kumitat dwar l-Etika fl-Affarijiet tas-Saħħa",
+  "short_name": "eli/sl/458.54/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.54/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.54/mlt, expression eli/sl/458.54/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 29 ta’ l-2009",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nDrittijiet li jin[abru mill-Kumitat dwar l-Etika fl-Affarijiet tasSa]]a.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) G]andhom jintalbu u jit]allsu lill-Kumitat dwar l-Etika\nfl-Affarijiet tas-Sa]]a dawn id-drittijiet li [ejjin g]al kull prova\nklinika fuq::\n\nDrittijiet.\n\n(a)\n(b)\n(`)\n(d)\n(2)\n\nprodotti medi`inali investigattivi ...........\napparat mediku .....................................\nprodotti kombinattivi ............................\no]rajn ...................................................\n\n€1,000\n€1,000\n€1,200\n€1,000\n\n(a) Id-dritt li g]andu jintalab mill-imsemmi Kumitat g]al\nstudji non-intervenzjonisti g]andu jkun ta’ €500.\n(b) Id-dritt li g]andu jintalab g]al emendi li jsiru fi provi\nklini`i u fi studji non-intervenzjonisti g]andu jkun ta’\n€100.\n(`) Fil-ka\\ ta’ provi akkademi`i, id-dritt li g]andu jintalab\nikun ta’ 25% tad-dritt li jintalab dwar dik il-prova jew\ndak l-istudju.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "dak l-istudju",
+      "content": "Ming]ajr pre[udizzju g]ad-drittijiet imsemmija f’dawn irregolamenti, il-Kumitat dwar l-Etika fl-Affarijiet tas-Sa]]a jista’\njiskonta kull dritt meta l-prodott medi`inali jkun jaqa’ ta]t ilkategorija ta’ medi`inali orfni, jew inkella jkun qieg]ed ji[i\ninvestigat b]ala wie]ed li jista’ ji[i indikat g]all-kura pedjatrika,\njew fil-ka\\ ta’ studji li ma jkunux koperti minn xi sponsor\nkummer`jali.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

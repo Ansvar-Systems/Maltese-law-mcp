@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-186-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Akkwist mill-Gvern Lokali",
+  "title_en": "Regolamenti dwar l-Akkwist mill-Gvern Lokali",
+  "short_name": "eli/sl/363.186/mlt",
+  "status": "in_force",
+  "issued_date": "2017-10-10",
+  "in_force_date": "2017-10-10",
+  "url": "https://legislation.mt/eli/sl/363.186/20171010/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.186/mlt, expression eli/sl/363.186/20171010/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 266 tal-2017, kif emendati bl-Avviż Legali 90 tal2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lAkkwist mill-Gvern Lokali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma tkunx teħtieġ xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Direttur\" għandha l-istess tifsira kif mogħti lilha fl-Att;\n\"Linji Gwida dwar l-Akkwisti\" tfisser il-Linji Gwida\ndwar l-Akkwisti maħruġa mid-Direttur skont l-artikolu 80 talAtt, li l-Kunsilli Lokali għandhom jimxu magħhom fit-twettiq\ntal-funzjonijiet u r-responsabbilitajiet tagħhom taħt l-Att u\nskont dawn ir-regolamenti;",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Sakemm ma jkunx ipprovdut mod ieħor fil-Linji Gwida\ndwar l-Akkwisti maħruġa mid-Direttur, kif approvat mill-Ministru, rRegolamenti dwar l-Akkwist Pubbliku għandhom japplikaw għallKunsilli Lokali.\n\nApplikabbiltà tarRegolamenti dwar\nl-Akkwist\nPubbliku.\nL.S. 601.03.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Pubbliku",
+      "content": "Il-Bord tal-Appelli hekk kif kien stabbilit firRegolamenti dwar Offerti lill-Kunsilli Lokali għandu jisma’ u\njiddeċiedi dawk l-appelli li kienu ġew istitwiti u preżentati quddiemu\nliema appelli ġew istitwiti u preżentati sal-1 ta’ Jannar, 2018 u li ma\nlaħqux ġew mismugħa u deċiżi mill-Bord tal-Appelli qabel limsemmija data ta’ hawn fuq.\n\nDispożizzjoni\nTransitorja.\nMizjud:\nA.L.90 tal-2018.\nL.S. 363.03.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

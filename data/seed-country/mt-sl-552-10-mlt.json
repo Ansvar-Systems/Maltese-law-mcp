@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-552-10-mlt",
+  "type": "statute",
+  "title": "Regolament dwar il-Perjodu tal-Għeluq tal-Uffiċċji tal-Awtorità ta’ Malta dwar l-Ambjent u l-Ippjanar",
+  "title_en": "Regolament dwar il-Perjodu tal-Għeluq tal-Uffiċċji tal-Awtorità ta’ Malta dwar l-Ambjent u l-Ippjanar",
+  "short_name": "eli/sl/552.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
+  "url": "https://legislation.mt/eli/sl/552.10/20101221/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.10/mlt, expression eli/sl/552.10/20101221/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 4 tal-2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolament dwar ilPerjodu tal-G]eluq tal-Uffi``ji tal-Awtorità tal-Ippjanar.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 4 tal-2008",
+      "content": "\"L-Att\" tfisser l-Att dwar l-Ippjanar tal-I\\vilupp.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "\"L-Att\" tfisser l-Att dwar l-Ippjanar tal-I\\vilupp",
+      "content": "(1) Il-perjodu meta l-uffi``ji tal-Awtorità tal-Ippjanar\nikunu mag]luqin g]andu jkun mit-23 ta’ Di`embru ta’ xi sena sa l1 ta’ Jannar tas-sena li ti[i minnufih wara.\n(2) Il-perjodu msemmi fis-subregolament (1) m’g]andux\njitqies b]ala parti mi\\-\\mien ori[inali jew esti\\ imsemmi flartikolu 74(1) jew tal-perjodu msemmi fl-artikolu 71 tal-Att.\n\nTitolu.\nTifsir.\nKap. 552.\nPerjodu ta’ g]eluq.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

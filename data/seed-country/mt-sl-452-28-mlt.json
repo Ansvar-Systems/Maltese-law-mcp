@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-28-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Baħħara",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Baħħara",
+  "short_name": "eli/sl/452.28/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.28/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.28/mlt, expression eli/sl/452.28/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 67 ta’ l-1967",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Ba]]ara.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’din l-Ordni, kemm-il darba l-kuntest tal-kliem ma\nje]tie[x xort’o]ra -\n\nTifsir.\n\n\"bastiment\" tinkludi kwalunkwe dg]ajsa, lan`a jew vapur ta’ kull\ndeskrizzjoni tkun li tkun; u\n\"vapur tas-sajd\" tfisser vapur li ja]dem regolarment g]all-finijiet\ntan-negozju tas-sajd.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi g]all-Ba]]ara li\ng]andu japplika g]all-persuni kollha impjegati abbord ta’\nbastimenti li ja]dmu regolarment fl-ib]ra territorjali ta’ Malta i\\da\nesklu\\i persuni impjegati abbord ta’ vapuri tas-sajd jew fuq\nbastimenti li jba]]ru barra mill-pajjiz.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntat-13 ta’ {unju, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

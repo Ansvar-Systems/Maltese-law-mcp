@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-42-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Informazzjoni Addizzjonali fuq ir-Reġistru ta Impjegati",
+  "title_en": "Regolamenti dwar Informazzjoni Addizzjonali fuq ir-Reġistru ta Impjegati",
+  "short_name": "eli/sl/452.42/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.42/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.42/mlt, expression eli/sl/452.42/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 50 ta’ l-1976",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nInformazzjoni Addizzjonali fuq ir-Re[istru ta’ Impjegati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-Re[istru jew ir-Re[istri li g]andhom jin\\ammu g]allfinijiet ta’ l-artikolu 14(1) ta’ l-Att li Jirregola l-Kundizzjonijiet ta’\nl-Impieg g]andhom jinkludu wkoll l-informazzjoni addizzjonali li\n[ejja dwar kull impjegat:\n\nInformazzjoni\naddizzjonali firre[istru.\nKap. 135.\n\n(a) in-numru tas-sigurtà nazzjonali;\n(b) id-data meta beda ja]dem;\n(`) kemm ikun intitolat vakanzi u leave g]all-mard;\n(d) id-dati tal-vakanzi bi ]las u leave g]all-mard bi ]las,\njekk ikun hemm, mog]tija lill-impjegat;\n(e) in-numru tal-Ktieb tax-Xog]ol; u\n(f)\n\nfil-ka\\ ta’ mpjegat li l-kundizzjonijiet ta’ l-impieg\ntieg]u jkunu regolati minn xi Ordni li jirregola l-Pagi\nli jistipula kondizzjonijiet li jiddependu millesperjenza jew impieg pre`edenti, dettalji dwar dik lesperjenza jew l-impieg pre`edenti, skond il-ka\\,\ninklu\\ i\\-\\mien tieg]u.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-441-6-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Istabbiliment ta’ Swieq fil-Beraħ",
+  "title_en": "Ordni dwar l-Istabbiliment ta’ Swieq fil-Beraħ",
+  "short_name": "eli/sl/441.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/441.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/441.6/mlt, expression eli/sl/441.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 361 tal-2002 u 51 tal-2011, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar l-Istabbiliment ta’\nSwieq fil-Bera].",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ghall-finijiet ta’ l-artikolu 23 ta’ l-Att dwar il-Li`enzi talKummer`, il-Ministru g]as-Servizzi Ekonomi`i waqqaf lil dawn isswieq fil-bera] li [ejjin skond u g]all-finijiet ta’ l-istess Att:\n\nStabbiliment ta’\nswieq fil-bera].\nKap. 441.\n\n(a) Ta’ Qali - |ona g]all-Ipparkjar (Park Nazzjonali).\nImmarkata b]ala |ona NWTQ 14 fil-Pjan ta’ Azzjoni\ng]al ta’ Qali;\n(b) Is-suq fil-bera] fil-Park and Ride, Flagstone Wharf,\nHornworks Ditch, Floriana.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

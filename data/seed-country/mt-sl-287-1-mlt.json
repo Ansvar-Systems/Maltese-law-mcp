@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-287-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Rimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni",
+  "title_en": "Regolamenti dwar Rimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni",
+  "short_name": "eli/sl/287.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/287.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/287.1/mlt, expression eli/sl/287.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 24 ta’ l-1985, kif emendat bl-Avvi\\ Legali 423 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nRimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jit]allas lill-assistenti tal-Qorti tal-Minorenni\nma]tura ta]t l-artikolu 4 ta’ l-Att dwar il-Qorti tal-Minorenni, meta\ndawk l-assistenti ma jkunux fl-impieg tal-Gvern, dritt ta’ disa’ euro\nu tnejn u tletin `ente\\mu (9.32) g]al kull seduta ta’ l-imsemmija\nQorti.\n\nRimunerazzjoni\nlill-assistenti.\nEmendat:\nA.L. 423 ta’ l2007.\nKap. 287.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

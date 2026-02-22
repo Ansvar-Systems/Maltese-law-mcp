@@ -1,0 +1,225 @@
+{
+  "id": "mt-sl-552-31-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Infrastruttura għall-Informazzjoni Ġeografika",
+  "title_en": "Regolamenti dwar l-Infrastruttura għall-Informazzjoni Ġeografika",
+  "short_name": "eli/sl/552.31/mlt",
+  "status": "in_force",
+  "issued_date": "2021-07-09",
+  "in_force_date": "2021-06-22",
+  "url": "https://legislation.mt/eli/sl/552.31/20210622/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.31/mlt, expression eli/sl/552.31/20210622/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 268 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lInfrastruttura għall-Informazzjoni Ġeografika.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "TTitolu",
+      "content": "Għall-finijiet ta’ dawn ir-regolamenti, u sakemm ir-rabta\ntal-kliem ma tkunx teħtieġ xort’oħra:\n\nTifsir.\n\n\"l-awtorita` kompetenti\" tfisser l-Awtorità tal-Ippjanar;\n\"awtorità pubblika\" tfisser:\n(a)\nkull gvern jew amministrazzjoni pubblika\noħra, inklużi korpi konsultattivi pubbliċi, fuq livell\nnazzjonali, reġjonali jew lokali;\n(b)\nkull persuna naturali jew ġuridika li tkun\nqed twettaq funzjonijiet amministrattivi pubbliċi taħt illiġi nazzjonali, inklużi dmirijiet, attivitajiet jew servizzi\nspeċifiċi relatati mal-ambjent; u\n(ċ)\nkull persuna naturali jew ġuridika li jkollha\nresponsabbiltajiet jew funzjonijiet pubbliċi, jew li tkun\ntipprovdi servizzi pubbliċi li jkollhom x’jaqsmu malambjent taħt il-kontroll ta’ korp jew persuna li jkunu\njaqgħu taħt il-paragrafi (a) jew (b):\nIżda li, meta l-korpi jew l-istituzzjonijiet ikunu\njaġixxu f’kapaċità ġudizzjarja jew leġislattiva, m’għandhomx\nikunu meqjusa bħala awtorità pubblika għall-finijiet ta’ dawn\nir-regolamenti;\n\"data ġeografika\" tfisser kull data b’referenza diretta jew\nindiretta għal lokalità speċifika jew żona ġeografika;\n\"Direttiva\" tfisser id-Direttiva 2007/2/KE tal-Parlament\nEwropew u tal-Kunsill tal-14 Marzu, 2007 li tistabbilixxi\nInfrastruttura għall-Informazzjoni Ġeografika fil-Komunità\nEwropea (INSPIRE) u tinkludi kull regola u r-regolamenti oħra\ntal-Unjoni Ewropea li jimplimentaw id-Direttiva;\n\"infrastruttura għall-informazzjoni ġeografika\" tfisser\nmeta-data, settijiet ta’ data ġeografika u servizzi ta’ data\nġeografika; servizzi u teknoloġiji ta’ network; ftehim dwar\n\n[ L.S. 552.31\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\nqsim, aċċess u użu; u mekkaniżmi, proċessi u proċeduri ta’\nkoordinazzjoni u ta’ monitoraġġ stabbiliti, operati jew\nmagħmula disponibbli skont dawn ir-regolamenti;\n\"INSPIRE Geo-portal\" tfisser sit tal-internet, jew\nekwivalenti, li jipprovdi aċċess għas-servizzi msemmija f’dawn\nir-regolamenti;\n\"interoperabbiltà\" tfisser il-possibbiltà li settijiet ta’ data\nġeografika jiġu kkombinati, u li s-servizzi jinteraġixxu,\nmingħajr interventi manwali ripetittivi, b’dak il-mod li r-riżultat\nikun koerenti u l-valur miżjud tas-settijiet u servizzi ta’ data\njkun msaħħaħ;\n\"meta-data\" tfisser informazzjoni li tiddeskrivi settijiet ta’\ndata ġeografika u servizzi ta’ data ġeografika u li tagħmilha\npossibbli li tiskoprihom, iddaħħalhom f’inventarju u tużahom;\n\"oġġett ġeografiku\" tfisser rappreżentazzjoni astratta ta’\nfenomenu tad-dinja reali li għandha x’taqsam ma’ lokalità\nspeċifika jew żona ġeografika;\n\"parti terza\" tfisser kull persuna naturali jew ġuridika li\nmhix awtorità pubblika;\n\"servizzi ta’ data ġeografika\" tfisser operazzjonijiet li\njistgħu jsiru, billi tintuża applikazzjoni tal-kompjuter, fuq iddata ġeografika li tinsab fis-settijiet ta’ data ġeografika jew dwar\nil-meta-data relatata. Dawn ir-regolamenti għandhom ikopru\nwkoll servizzi ta’ data ġeografika relatati ma’ settijiet ta’ data\nġeografika li jaqgħu taħt dawn ir-regolamenti;\n\"sett ta’ data ġeografika\" tfisser kollezzjoni li tidentifika\ndata ġeografika li:\n(a)\n\ntkun f’format elettroniku;\n\n(b)\nikollha x’taqsam ma’ waħda (1) jew iżjed\nmit-temi elenkati fl-Ewwel, it-Tieni u t-Tielet Skedi;\n(ċ)\npubblika;\n\ntkun miżmuma minn jew f’isem awtorità\n\n(d)\ntkun relatata mat-territorju ta’ Malta,\ninklużi l-ibħra territorjali jew żoni marittimi adjaċenti; u\n(e)\ntkun tinżamm minn awtoritajiet pubbliċi\nkemm-il darba l-ġbir jew id-disseminazzjoni tagħhom\njaqa’ fl-ambitu tal-kompiti pubbliċi tagħhom:\nIżda li, settijiet ta’ data ġeografika li ma jkunux\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\n\n[ L.S.552.31\n\nmiżmuma minn awtoritajiet pubbliċi, iżda li jkunu jilħqu lħtiġiet ta’ sett ta’ data ġeografika, għandhom ikunu koperti\nb’dawn ir-regolamenti jekk il-ġeo-portal nazzjonali jkun ġie\nprovdut lil minn ikun fil-pussess ta’ dik id-data:\nIżda wkoll li, awtoritajiet pubbliċi jistgħu jieħdu\nazzjoni biss rigward settijiet ta’ data ġeografika li dwarhom xi\nparti terza għandha drittijiet ta’ proprjetà intellettwali, jekk\nikollhom il-kunsens ta’ dik il-parti terza:\nIżda wkoll li, f’każijiet fejn ħafna kopji identiċi\ntal-istess sett ta’ data ġeografika jkunu miżmuma minn jew\nf’isem diversi awtoritajiet pubbliċi differenti, dawn irregolamenti għandhom japplikaw biss għall-verżjoni ta’\nreferenza li minnha jkunu derivati l-kopji.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 126
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "referenza li minnha jkunu derivati l-kopji",
+      "content": "(1)\nAwtoritajiet pubbliċi għandhom joħolqu metadata għas-settijiet jew għas-servizzi ta’ data ġeografika li\njikkorrispondu mat-temi ta’ data ġeografika elenkati fl-Ewwel, it-Tieni\nu t-Tielet Skedi. Il-meta-data għandha tinżamm aġġornata.\n\nMeta-data.\n\n(2)\nL-awtorità kompetenti għandha tistabbilixxi linji gwida\ndwar l-informazzjoni li l-meta-data għandha tinkludi u dwar kif ilmeta-data tiġi aġġornata kif ukoll dwar l-arranġamenti tekniċi dwar linteroperabbiltà u l-armonizzazzjoni ta’ settijiet u servizzi ta’ data\nġeografika li jirriflettu:\n(a)\nil-konformità ta’ settijiet ta’ data ġeografika marregoli implimentattivi previsti fl-Artikolu 5(4) tad-Direttiva;\n(b)\nkondizzjonijiet li japplikaw għall-aċċess għal, u lużu ta’, settijiet u servizzi ta’ data ġeografika u, fejn hu\napplikabbli, it-tariffi korrispondenti;\n(ċ)\nil-kwalità\nġeografika;\n\nu\n\nl-validità\n\ntas-settijiet\n\nta’\n\ndata\n\n(d)\nl-awtoritajiet pubbliċi responsabbli għallistabbiliment, l-amministrazzjoni, il-manutenzjoni u ddistribuzzjoni ta’ settijiet u servizzi ta’ data ġeografika;\n(e)\nlimitazzjonijiet għall-access\nraġunijiet għal tali limitazzjonijiet.\n\npubbliku\n\nu\n\nr-",
+      "metadata": {
+        "source_line_start": 127,
+        "source_line_end": 169
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "r-",
+      "content": "(1)\nL-awtorità kompetenti għandha tistabbilixxi u\ntħaddem dawn is-servizzi li ġejjin fuq l-internet bis-saħħa talINSPIRE Geo-portal:\n(a)\nservizzi ta’ sejbien li jagħmlu possibbli t-tfittix ta’\nsettijiet u servizzi ta’ data ġeografika fuq bażi tal-kontenut talmeta-data korrispondenti u sabiex jitpoġġa għall-wiri l-\n\nINSPIRE Geoportal.\n\n[ L.S. 552.31\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\nkontenut tal-meta-data;\n(b)\nservizzi ta’ viżjoni li jagħmluha possibbli, bħala\nminimu, li jintwerew, ifittxu, isir zooming ’il barra u ’l ġewwa,\nisir panning, jew jitqiegħdu fuq xulxin settijiet li jistgħu jkunu\nviżibbli ta’ data ġeografika u li tintwera l-informazzjoni ta’\nspjega u kull kontenut relevanti tal-meta-data;\n(ċ)\nservizzi ta’ download, li jkunu jippermettu li kopji\nta’ settijiet ta’ data ġeografika, jew partijiet minn dawk issettijiet, jitniżżlu mill-Internet u, fejn ikun prattiku, ikun hemm\naċċess dirett għalihom;\n(d)\nservizzi ta’ trasformazzjoni, li jippermettu li\nsettijiet ta’ data ġeografika jiġu trasformati bil-ħsieb li tinkiseb\nl-interoperabbiltà. Dawn is-servizzi ta’ trasformazzjoni\ngħandhom jitħalltu mas-servizzi l-oħra msemmija f’dan issubregolament b’dak il-mod li jħallu dawk is-servizzi kollha li\ngħandhom jitħaddmu skont id-dispożizzjonijiet dwar\narranġamenti\ntekniċi\ngħall-interoperabbiltà\nu\ngħallarmonizzazzjoni ta’ settijiet ta’ data ġeografika u ta’ servizzi ta’\ndata ġeografika;\n(e)\nservizzi li jippermettu li jintalbu servizzi ta’ data\nġeografika.\n\n(2)\nGħall-finijiet tas-servizzi msemmija fis-subregolament\n(1), il-kriterji tat-tfittix li ġejjin għandhom jiġu implimentati:\n(a)\n\nkliem ewlieni;\n\n(b)\nklassifikazzjoni ta’ data ġeografika u ta’ servizzi\nta’ data ġeografika;\n(ċ)\n\nil-kwalità u l-validità ta’ data ġeografika;\n\n(d)\nil-grad ta’ konformità mad-dispożizzjonijiet ta’\ninteroperabbiltà u ta’ armonizzazzjoni ta’ settijiet u servizzi ta’\ndata ġeografika;\n(e)\n\npożizzjoni ġeografika;\n\n(f)\nkondizzjonijiet li jkunu japplikaw għall-aċċess u\ngħall-użu ta’ settijiet u servizzi ta’ data ġeografika;\n(g)\nl-awtoritajiet\npubbliċi\nresponsabbli\nistabbiliment, l-amministrazzjoni, il-manutenzjoni\ndistribuzzjoni ta’ settijiet u servizzi ta’ data ġeografika.\nRabta malINSPIRE Geoportal.\n\ngħallu d-",
+      "metadata": {
+        "source_line_start": 170,
+        "source_line_end": 250
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Rabta malINSPIRE Geoportal",
+      "content": "(1)\nAwtoritajiet pubbliċi għandhom ikunu jorbtu ssettijiet u s-servizzi ta’ data ġeografika tagħhom mal-INSPIRE Geoportal skont id-dispożizzjonijiet tar-regolament 4.\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\n\n[ L.S.552.31\n\n(2)\nDetenturi ta’ settijiet u servizzi ta’ data ġeografika li\njkunu skont id-dispożizzjonijiet ta’ dawn ir-regolamenti u skont iddispożizzjonijiet dwar il-meta-data, servizzi ta’ network u\ninteroperabbiltà stipulati mill-Kummissjoni skont id-Direttiva jistgħu,\nfuq talba lill-awtorità kompetenti, jorbtu s-settijiet u s-servizzi ta’ data\nġeografika tagħhom mal-INSPIRE Geo-portal.",
+      "metadata": {
+        "source_line_start": 251,
+        "source_line_end": 266
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Rabta malINSPIRE Geoportal",
+      "content": "(1)\nMingħajr preġudizzju għad-dispożizzjonijiet tarregolament 7 tar-Regolamenti dwar il-Libertà ta’ Aċċess għal\nInformazzjoni dwar l-Ambjent, kull persuna għandha jkollha aċċess\nminn fuq l-INSPIRE Geo-portal għal settijiet u servizzi ta’ data\nġeografika relatati ma’ informazzjoni ambjentali jew mat-temi elenkati\nfl-Ewwel, it-Tieni u t-Tielet Skedi. L-aċċess għal riċerka dwar settijiet\nu servizzi ta’ data ġeografika, fuq bażi tal-kontenut tal-meta-data\nkorrispondenti u sabiex jidher il-kontenut tal-meta-data bis-saħħa tasservizz tat-tfittix imsemmi fir-regolament 4, għandha tkun limitata biss\ngħar-rigward interessi internazzjonali, is-sigurtà pubblika u għaddifiża nazzjonali.\n\nAċċess għallINSPIRE Geoportal.\nL.S. 549.39.\n\n(2)\nData li tkun disponibbli permezz tas-servizzi ta’ viżjoni\nmsemmija fir-regolament 4 tista’ tkun b’dak il-mod li tipprevjeni l-użu\nmill-ġdid ta’ dik id-data għal skopijiet kummerċjali.\n(3)\nDeċiżjonijiet marbuta mad-dispożizzjonijiet tassubregolamenti (1) u (2) għandhom jittieħdu mill-awtorità li jkollha\nfil-pussess tagħha s-settijiet u s-servizzi ta’ data ġeografika.\nDeċiżjonijiet ta’ dik l-awtorità għandhom jitqiesu bħala deċiżjonijiet\ntal-awtorità kompetenti taħt id-dispożizzjonijiet tar-Regolamenti dwar\nil-Libertà ta’ Aċċess għal Informazzjoni dwar l-Ambjent, u ddispożizzjonijiet ta’ dawk ir-regolamenti għandhom japplikaw mutatis\nmutandis għal dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 267,
+        "source_line_end": 291
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "mutandis għal dawn ir-regolamenti",
+      "content": "(1)\nIs-servizzi ta’ tfittix u ta’ viżjoni msemmija firregolament 4 għandhom ikunu disponibbli għall-pubbliku mingħajr\nħlas.\n\nL.S. 549.39.\n\nĦlas.\n\n(2)\nAwtoritajiet pubbliċi li jfornu s-servizzi l-oħra msemmija\nfir-regolament 4 jistgħu jagħmlu dan bi ħlas, u jistgħu jkunu koperti\nwkoll minn dikjarazzjonijiet ta’ ċaħda jew liċenzji:\nIżda li, s-servizz għandu jkun offrut permezz ta’\nkummerċ elettroniku.",
+      "metadata": {
+        "source_line_start": 292,
+        "source_line_end": 306
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "kummerċ elettroniku",
+      "content": "(1)\nAwtorità pubblika għandha tagħmel is-settijiet u\ns-servizzi ta’ data ġeografika disponibbli b’mod li jipprekludu\nkwalunkwe restrizzjoni li x’aktarx toħloq ostakli prattiċi, li jseħħu filpunt tal-użu minn awtoritajiet pubbliċi li jkunu jeħtieġu dan sabiex\nikunu jistgħu jesegwixxu l-kompiti pubbliki tagħhom.\n(2)\nGħall-finijiet ta’ kompiti pubbliċi li jista’ jkollhom\nimpatt fuq l-ambjent, settijiet u servizzi ta’ data ġeografika għandhom\n\nKondiviżjoni ta’\ndata.\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\n[ L.S. 552.31\nikunu disponibbli għal istituzzjonijiet jew korpi tal-UE u għal\nawtoritajiet pubbliċi ta’ Stati Membri oħra tal-UE.\n(3)\nAwtorità pubblika tista’ toħroġ liċenza jew teħtieġ ħlas\nmingħand l-awtoritajiet pubbliċi l-oħra li, skont is-subregolamenti (1) u\n(2), jużaw is-settijiet jew servizzi ta’ data ġeografika tal-awtorità\nrelevanti.\n(4)\nSettijiet u servizzi ta’ data ġeografika magħmula\ndisponibbli għal istituzzjonijiet jew korpi tal-UE, sabiex jissodisfaw lobbligi ta’ rappurtaġġ skont ir-regolamenti tal-UE relatati mal-ambjent,\nm’għandhom ikunu soġġetti għal ebda ħlas.\n(5)\nGħall-finijiet ta’ kompiti pubbliċi li jista’ jkollhom impatt\nfuq l-ambjent, settijiet u servizzi ta’ data ġeografika għandhom jkunu\nmagħmula disponibbli għal korpi stabbiliti minn ftehim internazzjonali,\nli tagħhom l-UE u l-Istati Membri tal-UE huma partijiet. Iddispożizzjonijiet tas-subregolament (3) għandhom japplikaw.\n(6)\nL-aċċess sabiex tagħmel settijiet u servizzi ta’ data\nġeografika jista’ jkun limitat mill-awtorità kompetenti li żżomm\nsettijiet jew servizzi ta’ data ġeografika għal finijiet tal-kors talġustizzja, interessi internazzjonali, is-sigurtà pubblika jew id-difiża\nnazzjonali.\n(7)\nL-awtorità kompetenti tista’, wara konsultazzjoni malpartijiet relevanti, tiddeċiedi jekk settijiet jew servizzi ta’ data\nġeografika għandhomx ikunu disponibbli u timponi kondizzjonijiet,\ninkluż kondizzjonijiet li jirregolaw l-użu, li hi tista’ tqis xierqa u adatti\nskont il-liġi.\n\nMonitoraġġ u\nrappurtar.",
+      "metadata": {
+        "source_line_start": 307,
+        "source_line_end": 357
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "rappurtar",
+      "content": "(1)\nL-awtorità kompetenti għandha tissorvelja limplimentazzjoni u l-użu tal-infrastrutturi għall-informazzjoni\nġeografika u tagħmel ir-riżultati aċċessibbli għall-Kummissjoni u\ngħall-pubbliku fuq bażi permanenti.\n(2)\nMhux aktar tard mill-31 ta’ Marzu ta’ kull sena, l-Awtorità\nkompetenti għandha taġġorna u, jekk neċessarju, tippubblika rapport\nsommarju. Dawk ir-rapporti, li għandhom jiġu ppubblikati mis-servizzi\ntal-Kummissjoni assistiti mill-Aġenzja Ewropea għall-Ambjent,\ngħandhom jinkludu deskrizzjonijiet sommarji ta’:\n(a)\nkif il-fornituri u l-utenti fis-settur pubbliku ta’\nsettijiet u servizzi ta’ data ġeografika u korpi intermedjarji huma\nkkoordinati, u r-relazzjoni mal-partijiet terzi u l-organizzazzjoni\ntal-assigurazzjoni tal-kwalità;\n(b)\nil-kontribut magħmul mill-awtoritajiet pubbliċi\njew partijiet terzi għall-funzjonament u l-koordinazzjoni talinfrastruttura għall-informazzjoni ġeografika;\n\nGĦALL-INFORMAZZJONI ĠEOGRAFIKA\n\n[ L.S.552.31\n\n(ċ)\ninformazzjoni dwar l-użu tal-infrastruttura għallinformazzjoni ġeografika;\n(d)\npubbliċi;\n\nftehim ta’ kondiviżjoni ta’ data bejn l-awtoritajiet\n\n(e)\nDirettiva.\n\nl-ispejjeż u l-benefiċċji tal-implimentazzjoni tad-\n\n(3)\nL-awtorità kompetenti\nimplimentattivi għal dan l-iskop.\n\ngħandha\n\ntadotta\n\nregoli",
+      "metadata": {
+        "source_line_start": 358,
+        "source_line_end": 405
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Direttiva",
+      "content": "Ir-Regolamenti dwar l-Infrastruttura għall-Informazzjoni\nĠeografika huma b’dawn revokati mingħajr preġudizzju għal dak\nkollu li sar jew li naqas milli jsir taħthom.\n\n(Regolamenti 2, 3 u 6)\nTEMI TA’ DATA ĠEOGRAFIKA",
+      "metadata": {
+        "source_line_start": 406,
+        "source_line_end": 413
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "analitika oħra",
+      "content": "Amministrazzjoni ta’ żoni/restrizzjoni/żoni regolati u\nunitajiet ta’ rapportar.\nŻoni amministrati, regolati jew użati għar-rappurtar fuq\nil-livell internazzjonali, Ewropew, nazzjonali, reġjonali u\nlokali. Huma inklużi siti użati għar-radam, żoni ristretti\nmadwar għejjun tal-ilma għax-xorb, żoni vulnerabbli\ngħan-nitrati, kanali regolati fil-baħar jew f’ilmijiet interni\nkbar, żoni għar-radam tal-iskart, żoni għar-restrizzjoni\ntal-istorbju, żoni b’permess għat-tħaffir u għat-tiftix ta’\nminerali, distretti ta’ baċiri tax-xmajjar, unitajiet ta’\nrapportar relevanti u żoni ta’ amministrazzjoni tal-inħawi\ntal-kosta.",
+      "metadata": {
+        "source_line_start": 623,
+        "source_line_end": 637
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "tal-kosta",
+      "content": "Żoni ta’ riskju naturali.\nŻoni vulnerabbli kkaratterizzati skont perikoli naturali\n(kull fenomenu atmosferiku, idroloġiku, sismiku,\nvulkaniku u tan-nirien mifruxa li, minħabba fejn jinsabu,\nil-qawwa u l-frekwenza tagħhom, għandhom il-potenzjal\nli jaffettwaw b’mod gravi s-soċjetà) eż. għargħar, żerżiq\ntal-art u ċediment tal-art, valangi, nirien fil-foresti,\nterremoti, eruzzjonijiet vulkaniċi.",
+      "metadata": {
+        "source_line_start": 638,
+        "source_line_end": 648
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "terremoti, eruzzjonijiet vulkaniċi",
+      "content": "Kondizzjonijiet atmosferiċi.\nKondizzjonijiet fiżiċi fl-atmosfera. Hija inkluża data\nġeografika bbażata fuq kejl, fuq mudelli jew fuq ilkombinazzjoni tagħhom kif ukoll is-siti tal-kejl.",
+      "metadata": {
+        "source_line_start": 649,
+        "source_line_end": 654
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Kondizzjonijiet fiżiċi fl-atmosfera. Hija inkluża data",
+      "content": "Karatteristiċi ġeografiċi meteoroloġiċi.\nIl-kondizzjonijiet tat-temp u l-kejl tagħhom; ilpreċipitazzjoni, it-temperatura, l-evapotraspirazzjoni, ilveloċità u d-direzzjoni tar-riħ.",
+      "metadata": {
+        "source_line_start": 655,
+        "source_line_end": 659
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Karatteristiċi ġeografiċi meteoroloġiċi",
+      "content": "Karatteristiċi ġeografiċi oċeanografiċi.\nKondizzjonijiet fiżiċi tal-oċeani (kurrenti, imluħa, għoli\ntal-mewġ, eċċ.).",
+      "metadata": {
+        "source_line_start": 660,
+        "source_line_end": 665
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "tal-mewġ, eċċ.)",
+      "content": "Reġjuni tal-baħar.\nKondizzjonijiet fiżiċi tal-ibħra u korpi ta’ ilma mielaħ\nimqassma f’reġjuni u sub-reġjuni b’karatteristiċi komuni.\n\n[ L.S. 552.31",
+      "metadata": {
+        "source_line_start": 666,
+        "source_line_end": 677
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "[ L.S. 552.31",
+      "content": "GĦALL-INFORMAZZJONI ĠEOGRAFIKA\nReġjuni bijo-ġeografiċi.\nŻoni ta’ kondizzjonijiet ekoloġiċi relattivament omoġenji\nb’karatteristiċi komuni.",
+      "metadata": {
+        "source_line_start": 678,
+        "source_line_end": 685
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "b’karatteristiċi komuni",
+      "content": "L-abitati u l-bijotopi.\nŻoni ġeografiċi kkaratterizzati minn kondizzjonijiet\nekoloġiċi, proċessi, struttura, u funzjonijiet (sostenn talħajja) speċifiċi li jsostnu fiżikament l-organiżmi li jgħixu\nfihom. Huma inklużi żoni tal-art jew tal-ilma li jintgħarfu\npermezz ta’ karatteristiċi ġeografiċi, abijotiċi u bijotiċi,\nsew jekk għal kollox naturali kif ukoll jekk semi-naturali.",
+      "metadata": {
+        "source_line_start": 686,
+        "source_line_end": 694
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "L-abitati u l-bijotopi",
+      "content": "Distribuzzjoni tal-ispeċi.\nDistribuzzjoni ġeografika tal-okkorrenza ta’ speċi ta’\nannimali u ta’ pjanti miġbura flimkien skont il-grilja, irreġjun, l-unità amministrattiva jew unità analitika oħra.",
+      "metadata": {
+        "source_line_start": 695,
+        "source_line_end": 700
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "L-abitati u l-bijotopi",
+      "content": "Riżorsi ta’ enerġija.\nRiżorsi ta’ enerġija inklużi idrokarburi, enerġija idroelettrika, bijo-enerġija, bix-xemx, bir-riħ, eċċ., fejn ikun\nrelevanti, inkluża informazzjoni dwar il-fond, l-għoli\nrigward id-daqs tar-riżors.",
+      "metadata": {
+        "source_line_start": 701,
+        "source_line_end": 707
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "L-abitati u l-bijotopi",
+      "content": "Riżorsi minerali.\nRiżorsi minerali inklużi minerali tal-metall, minerali\nindustrijali, eċċ, fejn relevanti inkluża informazzjoni dwar\nil-fond, l-għoli rigward id-daqs tar-riżors.",
+      "metadata": {
+        "source_line_start": 708,
+        "source_line_end": 716
+      }
+    }
+  ],
+  "definitions": []
+}

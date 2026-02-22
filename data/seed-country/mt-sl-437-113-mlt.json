@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-437-113-mlt",
+  "type": "statute",
+  "title": "Regoli dwar il-Metodi għall-Identifikazzjoni ta' Equidae",
+  "title_en": "Regoli dwar il-Metodi għall-Identifikazzjoni ta' Equidae",
+  "short_name": "eli/sl/437.113/mlt",
+  "status": "in_force",
+  "issued_date": "2024-04-04",
+  "in_force_date": "2024-05-26",
+  "url": "https://legislation.mt/eli/sl/437.113/20240526/mlt",
+  "description": "Official text from legislation.mt (eli/sl/437.113/mlt, expression eli/sl/437.113/20240526/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 75 tal-2024",
+      "content": "(1)\nIt-titolu ta' dawn ir-regoli hu r-Regoli dwar ilMetodi għall-Identifikazzjoni ta' Equidae.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dawn ir-regoli hu li jimplimentaw ir-rekwiżiti\ntar-Regolament ta' Implimentazzjoni tal-Kummissjoni (UE) 2015/262\ntas-17 ta' Frar 2015 li jistabbilixxi regoli skont id-Direttivi tal-Kunsill\n90/427/KEE u 2009/156/KE fir-rigward tal-metodi għallidentifikazzjoni tal-equidae (Regolament dwar il-Passaport Ekwin).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tas-17 ta' Frar 2015 li jistabbilixxi regoli skont id-Direttivi tal-Kunsill",
+      "content": "(1)\nF'dawn ir-regoli, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort'oħra:\n\"Att\" tfisser l-Att dwar is-Servizzi Veterinarji;\n\nTifsir.\n\nKap. 437.\n\n\"Dipartiment\" għandu jkollha l-istess tifsira kif mogħti\nlilha fl-Att;\n\"Regolament (UE) 2015/262\" tfisser ir-Regolament ta'\nImplimentazzjoni tal-Kummissjoni (UE) 2015/262 tas-17 ta'\nFrar 2015 li jistabbilixxi regoli skont id-Direttivi tal-Kunsill 90/\n427/KEE u 2009/156/KE fir-rigward tal-metodi għallidentifikazzjoni tal-equidae (Regolament dwar il-Passaport\nEkwin), kif fis-seħħ minn żmien għal żmien.\n(2)\nSakemm ir-rabta tal-kliem ma teħtieġx xort' oħra, kliem\nu frażijiet użati f'dawn ir-regoli li ma humiex imfissra hawnhekk,\ngħandu jkollhom l-istess tifsira kif mogħti lilhom fir-Regolament (UE)\n2015/262 u fl-Att.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Għall-finijiet tar-Regolament (UE)\nDipartiment għandu jkun l-awtorità kompetenti.\n\n2015/262\n\nid-\n\nAwtorità\nkompetenti.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "kompetenti",
+      "content": "Bla ħsara għal kwalunkwe setgħa jew responsabbiltà\noħra skont il-liġi u għall-applikazzjoni tagħha fi kwalunkwe mod ieħor\nskont il-liġi, it-Taqsima IX tal-Att għandha tapplika wkoll mutatis\nmutandis għal dawn ir-regoli.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Taqsima IX tal-Att",
+      "content": "(1)\nBla ħsara għar-regola 4, kwalunkwe persuna li\ntikser id-dispożizzjonijiet ta’ dawn ir-regoli jew kwalunkwe obbligu\nskont dawn ir-regoli, jew li tikser xi dispożizzjoni tar-Regolament\n(UE) 2015/262, jew tfixkel lil xi persuna responsabbli għallimplimentazzjoni tagħhom, għandha teħel meta tinstab ħatja l-pieni\nstabbiliti fl-Att.\n\nReati u pieni.\n\n[ L.S. 437.113\n\nMETODI GĦALL-IDENTIFIKAZZJONI TA' EQUIDAE\n\n(2)\nBla ħsara għad-dispożizzjonijiet tas-subregola (1), ilQorti tista’ tordna wkoll lil kwalunkwe persuna li tinstab ħatja ta’ reat,\nsabiex tħallas għall-ispejjeż inkorsi mill-awtorità kompetenti u dDirettur tas-Servizzi Veterinarji b’riżultat tal-imsemmi reat, kif ukoll\nir-revoka ta’ kwalunkwe permess jew ċertifikazzjoni maħruġa skont\ndawn ir-regoli u l-konfiska, iż-żamma jew il-qerda jew mezz ieħor ta’\ndisponiment tal-annimali involuti.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 89
+      }
+    }
+  ],
+  "definitions": []
+}

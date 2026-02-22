@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-460-22-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Protokoll (Nru. 36) dwar id-Disposizzjonijiet Transitorji",
+  "title_en": "Ordni dwar il-Protokoll (Nru. 36) dwar id-Disposizzjonijiet Transitorji",
+  "short_name": "eli/sl/460.22/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-30",
+  "in_force_date": "2011-11-30",
+  "url": "https://legislation.mt/eli/sl/460.22/20111130/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.22/mlt, expression eli/sl/460.22/20111130/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 459 tal-2010",
+      "content": "It-titolu ta’ dan l-Ordni huwa l-Ordni dwar il-Protokoll\n(Nru. 36) dwar id-Disposizzjonijiet Transitorji.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-Ordni, kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieā xort’oħra:\n\nTifsiriet.\n\n\"l-Att\" tfisser l-Att dwar l-Unjoni Ewropea;\n\nKap. 460.\n\n\"il-Protokoll\" tfisser il-Protokoll (Nru. 36) dwar idDisposizzjonijiet Transitorji anness mat-Trattat dwar l-Unjoni\nEwropea, it-Trattat dwar il-Funzjonament tal-Unjoni Ewropea u tTrattat li jistabbilixxi l-Komunità Ewropea tal-Enerāija Atomika.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsiriet",
+      "content": "Għall-iskopijiet tal-artikolu 2(2) tal-Att huwa b’dan\niddikjarat illi l-Protokoll għandu jitqies bħala ħaāa waħda matTrattati fuq imsemmija malli l-Protokoll jidħol fis-seħħ bejn ilpajjiŜi kollha firmatarji tiegħu, kif provdut fit-tieni paragrafu talPreambolu għall-Protokoll.\n\nProtokoll jitqies\nħaāa waħda matTrattati.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

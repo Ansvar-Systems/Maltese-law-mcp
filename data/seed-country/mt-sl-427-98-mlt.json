@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-98-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Cableways Installations (Implementing)",
+  "title_en": "Regolamenti dwar Cableways Installations (Implementing)",
+  "short_name": "eli/sl/427.98/mlt",
+  "status": "in_force",
+  "issued_date": "2019-04-29",
+  "in_force_date": "2019-04-29",
+  "url": "https://legislation.mt/eli/sl/427.98/20190429/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.98/mlt, expression eli/sl/427.98/20190429/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CABLEWAYS INSTALLATIONS (IMPLEMENTING)\n\n[ L.S. 427.98\n\nLEĠISLAZZJONI SUSSIDJARJA 427.98\nREGOLAMENTI DWAR CABLEWAYS\nINSTALLATIONS (IMPLEMENTING) *\n16 ta’ April, 2019\nL-AVVIŻ LEGALI 79 tal-2019.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-464-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kumitat għall-Approvazzjoni ta' Speċjalisti",
+  "title_en": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kumitat għall-Approvazzjoni ta' Speċjalisti",
+  "short_name": "eli/sl/464.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/464.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.7/mlt, expression eli/sl/464.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "6 ta’ Mejju, 2005",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\ni l- {b i r ta ’ Dr i tti ji et m ill - Ku m it at g ]a ll- A p p r ov a zzjo n i ta’\nSpe`jalisti.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jit]allas lill-Kumitat g]all-Approvazzjoni ta’\nSpe`jalisti dritt ta’ mitt euro (€100) g]al kull applikazzjoni ta’\nakkreditazzjoni fir-Re[istru Mediku ta’ l-Ispe`jalisti.\n\nDrittijiet.\nEmendat:\nA.L. 397 ta’ l2005;\nA.L. 427 ta’ l2007;\nA.L. 238 ta’ l2009.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

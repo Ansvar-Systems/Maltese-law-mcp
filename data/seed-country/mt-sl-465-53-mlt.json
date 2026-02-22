@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-465-53-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Għeluq tar-Reġistru Pubbliku",
+  "title_en": "Ordni dwar l-Għeluq tar-Reġistru Pubbliku",
+  "short_name": "eli/sl/465.53/mlt",
+  "status": "repealed",
+  "issued_date": "2021-01-20",
+  "in_force_date": "2021-01-20",
+  "url": "https://legislation.mt/eli/sl/465.53/20210120/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.53/mlt, expression eli/sl/465.53/20210120/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 470 tal-2020",
+      "content": "(1)\nIt-titolu ta’ dan l-ordni huwa l-Ordni dwar lGħeluq tar-Reġistru Pubbliku.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-ordni, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Reġistru Pubbliku\" tfisser l-Uffiċċju tar-Reġistru\nPubbliku f’Malta miftuħ għall-iskrizzjonijiet tal-kawżi ta’\npreferenza bejn il-kredituri, għall-insinwa tal-atti li biex ikunu\njiswew quddiem it-terzi għandhom ikunu iskritti, u għal kull\niskrizzjoni oħra li trid il-liġi;\n\"Suprintendent\" għandu jkollha l-istess tifsira kif\nmogħtija lilha fl-Att dwar is-Saħħa Pubblika.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Is-Suprintendent b’dan tordna l-għeluq tas-Sezzjoni\nLegali fi ħdan ir-Reġistru Pubbliku, liema ordni għandu jibqa’ fis-seħħ\nsat-23 ta' Novembru tas-sena 2020, b'dana li noti ta’ iskrizzjoni ta’\nkawżi ta’ preferenza bejn kredituri, noti ta’ riferenza, u noti ta’ insinwa\nta’ atti jerġgħu jibdew jiġu milqugħa f'din is-sezzjoni fl-24 ta'\nNovembru tas-sena 2020. B'dan illi it-termini kollha għarreġistrazzjoni ta' tali noti, hekk kif joħorġu minn kwalsiasi liġi\ngħandhom ikunu meqjusa bħala sospiżi fi żmien li se tkun magħluqa\ndin is-sezzjoni u jerġgħu jibdew jiddekorru għat-termini li jkun fadal\nmill-24 ta' Novembru tas-sena 2020:\nIżda r-Reġistru Pubbliku ser jibqa’ miftuħ għall-każijiet li\ngħandhom x’jaqsmu ma’ sentenzi jew digrieti mogħtija mill-qrati talġustizzja.\n\nKap. 465.\n\nGħeluq tarReġistru Pubbliku.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

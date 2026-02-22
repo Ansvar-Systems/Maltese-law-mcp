@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Central Counterparties",
+  "title_en": "Regolamenti Dwar Central Counterparties",
+  "short_name": "eli/sl/345.18/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislation.mt/eli/sl/345.18/20180105/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.18/mlt, expression eli/sl/345.18/20180105/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CENTRAL COUNTERPARTIES ACCESS\n\n[ L.S.345.18\n\nLEĠISLAZZJONI SUSSIDJARJA 345.18\nREGOLAMENTI DWAR\nCENTRAL COUNTERPARTIES ACCESS*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 387 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

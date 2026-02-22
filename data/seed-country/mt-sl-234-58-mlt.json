@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-58-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships)",
+  "title_en": "Regolamenti dwar Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships)",
+  "short_name": "eli/sl/234.58/mlt",
+  "status": "in_force",
+  "issued_date": "2020-01-13",
+  "in_force_date": "2020-01-13",
+  "url": "https://legislation.mt/eli/sl/234.58/20200113/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.58/mlt, expression eli/sl/234.58/20200113/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERCHANT SHIPPING (COUNTING AND\nREGISTRATION OF PERSONS ON BOARD PASSENGER\nSHIPS)\n\n[ L.S. 234.58\n\nLEĠISLAZZJONI SUSSIDJARJA 234.58\nREGOLAMENTI DWAR MERCHANT SHIPPING\n(COUNTING AND REGISTRATION OF PERSONS ON\nBOARD PASSENGER SHIPS)\n21 ta’ Diċembru, 2019\n\nL-AVVIŻ LEGALI 346 tal-2019.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

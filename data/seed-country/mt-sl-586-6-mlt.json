@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-586-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ipproċessar ta’ Data Personali għall-iskopijiet tal-Att dwar l-Elezzjonijiet Ġenerali u l-Att dwar Kunsilli Lokali",
+  "title_en": "Regolamenti dwar l-Ipproċessar ta’ Data Personali għall-iskopijiet tal-Att dwar l-Elezzjonijiet Ġenerali u l-Att dwar Kunsilli Lokali",
+  "short_name": "eli/sl/586.6/mlt",
+  "status": "in_force",
+  "issued_date": "2013-01-28",
+  "in_force_date": "2013-01-28",
+  "url": "https://legislation.mt/eli/sl/586.6/20130128/mlt",
+  "description": "Official text from legislation.mt (eli/sl/586.6/mlt, expression eli/sl/586.6/20130128/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 30 tal-2013",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar lIpproċessar ta’ Data Personali għall-iskopijiet tal-Att dwar lElezzjonijiet Ġenerali u l-Att dwar Gvern Lokali.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Data personali, li tinkludi data personali sensittiva li lipproċessar tagħha hu previst fl-Att dwar l-Elezzjonijiet Ġenerali u\nfl-Att dwar Gvern Lokali, tista’ tiġi proċessata minn kull persuna li\ntkun intitolata tipproċessa dik id-data għall-iskop talimplimentazzjoni tal-imsemmija Att dwar l-Elezzjonijiet Ġenerali\nu Att dwar Gvern Lokali.\n\nProċessar ta’ data\npersonali u data\npersonali\nsensittiva.\nKap. 354.\nKap. 363.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

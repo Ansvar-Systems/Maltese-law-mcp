@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-51-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Bastimenti Merkantili (Maritime Labour Convention)",
+  "title_en": "Regoli dwar Bastimenti Merkantili (Maritime Labour Convention)",
+  "short_name": "eli/sl/234.51/mlt",
+  "status": "in_force",
+  "issued_date": "2013-08-14",
+  "in_force_date": "2013-08-20",
+  "url": "https://legislation.mt/eli/sl/234.51/20250204/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.51/mlt, expression eli/sl/234.51/20250204/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI MERKANTILI\n(MARITIME LABOUR CONVENTION)\n\n[ L.S.234.51\n\nLEĠISLAZZJONI SUSSIDJARJA 234.51\nREGOLI DWAR BASTIMENTI MERKANTILI\n(MARITIME LABOUR CONVENTION)*\n20 ta’ Awwissu, 2013\nL-AVVIŻ LEGALI 145 tal-2013, kif emendat bl-Avviżi Legali 262 tal2013, 390 tal-2016, 465 tal-2020 u 26 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

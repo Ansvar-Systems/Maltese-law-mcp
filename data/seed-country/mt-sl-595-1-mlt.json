@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-595-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Direttivi u Linji Gwida (Applikazzjoni għall-Entitajiet tal-Gvern)",
+  "title_en": "Ordni dwar Direttivi u Linji Gwida (Applikazzjoni għall-Entitajiet tal-Gvern)",
+  "short_name": "eli/sl/595.1/mlt",
+  "status": "repealed",
+  "issued_date": "2013-03-28",
+  "in_force_date": "2013-03-28",
+  "url": "https://legislation.mt/eli/sl/595.1/20130328/mlt",
+  "description": "Official text from legislation.mt (eli/sl/595.1/mlt, expression eli/sl/595.1/20130328/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 64 tal-2010",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Direttivi u Linji\nGwida (Applikazzjoni għall-Entitajiet tal-Gvern).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) L-artikolu 38 tal-Att dwar l-Amministrazzjoni\nPubblika, hawnhekk iżjed ’il quddiem imsejjaħ \"l-Att prinċipali\",\ngħandu jgħodd għall-entitajiet tal-Gvern bħallikieku kull riferenza\ngħal aġenziji tal-Gvern fl-imsemmi artikolu kienet riferenza għal\nentitajiet tal-Gvern.\n\nApplikazzjoni talartikolu 38 tal-Att\ndwar lAmministrazzjoni\nPubblika għallentitajiet talGvern.\n\n(2) F’entità tal-Gvern l-obbligu ta’ ħarsien ta’ direttivi kif\nstabbilit fl-artikolu 38(2) tal-Att prinċipali għandu japplika wkoll\ngħall-membri tal-bord tad-diretturi jew korp ieħor tat-tmexxija, u\ngħal kull persuna li taqdi rwol ekwivalenti għal dak ta’ Uffiċjal\nEżekuttiv Ewlieni.\n(3) Kull direttiva maħruġa lil entità tal-Gvern skont dan l-ordni\nm’għandhiex ikollha effett jekk, u safejn, tiġi f ’konflitt maddispożizzjonijiet ta’ xi liġi li tirregola l-entità.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

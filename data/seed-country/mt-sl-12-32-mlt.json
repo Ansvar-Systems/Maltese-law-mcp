@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-12-32-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Pubblikazzjoni Online ta’ Sentenzi tal-Qorti (Protezzjoni tad-Data) Għoti ta’ Funzjonijiet",
+  "title_en": "Regolamenti dwar il-Pubblikazzjoni Online ta’ Sentenzi tal-Qorti (Protezzjoni tad-Data) Għoti ta’ Funzjonijiet",
+  "short_name": "eli/sl/12.32/mlt",
+  "status": "in_force",
+  "issued_date": "2021-11-23",
+  "in_force_date": "2021-11-23",
+  "url": "https://legislation.mt/eli/sl/12.32/20211123/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.32/mlt, expression eli/sl/12.32/20211123/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "AVVIŻ LEGALI 456 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nil-Pubblikazzjoni Online ta’ Sentenzi tal-Qorti (Protezzjoni tad-Data)\nGħoti ta’ Funzjonijiet.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti kwalunkwe referenza għadDirettur Ġenerali (Qrati) għandha tinkludi referenza għall-Uffiċjal Kap\nEżekuttiv tal-Aġenzija dwar is-Servizzi tal-Qrati kif awtorizzat biex\niwettaq il-funzjonijiet legali tad-Direttur Ġenerali (Qrati) skont lartikoli 3(i) u 6 tal-Ordni għat-Twaqqif tal-Aġenzija dwar is-Servizzi\ntal-Qrati.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Id-Direttur Ġenerali (Qrati) għandu, soġġett għaddispożizzjonijiet tal-Att dwar il-Protezzjoni u l-Privatezza tad-Data,\nikollu l-funzjoni u s-setgħa li jiddetermina jekk persuna għandhiex\nraġunijiet validi biex teżerċita d-dritt ta’ tħassir ta’ data personali firrigward tal-kontenut ta’ sentenza tal-qorti ppubblikata online fuq is-sit\nweb tal-Aġenzija dwar is-Servizzi tal-Qrati.\n\nGħoti ta’ setgħat,\ndmirijiet u\nfunzjonijiet fuq idDirettur Ġenerali\n(Qrati).\nKap. 586.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Id-dritt ta’ tħassir ta’ data personali minn sentenza talqorti ppubblikata fuq is-sit web tal-Aġenzija dwar is-Servizzi tal-Qrati\ngħandu jingħata effett jew billi tiġi anonimizzata s-sentenza jew\nkwalunkwe parti minnha jew billi titneħħa s-sentenza mill-imsemmi\nsit web.\n\nMod ta’ eżerċizzju\ntad-dritt ta’ tħassir.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "tad-dritt ta’ tħassir",
+      "content": "Id-Direttur Ġenerali (Qrati) għandu d-diskrezzjoni li\njiddeċiedi dwar applikazzjoni għall-eżerċizzju tad-dritt ta’ tħassir ta’\ndata personali minn sentenza tal-Qorti ppubblikata fuq is-sit web talAġenzija dwar is-Servizzi tal-Qrati.\n\nDiskrezzjoni tadDirettur Ġenerali\n(Qrati).\n\nL.S. 595.34.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

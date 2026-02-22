@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-514-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Retirement Pensions (Defined Benefit Retirement Schemes)",
+  "title_en": "Regolamenti dwar Retirement Pensions (Defined Benefit Retirement Schemes)",
+  "short_name": "eli/sl/514.4/mlt",
+  "status": "in_force",
+  "issued_date": "2015-01-15",
+  "in_force_date": "2015-01-15",
+  "url": "https://legislation.mt/eli/sl/514.4/20150115/mlt",
+  "description": "Official text from legislation.mt (eli/sl/514.4/mlt, expression eli/sl/514.4/20150115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "RETIREMENT PENSIONS\n(DEFINED BENEFIT RETIREMENT SCHEMES)\n\n[ L.S.514.04\n\nLEĠISLAZZJONI SUSSIDJARJA 514.04\nREGOLAMENTI DWAR RETIREMENT PENSIONS\n(DEFINED BENEFIT RETIREMENT SCHEMES)*\n1 ta’ Jannar, 2015 *\nL-AVVIŻ LEGALI 8 tal-2015, kif emendat bl-Avviż Legali 45 tal-2020.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n*ara r-regolament regulation 1(2) ta’ dawn ir-Regolamenti, kif promulgati\noriġinarjament.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

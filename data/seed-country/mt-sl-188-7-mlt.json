@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-188-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Pubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda miċ-Ċittadinanza Maltija",
+  "title_en": "Regolamenti dwar Pubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda miċ-Ċittadinanza Maltija",
+  "short_name": "eli/sl/188.7/mlt",
+  "status": "in_force",
+  "issued_date": "2021-01-20",
+  "in_force_date": "2021-02-11",
+  "url": "https://legislation.mt/eli/sl/188.7/20210211/mlt",
+  "description": "Official text from legislation.mt (eli/sl/188.7/mlt, expression eli/sl/188.7/20210211/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 458 tal-2020, kif emendat bl-Avviż Legali 1 tal2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nPubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda\nmiċ-Ċittadinanza Maltija.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’ oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar iċ-Ċittadinanza Maltija;\n\nKap. 188.\n\n\"applikant\" tfisser il-persuna li tapplika għal ċittadinanza\nMaltija permezz ta’ naturalizzazzjoni jew reġistrazzjoni, u tinkludi\npersuna dipendenti jew persuna li tapplika għan-nom ta’ persuna oħra;\n\"Ministru\" għandu jkollha l-istess tifsira kif mogħtija lilha flAtt.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-Ministru għandu kull sena jippubblika fil-Gazzetta lismijiet tal-persuni kollha li matul it-tnax-il (12) xahar tal-kalendarju\nta’ qabel ingħataw iċ-ċittadinanza Maltija bir-reġistrazzjoni jew innaturalizzazzjoni inklużi dawk il-persuni li ingħataw iċ-ċittadinanza\nMaltija għal servizzi eċċezzjonali skont ir-Regolamenti dwar l-Għoti\nta’ Ċittadinanza għal Servizzi Eċċezzjonali.\n\nPubblikazzjoni ta’\nismijiet ta’ ċittadini\nMaltin\nb’reġistrazzjoni\njew\nnaturalizzazzjoni.\nL.S. 188.06.\nEmendat:\nA.L. 1 tal-2020.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 1 tal-2020",
+      "content": "Il-Ministru għandu mill-aktar fis prattikabbli, jara li jiġi\nppubblikat permezz ta’ avviż fil-Gazzetta, l-ismijiet ta’ dawk ilpersuni mċaħħda miċ-ċittadinanza Maltija.\n\nPubblikazzjoni ta’\nismijiet ta’ persuni\nmċaħħda miċċittadinanza\nMaltija.\nEmendat:\nA.L. 1 tal-2020.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

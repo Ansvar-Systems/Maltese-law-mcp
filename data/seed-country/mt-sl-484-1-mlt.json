@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-484-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Ħatra tal-Awtorità Kompetenti taħt l-Att dwar is-Securitisation",
+  "title_en": "Ordni dwar il-Ħatra tal-Awtorità Kompetenti taħt l-Att dwar is-Securitisation",
+  "short_name": "eli/sl/484.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-17",
+  "in_force_date": "2011-08-17",
+  "url": "https://legislation.mt/eli/sl/484.1/20110817/mlt",
+  "description": "Official text from legislation.mt (eli/sl/484.1/mlt, expression eli/sl/484.1/20110817/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "}ATRA TA’ L-AWTORITÀ KOMPETENTI\n\n[L.S.484.01\n\nLE{ISLAZZJONI SUSSIDJARJA 484.01\nORDNI DWAR IL-}ATRA TA’\nL-AWTORITÀ KOMPETENTI TA}T\nL-ATT DWAR IS-SECURITISATION\n3 ta’ Frar, 2009\nL-AVVI| LEGALI 37 tal-2009.\n\nRevokat bl-Avvi\\ Legali 435 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

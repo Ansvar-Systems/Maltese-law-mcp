@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-382-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Ħlas iktar tard tad-Dazju tas-Sisa Pagabbli fix-Xhur ta’ April u ta’ Mejju 2020",
+  "title_en": "Regolamenti dwar Ħlas iktar tard tad-Dazju tas-Sisa Pagabbli fix-Xhur ta’ April u ta’ Mejju 2020",
+  "short_name": "eli/sl/382.3/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-17",
+  "in_force_date": "2022-02-08",
+  "url": "https://legislation.mt/eli/sl/382.3/20220208/mlt",
+  "description": "Official text from legislation.mt (eli/sl/382.3/mlt, expression eli/sl/382.3/20220208/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "(il-verżjoni bl-Ingliż biss)",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nĦlas iktar tard tad-Dazju tas-Sisa Pagabbli fix-Xhur ta’ April u ta’ Mejju",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsiriet.\n\n\"l-Att\" ifisser l-Att dwar id-Dazju tas-Sisa; u\n\nKap. 382.\n\n\"dazju\" tfisser id-dazju impost bl-Att.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsiriet",
+      "content": "Id-dazju tas-sisa fuq l-oġġetti u s-servizzi kollha pagabbli\nf’dati differenti matul ix-xahar ta’ April 2020 skont l-Att qed ikun\ndikjarat li hu pagabbli sittin (60) jum wara, iżda mhux iktar tard mit-28\nta’ Ġunju 2020, u d-dazju tas-sisa fuq l-oġġetti u s-servizzi kollha\npagabbli f’dati differenti matul ix-xahar ta’ Mejju 2020 skont l-Att qed\nikun dikjarat li hu pagabbli sittin (60) jum wara, iżda mhux iktar tard\nmis-26 ta’ Lulju 2020.\n\nDazju pagabbli\nf’April 2020 hu\npagabbli f’Ġunju\n2020 u dazju\npagabbli f’Mejju\n2020 hu pagabbli\nf’Lulju 2020.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

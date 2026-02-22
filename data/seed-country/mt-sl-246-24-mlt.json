@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-24-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Verdala Terraces bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Verdala Terraces bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.24/mlt",
+  "status": "in_force",
+  "issued_date": "2022-06-22",
+  "in_force_date": "2022-06-17",
+  "url": "https://legislation.mt/eli/sl/246.24/20220617/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.24/mlt, expression eli/sl/246.24/20220617/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 175 tal-2022",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Verdala Terraces\nbħala Żona Speċjali Msemmija.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Verdala Terraces, li jikkonsisti fi proprjetà immobbli\nsitwata fiż-żona delineata bl-aħmar fil-Pjanta tar-Reġistru tal-Artijiet\nannessa ma’ dan l-Ordni, huwa b’dan imsemmi bħala Żona Speċjali\nMsemmija għall-finijiet tal-Att dwar l-Akkwist ta’ Proprjetà Immobbli\nminn Persuni Mhux Residenti.\n\nTismija ta’ Żona\nSpeċjali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Verdala Terraces għandu jiżdied mal-Lista ta’ Żoni\nSkedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni Mhux Residenti.\n\nJemenda l-Ewwel\nSkeda li tinsab\nmal-Att dwar lAkkwist ta’\nProprjetà\nImmobbli minn\nPersuni Mhux\nResidenti.\nKap. 246.\n\nKap. 246.\n\n[ L.S. 246.24\n\nVERDALA TERRACES BĦALA ŻONA SPEĊJALI",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

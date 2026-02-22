@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tal-Mard tat-Tjur",
+  "title_en": "Regolamenti dwar il-Kontroll tal-Mard tat-Tjur",
+  "short_name": "eli/sl/36.22/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.22/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.22/mlt, expression eli/sl/36.22/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 29 ta’ l-1968",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilKontroll tal-Mard tat-Tjur.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 29 ta’ l-1968",
+      "content": "Dawn ir-Regolamenti, kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra -\n\nTitolu.\nTifsir.\n\n\"Direttur\" tfisser id-Direttur ta’ l-Agrikoltura u tinkludi kull\nuffi`jal tad-Dipartiment ta’ l-Agrikoltura awtorizzat minnu biex\nja[ixxi f’ismu;\n\"Ministru\" tfisser il-Ministru responsabbli g]all-Agrikoltura;\n\n\"tjur\" g]andha l-istess tfisira kif mog]ti l-ilha fl-Ordinanza dwar\nit-T]aris mill-Mard.\n\nKap. 36.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) It-trasport ta’ kwalunkwe tjur minn xi persuna jew\npersuni g]all-G\\ira ta’ Malta jew [ewwa fiha jew g]al barra\nminnha huwa projbit jekk ma jkunx awtorizzat f’kull ka\\ midDirettur.\n\nTrasport mhux\nawtorizzat ta’ tjur\nhuwa projbit.\n\n(2) Id-Direttur jista’ jag]ti awtorizzazzjoni g]all-iskop tas-subregolament (1) ta’ dan ir-regolament su[[etta g]all-kundizzjonijiet\nli jidhirlu xieraq li jimponi.\n\n(3) Kull persuna jew persuni li jutilizzaw awtorizzazzjoni\nmog]tija mid-Direttur ming]ajr ma j]arsu xi wa]da millkundizzjonijiet li g]aliha dik l-awtorizzazzjoni tkun su[[etta\ng]andhom jitqiesu li jkunu kisru s-sub-regolament (1) ta’ dan irregolament.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "g]andhom jitqiesu li jkunu kisru s-sub-regolament (1) ta’ dan irregolament",
+      "content": "Id-Direttur jista’ jordna t-tilqim ta’ kull tajra f’sa]]itha\nb’dak il-mod li jidhirlu xieraq.\n\nSetg]a tad-Direttur\nli jordna t-tilqim\nta’ tjur.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

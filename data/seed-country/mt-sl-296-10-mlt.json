@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-296-10-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Arei ta' Reġistrazzjoni (2000)",
+  "title_en": "Ordni dwar Arei ta' Reġistrazzjoni (2000)",
+  "short_name": "eli/sl/296.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/296.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/296.10/mlt, expression eli/sl/296.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 144 ta’ l-2000",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Arei ta’\nRe[istrazzjoni (2000).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Re[istrazzjoni (2000)",
+      "content": "L-art murija mdawwra b’linji mhux kontinwi suwed fuq ilmappa murija fl-Iskeda li tinsab ma’ dan l-Ordni hija, mill-1 ta’\nSettembru, 1991, dikjarata area ta’ re[istrazzjoni g]all-finijiet ta’ lartikolu 10 ta’ l-Att dwar ir-Re[istrazzjoni ta’ Artijiet.\n\nTitolu.\nDikjarazzjoni ta’\narei ta’\nre[istrazzjoni.\nKap. 296.\n\nL.S.296.10]\n\nAREI TA’ RE{ISTRAZZJONI (2000)\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

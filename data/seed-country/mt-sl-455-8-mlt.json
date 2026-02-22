@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-455-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti tal-Anti-Doping Imħassar bl-Avviż Legali 104 tal-2021",
+  "title_en": "Regolamenti tal-Anti-Doping Imħassar bl-Avviż Legali 104 tal-2021",
+  "short_name": "eli/sl/455.8/mlt",
+  "status": "in_force",
+  "issued_date": "2011-07-29",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislation.mt/eli/sl/455.8/20210316/mlt",
+  "description": "Official text from legislation.mt (eli/sl/455.8/mlt, expression eli/sl/455.8/20210316/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.455.08\n\nANTI-DOPING\n\nLEĠISLAZZJONI SUSSIDJARJA 455.08\nREGOLAMENTI TAL-ANTI-DOPING\n1 ta’ Jannar, 2015 *\nL-AVVIŻ LEGALI 17 tal-2015, kif emendat bl-Att VI tal-2016.\n\nImħassar bl-Avviż Legali 104 tal-2021.\n\n*ara r-regolament 1(2) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

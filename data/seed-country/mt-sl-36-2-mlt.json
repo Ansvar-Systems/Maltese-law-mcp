@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti għall-Prevenzjoni ta' l-Infestazzjoni tal-Firien",
+  "title_en": "Regolamenti għall-Prevenzjoni ta' l-Infestazzjoni tal-Firien",
+  "short_name": "eli/sl/36.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.2/mlt, expression eli/sl/36.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 516 ta’ l-1919",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti g]allPrevenzjoni ta’ l-Infestazzjoni tal-Firien.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 516 ta’ l-1919",
+      "content": "Is-sid , jew min ikun jokkupa, xi art, dar jew bini ie]or ma\ng]andux i\\omm fihom jew jippermetti li tin\\amm fihom\nakkumulazzjoni ta’ `raret, laned, kaxex, fliexken jew affarjiet o]ra\nli jistg]u jkunu ta’ kenn g]all-firien, u g]andu jie]u lprekawzjonijiet ra[onevoli u me]tie[a biex ma ji[ux infestati millfirien.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "akkumulazzjoni ta’ `raret, laned, kaxex, fliexken jew affarjiet o]ra",
+      "content": "Is-sid ta’ kull bini g]andu d-dmir li j\\omm fi stat tajjeb ta’\nmanutenzjoni l-]itan u l-qieg]a ta’ xi pjani ta]t il-livell ta’ l-art, u\nl-qieg]an ta’ btie]i u ta’ pjan terren, sabiex ma j]allix li firien u\n[rieden jbejtu u j]affru toqob fil-bini.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "[rieden jbejtu u j]affru toqob fil-bini",
+      "content": "Dawn ir-Regolamenti jistg]u ji[u applikati ukoll, fiddiskrezzjoni tas-Suprintendent tas-Sa]]a Pubblika, g]al postijiet\nli`enzjati skond l-artikolu 130 tal-Kodi`i tal-Li[ijiet tal-Pulizija.\n\nTitolu.\nProjbizzjoni ta’\nakkumukazzjoni\nta’ `raret, e``.\n\nDmir li ]itan, e``.,\njin\\ammu fi stat\ntajjeb ta’\nmanutenzjoni.\nApplikabbiltà tarregolamenti.\nKap. 10.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

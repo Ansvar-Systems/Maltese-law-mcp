@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-41-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Radio Equipment",
+  "title_en": "Regolamenti dwar Radio Equipment",
+  "short_name": "eli/sl/427.41/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2016-06-13",
+  "url": "https://legislation.mt/eli/sl/427.41/20250919/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.41/mlt, expression eli/sl/427.41/20250919/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.427.41\n\nRADIO EQUIPMENT\n\nLEĠISLAZZJONI SUSSIDJARJA 427.41\nREGOLAMENTI DWAR RADIO EQUIPMENT*\n13 ta’ Ġunju, 2016\nL-AVVIŻ LEGALI 213 tal-2016, kif emendat bl-Avviżi Legali 7 tal-2024\nu 202 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

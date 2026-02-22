@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-10-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Qtil ta' Tjur u Fniek",
+  "title_en": "Regolamenti dwar il-Qtil ta' Tjur u Fniek",
+  "short_name": "eli/sl/10.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.16/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.16/mlt, expression eli/sl/10.16/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "23 ta’ Lulju, 1937",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilQtil ta’ Tjur u Fniek.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilQtil ta’ Tjur u Fniek",
+      "content": "Lit-tjur u l-fniek kollha, qabel ma jinqatlu, g]andha, b’mod\nli ma jin]aqrux, ting]ata daqqa fuq g]onqhom li tistordihom\nb’mezz ta’ bi``a g]odda mag]mula apposta.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "b’mezz ta’ bi``a g]odda mag]mula apposta",
+      "content": "Il-bejjieg]a ta’ tjur u fniek g]andhom g]alhekk ju\\aw\nbi``a g]odda ta’ dik il-g]amla li tkun approvata mit-Tabib\nVeterinarju Prin`ipali tal-Gvern. Il-Kummissarju tal-Pulizija\ng]andu jo]ro[, bla ebda ]las, minn dawn il-g]odod, skond ilg]amla approvata mill-Gvern, lil persuni li g]andhom li`enza biex\nibieg]u tjur u fniek:\n\nI\\da dawn ir-Regolamenti ma jg]oddux g]all-qtil ta’ tjur\njew fniek g]all-ikel minn membru tal-komunità Lhudija skond ilmetodu tal-qtil tag]hom, meta dan l-ikel hu ma]sub biex jittiekel\nminn dik il-komunità u l-qtil isir ming]ajr mezzi ta’ mo]qrija bla\nb\\onn.\n\nTitolu.\nU\\u ta’ g]odda.\n\nG]amla ta’ lg]odda.\nEmendat:\nN.G. 435 ta’ l1938.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

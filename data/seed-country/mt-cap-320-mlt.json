@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-320-mlt",
+  "type": "statute",
+  "title": "Att dwar l-Investigazzjonijiet ta' Inġustizzji Imħassar bl-Att XXI tal-1995",
+  "title_en": "Att dwar l-Investigazzjonijiet ta' Inġustizzji Imħassar bl-Att XXI tal-1995",
+  "short_name": "Kap. 320(R)",
+  "status": "repealed",
+  "issued_date": "2011-02-18",
+  "in_force_date": "1987-10-01",
+  "url": "https://legislation.mt/eli/cap/320/19951115/mlt",
+  "description": "Official text from legislation.mt (eli/cap/320/mlt, expression eli/cap/320/19951115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTIGAZZJONI TA’ INĠUSTIZZJI\n\n[ KAP. 320.\n\n1\n\nKAPITOLU 320\nATT DWAR L-INVESTIGAZZJONI TA’ INĠUSTIZZJI\nBiex jipprovdi għat-twaqqif u l-funzjonijiet ta’ Kummissjoni waħda jew iktar għallinvestigazzjoni ta’ ċerti inġustizzji, u għal ħwejjeġ li għandhom x’jaqsmu ma’ dan.\n\n1 ta’ Ottubru, 1987\nL-ATT XV tal-1987, kif emendat bl-Att XVIII tal-1989.\n\nRevokat bl-Att XXI tal-1995.",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

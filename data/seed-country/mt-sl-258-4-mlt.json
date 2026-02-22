@@ -1,0 +1,125 @@
+{
+  "id": "mt-sl-258-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar in-National Identity Management System",
+  "title_en": "Regolamenti dwar in-National Identity Management System",
+  "short_name": "eli/sl/258.4/mlt",
+  "status": "in_force",
+  "issued_date": "2025-08-11",
+  "in_force_date": "2025-08-01",
+  "url": "https://legislation.mt/eli/sl/258.4/20250801/mlt",
+  "description": "Official text from legislation.mt (eli/sl/258.4/mlt, expression eli/sl/258.4/20250801/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 162 tal-2025",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar in-National Identity Management System.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dawn ir-regolamenti hu li jipprovdu għattwaqqif tan-National Identity Management System li għandu jkun fiha\nrekords elettroniċi ta’ data relatata mal-ipproċessar u l-ħruġ ta’ karti\ntal-identità u dokumenti għal residenza.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tal-identità u dokumenti għal residenza",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"Aġenzija\" tfisser l-Aġenzija Identità Malta mwaqqfa\nbl-artikolu 3 tal-Ordni li Jwaqqaf l-Aġenzija Identità Malta;\n\nL.S. 595.07.\n\n\"Att\" tfisser l-Att dwar il-Karta tal-Identità u Dokumenti\noħra tal-Identità;\n\nKap. 258.\n\n\"data personali\" għandu jkollha l-istess tifsira kif\nmogħti lilha fl-Artikolu 4(1) tar-Regolament (UE) 2016/679;\n\"dokument għal residenza\" tfisser dokument maħruġ\nskont it-Taqsima B tal-Att;\n\"dokument tal-identifikazzjoni\" għandu jkollha l-istess\ntifsira kif mogħti lilha fl-Att;\n\"dokument tal-identità\" għandu jkollha l-istess tifsira\nkif mogħti lilha fl-Att;\n\"identifikaturi bijometriċi\" tfisser data personali li\ntirriżulta minn ipproċessar tekniku speċifiku tal-immaġni talwiċċ u tal-marki tas-swaba’ ta’ persuna fiżika li tippermetti jew\ntikkonferma l-identifikazzjoni unika tal-imsemmija persuna\nfiżika;\n\"immaġni tal-wiċċ\" tfisser l-immaġni maqbuda milluffiċjal awtorizzat fil-fażi ta’ reġistrazzjoni;\n\"karta tal-identità\" tfisser dokument maħruġ skont itTaqsima A tal-Att;\n\"kontrollur\" għandu jkollha l-istess tifsira kif mogħti\n\n[ L.S. 258.04\n\nlilha fl-Artikolu 4(7) tar-Regolament (UE) 2016/679;\n\"NIDMS\" tfisser in-National Identity Management\nSystem;\n\"Regolament (UE) 2016/679\" tfisser ir-Regolament (UE)\n2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April\n2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward talipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali\ndata, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar\nil-Protezzjoni tad-Data);\n\"uffiċjal awtorizzat\" għandu jkollha l-istess tifsira kif\nmogħti lilha fl-Att.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 76
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Funzjonijiet tanNIDMS",
+      "content": "Għandu jkun hemm database elettronika u ċentralizzata\ntal-identità magħrufa bħala NIDMS, li għandu jkollha l-funzjonijiet li\nġejjin:\n(a)\ntirreġistra\nelettronikament\nmaqbuda fil-fażi ta’ reġistrazzjoni;\n\ndata\n\npersonali\n\n(b)\ntipproċessa applikazzjoni u l-ħruġ ta’ dokument\ntal- identità, eskluż dokument tal-identifikazzjoni; u\n(ċ)\ntipprovdi sors ta’ identifikazzjoni sigur taddetentur tad-dokument imsemmi fil-paragrafu (b).\nImmaniġġjar tanNIDMS.",
+      "metadata": {
+        "source_line_start": 77,
+        "source_line_end": 96
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Immaniġġjar tanNIDMS",
+      "content": "L-Aġenzija għandha tkun responsabbli għall-ġestjoni\nteknika u operazzjonali tan-NIDMS kif imsemmi fir-regolament 3.\n\nProtezzjoni taddata.\nKap. 586.",
+      "metadata": {
+        "source_line_start": 97,
+        "source_line_end": 103
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 586",
+      "content": "(1)\nDawn ir-regolamenti ma għandhomx\njippreġudikaw l-applikabbilità tar-Regolament (UE) 2016/679 u tal-Att\ndwar il-Protezzjoni u l-Privatezza tad-Data, inkluż ir-regolamenti\nmagħmula taħtu u d-drittijiet u l-libertajiet fundamentali tas-suġġetti\ntad-data.\n(2)\nL-Aġenzija hi u taġixxi fil-kapaċità tagħha bħala\nkontrollur skont l-Artikolu 4(7) tar-Regolament (UE) 2016/679\ngħandha twettaq l-attivitajiet rilevanti tal-ipproċessar ta’ data li huma\nlimitati sal-punt meħtieġ għall-finijiet ta’ dawn ir-regolamenti u għal\ndak li huwa meħtieġ u proporzjonat għall-objettivi segwiti millAġenzija.\n(3)\nGħall-finijiet ta’ dawn ir-regolamenti, l-ipproċessar ta’\ndata personali, inkluż l-ipproċessar ta’ kategoriji speċjali ta’ data\npersonali, għandu jikkonforma b’mod sħiħ mal-prinċipji relatati malipproċessar ta’ data personali skont l-Artikolu 5 tar-Regolament (UE)\n2016/679.\n\nData maħżuna finNIDMS.",
+      "metadata": {
+        "source_line_start": 104,
+        "source_line_end": 124
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Data maħżuna finNIDMS",
+      "content": "Minbarra d-data preskritta fit-Taqsima A u fit-Taqsima B\ntal-Att, għandu jkun hemm ukoll maħżuna fin-NIDMS l-identifikaturi\n\n[ L.S.258.04\n\nbijometriċi ta’ kull persuna li tapplika għal dokument tal-identità\neskluż dokument tal-identifikazzjoni:\nIżda l-uffiċjal awtorizzat jista’ jeżenta applikant milli\njkollu l-marki tas-swaba’ tiegħu maqbuda meta dan ikun\nspeċifikament provdut mil-liġi.",
+      "metadata": {
+        "source_line_start": 125,
+        "source_line_end": 138
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "speċifikament provdut mil-liġi",
+      "content": "L-identifikaturi bijometriċi għandhom jinqabdu skont lispeċifikazzjonijiet tekniċi obbligatorji applikabbli stabbiliti mil-liġi u\ngħandhom jinħażnu b’mod sigur ħafna fin-NIDMS.\n\nQbid u ħażna talidentifikaturi\nbijometriċi.",
+      "metadata": {
+        "source_line_start": 139,
+        "source_line_end": 145
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "bijometriċi",
+      "content": "L-identifikaturi bijometriċi għandhom jinqabdu għallfini ta’ personalizzazzjoni ta’ karta tal-identità jew dokument għal\nresidenza.\n\nSkop għall-qbid\ntal-identifikaturi\nbijometriċi.",
+      "metadata": {
+        "source_line_start": 146,
+        "source_line_end": 153
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "bijometriċi",
+      "content": "L-identifikaturi bijometriċi maqbuda bil-għan li jiġu\ninklużi f’ċertifikat ta’ reġistrazzjoni, karta ta’ residenza, ċertifikat\nta’ residenza permanenti jew karta ta’ residenza permanenti kif\nimfissra fl-Ordni dwar il-Moviment Liberu ta’ Ċittadini tal-Unjoni\nEwropea u tal-Membri tal-Familji tagħhom għandhom jinżammu biss\nfin-NIDMS sad-data tal-ġbir tad-dokument mid-detentur:\n\nŻamma talidentifikaturi\nbijometriċi. \nL.S. 460.17.\n\nIżda l-imsemmi perjodu ma għandux ikun itwal minn\ndisgħin (90) jum mid-data tal-ħruġ ta’ tali dokument.",
+      "metadata": {
+        "source_line_start": 154,
+        "source_line_end": 169
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "disgħin (90) jum mid-data tal-ħruġ ta’ tali dokument",
+      "content": "Mal-iskadenza tad-data jew tal-perjodu stabbilit firregolament 9, l-identifikaturi bijometriċi maħżuna fin-NIDMS\ngħandhom jitħassru jew jinqerdu minnufih:\n\nTħassir talidentifikaturi\nbijometriċi.\n\nIżda qabel ma jitħassru jew jinqerdu l-identifikaturi\nbijometriċi tad-dokument tal-identità msemmija fir-regolament 9, limmaġni tal-wiċċ għandhom jinżammu fin-NIDMS lil hinn minn tali\ndata jew perjodu għal skopijiet ta’ identifikazzjoni:\nIżda wkoll l-imsemmija immaġni tal-wiċċ ma\ngħandhomx jikkwalifikaw bħala identifikaturi bijometriċi u mhumiex\nipproċessati permezz ta’ mezzi speċifiċi li jippermettu lidentifikazzjoni teknika unika jew l-awtentikazzjoni ta’ persuna fiżika.",
+      "metadata": {
+        "source_line_start": 170,
+        "source_line_end": 182
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "għandhomx jikkwalifikaw bħala identifikaturi bijometriċi u mhumiex",
+      "content": "(1)\nIl-kontrollur, filwaqt li jieħu kont tan-natura, liskop, il-kuntest u l-għanijiet tal-ipproċessar kif ukoll ir-riskji ta’\nprobabbiltà u severità varji tad-drittijiet u l-libertajiet tas-suġġetti taddata, kemm fil-ħin tad-determinazzjoni tal-mezzi tal-ipproċessar kif\nukoll fil-ħin tal-ipproċessar innifsu, għandu jimplimenta miżuri tekniċi\nu organizzattivi xierqa, b’mod effettiv u jintegra s-salvagwardji\nmeħtieġa fl-ipproċessar sabiex jipproteġi d-drittijiet tas-suġġetti taddata u jiżgura livell ta’ sigurtà xieraq għar-riskju.\n(2)\nL-uffiċjal tal-protezzjoni tad-data maħtur mill-kontrollur\nskont l-Artikolu 37 tar-Regolament (UE) 2016/679 għandu jkun\ninvolut u kkonsultat kif xieraq u fil-ħin dwar il-kwistjonijiet kollha fir-\n\nSalvagwardji\nxierqa.\n\n[ L.S. 258.04\n\nrigward tal-protezzjoni ta’ data personali pproċessata għall-finijiet ta’\ndawn ir-regolamenti.\n(3) Għall-finijiet li jiġi żgurat u sabiex jiġi muri illi lipproċessar tad-data personali huwa mwettaq skont id-dispożizzjonijiet\ntar-Regolament (UE) 2016/679, il-kontrollur għandu jimplimenta lpolitiki xierqa dwar il-protezzjoni tad-data, liema politiki għandhom\njiġu riveduti perjodikament u aġġornati fejn meħtieġ.",
+      "metadata": {
+        "source_line_start": 183,
+        "source_line_end": 214
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-418-2-mlt",
+  "type": "statute",
+  "title": "Avviż dwar l-Assenjazzjoni ta’ Appelli lit-Tribunal ta’ Reviżjoni Amministrattiva",
+  "title_en": "Avviż dwar l-Assenjazzjoni ta’ Appelli lit-Tribunal ta’ Reviżjoni Amministrattiva",
+  "short_name": "eli/sl/418.2/mlt",
+  "status": "in_force",
+  "issued_date": "2014-09-02",
+  "in_force_date": "2014-09-02",
+  "url": "https://legislation.mt/eli/sl/418.2/20140902/mlt",
+  "description": "Official text from legislation.mt (eli/sl/418.2/mlt, expression eli/sl/418.2/20140902/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 297 tal-014",
+      "content": "It-titolu ta’ dan l-Avviż hu l-Avviż dwar l-Assenjazzjoni ta’\nAppelli lit-Tribunal ta’ Reviżjoni Amministrattiva.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-Tribunal ta’ Reviżjoni Amministrattiva qiegħed b’dan\njiġi assenjat is-smigħ u deċiżjoni tal-appelli kollha li, fl-1 ta’ Ġunju\n2012, kienu pendenti għad-deċiżjoni quddiem il-Bord tal-Appelli\ndwar it-Telekomunikazzjonijiet u l-Bord tal-Appelli dwar ilKomunikazzjonijiet.\n\nAssenjazzjoni ta’\nappelli.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

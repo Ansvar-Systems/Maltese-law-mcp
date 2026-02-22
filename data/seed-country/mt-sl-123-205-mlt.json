@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-123-205-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis għal Grupp (Taxxa fuq l-Income)",
+  "title_en": "Regoli dwar Tnaqqis għal Grupp (Taxxa fuq l-Income)",
+  "short_name": "eli/sl/123.205/mlt",
+  "status": "in_force",
+  "issued_date": "2022-07-29",
+  "in_force_date": "2022-01-01",
+  "url": "https://legislation.mt/eli/sl/123.205/20230221/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.205/mlt, expression eli/sl/123.205/20230221/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 205 tal-2022, kif emendat bl-Avviż Legali 40 tal2023",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regoli hu r-Regoli dwar\nTnaqqis għal Grupp (Taxxa fuq l-Income).\n\nTitolu u bidu fisseħħ.\n\n(2)\nDawn ir-regoli għandhom jitqiesu li daħlu fis-seħħ missena ta’ stima 2022.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Dawn ir-regoli għandhom jitqiesu li daħlu fis-seħħ missena ta’ stima 2022",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\"Att\" tfisser l-Att dwar it-Taxxa fuq l-Income;\n\nTifsir.\n\nKap. 123.\n\n\"benefiċjarju\" tfisser kumpanija li tkun ingħatat benefiċċju taħt\nil-COVID-19 Fiscal Assistance - Postponement of Payment of Certain\nTaxes Skema tad-Differiment tat-Taxxa;\n\"income totali\" għandu jkollu l-istess tifsira kif mogħtija lilu flartikolu 2(1) tal-Att iżda għandu jkun ikkalkolat qabel ma jsir\nkwalunkwe tnaqqis għall-finijet ta’ dawn ir-regoli;\n\"tnaqqis permess\" tfisser allowances ta’ natura kapitali permessi\nbħala tnaqqis taħt l-artikolu 14(1)(f) u (j) tal-Att sal-limitu li tali\ntnaqqis ma jkunx jista’ jsir kollu minħabba li ma jkunx hemm profitti\njew qligħ taxxabbli għas-sena ta’ stima 2022 mill-għajn ta’ income li\ndwaru jingħataw jew minħabba li l-profitti jew qligħ taxxabbli minn\ndik l-għajn ikun inqas mit-tnaqqis:\nIżda allowances ta’ natura kapitali mhux assorbiti\nmiġjubin ’il quddiem mis-sena ta’ stima 2020 ma għandomx ikunu\nmeqjusa bħala tnaqqis permess għall-finijet ta’ dawn ir-regoli:\nIżda wkoll li balancing allowance skont l-artikolu 24 talAtt li jirriżulta fir-rigward tas-snin ta’ stima 2021 u 2022 għandu jiġi\ntrattat bl-istess mod bħal allowances ta’ natura kapitali għall-finijet ta’\ndawn ir-regoli.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "dawn ir-regoli",
+      "content": "Tnaqqis permess jista’ jkun ċedut minn kumpanija, hawn\niżjed ’il quddiem imsejħa \"l-kumpanija li tagħmel iċ-ċessjoni\", u, meta\nssir talba minn kumpanija oħra, hawn iżjed’il quddiem imsejħa \"lkumpanija li tagħmel it-talba\", jingħata lill-kumpanija li tagħmel ittalba bħala tnaqqis kontra l-income totali tagħha:\nIżda t-total tat-tnaqqis permess li jista’ jkun mitlub ma\ngħandux jaqbeż miljun euro (€1,000,000) għal kull grupp ta’\nkumpaniji u t-total ta’ ammonti ċeduti f’kull sena ta’ stima għandu\n\nĊessjoni ta’\ntnaqqis permess.\nEmendat:\nA.L. 40 tal-2023.\n\n[ L.S. 123.205\n\nTNAQQIS GĦAL GRUPP (TAXXA FUQ L-INCOME)\n\njkun daqs l-ammonti hekk mitluba f’kull sena ta’ stima:\nIżda wkoll it-total tat-tnaqqis permess li jista’ jkun\nmitlub mill-kumpanija li tagħmel it-talba fis-sena ta’ stima 2022 u fissena ta’ stima 2023 ma għandux jaqbeż l-income totali tal-kumpanija\nli tagħmel it-talba għas-snin ta’ stima 2022 u 2023 rispettivament:\nIżda wkoll iċ-ċessjoni tat-tnaqqis permess għandu jkun\npermess biss jekk il-kumpanija li tagħmel iċ-ċessjoni jew il-kumpanija\nli tagħmel it-talba hija benefiċjarju.\nApplikabbiltà taddispożizzjonijiet\ndwar eżenzjoni\ngħal gruppi.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 78
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "għal gruppi",
+      "content": "Kemm-il darba ma jkunx provdut xort’oħra f’dawn irregoli, id-dispożizzjonijiet dwar eżenzjoni għal gruppi kif imfissra flartikolu 16 tal-Att, ħlief għad-dispożizzjonijiet tal-artikolu 18(1)(b),\n(ċ) u (d) kif ukoll l-artikolu 22 tal-Att, għandhom japplikaw mutatis\nmutandis dwar dak it-tnaqqis permess skont dawn ir-regoli.",
+      "metadata": {
+        "source_line_start": 79,
+        "source_line_end": 85
+      }
+    }
+  ],
+  "definitions": []
+}

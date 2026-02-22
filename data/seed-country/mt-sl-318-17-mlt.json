@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-318-17-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Trasferiment ta' Fondi għal Sodod Iffinanzjati mill-Gvern",
+  "title_en": "Regolamenti dwar it-Trasferiment ta' Fondi għal Sodod Iffinanzjati mill-Gvern",
+  "short_name": "eli/sl/318.17/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.17/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.17/mlt, expression eli/sl/318.17/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 53 ta’ l-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar itTrasferiment ta’ Fondi g]al Sodod Iffinanzjati mill-Gvern",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 53 ta’ l-2002",
+      "content": "Skond id-disposizzjonijiet ta’ l-artikolu 131(4)(ii) ta’ l-Att\ndwar is-Sigurtà So`jali, kull rata li tit]allas lill-Kumitat dwar\nWelfare skond ir-Regolamenti dwar Rati g]al Istituzzjonijiet u\nHostels Statali, dwar sodod iffinanzjati mill-Istat fi djar mhux\nstatali g]all-anzjani jew istituzzjonijiet b]alma jistg]u jkunu\nkkuntrattati mill-Gvern kif spe`ifikat fir-Regolamenti dwar\nIstituzzjonijiet u Hostels Statali Indikati, g]andhom ji[u trasferiti\nlid-Direttur responsabbli mid-Dipartiment g]all-}arsien ta’ lAnzjani.\n\nTitolu.\nTrasferiment ta’\nfondi.\nKap. 318.\nL.S.318.14\nL.S.318.13",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

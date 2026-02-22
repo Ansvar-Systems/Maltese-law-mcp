@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-364-7-mlt",
+  "type": "statute",
+  "title": "Regoli tal-Qorti dwar Appelli mit-Taxxa fuq Dokumenti u Trasferimenti",
+  "title_en": "Regoli tal-Qorti dwar Appelli mit-Taxxa fuq Dokumenti u Trasferimenti",
+  "short_name": "eli/sl/364.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/364.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/364.7/mlt, expression eli/sl/364.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 86 ta’ l-1994, kif emendat bl-Avvi\\ Legali 248 ta’ l2009",
+      "content": "It-titolu ta’ dawn ir-regoli hu Regoli tal-Qorti dwar Appelli\nmit-Taxxa fuq Dokumenti u Trasferimenti.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Meta jsir appell fit-terminu stabbilit fl-artikolu 59 ta’ lAtt dwar it-Taxxa fuq Dokumenti u Trasferimenti, hawnhekk i\\jed\n’il quddiem insejja] \"l-Att\", il-kontroparti g]andha d-dritt ta’\nrisposta fi \\mien ]mistax-il [urnata mid-data tan-notifika ta’ l-att li\nbih ikun sar l-appell. M’hemmx b\\onn ta’ garanzija g]all-ispejje\\\ntal-kaw\\a meta jsir appell skond l-artikolu 59 ta’ l-Att.\n\nDritt ta’ risposta.\nKap. 364.\n\n(2) Il-Qorti g]andha tappunta l-appell g]at-trattazzjoni mhux\naktar tard minn xahar wara li jg]addu l-]mistax-il [urnata li fihom\ntista’ ssir ir-risposta g]all-appell.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-atti u d-dokumenti kollha li jid]lu fil-Qorti ta’ l-Appell\nmeta jsir appell minn de`i\\joni tal-imsemmi Tribunal jew Bord,\nskont kif ikun il-ka\\, skond l-artikolu 59 ta’ l-Att huma a``essibbli\nbiss g]all-partijiet u l-avukati u l-prokuraturi legali tag]hom, u dan\ng]andu jsir dejjem fil-pre\\enza tad-deputat re[istratur ta’ l-istess\nQorti. Il-partijiet, l-avukati u l-prokuraturi legali tag]hom biss\ng]andhom id-dritt li jiksbu kopji ta’ l-istess atti, dokumenti u tassentenza.\n\nA``ess g]al atti,\ndokumenti.\nEmendata:\nA.L. 248 ta’ l2009.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 248 ta’ l2009",
+      "content": "Ir-Re[istratur tal-Qrati g]andu j\\omm il-faxxikolu ta’ lappell ta]t il-kustodja tieg]u biex jassigura s-segretezza ta’ l-istess\nfaxxikolu. Meta l-pro`ess jing]alaq l-atti ji[u llegati u jin\\ammu\nfil-kustodja tar-Re[istratur.\n\nTi\\mim ta’ atti jew\ndokumenti u\nkustodja ta’\npro`essi.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "pro`essi",
+      "content": "In-notifiki kollha li jkunu me]tie[a f’dawn l-appelli jridu\njsiru dejjem permezz tal-purtier u l-kopji ta’ l-atti li ji[u hekk\nnotifikati jridu jkunu f’busta si[illata mir-Re[istratur.\n\nNotifika ta’ atti.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 62
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Notifika ta’ atti",
+      "content": "(1) Il-President tal-Qorti ta’ l-Appell g]andu jiffirma ssentenza li tkun waslet g]aliha l-Qorti u din g]andha ti[i minnufi]\ndepo\\itata g]and ir-Re[istratur li mbag]ad g]andu jag]laq biha linkartament kollu tal-pro`ess u jillegah.\n\nSentenzi.\n\n(2) Ir-Re[istratur g]andu, fi \\mien erbat ijiem minn dak iddepo\\itu, jav\\a bil-fatt lill-partijiet.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 68
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Sentenzi",
+      "content": "G]andhom japplikaw id-disposizzjonijiet tal-Kodi`i ta’\nOrganizzazzjoni u Pro`edura ~ivili u tar-regoli [enerali tal-Qorti\nfejn dawn ir-regoli ma jiddisponux mod ie]or.\n\nApplikabilità talKodi`i ta’\nOrganizzazzjoni u\nPro`edura ~ivili.\nKap. 12.",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

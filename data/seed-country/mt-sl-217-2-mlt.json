@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-217-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Żamma ta Detenut f Savio College",
+  "title_en": "Regolamenti dwar Żamma ta Detenut f Savio College",
+  "short_name": "eli/sl/217.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/217.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/217.2/mlt, expression eli/sl/217.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 20 u 21 ta’ l-1994, konsolidati",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\n|amma ta’ Detenut f’Savio College.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "|amma ta’ Detenut f’Savio College",
+      "content": "Dawn ir-regolamenti g]andhom japplikaw g]ar-rigward\nta\\-\\amma ta’ persuna f’Savio College kif provdut fl-Iskeda.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "ta\\-\\amma ta’ persuna f’Savio College kif provdut fl-Iskeda",
+      "content": "Ir-regolamenti applikabbili g]al persuni mi\\muma f’]abs u\nhemm mi\\muma b]ala persuni li jkunu ser ji[u pro`essati g]al dak\nli g]andu x’jaqsam mad-detenzjoni ta’ persuni, g]all-ikel, u g]addixxiplina ta’ persuni b]al dawk, japplikaw g]al persuna mi\\muma\nta]t dawn ir-Regolamenti, b’dana illi kull riferenza f’dawk irregolamenti g]al persuna mi\\muma li tkun ser ti[i pro`essata\ng]andha titqies b]ala riferenza g]all-persuna mi\\muma ta]t dawn\nir-Regolamenti, u kull riferenza f’dawk ir-regolamenti g]allawtoritajiet tal-]abs g]andha titqies b]ala riferenza g]ar-rettur u lawtoritajiet ta’ Savio College.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "g]andha titqies b]ala riferenza g]all-persuna mi\\muma ta]t dawn",
+      "content": "Kull min jikser xi regolament mag]mul applikabbili bissa]]a tar-regolament 3, ikun ]ati ta’ reat kontra dawn irRegolamenti u je]el, meta jinstab ]ati, il-pieni stabbiliti g]allkontravenzjonijiet.\n\n(Regolament 2)\n\nIn vista tal-età ta’ l-hawn ta]t imsemmi detenut u ta`-`irkostanzi\nkollha tal-ka\\, Jauze Allah, li b]alissa jinsab mi\\mum il-}abs ta’\nKordin, g]andu jin\\amm f’Savio College, Triq il-Buskett, }adDingli.\n\nTitolu.\nApplikabilità tarregolamenti.\nRegolamenti tal]abs g]andhom\njapplikaw.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

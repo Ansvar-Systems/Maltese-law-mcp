@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-163-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Kontrullur tad-Dwana",
+  "title_en": "Ordinanza dwar il-Kontrullur tad-Dwana",
+  "short_name": "Kap. 163",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1960-06-30",
+  "url": "https://legislation.mt/eli/cap/163/19600630/mlt",
+  "description": "Official text from legislation.mt (eli/cap/163/mlt, expression eli/cap/163/19600630/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bl-ORDINANZA XVI tal-1960",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar ilKontrullur tad-Dwana.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Id-drittijiet u r-responsabbilitajiet kollha, sew mogħtija\nsew jekk kondizzjonati, li l-Kollettur tad-Dwana kellu dritt jew\nkien suġġett għalihom minnufih qabel il-ġurnata tal-bidu fis-seħħ\nta’ din l-Ordinanza għandhom bis-saħħa ta’ din l-Ordinanza jiġu\ntrasferiti lill-Kontrullur tad-Dwana.\n\nTrasferiment ta’\ndrittijiet u\nresponsabbiltajiet.\n\n*Ara l-artikolu 1 tal-Ordinanza kif oriġinarjament promulgat.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

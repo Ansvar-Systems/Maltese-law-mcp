@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-117-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tal-Bhejjem Imħassrin bl-Att XXXIV tal-2023",
+  "title_en": "Regolamenti dwar il-Kontroll tal-Bhejjem Imħassrin bl-Att XXXIV tal-2023",
+  "short_name": "eli/sl/117.9/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1957-01-28",
+  "url": "https://legislation.mt/eli/sl/117.9/20231017/mlt",
+  "description": "Official text from legislation.mt (eli/sl/117.9/mlt, expression eli/sl/117.9/20231017/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "kif emendati bl-Avviż Legali 409 ta’ l-2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKontroll tal-Bhejjem.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti \"bhejjem\" tfisser kull xorta ta’\nlaħam tal-fart, tan-nagħaġ, tal-mogħoż, tal-ħnieżer, jew taż-żiemel.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Fejn xi persuna b’xi mod tikseb xi bhejjem jew fejn ilgħadd ta’ bhejjem li jkollha kull persuna jiżdied permezz ta’ twelid,\ntkun obbligata li fi żmien tliet ijiem tagħmel rapport fl-eqreb\nGħassa tal-Pulizija dwar dak li kisbet jew żiedet fil-għadd ta’\nbhejjem.\n\nRapport lill-eqreb\ngħassa tal-Pulizija.\n\n(2) Dan ir-rapport għandu jkun fih indikazzjoni tax-xorta u lgħadd ta’ bhejjem li jkunu twieldu jew inkisbu, l-għadd totali ta’\nkull xorta ta’ bhejjem li f’dak iż-żmien ikollha l-persuna li tkun qed\ntagħmel ir-rapport, il-post jew il-postijiet fejn dan il-għadd totali\nta’ bhejjem għandu jinżamm u, meta l-bhejjem ikunu nkisbu, l-isem\nu l-indirizz ta’ min ittrasferihom.\n(3) Kull tnaqqis fil-għadd tal-bhejjem, kemm minħabba mewt,\nqtil jew xi kawża oħra, għandu jiġi rapportat fi żmien tliet ijiem fleqreb Għassa tal-Pulizija.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Id-Direttur tal-Biedja jew kull uffiċjal tad-dipartiment\nawtorizzat minnu jista’ jidħol f ’kull post li jkollu raġun għax\njaħseb li fih ikunu miżmuma bhejjem.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Spezzjon",
+      "content": "Kull min jonqos li jagħmel rapport skond kif mitlub mirr e g o l a m e n t 3 , j e w m e t a j a g ħ m e l i r- r a p p o r t a p p o s t a j e w b i\ntr a s k ur a ġn i j a g ħ t i t a g ħ r if l i j ku n f a l z f ’ xi p a r t ik o la r it a ji e t\nimportanti, jew min ifixkel, jimpedixxi jew jgħin biex ifixkel jew\njimpedixxi lid-Direttur tal-Biedja jew kull uffiċjal tad-dipartiment\ntiegħu biex iwettaq dawn ir-regolamenti, jkun ħati ta’ reat u jista’\njeħel multa ta’ mhux anqas minn tmienja u ħamsin euro u tlieta u\ngħoxrin ċenteżmu (58.23) iżda mhux aktar minn erba’ mija u ħamsa\nu sittin euro u sebgħa u tmenin ċenteżmu (465.87).\n\nNuqqas li jsir\nrapport, eċċ.\nEmendat:\nA.L. 409 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Spezzjon",
+      "content": "Dawn ir-regolamenti għandhom jgħoddu għall-Gżejjer ta’\nGħawdex, Kemmuna u Kemmunett.\n\nApplikabbiltà.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Att XXXIV tal-2023.",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 71
+      }
+    }
+  ],
+  "definitions": []
+}

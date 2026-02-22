@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-465-42-mlt",
+  "type": "statute",
+  "title": "Ordni li jħassar l-Ordni dwar l-Għeluq tal-Qrati tal-Ġustizzja",
+  "title_en": "Ordni li jħassar l-Ordni dwar l-Għeluq tal-Qrati tal-Ġustizzja",
+  "short_name": "eli/sl/465.42/mlt",
+  "status": "repealed",
+  "issued_date": "2020-06-12",
+  "in_force_date": "2020-06-12",
+  "url": "https://legislation.mt/eli/sl/465.42/20200612/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.42/mlt, expression eli/sl/465.42/20200612/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 230 tal-2020",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni li jħassar l-Ordni dwar\nl-Għeluq tal-Qrati tal-Ġustizzja.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-ordni tal-2020 dwar l-Għeluq tal-Qrati tal-Ġustizzja\nhuwa b’dan l-ordni imħassar b’effett mill-5 ta’ Ġunju 2020, mingħajr\npreġudizzju għall-validità ta’ kull ħaġa magħmula jew li tħalliet barra\nmilli ssir fuq il-bażi ta’ dak l-ordni u soġġetta għad-dispożizzjonijiet\nta’ dan l-ordni.\n\nTħassir.\nL.S. 465.19",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Is-sospensjoni tal-limiti ta’ żmien kif kienet fis-seħħ\nqabel id-dħul fis-seħħ ta’ dan l-ordni għall-preżentazzjoni ta’ atti\nquddiem qorti wara l-konklużjoni ta’ kwalunkwe proċeduri quddiem\nkwalunkwe tribunal, bord, kummissjoni, kumitat jew entità oħra li ma\njoperax mill-bini tal-Qrati tal-Ġustizzja għandha tibqa’ fis-seħħ għal\ngħoxrin (20) jum mid-dħul fis-seħħ ta’ dan l-ordni.\n\nRiżervi u\ndispożizzjonijiet\ntranżitorji.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "tranżitorji",
+      "content": "Is-sospensjoni tal-limiti ta’ żmien kif kienet fis-seħħ\nqabel id-dħul fis-seħħ ta’ dan l-Ordni għall-preżentazzjoni ta’ atti\nquddiem qorti jew tribunal, bord, kummissjoni, kumitat jew entità oħra\nli topera mill-bini tal-Qrati tal-Ġustizzja għandha tibqa’ fis-seħħ għal\nperjodu ta’ sebat (7) ijiem mid-dħul fis-seħħ ta’ dan l-ordni.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

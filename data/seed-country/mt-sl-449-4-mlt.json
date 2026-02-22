@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-449-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ispezzjon ta’ Bhejjem tal-Ħalib",
+  "title_en": "Regolamenti dwar l-Ispezzjon ta’ Bhejjem tal-Ħalib",
+  "short_name": "eli/sl/449.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.4/mlt, expression eli/sl/449.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 92 ta’ l-1976",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIspezzjon ta’ Bhejjem tal-}alib.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Spettur u/jew l-Awtorità Sanitarja jkunu jistg]u\njispezzjonaw kull razzett, fejn ikunu qed jin\\ammu bhejjem tal]alib, sabiex -\n\nSetg]a g]al\nspezzjon.\n\n(a) ja``ertaw l-istat tas-sa]]a ta’ l-imsemmija bhejjem;\n(b) jo]or[u istruzzjonijiet dwar il-kura ta’ l-imsemmija\nbhejjem, jekk me]tie[; u\n(`) jie]du dawk il-passi kollha biex i]arsu milli tinxtered\nmarda g]all-bhejjem jew g]all-bniedem.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(1) Is-sid ta’ bhejjem tal-]alib g]andu, meta jkollu suspett\nli xi wa]da mill-bhejjem tieg]u tkun marida, ji\\gura ming]ajr\nd ewmien ir-r a[u ni tal -m ard a u g ]an du , jekk ir-r a[u ni t ku n\nmin]abba xi wa]da mill-mard muri fl-Att dwar is-Sigurtà fl-Ikel,\njew muri f ’xi ordni mag]mul bis-sa]]a tieg]u mill-Ministru,\njg]arraf lis-Suprintendent tas-Sa]]a Pubblika fi \\mien erbg]a u\ng]oxrin sieg]a minn meta jkun hekk \\gura ru]u.\n\nTag]rif mis-sid u\nminn veterinarju.\nKap. 449.\n\n(2) Kull veterinarju li jsir jaf li xi bhima tal-]alib ikollha xi\nwa]da mill-mard imsemmi fis-subregolament (1) g]andu minnufih\njg]arraf lis-Suprintendent tas-Sa]]a Pubblika dwar dan.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jg]arraf lis-Suprintendent tas-Sa]]a Pubblika dwar dan",
+      "content": "Is-Suprintendent tas-Sa]]a Pubblika, meta jir`ievi t-tag]rif\nimsemmi fir-regolament 3, g]andu jie]u kull passi li jidhirlu\nme]tie[a.\n\nPassi misSuprintendent tasSa]]a Pubblika.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

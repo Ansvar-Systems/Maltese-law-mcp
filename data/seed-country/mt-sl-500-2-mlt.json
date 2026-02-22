@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-500-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Istabbiliment ta’ Sanzjonijiet u Pieni",
+  "title_en": "Regolamenti dwar l-Istabbiliment ta’ Sanzjonijiet u Pieni",
+  "short_name": "eli/sl/500.2/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-28",
+  "in_force_date": "2013-03-28",
+  "url": "https://legislation.mt/eli/sl/500.2/20130328/mlt",
+  "description": "Official text from legislation.mt (eli/sl/500.2/mlt, expression eli/sl/500.2/20130328/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 496 tal-2010, kif emendat bl-Att XVI tal-2019",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti dwar\nl-Istabbiliment ta’ Sanzjonijiet u Pieni.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "l-Istabbiliment ta’ Sanzjonijiet u Pieni",
+      "content": "(1)\n\nGħall-finijiet ta’ dawn ir-regolamenti:\n\n\"l-Att\" tfisser l-Att dwar Servizzi li Jingħataw fis-Suq Intern;\n\nTitolu.\nTifsir.\nEmendat:\nXVI.2019.72.\nKap. 500.\n\n\"ħati\" tfisser il-provditur li jiddiskrimina kontra riċevituri jew\nriċevituri potenzjali minn servizz skont l-artikolu 9(a) tal-Att jew li\nma jħarisx l-obbligi taħt l-artikolu 10(1) tal-Att;\n\"il-korp responsabbli g]all-protezzjoni tal-konsumatur\" tfisser\nid-Direttur għall-Affarijiet tal-Konsumatur hekk nominat skont lartikolu 3(1) tal-Att dwar l-Affarijiet tal-Konsumatur.\n\"Qorti Ċivili\" tfisser il-Qorti Ċivili (Sezzjoni tal-Kummerċ) kif\nimwaqqfa bl-artikolu 3 tal-Ordni dwar it-Twaqqif ta’ Sezzjonijiet talQrati Ċivili;\n\nL.S. 12.19.\n\n(2) Il-kliem, frażijiet u espressjonijiet użati f’dawn irregolamenti u li huma użati wkoll fl-Att, għandu ikollhom, kemm\nil-darba il-kuntest tal-kliem ma jeħtieġx xort’oħra, l-istess tifsira\nmogħtija lilhom fl-Att.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Fl-eżerċizzju tal-funzjonijiet tiegħu skont l-artikolu 10(2)\ntal-Att u skont ir-regolament 7 tar-Regolamenti dwar Nomina ta’\nDiversi Entitajiet, il-korp responsabbli għall-protezzjoni talkonsumatur għandu, kif iqis xieraq u skont kemm applikabbli, firrigward ta’ investigazzjonijiet, proċeduri ġudizzjarji u rikjesti għallimpożizzjoni ta’ penali, isegwi l-proċedura stabbilita fl-artikoli 12 u\n12A tal-Att dwar l-Affarijiet tal-Konsumatur u fit-Taqsimiet IIA, IIB,\nXII u XIIA tal-Att dwar l-Affarijiet tal-Konsumatur:\n\nInvestigazzjonijiet, proċeduri\nġudizzjarji u\npenali.\nL.S. 500.01.\nSostitwit:\nXVI.2019.72.\nKap. 378.\n\nIżda soġġett għad-dispożizzjonijiet tal-Att dwar l-Affarijiet\ntal-Konsumatur, il-Qorti Ċivili għandha timponi penali ta’ mhux anqas\nminn erba’ mija u sebgħin euro (€470) u mhux aktar minn sebgħa u\nerbgħin elf euro (€47,000) fuq kull persuna li tonqos milli tosserva xi\ndispożizzjonijiet ta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 62
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "dispożizzjonijiet ta’ dawn ir-regolamenti",
+      "content": "Kull persuna li tħossha aggravata b’sentenza, ordni, penali\njew miżura mogħtija mill-Qorti Ċivili, tista’ tappella quddiem il-Qorti\ntal-Appell fuq kull punt ta’ dritt u, jew fatt, billi tippreżenta rikors firreġistru tal-Qorti tal-Appell fi żmien għoxrin jum mid-data tassentenza tal-Qorti Ċivili:\nIżda l-Qorti tal-Appell għandha tappunta l-każ għas-smigħ sa\n\nDritt ta’ appell.\nSostitwit:\nXVI.2019.72.\nKap. 378.\n\n[ L.S.500.02\n\nSTABBILIMENT TA’ SANZJONIJIET U PIENI\n\nmhux aktar tard minn sitt xhur mid-data tas-sentenza tal-Qorti Ċivili.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 84
+      }
+    }
+  ],
+  "definitions": []
+}

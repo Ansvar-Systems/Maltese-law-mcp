@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-318-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Għajnuna Pubblika (Ġuramenti)",
+  "title_en": "Regolamenti dwar il-Għajnuna Pubblika (Ġuramenti)",
+  "short_name": "eli/sl/318.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.2/mlt, expression eli/sl/318.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "XLIV ta’ l-1965",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilG]ajnuna Pubblika ({uramenti).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "XLIV ta’ l-1965",
+      "content": "F’dawn ir-regolamenti -\n\n\"l-Att\" tfisser l-Att dwar is-Sigurtà So`jali;\n\n\"uffi`jal li jamministra l-[urament\" tfisser id-Direttur tasServizzi So`jali u kull uffi`jal ie]or tad-Dipartiment tieg]u\nawtorizzat mill-Ministru biex jamministra [uramenti g]at-tmexxija\ntajba tad-dmirijiet tieg]u ta]t u skond id-disposizzjonijiet ta’ l-Att.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tajba tad-dmirijiet tieg]u ta]t u skond id-disposizzjonijiet ta’ l-Att",
+      "content": "L-uffi`jal li jamministra l-[urament g]andu jimxi fuq ilformalitajiet li [ejjin:\n\n(a) kull dikjarazzjoni verbali g]andha, qabel ma tin]alef,\ntinkiteb u mbag]ad ti[i ffirmata jew immarkat minn\nmin jag]mel id-dikjarazzjoni;\n\n(b) ikun dmir l-uffi`jal li jamministra l-[urament li\njossodisfa ru]u mill-identità tal-persuna li tie]u l[urament u li jfisser lil dik il-persuna x’fiha ddikjarazzjioni;\n\n(`) l-uffi`jal li jamministra l-[urament g]andu jag]ti rrispett dovut lis-solennità ta’ l-att li jkun qieg]ed\njag]mel u g]andu jfiehem sewwa lil min ikun jag]mel\nid-dikjarazzjoni bil-konsegwenzi ta’ [urament falz;\n(d) l-uffi`jal li jamministra l-[urament g]andu jiddikjara\nfl-attestat il-post fejn u d-data li fiha ttie]ed il[urament u li huwa sodisfatt illi min g]amel iddikjarazzjoni fehem kull ma jinsab fid-dikjarazzjoni.\n\nTitolu.\nTifsir.\nEmendat:\nAtt XLIV ta’ l1965.\nKap. 318.\n\n{urament.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

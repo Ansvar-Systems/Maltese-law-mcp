@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-350-13-mlt",
+  "type": "statute",
+  "title": "Ordni ta' Awtorizzazzjoni għal Xandir tat-Televiżjoni permezz ta' Satellita",
+  "title_en": "Ordni ta' Awtorizzazzjoni għal Xandir tat-Televiżjoni permezz ta' Satellita",
+  "short_name": "eli/sl/350.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.13/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.13/mlt, expression eli/sl/350.13/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-2018",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni ta’ Awtorizzazzjoni g]al\nXandir tat-Televi\\joni permezz tas-Satellita.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Xandir tat-Televi\\joni permezz tas-Satellita",
+      "content": "Imħassar bl-Att XVI tal-2018.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Imħassar bl-Att XVI tal-2018",
+      "content": "Il-Ministru\ng]all-Infrastruttura,\nTrasport\nu\nKomunikazzjoni qieg]ed b’dan jawtorizza lill-Awtorità dwar ixXandir to]ro[ li`enza g]an-nom tal-Gvern lill-kumpanija BuzzTV\nLimited biex ixxandar, permezz tas-satellita, servizz ta’ programmi\ntelevi\\ivi. BuzzTV Limited hija kumpannija re[istrata f’Malta binnumru ta’ re[istrazzjoni C44481.\n\nTitolu.\n}ru[ ta’ li`enza\nlill-kumpannija\nModern\nInvestment\nCompany Limited.\n}ru[ ta’ li`enza\nlill-kumpannija\nBuzzTV Limited.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

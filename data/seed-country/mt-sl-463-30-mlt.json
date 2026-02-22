@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-463-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Skema ta' Għajnuna għal Brexit",
+  "title_en": "Regolamenti dwar Skema ta' Għajnuna għal Brexit",
+  "short_name": "eli/sl/463.30/mlt",
+  "status": "repealed",
+  "issued_date": "2019-11-06",
+  "in_force_date": "2019-11-06",
+  "url": "https://legislation.mt/eli/sl/463.30/20191106/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.30/mlt, expression eli/sl/463.30/20191106/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 273 tal-2019",
+      "content": "It-titlolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nSkema ta' Għajnuna għal Brexit.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’ oħra;\n\nTifsir.\n\n\"l-Att\"’ tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nKap. 463.\n\n\"impriża\" għandu jkollha l-istess tifsira bħal dik mogħtija\nlilha fl-Att;\n\"intrapriżi żgħar u ta' daqs medju (SMEs)\" għandu\njkollha t-tifsira li tista' tingħata lilha fil-linji gwida;\n\"il-Korporazzjoni\" tfisser l-Intrapriża ta’ Malta mwaqqfa\ntaħt l-Att;\n\"linji gwida\" tfisser dawk l-linji gwida li jistgħu jiġu\npubblikati mill-Korporazzjoni minn żmien għal żmien skont lAtt.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-għajnuna għandha tingħata fil-forma ta' għotja ta' flus\nli tkopri ħamsin fil-mija (50%) tal-ispejjeż eliġibbli skont l-artikolu 5\nu din l-għotja ma għandhiex teċċedi ħamest elef euro (€5,000) kif\ngħandu jiġi speċifikat b'mod ulterjuri fil-linji gwida.\n\nForma ta’ għajnuna\nu għajnuna\nmassima.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "massima",
+      "content": "Il-Korporazzjoni għandha tipprovdi għajnuna skont\ndawn ir-regolamenti kemm-il darba tkun sodisfatta illi:\n\nEliġibbiltà.\n\n(a)\n\nl-impriża topera f’Malta; u\n\n(b)\nl-impriża tiġġustifika dipendenza sinjifikanti fuq\nis-suq Ingliż abbażi ta’ importazzjoni u, jew esportazzjoni. Din\nid-dipendenza sinjifikanti għandha tiġi mfissra fil-linji gwida u\ngħandha tqies il-fatturat tal-impriża li jiddependi fuq\ntranżazzjonijiet relatati mas-suq Ingliż fl-aħħar sentejn fiskali.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 62
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "tranżazzjonijiet relatati mas-suq Ingliż fl-aħħar sentejn fiskali",
+      "content": "(1)\nL-ispejjeż eliġibbli għandhom ikunu dawk relatati\nma' spejjeż ta’ konsulenza provduti minn konsulenti esterni.\n(2)\nIs-servizzi ta' konsulenza m'għandhomx ikunu relatati\nma' attività kontinwa jew perjodika u lanqas mal-ispejjeż operattivi\nnormali tal-impriża, bħal servizzi normali ta' konsulenza fiskali,\nservizzi legali regolari jew reklamar.\n\nSpejjeż eliġibbli.\n\n[ L.S. 463.30\n\nData tal-għeluq\ngħas-sottomissjoni\nta’\napplikazzjonijiet\ngħall-għajnuna.\n\nSKEMA TA' GĦAJNUNA GĦAL BREXIT",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 87
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "SKEMA TA' GĦAJNUNA GĦAL BREXIT",
+      "content": "Il-Korporazzjoni\ngħandha\ntikkunsidra\nbiss\napplikazzjonijiet għall-għajnuna li jaslu għandha sal-31 ta’ Diċembru",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 97
+      }
+    }
+  ],
+  "definitions": []
+}

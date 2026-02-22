@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-27-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Impjegati tal-Burdnara",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Impjegati tal-Burdnara",
+  "short_name": "eli/sl/452.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.27/mlt, expression eli/sl/452.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 33 ta’ l-1967, kif emendat bl-Avvi\\ Legali 44 ta’ l1968",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Imgjegati tal-Burdnara.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi g]all-Impjegati talBurdnara li japplika -\n\nSafejn japplika ilKunsill tal-Pagi.\nSostitwit:\nA.L. 44 ta’ l-1968.\n\n(a) g]all-impjegati kollha tal-burdnara f’kull impieg li\njikkonsisti g]al kollox jew prin`ipalment fil-linja talburdnara, u\n(b) g]all-impjegati kollha f’kull impri\\a jew parti minn\nimpri\\a li ja]dmu g]al kollox jew prin`ipalment fixxog]ol ta’ \\gumbrar, tag]bija u trasport ta’ g]amara u\n]wejje[ o]ra tad-dar u o[[etti jew materjali o]ra.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "Dan il-Kunsill ma japplikax g]all-impjegati li g]alihom\njapplika xi Kunsill tal-Pagi ie]or.\n\nEsklu\\joni.\nMi\\jud:\nA.L. 44 ta’ l-1968.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntal-21 ta’ Marzu, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

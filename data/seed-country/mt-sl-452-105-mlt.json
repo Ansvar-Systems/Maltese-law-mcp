@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-105-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Estensjoni tal-Applikabilità tar-Regolamenti dwar il-Ħarsien tal-Maternità (Impieg) għal Servizz mal-Gvern",
+  "title_en": "Regolamenti dwar l-Estensjoni tal-Applikabilità tar-Regolamenti dwar il-Ħarsien tal-Maternità (Impieg) għal Servizz mal-Gvern",
+  "short_name": "eli/sl/452.105/mlt",
+  "status": "in_force",
+  "issued_date": "2010-11-02",
+  "in_force_date": "2010-11-02",
+  "url": "https://legislation.mt/eli/sl/452.105/20101102/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.105/mlt, expression eli/sl/452.105/20101102/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 460 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lEstensjoni tal-Applikabilità tar-Regolamenti dwar il-}arsien talMaternità (Impieg) g]al Servizz mal-Gvern.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-artikolu 10 tal-Att dwar l-Impiegi u r-Relazzjonijiet\nIndustrijali, sakemm dan ikun id-disposizzjoni li tag]ti poter u li\nbis-sa]]a tag]ha n]ar[u r-Regolamenti dwar il-}arsien talMaternità (Impieg), g]andhom ikunu japplikaw g]al servizz malGvern.\n\nApplikabilità\ng]all-Gvern.\nKap. 452.\nL.S. 452.91",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

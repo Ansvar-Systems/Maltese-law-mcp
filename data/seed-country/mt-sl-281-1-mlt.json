@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-281-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Professjoni tal-Accountancy",
+  "title_en": "Regolamenti dwar il-Professjoni tal-Accountancy",
+  "short_name": "eli/sl/281.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/281.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/281.1/mlt, expression eli/sl/281.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PROFESSJONI TA’ L-ACCOUNTANCY\n\n[L.S.281.01\n\nLEĠISLAZZJONI SUSSIDJARJA 281.01\nREGOLAMENTI DWAR IL-PROFESSJONI\nTA’ L-ACCOUNTANCY*\n1 ta’ Ottubru, 2008\nL-AVVIŻ LEGALI 18 tal-2009, kif emendat bl-Avviżi Legali 111 tal-2010\nu 234 tal-2016, 78 tal-2019 u 314 tal-2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-472-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Membri Parlamentari u l-Impjieg Pubbliku",
+  "title_en": "Att dwar il-Membri Parlamentari u l-Impjieg Pubbliku",
+  "short_name": "Kap. 472",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2004-08-10",
+  "url": "https://legislation.mt/eli/cap/472/20040810/mlt",
+  "description": "Official text from legislation.mt (eli/cap/472/mlt, expression eli/cap/472/20040810/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L- ATT XI tal-2004 ",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar il-Membri\nParlamentari u l-Impjieg Pubbliku.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieġ xort’oħra:\n\nTifsir.\n\n(a) \"Kamra\" tfisser il-Kamra tad-Deputati;\n(b) \"kariga pubblika\", \"uffiċjal pubbliku\" u \"is-servizz\npubbliku\" għandhom l-istess tifsira bħal dik mogħtija\nlilhom bl-artikolu 124 tal-Kostituzzjoni;\n(ċ) \"korp dixxiplinat\" għandha l-istess tifsira bħal dik\nmogħtija lilha bl-artikolu 47(1) tal-Kostituzzjoni;\n(d) \"Kostituzzjoni\" tfisser il-Kostituzzjoni ta’ Malta.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Bla ħsara għad-dispożizzjonijiet tal-artikolu 4, għallfinijiet tal-artikolu 54(1)(b) tal-Kostituzzjoni, qiegħed b’dan jiġi\nprovdut li uffiċjal pubbliku, li l-kariga tiegħu, sostantiva jew\nxort’oħra, fis-servizz pubbliku ma tkunx qiegħda fuq skala ta’\nsalarju li tkun ogħla mill-iskala ta’ salarju 6, jew xi skala ta’ salarju\noħra li l-Kamra tista’ b’Riżoluzzjoni minn żmien għal żmien\ntistabbilixxi, ikun jikkwalifika biex jiġi elett membru tal-Kamra.\n\nKif uffiċjali\npubbliċi\njikkwalifikaw biex\njiġu eletti membri\ntal-Kamra.\n\n(2) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (3) uffiċjal\npubbliku li jkun elett membru tal-Kamra jgawdi dawk id-drittijiet,\nu jkun soġġett għal dawk l-obbligazzjonijiet u kondizzjonijiet, bħal\nkull uffiċjal pubbliku ieħor fl-istess grad jew pożizzjoni; b’dan illi\ndak il-membru għandu jitħalla jaqdi dmirijietu fil-Kamra.\n(3) Meta l-Prim Ministru jkun jidhirlu li jkun hekk meħtieġ flinteress pubbliku, huwa jista’ b’Ordni pubblikat fil-Gazzetta\njagħmel regoli speċjali taħt dan l-Att li bihom jimpedixxi uffiċjali\npubbliċi li jiġu eletti fil-Kamra milli jaqdu dmirijiethom f ’xi\ndipartimenti jew uffiċċji partikolari jew milli jwettqu xi dmirijiet\npartikolari, u dawk l-uffiċjali pubbliċi għandhom jiġu assenjati\nmill-ġdid band’oħra jew inkella jiġu eżonerati minn dawk iddmirijiet skont ma jkun speċifikat b’dak l-Ordni.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "partikolari, u dawk l-uffiċjali pubbliċi għandhom jiġu assenjati",
+      "content": "Id-dispożizzjonijiet ta’ dan l-Att ma għandhom japplikaw\ngħal ebda membru ta’ korp dixxiplinat.\n\nMembri ta’ korp\ndixxiplinat.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

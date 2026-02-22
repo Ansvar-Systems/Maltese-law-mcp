@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-210-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Tlajjar f’Birkirkara (Kunsill Lokali Birkirkara)",
+  "title_en": "Bye-Laws dwar Tlajjar f’Birkirkara (Kunsill Lokali Birkirkara)",
+  "short_name": "eli/sl/363.210/mlt",
+  "status": "in_force",
+  "issued_date": "2019-03-08",
+  "in_force_date": "2019-03-08",
+  "url": "https://legislation.mt/eli/sl/363.210/20190308/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.210/mlt, expression eli/sl/363.210/20190308/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 14/02/2019",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar Tlajjar\nf’Birkirkara (Kunsill Lokali Birkirkara).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra:\n\nTifsir.\n\n''l-Att'' tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n''il-Kunsill'' tfisser il-Kunsill Lokali Birkirkara;\n''lokalità'' tfisser il-lokalità ta’ Birkirkara kif tidher fitTieni Skeda li tinsab mal-Att;\n''tlajjar'' tfisser il-preżenza persistenti ta’ kwalunkwe\npersuna għal-ebda raġuni apparenti;\n''triq'' tfisser l-istess bħat-tifsira mogħtija lilha fl-Att.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma għandha titlajja fi kwalunkwe triq\nf’Birkirkara.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Ebda tlajjar",
+      "content": "Kwalunkwe persuna li tinstab titlajja fi kwalunkwe triq\nf’Birkirkara, tkun ħatja ta’ kontravvenzjoni u teħel, meta tinsab ħatja,\nammenda ta’ ħamsa u sittin euro (€65), flimkien ma’ ammenda oħra ta’\nmhux aktar minn ħmistax-il euro (€15) għal kull ġurnata li tkun kisret\nxi waħda mid-dispożizzjonijiet ta’ dawn il-Bye-Laws.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

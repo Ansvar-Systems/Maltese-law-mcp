@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-503-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Ġurisdizzjoni Approvata fir-Reġistrazzjoni ta’ Inġenji tal-Ajru",
+  "title_en": "Regolamenti dwar Ġurisdizzjoni Approvata fir-Reġistrazzjoni ta’ Inġenji tal-Ajru",
+  "short_name": "eli/sl/503.2/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-28",
+  "in_force_date": "2022-02-11",
+  "url": "https://legislation.mt/eli/sl/503.2/20220211/mlt",
+  "description": "Official text from legislation.mt (eli/sl/503.2/mlt, expression eli/sl/503.2/20220211/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "10 ta’ Mejju, 2011",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nĠurisdizzjoni Approvata fir-Reġistrazzjoni ta’ Inġenji tal-Ajru.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet tad-dispożizzjonijiet tal-Att dwar irReġistrazzjoni ta’ Inġenji tal-Ajru, it-tifsira \"ġurisdizzjoni approvata\"\nfl-artikolu 2 tiegħu għandha tinkludi dawn il-pajjiżi li ġejjin approvati\nmill-Ministru:\n\nPajjiżi oħra\nrikonoxxuti bħala\nġurisdizzjoni\napprovata.\nSostitwit:\nA.L. 380 tal-2018.;\nA.L. 72 tal-2022\n\nl-Albanija, l-Alġerija, l-Afrika ta’ Isfel, l-Arabja Sawdija, lArġentina, Aruba, il-Bahamas, il-Bahrain, Barbados, Bolivia, ilBożnija-Ħerzegovina, il-Brażil, Bermuda, British Virgin Islands, iċĊili, iċ-Ċina, il-Djibouti, l-Eġittu, l-Emirati Għarab Magħquda, ilFilippini, il-Ġappun, Ġibiltà, il-Ġordan, il-Georgia, Guernsey, ilGżejjer Cayman, il-Gżejjer Marshall, il-Honduras, l-Indja, lIndoneżja, l-Iraq, Isle of Man, Jersey, il-Kazakistan, Kenja, il-Kosovo,\nil-Kosta tal-Avorju, il-Kroazja, il-Kuwajt, il-Libanu, il-Maċedonja, ilMalasja, Monako, il-Montenegro, il-Marokk, l-Oman, il-Panama, ilQatar, ir-Russja, Saint Lucia, San Marino, is-Serbja, Singapore, isSirja, Saint Kitts u Nevis, Saint Vincent u l-Grenadini, it-Tuneżija u lUkrajna.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

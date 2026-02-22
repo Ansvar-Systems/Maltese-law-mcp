@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-186-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Kreditu ta’ Taxxa (Riċiklaġġ ta’ Skart ta’ Kostruzzjoni)",
+  "title_en": "Regoli dwar Kreditu ta’ Taxxa (Riċiklaġġ ta’ Skart ta’ Kostruzzjoni)",
+  "short_name": "eli/sl/123.186/mlt",
+  "status": "in_force",
+  "issued_date": "2018-07-06",
+  "in_force_date": "2018-07-06",
+  "url": "https://legislation.mt/eli/sl/123.186/20180706/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.186/mlt, expression eli/sl/123.186/20180706/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 209 tal-2018,kif emendat bl-Avviż Legali 47 tal2019",
+      "content": "It-titolu ta’ dawn ir-regoli hu Regoli dwar Kreditu ta’\nTaxxa (Riċiklaġġ ta’ Skart ta’ Kostruzzjoni).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "xort’oħra:\n\nTifsir.\nEmendat:\nA.L.47 tal-2018.\n\nF’dawn\n\nir-regoli,\n\nsakemm\n\nil-kuntest\n\nma\n\njitlobx\n\n\"persuna awtorizzata\" tfisser persuna li jkollha permess maħruġ\nmill-Awtorità għall-Ambjent u r-Riżorsi sabiex taċċetta fil-barriera\ntagħha materjal ta’ kostruzzjoni u demolizzjoni mingħand terzi\npersuni;\n\"sena rilevanti\" tfisser is-sena kalendarja 2017, 2018 jew 2019;\n\"servizzi kwalifikanti\" tfisser l-aċċettazzjoni minn persuna\nawtorizzata ta’ materjal ta’ kostruzzjoni u demolizzjoni mingħand\nterzi persuni, b’tariffa ta’ mhux aktar minn tmien euro (€8) għal kull\ntunnellata.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tunnellata",
+      "content": "(1)\nPersuna awtorizzata li, matul sena rilevanti,\ntipprovdi servizzi kwalifikanti, tista’ titlob kreditu ta’ taxxa li jkun\nekwivalenti għal 25% tat-tariffi grossi imħallsa lilha għall-provvista\nta’ dawk is-servizzi:\nIżda l-kreditu ta’ taxxa ma għandux jeċċedi t-taxxa li\ntkun imposta fuq l-income derivat mill-persuna awtorizzata matul dik\nis-sena mill-provvista ta’ dawk is-servizzi.\n(2)\nIt-talba għal kreditu ta’ taxxa skont dawn ir-regoli\ngħandha ssir b’dak il-mod u fuq dik il-formola li l-Kummissarju\njista’ japprova u tkun soġġetta għall-produzzjoni ta’ dawk iddokumenti jew evidenza oħra li l-Kummissarju jista’ jitlob.\n\nKreditu ta’ taxxa.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

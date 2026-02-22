@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-33-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Projbizzjoni ta' Ċomb tal-Kaċċa Marbut Ħolqa jew Ikkatenat",
+  "title_en": "Regolamenti dwar il-Projbizzjoni ta' Ċomb tal-Kaċċa Marbut Ħolqa jew Ikkatenat",
+  "short_name": "eli/sl/33.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/33.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/33.2/mlt, expression eli/sl/33.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 4 ta’ l-1972",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProjbizzjoni ta’ ~omb tal-Ka``a Marbut }olqa jew Ikkatenat.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 4 ta’ l-1972",
+      "content": "}add m’g]andu jimporta, jiffabbrika, ja]\\en, i\\omm,\niqassam jew ju\\a xi esplo\\ivi li jkunu `omb tal-ka``a marbut ]olqa\njew ikkatenat.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "jew ikkatenat",
+      "content": "Kull persuna li jkollha fil-pussess tag]ha xi esplo\\ivi taxxorta msemmija fir-regolament 2, g]andha, fi \\mien tliet ijiem,\ntikkonsenja dawk l-esplo\\ivi lill-Kummissarju tal-Pulizija biex ji[u\ndistrutti.\n\nTitolu.\nProjbizzjoni ta’ limportazzjoni,\ne``., ta’ `erti\nesplo\\ivi.\nEsplo\\ivi projbiti\ng]andhom ji[u\nkonsenjati lillKummissarju talPulizija.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

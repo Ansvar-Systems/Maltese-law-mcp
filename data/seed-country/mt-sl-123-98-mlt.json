@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-123-98-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis għal Spejjeż li għandhom x'jaqsmu ma' l-Euro",
+  "title_en": "Regoli dwar Tnaqqis għal Spejjeż li għandhom x'jaqsmu ma' l-Euro",
+  "short_name": "eli/sl/123.98/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.98/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.98/mlt, expression eli/sl/123.98/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 93 ta’ l-2007, kif emendat bl-Avvi\\ Legali 409 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regoli huwa Regoli dwar Tnaqqis g]al\nSpejjez li g]andhom x’jaqsmu ma’ l-Euro.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regoli, sakemm ir-rabta tal-kliem ma te]tie[x\nxort’o]ra:\n\nTifsiriet.\n\n\"persuna li tikkwalifika\" tfisser persuna li g]aliha tapplika rregola 3;\n\"tag]mir\" tfisser cash registers, sistemi ta’ punt ta’ bejg] u\nmwie\\en u kull tag]mir ie]or elettroniku li juri jew ja]\\en\nammonti monetarji.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsiriet",
+      "content": "Dawn ir-regoli japplikaw g]al kull persuna li:\n(a) tmexxi seng]a, negozju, professjoni jew vokazzjoni u\ntkun re[istrata ta]t l-Att dwar it-Taxxa fuq il-Valur\nMi\\jud meta l-attività ekonomika li fiha dik il-persuna\nhija impjegata tkun attività li dwarha dik il-persuna\nhija me]tie[a li tkun hekk re[istrata; u\n\nG]an.\nKap. 406.\n\n(b) tid]ol fi spejje\\ fix-xiri, l-istallar, it-tibdil jew it-titjib\nta’ xi tag]mir bejn l-1 ta’ Jannar, 2006 u l-31 ta’\nDi`embru, 2007 sabiex in-negozju jitwettaq b’mod\nsiewi fil-munita euro mid-data meta l-euro isir valuta\nlegali.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "legali",
+      "content": "(1) Meta persuna li tikkwalifika tid]ol fi spejje\\ skond iddisposizzjonijiet tar-regola 3, g]andu jing]ata tnaqqis ekwivalenti\ng]al mitejn fil-mija (200%) ta’ l-ispejje\\ totali, e\\klu\\ il-VAT, fuq\nl-income taxxabbli ta’ dik il-persuna g]as-sena ta’ stima 2008:\nI\\da, fil-ka\\ ta’ kumpannija, meta l-ammont imsemmi f’din\nir-regola jintnefaq matul il-sena li ti[i qabel is-sena ta’ stima 2009,\ndak it-tnaqqis g]andu jing]ata fuq l-income taxxabbli g]as-sena ta’\nstima 2009.\n(2) Meta jintalab tnaqqis skond dawn ir-regoli, ma jista’\njintalab l-ebda tnaqqis rigward tqag]bir bl-u\\u ordinarju firrigward ta’ l-istess tag]mir u t-tnaqqis imsemmi fis-subregola (1)\ng]andu ji[i mnaqqas b’kull tnaqqis g]al tqag]bir bl-u\\u ordinarju\nli jkun intalab qabel is-sena ta’ stima 2008 g]all-istess tag]mir:\nI\\da, fil-ka\\ ta’ kumpanniji li g]alihom japplika l-proviso\ntas-subregola (1), it-tnaqqis mog]ti ta]t dawn ir-regoli g]andu ji[i\nmnaqqas b’kull tnaqqis g]at-tqag]bir bl-u\\u ordinarju mitlub qabel\nis-sena ta’ stima 2009.\n(3) It-tnaqqis mitlub ta]t dawn ir-regoli kif jing]ad qabel firrigward ta’ kull persuna li tikkwalifika ma g]andux ikun aktar\n\nTnaqqis.\nEmendat:\nA.L. 409 ta’ l2007.\n\nL.S.123.98]\n\nTNAQQIS G}AL SPEJJE|\nLI G}ANDHOM X”JAQSMU MA’ L-EURO\n\nminn elfejn u tlieta mija u tletin euro (2,330).\nXiri ta’ cash\nregisters.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 79
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tnaqqis",
+      "content": "(1) Meta jsiru spejje\\ kif imsemmi fir-regola 3(b) rigward\nix-xiri ta’ cash register [did, dan ix-xiri g]andu ji[i notifikat lillKummissarju ta l-VAT fuq formula ta ’ a pplika z z joni kif ilKummissarju tal-VAT jista’ je]tie[.\n(2) It-tnaqqis previst fir-regola 4 g]andu jing]ata biss meta nnotifika msemmija fis-subregola (1) tkun saret fil-mod kif stipulat\nfl-imsemmija subregola.",
+      "metadata": {
+        "source_line_start": 80,
+        "source_line_end": 86
+      }
+    }
+  ],
+  "definitions": []
+}

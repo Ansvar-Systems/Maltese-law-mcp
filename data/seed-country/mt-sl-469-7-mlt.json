@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-469-7-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ ammont ta’ €24,458,420.68 5.1% Stock tal-Gvern ta’ Malta 2022 (L-Ewwel Ħruġ)",
+  "title_en": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ ammont ta’ €24,458,420.68 5.1% Stock tal-Gvern ta’ Malta 2022 (L-Ewwel Ħruġ)",
+  "short_name": "eli/sl/469.7/mlt",
+  "status": "in_force",
+  "issued_date": "2012-05-03",
+  "in_force_date": "2012-05-03",
+  "url": "https://legislation.mt/eli/sl/469.7/20120503/mlt",
+  "description": "Official text from legislation.mt (eli/sl/469.7/mlt, expression eli/sl/469.7/20120503/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 460 tal-2004, kif emendat bl-Avvi\\ Legali 427 tal2007",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Prim Ministru\nu Ministru tal-Finanzi g]all-]ru[ ta’ ammont ta’ €24,458,420.68",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "u Ministru tal-Finanzi g]all-]ru[ ta’ ammont ta’ €24,458,420.68",
+      "content": "1% Stock tal-Gvern ta’ Malta 2022 (L-Ewwel }ru[).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "u Ministru tal-Finanzi g]all-]ru[ ta’ ammont ta’ €24,458,420.68",
+      "content": "L-iStock jin]are[ skond kif stipulat fil-prospett.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "L-iStock jin]are[ skond kif stipulat fil-prospett",
+      "content": "Kull persuna u/jew enti jistg]u japplikaw g]al dan l-iStock.\nIt-tqassim ta’ l-iStock isir skond kif spjegat fil-prospett.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "It-tqassim ta’ l-iStock isir skond kif spjegat fil-prospett",
+      "content": "(a) Skond id-disposizzjonijiet ta’ l-Att dwar is-Swieq\nFinanzjarji, meta dan l-iStock ji[i allokat, g]andha ssir\napplikazzjoni sabiex l-iStock jitqieg]ed fuq il-lista\nuffi`jali u sabiex ikun negozjat fil-Bor\\a ta’ Malta.\n\nTitolu.\nEmendat:\nA.L. 427 tal-2007.\nMod tal-]ru[ ta’ liStock.\nPolicy dwar lallokazzjoni ta’\nStock.\nNegozju fil-Bor\\a\nta’ Malta.\nKap. 345.\n\n(b) Fis-16 ta’ Frar, 2005 wara l-pagament ta’ l-ewwel\nimg]ax dan l-iStock ji[i integrat ma’ l-iStock e\\istenti",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "L-img]ax bir-rata ta’ €2.55,0 g]al kull €100 Stock jit]allas\nkull sitt xhur b’lura fis-16 ta’ Frar u fis-16 ta’ Awissu ta’ kull sena\nwaqt il-kors ta’ l-iStock. L-ewwel ]las relattiv g]all-perjodu bejn\nit-18 ta’ Novembru, 2004 u s-16 ta’ Frar, 2005 jsir fis-16 ta’ Frar,\n\nRata ta’ mg]ax u\ndati tal-]las.\nEmendat:\nA.L. 427 tal-2007.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "A.L. 427 tal-2007",
+      "content": "L-iStock g]andu ji[i mifdi b’parità fis-16 ta’ Awissu, 2022.\n\nFidwa ta’ Stock.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

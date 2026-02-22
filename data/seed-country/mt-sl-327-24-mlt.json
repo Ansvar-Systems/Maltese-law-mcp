@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-327-24-mlt",
+  "type": "statute",
+  "title": "Statut 05 - Statut dwar il-Kumitat tal-Bibljoteka",
+  "title_en": "Statut 05 - Statut dwar il-Kumitat tal-Bibljoteka",
+  "short_name": "eli/sl/327.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.24/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.24/mlt, expression eli/sl/327.24/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "It-titolu ta’ dan l-Istatut hu Statut 05 - Statut dwar ilKumitat tal-Bibljoteka",
+      "content": "(1)\nmembri:\n\nII-Kumitat tal-Bibljoteka hu mag]mul minn dawn il-\n\nTitolu.\nKumitat talBibljoteka.\n\n(a) ir-Rettur jew id-delegat tieg]u, b]ala President;\n\n(b) il-Bibljotekarju li jkun ukoll is-Segretarju tal-Kumitat;\n\n(`) ]ames membri minn fost l-istaff akkademiku u ]ames\nstudenti minn fakultajiet differenti, i\\da ma jistax ikun\nhemm aktar minn membru wie]ed minn fakultà wa]da.\n\n(2) Il-membri akkademi`i fis-subparagrafu (1)(`) ikunu\nnominati mis-Senat u l-membri li huma studenti jkunu nominati\nmill-Kunsill ta’ l-iStudenti Universitarji hawnhekk i\\jed ’il\nquddiem imsejja] il-KSU.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Kumitat talBibljoteka",
+      "content": "Meta r-Rettur jew id-delegat tieg]u jkun assenti minn xi\nlaqg]a, il-membri tal-Kumitat li jkunu pre\\enti jridu ja]tru\nPresident minn fosthom biex jippresiedi dik il-laqg]a.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kumitat talBibljoteka",
+      "content": "Il-membri nominati skond il-paragrafu 1(1)(`) joqog]du\nfil-Kumitat g]al sena wa]da akkademika, i\\da r-rappre\\entant ta’\nkull fakultà jalterna minn sena g]al o]ra bejn student u\nakkademiku. Membri li jaslu fi tmiem il-kariga jistg]u jer[g]u ji[u\nnominati.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "nominati",
+      "content": "Jekk xi membru ma jattendix tliet laqghat tal-Kumitat wara\nxulxin bla ma jkollu ra[uni suffi`jenti jispi``a, u ji[i nominat (misSenat jew mill-KSU, skond il-ka\\) membru ie]or floku. Dan ilmembru [did jibqa’ fil-kariga biss g]at-tul ta’ \\mien li kien g]ad\nbaqag]lu jservi membru li hu jkun tela’ minfloku.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "baqag]lu jservi membru li hu jkun tela’ minfloku",
+      "content": "Il-Kumitat irid jiltaqa’ g]allanqas darba kull erba’ xhur.\n\n}ames membri tal-Kumitat jag]mlu quorum.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "}ames membri tal-Kumitat jag]mlu quorum",
+      "content": "Kull kwistjoni tkun de`i\\a b’ma[[oranza ta’ voti talmembri presenti u li jivvutaw, u jekk il-voti ji[u ndaqs, il-President\njew membru ie]or li jkun jagixxi floku jkollu wkoll vot de`isiv u\njrid ju\\ah.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "jrid ju\\ah",
+      "content": "Il-Kumitat tal-Bibljoteka g]andu:\n\n(a) jir`ievi r-Rapport Annwali tal-Bibljotekarju fuq il]idma tal-Bibljoteka u jibg]atu lis-Senat fil-forma\napprovata mill-Kumitat;\n\n(b) jibghat lill-Kumitat tal-Finanzi r-rakkmandazzjonijiet\ntieg]u dwar il-fondi me]tie[a biex il-Bibljoteka\n\nPresident.\n\n|mien tal-]atra.\n\nVakanza.\n\nLaqg]at.\nQuorum.\nDe`i\\jonijiet.\n\nDmirijiet talkumitat.\n\nL.S.327.24]\n\nSTATUT 05 - STATUT DWAR\njkollha l-impjegati, tkun fornuta b’kotba u materjali\no]ra simili, u t-tag]mir li te]tie[;\n\n(`) jag]ti pariri lill-Bibljotekarju dwar il-politika li fuqha\ng]andhom ikunu \\viluppati s-servizzi li tag]ti lBibljoteka;\n(d) ifassal regolamenti dwar l-u\\u tal-Bibljoteka, u\njibg]athom lis-Senat biex ji[u approvati minnu.",
+      "metadata": {
+        "source_line_start": 61,
+        "source_line_end": 101
+      }
+    }
+  ],
+  "definitions": []
+}

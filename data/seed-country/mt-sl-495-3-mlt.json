@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-495-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-ħatra tal-Awtorità Ċentrali fl-Adozzjoni",
+  "title_en": "Regolamenti dwar il-ħatra tal-Awtorità Ċentrali fl-Adozzjoni",
+  "short_name": "eli/sl/495.3/mlt",
+  "status": "in_force",
+  "issued_date": "2018-06-28",
+  "in_force_date": "2018-06-28",
+  "url": "https://legislation.mt/eli/sl/495.3/20180628/mlt",
+  "description": "Official text from legislation.mt (eli/sl/495.3/mlt, expression eli/sl/495.3/20180628/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 191 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilħatra tal-Awtorità Ċentrali fl-Adozzjoni.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Awtorità ta’ Standards ta’ Ħarsien Soċjali għandha\ngħall-finijiet u l-effetti kollha tinħatar bħala l-Awtorità Ċentrali kull\nfejn tinsab fl-Att dwar l-Amministrazzjoni tal-Adozzjoni.\n\nIl-ħatra talAwtorità Ċentrali.\nKap. 495.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

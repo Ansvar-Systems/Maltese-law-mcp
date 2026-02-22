@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-460-39-mlt",
+  "type": "statute",
+  "title": "Ordni dwar in-Nomina ta’ Awtorità Kompetenti għar-Regolament (UE) 2017/1938",
+  "title_en": "Ordni dwar in-Nomina ta’ Awtorità Kompetenti għar-Regolament (UE) 2017/1938",
+  "short_name": "eli/sl/460.39/mlt",
+  "status": "in_force",
+  "issued_date": "2021-03-24",
+  "in_force_date": "2021-03-05",
+  "url": "https://legislation.mt/eli/sl/460.39/20210305/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.39/mlt, expression eli/sl/460.39/20210305/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 70 tal-2021",
+      "content": "(1)\nIt-titolu ta’ dan l-ordni hu l-Ordni dwar inNomina ta’ Awtorità Kompetenti għar-Regolament (UE) 2017/1938.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dan l-ordni hu sabiex jimplimenta ddispożizzjonijiet tar-Regolament (UE) 2017/1938 tal-Parlament\nEwropew u tal-Kunsill tal-25 ta’ Ottubru 2017 dwar miżuri għassalvagwardja tas-sigurtà tal-provvista tal-gass u li jħassar irRegolament (UE) Nru 994/2010.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(2)",
+      "content": "F’dan l-ordni, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’ oħra:\n\nTifsir.\n\n\"Regolament\" tfisser ir-Regolament (UE) 2017/1938 talParlament Ewropew u tal-Kunsill tal-25 ta’ Ottubru 2017 dwar miżuri\ngħas-salvagwardja tas-sigurtà tal-provvista tal-gass u li jħassar irRegolament (UE) Nru 994/2010.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-Ministeru responsabbli għall-enerġija huwa b’dan\nnominat bħala l-awtorità kompetenti għall-finijiet tar-Regolament.\n\nAwtorità\nkompetenti.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "L-awtorità kompetenti għandu jkollha s-setgħa li\ntiddelega kompiti speċifiċi stabbiliti fir-Regolament lil korpi oħrajn,\nf’konformiàt mal-Artikolu 3(2) tar-Regolament.\n\nSetgħat talawtorità\nkompetenti.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

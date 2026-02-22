@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-55-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti li Jiffissaw l-Onorarju li għandu Jitħallas lill-Membri tal-Bord ta’ Eżaminaturi",
+  "title_en": "Regolamenti li Jiffissaw l-Onorarju li għandu Jitħallas lill-Membri tal-Bord ta’ Eżaminaturi",
+  "short_name": "eli/sl/55.11/mlt",
+  "status": "in_force",
+  "issued_date": "2023-07-05",
+  "in_force_date": "2023-06-23",
+  "url": "https://legislation.mt/eli/sl/55.11/20230623/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.11/mlt, expression eli/sl/55.11/20230623/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 120 tal-2023",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti li\nJiffissaw l-Onorarju li għandu Jitħallas lill-Membri tal-Bord ta’\nEżaminaturi.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "B’effett mis-sena 2023, il-membru maħtur mill-Kunsill\nNutarili kif ukoll iż-żewġ (2) membri maħtura mill-Ministru\nresponsabbli għall-affarijiet nutarili sabiex iservu fuq il-Bord ta’\nEżaminaturi mwaqqaf skont l-artikolu 7 tal-Att dwar il-Professjoni\nNutarili u l-Arkivji Nutarili għandhom jirċievu onorarju li jammonta\ngħal elfejn erba’ mija u ħamsa u għoxrin euro (€2,425) kull wieħed\ngħal kull sena li matulha huma għandhom iservu bħala membri talBord.\n\nOnorarju li għandu\njitħallas lillmembri tal-Bord\nta’ Eżaminaturi.\nKap. 55.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-442-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Soċjetajiet Koperativi (Ġbir ta’ Drittijiet)",
+  "title_en": "Regolamenti dwar is-Soċjetajiet Koperativi (Ġbir ta’ Drittijiet)",
+  "short_name": "eli/sl/442.5/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/442.5/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/442.5/mlt, expression eli/sl/442.5/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 198 ta’ l-2003, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar isSo`jetajiet Koperativi ({bir ta’ Drittijiet).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kliem u\\at f’dawn ir-regolamenti g]andu jkollu l-istess\ntifsir kif g]andu fl-Att dwar is-So`jetajiet Koperativi, hawn aktar\n’il quddiem imsejja] \"l-Att\".\n\nTifsir.\nKap. 442.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Id-drittijiet imni\\\\la fl-Iskeda g]andhom ikunu dawk iddrittijiet li g]andhom jin[abru dwar l-ispezzjoni jew il-]ru[ ta’\ndokumenti, `ertifikati, kopji jew estratti ta]t l-Att.\n\nSetg]a ta’ [bir ta’\ndrittijiet.\n\nSostitwita:\nA.L. 426 ta’ l2007.\n\n(Regolament 3)\nRe[istrazzjoni ta’ dokumenti lis-Segretarju tal-Bord\ntal-Koperativi skond l-artikolu 29(1), (2) u (3) ta’ lAtt dwar is-So`jetajiet Koperativi, (Kap.442) ...........\nG]al kull kopja, g]al kull folja .................................\nG]al `ertifikat dwar kopji veri ..................................\nG]al kull `ertifikat ie]or ma]ru[ fuq it-talba ta’\npersuna ....................................................................\nG]al kull spezzjon ta’ dokumenti, f ’g]amla\nstampata, ta’ kull so`jetà koperativa, g]al kull file ....\nG]all-ispezzjon ta’ dokumenti, f’g]amla elettronika,\nta’ so`jetajiet koperativi, g]al kull sieg]a jew parti\nminnha .....................................................................\n\n€58.23\n€0.23\n€0.58\n€2.33\n€2.33\n\n€2.33",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

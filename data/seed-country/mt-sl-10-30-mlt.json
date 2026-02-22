@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-10-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Irmiġġ",
+  "title_en": "Regolamenti dwar l-Irmiġġ",
+  "short_name": "eli/sl/10.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.30/mlt, expression eli/sl/10.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-1986; u bl-Atti XVII tal-1991 u XV tal-2009",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIrmi[[.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra -\n\nTifsir.\nEmendat:\nXV. 2009.49.\n\n\"Awtorità\" tfisser l-Awtorità g]at-Trasport f ’Malta u tinkludi\nkull persuna awtorizzata minnha biex ta[ixxi minflokha;\n\"ib]ra territorjall\" tfisser kull parti ta’ l-ib]ra territorjali ta’\nMalta;\n\"irmi[[\" tinkludi rbit, waqfien u kull meta jitni\\\\lu l-ankri;\n\"ya c h t \" t f i s se r b as t im e n t l i jb a] ] a r, m h u x a n q as m i n n 4\ntunnellati gross re[istrati, u\\at g]al skopijiet ta’ divertiment.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Il-kaptan jew persuna o]ra inkarigata minn bastiment\njew dg]ajsa g]andha tosserva kif imiss kull direttiva ma]ru[a millAwtorità dwar il-post fejn dak ul-bastiment jew dik id-dg]ajsa\ntista’ tirmi[[a f ’xi port jew l-ib]ra territorjali, jew dwar ilmoviment tag]ha fl-ib]ra territorjali.\n\nDirettivi g]al\nirmi[[.\nEmendat:\nXVII. 1991.81.\n\n(2) Kull direttiva tista’ tkun jew [enerali, jew dwar yachts, jew\ndwar klassi o]ra ta’ bastimenti jew dg]ajjes, jew dwar bastiment\njew dg]ajsa partikolari.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jew dg]ajsa partikolari",
+      "content": "B’dak kollu li jinsab fid-disposizzjonijiet tar-regolament 3,\nl-Awtorità tista’ tipprobixxi l-irmi[[ jew i`-`aqliq ta’ xi bastimemt\njew dg]ajsa partikolari jew xi klassi ta’ bastimenti jew dg]ajjes flib]ra territorjali.\n\nProjbizzjoni ta’\nirmi[[ jew `aqliq.\nEmendat:\nXVII. 1991.81.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 54
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "XVII. 1991.81",
+      "content": "L-Awtorità tista’ tipprojbixxi l-g]awm u kull tip ta’ attività\nli g]andha x’taqsam ma’ min irid jg]odos ta]t il-ba]ar f ’xi \\ona\npartikolari ta’ l-ib]ra territorjali.\n\nProjbizzjoni ta’\ng]awm f’\\oni\npartikolari ta’ lib]ra territorjali.\nMi\\jud:\nA.L. 33 tal-1986.\nEmendat:\nXVII. 1991.81.",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "XVII. 1991.81",
+      "content": "L-Awtorità tista’ tipprojbixxi sajd li jsir bit-tkarkir bilkonz mal-qieg], sajd bil-parit, it-tfig] ta’ ankri u kull attività o]ra,\nli g]andha x’taqsam mas-sajd jew mod ie]or, f’xi \\ona partikolari\nta’ l-ib]ra territorjali.\n\nProjbizzjoni ta’\nattivitajiet f’\\oni\npartikolari ta’ lib]ra territorjali.\nMi\\jud:\nA.L. 51 tal-1986.\nEmendat:\nXVII. 1991.81.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 82
+      }
+    }
+  ],
+  "definitions": []
+}

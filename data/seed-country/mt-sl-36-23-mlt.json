@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-36-23-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Projbizzjoni ta' l-Importazzjoni ta' Ċerti Ħwejjeġ ta' l-Ikel",
+  "title_en": "Ordni dwar il-Projbizzjoni ta' l-Importazzjoni ta' Ċerti Ħwejjeġ ta' l-Ikel",
+  "short_name": "eli/sl/36.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.23/mlt, expression eli/sl/36.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u 65 ta’ l-1974, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-Projbizzjoni ta’ lImportazzjoni ta’ ~erti }wejje[ ta’ l-Ikel.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "u 65 ta’ l-1974, konsolidati",
+      "content": "L-importazzjoni f’Malta ta’ kull ]ut frisk, frott tal-ba]ar,\n]axix, frott jew ikel ie]or li jasal minn xi parti ta’ pajji\\i kif jinsabu\nfl-Iskeda ta’ dan l-Ordni, hi projbita, kemm-il-darba it-Tabib\nPrin`ipali tal-Gvern u Suprintendent tas-Sa]]a Pubblika ma jkunx\nsodisfatt li kull ]a[a tali tkun ]ielsa minn kontaminazzjoni jew\ninfezzjoni.\n\nL-Al[erija\n\n(Artikolu 2)\n\nIr-Re[joni ta’ l-Astrakhan (ex-U.S.S.R.)\nIr-Republika ~eka\nL-E[ittu\nL-Indja\nL-Iran\n\nL-Italja\n\nL-I\\rael\n\nIl-Lebanon\nIl-Libja\n\nIl-Marokk\n\nIl-Pakistan\n\nIl-Portugall\nSpanja\n\nIt-Tajlandja\nIt-Tune\\ija\n\nTitolu.\nProjbizzjoni ta’\nimportazzjoni ta’\n`erti ]wejje[ ta’ likel.\n\nPROJBIZZJONI TA’ L-IMPORTAZZJONI TA’\n~ERTI }WEJJE{ TA’ L-IKEL\n\nL.S.36.23]\nIt-Turkija",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 77
+      }
+    }
+  ],
+  "definitions": []
+}

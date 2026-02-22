@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar Servizzi ta’ Investiment (Alternative Investment Fund Manager) (Passport)",
+  "title_en": "Regolamenti dwar l-Att dwar Servizzi ta’ Investiment (Alternative Investment Fund Manager) (Passport)",
+  "short_name": "eli/sl/370.22/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-15",
+  "in_force_date": "2013-07-22",
+  "url": "https://legislation.mt/eli/sl/370.22/20250318/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.22/mlt, expression eli/sl/370.22/20250318/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR SERVIZZI INVESTMENT (ALTERNATIVE\nINVESTMENT FUND MANAGER) (PASSPORT)\n\n[ L.S.370.22\n\nLEĠISLAZZJONI SUSSIDJARJA 370.22\nREGOLAMENTI DWAR L-ATT DWAR SERVIZZI TA’\nINVESTIMENT (ALTERNATIVE INVESTMENT FUND\nMANAGER) (PASSPORT)*\n22 ta’ Lulju, 2013\nL-AVVIŻ LEGALI 114 tal-2013, u bl-Avviż Legali 404 tal-2017, 244 tal2019, 334 tal-2021, 147 tal-2023 u 60 tal-2025.\n\n*Dawn ir-regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

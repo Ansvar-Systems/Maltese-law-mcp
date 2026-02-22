@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-423-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Elezzjoni ta' Direttur ĦaddiemImħassrin bl-Att XXXIV tal-2014",
+  "title_en": "Regolamenti dwar l-Elezzjoni ta' Direttur ĦaddiemImħassrin bl-Att XXXIV tal-2014",
+  "short_name": "eli/sl/423.10/mlt",
+  "status": "repealed",
+  "issued_date": "2015-10-20",
+  "in_force_date": "2015-10-20",
+  "url": "https://legislation.mt/eli/sl/423.10/20151020/mlt",
+  "description": "Official text from legislation.mt (eli/sl/423.10/mlt, expression eli/sl/423.10/20151020/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ELEZZJONI TA’ DIRETTUR ĦADDIEM\n\n[ L.S.423.10\n\nLEĠISLAZZJONI SUSSIDJARJA 423.10\nREGOLAMENTI DWAR L-ELEZZJONI TA’\nDIRETTUR ĦADDIEM\n7 ta’ Diċembru, 1987\nL-AVVIŻ LEGALI 63 tal-1987, kif emendat bl-Avviż Legali 104 tal-1993.\n\nImħassar bl-Att XXXIV. 2014.43.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-12-11-mlt",
+  "type": "statute",
+  "title": "Regoli dwar id-Distribuzzjoni ta' Kawżi fil-Qorti ta' l-Appell",
+  "title_en": "Regoli dwar id-Distribuzzjoni ta' Kawżi fil-Qorti ta' l-Appell",
+  "short_name": "eli/sl/12.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1994-04-29",
+  "url": "https://legislation.mt/eli/sl/12.11/20230209/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.11/mlt, expression eli/sl/12.11/20230209/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "29 ta’ April, 1994",
+      "content": "It-titolu ta’ dawn ir-Regoli hu Regoli\nDistribuzzjoni ta’ Kawżi fil-Qorti ta’ l-Appell.\n\ndwar\n\nid-",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "id-",
+      "content": "Il-kawżi li għandhom jiġu trattati mill-Ewwel, mit-Tieni u\nmir-Raba’ Sezzjonijiet tal-Qorti tal-Appell għandhom jiġu distribwiti\nkemm jista’ jkun b’mod indaqs bejn dawk is-sezzjonijiet sakemm ma\njkunx hemm ordni xort’oħra mill-Prim Imħallef jew, fir-rigward ta’ xi\nkawża jew kawżi partikolari, minn waħda mis-sezzjonijiet tal-Qorti\ntal-Appell.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tal-Appell",
+      "content": "It-Tielet Sezzjoni tal-Qorti tal-Appell għandha tibqa’ tittratta\nl-kawżi kollha li jkunu pendenti quddiemha fid-data tad-dħul fis-seħħ\nta’ din ir-regola u għandha tittratta wkoll l-appelli minn sentenzi jew\ndigrieti li jkunu ngħataw mill-Prim Imħallef.\n\nTitolu.\nDistribuzzjoni bejn\nl-Ewwel, it-Tieni u\nr-Raba’\nSezzjonijiet.\n\nSostitwit:\nA.L.301 tal-2018;\nSostitwit:\nA.L. 33 tal-2023.\nIt-Tielet Sezzjoni.\n\nMiżjud:\nA.L. 33 tal-2023.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

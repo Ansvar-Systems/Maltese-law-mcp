@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-595-16-mlt",
+  "type": "statute",
+  "title": "Ordni li jwaqqaf l-Agenzija Malta MarittimaImħassar bl-Avviż Legali 344 tal-2020",
+  "title_en": "Ordni li jwaqqaf l-Agenzija Malta MarittimaImħassar bl-Avviż Legali 344 tal-2020",
+  "short_name": "eli/sl/595.16/mlt",
+  "status": "repealed",
+  "issued_date": "2016-02-08",
+  "in_force_date": "2016-02-08",
+  "url": "https://legislation.mt/eli/sl/595.16/20160208/mlt",
+  "description": "Official text from legislation.mt (eli/sl/595.16/mlt, expression eli/sl/595.16/20160208/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TWAQQIF TAL-AĠENZIJA\nMALTA MARITTIMA\n\n[ L.S.595.16\n\nLEĠISLAZZJIONI SUSSIDJARJA 595.16\nORDNI LI JWAQQAF L-AĠENZIJA\nMALTA MARITTIMA\n26 ta’ Jannar, 2016\nL-AVVIŻ LEGALI 41 tal-2016, u 90 tal-2017.\n\nImħassar bl-Avviż Legali 344 tal-2020.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

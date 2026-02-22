@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-288-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tal-Prezzijiet tal-Bini (Xogħol ta' Konkos u Ġebel)",
+  "title_en": "Regolamenti dwar il-Kontroll tal-Prezzijiet tal-Bini (Xogħol ta' Konkos u Ġebel)",
+  "short_name": "eli/sl/288.1/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/288.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/288.1/mlt, expression eli/sl/288.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 72 ta’ l-1980, kif emendat bl-Avvi\\ Legali 423 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKontroll tal-Prezzijiet tal-Bini (Xog]ol ta’ Konkos u {ebel).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-prezzijiet spe`ifikati fl-ewwel kolonna ta’ l-Iskeda huma\ndawk iffissati fit-tieni kolonna tag]ha.\n\nIffissar ta’\nprezzijiet g]al\n`ertu xog]lijiet.\n\nL.S.288.01]\n\nSostitwita:\nA.L. 423 ta’ l-2007.\n\n(XOG}OL TA’ KONKOS U {EBEL)\n\nRegolament 2\n\nL-Ewwel Kolonna\nXog]ol tal-Konkos:\nSoqfa tal-konkos ta’ ]xuna ta’ 0.15m b’ta]lita ta’\n1:2:4 (Grad 20) li jinkludu saff wie]ed ta’ xibka Nru. 106\nb]ala reinforz, u l-armar kollu me]tie[ .............................",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

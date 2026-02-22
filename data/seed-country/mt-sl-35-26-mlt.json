@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-35-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Prezzijiet għad-Demm u Prodotti tad-Demm għall-Kliniċi Privati",
+  "title_en": "Regolamenti dwar il-Prezzijiet għad-Demm u Prodotti tad-Demm għall-Kliniċi Privati",
+  "short_name": "eli/sl/35.26/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/35.26/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.26/mlt, expression eli/sl/35.26/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 360 ta’ l-2003, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilPrezzijiet g]ad-Demm u Prodotti tad-Demm g]all-Klini`i Privati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andhom jin[abru dawn il-]lasijiet li [ejjin misSuprintendent tas-Sa]]a Pubblika g]all-provvista ta’ bor\\a:\n\n}lasijiet.\nEmendat:\nA.L. 407 ta’ l2007.\n\n(a)\n(b)\n(`)\n(d)\n\nRed Blood Cell concentrate ...................\nSingle Donor Platelets ..........................\nFresh frozen plasma ..............................\nPooled Platelets ....................................\n\n€88.52\n€211.97\n€67.55\n€97.83",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Ħatra ta' Awtorità KompetentiImħassar bl-Avviż Legali 429 tal-2014",
+  "title_en": "Ordni dwar il-Ħatra ta' Awtorità KompetentiImħassar bl-Avviż Legali 429 tal-2014",
+  "short_name": "eli/sl/345.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.3/mlt, expression eli/sl/345.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "}ATRA TA’ L-AWTORITÀ KOMPETENTI\n\n[L.S.345.03\n\nLE{ISLAZZJONI SUSSIDJARJA 345.03\nORDNI DWAR IL-}ATRA TA’\nL-AWTORITÀ KOMPETENTI\n3 ta’ Jannar, 2003\nL-AVVI| LEGALI 2 tal-2003.\n\nRevokat bl-Avviż Legali 429 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-490-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ir-Rimunerazzjoni li għandha titħallas lil Assistenti",
+  "title_en": "Ordni dwar ir-Rimunerazzjoni li għandha titħallas lil Assistenti",
+  "short_name": "eli/sl/490.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/490.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/490.2/mlt, expression eli/sl/490.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ Jannar, 2009",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Rimunerazzjoni li\ng]andha tit]allas lil Assistenti.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Assistent tat-Tribunal ta’ Reviżjoni Amministrattiva\ngħandu jitħallas rimunerazzjoni ta’ sittin euro għal kull seduta.\n\nRimunerazzjoni.\nEmendat:\nA.L. 269 tal-2012;\nA.L. 86 tal-2019.\n\n(2) Assistent tat-Tribunal ta’ Revi\\joni Amministrattiva g]andu\njit]allas rimunerazzjoni ta’ mitejn euro g]al kull rapport pre\\entat litTribunal.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

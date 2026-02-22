@@ -1,0 +1,265 @@
+{
+  "id": "mt-sl-546-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Istrutturi ta’ Organizzazzjoni għat-Tqassim u l-Użu mill-Ġdid ta’ Data",
+  "title_en": "Regolamenti dwar l-Istrutturi ta’ Organizzazzjoni għat-Tqassim u l-Użu mill-Ġdid ta’ Data",
+  "short_name": "eli/sl/546.1/mlt",
+  "status": "in_force",
+  "issued_date": "2020-11-25",
+  "in_force_date": "2021-01-08",
+  "url": "https://legislation.mt/eli/sl/546.1/20250124/mlt",
+  "description": "Official text from legislation.mt (eli/sl/546.1/mlt, expression eli/sl/546.1/20250124/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Taqsima I - Preliminari",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti huwa rRegolamenti dwar l-Istrutturi ta’ Organizzazzjoni għat-Tqassim u lUżu mill-Ġdid ta’ Data.\n(2)\n\nTitolu u għan.\nEmendat:\nA.L. 20 tal-2025.\n\nDawn ir-regolamenti jipprovdu għal:\n\n(a)\nit-twaqqif ta’ awtorità regolatorja għall-finijiet\ntal-Att dwar l-Użu mill-Ġdid tal-Informazzjoni tas-Settur\nPubbliku;\n\nKap. 546.\n\n(b)\nit-twaqqif ta’ awtorità ta’ implimentazzjoni\ngħall-finijiet tal-Att dwar l-Użu mill-Ġdid tal-Informazzjoni\ntas-Settur Pubbliku;\n\nKap. 546.\n\n(ċ)\nit-twaqqif, manutenzjoni u pubblikazzjoni ta’\nReġistru tar-Reġistri li jiġi ppubblikat fuq il-portal tad-data\nnazzjonali;\n(d)\nil-pubblikazzjoni\nta’\nSkema\nta’\nKlassifikazzjoni ta’ Data li għandha tiġi applikata minn sidien\ntad-data għar-reġistri uffiċjali u ppubblikata bħala parti mirReġistru tar-Reġistri;\n(e)\nil-bażi legali għal format u struttura standard\ngħal Identifikatur Uniformi ta’ Riżorsi li għandu jintuża għallidentifikazzjoni ta’ records uffiċjali u għal record standard ta’\nmetadata;\n(f)\nil-bażi legali għal sett ta’ Reġistri ta’\nGovernanza Amministrattiva u dwar Data;\n(g)\n\nit-twaqqif ta’ Kunsill ta’ Governanza uq Data;\n\nu\n(h)\nL-implimentazzjoni ta’ miżuri regolatorji li\njoħorġu mid-Direttiva (UE) 2019/1024 tal-Parlament\nEwropew u tal-Kunsill tal-20 ta’ Ġunju 2019 dwar id-data\nmiftuħa u l-użu mill-ġdid tal-informazzjoni tas-settur pubbliku\n(riformulazzjoni) u kwalunkwe Direttivi u Regolamenti\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\nrelatati.\n\nTifsir.\nEmendat:\nA.L. 20 tal-2025.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 88
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "A.L. 20 tal-2025",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nKap. 546.\n\n\"Att\" tfisser l-Att dwar l-Użu mill-Ġdid tal-Informazzjoni tasSettur Pubbliku;\n\"data miftuħa\" tfisser u tirreferi għal kunċett li hu ġeneralment\nmifhum bħala data f’format miftuħ li tista’ tintuża, terġa’ tintuża u\ntiġi kondiviża b’mod liberu minn kulħadd għal kwalunkwe għan;\n\"data personali\" għandha l-istess tifsira bħal ma hemm flartikolu 4 tar-Regolament Ġenerali dwar il-Protezzjoni tad-Data;\n\"data ta’ referenza\" tfisser il-listi ta’ vokabolarji u\ndeskrizzjonijiet kontrollati, li huma amministrati mis-sid tad-data, tarreġistru uffiċjali speċifiku sabiex jipprovdi tifsir addizzjonali u\ninformazzjoni klassifikata għar-records miżmuma f’tali reġistri;\n\"dataset\" tfisser aggregazzjoni jew iffiltrar ta’ elementi ta’ data\nmagħżula minn reġistru uffiċjali wieħed jew aktar f’lista identifikata u\nrilevanti ta’ records li jistgħu jintużaw minn servizzi ta’ informazzjoni\nawtomatizzata oħra;\n\"identifikatur uniformi ta’ riżorsi\" jew \"URI\" hu format li hu\nkonformi mal-web għall-allokazzjoni ta’ identifikatur rilevanti li jista’\njinqara minn fuq il-makkinarju għal kull notament imniżżel f’reġistru\nuffiċjali, inklużi d-diversi identifikaturi assenjati għall-verżjonijiet\ndifferenti ta’ kull record;\n\nKap. 595.\n\n\"impjegat pubbliku\" għandu jkollha l-istess tifsira bħal dik\nmogħtija fl-artikolu 2(1) tal-Att dwar l-Amministrazzjoni Pubblika;\n\"interface tal-programm ta’ applikazzjoni\" jew \"API\" huwa sett\nta’ funzjonijiet u protokolli awtomatizzati li jippermettu\nkomunikazzjonijiet minn makkinarju għal makkinarju ieħor għalliskambju u konsum ta’ data f’ambjent dinamiku. Tali API għandhom\nisegwu proċess ta’ reġistrazzjoni qabel ma jkunu awtorizzati u inklużi\nfil-portal tad-data nazzjonali;\n\"kontrollur\" għandha l-istess tifsira bħal ma hemm fl-Artikolu\n4 tar-Regolament Ġenerali dwar il-Protezzjoni tad-Data;\n\"korp tas-settur pubbliku\" għandu jkollha l-istess tifsira bħal\ndik mogħtija fl-artikolu 2 tal-Att;\n\"Kunsill\" jew \"il-Kunsill\" jew \"Kunsill ta’ Governanza fuq\nData\" ifissru l-Kunsill ta’ Governanza fuq Data kif imwaqqaf fitTaqsima XI;\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\n\"politiki tad-data miftuħa\" tfisser politiki li jinkoraġġixxu ddisponibbiltà wiesgħa u l-użu mill-ġdid mifrux tal-informazzjoni tassettur pubbliku għal finijiet privati jew kummerċjali, bl-ebda\nrestrizzjoni legali, teknika jew finanzjarja.\n\"portal tad-data nazzjonali\" jew \"Portal tad-Data ta’ Malta\"\njew \"portal ta’ data miftuħa nazzjonali\" tfisser sistema bbażata fuq ilweb u repożitorju tad-data li jippermetti l-immaniġġar u lpubblikazzjoni direttament mis-sidien tad-data tal-permessi għattqassim ta’ data u l-listi kontrollati u vokabolarji bħal ma huma data\nta’ referenza, inkluża wkoll il-funzjonalità għas-sejbien tar-reġistri\nuffiċjali kollha u l-konsum ta’ data miftuħa;\n\"record uffiċjali\" tfisser notament identifikabbli u distint\nmnizzel f’reġistru uffiċjali li għandu l-kwalitajiet neċessarji biex ikun\nammissibbli bħala xhieda f’qorti tal-ġustizzja;\n\"Regolament Ġenerali dwar il-Protezzjoni tad-Data\" tfisser irRegolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward talipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data,\nu li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar ilProtezzjoni tad-Data);\n\"Reġistru Amministrattiv\" tfisser reġistru uffiċjali li hu\nintenzjonat li jżomm fih records ta’ natura amministrattiva li jittratta\nprinċipalment l-istrutturi organizzattivi tas-settur pubbliku;\n\"Reġistru ta’ Governanza fuq Data\" tfisser reġistru uffiċjali li\njiġi ppubblikat fuq il-portal tad-data nazzjonali hu maħsub biex\niżomm records li jkun fihom informazzjoni li tirrigwarda dettaliji\ntekniċi u dettalji oħra li jiddeskrivu l-assi ta’ informazzjoni u sistemi\nawtomatizzati wżati mill-amministrazzjoni pubblika;\n\"Reġistru tar-Reġistri\" għandha tfisser ir-Reġistru tar-Reġistri\nstabbilit bit-Taqsima V;\n\"reġistru uffiċjali\" tfisser ġabra ta’ records uffiċjali prekritta\nskont il-leġislazzjoni Maltija, li hi inkluża fir-Reġistru tar-Reġistri;\n\"servizz dwar sejbien ta’ data\" tfisser l-aggregazzjoni ta’\nmetadata minn sorsi diversi fi ħdan l-amministrazzjoni pubblika\nf’repożitorju ċentralizzat singolu biex jippermetti tfittxija\nkomprensiva abbażi tal-web għal reġistri u datasets uffiċjali inkluża\nl-bażi legali rilevanti u s-sid tad-data ta’ kull reġistru uffiċjali;\ntinkludi wkoll il-viżwalizzazzjoni tal-informazzjoni provduta minn\ntali tfittix;\n\"sid tad-data\" tfisser il-persuna jew l-entità responsabbli għallipproċessar, sigurtà, kwalità ta’ u permessi għal aċċess għal reġistru\nuffiċjali; meta tiġi proċessata informazzjoni identifikabbli li\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\ntirrigwarda persuna, għandhom japplikaw l-obbligi ta’ kontrollur taddata skont id-dispożizzjonijiet tar-Regolament Ġenerali dwar ilProtezzjoni tad-Data;\n\"sistema ta’ informazzjoni\" tfisser sett definit ta’ proċessi\nawtomatizzati u interfaces għal utenti maħsuba biex tiġbor, taħżen u\nxxerred data bil-għan li tipprovdi informazzjoni utli; u\n\"Skema ta’ Klassifikazzjoni ta’ Data\" tfisser Skema ta’\nKlassifikazzjoni ta’ Data kif imwaqqfa fit-Taqsima VI;\n\"utent\" tfisser impjegati pubbliċi u, jew soggetti tad-data li\njkollhom aċċess għal reġistru uffiċjali.\nTaqsima II - Tqassim ta’ Data bejn Korpi tas-Settur Pubbliku\nTqassim ta’ data\nbejn korpi tassettur pubbliku.",
+      "metadata": {
+        "source_line_start": 89,
+        "source_line_end": 191
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "bejn korpi tassettur pubbliku",
+      "content": "It-tqassim ta’ data bejn korpi tas-settur pubbliku għandu\njkun permess mir-Regolatur għar-raġunijiet li ġejjin:\n(a)\nbiex jiffaċilita l-użu u mill-ġdid u l-iskambju ta’\ninformazzjoni bejn entitajiet pubbliċi sabiex tiġi eliminata, kull\nfejn ikun possibbli, il-ħtieġa li intrapriża tipprovdi\ninformazzjoni lil aktar minn korp wieħed tas-settur pubbliku;\n(b)\nbiex jassisti fit-twettiq ta’ funzjoni ta’ korpi tassettur pubbliku, wieħed jew aktar, li jwassal għal (i)\ntnaqqis fid-duplikazzjoni ta’ kompiti\nmwettqa minn korpi tas-settur pubbliku, wieħed jew\naktar;\n(ii) żieda fl-effiċjenza tal-korp tas-settur\npubbliku fit-twettiq ta’ dik il-funzjoni;\n(iii) twassil għal titjib fil-kwalità ta’ servizzi\nli qed jingħataw; u, jew\n(iv)\nlil klijenti;\n\ntnaqqis fil-ħinijiet għall-għoti ta’ servizz\n\n(ċ)\nbiex jassisti korp tas-settur pubbliku fil-verifika\ntal-identità ta’ intrapriża li tkun qed tiġi regolata jew li tkun qed\ntirċievi servizz mogħti mill-entità pubblika;\n(d)\nbiex jassisti fl-identifikazzjoni jew ilkorrezzjoni ta’ xi informazzjoni żbaljata miżuma mill-entitajiet\npubbliċi, waħda jew aktar, ikkonċernati;\n(e)\nbiex jiffaċilita analiżi tal-istruttura, funzjonijiet,\nriżorsi, u metodi ta’ għoti ta’ servizz ta’ entità pubblika; u\n(f)\n\nbiex jassisti fit-tfassil ta’ strateġiji u proposti ta’\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\npolitika lill-Gvern jew sabiex jimplimenta l-politika u listrateġiji tal-Gvern.\nTaqsima III - Twaqqif, Funzjonijiet u Tmexxija tal-Affarijiet\ntal-Awtorità",
+      "metadata": {
+        "source_line_start": 192,
+        "source_line_end": 236
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "tal-Awtorità",
+      "content": "Fl-eżerċizzju tal-funzjonijiet tiegħu taħt l-artikolu 25(b)\ntal-Att, il-Ministru qiegħed b’dan jaħtar lill-Kummissarju għallInformazzjoni u l-Protezzjoni tad-Data bħala l-awtorità regolatorja li\ngħandha tkun responsabbli għall-monitoraġġ fuq u limplimentazzjoni tad-dispożizzjonijiet tal-Att.\n\nAwtorità\nregolatorja.",
+      "metadata": {
+        "source_line_start": 237,
+        "source_line_end": 244
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "regolatorja",
+      "content": "Fl-eżerċizzju tal-funzjonijiet tagħha taħt dawn irregolamenti, l-awtorità regolatorja għandha taġixxi b’mod\nindipendenti u ma tkunx soġġetta għal ebda direzzjoni jew kontroll\nminn xi persuna jew awtorità oħra.\n\nIndipendenza ta’\nfunzjonijiet.",
+      "metadata": {
+        "source_line_start": 245,
+        "source_line_end": 252
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "funzjonijiet",
+      "content": "L-awtorità regolatorja għandha d-dmir li tippromwovi losservanza tal-ħtiġiet ta’ dawn ir-regolamenti.\n\nFunzjonijiet\nġenerali talawtorità\nregolatorja.",
+      "metadata": {
+        "source_line_start": 253,
+        "source_line_end": 259
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "regolatorja",
+      "content": "L-awtorità regolatorja għandha tirċievi rapporti u talbiet\nminn xi persuna jew assoċjazzjonijiet li jirrappreżentaw persuni dwar\nksur ta’ dawn ir-regolamenti, biex tieħu dawk l-azzjonijiet ta’\nrimedju kif jidhrilha neċessarji jew kif jista’ jiġi preskritt taħt l-Att, u\nsabiex tinforma lil tali persuna jew assoċjazzjonijiet dwar l-eżitu taddeċiżjonijiet tagħha.\n\nFunzjonijiet talawtorità\nregolatorja.",
+      "metadata": {
+        "source_line_start": 260,
+        "source_line_end": 269
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "regolatorja",
+      "content": "(1)\nFl-eżerċizzju tas-setgħat ta’ investigazzjoni lawtorità regolatorja tista’ titlob għall-assistenza tal-Pulizija\nEżekuttiva sabiex tidħol u tfittex fi kwalunkwe post.\n\nDritt tal-awtorità\nregolatorja ta’\naċċess għal\ninformazzjoni.\n\n(2) L-awtorità regolatorja jkollha d-dritt li tikseb aċċess\ngħal kull sistema, metadata u kull dokumentazzjoni jew kopja tagħha\nmeħtieġa fit-twettiq tad-dmirijiet tagħha.\n(3) Mingħajr preġudizzju għal kull dispożizzjoni oħra f’xi\nliġi oħra, kull persuna li ma tosservax xi talba legali li tirrigwarda\ninvestigazzjoni mill-awtorità regolatorja tkun ħatja ta’ reat kontra dan\nir-regolament.",
+      "metadata": {
+        "source_line_start": 270,
+        "source_line_end": 286
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "ir-regolament",
+      "content": "(1)\nKull rikorrent jista’ jirrikorri għand l-awtorità\nregolatorja għal deċiżjoni fir-rigward ta’ xi talba kif imsemmi hawn\naktar ’l isfel meta:\n(a)\ntalba għal informazzjoni magħmula mirrikorrent lil korp tas-settur pubbliku ġiet miċħuda jew ma ġietx\nittrattata skont il-ħtiġiet ta’ dan l-Att; jew\n(b)\nkorp tas-settur pubbliku mhuwiex konformi\nmal-ħtiġiet stabbiliti f’dawn ir-regolamenti.\n\nRikors għal\ndeċiżjoni millawtorità\nregolatorja.\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n(2) Meta tirċievi rikors għal deċiżjoni taħt dan ir-regolament,\nl-awtorità regolatorja għandha tieħu deċiżjoni sakemm ma jkunx\njidhrilha (a)\nli r-rikorrent ma jkunx eżawrixxa kull proċedura\ndwar ilmenti li tista’ tkun provduta mill-korp tas-settur\npubbliku;\n(b)\nrikors;\n\nli kien hemm dewmien bla bżonn fl-għemil tar-\n\n(ċ)\n\nli r-rikors hu frivolu u vessatorju; jew\n\n(d)\n\nli r-rikors ġie rtirat jew abbandunat.\n\n(3) Meta l-awtorità regolatorja tkun irċeviet rikors taħt dan\nir-regolament, hi għandha jew (a)\ntinnotifika lir-rikorrent li ma tkunx ħadet ebda\ndeċiżjoni taħt dan ir-regolament u bir-raġunijiet li għalihom ma\nħaditx tali deċiżjoni; jew\n(b)\ntibgħat avviż dwar id-deċiżjoni tagħha lirrikorrent u lill-korp tas-settur pubbliku.\n(4) Avviż dwar deċiżjoni għandu jkun fih dettalji dwar iddritt ta’ appell.\n(5) Meta avviż ta’ deċiżjoni jeħtieġ li jittieħdu passi millkorp tas-settur pubbliku fi żmien speċifikat, iż-żmien speċifikat flavviż m’għandux jintemm qabel it-tmiem tal-perjodu li fih jista’ jsir\nappell kontra l-avviż u, jekk isir tali appell, ma jkunx hemm bżonn li\njittieħed ebda pass li hu affettwat mill-appell sakemm l-appell jiġi\ndeċiż jew rtirat.\nAvviżi ta’\ninformazzjoni.",
+      "metadata": {
+        "source_line_start": 287,
+        "source_line_end": 346
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "informazzjoni",
+      "content": "(1)\nJekk l-awtorità regolatorja tkun rċeviet rikors\ngħal deċiżjoni jew raġjonevolment teħtieġ xi informazzjoni sabiex\ntiddetermina jekk korp tas-settur pubbliku kkonformax jew qiegħedx\njikkonforma ma’ kull waħda mill-ħtiġiet ta’ dawn ir-regolamenti, hi\ngħandha tibgħat lill-korp tas-settur pubbliku avviż ta’ informazzjoni li\nbih titolbu, fi żmien tali perjodu li jkun speċifikat fl-avviż, li jagħti\nlill-awtorità regolatorja, b’dak il-mod kif jista’ jiġi speċifikat, dik linformazzjoni kif tkun speċifikata li għandha x’taqsam mar-rikors.\n(2) Avviż ta’ informazzjoni għandu jispeċifika l-għan li\ngħalih l-awtorità regolatorja teħtieġ l-informazzjoni u, meta jirreferi\ngħal informazzjoni reġistrata f’dokument, għandu jkun fih tali dettalji\nli huma raġjonevolment neċessarji sabiex uffiċjal responsabbli talkorp tas-settur pubbliku jkun jista’ jidentifika dak id-dokument.\n(3)\n\nKorp tas-settur pubbliku ma jkunx meħtieġ, bis-saħħa ta’\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\ndan ir-regolament, li jagħmel disponibbli għall-awtorità regolatorja xi\ninformazzjoni fir-rigward ta’:\n(a)\nxi komunikazzjoni bejn konsulent legali\nprofessjonist u l-klijent tiegħu f’konnessjoni mal-għoti ta’\nparir\nlegali\nlill-klijent\nfir-rigward\ntal-obbligi,\nresponsabbiltajiet u drittijiet tiegħu taħt dan ir-regolament; jew\n(b)\nxi komunikazzjoni bejn konsulent legali\nprofessjonist u l-klijent tiegħu, jew bejn tali konsulent jew ilklijent tiegħu u xi persuna oħra, magħmula f’konnessjoni ma’\njew bil-ħsieb li jinbdew proċeduri taħt jew li joriġinaw minn\ndan ir-regolament (inklużi proċeduri quddiem it-Tribunal) u\ngħall-finijiet ta’ tali proċeduri.\n(4) Fis-subregolament (3) referenzi għall-klijent ta’\nkonsulent legali professjonist jinkludu referenzi għal xi persuna li\ntirrappreżenta dak il-klijent.\n(5) L-awtorità regolatorja tista’ tħassar avviż ta’\ninformazzjoni permezz ta’ avviż bil-miktub lill-korp tas-settur\npubbliku li jkun ġie notifikat bl-avviż ta’ informazzjoni.",
+      "metadata": {
+        "source_line_start": 347,
+        "source_line_end": 393
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "pubbliku li jkun ġie notifikat bl-avviż ta’ informazzjoni",
+      "content": "(1)\nJekk l-awtorità regolatorja tkun sodisfatta li\nkorp tas-settur pubbliku jkun naqas milli josserva xi wieħed millobbligi tiegħu taħt dawn ir-regolamenti, il-Kummissarju jista’ jibgħat\nlill-awtorità avviż ta’ infurzar li bih jeħtieġ lill-awtorità biex tieħu, fi\nżmien tali perjodu li jkun speċifikat fl-avviż, dawk il-passi li jistgħu\njkunu hekk speċifikati biex tkun konformi ma’ tali obbligi.\n\nAvviżi ta’ infurzar.\n\n(2) Avviż ta’ infurzar għandu jkun fih dikjarazzjoni dwar ilħtieġa jew il-ħtiġiet ta’ dawn ir-regolamenti li l-korp tas-settur\npubbliku, fl-opinjoni tal-awtorità regolatorja, naqas milli josserva, u\nr-raġunijiet li għalihom il-Kummissarju wasal għal dik ilkonklużjoni.\n(3) L-awtorità regolatorja tista’ tħassar avviż ta’ infurzar\npermezz ta’ avviż bil-miktub lill-korp tas-settur pubbliku li jkun ġie\nnotifikat bl-avviż ta’ infurzar.",
+      "metadata": {
+        "source_line_start": 394,
+        "source_line_end": 408
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "notifikat bl-avviż ta’ infurzar",
+      "content": "Meta korp tas-settur pubbliku jew uffiċjal ta’ tali settur\npubbliku jirrifjuta jew, mingħajr raġuni valida, jonqos milli\njikkonforma ruħu ma’ (a)\n\nxi parti minn deċiżjoni li teħtieġ li jittieħdu\n\n(b)\n\navviż ta’ informazzjoni; jew\n\n(ċ)\n\navviż ta’ infurzar,\n\npassi;\n\nNuqqas ta’\nosservanza talavviż.\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\nl-awtorità regolatorja tista’ timponi penali amministrattiva fuq il-korp\ntas-settur pubbliku jew l-uffiċjal tiegħu li jkun hekk naqas.\nPieni\namministrattivi.\nEmendat:\nA.L. 20 tal-2025.",
+      "metadata": {
+        "source_line_start": 409,
+        "source_line_end": 442
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "A.L. 20 tal-2025",
+      "content": "(1)\nMeta l-awtorità regolatorja timponi penali\namministrattiva, hi għandha permezz ta’ ordni bil-miktub teħtieġ li lkorp tas-settur pubbliku jħallas tali penali amministrattiva, li tkun\ndovuta lill-awtorità regolatorja bħala dejn ċivili:\nIżda tali ordni hu soġġett għall-proċedura ta’ appell.\n\nKap. 12.\n\n(2) Fl-assenza ta’ appell, id-deċiżjoni tal-awtorità regolatorja\nssir finali u tikkostitwixxi titolu eżekuttiv għall-finijiet tat-Titolu VII\ntal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili bħallikieku ddeċiżjoni kienet ġiet ordnata permezz ta’ sentenza ta’ qorti ta’\nkompetenza ċivili.\n(3) Meta avviż li jimponi penali amministrattiva jiġi\nnotifikat lil korp tas-settur pubbliku u (a)\ntali korp tas-settur pubbliku jonqos milli\njappella fi żmien dak il-perjodu li fih jista’ jsir appell u jonqos\nmilli jħallas il-penali hekk imposta; jew\n(b)\ntali korp tas-settur pubbliku jappella fi żmien\ndak il-perjodu quddiem it-Tribunal u l-appell jiġi rtirat jew itTribunal ta’ Reviżjoni Amministrattiva jikkonferma l-penali flammont stabbilit mill-Kummissarju jew f’ammont imnaqqas\nminnu u ma jiġi ppreżentat l-ebda appell ieħor quddiem il-Qorti\ntal-Appell, jew jekk jiġi ppreżentat appell quddiem il-Qorti talAppell u tali Qorti jew tikkonferma d-deċiżjoni meħuda jew\ntiddeċiedi li tkun dovuta penali f’ammont ieħor, jew jekk ilpenali imposta ma titħallasx fi żmien ħmistax-il ġurnata middata tad-deċiżjoni jew mill-irtirar tal-appell, jew mid-data li\nfiha t-Tribunal jew il-Qorti tal-Appell jikkonfermaw jew\nivarjaw il-penali kif intqal qabel,\nl-awtorità regolatorja jkollha d-dritt li tieħu azzjoni ċivili biex tiġbor lammont dovut.\n(4) Tali penali għandha tkun ta’ mhux inqas minn elfejn u\nħames mitt euro (€2,500) u m’għandhiex tkun iżjed minn għaxart elef\neuro (€10,000) għal kull ksur, jew penali ta’ kull jum ta’ mhux inqas\nminn ħamsa u għoxrin euro (€25) u mhux iżjed minn ħamsin euro\n(€50).\n(5) Mingħajr preġudizzju għad-dispożizzjonijiet preċedenti\nta’ dan ir-regolament, l-awtorità regolatorja tista’, wara li tqis sewwa\nċ-ċirkostanzi tal-każ, timponi penali amministrattiva fuq xi korp tassettur pubbliku li (a)\n\nxjentement jipprovdi informazzjoni falza lill-\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\nawtorità regolatorja meta hekk mitlub mill-awtorità regolatorja\nkonformement mas-setgħat tagħha ta’ investigazzjoni; jew\n(b)\nma josservax talba legali magħmula\nkonformement ma’ investigazzjoni mill-awtorità regolatorja:\nIżda tali penali m’għandhiex tkun ta’ inqas minn elfejn u\nħames mitt euro (€2,500) u m’għandhiex tkun iżjed minn għaxart elef\neuro (€10,000) għal kull ksur.",
+      "metadata": {
+        "source_line_start": 443,
+        "source_line_end": 499
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "euro (€10,000) għal kull ksur",
+      "content": "(1)\nMeta l-awtorità regolatorja teżerċita s-setgħat\ntagħha konformement ma’ dawn ir-regolamenti, id-deċiżjonijiet\ntagħha għandhom minnufih jiġu notifikati lill-korp tas-settur\npubbliku u lill-persuna li lilha d-deċiżjoni hi indirizzata, liema\ndeċiżjoni għandha tiġi notifikata jew personalment, jew permezz ta’\nposta reġistrata indirizzata fl-aħħar indirizz magħruf tan-negozju jew\nprivat ta’ dik il-persuna, jew permezz ta’ mezzi elettroniċi li\njipprovdu record ta’ min jorbot fuqu dwar meta tkun saret in-notifika.\n\nMetodi ta’ notifika.\n\n(2) Fil-każ ta’ notifika permezz ta’ mezzi elettroniċi, iddeċiżjoni titqies li tkun ġiet notifikata lil kull persuna li għaliha hi\nindirizzata d-deċiżjoini meta l-awtorità regolatorja tkun rċeviet:\n(a)\nriċevuta elettronika ġġenerata awtomatikament\nmis-server\ntal-posta\nelettronika\nmeta\ntinqara\nlkomunikazzjoni;\n(b)\nkonferma bil-miktub permezz ta’ risposta bilposta elettronika mingħand il-persuna li lilha d-deċiżjoni hi\nindirizzata; jew\n(ċ) konferma verbali mingħand il-persuna li lilha ddeċiżjoni hi indirizzata li l-posta elettronika ġiet riċevuta.\n(3) Jekk in-notifika ma tiġix effettwata fi żmien ġimgħa\nmill-ħruġ tad-deċiżjoni, għax ma setgħetx tinsab il-persuna li lilha ddeċiżjoni hi indirizzata, jew għal xi raġuni oħra attribwibbli għallpersuna li lilha d-deċiżjoni hi indirizzata, l-awtorità regolatorja\ngħandha tippubblika avviż fil-Gazzetta u f’ġurnal ta’ kuljum wieħed\njew aktar, li fih jiġi dikjarat li ttieħdet deċiżjoni fir-rigward talpersuna li lilha d-deċiżjoni hi indirizzata u li jistieden lil dik ilpersuna tiġbor id-deċiżjoni mill-uffiċċju tal-awtorità regolatorja.\nF’kull każ bħal dan, in-notifika titqies li tkun ġiet effettwata fit-tielet\nġurnata wara d-data tal-pubblikazzjoni tal-aħħar avviż.",
+      "metadata": {
+        "source_line_start": 500,
+        "source_line_end": 531
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "ġurnata wara d-data tal-pubblikazzjoni tal-aħħar avviż",
+      "content": "(1)\nMeta jiġi notifikat b’avviż ta’ deċiżjoni, irrikorrent jew il-korp tas-settur pubbliku jista’ jappella quddiem itTribunal kontra l-avviż fi żmien għoxrin ġurnata utli.\n(2) Jekk, f’appell taħt dan ir-regolament, it-Tribunal\njikkonsidra li -\n\nAppelli kontra\navviżi notifikati\nmill-awtorità\nregolatorja.\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n(a)\nl-avviż, li kontra tiegħu jkun sar l-appell,\nmhuwiex skont il-liġi; jew\n(b)\nsal-limitu li l-avviż kien jinvolvi l-eżerċizzju ta’\ndiskrezzjoni min-naħa tal-awtorità regolatorja, din kellha\nteżerċita d-diskrezzjoni tagħha b’mod differenti,\n\nit-Tribunal għandu jilqa’ l-appell jew jissostitwixxi l-avviż b’tali\navviż ieħor li seta’ ġie notifikat mill-awtorità regolatorja; u f’kull każ\nieħor it-Tribunal għandu jiċħad l-appell.\n(3) Meta t-Tribunal jissostitwixxi appell kif intqal qabel, lawtorità regolatorja għandha tieħu azzjoni sabiex tiżgura l-osservanza\nbħallikieku dak l-avviż kien ġie maħruġ mill-awtorità regolatorja.\nTaqsima IV - Implimentazzjoni tal-Att\nĦatra u funzjonijiet\ntal-entità li\ntimplimenta.\nEmendat:\nA.L. 20 tal-2025.",
+      "metadata": {
+        "source_line_start": 532,
+        "source_line_end": 568
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "A.L. 20 tal-2025",
+      "content": "(1)\nFl-eżerċizzju tal-funzjonijiet tiegħu taħt lartikolu 25(ċ) tal-Att, il-Ministru qiegħed b’dan jaħtar il-Kunsill ta’\nGovernanza fuq Data bħala l-awtorità li timplimenta li għandha tkun\nresponsabbli għall-implimentazzjoni tad-dispożizzjonijiet tal-Att.\n(2) Fl-eżerċizzju tal-funzjonijiet tagħha, l-awtorità li\ntimplimenta tkun responsabbli għall-implimentazzjoni tal-objettivi\ntal-Att u, mingħajr preġudizzju għall-ġeneralità ta’ dak li ntqal qabel,\nl-awtorità li timplimenta għandha (a)\ntagħmilha ta’ koordinatur prinċipali u l-ewwel\npunt ta’ riferiment għal kwalunkwe obbligu li joħroġ mill-Att:\nIżda l-awtorità li timplimenta għandha dejjem\ntfittex l-istruzzjonijiet ta’, u twettaq l-ordnijiet li tirċievi\nmingħand, is-sidien tad-data meta tosserva r-responsabbiltajiet\ntagħha elenkati f’dan is-subregolament;\n(b)\ntippubblika standard u format għat-tmexxija ta’\nkomunikazzjonijiet bejn l-amministrazzjoni pubblika u persuni\nfiżiċi u, jew organizzazzjonijiet; u\n(ċ)\ntistabbilixxi portal tad-data nazzjonali li\npermezz tiegħu jiġu provduti s-sejbien ta’ data u servizzi ta’\nkonsum ta’ data, kif jista’ jkun applikabbli u awtorizzat missidien tad-data.\n(3) L-entità li timplimenta għandha tipprovdi l-pjattaforma\ngħas-sistema ta’ informazzjoni għar-Reġistru tar-Reġistri kif ukoll\ngħar-Reġistri Amministrattivi u għandha tissorvelja fuq, u tikkoordina\nma’, is-sidien tad-data biex tiżgura li l-klassifikazzjoni u metadata\noħra kif prevista f’dawn ir-regolamenti qed jinżammu mis-sid taddata rilevanti.\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\n(4) Kull talba għal data miċħuda jew nuqqas ta’ qbil firrigward tal-klassifikazzjonijiet jew deċiżjonijiet oħra meħuda mis-sid\ntad-data, u li tinħoloq fi ħdan l-amministrazzjoni pubblika, għandha\nfl-ewwel istanza tiġi ttrattata permezz ta’ proċedura ta’ eskalazzjoni\nli tirreferi l-fatti rilevanti għall-konsiderazzjoni tal-Kunsill ta’\nGovernanza fuq Data kif stabbilit u regolat bit-Taqsima XI.\n(5) Kull tilwima oħra li għandha x’taqsam ma’ talba għal\ndata miċħuda jew ma’ xi disputa fir-rigward tad-dettalji kif\nippubblikati fuq il-portal tad-data nazzjonali għandhom isegwu lproċess kif stabbilit fir-regolament 7.",
+      "metadata": {
+        "source_line_start": 569,
+        "source_line_end": 612
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Governanza fuq Data kif stabbilit u regolat bit-Taqsima XI",
+      "content": "Sabiex tiġi żgurata l-osservanza, min-naħa tal-awtorità li\ntimplimenta, tar-responsabbiltajiet tagħha stabbiliti fir-regolament\n16(2), is-sidien tad-data jkunu responsabbli li:\n\nResponsibbilta-jiet\ntas-sid tad-data.\n\n(a)\ndirettament iżommu u jiżguraw li lklassifikazzjoni u metadata oħra kif ippubblikata fuq il-portal\nta’ data nazzjonali tirrifletti l-informazzjoni vera fir-rigward\ntar-reġistru speċifiku jew reġistri speċifiċi li jaqgħu taħt irresponsabbiltajiet legali tagħhom; u\n(b)\njipprovdu lill-entità li timplimenta l-prodotti\ntas-software u l-għodod meħtieġa li jkunu ser jintużaw biex\ntkun tista’ ssir il-komunikazzjoni ‘minn makkinarju għal\nmakkinarju’ tal-kontenut li jista’ jiġi permess li jitqassam jew\njiġi użat mill-ġdid abbażi tal-klassifikazzjonijiet assenjati u\nppubblikati mis-sid tad-data fuq il-portal tad-data nazzjonali;\n(ċ)\nsidien tad-data jkunu obbligati li jżommu u\njippubblikaw fuq il-portal ta’ data nazzjonali lista ta’ datasets\nu l-API rispettivi tagħhom. Kull dataset hekk ippubblikat\ngħandu wkoll ikun konness ma’ reġistru uffiċjali kif\npreċedentement inkluż fir-Reġistru tar-Reġistri; u\n(d)\nsidien tad-data jkunu obbligati li jżommu fuq\nil-portal ta’ data nazzjonali d-dettalji dwar il-governanza fuq\nid-data rilevanti li tista’ tiġi awtorizzata mill-Kunsill ta’\nGovernanza fuq Data sabiex il-fluss tad-data rilevanti u ddipendenzi tad-data jistgħu jiġu amministrati b’mod effettiv\nfuq livell nazzjonali.\nTaqsima V - Reġistru tar-Reġistri",
+      "metadata": {
+        "source_line_start": 613,
+        "source_line_end": 643
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Taqsima V - Reġistru tar-Reġistri",
+      "content": "(1)\nL-awtorità li timplimenta għandha tippubblika\nlista tar-reġistri uffiċjali għall-katalogu tad-data tal-portal tad-data\nmiftuħa nazzjonali magħruf bħala r-Reġistru tar-Reġistri, li għandu\njkun fih:\n(a)\n\nl-isem tar-reġistru uffiċjali;\n\nReġistru tarReġistri.\nEmendat:\nA.L. 20 tal-2025.\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n(b)\n\nil-liġi li tapplika għar-reġistru uffiċjali;\n\n(ċ)\nil-korp jew funzjoni\nresponsabbli għar-reġistru uffiċjali;\n\ntas-settur\n\npubbliku\n\n(d)\nl-indikaturi tal-klassifikazzjoni rilevanti kif\napplikabbli u skont L-Iskema ta’ Klassifikazzjoni tad-Data kif\nippubblikata fuq il-portal tad-data nazzjonali; u\n(e)\nl-identifikatur uniformi ta’ riżorsi (‘URI’) biex\niservi bħala l-identifikatur intern rilevanti ta’ reġistru uffiċjali.\n(2) L-entità li timplimenta għandha tiżgura li jkun hemm\ntrasparenza fil-proċessi tagħha li jirrigwardaw ir-Reġistru tar-Reġistri\nbilli tosserva r-regoli tiegħu kif applikabbli għal xi reġistru uffiċjali u\nkif indikat f’dawn ir-regolamenti.\nTaqsima VI - Skema ta’ Klassifikazzjoni ta’ Data\nSkema ta’\nKlassifikazzjoni\nta’ Data.\nEmendat:\nA.L. 20 tal-2025.",
+      "metadata": {
+        "source_line_start": 644,
+        "source_line_end": 693
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "A.L. 20 tal-2025",
+      "content": "(1)\nL-entità\nta’\nimplimentazzjoni\ngħandha\ntikkoordina mas-sid tad-data identifikat ta’ kull reġistru biex tali sid\ntad-data juża l-valuri u l-kriterji kif ippubblikati fuq il-portal tad-data\nnazzjonali sabiex iżżid l-indikaturi ta’ klassifikazzjoni applikabbli\nmal-informazzjoni miżmuma li tirrigwarda r-reġistru. Tali\ninformazzjoni għandha wkoll tkun disponibbli bħala parti millpublikazzjonijiet ta’ Data Miftuħa mill-portal ta’ data nazzjonali.\nTaqsima VII - Identifikatur Uniformi ta’ Riżorsi\n\nStruttura u format\ntal-URI.",
+      "metadata": {
+        "source_line_start": 694,
+        "source_line_end": 708
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "tal-URI",
+      "content": "(1)\nL-awtorità li timplimenta għandha tippubblika\nstandard u format għat-tmexxija tal-identifikatur rilevanti li għandu\njiġi applikat għar-records uffiċjali kollha.\n(2) L-Identifikatur Uniformi ta’ Riżorsi jkun magħmul minn\ntliet taqsimiet prinċipali, jiġifieri l-indikazzjoni li jkun record li\njibbaża l-awtorità legali tiegħu fuq il-Liġijiet ta’ Malta, it-tieni\ntaqsima li tidentifika r-reġistru uffiċjali u t-tielet taqsima li għandha\ntidentifika r-record individwali jew verżjoni partikolari tal-istess\nrecord skont il-mekkaniżmu ta’ kontroll ta’ verżjoni ta’ record\ndeskritt fir-regolament 21.\n\nMekkaniżmu ta’\nkontroll ta’\nverżjoni ta’ record.",
+      "metadata": {
+        "source_line_start": 709,
+        "source_line_end": 724
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "verżjoni ta’ record",
+      "content": "(1)\nL-entità li timplimenta għandha tippubblika\nstandard u format għat-tmexxija tal-mekkaniżmu ta’ kontroll ta’\nverżjoni ta’ record.\n(2) Kull record uffiċjali għandu jipprovdi l-faċilità talidentifikazzjoni tal-verżjonijiet differenti li jirriżultaw jew minnotament oriġinali fir-reġistru u għal kull bidla oħra ta’ xi wieħed\nmill-elementi li jikkostitwixxu tali record mill-perspettiva tannegozju.\n(3)\n\nKull verżjoni ta’ record għandu jkollha l-Identifikatur\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\nUniformi ta’ Riżorsi uniku tagħha li jippermetti l-identifikazzjoni talbidliet kollha għal record speċifiku bi stampati li jindikaw meta kien\nil-bidu u t-tmiem ta’ kull tali verżjoni ta’ record.\n(4) L-obbligu li jinkiseb il-mekkaniżmu ta’ kontroll ta’\nverżjoni jaqa’ fuq is-sidien rispettivi tad-data u huwa applikabbli\ngħal sistemi ta’ informazzjoni introdotti wara l-bidu fis-seħħ ta’ dawn\nir-regolamenti.\nTaqsima VIII - Standards ta’ Metadata",
+      "metadata": {
+        "source_line_start": 725,
+        "source_line_end": 749
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Taqsima VIII - Standards ta’ Metadata",
+      "content": "(1)\nL-entità li timplimenta għandha tippubblika\nstandard u format għat-tmexxija tar-record tal-metadata, magħruf\nukoll bħala t-tikketta tar-record, li għandha tiġi applikata għarrecords uffiċjali kollha.\n\nTikketta ta’ record.\n\n(2) Is-sid ta’ reġistru uffiċjali jkun obbligat li jsegwi dawk listandards li huma maħsuba biex jippermettu l-interoperabilità ta’\nrecords u informazzjoni meħtieġa għal verifika ta’ tali records u\ngħall-provenjenza u l-proċess li minnu joriġinaw ir-records fid-dawl\ntal-perjodi ta’ pussess li jistgħu jkunu applikabbli abbażi ta’ tali\ninformazzjoni.\nPart IX - Tmexxija ta’ Data ta’ Referenza",
+      "metadata": {
+        "source_line_start": 750,
+        "source_line_end": 762
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Part IX - Tmexxija ta’ Data ta’ Referenza",
+      "content": "(1)\nL-entità li timplimenta għandha tipprovdi\nrepożitorju u l-manutenzjoni neċessarja u faċilitajiet ta’ sejbien u\npubblikazzjoni għad-data ta’ referenza kif applikabbli għar-reġistri\nuffiċjali kollha inklużi fir-Reġistru tar-Reġistri.\n(2) Is-sid ta’ reġistru uffiċjali jkun obbligat li juża tali\nfaċilitajiet sabiex iżomm u jippubblika d-data ta’ referenza relativa\ngħar-reġistru speċifiku.\nTaqsima X - Reġistri Amministrattivi",
+      "metadata": {
+        "source_line_start": 763,
+        "source_line_end": 771
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Taqsima X - Reġistri Amministrattivi",
+      "content": "(1)\nL-entità li timplimenta għandha tipprovdi\nrepożitorju u l-manutenzjoni neċessarja u faċilitajiet ta’ sejbien u\npubblikazzjoni għal data amministrattiva kif applikabbli għar-reġistri\nuffiċjali kollha inklużi fir-Reġistru tar-Reġistri u li huma klassifikati\nbħala reġistri amministrattivi jew reġistri ta’ governanza fuq id-data.\n(2) Dawn ir-reġistri għandhom isegwu r-regoli normali kif\napplikabbli għal reġistri uffiċjali oħra.\n(3) Sistemi u proċessi tal-amministrazzjoni pubblika jkunu\nobbligati li jużaw ir-records uffiċjali mir-reġistri amministrattivi\nmeta tali records jiġu ppubblikati u jkunu aċċessibbli permezz ta’\nAPI mill-portal tad-data nazzjonali jew portali awtorizzati oħra kif\nikun applikabbli. Tali data tista’ tiġi kkupjata u maħżuna bħala parti\nmir-repożitorji tad-data lokali għal raġunijiet ta’ kontinwità u\n\nVokabolarju ta’\ndata ta’ referenza.\n\n[ L.S. 546.01\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\noperattivi iżda m’għandhiex tiġi aġġornata jew b’xi mod ieħor\nmiżmuma jew mibdula fil-livell ta’ xorta ta’ negozju.\nTaqsima XI - Kunsill ta’ Governanza fuq Data\nKunsill ta’\nGovernanza fuq\nData.\nEmendat:\nA.L. 20 tal-2025.",
+      "metadata": {
+        "source_line_start": 772,
+        "source_line_end": 806
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "A.L. 20 tal-2025",
+      "content": "(1)\nGħandu jitwaqqaf Kunsill ta’ Governanza fuq\nData, hawn iżjed ’il quddiem imsejjaħ \"il-Kunsill\", li jkollu lfunzjonijiet imsemmija fid-dispożizzjonijiet li ġejjin ta’ dan irregolament.\n(2) Il-Kunsill għandu jservi bħala l-punt fokali għal\nkoordinazzjoni u medjazzjoni, kif jista’ jkun meħtieġ, fir-rigward tattmexxija tar-reġistri uffiċjali u r-records uffiċjali fi ħdan ilfunzjonijiet tal-amministrazzjoni pubblika kif ukoll il-punt fokali għal\nkwalunkwe kwistjonijiet oħra relatati mad-data kif ordnat mill-Ministru\nresponsabbli għall-informazzjoni tas-settur pubbliku.\n(3) Il-Kunsill ikun il-korp prinċipali ta’ konsultazzjoni u\ngħoti ta’ pariri fir-rigward tal-ħwejjeġ kollha li huma relatati malgovernanza fuq reġistri uffiċjali u diskussjonijiet ta’ livell għoli,\nmedjazzjoni u l-formulazzjoni ta’ politika, direzzjoni u deċiżjonijiet li\njirrigwardaw data korporattiva u dwar l-intrapriża (applikabbli\norizzontalment) fi ħdan l-amministrazzjoni pubblika.\n(4) Il-Kunsill għandu jkun involut fid-diskussjonijiet bejn\nsidien tad-data u kull parti terza li titlob aċċess għal reġistri jew\ndatasets speċifiċi qabel ma tali talbiet jiġu sottomessi għallkonsiderazzjoni tal-awtorità regolatorja. Il-proposti jew deċiżjonijiet\ntal-Kunsill ikunu mingħajr preġudizzju għal, u soġġetti għal, iddeċiżjonijiet tal-awtorità regolatorja.\n(5) Il-Kunsill ikun magħmul minn chairperson u membri li\njkollhom l-kredenzjali u l-għarfien akkademiku neċessarji għal\ndiskussjoni informata fuq is-suġġett tal-amministrazzjoni tad-data filkuntest tal-proċessi u l-ħtiġiet tal-amministrazzjoni pubblika kif\nmaħtura għal perjodu ta’ tliet (3) snin mis-Segretarju Permanenti\nPrinċipali.\n(6) Il-membri ċentrali tal-Kunsill għandhom jiġu magħżula\nmill-funzjonijiet prinċipali tal-amministrazzjoni pubblika li\ngħandhom l-akbar impatt fuq l-implimentazzjoni tas-sistemi ta’\ninformazzjoni u l-istrateġiji nazzjonali relatati kif jista’ jkun\napplikabbli f’dak iż-żmien. In-numru ta’ membri ċentrali li jiffurmaw\nparti mill-Kunsill m’għandux ikun iżjed minn għaxar (10) persuni.\n(6a)\nKunsill.\n\nIċ-chairperson jista’ jaħtar segretarju sabiex iservi lill-\n\n(7) Il-Kunsill jista’ ukoll jistieden u jinvolvi esperti oħra u\nspeċjalisti fis-suġġett kif jista’ ikun meħtieġ minn żmien għal żmien u\nskont il-kwistjonijiet u suġġetti li jkunu qegħdin jiġu ttrattati f’dak iż-\n\nL-ISTRUTTURI TA’ ORGANIZZAZZJONI GĦAT-TQASSIM\nU L-UŻU MILL-ĠDID TA’ DATA\n\n[ L.S.546.01\n\nżmien.\n(8) Il-Kunsill jista’, wara konsiderazzjoni dovuta u\nvalutazzjoni tal-informazzjoni mogħtija, jirreferi t-talbiet dwar\nkwistjonijiet li jkun rċieva, konklużjonijiet, u proposti li jkun hemm\nqbil dwarhom fi ħdan il-Kunsill lis-Segretarju Permanenti Prinċipali\ngħal awtorizzazzjoni jew xi direzzjoni oħra kif jista’ jkun applikabbli.\n\nL-Ewwel Skeda\nSkema ta’ Klassifikazzjoni ta’ Data\nImħassra bl-Avviż Legali 20 tal-2025\n\nIt-Tieni Skeda\nReġistru tar-Reġistri\nImħassra bl-Avviż Legali 20 tal-2025\n\nIt-Tielet Skeda\nStruttura tar-Record tal-Metadata\nImħassra bl-Avviż Legali 20 tal-2025\n\nIr-Raba’ Skeda\nReġistri Amministrattivi\nImħassra bl-Avviż Legali 20 tal-2025\n\nIl-Ħames Skeda\nReġistri ta’ Governanza fuq Data\nImħassra bl-Avviż Legali 20 tal-2025",
+      "metadata": {
+        "source_line_start": 807,
+        "source_line_end": 879
+      }
+    }
+  ],
+  "definitions": []
+}

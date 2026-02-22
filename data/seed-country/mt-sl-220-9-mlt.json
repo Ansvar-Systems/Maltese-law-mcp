@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-220-9-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ix-Xoljiment ta l-Air Traffic Control Corps u ta l-Airport Company tal-Forzi Armati ta Malta",
+  "title_en": "Ordni dwar ix-Xoljiment ta l-Air Traffic Control Corps u ta l-Airport Company tal-Forzi Armati ta Malta",
+  "short_name": "eli/sl/220.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/220.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/220.9/mlt, expression eli/sl/220.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 112 ta’ l-1998",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ix-Xoljiment ta’ lAir Traffic Control Corps u ta’ l-Airport Company tal-Forzi Armati\nta’ Malta.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "ta’ Malta",
+      "content": "Huwa b’dan iddikjarat li l-Air Traffic Control Corps u lAirport Company tal-Forzi Armati ta’ Malta qeg]din b’dan ji[u\nxolti u li issa tne]]ew minn Korpi g]all-finijiet ta’ l-Att dwar ilForzi Armati ta’ Malta u ta’ kull regolament maghmul ta]t dak lAtt.\n\nTitolu.\n\nXoljiment ta’ l-Air\nTraffic Control\nCorps u ta’ lAirport Company.\nKap. 220.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-363-124-mlt",
+  "type": "statute",
+  "title": "Delega ta' Funzjoni lill-Kunsill Lokali Birgu dwar il-Ħlas ta' Kontijiet lill-Korporazzjoni għas-Servizzi ta' l-Ilma",
+  "title_en": "Delega ta' Funzjoni lill-Kunsill Lokali Birgu dwar il-Ħlas ta' Kontijiet lill-Korporazzjoni għas-Servizzi ta' l-Ilma",
+  "short_name": "eli/sl/363.124/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.124/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.124/mlt, expression eli/sl/363.124/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 229 tal-2005",
+      "content": "It-titolu ta’ dan l-ordni huwa Ordni dwar Delega ta’\nFunzjoni lill-Kunsill Lokali Birgu dwar il-}las ta’ Kontijiet lillKorporazzjoni g]as-Servizzi tal-Ilma.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-ordni huwa Ordni dwar Delega ta’",
+      "content": "Il-Ministru ordna li l-Kunsill Lokali Birgu jkollu d-delega\ntal-funzjoni li ji[bor f’isem il-Korporazzjoni g]as-Servizzi ta’ lIlma, il-]las ta’ kontijiet ma]ru[in mill-Korporazzjoni g]asServizzi tal-Ilma.\n\nTitolu.\n\nId-delega tibda\nsse]].",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

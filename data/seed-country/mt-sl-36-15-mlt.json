@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-36-15-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Avviż ta' Tuberkolożi mit-Tobba",
+  "title_en": "Ordni dwar l-Avviż ta' Tuberkolożi mit-Tobba",
+  "short_name": "eli/sl/36.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.15/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.15/mlt, expression eli/sl/36.15/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 481 ta’ l-1949",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Avvi\\ ta’\nTuberkolo\\i mit-Tobba.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Tuberkolo\\i mit-Tobba",
+      "content": "Id-disposizzjonijiet ta’ l-artikolu 7 ta’ l-Ordinanza dwar itT]aris mill-Mard, li jittratta fuq id-dmir tat-tobba li jav\\aw b’xi\nmarda, g]andhom jg]oddu g]ax-xorta kollha ta’ tuberkolo\\i kif\njg]oddu g]at-ti\\i tuberkolari skond l-artikolu 10 (2) ta’ l-istess\nOrdinanza.\n\nTitolu.\nAvvi\\.\nKap. 36.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

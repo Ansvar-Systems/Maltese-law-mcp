@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-552-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ippjanar tal-Iżvilupp (Librett Uffiċjali)",
+  "title_en": "Regolamenti dwar l-Ippjanar tal-Iżvilupp (Librett Uffiċjali)",
+  "short_name": "eli/sl/552.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-20",
+  "in_force_date": "2010-12-20",
+  "url": "https://legislation.mt/eli/sl/552.3/20101220/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.3/mlt, expression eli/sl/552.3/20101220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 24 tal-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIppjanar tal-I\\vilupp (Librett Uffi`jali).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\ntfissirx xort’o]ra:\n\nTifsir.\n\n\"l-Att\" ifisser l-Att dwar l-Ippjanar tal-I\\vilupp;\n\nKap. 552.\n\n\"l-Awtorità\" g]andha l-istess tifsira kif mog]ti lilha fl-artikolu 2\nta’ l-Att;\n\"librett uffi`jali\" ifisser il-librett uffi`jali msemmi fl-artikolu\n38(1)(l) tal-Att;\n\"pjan ta’ struttura\" g]andha t-tifsira mog]ti lilha bl-artikoli 44 u\n72 tal-Att;\n\"pjanijiet sussidjarji\" g]andha l-istess tifsira mog]tija lilha flartikolu 73 tal-Att;\n\"policy ta’ ppjanar\" g]andu jkollha l-istess tifsira mog]ti lilha\nbl-artikolu 2 tal-Att.\n(2) F’dawn ir-regolamenti kliem imfissra fl-Att g]andhom listess tifsir b]al dak mog]ti fl-Att.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-librett uffi`jali g]andu jkun fih dan li [ej:\n(a) l-Att flimkien ma’ l-emendi tieg]u kollha;\n\n}wejje[ li\ng]andhom ikunu\nfil-librett uffi`jali.\n\n(b) il-li[ijiet sussidjarji kollha mag]mula bis-sa]]a ta’ lAtt flimkien ma’ l-emendi tag]hom kollha;\n(`) il-pjan ta’ struttura u l-pjanijiet sussidjarji fis-se]] fi\nkwalunkwe \\mien;\n(d) il-policies ta’ ppjanar kollha hekk li jindikaw id-data\neffettiva tal-bidu fis-se]];\n(e) l-istrumenti ta’ delegazzjoni kollha mag]mula bissa]]a ta’ l-artikolu 7 tal-Att;\n(f)\n\nis-setg]at ta’ kontroll kollha delegati lill-Awtorità bissa]]a ta’ l-artikolu 7 tal-Att;\n\n(g) tibdiliet \\g]ar approvati u regolati bis-sa]]a ta’ lartikolu 54 tal-Att;\n(h) kull proprjetà skedata, ordni g]al konservazzjoni,\nordni ta’ emer[enza g]al konservazzjoni, si[ra protetta\nu ordni g]all-preservazzjoni ta’ si[ar mag]mula bissa]]a tad-dispo\\izzjonijiet tal-Att dwar il-Protezzjoni\ntal-Ambjent;\n(i)\n\nkull ha[a o]ra li l-Awtorità tista’, minn \\mien g]al\n\nKap. 549.\n\nL.S.552.03]\n\nPPJANAR TA’ L-I|VILUPP (LIBRETT UFFI~JALI)\n\\mien, tikkonsidra rilevanti g]all-ippjanar u l-kontroll\nta’ l-i\\vilupp.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 77
+      }
+    }
+  ],
+  "definitions": []
+}

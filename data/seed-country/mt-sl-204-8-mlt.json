@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-204-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u Kreditu)",
+  "title_en": "Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u Kreditu)",
+  "short_name": "eli/sl/204.8/mlt",
+  "status": "in_force",
+  "issued_date": "2016-08-02",
+  "in_force_date": "2016-08-02",
+  "url": "https://legislation.mt/eli/sl/204.8/20160802/mlt",
+  "description": "Official text from legislation.mt (eli/sl/204.8/mlt, expression eli/sl/204.8/20160802/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 263 tal-2016",
+      "content": "(1) It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju\ngħat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u\nKreditu).\n\nTitolu u skop.\n\n(2) L-iskop ta’ dawn ir-regolamenti huwa sabiex jiddefinixxu tt a r i ff i t a l - i n t e r k am b j u g ħ a t - t r a n sa z z j o n i j i e t d o m e st i ċ i t a l konsumatur ta’ pagament permezz ta’ kard ta’debitu u kreditu taħt\nl-Artikoli 3(2)(a) u 4 tar-Regolament (UE) Nru 2015/751 talParlament Ewropew u tal-Kunsill tad-29 ta’ April 2015 dwar ittariffi tal-interkambju għat-transazzjonijiet ta’ pagament permezz\nta’ kard, hawnhekk iżjed ’il quddiem imsejjaħ \"ir-Regolament\".\n(3) Kliem użati f’dawn ir-regolamenti għandhom jingħataw listess tifsira mogħtija lilhom fir-Regolament, sakemm il-kuntest ma\njitlobx mod ieħor.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu u skop",
+      "content": "Il-fornituri ta’ servizzi ta’ pagament m’għandhomx joffru\njew jitolbu tariffa tal-interkambju fuq kull transazzjoni ta’ iktar\nminn 0.15% tal-valur tat-transazzjoni għal kwalunkwe transazzjoni\ndomestika b’kard ta’ debitu.\n\nTariffi talinterkambju għal\ntransazzjonijiet ta’\npagament permezz\nta’ kard ta’ debitu.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu u skop",
+      "content": "Il-fornituri ta’ servizzi ta’ pagament m’għandhomx joffru\njew jitolbu tariffa tal-interkambju fuq kull transazzjoni ta’ iktar\nminn 0.3% tal-valur tat-transazzjoni għal kwalunkwe transazzjoni\ndomestika b’kard ta’ kreditu.\n\nTariffi talinterkambju għal\ntransazzjonijiet ta’\npagament permezz\nta’ kard ta’ kreditu.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

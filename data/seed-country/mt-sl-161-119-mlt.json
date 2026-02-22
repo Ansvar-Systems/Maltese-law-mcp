@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-161-119-mlt",
+  "type": "statute",
+  "title": "Directtiva mill-Prim Ministru u Ministru tal-Finanzi għall-ħruġ ta’ €100,000,000",
+  "title_en": "Directtiva mill-Prim Ministru u Ministru tal-Finanzi għall-ħruġ ta’ €100,000,000",
+  "short_name": "eli/sl/161.119/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-27",
+  "in_force_date": "2013-03-27",
+  "url": "https://legislation.mt/eli/sl/161.119/20130327/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.119/mlt, expression eli/sl/161.119/20130327/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 129 tal-2008",
+      "content": "It-titolu ta’ din id-Direttiva hu Directtiva mill-Prim\nMinistru u Ministru tal-Finanzi għall-ħruġ ta’ €100,000,000:\n(i)",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Titolu",
+      "content": "1% Stock tal-Gvern ta’ Malta 2014 (III) Fungibility\nIssue; jew\n\n(ii) 5% Stock tal-Gvern ta’ Malta 2021 (I) Fungibility\nIssue; jew\n(iii) f’ammonti miż-żewġ Stocks imsemmija\nnominali flimkien ta’ Euro 100,000,000.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "b’valur\n\nL-iStocks jinħarġu skont kif stipulat fil-prospett.\n\nMod tal-ħruġ taliStocks.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull persuna u, jew enti jistgħu japplikaw għal dawn liStocks. It-tqassim tal-iStocks isir kif hemm spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stock",
+      "content": "(a) Skont id-dispożizzjonijiet tal-Att dwar is-Swieq\nFinanzjarji, meta dawn l-iStocks jiġu allokati, għandha\nssir applikazzjoni sabiex kull Stock jitqiegħed fuq illista uffiċjali u biex ikun negozjat fil-Borża ta’ Malta.\n\nNegozju fil-Borża\nta’ Malta.\nKap. 345.\n\n(b) Fis-7 ta’ Lulju, 2008, wara l-pagament tal-ewwel\nimgħax, kull ammont allokat fil-5.1% Stock tal-Gvern\nta’ Malta 2014 (III) jiġi integrat mal-iStock eżistenti u\nwara dawn iż-żewġ Stocks jitqiesu bħala Stock wieħed.\n(ċ) Fid-9 ta’ Awissu, 2008, wara l-pagament tal-ewwel\nmgħax, kull ammont allokat fil-5% Stock tal-Gvern ta’\nMalta 2021 (I) jiġi integrat mal-iStock eżistenti u\nwara, dawn iż-żewġ Stocks jitqiesu bħala Stock\nwieħed.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 68
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "dati tal-ħlas",
+      "content": "(a) L-imgħax bir-rata ta’ Euro 2.55 għal kull Euro 100",
+      "metadata": {
+        "source_line_start": 89,
+        "source_line_end": 91
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Awissu, 2008",
+      "content": "(a) 5.1% Stock tal-Gvern ta’ Malta 2014 (III) jiġi mifdi\nb’parità fis-6 ta’ Lulju, 2014.\n(b) 5% Stock tal-Gvern ta’ Malta 2021 (I) jiġi mifdi\nb’parità fit-8 ta’ Awissu, 2021.",
+      "metadata": {
+        "source_line_start": 108,
+        "source_line_end": 116
+      }
+    }
+  ],
+  "definitions": []
+}

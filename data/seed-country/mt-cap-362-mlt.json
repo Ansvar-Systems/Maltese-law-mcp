@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-362-mlt",
+  "type": "statute",
+  "title": "Att dwar ir-Ratifika tal-Liġi tal-Baħar",
+  "title_en": "Att dwar ir-Ratifika tal-Liġi tal-Baħar",
+  "short_name": "Kap. 362",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1993-05-14",
+  "url": "https://legislation.mt/eli/cap/362/19930514/mlt",
+  "description": "Official text from legislation.mt (eli/cap/362/mlt, expression eli/cap/362/19930514/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XII tal-1993 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar ir-Ratifika tal-Liġi talBaħar.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att \"Konvenzjoni\" tfisser il-Konvenzjoni tanNazzjonijiet Uniti dwar il-Liġi tal-Baħar iffirmata f’Montego Bay,\nil-Jamaica fl-10 ta’ Diċembru, 1982.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Għall-finijiet tal-Att dwar ir-Ratifika ta’ Trattati, ir-ratifika\ntal-Konvenzjoni mill-Gvern hi b’dan awtorizzata.\n\nIl-Gvern\nawtorizzat\njirratifika lKonvenzjoni.\nKap. 304.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 320 tal-14 ta’ Mejju, 1993.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

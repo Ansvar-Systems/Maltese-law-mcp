@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-405-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar is-Sorveljar f'Ajruporti Msemmija",
+  "title_en": "Ordni dwar is-Sorveljar f'Ajruporti Msemmija",
+  "short_name": "eli/sl/405.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/405.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/405.2/mlt, expression eli/sl/405.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 213 ta’ l-2003",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar is-Sorveljar\nf’Ajruporti Msemmija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Dawn l-ajruportijiet li [ejjin huma meqjusa b]ala\najruportijiet imsemmija li je]tie[u sorveljar g]all-fini tat-Taqsima\nV ta’ l-Att dwar Sigurtà fl-Ajruportijiet u fl-Avjazzjoni ~ivili:\n\nAjruportijiet\nimsemmija li\nje]tie[u sorveljar.\n\n(a) l-Ajruport Internazzjonali ta’ Malta, fil-Gudja; u\n(b) il-}eliport fix-Xewkija, G]awdex.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

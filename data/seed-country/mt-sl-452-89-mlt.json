@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-89-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Interpretazzjoni fil-Kamp ta' l-Impiegi u Relazzjonijiet Industrijali",
+  "title_en": "Ordni dwar l-Interpretazzjoni fil-Kamp ta' l-Impiegi u Relazzjonijiet Industrijali",
+  "short_name": "eli/sl/452.89/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.89/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.89/mlt, expression eli/sl/452.89/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 297 ta’ l-2003",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Interpretazzjoni\nfil-kamp ta’ l-Impiegi u Relazzjonijiet Industrijali.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "fil-kamp ta’ l-Impiegi u Relazzjonijiet Industrijali",
+      "content": "Meta ji[i biex jiddetermina jekk trattament hux\n[ustifikabbli f’so`jetà demokratika, it-Tribunal Industrijali g]andu\njqis id-disposizzjonijiet ta’ direttivi u regolamenti ta’ l-Unjoni\nEwropea li g]andhom x’jaqsmu mad-diskriminazzjoni u\npartikolarment id-Direttiva tal-Kunsill 2000/43/EC tad-29 ta’\n{unju 2000 u d-Direttiva tal-Kunsill 2000/78/EC tas-27 ta’\nNovembru 2000 li jipprojbixxu d-diskriminazzjoni fuq ba\\i ta’\nreli[jon jew twemmin, di\\abilità, età, orjentament sesswali, razza\njew ori[ini etnika.\n\nTitolu.\nIt-Tribunal\nIndustrijali g]andu\njqis direttivi.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

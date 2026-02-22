@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-70-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Tombli għall-Pubbliku Imħassrin bl-Att XVI tal-2018",
+  "title_en": "Regolamenti dwar Tombli għall-Pubbliku Imħassrin bl-Att XVI tal-2018",
+  "short_name": "eli/sl/70.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/70.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/70.2/mlt, expression eli/sl/70.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.70.02\n\nTOMBLI G}ALL-PUBBLIKU\n\nLE{ISLAZZJONI SUSSIDJARJA 70.02\nREGOLAMENTI DWAR TOMBLI\nG}ALL-PUBBLIKU\n21 ta’ Marzu, 1946\nIn-NOTIFIKAZZJONI TAL-GVERN 98 ta’ l-1946, kif emendata binNotifikazzjonijiet tal-Gvern 231 u 605 ta’ l-1946, 89 ta’ l-1947, 324 ta’ l1949, 326 u 685 ta’ l-1950, 365 u 514 ta’ l-1956, u 513 ta’ l-1958; bl-Avvi\\\nLegali 132 ta’ l-1976; bl-Att XIII ta’ l-1983; u bl-Avvi\\ Legali 408 ta’ l2007.\nImħassrin bl-Att XVI tal-2018.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-121-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis Miżati dwar Childcare",
+  "title_en": "Regoli dwar Tnaqqis Miżati dwar Childcare",
+  "short_name": "eli/sl/123.121/mlt",
+  "status": "in_force",
+  "issued_date": "2010-11-02",
+  "in_force_date": "2010-11-02",
+  "url": "https://legislation.mt/eli/sl/123.121/20101102/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.121/mlt, expression eli/sl/123.121/20101102/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 466 tal-2010, kif emendat bl-Avviż Legali 341 tal2018",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu Regoli dwar Tnaqqis\n(Miżati dwar Childcare).\n(2)\n\nTitolu u bidu fisseħħ.\n\nDawn ir-regoli għandhom jidħlu fis-seħħ mis-sena ta’ stima",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Dawn ir-regoli għandhom jidħlu fis-seħħ mis-sena ta’ stima",
+      "content": "It-tnaqqis li jista’ jintalab minn individwu skond iddispożizzjonijiet tal-artikolu 14Ċ tal-Att dwar it-Taxxa fuq l-Income,\nhawn iżjed ’il quddiem imsejjaħ \"l-Att\", jingħata biss fejn:\n(a) miżata tkun trid titħallas wara li jitnaqqsu kull sussidju\njew flus lura li jistgħu jiġu riċevuti għas-servizz ta’\nchildcare; u\n\nKundizzjonijiet\napplikabbli.\nEmendat:\nA.L.341 tal-2018.\nKap. 123.\n\n(b) iċ-ċentru ta’ childcare huwa reġistrat jew approvat\nb’xi mod ieħor mill-entità responsabbli għarregolamentazzjoni ta’ ċentri ta’ childcare u\n(ċ) il-pagament u d-dettalji tal-individwu li qiegħed\njagħmel it-talba huma kkonfermati minn informazzjoni\npprovduta, fil-format u l-kontenut li jiddetermina lKummissarju, mill-persuna li tmexxi ċ-ċentru ta’\nchildcare.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "childcare",
+      "content": "entità responsabbli għar-regolamentazzjoni ta’ ċentri ta’\nchildcare għandha tipprovdilill-Kummissarju, għall-iskopijiet talamministrazzjoni tal-artikolu 14Ċ tal-Att u ta’ dawn ir-regoli, linformazzjoni li għandha fil-pussess tagħha fir-rigward taċ-ċentri ta’\nchildcare kif il-Kummissarju jista’ jirrikjedi.\n\nInformazzjoni.\nEmendat:\nA.L.341 tal-2018.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

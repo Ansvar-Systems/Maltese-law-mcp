@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Appelli",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Appelli",
+  "short_name": "eli/sl/458.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.27/mlt, expression eli/sl/458.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 98 ta’ l-2001, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li g]andhom jit]allsu g]all-Appelli.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 36 ta’ l-Att\ndwar il-Professjonijiet tas-Sa]]a g]al appell minn de`i\\joni talKunsill Mediku g]andhom ikunu mija u sittax-il euro u sebg]a u\nerbg]in `ente\\mu (116.47).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 427 ta’ l2007.\nKap. 464.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

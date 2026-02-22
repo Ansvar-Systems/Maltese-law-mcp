@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-552-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti Billbords u Reklami Imħassrin bl-Avviż Legali 36 tal-2018",
+  "title_en": "Regolamenti Billbords u Reklami Imħassrin bl-Avviż Legali 36 tal-2018",
+  "short_name": "eli/sl/552.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-20",
+  "in_force_date": "2010-12-20",
+  "url": "https://legislation.mt/eli/sl/552.16/20101220/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.16/mlt, expression eli/sl/552.16/20101220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.552.16\n\nBILLBORDS U REKLAMI\n\nLEĠISLAZZJONI SUSSIDJARJA 552.16\nREGOLAMENTI DWAR BILLBORDS U REKLAMI\n29 ta’ Marzu, 2016\nL-AVVIŻ LEGALI 103 tal-2016.\n\nImħassrin bl-Avviż Legali 36 tal-2018 (L.S.552.28).\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

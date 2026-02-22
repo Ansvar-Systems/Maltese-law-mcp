@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Swieq Regolati (Ħtiġiet ta' Awtorizzazzjoni)",
+  "title_en": "Regolamenti dwar Swieq Regolati (Ħtiġiet ta' Awtorizzazzjoni)",
+  "short_name": "eli/sl/345.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2007-11-01",
+  "url": "https://legislation.mt/eli/sl/345.4/20251003/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.4/mlt, expression eli/sl/345.4/20251003/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SWIEQ REGOLATI (}TI{IET TA’ AWTORIZZAZZJONI)\n\n[L.S.345.04\n\nLEĠISLAZZJONI SUSSIDJARJA 345.04\nREGOLAMENTI DWAR SWIEQ REGOLATI\n(ĦTIĠIET TA’ AWTORIZZAZZJONI)*\n1 ta’ Novembru, 2007\nL-AVVIŻ LEGALI 333 tal-2007, kif emendat bl-Avviżi Legali 385 tal2017, 60 u 249 tal-2024 u 214 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

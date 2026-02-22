@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-149-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis (Dħul minn Impjieg)",
+  "title_en": "Regoli dwar Tnaqqis (Dħul minn Impjieg)",
+  "short_name": "eli/sl/123.149/mlt",
+  "status": "in_force",
+  "issued_date": "2013-07-11",
+  "in_force_date": "2013-07-09",
+  "url": "https://legislation.mt/eli/sl/123.149/20251205/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.149/mlt, expression eli/sl/123.149/20251205/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-2020, 28 tal-2022, 4 tal-2023, 1 u 358 tal-2024 u 279 tal-2025",
+      "content": "It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Tnaqqis (Dħul\nminn Impjieg).\n\nTitolu.\nEmendata:\nA.L. 144 tal-2014;\nA.L. 43 tal-2017.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Dawn ir-regoli japplikaw fejn, fis-sena minnufih qabel issena ta’ stima 2014 u fis-snin ta’ wara, individwu (inkluż ukoll\nkonjuġi fejn il-konjuġi responsabbli għażel komputazzjoni separata\ngħall-iskopijiet tal-artikolu 50 tal-Att dwar it-Taxxa fuq l-Income,\nhawn iżjed ’il quddiem imsejjaħ \"l-Att\") -\n\nApplikabilità.\nEmendata:\nA.L. 144 tal-2014;\nA.L. 474 tal-2014;\nA.L. 126 tal-2016;\nA.L. 43 tal-2017;\nA.L. 188 tal-2017;\nA.L. 53 tal-2018;\nA.L. 22 tal-2020;\nA.L. 462 tal-2020;\nA.L. 28 tal-2022;\nA.L. 4 tal-2023;\nA.L. 1 tal-2024;\nA.L. 358 tal-2024;\nA.L. 279 tal-2025.\n\n(a) * qala’ dħul minn impjieg (li mhux dħul minn kariga ta’\ndirettur) suġġett għat-taxxa taħt l-artikolu 4(1)(b) talAtt, u dan id-dħul ma jeċċedix tnax-il elf erba’ mija\nħamsa u erbgħin euro (€12,445) per annum; u\n(b) ma jaqlax dħul ieħor suġġett għat-taxxa bir-rati\nmsemmija fl-artikolu 56(1)(b) tal-Att.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "msemmija fl-artikolu 56(1)(b) tal-Att",
+      "content": "(1) Kull individwu li għalih tapplika r-regola 2 u li hu\nsuġġett għat-taxxa bir-rati msemmija fl-artikolu 56(1)(b) tal-Att,\niżda mhux bir-rati msemmija fil-provisos għal dak l-artikolu,\njingħata bħala tnaqqis kontra d-dħul tiegħu minn impjieg, ammont\nstabbilit billi jitnaqqsu tnax-il elf euro (€12,000) mill-imsemmi dħul.\n(2)\n\nImħassar bl-Avviż Legali 358 tal-2024.\n\n*Vide regola 1(2) tal-Avviż Legali 279 tal-2025.\n\nTnaqqis.\nEmendata:\nA.L. 126 tal-2016;\nA.L. 4 tal-2023;\nA.L. 358 tal-2024.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 69
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Exemptions)",
+  "title_en": "Regolamenti dwar Insurance Business (Exemptions)",
+  "short_name": "eli/sl/403.22/mlt",
+  "status": "in_force",
+  "issued_date": "2016-01-11",
+  "in_force_date": "2016-01-01",
+  "url": "https://legislation.mt/eli/sl/403.22/20221129/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.22/mlt, expression eli/sl/403.22/20221129/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS (EXEMPTIONS)\n\n[ L.S.403.22\n\nLEĠISLAZZJONI SUSSIDJARJA 403.22\nREGOLAMENTI DWAR\nINSURANCE BUSINESS (EXEMPTIONS)*\n1 ta’ Jannar, 2016\nL-AVVIŻ LEGALI 401 tal-2015, kif emendat bl-Avviżi Legali 34 tal-2017\nu 313 tal-2022.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

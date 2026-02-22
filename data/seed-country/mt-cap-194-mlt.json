@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-194-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Blata Kontinentali Imħassar bl-Att XXVIII tal-2014",
+  "title_en": "Att dwar il-Blata Kontinentali Imħassar bl-Att XXVIII tal-2014",
+  "short_name": "Kap. 194(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1966-07-29",
+  "url": "https://legislation.mt/eli/cap/194/20140808/mlt",
+  "description": "Official text from legislation.mt (eli/cap/194/mlt, expression eli/cap/194/20140808/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ KAP. 194.\n\nBLATA KONTINENTALI\n\nKAPITOLU 194\nATT DWAR IL-BLATA KONTINENTALI\nBiex jipprovdi għall-esplorazzjoni u għall-isfruttament\nkontinentali u għal ħwejjeġ konnessi ma’ dawk l-iskopijiet.\n\ntal-blata\n\n29 ta’ Lulju, 1966\nL-ATT XXXV tal-1966, kif emendat bl-Att I tal-2002; u bl-Avviż Legali\n410 tal-2007.\n\nRevokat bl-Att XXVIII tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

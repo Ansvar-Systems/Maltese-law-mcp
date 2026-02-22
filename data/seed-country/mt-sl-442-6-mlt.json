@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-442-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Fond Ċentrali tal-Koperativi (Bord Proviżorju)",
+  "title_en": "Regolamenti dwar il-Fond Ċentrali tal-Koperativi (Bord Proviżorju)",
+  "short_name": "eli/sl/442.6/mlt",
+  "status": "in_force",
+  "issued_date": "2012-09-19",
+  "in_force_date": "2012-09-19",
+  "url": "https://legislation.mt/eli/sl/442.6/20120919/mlt",
+  "description": "Official text from legislation.mt (eli/sl/442.6/mlt, expression eli/sl/442.6/20120919/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FOND ĊENTRALI TAL-KOPERATIVI\n(BORD PROVIŻORJU)\n\n[ L.S.442.06\n\nSUBSIDIARY LEGISLATION 442.06\nREGOLAMENTI DWAR IL-FOND ĊENTRALI\nTAL-KOPERATIVI (BORD PROVIŻORJU)\n18 ta’ Settembru, 2012\nL-AVVIŻ LEGALI 297 tal-2012.\n\nRevokat bl-Avviż Legali 344 tal-2016.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

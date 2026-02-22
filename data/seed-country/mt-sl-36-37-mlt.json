@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-36-37-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll ta' SwillImħassrin bl-Avviż Legali 127 tal-2017",
+  "title_en": "Regolamenti dwar il-Kontroll ta' SwillImħassrin bl-Avviż Legali 127 tal-2017",
+  "short_name": "eli/sl/36.37/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.37/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.37/mlt, expression eli/sl/36.37/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONTROLL TA’ SWILL\n\n[L.S.36.37\n\nLE{ISLAZZJONI SUSSIDJARJA 36.37\nREGOLAMENTI DWAR IL-KONTROLL TA’ SWILL\n24 ta’ Settembru, 1993\nL-AVVI| LEGALI 125 ta’ l-1993, kif emendat bl-Avvi\\ Legali 407 ta’ l2007.\n\nImħassrin bl-Avviż Legali 127 tal-2017.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

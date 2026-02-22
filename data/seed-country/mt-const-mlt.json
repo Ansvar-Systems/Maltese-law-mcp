@@ -1,0 +1,1365 @@
+{
+  "id": "mt-const-mlt",
+  "type": "statute",
+  "title": "Kostituzzjoni ta' Malta",
+  "title_en": "Kostituzzjoni ta' Malta",
+  "short_name": "Kostituzzjoni",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1964-09-21",
+  "url": "https://legislation.mt/eli/const/20251218/mlt",
+  "description": "Official text from legislation.mt (eli/const/mlt, expression eli/const/20251218/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Belt Kapitali",
+      "content": "Il-Kostituzzjoni tkun il-liġi suprema.\nDikjarazzjoni ta’ Prinċipji",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Belt Kapitali",
+      "content": "Tmexxija ’l quddiem ta’ kultura, eċċ.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Belt Kapitali",
+      "content": "Salvagwardar ta’ paesaġġ u patrimonju storiku u artistiku.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Belt Kapitali",
+      "content": "Edukazzjoni primarja tkun obbligatorja u bla ħlas.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Interessi edukattivi",
+      "content": "Protezzjoni ta’ xogħol.",
+      "metadata": {
+        "source_line_start": 60,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Interessi edukattivi",
+      "content": "Ħinijiet ta’ xogħol.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Interessi edukattivi",
+      "content": "Drittijiet ta’ ħaddiema nisa.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Interessi edukattivi",
+      "content": "L-anqas età għal xogħol bi ħlas.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 75
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Interessi edukattivi",
+      "content": "Salvagwardar ta’ xogħol ta’ minuri.",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 79
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Salvagwardar ta’ xogħol ta’ minuri",
+      "content": "Għajnuna soċjali u sigurtà.",
+      "metadata": {
+        "source_line_start": 80,
+        "source_line_end": 83
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Għajnuna soċjali u sigurtà",
+      "content": "Inkoraġġiment ta’ intrapriża ekonomika privata.",
+      "metadata": {
+        "source_line_start": 84,
+        "source_line_end": 87
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Inkoraġġiment ta’ intrapriża ekonomika privata",
+      "content": "Protezzjoni ta’ snajja artiġjani.",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 91
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Protezzjoni ta’ snajja artiġjani",
+      "content": "Inkoraġġiment ta’ ko-operattivi.",
+      "metadata": {
+        "source_line_start": 92,
+        "source_line_end": 95
+      }
+    },
+    {
+      "provision_ref": "s20a",
+      "section": "20A",
+      "title": "Inkoraġġiment ta’ ko-operattivi",
+      "content": "Is-sehem ta’ Maltin li jgħixu barra minn Malta.",
+      "metadata": {
+        "source_line_start": 96,
+        "source_line_end": 99
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Is-sehem ta’ Maltin li jgħixu barra minn Malta",
+      "content": "Applikazzjoni tal-prinċipji li hemm f’dan il-Kapitolu.\nĊittadinanza",
+      "metadata": {
+        "source_line_start": 100,
+        "source_line_end": 105
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Ċittadinanza",
+      "content": "Persuni li jsiru ċittadini fil-ġurnata stabbilita.",
+      "metadata": {
+        "source_line_start": 106,
+        "source_line_end": 109
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Persuni li jsiru ċittadini fil-ġurnata stabbilita",
+      "content": "Persuni li jkollhom dritt li jkunu reġistrati bħala ċittadini.",
+      "metadata": {
+        "source_line_start": 110,
+        "source_line_end": 113
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Persuni li jkollhom dritt li jkunu reġistrati bħala ċittadini",
+      "content": "Persuni naturalizzati jew reġistrati bħala residenti qabel\nstabbilita.\n\nil-ġurnata\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 114,
+        "source_line_end": 124
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "KOSTITUZZJONI TA’ MALTA",
+      "content": "Ksib ta’ ċittadinanza bi twelid jew dixxendenza minn persuni imwielda\nfi jew wara l-ġurnata stabbilita.",
+      "metadata": {
+        "source_line_start": 125,
+        "source_line_end": 129
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "fi jew wara l-ġurnata stabbilita",
+      "content": "Żwieġ ma’ ċittadin ta’ Malta.",
+      "metadata": {
+        "source_line_start": 130,
+        "source_line_end": 133
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Żwieġ ma’ ċittadin ta’ Malta",
+      "content": "Doppja ċittadinanza.",
+      "metadata": {
+        "source_line_start": 134,
+        "source_line_end": 137
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Doppja ċittadinanza",
+      "content": "Ċittadini tal-Commonwealth.",
+      "metadata": {
+        "source_line_start": 138,
+        "source_line_end": 141
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Ċittadini tal-Commonwealth",
+      "content": "Responsabbiltà kriminali ta’ ċittadini tal-Commonwealth.",
+      "metadata": {
+        "source_line_start": 142,
+        "source_line_end": 145
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Responsabbiltà kriminali ta’ ċittadini tal-Commonwealth",
+      "content": "Setgħat tal-Parlament.",
+      "metadata": {
+        "source_line_start": 146,
+        "source_line_end": 149
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Setgħat tal-Parlament",
+      "content": "Tifsir.\nDrittijiet u Libertajiet Fundamentali tal-Individwu",
+      "metadata": {
+        "source_line_start": 150,
+        "source_line_end": 155
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Drittijiet u libertajiet fundamentali tal-individwu",
+      "content": "Protezzjoni tad-dritt għall-ħajja.",
+      "metadata": {
+        "source_line_start": 160,
+        "source_line_end": 163
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Protezzjoni minn arrest jew detenzjoni arbitrarja",
+      "content": "Protezzjoni minn xogħol furzat.",
+      "metadata": {
+        "source_line_start": 168,
+        "source_line_end": 171
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Protezzjoni minn trattament inuman",
+      "content": "Protezzjoni minn privazzjoni ta’ proprjetà bla kumpens.",
+      "metadata": {
+        "source_line_start": 176,
+        "source_line_end": 179
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Protezzjoni minn trattament inuman",
+      "content": "Protezzjoni għall-intimità tad-dar jew proprjetà oħra.",
+      "metadata": {
+        "source_line_start": 180,
+        "source_line_end": 183
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Protezzjoni minn trattament inuman",
+      "content": "Disposizzjonijiet biex tiġi żgurata protezzjoni tal-liġi.",
+      "metadata": {
+        "source_line_start": 184,
+        "source_line_end": 187
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Protezzjoni minn trattament inuman",
+      "content": "Protezzjoni ta’ libertà ta’ kuxjenza u qima.",
+      "metadata": {
+        "source_line_start": 188,
+        "source_line_end": 191
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Protezzjoni minn trattament inuman",
+      "content": "Protezzjoni ta’ libertà ta’ espressjoni.",
+      "metadata": {
+        "source_line_start": 192,
+        "source_line_end": 195
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Protezzjoni ta’ libertà ta’ espressjoni",
+      "content": "Protezzjoni ta’ libertà ta’ għaqda u assoċjazzjoni.",
+      "metadata": {
+        "source_line_start": 196,
+        "source_line_end": 199
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Protezzjoni ta’ libertà ta’ għaqda u assoċjazzjoni",
+      "content": "Projbizzjoni ta’ deportazzjoni.",
+      "metadata": {
+        "source_line_start": 200,
+        "source_line_end": 203
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Projbizzjoni ta’ deportazzjoni",
+      "content": "Protezzjoni ta’ libertà ta’ moviment.",
+      "metadata": {
+        "source_line_start": 204,
+        "source_line_end": 207
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Protezzjoni ta’ libertà ta’ moviment",
+      "content": "Protezzjoni minn diskriminazzjoni minħabba razza, eċċ.",
+      "metadata": {
+        "source_line_start": 208,
+        "source_line_end": 211
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Protezzjoni minn diskriminazzjoni minħabba razza, eċċ",
+      "content": "Twettiq ta’ disposizzjonijiet protettivi.",
+      "metadata": {
+        "source_line_start": 212,
+        "source_line_end": 215
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Twettiq ta’ disposizzjonijiet protettivi",
+      "content": "Tifsir tal-Kapitolu IV.\nIl-President",
+      "metadata": {
+        "source_line_start": 216,
+        "source_line_end": 221
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Tifsir tal-Kapitolu IV",
+      "content": "Twaqqif tal-kariga ta’ President.",
+      "metadata": {
+        "source_line_start": 222,
+        "source_line_end": 225
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "Tifsir tal-Kapitolu IV",
+      "content": "Qadi tal-funzjonijiet tal-President matul vakanza, eċċ.",
+      "metadata": {
+        "source_line_start": 226,
+        "source_line_end": 229
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Tifsir tal-Kapitolu IV",
+      "content": "Ġurament li għandu jittieħed mill-President.\nIl-Parlament\nTAQSIMA 1\nGħamla tal-Parlament",
+      "metadata": {
+        "source_line_start": 230,
+        "source_line_end": 237
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Tifsir tal-Kapitolu IV",
+      "content": "Twaqqif ta’ Parlament.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 238,
+        "source_line_end": 243
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "KOSTITUZZJONI TA’ MALTA",
+      "content": "Għamla tal-Kamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 244,
+        "source_line_end": 247
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Għamla tal-Kamra tad-Deputati",
+      "content": "Kwalifiki ta’ membru tal-Kamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 248,
+        "source_line_end": 251
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Kwalifiki ta’ membru tal-Kamra tad-Deputati",
+      "content": "Skwalifiki ta’ membru tal-Kamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 252,
+        "source_line_end": 255
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "Skwalifiki ta’ membru tal-Kamra tad-Deputati",
+      "content": "Tiżmim ta’ kariga ta’ membri.",
+      "metadata": {
+        "source_line_start": 256,
+        "source_line_end": 259
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Tiżmim ta’ kariga ta’ membri",
+      "content": "Votazzjoni f’Elezzjonijiet.",
+      "metadata": {
+        "source_line_start": 260,
+        "source_line_end": 263
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Votazzjoni f’Elezzjonijiet",
+      "content": "Kwalifika ta’ eletturi.",
+      "metadata": {
+        "source_line_start": 264,
+        "source_line_end": 267
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Kwalifika ta’ eletturi",
+      "content": "Skwalifika ta’ eletturi.",
+      "metadata": {
+        "source_line_start": 268,
+        "source_line_end": 271
+      }
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Speaker u Deputy Speaker",
+      "content": "Twaqqif ta’ Kummissjoni Elettorali.",
+      "metadata": {
+        "source_line_start": 276,
+        "source_line_end": 279
+      }
+    },
+    {
+      "provision_ref": "s61a",
+      "section": "61A",
+      "title": "Distretti elettorali",
+      "content": "Għawdex u l-gżejjer tal-Arċipelagu Malti minbarra l-Gżira ta’ Malta\nm’għandhomx jinqasmu.",
+      "metadata": {
+        "source_line_start": 286,
+        "source_line_end": 287
+      }
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Distretti elettorali",
+      "content": "Deċiżjoni ta’ kwistjonijiet dwar membru.",
+      "metadata": {
+        "source_line_start": 292,
+        "source_line_end": 295
+      }
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Distretti elettorali",
+      "content": "Skrivan tal-Kamra tad-Deputati u persunal tiegħu.",
+      "metadata": {
+        "source_line_start": 296,
+        "source_line_end": 299
+      }
+    },
+    {
+      "provision_ref": "s64a",
+      "section": "64A",
+      "title": "Distretti elettorali",
+      "content": "Kariga ta’ Ombudsman.\nTAQSIMA 2\nSetgħat u Proċedura tal-Parlament",
+      "metadata": {
+        "source_line_start": 300,
+        "source_line_end": 305
+      }
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "Setgħat u Proċedura tal-Parlament",
+      "content": "Setgħat ta’ għemil ta’ liġijiet.",
+      "metadata": {
+        "source_line_start": 306,
+        "source_line_end": 309
+      }
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Setgħat ta’ għemil ta’ liġijiet",
+      "content": "Tibdil ta’ din il-Kostituzzjoni.",
+      "metadata": {
+        "source_line_start": 310,
+        "source_line_end": 313
+      }
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "Tibdil ta’ din il-Kostituzzjoni",
+      "content": "Regolar tal-proċedura fil-Kamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 314,
+        "source_line_end": 317
+      }
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Regolar tal-proċedura fil-Kamra tad-Deputati",
+      "content": "Ġurament li għandu jittieħed mill-membri tal-Kamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 318,
+        "source_line_end": 321
+      }
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Votazzjoni",
+      "content": "Mod ta’ eżerċizzju tas-setgħat leġislativi.",
+      "metadata": {
+        "source_line_start": 334,
+        "source_line_end": 337
+      }
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "Votazzjoni",
+      "content": "Restrizzjoni ta’ ċerti miżuri finanzjarji.",
+      "metadata": {
+        "source_line_start": 338,
+        "source_line_end": 341
+      }
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Votazzjoni",
+      "content": "Ilsien tal-Liġijiet.\nTAQSIMA 3\nSejħa, proroga u xoljiment",
+      "metadata": {
+        "source_line_start": 342,
+        "source_line_end": 347
+      }
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "Proroga u xoljiment tal-Parlament",
+      "content": "Elezzjonijiet ġenerali.\nL-Esekuttiv",
+      "metadata": {
+        "source_line_start": 356,
+        "source_line_end": 361
+      }
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Proroga u xoljiment tal-Parlament",
+      "content": "Awtorità esekuttiva ta’ Malta.",
+      "metadata": {
+        "source_line_start": 362,
+        "source_line_end": 365
+      }
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "Proroga u xoljiment tal-Parlament",
+      "content": "Il-Kabinett.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 366,
+        "source_line_end": 373
+      }
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "Il-Kabinett",
+      "content": "Tiżmim ta’ kariga ta’ Ministri.",
+      "metadata": {
+        "source_line_start": 378,
+        "source_line_end": 381
+      }
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "Il-Kabinett",
+      "content": "Assenjazzjoni ta’ portafolji lill-Ministri.",
+      "metadata": {
+        "source_line_start": 382,
+        "source_line_end": 385
+      }
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Il-Kabinett",
+      "content": "Aġent Prim Ministru.",
+      "metadata": {
+        "source_line_start": 386,
+        "source_line_end": 389
+      }
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "Ministri temporanji",
+      "content": "Eżerċizzju tal-funzjonijiet tal-President.",
+      "metadata": {
+        "source_line_start": 394,
+        "source_line_end": 397
+      }
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Ministri temporanji",
+      "content": "Eżerċizzju tal-funzjonijiet tal-Prim Ministru.",
+      "metadata": {
+        "source_line_start": 398,
+        "source_line_end": 401
+      }
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Ministri temporanji",
+      "content": "Il-President għandu jkun informat dwar ħwejjeġ ta’ gvern.",
+      "metadata": {
+        "source_line_start": 402,
+        "source_line_end": 405
+      }
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "Segretarji Parlamentari",
+      "content": "Ġurament li għandu jittieħed mill-Ministri.",
+      "metadata": {
+        "source_line_start": 410,
+        "source_line_end": 413
+      }
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "Segretarji Parlamentari",
+      "content": "Kap tal-Oppożizzjoni.",
+      "metadata": {
+        "source_line_start": 414,
+        "source_line_end": 417
+      }
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "Avukat tal-Istat",
+      "content": "Segretarji Permanenti u kapijiet ta’ dipartimenti tal-gvern.",
+      "metadata": {
+        "source_line_start": 426,
+        "source_line_end": 429
+      }
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "Avukat tal-Istat",
+      "content": "Prerogattiva ta’ maħfra.",
+      "metadata": {
+        "source_line_start": 430,
+        "source_line_end": 433
+      }
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "Avukat tal-Istat",
+      "content": "Segretarju tal-Kabinett.\nIl-Ġudizzjarju",
+      "metadata": {
+        "source_line_start": 434,
+        "source_line_end": 439
+      }
+    },
+    {
+      "provision_ref": "s96a",
+      "section": "96A",
+      "title": "Qrati Superjuri",
+      "content": "Kumitat dwar il-Ħatriet tal-Ġudikatura.",
+      "metadata": {
+        "source_line_start": 448,
+        "source_line_end": 451
+      }
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "Qrati Superjuri",
+      "content": "Tiżmim ta’ kariga ta’ mħallfin.",
+      "metadata": {
+        "source_line_start": 452,
+        "source_line_end": 455
+      }
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "Qrati Superjuri",
+      "content": "Aġent Prim Imħallef u aġenti mħallfin.",
+      "metadata": {
+        "source_line_start": 456,
+        "source_line_end": 459
+      }
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "Qrati Inferjuri",
+      "content": "Ġuramenti li għandhom jittieħdu minn imħallfin u maġistrati.",
+      "metadata": {
+        "source_line_start": 468,
+        "source_line_end": 471
+      }
+    },
+    {
+      "provision_ref": "s101a",
+      "section": "101A",
+      "title": "Qrati Inferjuri",
+      "content": "Kummissjoni għall-Amministrazzjoni tal-Ġustizzja.\nFinanzi",
+      "metadata": {
+        "source_line_start": 472,
+        "source_line_end": 477
+      }
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "Fond Konsolidat",
+      "content": "Awtorizzazzjoni ta’ nefqa mill-Fond Konsolidat.",
+      "metadata": {
+        "source_line_start": 482,
+        "source_line_end": 485
+      }
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "Fond Konsolidat",
+      "content": "Awtorizzazzjoni ta’ nefqa qabel approprjazzjoni.",
+      "metadata": {
+        "source_line_start": 486,
+        "source_line_end": 489
+      }
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "Fond Konsolidat",
+      "content": "Fond ta’ Kontinġenzi.",
+      "metadata": {
+        "source_line_start": 490,
+        "source_line_end": 493
+      }
+    },
+    {
+      "provision_ref": "s107",
+      "section": "107",
+      "title": "Dejn pubbliku",
+      "content": "Rimunerazzjoni dwar ċerti karigi.",
+      "metadata": {
+        "source_line_start": 498,
+        "source_line_end": 501
+      }
+    },
+    {
+      "provision_ref": "s108",
+      "section": "108",
+      "title": "Dejn pubbliku",
+      "content": "Awditur Ġenerali.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 502,
+        "source_line_end": 512
+      }
+    },
+    {
+      "provision_ref": "s110",
+      "section": "110",
+      "title": "Kummissjoni dwar is-Servizz Pubbliku",
+      "content": "Ħatra, eċċ., ta’ uffiċjali pubbliċi.",
+      "metadata": {
+        "source_line_start": 517,
+        "source_line_end": 520
+      }
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "Kummissjoni dwar is-Servizz Pubbliku",
+      "content": "Rappreżentanti prinċipali ta’ Malta fl-esteru.",
+      "metadata": {
+        "source_line_start": 521,
+        "source_line_end": 524
+      }
+    },
+    {
+      "provision_ref": "s112",
+      "section": "112",
+      "title": "Kummissjoni dwar is-Servizz Pubbliku",
+      "content": "Ħatra bi trasferiment dwar xi karigi.",
+      "metadata": {
+        "source_line_start": 525,
+        "source_line_end": 528
+      }
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "Kummissjoni dwar is-Servizz Pubbliku",
+      "content": "Protezzjoni ta’ drittijiet ta’ pensjoni.",
+      "metadata": {
+        "source_line_start": 529,
+        "source_line_end": 532
+      }
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "Kummissjoni dwar is-Servizz Pubbliku",
+      "content": "Għoti u tiżmim ta’ pensjonijiet, eċċ.",
+      "metadata": {
+        "source_line_start": 533,
+        "source_line_end": 536
+      }
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "Għoti u tiżmim ta’ pensjonijiet, eċċ",
+      "content": "Protezzjoni tal-Kummissjoni dwar is-Servizz Pubbliku minn proċeduri\nlegali.\nKunsilli Lokali",
+      "metadata": {
+        "source_line_start": 537,
+        "source_line_end": 543
+      }
+    },
+    {
+      "provision_ref": "s115a",
+      "section": "115A",
+      "title": "Kunsilli Lokali",
+      "content": "Kunsilli Lokali.\nMixxellanji",
+      "metadata": {
+        "source_line_start": 544,
+        "source_line_end": 546
+      }
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "Mixxellanji",
+      "content": "Azzjonijiet dwar validità ta’ liġijiet.",
+      "metadata": {
+        "source_line_start": 547,
+        "source_line_end": 550
+      }
+    },
+    {
+      "provision_ref": "s117",
+      "section": "117",
+      "title": "Azzjonijiet dwar validità ta’ liġijiet",
+      "content": "Projbizzjoni ta’ ċerti assoċjazzjonijiet.",
+      "metadata": {
+        "source_line_start": 551,
+        "source_line_end": 554
+      }
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "Projbizzjoni ta’ ċerti assoċjazzjonijiet",
+      "content": "Awtorità dwar ix-Xandir.",
+      "metadata": {
+        "source_line_start": 555,
+        "source_line_end": 558
+      }
+    },
+    {
+      "provision_ref": "s119",
+      "section": "119",
+      "title": "Awtorità dwar ix-Xandir",
+      "content": "Funzjoni tal-Awtorità dwar ix-Xandir.",
+      "metadata": {
+        "source_line_start": 559,
+        "source_line_end": 562
+      }
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "Kummissjoni dwar l-Impiegi",
+      "content": "Setgħat u proċedura ta’ Kummissjonijiet.",
+      "metadata": {
+        "source_line_start": 567,
+        "source_line_end": 570
+      }
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "Kummissjoni dwar l-Impiegi",
+      "content": "Ħatriet mill-ġdid, eċċ.",
+      "metadata": {
+        "source_line_start": 575,
+        "source_line_end": 578
+      }
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "Kummissjoni dwar l-Impiegi",
+      "content": "Tifsir.\n\nIT-TIENI SKEDA:\n\nĠuramenti ta’ Kariga\n\nIT-TIELET SKEDA:\n\nĠurament ta’ Lealtà\n\nIR-RABA’ SKEDA:\n\nElenku ta’ Pajjiżi tal-Commonwealth minbarra Malta\n\nKOSTITUZZJONI TA’ MALTA\n\nKOSTITUZZJONI TA’ MALTA\nL-Ordni tal-1964 dwar l-Indipendenza ta’ Malta, kif emendata bl-Atti:\nXLI tal-1965, XXXVII tal-1966, IX tal-1967, XXV1 tal-1970, XLVII tal1972, LVII, LVIII tal-1974, XXXVIII tal-1976, X tal-1977, XXIX tal-1979,\nIV tal-1987, XXIII tal-1989; bil-Prok1ami: Nri.II u VI tal-1990; bl-Atti\nXIX tal-1991 u IX tal-1994; bil-Prok1ami Nri. IV tal-1995 u III tal-1996, u\nbl-Atti: XI tal-1996, XVII tal-1997, III tal-2000, XIII tal-2001, V tal-2003,\nXIV u XXI tal-2007, XX tal-2011, VII u X tal-2014; XXIV tal-2015, XLII u\nXLIV tal-2016 .u IV tal-2018. ,XXII tal-2018 u III tal-2019 u XXV tal-2019. u\nXIX , XLII , XLIII, XLIV, XLV u XLI u LV tal-2020 u XII u XX u XXVI tal2021 , XVI tal-2022, III tal-2024 u XVI u XXXIX tal-2025.\n\n21 ta’ Settembru 1964*\nIr-Repubblika ta’ Malta\n\nSostitwit:\nLVIII.1974.2.\nIr-Repubblika u tterritorji tagħha.\nSostitwit:\nLVIII.1974.3.\nEmendat:\nIV.1987.2.",
+      "metadata": {
+        "source_line_start": 579,
+        "source_line_end": 623
+      }
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IV.1987.2",
+      "content": "(1) Malta hija repubblika demokratika bbażata fuq ixxogħol u fuq ir-rispett għad-drittijiet u l-libertajiet fundamentali\ntal-individwu.\n(2) It-territorji ta’ Malta jikkonsistu f’dawk it-territorji\nkompriżi f’Malta minnufih qabel il-ġurnata stabbilita, magħduda libħra territorjali tagħhom, jew dawk it-territorji u ibħra li lParlament jista’ minn żmien għal żmien jistabbilixxi b’liġi.\n(3) Malta hija stat newtrali li jrid attivament jilħaq il-paċi, issiġurtà u l-progress soċjali fost in-nazzjonijiet kollha billi jħaddan\npolitika ta’ non-allineament u jirrofta li jipparteċipa f’kull alleanza\nmilitari. Dan l-istatus jimplika b’mod partikolari, illi:\n(a) l-ebda bażi militari barranija ma titħalla fuq territorju\nMalti;\n(b) l-ebda faċilitajiet militari f’Malta ma jitħallew jiġu\nwżati minn xi forzi barranin ħlief fuq talba tal-Gvern\nta’ Malta, u biss fil-każi li ġejjin:\n(i)\n\nfl-eżerċizzju tal-jedd naturali ta’ difiża leġittima\nf’każ ta’ vjolazzjoni armata tal-area li fuqha rRepubblika ta’ Malta għandha sovranità, jew\nbiex tieħu miżuri jew azzjonijiet deċiżi millKunsill tas-Sigurtà tal-Ġnus Magħquda; jew\n(ii) kull meta jkun hemm theddida għas-sovranità,\nindipendenza, in-newtralità, l-unità jew lintegrità territorjali tar-Repubblika ta’ Malta;\n(ċ) minbarra fil-każi msemmija hawn fuq, l-ebda\nfaċilitajiet oħra f’Malta ma jitħallew jintużaw b’tali\nmod u b’tali miżura li jwasslu għall-preżenza f’Malta\nta’ konċentrazzjoni ta’ forzi barranin;\n(d) minbarra fil-każi msemmija hawn fuq, l-ebda persunal\nmilitari barrani ma jitħalla fuq territorju Malti, ħlief\ndak il-persunal militari li jkun qed jagħmel, jew jgħin\nbiex jitwettqu, xogħlijiet jew attivitajiet ċivili, u ħlief\n*Ara L-Ordni tat-2 ta’ Settembru, 1964 dwar l-Indipendenza ta’ Malta.\n\nKOSTITUZZJONI TA’ MALTA\n\ngħadd reġonevoli ta’ persunal tekniku militari li jgħin\nfid-difiża tar-Repubblika ta’ Malta;\n(e) it-tarznari tar-Repubblika ta’ Malta jintużaw għal\nskopijiet kummerċjali ċivili, iżda jistgħu wkoll\njintużaw, f’limiti raġonevoli ta’ żmien u għadd, għattiswija ta’ bastimenti militari li jkunu tpoġġew\nf’qagħda li ma jistgħux jiġġieldu jew għall-bini ta’\nvapuri; u skont il-prinċipji ta’ non-allineament limsemmija tarznari jiġu mċaħħda lill-bastimenti\nmilitari taż-żewġ superpotenzi.",
+      "metadata": {
+        "source_line_start": 624,
+        "source_line_end": 665
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "militari taż-żewġ superpotenzi",
+      "content": "(1) Ir-reliġjon\nApostolika Rumana.\n\nta’\n\nMalta\n\nhija\n\nr-Reliġjon\n\nKattolika\n\nReliġjon.\nSostitwit:\nLVIII.1974.4\n\n(2) L-awtoritajiet tal-Knisja Kattolika Apostolika Rumana\ngħandhom id-dmir u l-jedd li jgħallmu liema prinċipji huma tajbin\nu liema huma ħżiena.\n(3) It-tagħlim reliġjuż tal-fidi Kattolika Apostolika Rumana\ngħandu jkun provdut fl-iskejjel kollha tal-Istat bħala parti milledukazzjoni obbligatorja.",
+      "metadata": {
+        "source_line_start": 666,
+        "source_line_end": 687
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "(3) It-tagħlim reliġjuż tal-fidi Kattolika Apostolika Rumana",
+      "content": "(1) Il-Bandiera Nazzjonali ta’ Malta tikkonsisti f’żewġ\nstrixxi vertikali ndaqs, bajda mal-arblu u ħamra n-naħa ta’ barra.\n(2) Rappreżentazzjoni tal-George Cross mogħti lil Malta millMaestà Tiegħu r-Re Ġorġ Sitta fil-15 ta’ April, 1942 tkun qiegħda,\nimberfla bl-aħmar, fir-rokna tal-istrixxa l-bajda.",
+      "metadata": {
+        "source_line_start": 688,
+        "source_line_end": 691
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "imberfla bl-aħmar, fir-rokna tal-istrixxa l-bajda",
+      "content": "L-Innu Nazzjonali ta’ Malta huwa \"L-Innu Malti\" li jibda bilkliem \"Lil din l-Art Ħelwa l-Omm li tatna isimha\", bis-sebgħa u\ngħoxrin (27) ta’ Diċembru jkun Jum l-Innu Malti.",
+      "metadata": {
+        "source_line_start": 692,
+        "source_line_end": 694
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "għoxrin (27) ta’ Diċembru jkun Jum l-Innu Malti",
+      "content": "(1)\n\nL-ilsien Nazzjonali ta’ Malta huwa l-ilsien Malti.\n\nBandiera\nNazzjonali.\nSostitwit:\nLVIII.1974.5.\n\nInnu Nazzjonali.\nSostitwit:\nXXXIX.2025.2.\nIlsien.\n\n(2) L-ilsien Malti u l-ilsien Ingliż u dawk l-ilsna l-oħra li\njistgħu jiġu preskritti mill-Parlament (b’liġi mgħoddija b’mhux\nanqas minn żewġ terzi tal-membri kollha tal-Kamra tad-Deputati)\nikunu l-ilsna uffiċjali ta’ Malta u l-Amministrazzjoni tista’ għallfinijiet kollha uffiċjali tuża kull wieħed minn dawk l-ilsna:\nIżda kull persuna tista’ tindirizza ruħha lejn lAmministrazzjoni f’kull wieħed mill-ilsna uffiċjali u t-tweġiba talAmministrazzjoni għal hekk tkun b’dak l-ilsien.\n(3)\n\nL-ilsien tal-Qrati jkun l-ilsien Malti:\n\nIżda l-Parlament jista’ jagħmel dak il-provvediment għallużu tal-ilsien Ingliż f ’dawk il-każijiet u taħt dawk ilkondizzjonijiet li jista’ jippreskrivi.\n(4) Il-Kamra tad-Deputati tista’, meta tirregola l-proċedura\ntagħha, tistabbilixxi l-ilsien jew l-ilsna li għandhom ikunu wżati fi\nproċeduri u annotazzjonijiet parlamentari.",
+      "metadata": {
+        "source_line_start": 695,
+        "source_line_end": 723
+      }
+    },
+    {
+      "provision_ref": "s5a",
+      "section": "5A",
+      "title": "Ilsien",
+      "content": "Il-Belt Kapitali ta’ Malta hija Il-Belt Valletta (Città\nUmilissima).\n\nBelt Kapitali.\n\nMiżjud:\nXXXIX.2025.3.\n\nIl-Kostituzzjoni\ntkun il-liġi\nsuprema.\nSostitwit:\nLVII.1974.2;\nLVIII.1974.69.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 724,
+        "source_line_end": 741
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Dritt għal xogħol",
+      "content": "L-Istat jirrikonoxxi d-dritt taċ-ċittadini kollha għal xogħol\nu għandu jġib ’il quddiem dawk il-kondizzjonijiet li jagħmlu dan\nid-dritt effettiv.\n\nTmexxija ’l\nquddiem ta’\nkultura, eċċ.",
+      "metadata": {
+        "source_line_start": 752,
+        "source_line_end": 760
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "edukattivi",
+      "content": "(1) L-istudenti kapaċi u meritevoli, ukoll jekk mingħajr\nrisorsi finanzjarji, għandhom dritt li jilħqu l-ogħla gradi ta’\nedukazzjoni.\n(2) L-Istat għandu jagħti effett għal dan il-prinċipju permezz\nta’ boroż ta’ studju, ta’ kontribuzzjonijiet lill-familji tal-istudenti u\nprovvedimenti oħra fuq il-bażi ta’ eżamijiet kompetittivi.\n\nProtezzjoni ta’\nxogħol.\n\nĦinijiet ta’ xogħol.",
+      "metadata": {
+        "source_line_start": 798,
+        "source_line_end": 809
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Tifsir",
+      "content": "Billi kull persuna f’Malta hija intitolata għad-drittijiet u\nlibertajiet fundamentali tal-individwu, jiġifieri, id-dritt, tkun xi\ntkun ir-razza, post ta’ oriġini, fehmiet politiċi, kulur, twemmin,\nsess, orjentazzjoni sesswali jew identità tal-ġeneru tagħha, iżda\nsuġġett għar-rispett tad-drittijiet u l-libertajiet ta’ oħrajn u talinteress pubbliku, għal kull waħda u kollha kemm huma dawn li\nġejjin, jiġifieri-\n\nDrittijiet u\nlibertajiet\nfundamentali talindividwu.\nEmendat:\nX.2014.2.\n\n(a) il-ħajja, libertà, sigurtà tal-persuna, it-tgawdija ta’\nproprjetà u l-protezzjoni tal-liġi;\n(b) il-libertà ta’ kuxjenza, ta’ espressjoni u ta’ għaqda u\nassoċjazzjoni paċifika; u\n(ċ Ċ) ir-rispett għall-ħajja privata u familjari tiegħu,\nid-disposizzjonijiet li ġejjin ta’ dan il-Kapitolu jkollhom effett\nsabiex jagħtu protezzjoni għad-drittijiet u libertajiet imsemmija\nqabel, salvi dawk il-limitazzjonijiet ta’ dik il-protezzjoni kif\njinsabu f ’dawk id-disposizzjonijiet li huma limitazzjonijiet\nmaħsuba biex jiżguraw illi t-tgawdija tal-imsemmija drittijiet u\nlibertajiet minn xi individwu ma tippreġudikax id-drittijiet u\nlibertajiet ta’ oħrajn jew l-interess pubbliku.",
+      "metadata": {
+        "source_line_start": 1022,
+        "source_line_end": 1047
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "jew jekk tmut minħabba att leġittimu ta’ gwerra",
+      "content": "(1) Ħadd ma għandu jiġi pprivat mill-libertà personali\ntiegħu ħlief kif jista’ jkun awtorizzat b’liġi fil-każijiet li ġejjin,\njiġifieri (a) bħala konsegwenza tal-inkapaċità tiegħu li jwieġeb\ngħal akkuża kriminali;\n(b) fl-esekuzzjoni tas-sentenza jew ordni ta’ qorti, sew\nMalta sew band’oħra dwar reat kriminali li tiegħu ikun\nġie misjub ħati;\n(ċ) fl-esekuzzjoni tal-ordni ta’ qorti li tikkundannah għal\ndisprezz lejn dik il-qorti jew lejn qorti jew tribunal\nieħor jew fl-esekuzzjoni tal-ordni tal-Kamra tad-\n\nProtezzjoni minn\narrest jew\ndetenzjoni\narbitrarja.\nEmendat:\nIII.2024.3.\n\nKOSTITUZZJONI TA’ MALTA\nDeputati li tikkundannah għal disprezz lejha stess jew\nlejn il-membri tagħha jew għal ksur ta’ privileġġ;\n(d) fl-esekuzzjoni tal-ordni ta’ qorti magħmul biex jiżgura\ntwettiq ta’ xi obbligu impost lilu b’liġi;\n(e) sabiex jinġieb quddiem qorti fl-esekuzzjoni tal-ordni\nta’ qorti jew quddiem il-Kamra tad-Deputati flesekuzzjoni tal-ordni ta’ dik il-Kamra;\n(f)\n\nfuq suspett raġonevoli li huwa jkun ikkommetta, jew\nikun sejjer jikkommetti, reat kriminali;\n\n(g) fil-każ ta’ persuna li ma tkunx għalqet l-età ta’\ntmintax-il sena, għall-iskop tal-edukazzjoni u ġid\ntagħha;\n(h) sabiex jiġi evitat it-tixrid ta’ marda infettiva jew\nkontaġġuża;\n(i)\n\nfil-każ ta’ persuna li tkun, jew tkun raġonevolment\nsuspetta li tkun, ta’ moħħ marid, mogħtija għannarkotiċi jew xorb, jew vagabonda, għall-iskop talkura jew trattament tagħha jew protezzjoni talkomunità; jew\n\n(j)\n\nsabiex jiġi evitat id-dħul illeġittimu ta’ dik il-persuna\nf’Malta, jew sabiex tiġi effettwata l-espulsjoni, lestradizzjoni jew it-tneħħija leġittima oħra ta’ dik ilpersuna minn Malta jew it-teħid ta’ proċeduri dwar\nhekk jew sabiex tiġi mrażżna dik il-persuna waqt li\ntkun qed tiġi mgħoddija minn Malta fil-kors talestradizzjoni jew tneħħija tagħha bħala priġunier\nmisjub ħati minn pajjiż għal ieħor.\n\n(2) Kull min ikun arrestat jew detenut għandu jiġi nformat, filħin tal-arrest jew detenzjoni tiegħu, f ’ilsien li huwa jifhem, birraġunijiet tal-arrest jew detenzjoni tiegħu:\nIżda jekk interpretu jkun meħtieġ u ma jkunx disponibbli\nmalajr jew jekk ikun xort’oħra imprattikabbli li jiġu mħarsa ddisposizzjonijiet ta’ dan is-subartikolu fil-ħin tal-arrest jew\ndetenzjoni tiegħu, dawn id-disposizzjonijiet għandhom jiġu mħarsa\nkemm jista’ jkun malajr.\n(3)\n\nKull min jiġi arrestat jew detenut (a) sabiex jinġieb quddiem qorti fl-esekuzzjoni tal-ordni\nta’ qorti; jew\n(b) fuq suspett raġonevoli li jkun ikkommetta, jew li jkun\nsejjer jikkommetti, reat kriminali,\n\nu li ma jiġix meħlus, għandu jinġieb quddiem qorti mhux aktar\ntard minn tmienja u erbgħin siegħa wara; u jekk xi ħadd arrestat\njew detenut f’xi każ bħal dak li huwa msemmi fil-paragrafu (b) ta’\ndan is-subartikolu ma jiġix iġġudikat fi żmien raġonevoli, f’dak ilkaż, bla ħsara għal kull proċeduri oħra li jistgħu jinġiebu kontra\ntiegħu, huwa għandu jiġi meħlus jew bla kondizzjoni jew\nb’kondizzjonijiet raġonevoli, magħduda b’mod partikolari dawk ilkondizzjonijiet li jkunu meħtieġa raġonevolment biex jiġi żgurat li\nhuwa jidher f ’data aktar tard għall-kawża jew għall-proċeduri\n\nKOSTITUZZJONI TA’ MALTA\n\npreliminari għall-kawża:\nIżda l-Parlament jista’ b’liġi jipprovdi l-estensjoni, soġġetta\ngħal salvagwardji proċedurali adegwati u għall-awtorizzazzjoni ta’\nMaġistrat, tal-perjodu ta’ tmienja u erbgħin (48) siegħa li fih ilpersuna arrestata jew detenuta għandha titressaq quddiem qorti,\nb’perjodu ieħor li ma jaqbiżx it-tmienja u erbgħin (48) siegħa oħra jekk\nil-persuna arrestata jew detenuta tkun raġonevolment suspettata li\nwettqet reat li jista’ jwassal għal piena massima ta’ aktar minn tnax-il\n(12) sena priġunerija.\n(4) Kull min ikun arrestat jew detenut illegalment minn xi\npersuna oħra jkollu dritt għal kumpens għal hekk minn dik ilpersuna.\n(5) Ebda ħaġa li hemm fi jew li tkun magħmula bl-awtorità ta’\nxi liġi ma għandha titqies li tkun inkonsistenti ma’ jew bi ksur ta’\ndan l-artikolu safejn il-liġi in kwistjoni tawtorizza t-teħid matul dak\nil-perijodu ta’ emerġenza pubblika skont ma hu msemmi filparagrafu (a) jew (ċ) tas-subartikolu (2) tal-artikolu 47 ta’ din ilKostituzzjoni ta’ miżuri li jkunu raġonevolment ġustifikabbli\nsabiex tiġi affrontata s-sitwazzjoni li teżisti matul dak il-perijodu\nta’ emerġenza pubblika.\n(6) Jekk xi ħadd li jkun detenut legalment bis-saħħa biss ta’ liġi\nbħal dik imsemmija fis-subartikolu li jaħbat l-aħħar qabel dan hekk\njitlob f’xi żmien matul il-perijodu ta’ dik id-detenzjoni mhux qabel\nsitt xhur wara li jkun għamel l-aħħar talba bħal dik matul dak ilperijodu, il-każ tiegħu jiġi rivedut minn tribunal indipendenti u\nimparzjali mwaqqaf b’liġi u magħmul minn persuna jew persuni li\nkull waħda minnhom ikollha jew kellha kariga ġudizzjarja jew tkun\nkwalifikata biex tiġi maħtura għal kariga bħal dik f’Malta.\n(7) Wara xi reviżjoni minn tribunal skont is-subartikolu li\njaħbat l-aħħar qabel dan tal-każ ta’ xi persuna detenuta, it-tribunal\njista’ jagħmel rakkomandazzjonijiet dwar il-ħtieġa jew espedjenza\ntat-tkomplija tad-detenzjoni tagħha lill-awtorità li minnha -kienet\nġiet ordnata. iżda. kemm-il darba ma jkunx provdut xort,oħra\nb’liġi, dik l-awtorità ma tkunx obbligata taġixxi skont xi rak\nkomandazzjonijiet bħal dawk.",
+      "metadata": {
+        "source_line_start": 1068,
+        "source_line_end": 1173
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "trattament inuman",
+      "content": "(1) Ħadd ma għandu jkun assoġġettat għal piena jew\ntrattament inuman jew degradanti.\n(2) Ebda ħaġa li hemm fi jew magħmula skont l-awtorità ta’ xi\nliġi ma titqies li tkun inkonsistenti ma’ jew bi ksur ta’ dan lartikolu safejn il-liġi in kwistjoni tawtorizza l-għoti ta’ xi\ndeskrizzjoni ta’ piena li kienet legali f ’Malta minnufih qabel ilġurnata stabbilita.\n(3)\n\n(a) Ebda liġi ma għandha tipprovdi għall-impożizzjoni ta’\npieni kollettivi.\n(b) Ebda ħaġa f’dan is-subartikolu ma tipprekludi limpożizzjoni ta’ pieni kollettivi fuq il-membri ta’ korp\ndixxiplinat skont il-liġi li tirregola d-dixxiplina ta’ dak\nil-korp.\n\nProtezzjoni minn\nprivazzjoni ta’\nproprjetà bla\nkumpens.\nEmendat:\nLVIII.1974.11.",
+      "metadata": {
+        "source_line_start": 1206,
+        "source_line_end": 1225
+      }
+    },
+    {
+      "provision_ref": "s52a",
+      "section": "52A",
+      "title": "biss jiġu mħassra, emendati jew sostitwiti b’abbozz biex isir Att",
+      "content": "(1)Jekk f’elezzjoni ġenerali li tkun ikkontestata minn żewġ\npartiti politiċi jew aktar u li fiha l-kandidati ta’ żewġ partiti biss\nikunu eletti jew f ’każ ta’ riżultat ta’ elezzjoni kif provdut fissubparagrafi (i) u (ii) tal-proviso tas-subartikolu (1) tal-artikolu 52\nu fil-każ li n-numru ta’ Membri tal-Parlament tas-sess l-inqas\nrappreżentat, elett bis-saħħa tal-artikolu 52, inkluż dawk il-membri\neletti f’elezzjoni każwali skont ir-regolamenti rilevanti, huwa inqas\nminn erbgħin fil-mija (40%) tal-Membri kollha tal-Parlament,\nallura n-numru ta’ Membri tal-Parlament għandu jiżdied b’mhux\naktar minn tnax (12)-il Membru tas-sess l-inqas rappreżentat:\nIżda n-numru ta’ Membri Parlamentari tas-sess l-inqas\nrappreżentat elett bis-saħħa tal-artikolu 52 miżjud mal-membri tassess l-inqas rappreżentat elett bis-saħħa ta’ dan l-artikolu ma għandux\njaqbeż l-erbgħin fil-mija (40%) tan-numru totali ta’ Membri eletti talParlament li jifforma l-Kamra.\nIl-kandidati eletti bis-saħħa ta’ dan l-artikolu għandhom ikunu\nmqassma ugwalment bejn il-partit b’maġġoranza assoluta jew il-partit\nb’maġġoranza relattiva u l-partit b’minoranza.\n(2)\nDak il-kandidat jew il-kandidati li jagħmlu parti mis-sess linqas rappreżentat u li jkunu kandidati tal-partit jew tal-partiti li\ngħandhom jiġu akkreditati bis-siġġijiet addizzjonali, u li jkunu ġew\nakkreditati mill-Kummissjoni Elettorali fl-aħħar għadd bl-ogħla jew binnumru ta’ voti li jmiss l-aktar għoli mingħajr ma jkunu ġew eletti,\nirrispettivament mid-distrett fejn jinkiseb dak l-ogħla jew in-numru ta’\nvoti li jmiss l-aktar għoli, għandhom jiġu ddikjarati mill-Kummissjoni\nElettorali bħala eletti biex jimlew is-siġġijiet addizzjonali maħluqa missubartikolu (1):\nIżda f’każ li n-numru ta’ kandidati stabbiliti taħt dan lartikolu ma jintlaħaqx, wara l-applikazzjoni tas-subartikolu\npreċedenti, għandhom ikunu ddikjarati eletti mill-Kummissjoni\n\nKOSTITUZZJONI TA’ MALTA\n\nElettorali biex jimlew il-bqija tas-siġġijiet addizzjonali maħluqa minn\ndan l-artikolu, dawk il-kandidati li jagħmlu parti mis-sess l-inqas\nrappreżentat, li jkunu kandidati tal-partiti li għandhom jiġu akkreditati\nbis-siġġijiet addizzjonali u li ġew gradati fuq bażi nazzjonali millKummissjoni Elettorali bl-ogħla jew bin-numru li jmiss l-aktar għoli\nta’ kwota perċentwali miksuba fuq il-bażi tal-għadd finali tal-vot\nrispettiv tagħhom, qabel l-eliminazzjoni, b’rabta mal-kwota taddistrett elettorali kkontestat:\nIżda wkoll f’każ li n-numru ta’ kandidati stabbiliti taħt dan\nl-artikolu ma jintlaħaqx kif previst f’dan is-subartikolu, is-siġġijiet li\njibqgħu vakanti għandhom jimtlew bl-għażla ta’ Membru jew Membri\nmill-Kamra u dak il-Membru jew Membri għandhom ikunu kwalifikati\nbiex ikunu eletti bħala Membru tal-Kamra kif stabbilit taħt l-artikolu\n53, ma għandhomx ikunu soġġetti għal ebda skwalifika għas-sħubija\nfil-Kamra kif provdut taħt l-artikolu 54 u għandhom jappartjenu għassess l-inqas rappreżentat.\n(3)\nGħall-finijiet ta’ dan l-artikolu, kandidati eletti jew li ma\njkunux ġew eletti li huma identifikati bħala newtrali fir-rigward talġeneru fid-dokumentazzjoni uffiċjali, għandhom jingħaddu mas-sess linqas rappreżentat.\n(4) Dan l-artikolu għandu jibqa’ fis-seħħ sal-iskadenza tal-perjodu\nta’ għoxrin (20) sena mid-data li jidħol fis-seħħ, sakemm ma jiġix\nimħassar jew imdaħħal mill-ġdid bi jew mingħajr modifika permezz\nta’ Att tal-Parlament skont id-dispożizzjonijiet ta’ din il-Kostituzzjoni.",
+      "metadata": {
+        "source_line_start": 2183,
+        "source_line_end": 2232
+      }
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "dwar l-elezzjoni ta’ membri tal-Kamra tad-Deputati",
+      "content": "(1) Meta l-Kamra tad-Deputati tiltaqa’ għall-ewwel darba\nwara xi elezzjoni ġenerali u qabel ma tipproċedi għat-tmexxija ta’\nxi xogħol ieħor, għandha teleġġi persuna biex tkun l-iSpeaker talKamra; u jekk il-kariga ta’ Speaker issir vakanti f’xi żmien qabel\nix-xoljiment sussegwenti tal-Parlament, il-Kamra għandha, kemm\njista’ jkun malajr, teleġġi persuna oħra għal dik il-kariga.\n(2)\n\nL-iSpeaker jista’ jiġi elett jew (a) minn fost persuni li jkunu membri tal-Kamra tadDeputati, imma li ma jkunux Ministri jew Segretarji\nParlamentari; jew\n(b) minn fost persuni li ma jkunux membri tal-Kamra tadDeputati u jkunu kwalifikati għal elezzjoni bħala\nmembri tagħha.\n\n(3) Meta l-Kamra tad-Deputati tiltaqa’ l-ewwel darba wara xi\nelezzjoni ġenerali u qabel ma tipproċedi għat-tmexxija ta’ xi\nxogħol ieħor ħlief l-elezzjoni tal-iSpeaker, il-Kamra għandha\nteleġġi membru tal-Kamra, li ma jkunx Ministru jew Segretarju\nParlamentari, biex ikun Deputy Speaker tal-Kamra; u jekk il-kariga\nta’ Deputy Speaker issir vakanti f ’xi żmien qabel ix-xoljiment\nsussegwenti tal-Parlament, il-Kamra għandha, malli jkun\nkonvenjenti, teleġġi membru ieħor bħal dak għal dik il-kariga.\n(4) Persuna għandha tivvaka l-kariga ta’ Speaker jew Deputy\nSpeaker (a) fil-każ ta’ Speaker elett minn fost il-membri tal-Kamra\ntad-Deputati jew fil-każ tad-Deputy Speaker (i)\n\njekk itemm milli jkun membru tal-Kamra:\nIżda l-iSpeaker ma għandux jivvaka lkariga minħabba biss li jkun temm milli jkun\nmembru\ntal-Kamra\nmax-xoljiment\ntalParlament, sakemm il-Kamra tiltaqa’ għallewwel darba wara dak ix-xoljiment;\n(ii) jekk jiġi maħtur biex ikun Ministru jew\nSegretarju Parlamentari;\n\nSpeaker u Deputy\nSpeaker.\n\nKOSTITUZZJONI TA’ MALTA\n(b) fil-każ ta’ Speaker elett minn fost persuni li ma jkunux\nmembri tal-Kamra tad-Deputati (i)\n\nmeta l-Kamra tiltaqa’ l-ewwel darba wara xi\nxoljiment tal-Parlament;\n(ii) jekk jinqalgħu xi ċirkostanzi li kienu jġegħluh li\njkun skwalifikat għal elezzjoni bħala membru\ntal-Kamra tad-Deputati;\n(ċ) jekk javża r-riżenja tiegħu tal-kariga tiegħu lill-Kamra\ntad-Deputati jew jekk b’kitba taħt idejh indirizzata, filkaż tal-iSpeaker lill-Iskrivan tal-Kamra u fil-każ tadDeputy Speaker lill-iSpeaker (jew, jekk il-kariga ta’\nSpeaker tkun vakanti jew l-iSpeaker ikun assenti minn\nMalta, lill-Iskrivan tal-Kamra) jirriżenja dik il-kariga;\njew\n(d) fil-każ tad-Deputy Speaker, jekk jiġi elett biex ikun\nSpeaker.\n(5)\n\n(a) Jekk, bis-saħħa tas-subartikolu (2) tal-artikolu 55 ta’\ndin il-Kostituzzjoni, l-iSpeaker jew id-Deputy Speaker\nikun meħtieġ li jtemm milli jaqdi l-funzjonijiet tiegħu\nbħala membru tal-Kamra tad-Deputati huwa għandu\njtemm ukoll milli jaqdi l-funzjonijiet tiegħu bħala\nSpeaker jew Deputy Speaker, skont il-każ, u dawk ilfunzjonijiet għandhom sakemm huwa jivvaka l-post\ntiegħu fil-Kamra jew jirriżumi l-qadi tal-funzjonijiet\ntal-kariga tiegħu, jiġu moqdija (i)\n\nfil-każ tal-iSpeaker, mid-Deputy Speaker jew,\njekk il-kariga ta’ Deputy Speaker tkun vakanti\njew id-Deputy Speaker ikun meħtieġ li jtemm\nmilli jaqdi l-funzjonijiet tiegħu bħala membru\ntal-Kamra\ntad-Deputati\nbis-saħħa\ntassubartikolu (2) tal-artikolu 55 ta’ din ilKostituzzjoni, minn dak il-membru tal-Kamra (li\nma jkunx Ministru jew Segretarju Parlamentari)\nkif il-Kamra tista’ teleġġi għal dan l-iskop;\n(ii) fil-każ tad-Deputy Speaker, minn dak il-membru\ntal-Kamra (li ma jkunx Ministru jew Segretarju\nParlamentari) kif il-Kamra tista’ teleġġi għal dan\nl-iskop.\n(b) Jekk l-iSpeaker jew Deputy Speaker jirreżumi l-qadi talfunzjonijiet tiegħu bħala membru tal-Kamra, skont iddisposizzjonijiet tas-subartikolu (2) tal-artikolu 55 ta’ din ilKostituzzjoni, huwa għandu jirreżumi wkoll il-qadi tal-funzjonijiet\ntiegħu ta’ Speaker jew Deputy Speaker, skont il-każ.\nTwaqqif ta’\nKummissjoni\nElettorali.\nEmendat:\nLVIII.1974.24.",
+      "metadata": {
+        "source_line_start": 2555,
+        "source_line_end": 2642
+      }
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "il-funzjonijiet",
+      "content": "(1) Il-Kummissjoni Elettorali għandha tirrivedi l-konfini\ntad-distretti elettorali msemmija fl-artikolu 56(1) ta’ din ilKostituzzjoni b’intervalli ta’ mhux anqas minn sentejn u mhux\niżjed minn ħames snin u tista’, skont id-disposizzjonijiet ta’ dan lartikolu, tbiddel dawk il-konfini safejn tqis mixtieq skont ir-riżultat\ntar-reviżjoni:\nIżda l-Kummissjoni għandha tagħmel reviżjoni bħal dik u,\nskont id-disposizzjonijiet ta’ dan l-artikolu, tbiddel l-imsemmija\nkonfini kull meta l-Parlament ikun għamel provvediment li jibdel\n\nDistretti elettorali.\nEmendat:\nLVIII.1974.25;\nXXI.2007.2.\n\nKOSTITUZZJONI TA’ MALTA\nin-numru ta’ distretti elettorali; u b’żieda l-Kummissjoni tista’\nf’kull żmien tagħmel reviżjoni bħal dik u, skont id-disposizzjonijiet\nta’ dan l-artikolu, tibdel l-imsemmija konfini safejn tqis\ndesiderabbli bħala konsegwenza tat-tiżmim ta’ ċensiment talpopolazzjoni bis-saħħa ta’ xi liġi.\n(2) Kull provvediment tal-Parlament li jibdel in-numru taddistretti elettorali għandu jibda jseħħ meta t-tibdil tal-konfini taddistretti elettorali li, skont id-disposizzjonijiet tas-subartikolu (1)\nta’ dan l-artikolu, huwa konsegwenzjali għalih jiġi fis-seħħ.\n(3) Kull meta jsir tibdil tal-konfini mill-Kummissjoni skont\ndan l-artikolu għandu jkollhom effett id-disposizzjonijiet li ġejjin:\n(a) il-Kummissjonarju Elettorali Prinċipali għandu\njgħarraf bit-tibdil, malajr kemm jista’ jkun wara li jsir,\nlill-Prim Ministru u lill-Kap tal-Oppożizzjoni;\n(b) mhux aktar tard minn xahrejn wara li jirċievi dak ittagħrif, il-Prim Ministru għandu jara li t-tibdil\njitqiegħed quddiem il-Kamra tad-Deputati biex jiġi\nkunsidrat minnha;\n(ċ) mhux aktar tard minn ħames xhur wara li l-Prim\nMinistru jirċievi dak it-tagħrif, il-Kamra tista’,\nb’riżoluzzjoni, jew tapprova t-tibdil jew tibagħtu lura\nlill-Kummissjoni biex terġa’ tikkunsidrah mill-ġdid;\n(d) wara li jgħaddu sitt xhur mid-data li fiha t-tibdil ikun\nġie mgħarraf lill-Prim Ministru, jew, jekk it-tibdil ikun\nġie approvat mill-Kamra, malli jiġi hekk approvat,\njew, jekk it-tibdil jintbagħat lura lill-Kummissjoni,\nwara li jgħaddu xahrejn minn meta hekk jintbagħat\nlura, il-Kummissjonarju Elettorali Prinċipali għandu\njieħu ħsieb li t-tibdil jiġi pubblikat fil-Gazzetta jew filforma oriġinali tiegħu jew, jekk ikun ġie modifikat\nmill-Kummissjoni, kif hekk modifikat; u\n(e) kull tibdil bħal dak għandu jibda jseħħ mal-ewwel\nxoljiment tal-Parlament wara li t-tibdil ikun ġie\npubblikat fil-Gazzetta skont il-paragrafu (d) ta’ dan issubartikolu:\nIżda ebda ħaġa f’dan il-paragrafu ma għandha\ntinftiehem li timpedixxi l-pubblikazzjoni ta’ xi reġistru\nelettorali jew xi ħtieġa oħra li għandha x’taqsam marreġistrazzjoni ta’ eletturi milli jiġu esegwiti skont ittibdil, taħt xi liġi li għal dak iż-żmien tkun isseħħ\nf’Malta, qabel dak ix-xoljiment.\n(4) Kull tibdil tal-konfini ta’ xi distrett elettorali skont dan lartikolu għandu jsir b’dak il-mod li jiżgura li, fiż-żmien meta lKummissjoni tagħmel ir-reviżjoni tagħha, in-numru miksub biddiviżjoni tal-elettorat totali fid-distrett (kif żgurat b’riferenza għarreġistru elettorali fis-seħħ dak iż-żmien) bin-numru ta’ membri li\ngħandhom jiġu eletti għall-Kamra tad-Deputati minn dak id-distrett\nikun kemm jista’ jkun daqs il-kwota elettorali kemm ikun\nraġonevolment prattikabbli:\nIżda kull tibdil bħal dak jista’ jsir b’dak il-mod li n-numru\n\nKOSTITUZZJONI TA’ MALTA\nta’ eletturi f ’dak id-distrett ikun, fiż-żmien meta l-Kummissjoni\ntagħmel ir-reviżjoni tagħha, akbar jew anqas mill-kwota elettorali\nmoltiplikata bin-numru ta’ membri li għandhom ikunu hekk eletti,\niżda f’ebda każ b’aktar minn ħamsa fil-mija, sabiex jittieħed kont\ntal-viċinanza ġeografika, differenzi fid-densità ta’ popolazzjoni u\nfatturi oħra rilevanti:\nIżda wkoll il-Gżira ta’ Għawdex u l-gżejjer tal-Arċipelagu\nMalti minbarra l-Gżira ta’ Malta għandhom flimkien ikunu ttrattati\nbħala distrett elettorali wieħed u ma jistgħux jinqasmu bejn żewġ\ndistretti elettorali jew aktar.\n(4A) Il-konfini tad-distretti elettorali għall-fini ta’ xi\nelezzjonijiet ġenerali li jsiru wara x-xoljiment tal-Parlament wara l1 ta’ Settembru 2007 għandhom ikunu dawk il-konfini li kienu\njeżistu f ’dik id-data flimkien ma’ dawk l-aġġustamenti li jsiru\nskont id-disposizzjonijiet tal-proviso li hemm mas-subartikolu (4B)\nta’ dan l-artikolu li jistgħu jkunu meħtieġa sabiex id-distretti\ne l e tt o r a l i f ’ da w k l- e l e z z j o n i j i e t i k u nu j i k k on f o r m a w m a d disposizzjonijiet tat-tieni proviso li hemm mas-subartikolu (4) ta’\ndan l-artikolu u tal-artikolu 61A ta’ din il-Kostituzzjoni.\n(4B) Minkejja d-disposizzjonijiet tas-subartikolu (1) ta’ dan lartikolu, il-Kummissjoni Elettorali m’għandhiex tirrevedi l-konfini\ntad-distretti elettorali kif dawn ikunu jeżistu fl-1 ta’ Settembru\n2007 ħlief wara l-elezzjonijiet ġenerali li jsiru minnufih wara xxoljiment tal-Parlament minnufih wara dik id-data u dik irreviżjoni għandha ssir f ’dawk l-intervalli mid-data meta jiġi\npubblikat ir-riżultat uffiċjali ta’ dawk l-elezzjonijiet skont m’hemm\nprovdut fis-subartikolu (1) ta’ dan l-artikolu jew skont ma jista’\njkun xort’oħra meħtieġ skont id-disposizzjonijiet tal-istess\nsubartikolu:\nIżda l-Kummissjoni Elettorali għandha sat-30 ta’ Settembru\n2007 tirrevedi l-konfini tad-distretti elettorali safejn ikun meħtieġ,\nu daqstant kemm ikun meħtieġ biss, biex tagħmel dawk laġġustamenti f ’dawk il-konfini sabiex id-distretti elettorali jkunu\ngħall-fini ta’ dawk l-elezzjonijiet jikkonformaw maddisposizzjonijiet tas-subartikolu (4) ta’ dan l-artikolu; u dawn laġġustamenti għandhom, minkejja kull disposizzjoni oħra ta’ dan lartikolu, jiġu fis-seħħ bil-pubblikazzjoni tar-reġistru kif korrett fit30 ta’ Settembru 2007.\n(5) Għall-finijiet ta’ kull reviżjoni magħmula skont dan lartikolu, \"kwota elettorali\" tfisser in-numru miksub bid-diviżjoni\ntal-elettorat totali ta’ Malta (kif żgurat mir-reġistru elettorali fisseħħ fiż-żmien meta l-Kummissjoni tagħmel dik ir-reviżjoni) binnumru totali ta’ membri li għandhom ikunu eletti għall-Kamra tadDeputati fl-elezzjoni ġenerali li ssir wara x-xoljiment sussegwenti\ntal-Parlament.\n(6) It-tmexxija ta’ elezzjonijiet f’kull distrett elettorali u ta’\nkull votazzjoni meħuda skont id-disposizzjonijiet tal-artikolu 66(3)\nta’ din il-Kostituzzjoni tkun suġġetta għad-direzzjoni u sorveljanza\ntal-Kummissjoni Elettorali.\n\nGħawdex u lgżejjer talArċipelagu Malti\nminbarra l-Gżira\nta’ Malta\nm’għandhomx\njinqasmu.\nMiżjud:\nXXI.2007.3.\nEmendat:\nXX.2021.4.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 2682,
+        "source_line_end": 2790
+      }
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "distrett elettorai fil-Gżira ta’ Malta n-numru totali tad-distretti",
+      "content": "Kull meta l-post ta’ xi membru tal-Kamra tad-Deputati jsir\nvakanti l-vakanza għandha timtela bil-mod provdut bi jew skont xi\nliġi li għal dak iż-żmien tkun isseħħ f’Malta.",
+      "metadata": {
+        "source_line_start": 2824,
+        "source_line_end": 2826
+      }
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "qabel ma l-membri tal-Kamra jkunu ħadu u ffirmaw dak ilġurament",
+      "content": "(1) Għandu jippresjedi f’kull seduta tal-Kamra tadDeputati -\n\nMin jippresjedi filKamra tadDeputati.\n\n(a) l-iSpeaker; jew\n(b) fl-assenza tal-iSpeaker, id-Deputy Speaker; jew\n(ċ) fl-assenza tal-iSpeaker u tad-Deputy Speaker, dak ilmembru tal-Kamra (li ma jkunx Ministru jew\nSegretarju Parlamentari) li l-Kamra tista’ teleġġi għal\ndak l-iskop.\n(2) Riferenzi f’dan l-artikolu għal ċirkostanzi li fihom liSpeaker jew id-Deputy Speaker ikun assenti jinkludu riferenzi għal\nċirkostanzi li fihom il-kariga ta’ Speaker jew Deputy Speaker tkun\nvakanti.",
+      "metadata": {
+        "source_line_start": 3092,
+        "source_line_end": 3103
+      }
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "Min jippresjedi filKamra tadDeputati",
+      "content": "(1) Jekk f’xi seduta tal-Kamra tad-Deputati xi membru li\njkun preżenti jiġbed l-attenzjoni tal-persuna li tkun qed tippresjedi\nfis-seduta għall-assenza ta’ quorum u, wara dak l-intervall li jista’\njkun preskritt fl-Ordnijiet Permanenti tal-Kamra, il-persuna li tkun\nqed tippresjedi f ’dik is-seduta tiżgura li quorum tal-Kamra jkun\ngħadu mhux preżenti, il-Kamra għandha tiġi aġġornata.\n(2)\n\nQuorum fil-Kamra\ntad-Deputati.\n\nGħall-finijiet ta’ dan l-artikolu (a) quorum tal-Kamra tad-Deputati jkun magħmul minn\nħmistax-il membru; u\n(b) il-persuna li tkun tippresjedi fis-seduta tal-Kamra ma\ntkunx magħduda fil-kalkolu jekk hemmx quorum\npreżenti.",
+      "metadata": {
+        "source_line_start": 3104,
+        "source_line_end": 3120
+      }
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "preżenti",
+      "content": "(1) Ħlief safejn ikun provdut xort’oħra f’din ilKostituzzjoni, kull kwistjoni proposta għal deċiżjoni fil-Kamra tadDeputati għandha tiġi deċiża b’maġġoranza tal-voti tal-membri\ntagħha preżenti u li jivvotaw.\n\nVotazzjoni.\n\n(2) L-iSpeaker ma għandux jivvota dwar xi kwistjoni jekk\nmhux meta l-voti jkunu ndaqs, f’liema każ huwa jkollu u jeżerċita\nvot deċiżiv.\n(3) Kull persuna oħra għandha, meta tippresjedi fil-Kamra tadDeputati, iżżomm il-vot tagħha oriġinali bħala membru u, jekk\ndwar xi kwistjoni, il-voti jkunu ndaqs, ikollha wkoll u teżerċita vot\ndeċiżiv.",
+      "metadata": {
+        "source_line_start": 3121,
+        "source_line_end": 3131
+      }
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Sessjonijiet talParlament",
+      "content": "(1) Kull sessjoni tal-Parlament għandha tibda f’dak iżżmien li l-President jista’ bi proklama jistabbilixxi u għandha\ntinżamm f ’dak il-post jew f ’dawk il-postijiet li l-President bi\nproklama, jew li l-Kamra tad-Deputati b’kull mod li jidhrilha\nxieraq, jistgħu minn żmien għal żmien jistabbilixxu.\n(2) Għandu jkun hemm sessjoni tal-Parlament għall-inqas\ndarba kull sena, hekk illi perijodu ta’ tnax-il xahar ma jgħaddix\nbejn l-aħħar seduta tal-Parlament f ’sessjoni waħda u l-ewwel\nseduta tiegħu fis-sessjoni sussegwenti.\n(3) Il-Kamra tad-Deputati għandha tiltaqa’ mhux aktar tard\nminn xahrejn wara l-pubblikazzjoni tar-riżultat uffiċjali ta’ xi\nelezzjoni ġenerali mill-Kummissjoni Elettorali f’ġurnata stabbilita\nmill-President.\n\nKOSTITUZZJONI TA’ MALTA",
+      "metadata": {
+        "source_line_start": 3192,
+        "source_line_end": 3206
+      }
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Sessjonijiet talParlament",
+      "content": "(1) Il-President jista’ f’kull żmien bi proklama jipproroga\njew ixolji l-Parlament.\n(2) Bla ħsara għad-disposizzjonijiet tas-subartikolu (3) ta’ dan\nl-artikolu, il-Parlament, jekk ma jkunx xolt aktar kmieni, għandu\njkompli għal ħames snin mid-data tal-ewwel seduta tiegħu wara xi\nxoljiment u għandu wara dan ixolji.\n\nProroga u\nxoljiment talParlament.\nEmendat:\nLVIII.1974.30.\n\n(3) F’kull żmien meta Malta tkun fi gwerra, il-Parlament jista’\nminn żmien għal żmien jestendi l-perijodu ta’ ħames snin speċifikat\nfis-subartikolu (2) ta’ dan l-artikolu għal mhux iżjed minn tnax-il\nxahar kull darba:\nIżda l-ħajja tal-Parlament ma għandhiex tiġi estiża skont\ndan is-subartikolu għal aktar minn ħames snin.\n(4) Jekk bejn xoljiment tal-Parlament u l-elezzjoni ġenerali\nsussegwenti ta’ membri tal-Kamra tad-Deputati tinħoloq\nemerġenza ta’ dik ix-xorta li, fil-fehma tal-Prim Ministru jkun\njeħtieġ li jerġa’ jissejjaħ il-Parlament, il-President jista’ bi\nproklama jsejjaħ il-Parlament li jkun ġie xolt biex jiltaqa’, u dak ilParlament għandu wara dan jitqies (ħlief għall-fini tal-artikolu 77\nu, dwar l-elezzjoni ġenerali sussegwenti, l-artikoli 61(3) u 66(6) ta’\ndin il-Kostituzzjoni) li ma jkunx ġie xolt iżda għandu jitqies (ħlief\nkif ingħad qabel) li jiġi xolt fid-data li fiha l-votazzjoni tkun\nkonkluża fl-elezzjoni ġenerali sussegwenti.\n(5) Fl-eżerċizzju tas-setgħat tiegħu skont dan l-artikolu lPresident għandu jaġixxi skont il-parir tal-Prim Ministru:\nIżda (a) jekk il-Kamra tad-Deputati tgħaddi riżoluzzjoni, li\njkollha voti favur tagħha ta’ maġġoranza tal-membri\nkollha tagħha, li ma għandhiex fiduċja fil-Gvern, u lPrim Ministru fi żmien tliet ijiem la ma jirriżenja millkariga tiegħu u l-anqas jagħti parir għal xoljiment, ilPresident jista’ jxolji l-Parlament;\n(b) jekk il-kariga ta’ Prim Ministru tkun vakanti u lPresident iqis li x’aktarx ma jkunx jista’ fi żmien\nraġonevoli jaħtar għal dik il-kariga persuna li jista’\njkollha l-appoġġ ta’ maġġoranza tal-membri tal-Kamra\ntad-Deputati, il-President jista’ jxolji l-Parlament; u\n(ċ) jekk il-Prim Ministru jirrakkomanda xoljiment u lPresident iqis li l-Gvern ta’ Malta jista’ jitkompla\nmingħajr xoljiment u illi xoljiment ma jkunx flinteress ta’ Malta, il-President jista’ jirrifjuta li jxolji\nl-Parlament.",
+      "metadata": {
+        "source_line_start": 3207,
+        "source_line_end": 3245
+      }
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Il-Kabinett",
+      "content": "Kull meta jkun hemm lok għall-ħatra ta’ Prim Ministru, ilPresident għandu jaħtar bħala Prim Ministru l-membru tal-Kamra\ntad-Deputati li, fil-ġudizzju tiegħu, ikun l-aħjar li jkun jista’ jgawdi\nl-appoġġ tal-maġġoranza tal-membri tal-Kamra u għandu, waqt li\njaġixxi skont il-parir tal-Prim Ministru, jaħtar lill-Ministri l-oħra\nminn fost il-membri tal-Kamra tad-Deputati:\nIżda jekk ikun hemm lok għall-egħmil ta’ ħatra għall-kariga\nta’ Prim Ministru jew xi Ministru ieħor waqt li l-Parlament ikun\nxolt, persuna li kienet membru tal-Kamra tad-Deputati minnufih\nqabel ix-xoljiment tista’ tiġi maħtura bħala Prim Ministru jew xi\nMinistru ieħor bħallikieku, f’kull każ, dik il-persuna kienet għadha\nmembru tal-Kamra tad-Deputati, iżda kull persuna hekk maħtura\ngħandha tivvaka l-kariga fil-bidu tas-sessjoni sussegwenti talParlament jekk ma tkunx f’dak iż-żmien membru tagħha.\n\nTiżmim ta’ kariga\nta’ Ministri.\nEmendat:\nLVIII.1974.34.",
+      "metadata": {
+        "source_line_start": 3286,
+        "source_line_end": 3303
+      }
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Ministru",
+      "content": "(1) Kull meta Ministru li ma jkunx il-Prim Ministru ma\njkunx jista’, minħabba mard jew assenza tiegħu minn Malta, jaqdi\nl-funzjonijiet tal-kariga tiegħu, il-President jkun jista’ jaħtar\nmembru ieħor tal-Kamra tad-Deputati biex ikun Ministru\ntemporanju:\nIżda jekk ikun hemm lok għall-egħmil ta’ ħatra waqt li lParlament ikun xolt, persuna li, minnufih qabel ix-xoljiment, kienet\nmembru tal-Kamra tad-Deputati tista’ tiġi maħtura bħala Ministru\ntemporanju bħallikieku kienet għadha membru ta’ dik il-Kamra,\niżda kull persuna hekk maħtura għandha tivvaka l-kariga fil-bidu\ntas-sessjoni sussegwenti tal-Parlament jekk ma tkunx f ’dak iżżmien membru tagħha.\n(2) Bla ħsara għad-disposizzjonijiet tal-artikolu 81 ta’ din ilKostituzzjoni, Ministru temporanju għandu jżomm il-kariga\nsakemm jiġi notifikat mill-President li l-Ministru, li minħabba l-\n\nMinistri\ntemporanji.\nEmendat:\nLVIII.1974.37.\n\nKOSTITUZZJONI TA’ MALTA\ninkapaċità tiegħu li jaqdi l-funzjonijiet tal-kariga tiegħu huwa ġie\nmaħtur, reġa’ sar kapaċi li jaqdi l-funzjonijiet tiegħu jew sakemm\ndak il-Ministru jivvaka l-kariga tiegħu.\n(3) Is-setgħat tal-President skont dan l-artikolu għandhom jiġu\neżerċitati minnu skont il-parir tal-Prim Ministru.\n\nEżerċizzju talfunzjonijiet talPresident.\nEmendat:\nLVIII.1974.38;\nXLIV.2020.4.",
+      "metadata": {
+        "source_line_start": 3369,
+        "source_line_end": 3401
+      }
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "LVIII.1974.39",
+      "content": "(1) Il-President, li għandu jaġixxi skont il-parir tal-Prim\nMinistru, jista’ jaħtar Segretarji Parlamentari minn fost il-membri\ntal-Kamra tad-Deputati biex jgħinu lill-Ministri fil-qadi taddmirijiet tagħhom:\n\nSegretarji\nParlamentari.\nEmendat:\nLVIII.1974.40.\n\nIżda jekk jinqala’ lok għall-egħmil ta’ ħatra waqt li lParlament ikun xolt, persuna li minnufih qabel ix-xoljiment kienet\nmembru tal-Kamra tad-Deputati tista’ tiġi maħtura bħala Segretarju\nParlamentari bħallikieku kienet għadha membru ta’ dik il-Kamra,\nimma kull persuna hekk maħtura għandha tivvaka l-kariga fil-bidu\ntas-sessjoni sussegwenti tal-Parlament jekk ma tkunx dak iż-żmien\nmembru tagħha.\n(2) Id-disposizzjonijiet tas-subartikolu (3) tal-artikolu 81 ta’\ndin il-Kostituzzjoni għandhom jgħoddu għas-Segretarji\nParlamentari bħalma jgħoddu għall-Ministri.\n\nKOSTITUZZJONI TA’ MALTA\n\nĠurament li\ngħandu jittieħed\nmill-Ministri.\nSostitwit:\nLVIII.1974.41.",
+      "metadata": {
+        "source_line_start": 3479,
+        "source_line_end": 3508
+      }
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "XLI.2020.3",
+      "content": "(1) Għandu jkun hemm Avukat Ġenerali li l-kariga tiegħu\ntkun kariga pubblika u li jkun maħtur mill-President li għandu\njaġixxi skont il-parir tal-Prim Ministru.\n(2) Ħadd ma jkun kwalifikat li jkollu l-kariga ta’ Avukat\nĠenerali jekk ma jkunx kwalifikat għal ħatra bħala mħallef tal-\n\nKOSTITUZZJONI TA’ MALTA\n\nQrati Superjuri.\n(3)\nFl-eżerċizzju tas-setgħat tiegħu biex jistitwixxi, jagħmel\nu jwaqqaf proċeduri kriminali u ta’ kull setgħat oħra mogħtija lilu\nb’xi liġi f ’termini li jawtorizzawh li jeżerċita dik is-setgħa filġudizzju individwali tiegħu l-Avukat Ġenerali għandu jkollu\nindipendenza kostituzzjonali u ma jkunx soġġett għad-direzzjoni jew\nkontroll ta’ ebda persuna jew awtorità oħra ħlief sa fejn xi liġi tista’\ntipprovdi:\n(a) għall-istħarriġ ġudizzjarju ta’ deċiżjoni li ma ssirx\nprosekuzzjoni jew ta’ deċiżjoni oħra meħuda millAvukat Ġenerali, fuq il-bażi ta’ illegalità jew\nirraġjonevolezza; jew\n(b) għall-eżami fil-mertu minn qorti fuq il-bażi ta’ kriterji\nstabbiliti b’liġi ta’ deċiżjoni tal-Avukat Ġenerali li\nprosekuzzjoni għandha ssir f’qorti superjuri ta’\nġuriżdizzjoni kriminali fejn il-piena li tkun tapplika\ntkun ogħla minn dik li kienet tkun tapplika għall-istess\nreat kieku l-proċess kellu jsir quddiem qorti inferjuri\nta’ ġuriżdizzjoni kriminali.\n(4) Bla ħsara għad-disposizzjonijiet tas-subartikolu (5) ta’ dan\nl-artikolu, l-Avukat Ġenerali għandu jivvaka l-kariga tiegħu meta\njagħlaq l-età ta’ ħamsa u sittin sena.\n(5) L-Avukat Ġenerali ma għandux jitneħħa mill-kariga tiegħu\nħlief mill-President wara indirizz mill-Kamra li jkollu favur tiegħu\nl-vot ta’ mhux inqas minn żewġ terzi tal-membri kollha tagħha u li\njitlob għal dik it-tneħħija minħabba inkapaċità ippruvata li jaqdi lfunzjonijiet tal-kariga tiegħu (kemm jekk għal mard korporali jew\nmentali jew għal xi raġuni oħra) jew imġiba ħażina ppruvata.\n(6) Il-Parlament jista’ b’liġi jirregola l-proċedura għal preżentata\nta’ indirizz u għall-investigazzjoni u prova dwar l-inkapaċità jew\nimġiba ħażina skont id-dispożizzjonijiet tal-aħħar subartikolu qabel\ndan.",
+      "metadata": {
+        "source_line_start": 3552,
+        "source_line_end": 3592
+      }
+    },
+    {
+      "provision_ref": "s91a",
+      "section": "91A",
+      "title": "dan",
+      "content": "(1)\nGħandu jkun hemm Avukat tal-Istat li l-kariga tiegħu\ntkun kariga pubblika u li jkun maħtur mill-President li għandu jaġixxi\nskont il-parir tal-Prim Ministru.\n\nAvukat tal-Istat.\nMiżjud:\nXXV.2019.10.\nEmendat:\nXLV.2020.4.\n\n(2)\nĦadd ma jkun kwalifikat li jkollu l-kariga ta’ Avukat talIstat jekk ma jkunx kwalifikat għal ħatra bħala imħallef tal-Qrati\nSuperjuri.\n(3)\nL-Avukat tal-Istat għandu jkun il-konsulent tal-Gvern fi\nkwistjonijiet ta’ liġi u opinjoni legali. Huwa għandu jaġixxi fl-interess\npubbliku u għandu jissalvagwardja l-legalità tal-azzjoni tal-Istat. LAvukat tal-Istat għandu jwettaq ukoll dawk id-dmirijiet u funzjonijiet\noħra li jistgħu jingħatawlu minn din il-Kostituzzjoni jew minn xi liġi.\nFl-eżerċizzju tal-funzjonijiet tiegħu, l-Avukat tal-Istat għandu jaġixxi\nfil-ġudizzju individwali tiegħu u ma għandux ikun suġġett għaddirezzjoni jew għall-kontroll ta’ ebda persuna jew awtorità oħra.\n\nKOSTITUZZJONI TA’ MALTA\n(4)\nBla ħsara għad-dispożizzjonijiet tas-subartikolu (5), lAvukat tal-Istat għandu jivvaka l-kariga tiegħu meta jagħlaq l-età ta’\nħamsa u sittin (65) sena.\n(5)\nL-Avukat tal-Istat ma għandux jitneħħa mill-kariga tiegħu\nħlief mill-President wara indirizz mill-Kamra li jkollu favur tiegħu lvot ta’ mhux inqas minn żewġ terzi tal-membri kollha tagħha u li jitlob\ngħal dik it-tneħħija minħabba inkapaċità ippruvata li jaqdi lfunzjonijiet tal-kariga tiegħu (kemm jekk għal mard korporali jew\nmentali jew għal xi raġuni oħra) jew imġiba ħażina ppruvata.\n(6)\nIl-Parlament jista’ b’liġi jirregola l-proċedura għal\npreżentata ta’ indirizz u għall-investigazzjoni u prova dwar linkapaċità jew imġiba ħażina skont id-dispożizzjonijiet tal-aħħar\nsubartikolu qabel dan.\n\nSegretarji\nPermanenti u\nkapijiet ta’\ndipartimenti talgvern.\nEmendat:\nLVIII.1974.44;\nIII.2019.40;\nXIX.2020.3;\nXXVI.2021.2.",
+      "metadata": {
+        "source_line_start": 3593,
+        "source_line_end": 3641
+      }
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "Qrati Superjuri",
+      "content": "(1) Għandu jkun hemm f’MaIta u għal Malta dawk il-Qrati\nSuperjuri li jkollhom dawk is-setgħat u ġurisdizzjoni kif ikun\nprovdut b’xi liġi li għal dak iż-żmien tkun isseħħ f’Malta.\n(2) Waħda mill-Qrati Superjuri, magħmula minn tlieta millimħallfin li jkunu jistgħu, skont xi liġi li għal dak iż-żmien tkun\nisseħħ f ’Malta, joqgħodu fil-Qorti tal-Appell, għandha tkun\nmagħrufa bħala l-Qorti Kostituzzjonali u jkollha ġurisdizzjoni li\ntisma’ u tiddeċidi (a) dawk il-kwistjonijiet li huma msemmija fl-artikolu 63\ntal-Kostituzzjoni;\n(b) kull ħaġa riferita lilha skont l-artikolu 56 ta’ din ilKostituzzjoni u kull ħaġa riferita lilha skont kull liġi\ndwar l-elezzjoni tal-membri tal-Kamra tad-Deputati;\n(ċ) appelli minn deċiżjonijiet tal-Prim’Awla tal-Qorti\nĊivili skont l-artikolu 46 ta’ din il-Kostituzzjoni;\n(d) appelli minn deċiżjonijiet ta’ xi qorti ta’ ġurisdizzjoni\noriġinali\nf’Malta\nfuq\nkwistjonijiet\ndwar\ninterpretazzjoni ta’ din il-Kostituzzjoni li ma jkunux\ndawk li jistgħu jaqgħu taħt l-artikolu 46 ta’ din ilKostituzzjoni;\n(e) appelli minn deċiżjonijiet ta’ xi qorti ta’ ġurisdizzjoni\noriġinali f’Malta fuq kwistjonijiet dwar il-validità ta’\nliġijiet li ma jkunux dawk li jistgħu jaqgħu taħt lartikolu 46 ta’ din il-Kostituzzjoni; u\n(f)\n\nkull kwistjoni deċiża minn qorti ta’ ġurisdizzjoni\noriġinali f’Malta flimkien ma’ xi waħda millkwistjonijiet imsemmija fil-paragrafi ta’ qabel ta’ dan\nis-subartikolu li minnha jkun sar appell lill-Qorti\nKostituzzjonali:\nIżda ebda ħaġa li tinsab f’dan il-paragrafu ma\nttellef li appell jinġieb separatament quddiem il-Qorti\ntal-Appell skont xi liġi li għal dak iż-żmien ikun hemm\nisseħħ f’Malta.\n\n(3) Minkejja d-disposizzjonijiet tas-subartikolu (2) ta’ dan lartikolu, jekk xi kwistjoni bħalma hija msemmija fil-paragrafu (d)\njew (e) ta’ dak is-subartikolu tqum għall-ewwel darba fi proċeduri\nf’qorti ta’ ġurisdizzjoni ta’ appell, dik il-qorti għandha tibgħat ilkwistjoni quddiem il-qorti li tkun tat id-deċiżjoni oriġinali, kemmil darba fil-fehma tagħha t-tqanqil tal-kwistjoni ma tkunx\nsempliċement frivola jew vessatorja, u dik il-qorti għandha tagħti\nd-deċiżjoni tagħha fuq kull kwistjoni bħal dik u, bla ħsara għal kull\nappell skont id-disposizzjonijiet tas-subartikolu (2) ta’ dan lartikolu, il-qorti li quddiemha tkun qamet il-kwistjoni għandha\ntiddisponi mill-kwistjoni skont dik id-deċiżjoni.\n(4) Id-disposizzjonijiet tas-subartikoli (6) u (7) tal-artikolu 46\nta’ din il-Kostituzzjoni għandhom jgħoddu għall-Qorti\nKostituzzjonali u għal dak l-iskop riferenzi għal dak l-artikolu flimsemmija subartikoli għandhom jiftehmu bħala riferenzi għal dan\n\nKOSTITUZZJONI TA’ MALTA\n\nl-artikolu.\n(5) Jekk f’xi żmien matul l-elezzjoni ta’ membri tal-Kamra tadDeputati u matul it-tletin ġurnata li jiġu wara dik l-elezzjoni, ilQorti Kostituzzjonali ma tkunx kostitwita kif provdut f ’dan lartikolu, dik il-Qorti għandha minnufih u sakemm tkun xort’oħra\nkostitwita skont il-liġi, tkun kostitwita bis-saħħa ta’ dan issubartikolu u tkun magħmula mit-tliet imħallfin l-aktar anzjani li\njkunu fil-kariga f’dak iż-żmien, magħdud, jekk ikun hemm f’dik ilkariga, il-Prim Imħallef jew imħallef ieħor li jkun qed jaqdi lfunzjonijiet ta’ Prim Imħallef; u jekk f’xi żmien ieħor l-imsemmija\nQorti ma tkunx kostitwita kif provdut f ’dan l-artikolu għal iktar\nminn ħmistax-il ġurnata, dik il-Qorti għandha, malli jgħaddi limsemmi żmien ta’ ħmistax-il ġurnata u sakemm tkun xort’oħra\nkostitwita skont il-liġi, tkun kostitwita bis-saħħa ta’ dan issubartikolu u tkun magħmula mit-tliet imħallfin l-aktar anzjani kif\nimsemmi qabel.\n(6) L-imħallfin tal-Qrati Superjuri għandhom ikunu Prim\nImħallef u dak in-numru ta’ imħallfin oħra kif jista’ jkun preskritt\nb’xi liġi li għal dak iż-żmien tkun isseħħ f’Malta:\nIżda l-kariga ta’ imħallef tal-Qrati Superjuri ma għandhiex,\nmingħajr il-kunsens tiegħu, tiġi abolita waqt li huwa jkun filkariga.",
+      "metadata": {
+        "source_line_start": 3737,
+        "source_line_end": 3799
+      }
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "mingħajr il-kunsens tiegħu, tiġi abolita waqt li huwa jkun filkariga",
+      "content": "(1) L-imħallfin tal-qrati superjuri għandhom jiġu maħtura\nmill-President li jaġixxi fuq ir-rakkomandazzjoni magħmula millKumitat dwar il-Ħatriet tal-Ġudikatura stabbilit bl-artikolu 96A talKostituzzjoni.\n\nĦatra ta’ imħallfin.\nEmendat:\nLVIII.1974.47;\nXLIV. 2016.4;\nXLIII.2020.2.\n\n(2) Ħadd ma jkun kwalifikat biex ikun maħtur imħallef talQrati Superjuri kemm-il darba għal perijodu ta’, jew perijodi li\njammontaw b’kollox għal, mhux anqas minn tnax-il sena ma jkunx\njew eżerċita bħala avukat f ’Malta jew serva bħala maġistrat\nf’Malta, jew f’parti hekk eżerċita u f’parti hekk serva.\n(3) Il-Prim Imħallef għandu jiġi maħtur mill-President li jaġixxi fuq\nriżoluzzjoni tal-Kamra li jkollha favur tagħha l-voti ta’ mhux inqas minn\nżewġ terzi tal-membri kollha tal-Kamra:\nIżda illi minkejja d-dispożizzjoni tal-artikolu 97(1), jekk irRiżoluzzjoni ma jkollhiex favur tagħha l-voti ta’ mhux inqas minn żewġ\nterzi tal-membri kollha tal-Kamra, il-persuna li tkun tokkupa l-kariga ta’\nPrim Imħallef għandha, fi kwalunkwe ċirkostanza, tibqa’ fil-kariga\nsakemm ir-Riżoluzzjoni jkollha favur tagħha l-voti ta’ mhux inqas minn\nżewġ terzi tal-membri kollha tal-Kamra.",
+      "metadata": {
+        "source_line_start": 3800,
+        "source_line_end": 3820
+      }
+    },
+    {
+      "provision_ref": "s96b",
+      "section": "96B",
+      "title": "KOSTITUZZJONI TA’ MALTA",
+      "content": "(1)Kull meta sseħħ vakanza fil-kariga ta’ mħallef jew ta’\nmaġistrat, il-Ministru responsabbli mill-ġustizzja għandu joħroġ\nsejħa pubblika għall-applikazzjonijiet miftuħa għal persuni li\ngħandhom il-kwalifiki meħtieġa sabiex jinħatru għall-kariga ta’\nmħallef jew maġistrat.\n(2) Ħadd ma jkun intitolat li jiġi maħtur fil-kariga ta’ mħallef\njew maġistrat jekk:\n(a) ma jkollux in-numru ta’ snin ta’ prattika filprofessjoni ta’ avukat f’Malta kif stabbilit fl-artikoli\n96 jew 100 tal-Kostituzzjoni, skont il-każ;\n(b) fil-mument li japplika ma jkunx fil-pussess ta’ warrant\nvalidu biex jipprattika ta’ avukat f’Malta u ma jkunx\nprekluż li jiġi maħtur bħala membru tal-ġudikatura fuq\nimpediment legali;\n(ċ) ma jkunx kapaċi jesprimi lilu nnifsu fil-lingwa Maltija\nu Ingliża u jkun kapaċi jikkomunika b’mod ċar u\nkonċiż;\n(d) ma jippossjedix integrità, korrettezza u onestà fil-ħajja\npubblika u privata;\n(e) ma jkollux għarfien tal-liġi, tal-proċeduri tal-qrati u\nesperjenza professjonali;\n(f)\n\nma jkunx spedjenti, kapaċi jaħdem taħt pressjoni,\ndiliġenti, analitiku u kapaċi jieħu deċiżjoni;\n\n(g) ma jkunx imparzjali u indipendenti;\n(h) ikun involut f’xi attività kummerċjali jew negozju u\nma jkunx f’sitwazzjoni finanzjarja li tqajjem dubju\ndwar il-kapaċità li jwettaq dmirijiet ġudizzjarji b’mod\nxieraq;\n\nTiżmim ta’ kariga\nta’ imħallfin.\nEmendat:\nLVIII.1974.48;\nXLV.2020.5.\nLV.2020.2.\n\n(i)\n\nma jkunx kapaċi jaħdem f’ambjent kolleġġjali; u\n\n(j)\n\nma jippossjedix għarfien tal-Kodiċi tal-Etika tal-membri\ntal-ġudikatura u jkun lest li jidħol għal żvilupp\nprofessjonali.",
+      "metadata": {
+        "source_line_start": 3939,
+        "source_line_end": 3986
+      }
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "mħassra mill-President li jaġixxi skont il-parir tal-Prim Ministru",
+      "content": "Għandu jkun hemm f’Malta u għal Malta dawk il-qrati\ninferjuri li jkollhom dawk is-setgħat u ġurisdizzjoni kif jista’ jkun\nprovdut b’xi liġi li għal dak iż-żmien tkun isseħħ f’Malta.",
+      "metadata": {
+        "source_line_start": 4030,
+        "source_line_end": 4035
+      }
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "Qrati Inferjuri",
+      "content": "(1) Il-maġistrati tal-qrati inferjuri għandhom jiġu maħtura\nmill-President li jaġixxi fuq ir-rakkomandazzjoni magħmula millKumitat dwar il-Ħatriet tal-Ġudikatura stabbilita bl-artikolu 96A talKostituzzjoni.\n\nMaġistrati.\nEmendat:\nLVIII.1974.50;\nXIV.2007.5;\nXLIV. 2016.6;\nXLIII.2020.4;\nXLV.2020.6;\nLV.2020. 3.\n\n(2) Ħadd ma jkun kwalifikat biex ikun maħtur għal jew biex\njaġixxi fil-kariga ta’ maġistrat tal-qrati inferjuri kemm-il darba ma\njkunx eżerċita bħala avukat f’Malta għal perijodu ta’, jew perijodi\nli jammontaw b’kollox għal, mhux anqas minn seba’ snin.\n(3) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (4),\nmaġistrat tal-qrati inferjuri għandu jivvaka l-kariga tiegħu meta\njagħlaq l-età ta’ ħamsa u sittin (65) sena:\nIżda maġistrat tal-qrati inferjuri għandu jgħarraf lill-Prim\nImħallef u lill-President ta’ Malta qabel jilħaq l-età ta’ ħamsa u sittin\n(65) sena ladarba jagħżel li jibqa’ fil-kariga sakemm jilħaq l-età ta’\ntmienja u sittin (68) sena.\n(4) Id-dispożizzjonijiet tas-subartikolu (2) tal-artikolu 97 talKostituzzjoni għandhom japplikaw għal maġistrat tal-qrati inferjuri.",
+      "metadata": {
+        "source_line_start": 4036,
+        "source_line_end": 4059
+      }
+    },
+    {
+      "provision_ref": "s101b",
+      "section": "101B",
+      "title": "XVI.2025.2",
+      "content": "(1) Għandu jkun hemm Kumitat għall-Imħallfin u lMaġistrati (hawn iżjed ’il quddiem imsejjaħ ''il-Kumitat'') li għandu jkun\nsottokumitat tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja u li\ngħandu jkun kompost minn tliet membri tal-ġudikatura illi ma jkunux\nmembri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja u li\ngħandhom jiġu eletti minn fost l-imħallfin u l-maġistrati skont\nregolamenti maħruġa mill-Kummissjoni għall-Amministrazzjoni talĠustizzja b’dan iżda li f’każ ta’ dixxiplina ta’ maġistrat, tnejn mit-tliet\nmembri għandhom ikunu maġistrati filwaqt illi f’każ ta’ dixxiplina ta’\nmħallef, tnejn mit-tliet membri għandhom ikunu mħallfin.\n\nDixxiplina ta’\nmħallfin u\nmaġistrati.\nMiżjud:\nXLIV. 2016.8.\nEmendat:\nXLV.2020.8.\n\n(2) Il-President tal-Kumitat għandu jiġi elett mill-membri talKumitat minn fosthom.\n(3) Kull membru tal-Kumitat jista’ jiġi rikużat u għandu\njastjeni fl-istess ċirkostanzi bħalma mħallef tal-Qrati Superjuri\njista’ jiġi rikużat jew jista’ jastjeni. Meta membru tal-Kumitat jiġi\n\nKOSTITUZZJONI TA’ MALTA\nrikużat u jew jastjeni, il-Kummissjoni għall-Amministrazzjoni talĠustizzja għandha taħtar membru sostitut.\n(4) Il-Kumitat għandu jeżerċita dixxiplina fuq imħallfin u\nmaġistrati kif preskritt f’dan l-artikolu.\n(5) Proċeduri dixxiplinarji kontra mħallef jew maġistrat\njinbdew meta jsir ilment bil-miktub u li jkun fih akkużi ċari\nmagħmulin lill-Kumitat mill-Prim Imħallef jew mill-Ministru\nresponsabbli għall-ġustizzja, għal ksur tad-dispożizzjonijiet talKodiċi ta’ Etika għall-Membri tal-Ġudikatura jew ta’ Kodiċi jew regoli\nta’ dixxiplina għall-membri tal-ġudikatura li jsiru bl-istess proċedura li\nbiha jiġi promulgat l-imsemmi Kodiċi ta’ Etika li jkunu minn żmien għal\nżmien applikabbli għall-membri tal-ġudikatura. L-ilment għandu\njkun fih ukoll ir-raġunijiet li fuqhom kull waħda mill-akkużi tkun\nibbażata.\n(6) Il-Kumitat għandu, meta jirċievi ilment taħt is-subartikolu\n(5), jinnotifika l-imsemmi lment lill-imħallef jew maġistrat li\nkontra tiegħu jkun sar l-ilment u jagħtih jew jagħtiha żmien\nraġonevoli biex iwieġeb jew twieġeb.\n(7) Jekk, wara konsiderazzjoni prima facie tal-ilment u tattweġiba, il-Kumitat jidhirlu li ma hemmx raġunijiet suffiċjenti biex\njinbdew proċeduri dixxiplinarji, il-Kumitat għandu jieqaf milli\njkompli jittratta dwar il-każ.\n(8) Jekk, wara konsiderazzjoni tal-ilment u tat-tweġiba kif\nmsemmi fis-subartikolu (7), il-Kumitat jidhirlu li hemm raġunijiet\nsuffiċjenti biex ikompli l-proċeduri dixxiplinarji, il-Kumitat\ngħandu jappunta data għas-smigħ.\n(9) Il-proċeduri quddiem il-Kumitat għandhom jinżammu filmagħluq sakemm l-imħallef jew il-maġistrat li kontra tiegħu jkunu\nttieħdu l-proċeduri ma jitlobx xort’oħra. Min jagħmel l-ilment jew\nir-rappreżentant tiegħu u l-imħallef jew il-maġistrat li kontra tiegħu\nttieħdu l-proċeduri jkollhom id-dritt li jkunu preżenti matul il-kors\nkollu tal-proċeduri, li jipproduċu xhieda bħala appoġġ għal jew\ndifiża kontra l-akkużi elenkati fl-ilment, u li jkunu assistiti minn\navukat jew prokuratur legali. Il-Kummissjoni għallAmministrazzjoni tal-Ġustizzja tista’ wkoll taħtar avukat biex\njaġixxi bħala prosekutur speċjali indipendenti fil-proċeduri\ndixxiplinarji.\n(10) Il-Kumitat, jekk isib li l-imħallef jew il-maġistrat kiser ilKodiċi ta’ Etika għall-Membri tal-Ġudikatura, għandu:\n(a) jekk jidhirlu li l-ksur hu ta’ natura mhux gravi, jew\niwiddeb jew jimponi penali pekunjarja li tinġabar\nbħala dejn ċivili li titħallas lis-Segretarju talKummissjoni għall-Amministrazzjoni tal-Ġustizzja,\nliema penali ma tkunx aktar minn għaxra fil-mija tassalarju annwali tal-imħallef jew tal-maġistrat kif ikun\nstabbilit bil-liġi f’dak iż-żmien;\n(b) jekk jidhirlu li l-ksur hu ta’ natura serja jista’\njissospendi l-imħallef jew il-maġistrat milli jeżerċita\nd-dmirijiet tiegħu għal perjodu ta’ mhux aktar minn\nsitt xhur waqt li jitħallas nofs is-salarju u l-allowances\n\nKOSTITUZZJONI TA’ MALTA\nkif riċevuti f’dak iż-żmien;\n(ċ) jekk jidhirlu li l-ksur hu ta’ natura tant serja li jistħoqq\nit-tneħħija tal-imħallef jew tal-maġistrat mill-kariga,\njew huwa bbażat fuq ir-raġuni ta’ inkapaċità li jaqdi lfunzjonijiet tal-kariga tiegħu (kemm jekk ghal mard\nkorporali jew mentali jew għal xi raġuni oħra), għandu\njirrapporta l-konklużjonijiet tiegħu lill-Kummissjoni\ngħall-Amministrazzjoni tal-Ġustizzja li għandha tqis\njekk il-provi jippruvawx il-każ prima facie u, jekk tqis\nli jkun hemm dak il-grad ta’ prova, il-Kummissjoni\ngħandha tissospendi lill-imħallef jew maġistrat\nkonċernat u għandha tipproċedi bis-smigħ tal-każ. Fiżżmien li matulu imħallef jew maġistrat ikun sospiż\nskont id-dispożizzjonijiet ta’ dan il-paragrafu, li ma\ngħandux jeċċedi s-sitt (6) xhur, l-imħallef jew ilmaġistrat għandu jkun intitolat għal nofs is-salarju u lallowances tal-kariga tiegħu u wara t-trapass ta’ tali\nperjodu ta’ sitt (6) xhur huwa għandu jerġa’ jibda\njirċievi s-salarju u l-allowances kollha tal-kariga\ntiegħu irrispettivament minn jekk il-każ riferut ikunx\nġie konkluż jew le. F’każ illi l-Kummissjoni għallAmministrazzjoni tal-Ġustizzja tqis li l-ksur investigat\njistħoqqlu t-tneħħija tal-imħallef jew tal-maġistrat\nmill-kariga, hija għandha tipproċedi biex tagħti parir\nlill-President biex ineħħi l-imħallef jew maġistrat millkariga għal imġiba ħażina ppruvata jew inkapaċità\nppruvata li jaqdi l-funzjonijiet tal-kariga tiegħu:\nIżda f’każ li l-proċeduri quddiem il-Kummissjoni għallAmministrazzjoni tal-Ġustizzja ma jwasslux għat-tneħħija millkariga tal-membru tal-ġudikatura, allura l-membru tal-ġudikatura\ngħandu jitħallas is-salarju u l-allowances li jkunu ġew mizmuma\nmatul il-perjodu kollu tas-sospensjoni.\n(11) Il-Kumitat jista’ wkoll, fuq talba tal-Prim Imħallef, jordna\nli mħallef jew maġistrat jiġi sospiż milli jwettaq id-dmirijiet tiegħu\ngħal raġunijiet mediċi serji għal perjodu definit li matulu l-imħallef\njew il-maġistrat jibqa’ jirċievi s-salarju tiegħu sħiħ u l-allowances.\nIl-proċedura stabbilita f’dan l-artikolu dwar proċeduri dixxiplinarji\ngħandha tapplika mutatis mutandis fil-każ ta’ proċeduri li jsiru taħt\ndan is-subartikolu.\n(12) (a) L-imħallef jew il-maġistrat li l-Kumitat isib kontra\ntiegħu jkollu dritt ta’ appell lill-Kummissjoni għallAmministrazzjoni tal-Ġustizzja minn deċiżjonijiet talKumitat.\n(b) L-appell għandu jiġi ppreżentat għand is-Segretarju\ntal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja\nmhux aktar tard minn għoxrin jum minn meta lKumitat jagħti d-deċiżjoni tiegħu.\n(ċ) Il-preżentata tal-appell kif hawn qabel imsemmi\ntissospendi l-eżekuzzjoni tad-deċiżjoni tal-Kumitat.\n(d) Il-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja\n\nKOSTITUZZJONI TA’ MALTA\ntista’, minn żmien għal żmien, tistabbilixxi regoli ta’\nproċedura għal appelli bħal dawn.\n(e) Il-President ta’ Malta ma għandux ikun parti millKummissjoni għall-Amministrazzjoni tal-Ġustizzja\nmeta l-imsemmija Kummissjoni tkun qed tisma’ appell\nminn deċiżjoni tal-Kumitat.\n(13) Il-proċeduri quddiem il-Kumitat għandhom jintemmu fi\nżmien sena u l-proċeduri tal-appell quddiem il-Kummissjoni għallAmministrazzjoni tal-Ġustizzja għandhom jintemmu fi żmien\nperjodu ieħor ta’ sitt xhur.\n\nKap. 12.\n\n(14) Fl-eżerċizzju tal-funzjonijiet tagħhom taħt dan l-artikolu lKummissjoni għall-Amministrazzjoni tal-Ġustizzja u l-Kumitat\ngħall-Imħallfin u l-Maġistrati għandu jkollhom is-setgħat kollha li\nhuma assenjati lill-Prim’Awla tal-Qorti Ċivili bil-Kodiċi ta’\nOrganizzazzjoni u Proċedura Ċivili jew b’xi liġi li minn żmien għal\nżmien tirregola s-setgħat tal-Qrati ta’ ġurisdizzjoni ċivili.\n(15) Fl-eżerċizzju tal-funzjonijiet tagħhom il-membri talKumitat għandhom jaġixxu skont il-ġudizzju individwali tagħhom\nu ma jkunux soġġetti għad-direzzjoni jew kontroll ta’ xi persuna\njew awtorità oħra.\n\nRapport talKummissarju\ngħall-Istandards\ntal-Ġudikatura.\nMiżjud:\nXVI.2025.3.\n\nAppell middeċiżjoni talKummissjoni\ngħallAmministrazzjoni\ntal-Ġustizzja.\nMiżjud:\nXLV.2020.9.\n\n(16) Id-dispożizzjonijiet ta’ dan l-artikolu huma mingħajr\npreġudizzju għall-applikazzjoni tas-subartikoli (2) u (3) tal-artikolu\n97 ta’ din il-Kostituzzjoni kull fejn dawn ikunu japplikaw.\n101BA. Il-Kummissarju għall-Istandards tal-Ġudikatura għandu jħejji\nrapport, ta’ mill-inqas kull sena jew kemm-il darba jista’ jqis spedjenti,\nlill-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja dwar it-twettiq\ntal-funzjonijiet tiegħu skont din il-Kostituzzjoni. Kwalunkwe tali rapport\ngħandu jiġi sottomess lill-Kummissjoni għall-Amministrazzjoni talĠustizzja u lill-Ministru responsabbli għall-ġustizzja.\n101Ċ. (1) Għandu jkun hemm dritt ta’ appell lill-Qorti\nKostituzzjonali mid-deċiżjoni tal-Kummissjoni għallAmministrazzjoni tal-Ġustizzja għas-sejba ta’ tneħħija ta’ imħallef\njew maġistrat u mid-deċiżjoni tal-Kummissjoni għallAmministrazzjoni tal-Ġustizzja mogħtija skont l-artikolu\n101B(12).\n(2)\nL-appell għandu jiġi ppreżentat fi żmien tmien ġranet taxxogħol mid-data meta d-deċiżjoni tal-Kummissjoni għallAmministrazzjoni tal-Ġustizzja tiġi kkomunikata lill-imħallef jew\nmaġistrat.\n(3) Il-preżentata tal-appell skont is-subartikolu (1) għandha\ntissospendi l-eżekuzzjoni tad-deċiżjoni tal-Kummissjoni għallAmministrazzjoni tal-Ġustizzja.\nFinanzi",
+      "metadata": {
+        "source_line_start": 4381,
+        "source_line_end": 4551
+      }
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "Fond Konsolidat",
+      "content": "(1) Id-dħul kollu u l-flejjes l-oħra kollha miġbura jew\nimdaħħla minn Malta (li ma jkunux dħul jew flejjes oħra li jitħallsu\n\nKOSTITUZZJONI TA’ MALTA\n\nf’xi fond ieħor, li jkun fond imwaqqaf minn jew skont xi liġi li għal\ndak iż-żmien tkun isseħħ f’Malta għal skop speċifiku) għandhom,\nkemm-il darba l-Parlament ma jipprovdix xort’oħra, jitħallsu fi u\njifformaw Fond Konsolidat wieħed.\n(2) Ebda flejjes ma għandhom jiġu rtirati mill-Fond Konsolidat\nħlief biex titħallas l-ispiża li hija addebitata lill-Fond b’din ilKostituzzjoni jew xi liġi oħra li għal dak iż-żmien tkun isseħħ\nf ’Malta jew meta l-ħruġ ta’ dawk il-flejjes ikun ġie awtorizzat\nb’Att ta’ Approprjazzjoni jew skont l-artikolu 104 ta’ din ilKostituzzjoni.\n(3) Ebda flejjes ma għandhom jiġu rtirati minn xi fond\npubbliku li ma jkunx il-Fond Konsolidat kemm-il darba l-ħruġ ta’\ndawk il-flejjes ma jkunx ġie awtorizzat bi jew skont xi liġi li għal\ndak iż-żmien tkun isseħħ f’Malta.\n(4) Ebda flejjes ma għandhom jiġu rtirati mill-Fond Konsolidat\njew minn xi fond pubbliku ieħor ħlief bil-mod preskritt bi jew skont\nxi liġi.\n(5) In-nefqat, piżijiet u spejjeż inċidentali għall-ġbir u\namministrazzjoni tal-Fond Konsolidat għandhom jiġu addebitati\nlill-Fond.",
+      "metadata": {
+        "source_line_start": 4552,
+        "source_line_end": 4577
+      }
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "Dejn pubbliku",
+      "content": "(1) Id-dejn pubbliku ta’ Malta għandu jiġi addebitat lillFond Konsolidat u fondi oħra pubbliċi ta’ Malta.\n(2) F’dan l-artikolu riferenzi għad-dejn pubbliku ta’ Malta\njinkludu riferenzi għall-imgħax fuq dak id-dejn, ħlasijiet ta’ fond\nta’ ammortizzament u flejjes ta’ fidwa dwar dak id-dejn u n-nefqat,\npiżijiet u spejjeż inċidentali għall-amministrazzjoni ta’ dak id-dejn.\n\nRimunerazzjoni\ndwar ċerti karigi.\nEmendat:\nLVIII.1974.52;\nXVII.1997.2;\nXLIV. 2016.9.",
+      "metadata": {
+        "source_line_start": 4636,
+        "source_line_end": 4648
+      }
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "Is-Servizz Pubbliku",
+      "content": "(1) Għandu jkun hemm Kummissjoni dwar is-Servizz\nPubbliku għal Malta li tkun magħmula minn chairman, deputy\nchairman u minn membru wieħed sa tliet membri oħra.\n(2) Il-membri tal-Kummissjoni dwar is-Servizz Pubbliku\ngħandhom ikunu maħtura mill-President, li jaġixxi skont il-parir\ntal-Prim Ministru mogħti wara li jkun ikkonsulta l-Kap talOppożizzjoni.\n(3) Ħadd ma jkun kwalifikat biex iżomm kariga bħala membru\ntal-Kummissjoni dwar is-Servizz Pubbliku jekk ikun Ministru,\nSegretarju Parlamentari, membru ta’, jew kandidat għal elezzjoni\nta’, il-Kamra tad-Deputati, membru ta’ awtorità ta’ gvern lokali jew\njekk ikun uffiċjal pubbliku.\n(4) Membru tal-Kummissjoni dwar is-Servizz Pubbliku ma\ngħandux, għeluq perijodu ta’ tliet snin li jibda mill-ġurnata li fiha\nkellu kariga l-aħħar bħala membru, ikun eliġibbli għal ħatra jew\nbiex jaġixxi f’xi kariga pubblika.\n(5) Bla ħsara għad-disposizzjonijiet ta’ dan l-artikolu, il-kariga\nta’ membru tal-Kummissjoni dwar is-Servizz Pubbliku għandha\nssir vakanti (a) fit-tmiem ta’ ħames snin mid-data tal-ħatra tiegħu jew\nf’dik id-data qabel kif jista’ jkun speċifikat fiddokument li bih huwa jkun ġie maħtur; jew\n(b) jekk jinħolqu xi ċirkostanzi li, kieku ma kienx membru\ntal-Kummissjoni, kienu jġagħluh ikun skwalifikat għal\nħatra bħala hekk.\n(6) Membru tal-Kummissjoni dwar is-Servizz Pubbliku jista’\njitneħħa mill-kariga mill-President, li jaġixxi skont il-parir tal-Prim\nMinistru, iżda jista’ jiġi mneħħi biss minħabba inkapaċità li jaqdi lfunzjonijiet tal-kariga tiegħu (kemm jekk minħabba mard mentali\njew korporali jew għal xi raġuni oħra) jew għal imġieba ħażina.\n\nKummissjoni dwar\nis-Servizz\nPubbliku.\nEmendat:\nLVIII.1974.54.\n\nKOSTITUZZJONI TA’ MALTA\n(7) Jekk il-kariga ta’ membru tal-Kummissjoni dwar is-Servizz\nPubbliku tkun vakanti jew jekk xi membru għal xi raġuni ma jkunx\njista’ jaqdi l-funzjonijiet tal-kariga tiegħu, il-President, li jaġixxi\nskont il-parir tal-Prim Ministru, mogħti wara li jkun ikkonsulta lillKap tal-Oppożizzjoni, jista’ jaħtar persuna li tkun kwalifikata biex\ntkun maħtura bħala membru biex tkun membru temporanju talKummissjoni; u kull persuna hekk maħtura għandha, bla ħsara\ngħad-disposizzjonijiet tas-subartikoli (5) u (6) ta’ dan l-artikolu,\ntispiċċa milli tkun membru bħal dak meta persuna tkun ġiet\nmaħtura biex timla l-vakanza jew, skont il-każ, meta l-membru li\nma setgħax jaqdi l-funzjonijiet tal-kariga tiegħu jirreżumi dawk ilfunzjonijiet.\n\nĦatra eċċ., ta’\nuffiċjali pubbliċi.\nEmendat:\nLVIII.1974.55.",
+      "metadata": {
+        "source_line_start": 4808,
+        "source_line_end": 4859
+      }
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "LVIII.1974.60",
+      "content": "(1) Għandu jkun hemm Kummissjoni dwar l-Impiegi għal\nMalta li tkun magħmula minn chairman u minn erba’ membri oħra.\n(2) Il-membri tal-Kummissjoni dwar l-Impiegi jkunu maħtura\nmill-President li, fil-ħatra taċ-chairman għandu jaġixxi skont ilparir tal-Prim Ministru mogħti wara li dan ikun ikkonsulta l-Kap\ntal-Oppożizzjoni, fil-ħatra ta’ tnejn mill-erba’ membri oħra għandu\njaġixxi skont il-parir tal-Prim Ministru, u fil-ħatra taż-żewġ\nmembri l-oħra għandu jaġixxi skont il-parir tal-Kap talOppożizzjoni.\n(3) Ħadd ma jkun kwalifikat biex iżomm kariga bħala membru\ntal-Kummissjoni dwar l-Impiegi jekk ikun Ministru, Segretarju\nParlamentari, membru ta’, jew kandidat għal elezzjoni ta’, il-Kamra\ntad-Deputati, membru ta’ awtorità ta’ gvern lokali, jew ikun\nuffiċjal pubbliku.\n(4) Membru tal-Kummissjoni dwar l-Impiegi ma għandux,\ngħeluq perijodu ta’ tliet snin li jibda mill-ġurnata li fiha kellu\nkariga jew aġixxa l-aħħar bħala membru, ikun eliġibbli għal ħatra\njew biex jaġixxi f’xi kariga pubblika.\n(5) Bla ħsara għad-disposizzjonijiet ta’ dan l-artikolu, il-kariga\nta’ membru tal-Kummissjoni dwar l-Impiegi għandha ssir vakanti (a) fit-tmiem ta’ tliet snin mid-data tal-ħatra tiegħu; jew\n(b) jekk jinħolqu ċirkostanzi li, kieku ma kienx membru\ntal-Kummissjoni, kienu jġagħluh ikun skwalifikat għal\nħatra bħala hekk.\n(6) Membru tal-Kummissjoni dwar l-Impiegi jista’ jitneħħa\nmill-kariga mill-President, li jaġixxi skont il-parir tad-detentur talkariga li fuq il-parir tiegħu jkun ġie maħtur dak il-membru, mogħti,\nmeta jkun il-każ, kif provdut fis-subartikolu (2) ta’ dan l-artikolu,\niżda dak il-membru jista’ jiġi mneħħi biss minħabba inkapaċità li\njaqdi l-funzjonijiet tal-kariga tiegħu (kemm jekk minħabba mard\nmentali jew korporali jew għal xi raġuni oħra) jew għal imġieba\nħażina.\n(7) Jekk il-kariga ta’ membru tal-Kummissjoni dwar l-Impiegi\ntkun vakanti jew jekk xi membru għal xi raġuni ma jkunx jista’\n\nKOSTITUZZJONI TA’ MALTA\n\njaqdi l-funzjonijiet tal-kariga tiegħu, il-President, li jaġixxi skont\nil-parir tad-detentur tal-kariga li fuq il-parir tiegħu dak il-membru\njkun ġie m aħtur, mogħti, meta jkun il-każ, kif provdut fissubartikolu (2) ta’ dan l-artikolu, jista’ jaħtar persuna li tkun\nkwalifikata biex tkun maħtura bħala membru biex tkun membru\nte mp o ra nj u t a l -K u m mi s s j o ni ; u k ul l p e r s u na h e k k m a ħ tu r a\ngħandha, bla ħsara għad-disposizzjonijiet tas-subartikoli (5) u (6)\nta’ dan l-artikolu, tispiċċa milli tkun membru bħal dak malli\npersuna tkun ġiet maħtura biex timla l-vakanza jew, skont il-każ,\nmalli l-membru li ma setax jaqdi l-funzjonijiet tal-kariga tiegħu\njirreżumi dawk il-funzjonijiet.\n(8) Tkun il-funzjoni tal-Kummissjoni dwar l-Impiegi li tiżgura\nli, dwar l-impiegi, ebda distinzjoni, esklużjoni jew preferenza li ma\ntkunx ġustifikabbli f ’soċjetà demokratika ma għandha ssir jew\ntingħata favur jew kontra xi persuna minħabba l-opinjoni politika\ntagħha.\n(9) Kull persuna li tallega li tkun saret jew ingħatat bi ħsara\ngħaliha xi distinzjoni, esklużjoni jew preferenza kif intqal qabel\ntista’ titlob lill-Kummissjoni dwar l-Impiegi, b’dak il-mod u f’dak\niż-żmien li jista’ jiġi preskritt, għar-rimedju.\n(10) Il-Parlament għandu jipprovdi biex jingħataw lillKummissjoni dwar l-Impiegi dawk is-setgħat li jkunu meħtieġa jew\nmixtieqa sabiex il-Kummissjoni tkun tista’ effikaċement tagħti\nrimedju xieraq u b’mod ġenerali biex taqdi l-funzjonijiet tagħha\ntaħt din il-Kostituzzjoni.",
+      "metadata": {
+        "source_line_start": 5195,
+        "source_line_end": 5253
+      }
+    },
+    {
+      "provision_ref": "s122",
+      "section": "122",
+      "title": "Kummissjonijiet",
+      "content": "(1) Kull min ikun maħtur, elett jew xort’oħra magħżul\ngħal xi kariga mwaqqfa b’din il-Kostituzzjoni (magħduda l-kariga\nta’ Prim Ministru jew Ministru ieħor jew Segretarju Parlamentari)\n\nRiżenji.\n\nKOSTITUZZJONI TA’ MALTA\njista’ jirriżenja minn dik il-kariga b’kitba minn taħt idejh\nindirizzata lill-persuna jew awtorità li minnha kien maħtur, elett\njew magħżul.\n(2) Ir-riżenja ta’ xi persuna minn xi kariga bħal dik kif intqal\nqabel tibda sseħħ meta l-kitba li turi r-riżenja tiġi riċevuta millpersuna jew awtorità li lilha tkun indirizzata jew minn xi persuna\nawtorizzata minn dik il-persuna jew awtorità biex tirċeviha.\n\nĦatriet mill-ġdid,\neċċ.\nEmendat:\nLVIII.1974.61;\nXXIII.1989.8;\nXVII.1997.4.",
+      "metadata": {
+        "source_line_start": 5278,
+        "source_line_end": 5301
+      }
+    }
+  ],
+  "definitions": []
+}

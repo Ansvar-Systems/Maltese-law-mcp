@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-49-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Supervisory Consolidation (Investment Firms Directive)",
+  "title_en": "Regolamenti dwar Supervisory Consolidation (Investment Firms Directive)",
+  "short_name": "eli/sl/370.49/mlt",
+  "status": "in_force",
+  "issued_date": "2022-01-26",
+  "in_force_date": "2022-02-11",
+  "url": "https://legislation.mt/eli/sl/370.49/20250729/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.49/mlt, expression eli/sl/370.49/20250729/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SUPERVISORY CONSOLIDATION\n(INVESTMENT FIRMS DIRECTIVE)\n\n[ L.S. 370.49.\n\nLEĠISLAZZJONI SUSSIDJARJA 370.49\nREGOLAMENTI DWAR SUPERVISORY\nCONSOLIDATION (INVESTMENT FIRMS DIRECTIVE)\n11 ta’ Frar, 2022\nAVVIŻ LEGALI 24 tal-2022, kif emendat bl-Avviżi Legali 75 tal2023 u 152 tal-2025.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

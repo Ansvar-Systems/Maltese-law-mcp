@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-42-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti Merkantili (Organizzazzjonijiet ta' Bastimenti - Kumpanniji Privati)",
+  "title_en": "Regolamenti dwar Bastimenti Merkantili (Organizzazzjonijiet ta' Bastimenti - Kumpanniji Privati)",
+  "short_name": "eli/sl/234.42/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.42/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.42/mlt, expression eli/sl/234.42/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI MERKANTILI (ORGANIZZAZZJONIJIET\nTA’ BASTIMENTI - KUMPANNIJI PRIVATI)\n\n[ L.S.234.42\n\nLEĠISLAZZJONI SUSSIDJARJA 234.42\nREGOLAMENTI DWAR BASTIMENTI\nMERKANTILI (ORGANIZZAZZJONIJIET TA’\nBASTIMENTI - KUMPANNIJI PRIVATI)*\n1 ta’ Mejju, 2004\nL-AVVIŻ LEGALI 223 tal-2004, kif emendat bl-Avviżi Legali 181 u 186\ntal-2006, 411 tal-2007 u 31 tal-2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

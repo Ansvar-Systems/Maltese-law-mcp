@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-44-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Air Navigation (Dangerous Goods)",
+  "title_en": "Regolamenti dwar Air Navigation (Dangerous Goods)",
+  "short_name": "eli/sl/499.44/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-10-01",
+  "url": "https://legislation.mt/eli/sl/499.44/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.44/mlt, expression eli/sl/499.44/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "AIR NAVIGATION (DANGEROUS GOODS)\n\n[L.S.499.44\n\nLEĠISLAZZJONI SUSSIDJARJA 499.44\nREGOLAMENTI DWAR AIR NAVIGATION\n(DANGEROUS GOODS) *\n1 ta’ Ottubru, 2010\nL-AVVIŻ LEGALI 233 tal-2006, kif emendat bl-Att XL tal-2023.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

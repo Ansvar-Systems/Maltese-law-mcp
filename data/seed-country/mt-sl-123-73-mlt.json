@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-73-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Intermediary Awtorizzat (Income minn Investiment)",
+  "title_en": "Regolamenti dwar Financial Intermediary Awtorizzat (Income minn Investiment)",
+  "short_name": "eli/sl/123.73/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.73/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.73/mlt, expression eli/sl/123.73/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 404 ta’ l-2003, kif emendat bl-Avvi\\ Legali 235 ta’ l2005",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nFinancial Intermediary Awtorizzat (Income minn Investiment).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Financial Intermediary Awtorizzat (Income minn Investiment)",
+      "content": "F’dawn ir-regolamenti:\n\nTitolu.\nTifsiriet.\n\n''l-Att'' tfisser l-Att dwar it-Taxxa fuq l-Income;\n''financial intermediary awtorizzat'' tfisser, g]all-g]anijiet ta’\ndawn ir-regolamenti, persuna li tkun re[istrata b]ala financial\nintermediary awtorizzat g]all-iskopijiet tar-Regolamenti dwar\nSkemi ta’ Investiment Kollettiv (Income minn Investiment);\n\nL.S. 123.51\n\n''income minn investiment'' g]andha t-tifsira mog]tija lilha flartikolu 41 ta’ l-Att;\n''disposizzjonijiet dwar income minn investiment'' g]andha ttifsira mog]tija lilha fl-artikolu 32 ta’ l-Att.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsiriet",
+      "content": "Minkejja kull ]a[a o]ra g]all-kuntrarju li tinsab fiddisposizzjonijiet ta’ l-artikolu 33 ta’ l-Att u sakemm ma jkunx\nprovdut b’mod ie]or fir-Regolamenti dwar Skemi ta’ Investiment\nKollettiv (Income minn Investiment), meta pagament ta’ income\nminn investiment isir permezz ta’ financial intermediary awtorizzat\nskond id-disposizzjonijiet ta’ l-artikolu 41A(`)(ii) ta’ l-Att,\nfinancial intermediary awtorizzat jista’ ji[bor it-taxxa u j]allas ittaxxa hekk mi[bura mhux aktar tard mit-tletin ta’ {unju li ja]bat\nwara s-sena li fiha jkun sar il-pagament ta’ income minn\ninvestiment.\n\n|mien biex\ntin[abar u tit]allas\nit-taxxa.\nEmendat:\nA.L. 235 ta’ l2005.\nL.S. 123.51",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

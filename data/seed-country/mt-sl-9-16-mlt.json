@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-9-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tlugħ ta’ Ġurati permezz ta’ Mekkaniżmu Komputerizzat",
+  "title_en": "Regolamenti dwar it-Tlugħ ta’ Ġurati permezz ta’ Mekkaniżmu Komputerizzat",
+  "short_name": "eli/sl/9.16/mlt",
+  "status": "in_force",
+  "issued_date": "2011-02-01",
+  "in_force_date": "2011-02-01",
+  "url": "https://legislation.mt/eli/sl/9.16/20110201/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.16/mlt, expression eli/sl/9.16/20110201/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 31 tal-2011",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar itTlugħ ta’ Ġurati permezz ta’ Mekkaniżmu Komputerizzat.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet ta’ dawn ir-regolamenti l-espressjoni\n\"programm komputerizzat\" għandha tfisser il-Jurors’ Program.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Għandu jkun hemm programm komputerizzat fejn\njinżammu l-listi tal-ġurati li jkunu ttellgħu skont iddisposizzjonijiet tal-Kodiċi Kriminali biex iservu bħala ġurati\nquddiem il-Qorti Kriminali, liema programm komputerizzat ser\nikun taħt ir-responsabbiltà ta’ u jiġi mħaddem mir-Reġistratur talQrati u Tribunali Kriminali jew minn dawk il-persuni oħra li huwa\njista’ jagħżel li jiddelega.\n\nResponsabbiltà tarReġistratur.\nKap. 9.\n\n(2) Il-programm komputerizzat għandu jkun aċċessibbli biss\ngħal dawk il-persuni identifikati mir-Reġistratur minn żmien għal\nżmien.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1) Id-data ta’ din is-sistema ser tkun miżmuma filprogramm komputerizzat tal-Qorti u kull aġġustament jew tibdil\nf’dik id-data għandha tkun reġistrata fil-programm komputerizzat\nstess.\n\nKif jitħaddem ilprogramm\nkomputerizzat.\n\n(2) Il-programm komputerizzat juża bħala metodu tal-għażla ittlugħ tal-ġurati bix-xorti.\n(3) Il-lista tal-ġurati, la darba maħruġa mill-Bord tal-Ġurati\nskont id-dispożizzjonijiet tal-artikolu 606 tal-Kodiċi\nKriminali, għandha tiddaħħal fil-programm komputerizzat\nmiżmum a għal dan il -għan m ir-Reġistratur, m il-li em a lista\ngħandhom jiġu magħżula u mtellgħa dawk il-ġurati li l-Qorti tista’\ntordna li għandhom jittellgħu.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "tordna li għandhom jittellgħu",
+      "content": "(1) L-ismijiet tal-persuni magħżula bħala ġurati bilprogramm komputerizzat skont l-artikolu 605(11) tal-Kodiċi\nKriminali għandhom jiġu mqassma f’żewġ kategoriji: (a) ġurati u\n(b) ġurati speċjali.\n\nKap. 9.\n\nKif ssir u tinżamm\nil-lista tal-ġurati.\nKap. 9.\n\n(2) Dawn\nil-listi\ngħandhom\njinżammu\nfil-programm\nkomputerizzat skont l-artikolu 605(12) tal-Kodiċi Kriminali taħt irresponsabbiltà tar-Reġistratur b’mod sikur.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "fil-programm",
+      "content": "Il-listi tal-ġurati mtellgħa bil-programm komputerizzat\ngħandhom jiġu ppublikati fil-Gazzetta bl-istess mod u manjiera\nstabbilita fl-artikolu 606(5) tal-Kodiċi Kriminali.\n*ara r-regolamenti 1(2) kif promulgat oriġinarjament.\n\nPublikazzjoni talismijiet filGazzetta.\nKap. 9.\n\n[ L.S.9.16\n\nFormazzjoni talġuri.\nKap. 9.\n\nTLUGĦ TA’ ĠURATI\nPERMEZZ TA’ MEKKANIŻMU KOMPUTERIZZAT",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 86
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Publikazzjoni talismijiet filGazzetta",
+      "content": "Skont id-dispożizzjonijiet tal-artikolu 611 tal-Kodiċi\nKriminali, ir-Reġistratur għandu jaqra jgħajjat il-listi tal-ġurati u\nminn dawn għandu jtella’ bix-xorti dawk il-ġurati bil-programm\nkomputerizzat.",
+      "metadata": {
+        "source_line_start": 87,
+        "source_line_end": 94
+      }
+    }
+  ],
+  "definitions": []
+}

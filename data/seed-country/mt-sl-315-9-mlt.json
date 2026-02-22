@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-315-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll ta’ Prodotti u Rekwiżiti għat-Tipjip li Jixbħu Sigarretti jew Tabakk",
+  "title_en": "Regolamenti dwar il-Kontroll ta’ Prodotti u Rekwiżiti għat-Tipjip li Jixbħu Sigarretti jew Tabakk",
+  "short_name": "eli/sl/315.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/315.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/315.9/mlt, expression eli/sl/315.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 22 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKontroll ta’ Prodotti u Rekwi\\iti g]at-Tipjip li Jixb]u Sigarretti\njew Tabakk.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma tkunx te]tie[ xort’o]ra:\n\nTifsir.\n\n\"l-Att\" tfisser Att dwar il-Kontroll tat-Tipjip tat-Tabakk;\n\nKap. 315.\n\n\"tag]mir g]at-tabakk\" tinkludi kull prodott li j[ib l-isem ta’\nsigarrett jew tabakk u li jkun ma]sub biex jissostitwixxi prodott\ntat-tabakk jew rekwi\\it g]at-tipjip konvenzjonali u tinkludi kull\ntag]mir li ma jkunx fih nikotina, i\\da jeskludi kull tag]mir li bih\nti[i n[erita n-nikotina farma`ewtika.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull tag]mir g]at-tabakk g]andu jkun konformi maddisposizzjonijiet ta’ l-Att u ta’ kull regolament mag]mul ta]tu\nf ’kull m’g]andu x’jaqsam mar-reklamar u t-tipjip f ’postijiet\npubbli`i.\n\nTag]mir g]attabakk g]andu\njkun konformi\nmal-Att u marregolamenti.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

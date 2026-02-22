@@ -1,0 +1,125 @@
+{
+  "id": "mt-sl-605-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar ir-Reklutaġġ, Taħriġ Inizjali u Żvilupp Professjonali Kontinwu u Protezzjoni ta’ Minorenni fl-Edukazzjoni Obbligatorja",
+  "title_en": "Regolamenti dwar ir-Reklutaġġ, Taħriġ Inizjali u Żvilupp Professjonali Kontinwu u Protezzjoni ta’ Minorenni fl-Edukazzjoni Obbligatorja",
+  "short_name": "eli/sl/605.9/mlt",
+  "status": "in_force",
+  "issued_date": "2021-04-21",
+  "in_force_date": "2021-01-01",
+  "url": "https://legislation.mt/eli/sl/605.9/20210101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/605.9/mlt, expression eli/sl/605.9/20210101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 206 tal-2016, kif emendat bl-Att XXIX tal-2019",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar irReklutaġġ, Taħriġ Inizjali u Żvilupp Professjonali Kontinwu u\nProtezzjoni ta’ Minorenni fl-Edukazzjoni Obbligatorja.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Protezzjoni ta’ Minorenni fl-Edukazzjoni Obbligatorja",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\"l-Att\" tfisser l-Att dwar l-Edukazzjoni;\n\nTitolu.\n\nTifsir.\nEmendat:\nXXIX.2019.71.\nKap. 605.\n\n\"Ministru\" tfisser il-Ministru responsabbli għall-edukazzjoni;\n\"persunal\" tirreferi għall-istaff kollu impjegat fi skola.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Persunal fl-iskejjel ma jiġux impjegati sakemm impjieg\nbħal dan ma jsirx permezz ta’ sejħa miftuħa għal applikazzjonijiet,\nu reklutaġġ simili jseħħ wara intervista magħmula minn panel ta’\nintervistaturi magħmul minn għall-inqas persuna waħda li jkollha\nesperjenza xierqa fil-qasam ta’ ħidma ma’ minorenni fil-qasam\nedukattiv skont kif ikun meħtieġ.\n\nReklutaġġ ta’\npersunal.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Persunal impjegat fi skejjel għandu jkollhom ċertifikat ta’\nkondotta nadifa mingħand il-Pulizija skont id-dispożizzjonijiet\nrilevanti tal-Ordinanza dwar iċ-Ċertifikati tal-Kondotta.\n\nĊertifikat ta’\nkondotta nadifa\nmingħand ilPulizija.\nKap. 77.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 77",
+      "content": "Applikanti għandhom jimlew formola ta’ dikjarazzjoni\nmagħmula minnhom stess li fiha jiżvelaw kull kundanna, twiddiba,\nordnijiet tal-qorti u twissijiet flimkien ma’ investigazzjonijiet\nrelevanti tal-passat jew li għadhom pendenti li jistgħu jitfgħu dawl\nfuq kemm huma adatti li jaħdmu ma’ minorenni.\n\nFormola ta’\ndikjarazzjoni\nmagħmula\nminnhom stess.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 65
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "minnhom stess",
+      "content": "Kull sejħa għal applikazzjoni għal persunal biex jiġu\nimpjegati fi skejjel għandha turi kif taħsibha l-iskola rigward l-ebda\ntolleranza ta’ abbuż jew ħsara lit-tfal.\n\nEbda tolleranza ta’\nabbuż jew ħsara littfal.",
+      "metadata": {
+        "source_line_start": 66,
+        "source_line_end": 73
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "abbuż jew ħsara littfal",
+      "content": "Kemm-il darba l-iskejjel jaċċettaw referenzi dwar ilkarattru tal-applikanti, huma għandhom jivverifikaw kemm ilkontenut ta’ dawn ir-referenzi huwa veru.",
+      "metadata": {
+        "source_line_start": 74,
+        "source_line_end": 78
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Referenzi dwar ilkarattru",
+      "content": "L-iskejjel għandhom jipprovdu taħriġ induttiv u mentoraġġ\ngħall-persunal il-ġdid, liema taħriġ għandu jinkludi suġġetti relatati\nmal-protezzjoni ta-tfal.\n\nTaħriġ induttiv u\nmentoraġġ.\n\n[ L.S.605.09\n\nREKLUTAĠĠ, TAĦRIĠ INIZJALI U ŻVILUPP\nPROFESSJONALI KONTINWU U PROTEZZJONI TA’\n\nSessjonijiet ta’\ninformazzjoni.",
+      "metadata": {
+        "source_line_start": 79,
+        "source_line_end": 98
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "informazzjoni",
+      "content": "Skejjel għandhom jipprovdu sessjonijiet ta’ informazzjoni\ndwar suġġetti relatati mal-protezzjoni tat-tfal lil kull persuna li\ntaħdem direttament ma’ minorenni fil-bini kollu tal-iskola, kemm\njekk tali persuna tkun impjegata tal-iskola kemm jekk le.",
+      "metadata": {
+        "source_line_start": 99,
+        "source_line_end": 106
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Benesseri tat-tfal",
+      "content": "Kull skola għandha taħtar persuna li xogħlha jkun li\ntippromwovi suġġetti relatati mal-benesseri tat-tfal u li tkun hi lewwel persuna li tiġi kkonsultata f’każijiet fejn il-benesseri tat-tfal\nikun ikkonċernat.\n\nPolitika ta’\nprotezzjoni tat-tfal.",
+      "metadata": {
+        "source_line_start": 107,
+        "source_line_end": 113
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Benesseri tat-tfal",
+      "content": "L-iskejjel għandhom iħaddmu politika ta’ protezzjoni tattfal li tinkludi provvedimenti ta’ kif l-iskola ser tittratta kull\nallegaazzjoni relatata ma’ abbuż tat-tfal, kemm jekk dan l-abbuż\nikun iseħħ fl-iskola kemm barra mill-iskola.",
+      "metadata": {
+        "source_line_start": 114,
+        "source_line_end": 119
+      }
+    }
+  ],
+  "definitions": []
+}

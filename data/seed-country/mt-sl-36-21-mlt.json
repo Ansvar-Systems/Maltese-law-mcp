@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Prevenzjoni tal-Mard ta' l-Ilsien u tad-Dwiefer",
+  "title_en": "Regolamenti dwar il-Prevenzjoni tal-Mard ta' l-Ilsien u tad-Dwiefer",
+  "short_name": "eli/sl/36.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.21/mlt, expression eli/sl/36.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "22 ta’ Di`embru, 1967",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilPrevenzjoni tal-Mard ta’ l-Ilsien u tad-Dwiefer.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "22 ta’ Di`embru, 1967",
+      "content": "Il-Ministru responsabbli g]all-Agrikoltura jista’ jordna li\nkull la]am, prodotti tal-la]am, fdal ta’ annimal jew partijiet minn\nannimal importati f’dawn il-G\\ejjer ji[u esportati mill-[did f’dak\ni\\-\\mien li jista’ jidhirlu xieraq, meta jkun sodisfatt li fil-pajji\\ ta’\nor[ini ta’ dak il-la]am, prodotti tal-la]am, fdal ta’ annimal jew\npartijiet minn annimal ikun hemm jew kien hemm f’xi \\mien matul\nil-perijodu ta’ tliet xhur minnufih qabel il-[urnata ta’ importazzjoni\nf’dawn il-G\\ejjer ka\\ ta’ marda ta’ l-ilsien u tad-dwiefer.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "f’dawn il-G\\ejjer ka\\ ta’ marda ta’ l-ilsien u tad-dwiefer",
+      "content": "Meta importatur jonqos milli jobdi ordni b]al dak fi\\\\mien preskritt kif intqal qabel, il-Ministru responsabbli g]allAgrikoltura jista’ jordna li l-la]am, prodotti tal-la]am, fdal ta’\nannimal jew partijiet minn annimal li dwarhom ikun sar dak l-ordni\nji[u distrutti, spejje\\ ta’ l-importatur.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ji[u distrutti, spejje\\ ta’ l-importatur",
+      "content": "Ebda swill ma g]andu ji[i \\barkat minn xi bastiment,\nyacht, in[enji tal-ba]ar ta’ divertiment, dg]ajsa jew xi bi``a talba]ar simili jew minn xi in[enji ta’ l-ajru li jkunu ming]ajr lapprovazzjoni bil-quddiem tad-Direttur ta’ l-Agrikoltura u ta]t\ndawk il-kundizzjonijiet li l-imsemmi Direttur jidhirlu xieraq li\njimponi.\n\nTitolu.\nOrdni g]al\nesportazzjoni mill[did.\n\nDistruzzjoni ta’\nla]am.\n\nProjbizzjoni ta’\n\\barkar ta’ swill.\nMi\\jud:\nA.L. 22 ta’ l-1968.\nSostitwit:\nA.L. 150 ta’ l1976.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 54
+      }
+    }
+  ],
+  "definitions": []
+}

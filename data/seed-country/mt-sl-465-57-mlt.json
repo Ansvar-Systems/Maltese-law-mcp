@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-465-57-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Avvenimenti tal-Massa OrganizzatiImħassrin bl-Avviż Legali 125 tal-2022",
+  "title_en": "Regolamenti dwar Avvenimenti tal-Massa OrganizzatiImħassrin bl-Avviż Legali 125 tal-2022",
+  "short_name": "eli/sl/465.57/mlt",
+  "status": "repealed",
+  "issued_date": "2021-03-26",
+  "in_force_date": "2020-03-05",
+  "url": "https://legislation.mt/eli/sl/465.57/20220502/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.57/mlt, expression eli/sl/465.57/20220502/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "AVVENIMENTI TAL-MASSA ORGANIZZATI\n\n[ L.S. 465.57\n\nLEĠISLAZZJONI SUSSIDJARJA 465.57\nREGOLAMENTI DWAR AVVENIMENTI TAL-MASSA\nORGANIZZATI\n5 ta’ Marzu, 2021\nL-AVVIŻ LEGALI 78 tal-2021, kif emendat bl-Avviżi Legali 88, 141, 224\nu 273 tal-2021.\n\nImħassrin bl-Avviż Legali 125 tal-2022.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

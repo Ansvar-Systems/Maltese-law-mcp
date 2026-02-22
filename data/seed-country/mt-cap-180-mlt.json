@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-180-mlt",
+  "type": "statute",
+  "title": "Att dwar l-Istampar mill-Ġdid ta' Liġijiet Eżistenti Imħassar bl-Att II tal-2015",
+  "title_en": "Att dwar l-Istampar mill-Ġdid ta' Liġijiet Eżistenti Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 180(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1963-05-31",
+  "url": "https://legislation.mt/eli/cap/180/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/180/mlt, expression eli/cap/180/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STAMPAR MILL-ĠDID TA’ LIĠIJIET EŻISTENTI\n\n[ KAP. 180.\n\nKAPITOLU 180\nATT DWAR L-ISTAMPAR MILL-ĠDID\nTA’ LIĠIJIET EŻISTENTI\nBiex jaħseb għall-Istampar mill-ġdid ta’ kopji emendati ta’ liġijiet\neżistenti.\n\n31 ta’ Mejju, 1963*\nL-ATT XXI tal-1963, kif emendat bl-Avviż Legali 46 tal-1965; u bl-Atti:\nXXXI tal-1966 u LVIII tal-1974.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 202 tal-31 ta’ Mejju, 1963.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

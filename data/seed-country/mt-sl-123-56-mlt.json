@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-56-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Youth Centres (Eżenzjoni)",
+  "title_en": "Ordni dwar Youth Centres (Eżenzjoni)",
+  "short_name": "eli/sl/123.56/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.56/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.56/mlt, expression eli/sl/123.56/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-Avvi\\ Legali 185 ta’ l-2001",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Youth Centres\n(E\\enzjoni).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(E\\enzjoni)",
+      "content": "(1) L-income ta’ youth club jew youth centre organizzat u\nmmexxi esklu\\ivament g]al skopijiet pastorali jkun, blapprovazzjoni tal-Ministru tal-Finanzi, e\\enti mit-taxxa sakemm\nebda parti ta’ l- income ma tkun disponibbli g]all-benefi``ju\npersonali ta’ xi proprjetarju jew membru tieg]u.\n\n(2) Id-disposizzjonijiet tas-subartikolu (1) ma je\\entawx lil tali\nyouth club jew youth centre milli jibg]at il-formoli tat-taxxa.\n\nTitolu.\nE\\enzjoni.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-9-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Residenza tas-Sellum (Proġett Mellieħa) bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Residenza tas-Sellum (Proġett Mellieħa) bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.9/mlt, expression eli/sl/246.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 156 ta’ l-2005",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Residenza TasSellum (Pro[ett Mellie]a) b]ala |ona Spe`jali Msemmija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-Residenza tas-Sellum (Pro[ett Mellie]a) li tikkonsisti fi\nproprjetà immobbli skond Pjanta markata b]ala Dokument \"X\"\nannessa ma’ kuntratt fl-atti tan-Nutar Dottor Sandra Bugeja, b’Att\nNumru 246 tad-disg]a u g]oxrin (29) ta’ Settembru tas-sena elfejn\nu erbg]a (2004), hija b’dan imsemmija b]ala |ona Spe`jali\nMsemmija g]all-finijiet ta’ l-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni Mhux Residenti.\n\nTismija ta’ |ona\nSpe`jali.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Immobbli minn Persuni Mhux Residenti",
+      "content": "Ir-Residenza tas-Sellum (Pro[ett Mellie]a) g]andha\nti\\died mal-Lista ta’ |oni Skedati fl-Ewwel Skeda li tinsab ma’ lAtt dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux\nResidenti.\n\n|jieda ma’ lEwwel Skeda li\ntinsab ma’ l-Att.\nKap. 246.\n\nKap. 246.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

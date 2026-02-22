@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-371-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Banking Act (Consumer Credit) Għadhom mhux fis-seħħ",
+  "title_en": "Regolamenti dwar Banking Act (Consumer Credit) Għadhom mhux fis-seħħ",
+  "short_name": "eli/sl/371.23/mlt",
+  "status": "repealed",
+  "issued_date": "2025-12-02",
+  "in_force_date": "2025-11-18",
+  "url": "https://legislation.mt/eli/sl/371.23/20251118/mlt",
+  "description": "Official text from legislation.mt (eli/sl/371.23/mlt, expression eli/sl/371.23/20251118/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BANKING ACT (CONSUMER CREDIT)\n\n[ L.S. 371.23]\n\nLEĠISLAZZJONI SUSSIDJARJA 371.23\nREGOLAMENTI DWAR BANKING ACT\n(CONSUMER CREDIT)\n*\n\nL-AVVIŻ LEGALI 265 tal-2025.\n\n*Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n*Għadu mhux fis-seħħ.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

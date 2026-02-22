@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-24-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Companies Act (Suspension of Filing for Dissolution and Winding Up)",
+  "title_en": "Regolamenti dwar Companies Act (Suspension of Filing for Dissolution and Winding Up)",
+  "short_name": "eli/sl/386.24/mlt",
+  "status": "in_force",
+  "issued_date": "2020-10-19",
+  "in_force_date": "2020-09-15",
+  "url": "https://legislation.mt/eli/sl/386.24/20240315/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.24/mlt, expression eli/sl/386.24/20240315/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANIES ACT (SUSPENSION OF FILING FOR\nDISSOLUTION AND WINDING UP)\n\n[ L.S.386.24\n\nLEĠISLAZZJONI SUSSIDJARJA 386.24\nREGOLAMENTI DWAR COMPANIES ACT\n(SUSPENSION OF FILING FOR DISSOLUTION AND\nWINDING UP) *\n15 ta’ Settembru, 2020\n\nL-AVVIŻ LEGALI 373 tal-2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n*Vide l-Avviż Legali 70 tal-2024.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

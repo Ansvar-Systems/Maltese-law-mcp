@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-449-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tal-Bejgħ ta’ Aċidu Boriku f’Mediċinali",
+  "title_en": "Regolamenti dwar il-Kontroll tal-Bejgħ ta’ Aċidu Boriku f’Mediċinali",
+  "short_name": "eli/sl/449.5/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.5/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.5/mlt, expression eli/sl/449.5/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 118 ta’ l-1976",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKontroll tal-Bejg] ta’ A`idu Boriku f’Medi`inali.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, \"tbieg]\" tinkludi toffri, turi,\ntirreklama jew i\\\\omm g]all-bejg].",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma tista’ timporta, tiffabbrika jew tbieg] xi\npreparat medi`inali, ma]sub g]al u\\u ntern, li jkun fih a`idu boriku\njew sodium borate.\n\nKontroll ta’\nimportazzjoni, e``.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma tista’ tbieg] xi preparat medi`inali li jkun\nfih a`idu boriku jew sodium borate, ma]sub g]al u\\u estern,\nkemm-il darba r-re`ipjent ma jkollux tikketta, li tinqara `ar, bilkliem \"VELENU - G]al u\\u estern biss. M’g]andux jintu\\a fuq il[ilda ta’ trabi jew tfal ta]t it-tliet snin.\".\n\nTikketta meta jkun\ng]al u\\u estern.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

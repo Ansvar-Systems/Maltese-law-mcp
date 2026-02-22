@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-327-224-mlt",
+  "type": "statute",
+  "title": "Statut dwar il-Funzjonament tal-Bordijiet ta' l-Università",
+  "title_en": "Statut dwar il-Funzjonament tal-Bordijiet ta' l-Università",
+  "short_name": "eli/sl/327.224/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2021-01-01",
+  "url": "https://legislation.mt/eli/sl/327.224/20210101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.224/mlt, expression eli/sl/327.224/20210101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 308 ta’ l-2002, kif emendat bl-Att XXIV tal-2019",
+      "content": "It-titolu ta’ dan l-Istatut hu Statut 12 - Statut dwar ilFunzjonament tal-Bordijiet ta’ l-Università.\n\nTitolu.\n\nSTATUT 12 - STATUT DWAR IL-FUNZJONAMENT TALBORDIJIET TA’ L-UNIVERSITÀ",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Minkejja kull terminu provdut fi kwalunkwe statut jew\nregolament, jew fir-riżoluzzjoni tal-ħatra tiegħu, kull bord,\nkummissjoni, kumitat jew kwalunkwe korp ieħor imwaqqaf minn\njew skond l-istatuti u r-regolamenti ta’ l-Università ta’ Malta jew\ntaħt kwalunkwe korp ta’ tmexxija ta’ l-Università, u kwalunkwe\nmembru ta’ dan, għandu jkompli fl-ħatra sakemm jinħatar bord\nġdid jew membru ġdid, u dan sakemm il-bord ma jkunx\nespressament xolt mill-korp li ħatru.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Sakemm mħux provdut mod ieħor mill-istrument li waqqaf\ndan il-korp, il-quorum tal-laqgħat ta’ korp bħal dan għandu jkun\nwieħed aktar minn terz tal-membri.\nKull korp imsemmi f’dan l-istatut jista’ jistieden\nkwalunkwe persuna biex tkun preżenti u tagħti pariri u\ninformazzjoni f’laqgħat bħal dawn iżda din il-persuna m’għandħiex\nvot f’dan il-korp.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "vot f’dan il-korp",
+      "content": "Dan l-istatut għandu jitqies li ġie fis-seħħ mid-data meta\nġie fis-seħħ l-Att dwar l-Edukazzjoni.\n\nEmendat:\nXXIX.2019.71.\nKap. 605.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

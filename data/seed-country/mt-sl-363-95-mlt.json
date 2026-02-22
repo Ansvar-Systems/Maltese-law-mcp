@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-363-95-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Delega ta' Funzjoni lill Kunsill Lokali (Ftuh ta' Wiċċ ta' Triq)",
+  "title_en": "Ordni dwar Delega ta' Funzjoni lill Kunsill Lokali (Ftuh ta' Wiċċ ta' Triq)",
+  "short_name": "eli/sl/363.95/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.95/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.95/mlt, expression eli/sl/363.95/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 314 tal-2002",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar Delega ta’ Funzjoni\nlil Kunsilli Lokali (Ftu] ta’ Wi`` ta’ Triq).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "lil Kunsilli Lokali (Ftu] ta’ Wi`` ta’ Triq)",
+      "content": "(1) Kull Kunsill Lokali qieg]ed b’dan ji[i delegat bilfunzjoni ta’ ]ru[ ta’ li`enza ta]t ir-regolament 4(1) tarRegolamenti dwar Li`enzi mill-Kunsilli Lokali g]all-Ftu] ta’ Wi``\nta’ Triq, meta dawk ix-xog]lijiet ikunu ta’ xorta \\g]ira hekk li larea totali tal-ftu] ma tkunx aktar minn 500m 2 u mhux aktar minn",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 19
+      }
+    }
+  ],
+  "definitions": []
+}

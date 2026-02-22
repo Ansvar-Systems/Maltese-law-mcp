@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-350-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Antennni fis-Servizzi ta' Xandir bit-Televiżjoni",
+  "title_en": "Regolamenti dwar Antennni fis-Servizzi ta' Xandir bit-Televiżjoni",
+  "short_name": "eli/sl/350.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.2/mlt, expression eli/sl/350.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 71 ta’ l-1998, kif emendat bl-Avvi\\ Legali 65 ta’ l1999",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nAntenni fis-Servizzi ta’ Xandir bit-Televi\\joni.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Antenni fis-Servizzi ta’ Xandir bit-Televi\\joni",
+      "content": "Dawn ir-regolamenti g]andhom jipprevalu fuq iddisposizzjonijiet tal-paragrafu 1( h) ta’ l-Ewwel Skeda u talparagrafu 16 tat-Taqsima ~ tar-Raba' Skeda li tinsab ma’ l-Att\ndwar ix-Xandir, safejn dawn il-paragrafi jirregolaw is-sistemi ta’ lantenni jew it-tqeg]id ta’ sistemi ta’ l-antenni g]al servizzi ta’\nxandir bit-televi\\joni. Id-disposizzjonijiet li jifdal ta’ l-Ewwel u\ntar-Raba’ Skedi msemmija g]andhom jibqg]u japplikaw dwar\nservizzi ta’ xandir bit-televi\\joni g]ar-rigward ta’ dawk il-]wejje[\nli mhumiex spe`ifikati f’dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "li mhumiex spe`ifikati f’dawn ir-regolamenti",
+      "content": "(1) Id-disposizzjonijiet tal-paragrafu 1(h) ta’ l-Ewwel\nSkeda u tal-paragrafu 16 tat-Taqsima ~ tar-Raba’ Skeda li jinsabu\nma’ l-Att dwar ix-Xandir, ma g]andhomx ikunu japplikaw g]al\nservizzi ta’ xandir bit-televi\\joni.\n\n(2) Bla ]sara g]ad-disposizzjoni tas-subregolament (3), isservizzi ta’ xandir bit-televi\\joni g]andhom ju\\aw dawk is-sistemi\nta’ l-antenni u postijiet g]al sistemi ta’ l-antenni hekk kif lAwtorit à tax-Xandir, wara konsultazzjoni mad-Direttur tatTelegrafija ming]ajr Fili, tista’ tapprova bil-miktub.\n(3) Dawn ir-regolamenti ma je]ilsu 1il ebda persuna milli\ntikseb xi permess li jista’ jkun me]tie[ skond il-li[i ming]and lAwtorità ta' 1-Ippjanar, il-Ministru responsabbli g]at-Telegrafija\nming]ajr Fili jew ming]and xi persuna jew korp ie]or, sabiex\ntittella’ jew tit]addem xi sistema ta’ l-antenna.\n\nTitolu.\nValidità ta’ dawn\nir-regolamenti\ng]ar-rigward ta’ lAtt.\nKap. 350.\n\nAntenni g]al\nservizz ta’ xandir\nbit-televi\\joni.\nEmendat:\nA.L. 65 ta’ l-1999.\nKap. 350.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 54
+      }
+    }
+  ],
+  "definitions": []
+}

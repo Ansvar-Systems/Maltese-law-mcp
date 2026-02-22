@@ -49,9 +49,9 @@ export async function listSources(
           url: 'https://legislation.mt',
           license: 'Public access via legislation.mt (official legal texts)',
           coverage:
-            'Official Maltese chapters and subsidiary legislation ingested in this MCP corpus ' +
-            '(data protection, NIS/cybersecurity, electronic communications, e-commerce, ' +
-            'critical infrastructure resilience, digital innovation and FOI)',
+            'Country-scope Maltese corpus discovered from legislation.mt index endpoints ' +
+            '(chapters, subsidiary legislation, constitution-related instruments, and statutory law revision entries), ' +
+            'with inaccessible items recorded in ingestion failure logs',
           languages: ['en', 'mt'],
         },
       ],

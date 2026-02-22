@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-61-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Tnaqqis għal Miżati ta' Skejjel",
+  "title_en": "Regolamenti dwar Tnaqqis għal Miżati ta' Skejjel",
+  "short_name": "eli/sl/123.61/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.61/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.61/mlt, expression eli/sl/123.61/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 77 ta’ l-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nTnaqqis g]al Mi\\ati ta’ Skejjel.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Tnaqqis g]al Mi\\ati ta’ Skejjel",
+      "content": "L-iskejjel li [ejjin g]andhom jitqiesu b]ala skejjel\nimsemmijin g]all-finijiet tad-disposizzjonijiet ta’ l-artikolu 14B ta’\nl-Att dwar it-Taxxa fuq l-Income:\nAccelarated Christian Academy\nAnthony Lawrence Bartolo School\nChiswick House\nGarendon\nLittle Angels\nMariam Al Batool School\nNewark Junior School\nSan Andrea School\nSan Anton School\nSt. Edwards College\nSt. Joseph School\nSt. Catherine’s High School\nSt. Martin’s College\nSt. Michael’s Foundation\nThi Lakin\nVerdala International\n\nSt Julians\nSt Julians\nSan Gwann\nZebbug\nBirkirkara\nPaola\nSliema\nZebbiegh\nZebbiegh\nVittoriosa\nQormi\nPembroke\nSwatar\nSt Andrews\nAttard\nPembroke.\n\nTitolu.\nSkejjel\nimsemmijin.\nKap. 123.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,115 @@
+{
+  "id": "mt-sl-545-42-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Obbligi ta’ Rappurtar dwar is-Sostenibbilità taċ-Ċentri tad-Data",
+  "title_en": "Regolamenti dwar l-Obbligi ta’ Rappurtar dwar is-Sostenibbilità taċ-Ċentri tad-Data",
+  "short_name": "eli/sl/545.42/mlt",
+  "status": "in_force",
+  "issued_date": "2025-12-10",
+  "in_force_date": "2025-11-28",
+  "url": "https://legislation.mt/eli/sl/545.42/20251128/mlt",
+  "description": "Official text from legislation.mt (eli/sl/545.42/mlt, expression eli/sl/545.42/20251128/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 271 tal-2025",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar l-Obbligi ta’ Rappurtar dwar is-Sostenibbilità taċ-Ċentri tadData.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dawn ir-regolamenti hu li jittrasponu lArtikolu 12 u l-Artikolu 26(6) tad-Direttiva (UE) 2023/1791 talParlament Ewropew u tal-Kunsill tat-13 ta’ Settembru 2023 dwar leffiċjenza enerġetika u li temenda r-Regolament (UE) 2023/955\n(riformulazzjoni).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(riformulazzjoni)",
+      "content": "(1)\nF’dawn ir-regolamenti, kemm-il darba r-rabta talkliem ma teħtieġx xort’ oħra:\n\"Att\" tfisser l-Att dwar ir-Regolatur għas-Servizzi talEnerġija u l-Ilma;\n\"bażi tad-data Ewropea dwar iċ-ċentri tad-data\" tfisser ilbażi tad-data stabbilita mill-Kummissjoni Ewropea skont lArtikolu 12(3) tad-Direttiva li hi intiża sabiex tinġabar linformazzjoni li għandha tiġi kkomunikata miċ-ċentri tad-data\nobbligati, f’konformità ma’ kwalunkwe Att delegat adottat\nmill-Kummissjoni skont l-Artikolu 33(3) tad-Direttiva;\n\"ċentri tad-data obbligati\" tfisser iċ-ċentri tad-data kollha\nli jinsabu f’Malta, inkluż iċ-ċentri tad-data tal-hosting konġunt,\niċ-ċentri tad-data tal-kollokazzjoni u ċ-ċentri tad-data talintrapriżi li għandhom domanda tal-potenza totali għall-potenza\ntat-teknoloġija tal-informatika installata ta’ mill-inqas ħames\nmitt kilowatt (500kW);\n\"ċentru tad-data\" tfisser struttura jew grupp ta’ strutturi\nużati sabiex jinżammu, jiġu konnessi u jitħaddmu sistemi u, jew\nservers tal-kompjuter u tagħmir assoċjat għall-ħżin, lipproċessar u, jew id-distribuzzjoni tad-data, kif ukoll\nattivitajiet relatati;\n\"ċentru tad-data tal-hosting konġunt\" tfisser ċentru taddata li fih klijent wieħed (1) jew aktar jiġu pprovduti b’aċċess\ngħan-network jew għan-networks, għas-servers u għat-tagħmir\nta’ ħżin li fuqhom iħaddmu s-servizzi u l-applikazzjonijiet\ntagħhom stess u fejn kemm it-tagħmir tat-teknoloġija tal-\n\nTifsir.\n\nKap. 545.\n\n[ L.S. 545.42\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ TAĊĊENTRI TAD-DATA\ninformatika kif ukoll l-infrastruttura ta’ appoġġ tal-bini jiġu\npprovduti bħala servizz mill-operatur taċ-ċentru tad-data;\n\"ċentru tad-data tal-intrapriżi\" tfisser ċentru tad-data li\njitħaddem minn intrapriża u li l-uniku għan tiegħu huwa li\njipprovdi u jimmaniġġja l-ħtiġijiet tat-teknoloġija talinformazzjoni tal-intrapriża;\n\"ċentru tad-data tal-kollokazzjoni\" tfisser ċentru tad-data\nli fih klijent wieħed (1) jew aktar jinstallaw u jimmaniġġjaw innetwork jew in-networks, is-servers u t-tagħmir u s-servizzi talħżin tagħhom stess;\n\"Direttiva\" tfisser id-Direttiva (UE) 2023/1791 talParlament Ewropew u tal-Kunsill tat-13 ta’ Settembru 2023\ndwar l-effiċjenza enerġetika u li temenda r-Regolament (UE)\n2023/955 (riformulazzjoni);\n\"domanda tal-potenza tat-teknoloġija tal-informatika\ninstallata\" tfisser id-domanda tal-potenza totali nominali, f’kW,\ntan-network jew tan-networks, tas-servers u tat-tagħmir tal-ħżin\ninstallati fl-erja tal-art tal-kamra tal-kompjuters taċ-ċentru taddata;\n\"erja tal-art tal-kamra tal-kompjuters fiċ-ċentru tad-data\"\ntfisser l-erja totali tal-art fiċ-ċentru tad-data li takkomoda ttagħmir tal-ipproċessar tad-data, tal-ħżin tad-data u tattelekomunikazzjoni, li jipprovdi s-servizzi tat-teknoloġija talinformazzjoni taċ-ċentru tad-data;\n\"erja totali tal-art taċ-ċentru tad-data\" tfisser l-erja totali\ntal-art tas-sulari kollha tal-istruttura jew tal-grupp ta’ strutturi li\njikkostitwixxu ċ-ċentru tad-data;\n\"klijent tal-hosting konġunt\" tfisser persuna fiżika jew\nġuridika li tikseb aċċess għal network jew networks, servers u\ntagħmir tal-ħżin f’ċentru tad-data tal-hosting konġunt li fuqu\njoperaw is-servizzi u l-applikazzjonijiet tagħhom stess;\n\"klijent tal-kollokazzjoni\" tfisser persuna fiżika jew\nġuridika li għandha u timmaniġġja network, server u tagħmir talħżin wieħed (1) jew aktar li jinsabu f’ċentru tad-data talkollokazzjoni li fih jixtru spazju, il-potenza u l-kapaċità ta’\ntkessiħ ġestiti;\n\"Kummissjoni\" tfisser il-Kummissjoni Ewropea;\n\"Malta\" għandu jkollha l-istess tifsira kif mogħti lilha flartikolu 124 tal-Kostituzzjoni ta’ Malta;\n\"operatur taċ-ċentru tad-data\" tfisser operatur taċ-ċentru\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ\nTAĊ-ĊENTRI TAD-DATA\n\n[ L.S. 545.42\n\ntad-data tal-intrapriżi, operatur taċ-ċentru tad-data talkollokazzjoni jew operatur taċ-ċentru tad-data tal-hosting\nkonġunt;\n\"operatur taċ-ċentru tad-data tal-hosting konġunt\" tfisser\npersuna fiżika jew ġuridika li timmaniġġja l-ispazju, is-sigurtà,\nl-aċċess għan-network, il-potenza, it-tkessiħ, in-network jew\nnetworks, is-servers u t-tagħmir tal-ħżin taċ-ċentru tad-data talhosting konġunt, u parti mis-software meħtieġ sabiex jiġu\npprovduti servizzi tat-teknoloġija tal-informatika lil klijent\nwieħed (1) jew aktar, inkluża l-esternalizzazzjoni tatteknoloġija tal-informatika;\n\"operatur ta’ ċentru tad-data tal-intrapriżi\" tfisser persuna\nfiżika jew ġuridika li timmaniġġja ċ-ċentru tad-data talintrapriżi kollu, inkluż il-bini u l-użu tas-servizzi tat-teknoloġija\ntal-informatika mogħtija;\n\"operatur taċ-ċentru tad-data tal-kollokazzjoni\" tfisser\npersuna fiżika jew ġuridika li timmaniġġja u tbigħ l-ispazju, issigurtà, l-aċċess għan-network, il-potenza u l-kapaċità tattkessiħ fiċ-ċentru tad-data tal-kollokazzjoni kollu lil klijent\nwieħed (1) jew aktar li jinstallaw u jimmaniġġjaw in-network\njew in-networks, is-servers u t-tagħmir u s-servizzi tal-ħżin\ntagħhom stess;\n\"Regolament Delegat tal-Kummissjoni\" tfisser irRegolament Delegat tal-Kummissjoni (UE) 2024/1364 tal-14\nta’ Marzu 2024 dwar l-ewwel fażi tal-istabbiliment ta’ skema\nkomuni ta’ klassifikazzjoni tal-Unjoni għaċ-ċentri tad-data\nadottat skont l-Artikolu 33(3) tad-Direttiva.\n(2)\nKemm-il darba r-rabta tal-kliem ma teħtieġx\nxort’oħra, kliem u frażijiet użati f’dawn ir-regolamenti li\nmhumiex imfissra f’dawn ir-regolamenti għandu jkollhom listess tifsira kif mogħti lilhom fir-Regolamenti dwar lEffiċjenza fl-Enerġija.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 117
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "xort’oħra, kliem u frażijiet użati f’dawn ir-regolamenti li",
+      "content": "(1)\nIs-sidien u l-operaturi taċ-ċentri tad-data obbligati\ngħandhom, sal-15 ta’ Mejju ta’ kull sena, ipoġġu għad-dispożizzjoni\ntal-pubbliku l-informazzjoni stabbilita fl-Ewwel Skeda.\n(2)\nL-obbligu ta’ rappurtar imsemmi fis-subregolament (1)\nma għandux japplika għal dawk iċ-ċentri tad-data użati għal, jew li\njipprovdu s-servizzi tagħhom esklussivament bl-għan aħħari tad-difiża\nu l-protezzjoni ċivili.\n(3)\nL-obbligu msemmi fis-subregolament (1) għandu jiġi\nsodisfatt permezz tal-pubblikazzjoni tal-formola disponibbli fitTaqsima B tal-Ewwel Skeda.\n\nL.S. 545.33.\nObbligu ta’\nrappurtar taċ-ċentri\ntad-data.\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ TAĊĊENTRI TAD-DATA",
+      "metadata": {
+        "source_line_start": 118,
+        "source_line_end": 145
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "OBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ TAĊĊENTRI TAD-DATA",
+      "content": "(1)\nL-operaturi taċ-ċentri tad-data obbligati għandhom\njissorveljaw u jikkomunikaw lill-bażi tad-data Ewropea dwar iċ-ċentri\ntad-data, kwalunkwe informazzjoni u indikaturi ewlenin talprestazzjoni kif meħtieġ mir-Regolament Delegat tal-Kummissjoni u\nkwalunkwe att delegat ieħor adottat mill-Kummissjoni skont l-Artikolu\n33(3) tad-Direttiva.\n\n[ L.S. 545.42\n\nObbligu ta’\nrapurtar fil-bażi\ntad-data Ewropea\ndwar iċ-ċentri taddata.\n\n(2)\nL-operaturi taċ-ċentri tad-data obbligati għandhom, sal-15\nta’ Mejju ta’ kull sena, jikkomunikaw lill-bażi tad-data Ewropea dwar lobbligu taċ-ċentri tad-data deskritt fis-subregolament (1).\nInformazzjoni\nmeħtieġa minn\npartijiet terzi.",
+      "metadata": {
+        "source_line_start": 146,
+        "source_line_end": 167
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "partijiet terzi",
+      "content": "L-operaturi taċ-ċentri tad-data għandhom jistabbilixxu\nkwalunkwe arranġamenti li jistgħu jkunu meħtieġa sabiex jiksbu\ninformazzjoni mill-klijenti jew minn partijiet terzi, inkluż mill-klijenti\nta’ ċentri tad-data tal-kollokazzjoni u mill-klijenti ta’ ċentri tad-data\ntal-hosting konġunt, skont il-każ, li hija meħtieġa sabiex tiġi żgurata\nkonformità f’waqtha mal-obbligi msemmija fir-regolamenti 3 u 4.\n\nObbligu tal-użu\ntas-sħana mormija.",
+      "metadata": {
+        "source_line_start": 168,
+        "source_line_end": 178
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "tas-sħana mormija",
+      "content": "(1)\nL-operaturi taċ-ċentri tad-data b’input totali ta’\nenerġija nominali li jeċċedi megawatt wieħed (1MW) għandhom, wara\nl-11 ta’ Ottubru, 2025, jużaw is-sħana mormija jew applikazzjonijiet\noħra għall-irkupru tas-sħana mormija, sakemm ma jkunux jistgħu juru\nli mhuwiex teknikament jew ekonomikament fattibbli skont ilvalutazzjoni msemmija fis-subregolament (2).\n(2)\nL-operaturi taċ-ċentri tad-data għandhom jagħmlu analiżi\ntal-ispejjeż u l-benefiċċji fil-livell tal-istallazzjoni skont it-Taqsima A\ntat-Tieni Skeda sabiex jiġu vvalutati, tal-inqas, il-fattibilità teknika, leffiċjenza tal-ispiża u l-impatt fuq l-effiċjenza tal-enerġija u d-domanda\nlokali għas-sħana, inkluża l-varjazzjoni staġjonali, tal-użu tas-sħana\nmormija sabiex tissodisfa domanda ekonomikament ġustifikata, u talkonnessjoni ta’ tali istallazzjoni ma’ network ta’ tisħin distrettwali jew\nma’ sistema ta’ tkessiħ distrettwali effiċjenti jew ibbażata fuq sorsi ta’\nenerġija rinnovabbli, jew applikazzjonijiet oħra għall-irkupru tas-sħana\nmormija.\n(3)\nL-analiżi msemmija fis-subregolament (2) għandha ssir\nkull meta ċentru tad-data b’input totali ta’ enerġija nominali ta’ aktar\nminn megawatt wieħed (1MW) ikun qiegħed jiġi ppjanat mill-ġdid jew\nrinovat sostanzjalment u għandha tikkunsidra soluzzjonijiet ta’ sistema\nta’ tkessiħ li jippermettu t-tneħħija jew l-irkupru tas-sħana mormija\nf’livell ta’ temperatura utli b’inputs ta’ enerġija anċillari minimi.\n(4)\nFi żmien sitt (6) xhur mill-konklużjoni ta’ analiżi talispejjeż u l-benefiċċji mwettqa skont is-subregolament (2), l-operatur\ntaċ-ċentru tad-data jew l-iżviluppatur, skont il-każ, għandu\njikkomunika l-informazzjoni elenkata fit-Taqsima B tat-Tieni Skeda lirRegolatur.\n(5)\nKwalunkwe ċentri tad-data li s-sħana mormija tagħhom\nhija użata jew tkun se tintuża f’network ta’ tisħin distrettwali jew\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ\nTAĊ-ĊENTRI TAD-DATA\n\n[ L.S. 545.42\n\ndirettament għat-tisħin tal-ispazju, għall-preparazzjoni ta’ ilma sħun\ndomestiku jew użi oħra fil-bini jew grupp ta’ bini jew faċilitajiet fejn\ntkun tinsab, għandhom ikunu eżentati mill-applikazzjoni ta’ dan irregolament:\nIżda tali eżenzjoni tista’ tkun soġġetta għal limiti\nstabbiliti mir-Regolatur, espressi f’termini tal-ammont ta’ sħana\nmormija utli disponibbli.",
+      "metadata": {
+        "source_line_start": 179,
+        "source_line_end": 223
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "mormija utli disponibbli",
+      "content": "L-obbligi li joħorġu mir-regolamenti 3(1), 4(1) u 5\nmhumiex maħsuba sabiex jissostitwixxu, u għandhom ikunu bla ħsara\ngħal kwalunkwe obbligi oħra li jistgħu jkunu applikabbli għaċ-ċentri\ntad-data kif jistgħu joħorġu minn kwalunkwe liġi oħra bħal obbligi firrigward tal-implimentazzjoni ta’ sistema ta’ ġestjoni tal-enerġija, ittfassil ta’ pjan ta’ azzjoni bbażat fuq ir-rakkomandazzjonijiet li\njoħorġu minn verifiki tal-enerġija obbligatorji u l-pubblikazzjoni\ntagħhom fir-rapport annwali tal-impriża li għandha xi obbligu skont\ndawn ir-regolamenti.\n\nObbligi bla ħsara\ngħal obbligi oħra.",
+      "metadata": {
+        "source_line_start": 224,
+        "source_line_end": 235
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "għal obbligi oħra",
+      "content": "(1)\nIr-Regolatur jista’ jimponi penali amministrattiva\nfuq kwalunkwe persuna li tikser xi dispożizzjoni ta’ dawn irregolamenti jew li tonqos milli tikkonforma ma’ xi direttiva jew\ndeċiżjoni mogħtija mir-Regolatur sabiex tiżgura konformità ma’ dawn\nir-regolamenti.\n\nPenali\namministrattiva.\n\n(2)\nKwalunkwe penali amministrattiva imposta skont issubregolament (1) ma għandhiex teċċedi ħamest elef euro (€5,000)\ngħal kull ksur.",
+      "metadata": {
+        "source_line_start": 236,
+        "source_line_end": 248
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "għal kull ksur",
+      "content": "Għall-finijiet ta’ appell fir-rigward ta’ deċiżjoni tarRegolatur u ta’ penali amministrattiva, it-Taqsima VI tal-Att għandha\ntapplika mutatis mutandis.",
+      "metadata": {
+        "source_line_start": 249,
+        "source_line_end": 251
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "tapplika mutatis mutandis",
+      "content": "Kwalunkwe persuna li:\n\n(a)\nxjentement jew b’negliġenza taġixxi bi ksur ta’ xi\ndispożizzjoni ta’ dawn ir-regolamenti;\n(b)\ntonqos milli tħares kwalunkwe ordni leġittima\nrelatata ma’ dawn ir-regolamenti; jew\n(ċ)\ntagħmel dikjarazzjoni jew tissottometti\ninformazzjoni għal kwalunkwe mill-għanijiet ta’ dawn irregolamenti li tkun materjalment falza, qarrieqa jew skorretta,\ngħandha tkun ħatja ta’ reat kontra dawn ir-regolamenti u\ngħandha, meta tinsab ħatja, teħel multa ta’ mhux iżjed minn għaxart\nelef euro (€10,000).\n\nDritt ta’ appell.\n\nReati u pieni.\n\n[ L.S. 545.42\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ TAĊĊENTRI TAD-DATA\n(regolament 3)\n\nTaqsima A\nRekwiżiti minimi għas-Sorveljanza u l-Pubblikazzjoni tal-Prestazzjoni\ntal-Enerġija taċ-Ċentri tad-Data\nL-informazzjoni minima li ġejja għandha tiġi sorveljata u\nppubblikata fir-rigward tal-prestazzjoni tal-enerġija taċ-ċentri tad-data\nmsemmija fir-regolament 3:\n(a)\nl-isem taċ-ċentru tad-data, l-isem tas-sid u loperaturi taċ-ċentru tad-data, id-data li fiha ċ-ċentru tad-data\nbeda l-operazzjonijiet tiegħu u l-lokalità fejn huwa bbażat iċċentru tad-data ;\n(b)\nl-erja tal-art taċ-ċentru tad-data, il-potenza\ninstallata, it-traffiku annwali tad-data li tidħol u toħroġ, u lammont ta’ data maħżuna u pproċessata fiċ-ċentru tad-data;\n(ċ)\nil-prestazzjoni, matul l-aħħar sena kalendarja\nsħiħa, taċ-ċentru tad-data skont l-indikaturi ewlenin talprestazzjoni dwar, inter alia, il-konsum tal-enerġija, lutilizzazzjoni tal-potenza, il-punti stabbiliti tat-temperatura, lużu tas-sħana mormija, l-użu tal-ilma u l-użu tal-enerġija\nrinnovabbli.\nTaqsima B\nInformazzjoni Ġenerali Dwar iċ-Ċentru tad-Data\nIsem\ntaċĊentru tad-Data\nSid(ien)\ntaċĊentru tad-Data\nOperatur(i)\ntaċ-Ċentru tad-Data\n(jekk differenti missid(ien))\nData li fiha ċĊentru tad-Data beda\njopera\nLokalità taċĊentru tad-Data\nData Speċifika għall-Perjodu ta’ Rappurtar\nData tal-Bidu\ntal-Perjodu\nta’\nRappurtar\n\nOBBLIGI TA’ RAPPURTAR DWAR IS-SOSTENIBBILITÀ\nTAĊ-ĊENTRI TAD-DATA\n\n[ L.S. 545.42\n\nData\ntatTmiem\ntal-Perjodu\nta’ Rappurtar\nŻona\ntal-art\ntaċ-Ċentru tad-Data\nPotenza\nInstallata\nTraffiku\nta’\nData Annwali - Dħul\nTraffiku\nta’\nData Annwali - Ħruġ\nAmmont\nta’\nData Maħżuna fiċĊentru tad-Data\nAmmont\nta’\nData Ipproċessata fiċĊentru tad-Data\nKonsum\ntalEnerġija\nUtilizzazzjoni\ntal-Potenza\nPunti stabbiliti\ntat-temperatura\nUtilizzazzjoni\ntas-Sħana Mormija\nKonsum\ntalIlma\nEnerġija\nRinnovabbli Użata\nL-informazzjoni li hija soġġetta għal-liġijiet tal-Unjoni\nEwropea u Maltin li jipproteġu s-sigrieti tal-kummerċ u tan-negozju u\nl-kunfidenzjalità ma għandhiex titpoġġa għad-dispożizzjoni talpubbliku miċ-ċentru tad-data. Din l-informazzjoni għandha tiġi\nmmarkata bħala kunfidenzjali fi kwalunkwe sottomissjoni li ssir\nb’sodisfazzjon tal-obbligi skont dawn ir-regolamenti.\n(regolament 6)\nTaqsima A\nAnaliżi tal-ispejjeż u l-benefiċċji\nL-analiżi tal-ispejjeż u l-benefiċċji għandhom jipprovdu\ninformazzjoni għall-fini tal-miżuri msemmija fir-regolament 6 kif ġej:",
+      "metadata": {
+        "source_line_start": 252,
+        "source_line_end": 365
+      }
+    }
+  ],
+  "definitions": []
+}

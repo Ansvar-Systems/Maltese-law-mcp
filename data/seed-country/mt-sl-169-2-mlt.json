@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-169-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar in-Nomina ta' Awtorità Kompetenti (Ordinanza dwar il-Kummissarju ta' l-Artijiet)",
+  "title_en": "Regolamenti dwar in-Nomina ta' Awtorità Kompetenti (Ordinanza dwar il-Kummissarju ta' l-Artijiet)",
+  "short_name": "eli/sl/169.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/169.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/169.2/mlt, expression eli/sl/169.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 360 ta’ l-2004",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar inNomina ta’ Awtorità Kompetenti (Ordinanza dwar il-Kummissarju\nta’ l-Artijiet).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Malta Industrial Parks Limited (C 28965) hija msemmija\nb]ala l-awtorità kompetenti g]all-finijiet ta’ l-artikolu 2 ta’ lOrdinanza dwar il-Kummissarju ta’ l-Artijiet.\n\nNomina.\nKap. 169.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

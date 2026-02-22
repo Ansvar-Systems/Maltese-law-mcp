@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-460-34-mlt",
+  "type": "statute",
+  "title": "Ordni li jemenda l-Att tal-2018 dwar il-Logħob",
+  "title_en": "Ordni li jemenda l-Att tal-2018 dwar il-Logħob",
+  "short_name": "eli/sl/460.34/mlt",
+  "status": "in_force",
+  "issued_date": "2018-07-05",
+  "in_force_date": "2018-07-05",
+  "url": "https://legislation.mt/eli/sl/460.34/20180705/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.34/mlt, expression eli/sl/460.34/20180705/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 204 tal-2018",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni li jemenda l-Att tal2018 dwar il-Logħob, u dan l-Ordni għandu jinqara u jinftiehem ħaġa\nwaħda mal-Att tal-2018 dwar il-Logħob, hawnhekk iżjed ’il quddiem\nimsejjaħ \"l-Att prinċipali\".",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-paragrafu (a) tas-subartikolu (2) tal-artikolu 1 tal-Att\nprinċipali għandu jiġi sostitwit bil-paragrafu ġdid li ġej:\n\nJemenda l-artikolu\n1 tal-Att prinċipali.\n\nAtt XVI tal-2018.\n\n\"(a)\nMingħajr preġudizzju għall-paragrafu (b), iddispożizzjonijiet ta’ dan l-Att għandhom jidħlu fis-seħħ fl-1 ta’\nAwwissu, 2018.\".",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Att XVI tal-2018",
+      "content": "L-artikolu 57 tal-Att prinċipali għandu jiġi emendat kif\n\nġej:\n(a)\nil-proviso għas-subartikolu (4) tiegħu għandu\njiġi sostitwit b’dan li ġej:\n\"Iżda sa fejn dawn id-dispożizzjonijiet japplikaw għal logħob\nprovdut b’mezzi ta’ komunikazzjoni minn distanza, dawk iddispożizzjonijiet għandhom jibqgħu biss fis-seħħ sal-31 ta’ Lulju\n2018.\"; u\n(b) fil-paragrafu (b) tas-subartikolu (5) tiegħu, minflok il-kliem\n\"wara l-1 ta’ Lulju 2018,\" għandhom jidħlu l-kliem \"wara l-1 ta’\nAwwissu 2018,\".\n\nJemenda l-artikolu\n57 tal-Att\nprinċipali.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

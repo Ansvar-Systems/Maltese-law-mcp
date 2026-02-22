@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-27-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Tarġa Square bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Tarġa Square bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.27/mlt",
+  "status": "in_force",
+  "issued_date": "2023-03-01",
+  "in_force_date": "2023-02-21",
+  "url": "https://legislation.mt/eli/sl/246.27/20230221/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.27/mlt, expression eli/sl/246.27/20230221/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 39 tal-2023",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Tarġa Square\nbħala Żona Speċjali Msemmija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Tarġa Square, li jikkonsisti fi proprjetà immobbli li\ntinsab fiż-żona delineata bl-aħmar fil-Pjanta tar-Reġistru tal-Artijiet\nannessa ma’ dan l-Ordni, hija b’dan imsemmija bħala Żona Speċjali\nMsemmija għall-finijiet tal-Att dwar l-Akkwist ta’ Proprjetà Immobbli\nminn Persuni Mhux Residenti.\n\nŻona speċjali\nmsemmija.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Tarġa Square għandha tiżdied mal-Lista ta’ Żoni Skedati\nfl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni Mhux Residenti.\n\nŻieda mal-Ewwel\nSkeda li tinsab\nmal-Att.\nKap. 246.\n\nKap. 246.\n\n[ L.S. 246.27\n\nTARĠA SQUARE BĦALA ŻONA SPEĊJALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

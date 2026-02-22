@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-73-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ħlas ta' Dritt lill-Barklori",
+  "title_en": "Regolamenti dwar il-Ħlas ta' Dritt lill-Barklori",
+  "short_name": "eli/sl/73.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/73.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/73.1/mlt, expression eli/sl/73.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "16 ta’ Settembru, 1957",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar il}las ta’ Dritt lill-Barklori.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-a[ent ta’ kull vapur, li l-passi[[ieri tieg]u jkunu\nimbarkaw jew sbarkaw b’mezzi barra minn dg]ajjes, g]andu mhux\naktar tard minn erbg]a u g]oxrin sieg]a wara t-tluq tal-vapur,\njibg]at lill-Kontrullur tad-Dwana werrej li juri n-numru ta’\npassi[[ieri li jkunu hekk imbarkaw jew sbarkaw f ’kull [urnata\ns]i]a li matulha l-vapur baqa’ fil-port, b’dettalji fuq kull passi[[ier\ndwar jekk huwa jkunx imbarka biss jew sbarka biss jew it-tnejn.\n\nL-a[ent g]andu\njibg]at werrej lillKontrullur tadDwana.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "G]andu jit]allas dritt ta’ erba’ `ente\\mi (0.04) g]al kull\npassi[[ier li jimbarka jew jisbarka b’dan il-mod u ta’ tmien\n`ente\\mi (0.08) g]al kull passi[[ier li jimbarka u jisbarka b’dan ilmod jew jisbarka jew jimbarka f’[urnata wa]da u l-ammont totali\ng]andu jit]allas mill-a[ent tal-vapur lill-Kontrullur tad-Dwana fil]in li huwa jibg]at il-werrej imsemmi fir-regolament 2, bi tnaqqis\nta’ ]amsa fil-mija fuq l-ammont imsemmi hawn fuq, illi l-a[ent talvapur jista’ j\\omm b]ala ]las g]as-servizzi tieg]u.\n\nDrittijiet.\nEmendat:\nA.L. 408 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Drittijiet",
+      "content": "Il-Kontrullur tad-Dwana g]andu, kull sitt xhur, i]allas lil\nrappre\\entant tal-barklori li jkollhom il-li`en\\a li ja]dmu fil-Port\nil-Kbir u fil-Port ta’ Marsamxett kull flus li ji[bor mill-]las tadd r i t t i j i e t i m s e m m i j i n f i r- r e g o l a m e n t 3 u g ] a n d h a t k u n i rr e s p o n s a b b i l t à t a ’ d a n i r- r a p p r e \\ e n t a n t l i j q a s s a m i l - f l u s\nimsenmijin fi proporzjonijiet indaqs fost il-barklori li, kif imsemmi\nhawn fuq, ikollhom il-li`enza kif g]andha tkun, matul i\\-\\mien li\njkollu x’jaqsam.\n\nIl-Kontrullur tadDwana j]allas lflus li ji[bor.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

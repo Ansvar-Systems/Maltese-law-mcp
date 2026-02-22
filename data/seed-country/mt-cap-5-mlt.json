@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-5-mlt",
+  "type": "statute",
+  "title": "Ligi dwar Wegħdiet taż-Żwieġ",
+  "title_en": "Ligi dwar Wegħdiet taż-Żwieġ",
+  "short_name": "Kap. 5",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1834-06-28",
+  "url": "https://legislation.mt/eli/cap/5/18340628/mlt",
+  "description": "Official text from legislation.mt (eli/cap/5/mlt, expression eli/cap/5/18340628/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bil-PROKLAMA NRU. VI TAL-1834",
+      "content": "Din il-Proklama tista’ tissejjaħ il-Liġi dwar Wegħdiet ta’\n|wieġ.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Ebda qorti f’Malta ma għandha ġurisdizzjoni, setgħa jew\nawtorità li ġġiegħel bil-fors, tiġġudika, tiddigrieta jew tordna\nspeċifikatament lil persuna li tesegwixxi jew tkompli wegħda ta’\nżwieġ magħmula lil persuna oħra, jew kuntratt jew ftehim li tkun\ngħamlet ma’ persuna oħra dwar ċelebrazzjoni ta’ żwieġ.\n\nIl-qrati ma\ngħandhomx setgħa\nli jordnaw lesekuzzjoni\nspeċifika ta’\nwegħdiet ta’\nżwieġ.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "(l) B’dana kollu, jekk persuna kapaċi skond il-liġi li\ntobbliga ruħha, jew persuna li ma tkunx hekk kapaċi minħabba li\ntkun taħt is-setgħa tal-missier jew taħt setgħa leġittima oħra jew\ntaħt xi limitazzjoni, iżda li taġixxi bil-kunsens mogħti lilha kif\nimiss mill-persuna jew persuni li jkollhom skond il-liġi dik issetgħa, tagħmel dik il-wegħda, kuntratt, jew ftehim kif jingħad\nhawn fuq, u tiksirhom volontarjament u illegalment, jew, wara li\ntagħmel il-wegħda, kuntratt, jew ftehim fuq imsemmijin, tirrifjuta\nillegalment li tesegwihom fi żmien xieraq, wara li tiġi mitluba, (u\njekk hux biżżejjed dan iż-żmien hija kompetenti li tiġġudika lqorti), il-parti offiża għandha jedd li teżerċita l-azzjoni ta’ danni\nkontra l-parti ħatja ta’ dak il-ksur jew ta’ dak in-nuqqas ta’\nesekuzzjoni, b’dak il-mod, u taħt l-istess regoli stabbiliti mil-liġi\ngħat-talba ta’ danni għall-ksur ta’ kull wegħda, kuntratt, jew ftehim\nieħor.\n\nAzzjoni għaddanni.\n\n(2) F’kull azzjoni bħal din, il-parti offiża għandha l-jedd titlob,\nmhux biss id-danni u l-ispejjeż li jkunu fil-fatt ġew ikkaġunati u li\njko ll ho m ji ng ħataw skond il-liġi , iż da wko ll d ik is-som m a\nraġonevoli ta’ flus, b’kumpens għall-inġurja ikkaġunata, li l-qorti,\nfid-diskrezzjoni tagħha, meta tqis il-karattru u l-kondizzjoni talpartijiet kif ukoll iċ-ċirkostanzi l-oħra kollha tal-każ, jidhrilha li\nhija xierqa, u li, wara li tisma’ l-kawża, tagħti u tiffissa.\n(3) Mid-deċiżjoni tal-qorti jista’ jsir appell bl-istess mod u taħt\nl-istess regoli li l-liġi tistabbilixxi għall-appelli minn sentenzi jew\ndigrieti fuq ksur ta’ wegħdiet, kuntratti, jew ftehim ieħor.\n\n* Maħruġa fit-2 ta’ Lulju, 1834, Gazzetta tal-Gvern Nru. 1224.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 65
+      }
+    }
+  ],
+  "definitions": []
+}

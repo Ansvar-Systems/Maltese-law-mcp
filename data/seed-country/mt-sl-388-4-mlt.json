@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-388-4-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta' Lm1,500,000 addizzjonali 6.3% Stock tal-Gvern ta' Malta 1999 (It-Tielet Ħruġ)",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta' Lm1,500,000 addizzjonali 6.3% Stock tal-Gvern ta' Malta 1999 (It-Tielet Ħruġ)",
+  "short_name": "eli/sl/388.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/388.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/388.4/mlt, expression eli/sl/388.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "G}ALL-}RU{ TA’ LM1,500,000 ADDIZZJONALI",
+      "content": "3% STOCK TAL-GVERN TA’ MALTA 1999\n(IT-TIELET }RU{)\n3 ta’ Mejju, 1996\nL-AVVI| LEGALI 80 ta’ l-1996.",
+      "metadata": {
+        "source_line_start": 9,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 80 ta’ l-1996",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Ministru talFinanzi g]all-}ru[ ta’ Lm1,500,000 addizzjonali 6.3% Stock talGvern ta’ Malta 1999 (it-Tielet }ru[).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Qed ji[i b’dan awtorizzat illi, min]abba li kien hemm\nsottoskrizzjoni kbira, jin]ar[u Lm1,500,000 addizzjonali 6.3%\nStock tal-Gvern ta’ Malta 1999 (III) ma’ dawk ma]ru[in permezz\nta’ l-Avvi\\ Legali 56 ta’ l-1996, bl-istess kondizzjonijiet, sabiex\nb’hekk l-ammont totali jkun ta’ Lm9,000,000.\n\n}ru[ addizzjonali.\n\nL.S.388.01",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    }
+  ],
+  "definitions": []
+}

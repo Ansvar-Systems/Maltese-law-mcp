@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-13-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Liċenzi ta' Aġenti tal-Kummerċ",
+  "title_en": "Regolamenti dwar il-Liċenzi ta' Aġenti tal-Kummerċ",
+  "short_name": "eli/sl/13.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/13.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/13.1/mlt, expression eli/sl/13.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 115 ta’ l-1988, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilLi`enzi ta’ A[enti tal-Kummer`.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 115 ta’ l-1988, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "F’dawn ir-regolamenti -\n\n\"il-Kodi`i\" tfisser il-Kodi`i tal-Kummer`; u\n\nTitolu.\nTifsir.\nKap. 13.\n\n\"il-Kunsill\" tfisser il-Kunsill tal-Kamra tal-Kummer`.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Id-dritt li g]andu jitf]allas lill-Kunsill g]all-li`enza biex\nwie]ed ja[ixxi ta’ A[ent tal-Kummer` skond id-disposizzjonijiet\nta’ l-artikolu 71 tal-Kodi`i, huwa (i)\n\ntlieta u g]oxrin euro u disg]a u g]oxrin\n`ente\\mu (23.29) li g]andhom jit]allsu qabel\njew meta ting]ata l-li`enza; u mbag]ad wara\n(ii) tlieta u g]oxrin euro u disg]a u g]oxrin\n`ente\\mu (23.29) (hawnhekk i\\jed ’il quddiem\nimsej]in \"id-dritt ta’ kull sena\") li g]andhom\njit]allsu kull sena fl-l ta’ Jannar matul i\\-\\mien\nli ddum isse]] il-li`enza.\n\nDritt li g]andu\njit]allas.\nEmendat:\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 407 ta’ l2007",
+      "content": "Jekk dritt ta’ kull sena, li g]andu jit]allas kull sena fl-1 ta’\nJannar, ma jit]allasx sa l-1 ta’ Frar, ta’ dik is-sena, il-Kunsill\ng]andu, malajr kemm jista’ jkun, wara l-1 ta’ Frar, jibg]at avvi\\\nlill-persuna li tkun naqset t]allas dak id-dritt dwar in-nuqqas, u lKunsill jitqies li mexa skond dan ir-regolament jekk dan l-avvi\\\njintbag]at bil-posta re[istrata m]allsa bil-quddiem fl-indirizz soltu\njew mag]ruf b]ala li fl-a]]ar kienet toqg]od fih il-persuna li tkun\nnaqset li t]allas dak id-dritt.\n\nNuqqas ta’ ]las ta’\ndritt.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "dritt",
+      "content": "(1) Jekk dritt ta’ kull sena ma jit]allasx fi \\mien tletin\n[urnata wara d-data li fiha l-avvi\\ hawn fuq imsemmi jkun [ie\nmibg]ut bil-posta, il-li`enza li g]aliha jirriferixxi dak id-dritt ti[i\nsospi\\a sine die, u jekk il-persuna li lilha l-li`enza kienet [iet\nmog]tija tkun trid ter[a ta[ixxi ta’ a[ent tal-kummer`, ikun\njin]tie[ li tag]mel talba g]al li`enza [dida skond iddisposizzjonijiet ta’ l-artikolu 71 tal-Kodi`i.\n\nSkadenza talli`enza.\n\n(2) Meta l-Kunsill ji[i biex jikkonsidra dik it-talba skond dak lartikolu u l-kapa`ità tar-rikorrent biex ja[ixxi ta’ a[ent talkummer`, jista’ jie]u in konsiderazzjoni n-nuqqas ta’ qabel tarrikorrent li j]allas id-dritt ta’ kull sena u tar-ra[unijiet li dan i[ib\ndwar dak in-nuqqas.\n(3) Meta li`enza ma tibqax isse]], il-fatt g]andu ji[i mg]arraf\nfil-Gazzetta.\n\nL.S.13.01]\n\nLI~ENZI TA’ A{ENTI TAL-KUMMER~",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 79
+      }
+    }
+  ],
+  "definitions": []
+}

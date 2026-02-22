@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Seeds of Agricultural Plants and Vegetables",
+  "title_en": "Regolamenti dwar Seeds of Agricultural Plants and Vegetables",
+  "short_name": "eli/sl/433.30/mlt",
+  "status": "in_force",
+  "issued_date": "2018-02-06",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/433.30/20250603/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.30/mlt, expression eli/sl/433.30/20250603/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SEEDS OF AGRICULTURAL PLANTS AND VEGETABLES\n\n[ L.S. 433.30\n\nLEĠISLAZZJONI SUSSIDJARJA 433.30\nREGOLAMENTI DWAR SEEDS OF AGRICULTURAL\nPLANTS AND VEGETABLES\n3 ta’ Jannar 2018\nL-AVVIŻ LEGALI 2 tal-2018,kif emendat bl-Avviż Legali 5 tal-2019 u\n88, 331, 422 tal-2020, 366 u 507 tal-2021, 127 tal-2022 u 95 tal-2025.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

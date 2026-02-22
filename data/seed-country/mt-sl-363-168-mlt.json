@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-363-168-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ix-Xoljiment tal-Kunsill Lokali Tas-Sliema",
+  "title_en": "Ordni dwar ix-Xoljiment tal-Kunsill Lokali Tas-Sliema",
+  "short_name": "eli/sl/363.168/mlt",
+  "status": "in_force",
+  "issued_date": "2012-02-14",
+  "in_force_date": "2012-02-14",
+  "url": "https://legislation.mt/eli/sl/363.168/20120214/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.168/mlt, expression eli/sl/363.168/20120214/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 61 tal-2012",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar ix-Xoljiment talKunsill Lokali Tas-Sliema.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Kunsill Lokali Tas-Sliema qiegħed b’dan jiāi xolt\nminħabba f’nuqqas kontinwu ta’ tħaris tad-dispoŜizzjonijiet tal-Att\ndwar Kunsilli Lokali wara li ngħatalu avviŜ formali datat 4 ta’ Jannar\n2012 mill-Prim Ministru.\n\nXoljiment talKunsill Lokali\nTas-Sliema.\nKap. 363.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

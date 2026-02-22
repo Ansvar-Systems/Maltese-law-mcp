@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-331-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Trusts and Trustees (Protected Disability Trusts)",
+  "title_en": "Regolamenti dwar Trusts and Trustees (Protected Disability Trusts)",
+  "short_name": "eli/sl/331.8/mlt",
+  "status": "in_force",
+  "issued_date": "2016-10-12",
+  "in_force_date": "2016-10-12",
+  "url": "https://legislation.mt/eli/sl/331.8/20161012/mlt",
+  "description": "Official text from legislation.mt (eli/sl/331.8/mlt, expression eli/sl/331.8/20161012/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TRUSTS U TRUSTEES\n(PROTECTED DISABILITY TRUSTS)\n\n[ L.S.331.08\n\nLEĠISLAZZJONI SUSSIDJARJA 331.08\nREGOLAMENTI DWAR TRUSTS U TRUSTEES\n(PROTECTED DISABILITY TRUSTS)\n7 ta’ Ottubru, 2016\nL-AVVIŻ LEGALI 324 tal-2016.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

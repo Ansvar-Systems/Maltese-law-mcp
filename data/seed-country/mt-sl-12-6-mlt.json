@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-12-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Depożiti fil-Qorti",
+  "title_en": "Regolamenti dwar Depożiti fil-Qorti",
+  "short_name": "eli/sl/12.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/12.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.6/mlt, expression eli/sl/12.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "bl-Atti XXIX tal-1976 u VIII tal-1990; u bl-Avviż Legali 131 tal-2014",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nDepożiti fil-Qorti.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Meta xi flus, li jkunu valuta legali f’Malta, għandhom\njiġu depożitati skont ċedo1a ta’ depożitu ppreżentata fil-Qrati\nSuperjuri, il-flus għandhom jiġu ppreżentati lill-kaxxier firreġistru.\n\nDepożiti fil-qrati\nsuperjuri.\nEmendat:\nA.L. 148 tal-1975;\nXXXIX. 1976.8;\nA.L. 131 tal-2014.\n\n(2) Meta xi flus, li ma jkunux valuta legali f’Malta, jew xi\noġġetti tad-deheb jew tal-fidda jew xi perli jew ħaġar prezzjuż\ngħandhom jiġu depożitati skond ċedola ta’ depożitu ppreżentata flimsemmija qrati, huma għandhom jitqegħdu f’post sigur kif ordnat\nmir-Reġistratur Qrati Ċivili u Tribunali jew, kif ikun il-każ, fil-Bank\nĊentrali ta’ Malta.\nIżda, jekk depożitu bħa1 dak isir wara nofs inhar ta’ Sibt\njew ta’ xi ġurnata matul il-perijodu bejn is-sittax ta’ Ġunju ta’ sena\nu t-tletin ta’ Settembru tal-istess sena, it-tnejn inklużi, l-imsemmija\nf l u s j e w o ġ ġ e t t i g ħ a n d h o m j i ġ u d e p o ż i t a t i f i r- r e ġ i s t r u t a l imsemmija Qrati u għandhom jiġu trasferiti mir-Reġistratur għallpost xieraq kif previst f’dan ir-regolament fil-ġurnata tax-xogħol li\ntmiss minnufih wara.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tmiss minnufih wara",
+      "content": "Meta xi flus, li jkunu jew le valuta legali f’Malta, jew xi\nħwejjeġ oħra li għandhom jiġu depożitati skont ċedola ta’ depożitu\nppreżentata fil-Qrati tal-Maġistrati (Malta) jew fil-Qrati talMaġistrati (Għawdex) għandhom japplikaw id-disposizzjonijiet tarregolament 2, iżda, b’danakollu, meta ċ-ċedola ta’ depożitu tiġi\nppreżentata fil-Qrati tal-Maġistrati (Għawdex) ir-riferenza fl-imsemmi\nregolament għall-post xieraq kif previst f’dak ir-regolament għandha\ntiftiehem bħala referenza għal post xieraq kif ordnat mid-Direttur\nĠenerali Qrati, Għawdex, jew, kif ikun il-każ, għall-Bank Ċentrali ta’\nMalta.\n\nDepożiti fi Qrati\ntal-Maġistrati.\nEmendat:\nXXIX. 1976.8;\nVIII. 1990.3;\nA.L. 131 tal-2014.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Malta",
+      "content": "Il-Gvernatur tal-Bank Ċentrali jkun il-persuna li għandha\nżżomm depożiti regolari ta’ flus mhux kurrenti skont il-liġi\nf’Malta, ta’ oġġetti tad-deheb jew tal-fidda, ta’ ġawhar jew ġjoji.\n\nIl-Gvernatur talBank Ċentrali\njżomm depożiti\nregolari ta’ flus\nmhux kurrenti, eċċ.\nMiżjud:\nA.L. 131 tal-2014.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 68
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "A.L. 131 tal-2014",
+      "content": "Il-proprjetà msemmija fir-regolament 4 għandha tinżamm\nf ’post sigur u ma għandhiex tintuża minn xi persuna jew tiġi\nrilaxxata lil xi persuna ħlief kif ordnat mir-Reġistratur, Qrati Ċivili\nu Tribunali.\n\nIl-proprjetà\ngħandha tinżamm\nf’post sigur.\nMiżjud:\nA.L. 131 tal-2014.",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 82
+      }
+    }
+  ],
+  "definitions": []
+}

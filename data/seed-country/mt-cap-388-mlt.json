@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-388-mlt",
+  "type": "statute",
+  "title": "Att dwar Self Lokali",
+  "title_en": "Att dwar Self Lokali",
+  "short_name": "Kap. 388",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1996-04-02",
+  "url": "https://legislation.mt/eli/cap/388/19960402/mlt",
+  "description": "Official text from legislation.mt (eli/cap/388/mlt, expression eli/cap/388/19960402/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XII tal-1996 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar Self Lokali.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Għall-għan ta’ dan l-Att, \"dħul\" għandha l-istess tifsir\nbħalma għandha fl-artikolu 2 tal-Att dwar il-Ġestjoni tal-Finanzi\nPubbliċi, iżda ma tinkludix qligħ minn self lokali.\n\nTifsir.\nKap. 601.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, il-Gvern\nta’ Malta jista’ jiġbor b’self f ’Malta s-somma li ma tkunx iżjed\nminn sebgħin miljun lira Maltija.\n\nAwtorità għal ġbir\nta’ self.\n\n(2) Sabiex jinġabar dak is-self, il-Ministru responsabbli għallfinanzi huwa b’dan awtorizzat li joħroġ stock f ’Malta skont lOrdinanza dwar Self Lokali (Stock u Titoli Reġistrati) skont dawk\nit-termini u kundizzjonijiet li l-imsemmi Ministru jista’ japprova.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull somma mislufa taħt l-awtorità ta’ dan l-Att għandha\ntiġi approprjata u wżata biex tkopri nefqa ikbar mid-dħul li ssir filFond Konsolidat matul is-sena 1995, u dik li hemm maħsuba li\nsseħħ matul is-sena 1996 u skont ma jidher fl-Estimi Approvati\ngħal dik is-sena:\nIżda kull ammont imsellef bis-saħħa ta’ dan l-artikolu iktar\nmill-ammont attwalment meħtieġ għal dawk l-għanijiet u li jifdal\nbħala bilanċ fil-Fond Konsolidat fi tmiem is-sena 1996, għandu\njintuża biex jagħmel tajjeb għan-nefqa ikbar mid-dħul fil-Fond\nKonsolidat matul l-ewwel sena li tiġi minnufih wara, u li fiha ssir\ndik in-nefqa akbar.\n\n*Ara n-Notifikazzjoni tal-Gvern 212 tat-2 ta’ April, 1996.\n\nKap. 161.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 59
+      }
+    }
+  ],
+  "definitions": []
+}

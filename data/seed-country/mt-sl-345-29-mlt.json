@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-29-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Markets Act (Green Bonds)",
+  "title_en": "Regolamenti dwar Financial Markets Act (Green Bonds)",
+  "short_name": "eli/sl/345.29/mlt",
+  "status": "in_force",
+  "issued_date": "2025-03-24",
+  "in_force_date": "2025-03-14",
+  "url": "https://legislation.mt/eli/sl/345.29/20250314/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.29/mlt, expression eli/sl/345.29/20250314/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FINANCIAL MARKETS ACT (GREEN BONDS)\n\n[ L.S. 345.29\n\nLEĠISLAZZJONI SUSSIDJARJA 345.29\nREGOLAMENTI DWAR FINANCIAL MARKETS ACT\n(GREEN BONDS)\n14 ta’ Marzu, 2025\nL-AVVIŻ LEGALI 55 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

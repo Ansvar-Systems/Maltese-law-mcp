@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-458-63-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Permission for the supply of medicines for use in the National Health Services in exceptional circumstances",
+  "title_en": "Regoli dwar Permission for the supply of medicines for use in the National Health Services in exceptional circumstances",
+  "short_name": "eli/sl/458.63/mlt",
+  "status": "in_force",
+  "issued_date": "2023-11-07",
+  "in_force_date": "2023-10-20",
+  "url": "https://legislation.mt/eli/sl/458.63/20231020/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.63/mlt, expression eli/sl/458.63/20231020/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PERMISSION FOR THE SUPPLY OF MEDICINES FOR\nUSE IN THE NATIONAL HEALTH SERVICES IN\nEXCEPTIONAL CIRCUMSTANCES)\n\n[ L.S. 458.63\n\nLEĠISLAZZJONI SUSSIDJARJA 458.63\nREGOLI DWAR PERMISSION FOR THE SUPPLY OF\nMEDICINES FOR USE IN THE NATIONAL HEALTH\nSERVICES IN EXCEPTIONAL CIRCUMSTANCES\n20 ta’ Ottubru, 2023\n\nL-AVVIŻ LEGALI 249 tal-2023.\nDawn ir-regolamenti ġew ippubblikati bl-Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

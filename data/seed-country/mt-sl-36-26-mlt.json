@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-36-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Projbizzjoni tal-Bejgħ ta' Ikel tal-Baħar",
+  "title_en": "Regolamenti dwar il-Projbizzjoni tal-Bejgħ ta' Ikel tal-Baħar",
+  "short_name": "eli/sl/36.26/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.26/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.26/mlt, expression eli/sl/36.26/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 90 ta’ l-1973, kif emendat bl-Avvi\\ Legali 91 ta’ l1973",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProjbizzjoni tal-Bejg] ta’ Ikel tal-Ba]ar.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 90 ta’ l-1973, kif emendat bl-Avvi\\ Legali 91 ta’ l1973",
+      "content": "F’dawn ir-Regolamenti, \"ikel tal-ba]ar\" tfisser arzell,\nclams, rizzi, mussels, krusta`ej u invertebrati o]ra tal-ba]ar fi stat\nnej.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "nej",
+      "content": "Ebda persuna ma tista’ timporta, i[[orr minn post g]allie]or, tbieg], i\\\\omm g]all-bejg], tikkonsenja, jew tag]ti\nb’kumpens jew xort’o]ra lil xi persuna sew jekk tkun fis-servizz\ntag]ha jew le, xi o[[ett ta’ ikel tal-ba]ar jekk din ma jkollhiex\npermess spe`jali mis-Suprintendent tas-Sa]]a Pubblika.\n_\n\nTitolu.\nTifsir.\nEmendat:\nA.L. 91 ta’ l-1973.\nProjbizzjoni ta’\nimportazzjoni, e``.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

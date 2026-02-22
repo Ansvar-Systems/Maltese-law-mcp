@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-36-36-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Trobbija tan-Naħal",
+  "title_en": "Regolamenti dwar it-Trobbija tan-Naħal",
+  "short_name": "eli/sl/36.36/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.36/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.36/mlt, expression eli/sl/36.36/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 110 ta’ l-1992",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTrobbija tan-Na]al.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTrobbija tan-Na]al",
+      "content": "F’dawn ir-Regolamenti, sakemm ir-rabta ta’ kliem ma\ntkunx te]tie[ mod ie]or -\n\nTitolu.\nTifsir.\n\n\"Direttur\" tfisser id-Direttur ta’ l-Agrikoltura u Sajd u tinkludi\nkull uffi`jal tad-dipartiment li jkun debitament awtorizzat midDirettur li ja[ixxi f’ismu;\n\n\"trabbi\" tfisser trabbi g]all-produzzjoni ta’ l-g]asel, tax-xama\ntan-na]al, u prodotti sussidjarji o]ra u li ddakkar bil-pollen ta’\nsi[ar tal-frott, tal-fjuri u tal-]xejjex.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull sid ta’ xi g]add ta’ bejtiet tan-na]al, jew ikun\njikkontrollhom, jew ikun jaf li hemm na]al qed ibejjtu fuq ilproprjetà tieg]u, g]andu jirre[istra dak il-g]add ta’ bejtiet tanna]al g]and id-Direttur.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Id-Direttur jista’ f’kull \\mien jid]ol f’kull post fejn\njin\\ammu jew hemm stabbiliti bejtiet tan-na]al, jew fejn ikollu\nsuspett li jkunu qed jitrabbew in-na]al, jew fejn ikun hemm xehdiet\ntan-na]al, sabiex jispezzjona dawk il-bejtiet.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tifsir",
+      "content": "}add ma jista’ j`aqlaq bejtiet morda minn xi [arra tanna]al jekk ma jkollux permess bil-miktub ming]and id-Direttur.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "tan-na]al, sabiex jispezzjona dawk il-bejtiet",
+      "content": "Id-Direttur jista’ jordna li tinqered kull bejta tan-na]al li\ntkun marida.\n\nRe[istrazzjoni ta’\nbejtiet tan-na]al.\n\nPost fejn jin\\ammu\nl-bejtiet tan-na]al.\n\n~aqlieq ta’ bejtiet\nmorda.\nQirda ta’ bejtiet\nmorda.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

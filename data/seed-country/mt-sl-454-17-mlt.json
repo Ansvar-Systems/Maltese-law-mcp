@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-454-17-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kwantitajiet Nominali għal Prodotti Mballati minn Qabel",
+  "title_en": "Regolamenti dwar Kwantitajiet Nominali għal Prodotti Mballati minn Qabel",
+  "short_name": "eli/sl/454.17/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-31",
+  "in_force_date": "2011-06-10",
+  "url": "https://legislation.mt/eli/sl/454.17/20230317/mlt",
+  "description": "Official text from legislation.mt (eli/sl/454.17/mlt, expression eli/sl/454.17/20230317/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STRUMENTI TA’ KEJL LI HUMA SOĠĠETTI\nGĦALL-KONTROLL TA’ SISTEMI TAL-METROLOĠIJA\n\n[ L.S.454.17\n\nLEĠISLAZZJONI SUSSIDJARJA 454.17\nREGOLAMENTI DWAR KWANTITAJIET\nNOMINALI GĦAL PRODOTTI MBALLATI\nMINN QABEL†\n10 ta’ Ġunju, 2011\nL-AVVIŻ LEGALI 223 tal-2011, kif emendat bl-Avviż Legali 65 tal-2023.\n\n†\n\nDawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

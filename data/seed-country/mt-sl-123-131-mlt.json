@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-123-131-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Dritt fuq Applikazzjoni skont ir-Regoli dwar Individwi ta’ Valur Nett Gholi Ċittadini tal-UE/ŻEE/Svizzera u r-Regoli dwar Individwi ta’ Valur Nett Għoli - Persuni li mhumiex Ċittadini tal-UE/ŻEE/Svizzera",
+  "title_en": "Avviż dwar Dritt fuq Applikazzjoni skont ir-Regoli dwar Individwi ta’ Valur Nett Gholi Ċittadini tal-UE/ŻEE/Svizzera u r-Regoli dwar Individwi ta’ Valur Nett Għoli - Persuni li mhumiex Ċittadini tal-UE/ŻEE/Svizzera",
+  "short_name": "eli/sl/123.131/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-07",
+  "in_force_date": "2011-11-07",
+  "url": "https://legislation.mt/eli/sl/123.131/20111107/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.131/mlt, expression eli/sl/123.131/20111107/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 424 tal-2011",
+      "content": "It-titolu ta’ dan l-avviż hu l-Avviż dwar Dritt fuq\nApplikazzjoni skont ir-Regoli dwar Individwi ta’ Valur Nett Gholi Ċittadini tal-UE/ŻEE/Svizzera u r-Regoli dwar Individwi ta’ Valur\nNett Għoli - Persuni li mhumiex Ċittadini tal-UE/ŻEE/Svizzera.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-dritt fuq applikazzjoni skont ir-regoli fuq imsemmijin\nhuwa ta’ sitt elef euro (€6,000). Ma tista’ ssir l-ebda rifużjoni ta’\ndritt imħallas.\n\nDritt fuq\napplikazzjoni.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

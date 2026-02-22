@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-55-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kwalifiki għall-Ħatra Nutarili",
+  "title_en": "Regolamenti dwar Kwalifiki għall-Ħatra Nutarili",
+  "short_name": "eli/sl/55.10/mlt",
+  "status": "in_force",
+  "issued_date": "2018-05-24",
+  "in_force_date": "2018-05-24",
+  "url": "https://legislation.mt/eli/sl/55.10/20180524/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.10/mlt, expression eli/sl/55.10/20180524/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 156 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nKwalifiki għall-Ħatra Nutarili.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"l-Att \" tfisser l-Att dwar il-Professjoni Nutarili u Arkivji\nNutarili;\n\nKap. 55.\n\n\"trainee\" tfisser kwalunkwe persuna li tkun kisbet il-grad\nakkademiku msemmi fl-artikolu 6(c) tal-Att, u li jkollha l-intenzjoni\nli toqgħod għall-eżami ta’ kwalifika msemmi f’dak l-artikolu.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1)\nGħall-finijiet tal-artikolu 6(b) tal-Att, kull\npersuna li tinstab ħatja ta’ reat taħt it-Titolu III Sub-titolu III, it-Titolu\nV, Titolu VI, it-Titolu VIII Sub-titolu IX, l-artikolu 257 u t-Titolu IX\nSub-titoli I u III Kodiċi Kriminali, ma għandhiex titqies li tkun ta’\nkondotta tajba, u kull persuna li tkun f’xi żmien tilfet il-warrant biex\ntipprattika bħala nutar, avukat jew prokuratur legali m’għandhiex\ntitqies li tkun ta’ karattru tajjeb.\n\nReati.\n\nKap. 9.\n\n(2) Kull kandidat prospettiv ikun obbligat li jippreżenta\nċertifikat ta’ kondotta tajba mingħand il-Pulizija ta’ Malta lill-Bord\ntal-Eżaminaturi, biex jipprova li ma kienx instab ħati ta’ xi reat\nimsemmi f’dan ir-regolament.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Reati",
+      "content": "Għall-finijiet tal-artikolu 6(d) tal-Att it-trainee jkun\nmarbut li jirreġistra l-bidu tal-prattika nutarili billi jirreġistra dak ilbidu tal-prattika fil-websajt tal-Kunsill Nutarili, jew jirreġistra l-bidu\nta’ dik il-prattika skont dawk il-proċeduri li jistgħu jiġu stabbiliti għal\ndan l-iskop mill-Kunsill Nutarili minn żmien għal żmien, u jkun\nmarbut jipprovdi d-dettalji kollha neċessarji li jistgħu jintalbu millimsemmi Kunsill Nutarili f’dan ir-rigward. Il-Kunsill ikun marbut li\njoħroġ rikonoxximent rigward il-konklużjoni tal-prattika nutarili,\nsakemm dik il-prattika ma tkunx ġiet mitmuma jew sospiża f’xi\nżmien. Dan is-subregolament ikollu effett biss fir-rigward ta’ trainees\nli jagħmlu l-eżami tagħhom ta’ kwalifika fis-sena 2020 u wara.\n\nReġistrazzjoni.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Reġistrazzjoni",
+      "content": "Għall-finijiet tal-artikolu 6(e) tal-Att, it-trainee għandu\njkun għadda mill-eżami tal-lingwa Maltija fil-livell Intermedjarju\nf’sessjoni tal-Eżami tal-Matrikola offrut mill-Bord tal-MATSEC talUniversità ta’ Malta, u jkun obbligat jipprovdi lill-Bord ċertifikat\ndwar dan.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 73
+      }
+    }
+  ],
+  "definitions": []
+}

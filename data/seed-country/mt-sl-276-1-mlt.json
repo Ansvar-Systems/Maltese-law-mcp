@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-276-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Estradizzjoni (Pajjiżi tal-Commonwealth Speċifikati)",
+  "title_en": "Ordni dwar l-Estradizzjoni (Pajjiżi tal-Commonwealth Speċifikati)",
+  "short_name": "eli/sl/276.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/276.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/276.1/mlt, expression eli/sl/276.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 12 ta’ l-1982",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Estradizzjoni\n(Pajji\\i tal-Commonwealth Spe`ifikati).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(Pajji\\i tal-Commonwealth Spe`ifikati)",
+      "content": "Il-pajji\\i spe`ifikati fl-Iskeda huma b’dan spc`ifikati g]allfinijiet ta’ 1-artikolu 4 ta’ l-Att dwar l-Estradizzjoni.\n\nAwstralja\nBarbados\nKanada\n\nIr-Repubblika ta’ ~ipru\nGambja\n\n{amajka\n\nNew Zealand\nSingapore\n\nTrinidad u Tobago\n\nIr-Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq\n\nTitolu.\nPajji\\i talCommonwealth\nspe`ifikati.\nKap. 276.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 45
+      }
+    }
+  ],
+  "definitions": []
+}

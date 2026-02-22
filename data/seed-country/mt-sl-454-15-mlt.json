@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-454-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Strumenti ta' Kejl",
+  "title_en": "Regolamenti dwar Strumenti ta' Kejl",
+  "short_name": "eli/sl/454.15/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-31",
+  "in_force_date": "2011-08-31",
+  "url": "https://legislation.mt/eli/sl/454.15/20110831/mlt",
+  "description": "Official text from legislation.mt (eli/sl/454.15/mlt, expression eli/sl/454.15/20110831/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.454.15\n\nSTRUMENTI TA’ KEJL\n\nLEĠISLAZZJONI SUSSIDJARJA 454.15\nREGOLAMENTI DWAR STRUMENTI TA’ KEJL†\n20 ta’ April, 2016\nL-AVVIŻ LEGALI 122 tal-2016.\n\n†Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

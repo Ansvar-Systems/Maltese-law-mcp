@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-36-17-mlt",
+  "type": "statute",
+  "title": "Regolamenti li Jikkontrollaw l-Ittimbrar tal-Bhejjem",
+  "title_en": "Regolamenti li Jikkontrollaw l-Ittimbrar tal-Bhejjem",
+  "short_name": "eli/sl/36.17/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.17/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.17/mlt, expression eli/sl/36.17/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "12 ta’ Settembru, 1957",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti li\nJikkontrollaw l-Ittimbrar tal-Bhejjem.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Jikkontrollaw l-Ittimbrar tal-Bhejjem",
+      "content": "Ebda persuna barra minn uffi`jal tal-gvern awtorizzat g]al\nhekk mid-Direttur tal-Biedja ma g]andha twa]]al, i[[ieg]el jew\nt]alli li ti[i mwa]]hla kull xorta ta’ `omba fuq il-widna jew marka\no]ra fuq bhejjem ]ajjin.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Jikkontrollaw l-Ittimbrar tal-Bhejjem",
+      "content": "Ebda persuna barra minn uffi`jal tal-gvern awtorizzat g]al\nhekk ma g]andha tne]]i, i[[ieg]el jew t]alli li titne]]a minn\nbhima ]ajja kull `omba tal-widna jew marka o]ra mwa]]la minn\nuffi`jal.\n\nTitolu.\nAwtorizzazzjoni\nbiex ti[i mwa]]la\nkull xorta ta’\n`omba fuq ilwidna, jew marka.\nEmendat:\nA.L. 35 ta l-1964.\nProjbizzjoni li\ntine]]a kull xorta\nta’ `omba fuq ilwidna jew marka.\nEmendat:\nA.L. 35 ta l-1964.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Tagħmir ta' Pressjoni li Jinġarr",
+  "title_en": "Regolamenti dwar Tagħmir ta' Pressjoni li Jinġarr",
+  "short_name": "eli/sl/427.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.30/mlt, expression eli/sl/427.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.427.30\n\nTAGĦMIR TAL-PRESSA TRASPORTABBLI\n\nLEĀISLAZZJONI SUSSIDJARJA 427.30\nREGOLAMENTI DWAR TAGĦMIR TAL-PRESSA\nTRASPORTABBLI*\n1 ta’ Lulju, 2011\nL-AVVIś LEGALI 332 tal-2011.\n\n*Dawn ir-Regolamenti āew pubblikati bl-ilsien IngliŜ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

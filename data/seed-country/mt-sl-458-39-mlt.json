@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-39-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Delega lill-Awtorità dwar il-Mediċini",
+  "title_en": "Ordni dwar Delega lill-Awtorità dwar il-Mediċini",
+  "short_name": "eli/sl/458.39/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.39/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.39/mlt, expression eli/sl/458.39/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 334 ta’ l-2004",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Delega lill-Awtorità\ndwar il-Medi`ini.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Awtorità dwar il-Li`enzi qeg]da b’dan l-ordni tiddelega\nl-funzjonijiet imsemmija fl-artikolu 3(2)(m), (n) u (o) ta’ l-Att dwar\nil-Medi`ini lill-Awtorità tal-Medi`ini.\n\nDelega lillAwtorità dwar ilMedi`ini.\nKap. 458.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

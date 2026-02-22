@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-420-4-mlt",
+  "type": "statute",
+  "title": "Regoli dwar l-Awli tat-Tribunal tal-Appelli għall-Protezzjoni Internazzjonali",
+  "title_en": "Regoli dwar l-Awli tat-Tribunal tal-Appelli għall-Protezzjoni Internazzjonali",
+  "short_name": "eli/sl/420.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/420.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/420.4/mlt, expression eli/sl/420.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 47 tal-2005, kif emendat bl-Avviż Legali 46 tal-2014",
+      "content": "It-titolu ta’ dawn ir-regoli huwa r-Regoli dwar l-Awli tatTribunal tal-Appelli għall-Protezzjoni Internazzjonali.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "In-numru tal-Awli tat-Tribunal tal-Appelli għall-Protezzjoni\nInternazzjonali għandu jiġi stabbilit mill-Ministru responsabbli għallImmigrazzjoni u waħda mill-Awli għandha tkun magħrufa bħala \"LEwwel Awla\".\n\nJiġi stabbilit lgħadd ta’ Awli.\nSostitwita:\nA.L. 46 tal-2014.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "It-tqassim tal-każijiet bejn l-Awli tat-Tribunal tal-Appelli\ngħall-Protezzjoni Internazzjonali għandu jsir mis-Segretarju talEwwel Awla skont it-turn b’mod illi l-Awli għandhom, sa fejn ikun\npossibbli, jiġu assenjati numru ugwali ta’ każijiet.\n\nTqassim ta’\nkażijiet bejn lAwli.\nEmendata:\nA.L. 46 tal-2014.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

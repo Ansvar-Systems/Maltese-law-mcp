@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-31-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Eden Place, San Ġiljan bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Eden Place, San Ġiljan bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.31/mlt",
+  "status": "in_force",
+  "issued_date": "2026-01-28",
+  "in_force_date": "2026-01-16",
+  "url": "https://legislation.mt/eli/sl/246.31/20260116/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.31/mlt, expression eli/sl/246.31/20260116/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 7 tal-2026",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Eden Place, San\nĠiljan bħala Żona Speċjali Msemmija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Eden Place, San Ġiljan li tikkonsisti fi proprjetà\nimmobbli li tinsab fiż-żona delineata bl-aħmar fil-Pjanta tar-Reġistru\ntal-Artijiet annessa ma’ dan l-Ordni, hi b’dan imsemmija bħala Żona\nSpeċjali Msemmija għall-finijiet tal-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni mhux Residenti.\n\nŻona speċjali\nmsemmija.\nKap. 246.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Immobbli minn Persuni mhux Residenti",
+      "content": "Eden Place, San Ġiljan għandha tiġi miżjuda mal-Lista\nta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’\nProprjetà Immobbli minn Persuni mhux Residenti.\n\nŻieda fl-Ewwel\nSkeda li tinsab\nmal-Att dwar lAkkwist ta’\nProprjetà\nImmobbli minn\nPersuni mhux\nResidenti.\nKap. 246.\n\n[ L.S. 246.31]\n\nORDNI DWAR EDEN PLACE, SAN ĠILJAN\nBĦALA ŻONA SPEĊJALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

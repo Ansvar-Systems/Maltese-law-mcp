@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar tal-BlakkImħassrin bl-Avviż Legali 401 tal-2013",
+  "title_en": "Regolamenti dwar tal-BlakkImħassrin bl-Avviż Legali 401 tal-2013",
+  "short_name": "eli/sl/10.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.3/mlt, expression eli/sl/10.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.10.03\n\nTAL-BLAKK\n\nLE{ISLAZZJONI SUSSIDJARJA 10.03\nREGOLAMENTI DWAR TAL-BLAKK\n9 ta’ Novembru, 1900\nIN-NOTIFIKAZZJONI TAL-GVERN 217 ta’ l-1900. kif emendata binNotifikazzjonijiet tal-Gvern: 259 ta’ l-1947 u 831 ta’ l-1949.\n\nRevokati bl-Avvi\\ Legali 401 tal-2013.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

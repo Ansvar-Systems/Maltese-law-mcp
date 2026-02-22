@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Merkanzija fuq il-Gverta Imħassrin bl-Avviż Legali 21 tal-2003",
+  "title_en": "Regolamenti dwar Merkanzija fuq il-Gverta Imħassrin bl-Avviż Legali 21 tal-2003",
+  "short_name": "eli/sl/234.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.14/mlt, expression eli/sl/234.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERKANZIJA FUQ IL-GVERTA\n\n[L.S.234.14\n\n*LE{ISLAZZJONI SUSSIDJARJA 234.14\n\nREGOLAMENTI DWAR MERKANZIJA\nFUQ IL-GVERTA\n\n17 ta’ Di`embru, 1974\n\nL-AVVI| LEGALI 133 ta’ l-1974.\n\n*Im]assar bl-Avvi\\ Legali 21 ta’ l-2003.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

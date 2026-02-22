@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-408-mlt",
+  "type": "statute",
+  "title": "Att dwar Atti Nutarili (Provvedimenti Temporanji) Imħassar bl-Att XXIV tal-2011",
+  "title_en": "Att dwar Atti Nutarili (Provvedimenti Temporanji) Imħassar bl-Att XXIV tal-2011",
+  "short_name": "Kap. 408(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1999-07-12",
+  "url": "https://legislation.mt/eli/cap/408/20130101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/408/mlt, expression eli/cap/408/20130101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATTI NUTARILI (PROVVEDIMENTI TEMPORANJI)\n\n[ KAP. 408.\n\nKAPITOLU 408\nATT DWAR ATTI NUTARILI\n(PROVVEDIMENTI TEMPORANJI)\nBiex jipprovdi dwar it-tqegħid ta’ Atti Nutarili fl-Arkivji qabel ma dawn\njiġu spezzjonati skont l-artikolu 117 tal-Att dwar il-Professjoni Nutarili u\nl-Arkivji Nutarili, Kap. 55.\n\n12 ta’ Lulju, 1999\nL-ATT X tal-1999 , kif emendat bl-Att VI tal-2001 .\n\n(Imħassar bl-Att XXIV. 2011.103(13)(f))\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

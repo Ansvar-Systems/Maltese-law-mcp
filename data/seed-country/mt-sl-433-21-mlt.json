@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Żerriegħa ta' Pjanti u Ħxejjex Agrikoli Imħassrin bl-Avviż Legali 2 tal-2018",
+  "title_en": "Regolamenti dwar Żerriegħa ta' Pjanti u Ħxejjex Agrikoli Imħassrin bl-Avviż Legali 2 tal-2018",
+  "short_name": "eli/sl/433.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/433.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.21/mlt, expression eli/sl/433.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "|ERRIEG}A TA’ PJANTI U }XEJJEX AGRIKOLI\n\n[L.S.433.21\n\nLEĠISLAZZJONI SUSSIDJARJA 433.21\nREGOLAMENTI DWAR ŻERRIEGĦA TA’ PJANTI\nU ĦXEJJEX AGRIKOLI*\n18 ta’ Ġunju, 2010\nL-AVVIŻ LEGALI 331 tal-2010, kif emendat bl-Avviżi Legali 323 tal2013, 113 tal-2014, 294, 428 tal-2015, 256 tal-2016 u 72 tal-2017.\n\nImħassar bl-Avviż Legali 2 tal-2018.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-38-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Industrija ta' l-Electronics",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Industrija ta' l-Electronics",
+  "short_name": "eli/sl/452.38/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.38/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.38/mlt, expression eli/sl/452.38/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1975",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Industrija ta’ l-Electronics.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi g]all-Industrija ta’ lElectronics li g]andu jg]odd g]all-impjegati kollha f’kull impri\\a\njew parti minn impri\\a li l-attivitajiet tag]ha jikkonsistu g]al\nkollox jew prin`ipalment fil-manifattura, fit-tiswija jew flimmuntar ta’ tag]mir elettroniku jew xjentifiku.\n\nSafejn japplika ilKunsill tal-Pagi.\nEmendat:\nA.L. 26 ta’ l-1974.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

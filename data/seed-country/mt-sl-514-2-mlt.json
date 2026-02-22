@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-514-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Retirement Pensions (Exemption)",
+  "title_en": "Regolamenti dwar Retirement Pensions (Exemption)",
+  "short_name": "eli/sl/514.2/mlt",
+  "status": "in_force",
+  "issued_date": "2015-01-15",
+  "in_force_date": "2015-01-15",
+  "url": "https://legislation.mt/eli/sl/514.2/20150115/mlt",
+  "description": "Official text from legislation.mt (eli/sl/514.2/mlt, expression eli/sl/514.2/20150115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "RETIREMENT PENSIONS (EXEMPTION)\n\n[ L.S.514.02\n\nLEĠISLAZZJONI SUSSIDJARJA 514.02\nREGOLAMENTI DWAR\nRETIREMENT PENSIONS (EXEMPTION)*\n1 ta’ Jannar, 2015 *\nL-AVVIŻ LEGALI 6 tal-2015, kif emendat bl-Avviż Legali 49 of 2020.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n*ara r-regolament regulation 1(2) ta’ dawn ir-Regolamenti, kif promulgati\noriġinarjament.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

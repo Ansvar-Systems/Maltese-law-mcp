@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-376-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Institutions Act (Consumer Credit) Għadhom mhux fis-seħħ",
+  "title_en": "Regolamenti dwar Financial Institutions Act (Consumer Credit) Għadhom mhux fis-seħħ",
+  "short_name": "eli/sl/376.9/mlt",
+  "status": "repealed",
+  "issued_date": "2025-12-02",
+  "in_force_date": "2025-11-18",
+  "url": "https://legislation.mt/eli/sl/376.9/20251118/mlt",
+  "description": "Official text from legislation.mt (eli/sl/376.9/mlt, expression eli/sl/376.9/20251118/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FINANCIAL INSTITUTIONS ACT (CONSUMER CREDIT)\n\n[ L.S. 376.09]\n\nLEĠISLAZZJONI SUSSIDJARJA 376.09\nREGOLAMENTI DWAR FINANCIAL INSTITUTIONS\nACT (CONSUMER CREDIT)\n*\n\nL-AVVIŻ LEGALI 266 tal-2025.\n\n*†Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n*Għadu mhux fis-seħħ.\n†\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

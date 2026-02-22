@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Proċedura tal-Kunsilli tal-Pagi",
+  "title_en": "Regolamenti dwar il-Proċedura tal-Kunsilli tal-Pagi",
+  "short_name": "eli/sl/452.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.10/mlt, expression eli/sl/452.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "10 ta’ Lulju, 1953",
+      "content": "(1) It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nil-Bord tax-Xog]ol.\n\nTitolu.\n\n(2) It-tifsiriet li jinsabu fl-artikolu 2 ta’ l-Att dwar l-Impiegi u\nr-Relazjonijiet Industrijali (hawnhekk i\\jed ’il quddiem msejja] \"lAtt\") jg]oddu g]al dawn ir-Regolamenti.\n\nKap. 452.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Avvi\\ ta’ laqg]a tal-Bord tax-Xog]ol, nominat kif hemm\nma]sub fl-Att, g]andu jitqies li jkun mog]ti bi\\\\ejjed lill-membru\ntal-Bord jekk jintbag]at bil-posta fl-indirizz ordinarju tieg]u jew\nfl-a]]ar indirizz mag]ruf tieg]u, i\\da n-nuqqas a``identali li\njing]ata avvi\\ ta’ laqg]a lil xi membru, jew li ma jasalx avvi\\ ta’\nlaqg]a lil xi membru, ma jne]]ix il-validità tal-pro`edimenti ta’\nlaqg]a.\n\nAvvi\\ ta’ laqg]a.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(a) G]all-quorum ta’ laqg]a tal-Bord g]andu g]allinqas\nikun pre\\enti wie]ed mill-membri nominati millMinistru b]ala persuni indipendenti, wie]ed millmembri nominati mill-Ministru b]ala rappre\\entati talpr i n ` i pa l , u w ie ] e d m i l l - m e m b r i no m i n a t i m il l Ministru b]ala rappre\\entanti ta’ l-impjegati.\n\nBiex tkun\nkostitwita laqg]a\ntal-Bord.\nEmendat:\nOrd. ta’ Emer[. VI\nta’ l-1958;\nOrd. XXV ta’ l1962.\n\n(b) Il-membri nominati b]ala rappre\\entanti tal-prin`ipali\nhuma hawnhekk i\\ed ’il quddiem imsej]in \"in-na]a\ntal-prin`ipal\", dawk li jirrappre\\entaw lill-impjegati\nhuma hawnhekk i\\ed ’il quddiem imsej]in \"in-na]a\ntal-]addiema\", u dawk nominati b]ala membri\nindipendenti huma hawnhekk i\\ed ’il quddiem\nimsej]in \"il-membri indipendenti\".",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "imsej]in \"il-membri indipendenti\"",
+      "content": "I`-Chairman u kull membru tal-Bord g]andhom ikollhom\nvot wie]ed:\nI\\da `-Chairman jista’ jekk ikun jidhirlu desiderabbli, u\ng]andu fuq it-talba sew tan-na]a tal-prin`ipali kemm tan-na]a tal]addiema, jie]u vot tan-na]at b]ala tali. F’votazzjoni b]al din i`Chairman u il-membri indipendenti ma jivvotawx, i\\da, fil-ka\\ li lvotazzjoni [[ib nuqqas ta’ ftehim bejn i\\-\\ew[ na]at, il-kwistjoni\ntista’ ti[i de`i\\a bil-ma[[oranza tal-voti ta`-Chairman u talmembri indipendenti.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

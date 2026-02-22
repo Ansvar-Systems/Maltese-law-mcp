@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-31-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drogi (Reġistrazzjoni tad-Dipendenti)",
+  "title_en": "Regolamenti dwar id-Drogi (Reġistrazzjoni tad-Dipendenti)",
+  "short_name": "eli/sl/31.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/31.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/31.21/mlt, expression eli/sl/31.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 13 tal-1986, kif emendat bl-Avvi\\ Legali 426 tal-2012",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar idDrogi (Re[istrazzjoni tad-Dipendenti).",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-Regolamenti kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra -\n\nTifsir.\n\n\"droga\" tfisser medi`ina jew kemikali mni\\\\lin fit-Tielet Skeda\nli tinsab ma’ l-Ordinanza dwar il-Professioni Medika u lProfessjonijiet li g]andhom x’jaqsmu mag]ha u kull medi`ina li\ng]aliha tirreferi l-Ordinanza dwar il-Medi`ini Perikolu\\i;\n\nKap. 31.\nKap. 101.\n\n\"Suprintendent\" tfisser is-Suprintendent tas-Sa]]a Pubblika;\n\"tabib\" tfisser tabib, kirurgu dentist jew dentist.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Kull tabib g]andu jg]arraf lis-Suprintendent, fuq ilformula preskritta fl-Iskeda li tinsab ma’ dawn ir-Regolamenti,\nb’kull pazjent ta]t il-kura tieg]u, li fil-fehma tieg]u ikun qed ibati\nminn xi xorta ta’ dipendenza minn xi droga.\n(2) Is-Suprintendent g]andu j\\omm re[istru, li jissejja] irRe[istru tad-dipendenti, li fih jitni\\\\lu l-isem, u partikolaritaijet\no]ra msemmija fl-Iskeda, ta’ kull pazjent kif ji[i av\\at skond issub-regolament (1) ta’ dan ir-regolament.\n(3) Ebda tabib ma jista’ jippreskrivi xi droga lil xi pazjent\nkemm-il darba ma jkunx l-ewwel g]arraf lis-Suprintendent kif\nprovdut fis-sub-regolament (1) ta’ dan ir-regolament.\n\nAvvi\\ u\nre[istrazzjoni ta’\naddicts.\n\nL.S.31.21]\n\nEmendata:\nA.L. 426 tal-2012.\n\nDROGI (RE{ISTRAZZJONI TAD-DIPENDENTI)\n(Regolament 3)\nFormula ta’ Avvi\\ tad-dipendenti mid-drogi\n\nIsem u kunjom tad-dipendenti mid-drogi .......................................\nIndirizz .....................................................................................\nEtà ............................................................................................\nNru. tad-dokument ta’ identifikazzjoni legalment validu ...............\nIl-medi`ini li fuqhom il-pazjent jiddependi (addicted) ...................\nKemm ilha d-dipendenza ..............................................................\nId-do\\a kurrenti ........................................................................\nFirma tat-tabib ...................................\nIsem (Ittri Kapitali) ............................\nIndirizz ..............................................\n............................................",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 72
+      }
+    }
+  ],
+  "definitions": []
+}

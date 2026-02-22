@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-552-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Estensjoni tal-Validità ta’ Permessi ta’ Żvilupp",
+  "title_en": "Regolamenti dwar l-Estensjoni tal-Validità ta’ Permessi ta’ Żvilupp",
+  "short_name": "eli/sl/552.30/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-04",
+  "in_force_date": "2020-06-04",
+  "url": "https://legislation.mt/eli/sl/552.30/20200604/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.30/mlt, expression eli/sl/552.30/20200604/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 110 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lEstensjoni tal-Validità ta’ Permessi ta’ Żvilupp.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra, il-kliem u l-espressjonijiet ta’ dawn irregolamenti għandu jkollhom l-istess tifsira mogħtija lilhom fl-Att\ndwar l-Ippjanar tal-Iżvilupp.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull permess ta’ żvilupp li fid-data tad-dħul fis-seħħ ta’\ndawn ir-regolamenti jkun għadu fiż-żmien tal-validità tiegħu iżda li\njkun ser jiskadi sal-31 ta’ Diċembru 2022, jew f’kull data qabel din,\ngħandu jkollu ż-żmien li fadal tal-validità tiegħu estiża bi tlett (3) snin\noħra.\n\nEstensjoni talvalidità ta’\npermessi ta’\nżvilupp.\n\nKap. 552.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

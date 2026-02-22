@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-399-11-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Avviż dwar Kumpanniji MsemmijaImħassar bl-Avviż Legali 273 tal-2011",
+  "title_en": "Ordni dwar Avviż dwar Kumpanniji MsemmijaImħassar bl-Avviż Legali 273 tal-2011",
+  "short_name": "eli/sl/399.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/399.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/399.11/mlt, expression eli/sl/399.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KUMPANNIJI MSEMMIJA\n\n[L.S.399.11\n\nLE{ISLAZZJONI SUSSIDJARJA 399.11\nORDNI DWAR AVVI| DWAR\nKUMPANNIJI MSEMMIJA\n12 ta’ Settembru, 2000\nL-AVVI|I LEGALI 171 tal-2000 u 44 tal-2001, konsolidati.\n\nRevokat bl-A.L. 273 tal-2011.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-154-mlt",
+  "type": "statute",
+  "title": "Att dwar Avviż ta Kanċer",
+  "title_en": "Att dwar Avviż ta Kanċer",
+  "short_name": "Kap. 154",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1957-12-12",
+  "url": "https://legislation.mt/eli/cap/154/19571212/mlt",
+  "description": "Official text from legislation.mt (eli/cap/154/mlt, expression eli/cap/154/19571212/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XXI tal-1957",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar Avviż ta’ Kanċer.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att -\n\nTifsir.\n\n\"kanċer\" tfisser kull xorta ta’ tikbir jew mard malinn filbniedem;\n\"tabib\" tinkludi l-persuni li jkollhom liċenza skond l-Ordinanza\ndwar il-Professjoni Medika u l-Professjonijiet li għandhom\nx’jaqsmu Magħha biex jeżerċitaw il-mediċina, il-kirurġija, lostetriċja, il-professjonijiet affini u l-professjoni ta’ kirurgudentista u ta’ dentista.\n\nKap. 31.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kull tabib li jkollu marid taħt il-kura tiegħu, jew li jkun ġie\nmsejjaħ biex jarah għandu minnufih, hekk kif jinduna illi l-marid\ngħandu kanċer f ’xi forma, jibgħat lis-Suprintendent tas-Saħħa\nPubblika ċertifikat li jkun fih l-isem, l-età, ix-xogħol u l-indirizz\ntal-marid u l-kwalità ta’ kanċer li bih, fil-fehma tiegħu, il-marid\nikun ibati kif ukoll l-organu, iċ-ċelluli jew il-post li jkunu milquta\nmill-marda.\n\nDmir ta’ tabib.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull min jinsab ħati ta’ reat kontra l-artikolu 3 jeħel ilpiena tal-multa.\n\nPieni.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 777 tas-16 ta’ Di`embru, 1957.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

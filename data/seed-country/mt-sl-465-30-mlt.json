@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-465-30-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Iżolament Personali ta’ Persuni li għandhom Dijanjosi Imħassrin bl-Avviż Legali 84 tal-2024",
+  "title_en": "Ordni dwar l-Iżolament Personali ta’ Persuni li għandhom Dijanjosi Imħassrin bl-Avviż Legali 84 tal-2024",
+  "short_name": "eli/sl/465.30/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-23",
+  "url": "https://legislation.mt/eli/sl/465.30/20240501/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.30/mlt, expression eli/sl/465.30/20240501/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "23 ta’ Marzu, 2020",
+      "content": "It-titolu ta’ dan l-ordni huwa l-Ordni dwar l-Iżolament\nPersonali ta’ Persuni li għandhom Dijanjosi.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Is-Suprintendent tas-Saħħa Pubblika b’dan tordna li\nkwalunkwe persuna li tiġi dijanjostikata li qiegħda ssofri mill-marda\ninfettiva COVID-19 għandha, minnufih malli tirċievi ordni bil-fomm\njew bil-miktub, skont kif ikun il-każ, mis-Suprintendent tas-Saħħa\nPubblika, tiżola lilha nfisha għal perjodu ta’ mill-inqas minn sebat (7)\nijiem kwarantina:\n\nIżolament ta’\npersuni li\ngħandhom\ndijanjosi. \nEmendat:\nA.L. 509 tal-2021.\nSostitwit:\nA.L. 124 tal-2021.\n\nIżda l-perjodu ta’ kwarantina għandu jintemm fis-seba’\n(7) jum ta’ kwarantina, jekk fis-seba’ (7) jum ta’ kwarantina, ilpersuna hekk iżolata, tagħmel test tal-COVID-19 li jrriżulta f’riżultat\nnegattiv tat-test:\nIżda wkoll, il-perjodu ta’ kwarantina għandu jintemm flgħaxar (10) jum ta’ kwarantina, jekk il-persuna hekk iżolata, fis-seba’\n(7) jum tal-kwarantina, tagħmel test tal-COVID-19 li jrriżulta\nf’riżultat pożittiv tat-test.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 84 tal-2024.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

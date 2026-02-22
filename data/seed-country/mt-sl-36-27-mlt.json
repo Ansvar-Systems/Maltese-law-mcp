@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tal-Marda ta' l-Ilsien u tad-Dwiefer",
+  "title_en": "Regolamenti dwar il-Kontroll tal-Marda ta' l-Ilsien u tad-Dwiefer",
+  "short_name": "eli/sl/36.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.27/mlt, expression eli/sl/36.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 74 ta’ l-1975",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilKontroll tal-Marda ta’ l-Ilsien u d-Dwiefer.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Ebda persuna ma tista’ [[ieg]el, t]alli jew tippermetti\n`-`aqliq ta’ xi bovini, ovini, kaprini jew majjali, li jkunu tag]ha\njew li jkunu ta]t il-]arsien jew il-kontroll tag]ha g]al post jew area\nf’Malta jew [o fihom jew barra minnhom jekk ma tkunx hekk\nawtorizzata bil-miktub mid-Direttur ta’ l-Agrikoltura, jew minn xi\npersuna delegata mill-imsemmi Direttur, li, f’kull ka\\, fl-[]oti ta’\ndik l-awtorizazzjoni, jista’ jimponi kull kondizzjoni li jidhirlu li\ntkun xierqa.\n\n~aqliq mhux\nawtorizzat ta’ `erti\nannimali hu\npprojbit.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(1)\nId-Direttur ta’ l-Agrikoltura jista’ jordna lva``inazzjoni ta’ kull bovini, ovini, kaprini u majjali b’dak il-mod\nu f’dak il-]in jew ]inijiet li jidhirlu xieraq.\n\nSetg]a tad-Direttur\nta’ l-Agrikoltura li\njordna\nva``inazzjoni.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "va``inazzjoni",
+      "content": "Id-Direttur ta’ l-Agrikoltura jista’ jo]ro[ direttivi ma]suba\ng]all-prevenzjoni tat-tixrid tal-marda ta’ l-ilsien u d-dwiefer, kif\nukoll kull prekawzjonijiet li g]andhom jittie]du, u kull persuna li\ng]aliha tapplika dik id-direttiva g]andha tobdiha.\n\nDirettivi midDirettur ta’ lAgrikoltura.\n\n(2) Kull persuna li tag]mel u\\u minn awtorizzazzjoni mog]tija\nkif intqal hawn fuq ta]t is-sub-regolament (1) ta’ dan ir-regolament\nming]ajr ma t]ares xi wa]da mill-kundizzjonijiet li g]alihom tkun\nsu[[etta dik l-awtorizzazzjoni titqies li kisret is-sub-regolament (1)\nta’ dan ir-regolament.\n\n(2) Kull persuna li jkollha fil-pussess tag]ha jew li tkun qed\ntie]u ]sieb jew tikkontrolla xi bovini, ovini, kaprini jew majjali li\ng]andhom ji[u hekk va``inati g]andha t]alli li ssir dik ilva``inazzjoni u g]andha tag]ti l-fa`ilitajiet kollha me]tie[a millpersuna awtorizzata bil-miktub mid-Direttur ta’ l-Agrikoltura biex\ntag]mel dik il-va``inazzjoni.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-604-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet tal-Aġġudikaturi tal-Panel ta’ Arbitraġġ għal Kirjiet Residenzjali Privati",
+  "title_en": "Regolamenti dwar id-Drittijiet tal-Aġġudikaturi tal-Panel ta’ Arbitraġġ għal Kirjiet Residenzjali Privati",
+  "short_name": "eli/sl/604.5/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-04",
+  "in_force_date": "2020-06-04",
+  "url": "https://legislation.mt/eli/sl/604.5/20200604/mlt",
+  "description": "Official text from legislation.mt (eli/sl/604.5/mlt, expression eli/sl/604.5/20200604/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 105 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nid-Drittijiet tal-Aġġudikaturi tal-Panel ta’ Arbitraġġ għal Kirjiet\nResidenzjali Privati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet tar-reġistru stabbilliti fit-Tariffa A annessa\nma’ dawn ir-regolamenti għandhom jiġu mħallsa flimkien malpreżentata tal-att ta’ proċedura relattiv.\n\nDrittijiet tarreġistru.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kwalunkwe kontro-talba li tinsab fi kwalunkwe att ta’\nproċedura għandha tiġi trattata bħallikieku hija talba ġdida u ddrittijiet msemmija fil-paragrafi (a) sa (d) tat-Tariffa A għandhom jiġu\nimposti fuq il-kontro-talba u r-risposta tagħha.\n\nDrittijiet tarreġistru pagabbli\nlill-Panel ta’\nArbitraġġ.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Id-dritt stabbilit fit-Tariffa B annessa ma’ dawn irregolamenti għandu jitħallas lill-uffiċjal eżekuttiv għal kull notifika ta’\natt ta’ proċedura, inkluż l-ispejjeż imġarrba fl-eżekuzzjoni ta’ tali\nnotifika:\nIżda jekk is-servizz ikollu jiġi eżegwit barra mill-ħinijiet\nnormali tax-xogħol, id-dritt għandu jiżdied b’100%.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "normali tax-xogħol, id-dritt għandu jiżdied b’100%",
+      "content": "(1)\nKull dritt dovut għandu jitħallas flimkien malpreżentata tal-att relattiv u r-Reġistratur ma għandux jaċċetta lpreżentata ta’ kwalunkwe att ta’ proċedura li ma jkunx akkumpanjat\nmad-dritt relattiv.\n(2)\nL-evalwazzjoni tar-Reġistratur rigward l-ammont ta’\ndrittijiet li għandhom jitħallsu għandha tkun finali.\nDrittijiet tar-reġistru imħallsa lill-Aġġudikaturi tal-Panel\n(Regolament 2)\n(a)\n(b)\n(ċ)\n(d)\n\ngħal preżentata ta’ kwalunkwe talba .........................\ngħal preżentata ta’ kwalunkwe risposta .....................\ngħal preżentata ta’ kwalunkwe rikors ta’ appell ........\ngħal preżentata ta’ risposta għar-rikors ta’ appell ......\n\n€10\n€7\n€20\n€14\n\n[ L.S. 604.05\n\nDRITTIJIET TAL-AĠĠUDIKATURI TAL-PANEL TA’\nARBITRAĠĠ GĦAL KIRJIET RESIDENZJALI PRIVATI\nDritt dovut lill-uffiċjal eżekuttiv\n(Regolament 4)\ngħal kull notifika ta’ att ta’ proċedura ........................\n\n€1.20",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 83
+      }
+    }
+  ],
+  "definitions": []
+}

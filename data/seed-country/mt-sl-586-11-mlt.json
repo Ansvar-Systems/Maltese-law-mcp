@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-586-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ipproċessar ta’ Data Personali ta’ Minorenni fir-rigward tal-Offerta ta’ Servizzi minn Soċjetà tal-Informazzjoni",
+  "title_en": "Regolamenti dwar l-Ipproċessar ta’ Data Personali ta’ Minorenni fir-rigward tal-Offerta ta’ Servizzi minn Soċjetà tal-Informazzjoni",
+  "short_name": "eli/sl/586.11/mlt",
+  "status": "in_force",
+  "issued_date": "2018-06-04",
+  "in_force_date": "2018-06-04",
+  "url": "https://legislation.mt/eli/sl/586.11/20180604/mlt",
+  "description": "Official text from legislation.mt (eli/sl/586.11/mlt, expression eli/sl/586.11/20180604/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 179 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Ipproċessar ta’ Data Personali ta’ Minorenni fir-rigward talOfferta ta’ Servizzi minn Soċjetà tal-Informazzjoni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar il-Protezzjoni u l-Privatezza tad-Data;\n\nKap. 586\n\n\"ir-Regolament\" għandu jkollha l-istess tifsira kif mogħtija\nlilha fl-artikolu 3 tal-Att.\n(2) L-artikolu 3(2) tal-Att għandu japplika mutatis mutandis\ngħal dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-kamp ta’ applikazzjoni u l-għan ta’ dawn irregolamenti hu li tiġi stabbilita l-età ta’ minorenni meta tkun qed tiġi\npproċessata data personali fil-kuntest ta’ servizzi minn soċjetà talinformazzjoni fl-assenza ta’ kunsens mid-detentur tar-responsabbilità\nta’ ġenitur fuq il-minorenni konformement mal-Artikolu 8 tarRegolament.\n\nKamp ta’\napplikazzjoni.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "L-ipproċessar ta’ data personali ta’ minorenni firrigward ta’ servizzi minn soċjetà tal-informazzjoni jkun legali meta lminorenni jkollu tlettax-il sena.\n\nIpproċessar ta’\ndata personali ta’\nminorenni.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-389-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Applikazzjonijiet għall-Gwardjani Privati u Uffiċjali tal-Komunità",
+  "title_en": "Regolamenti dwar Applikazzjonijiet għall-Gwardjani Privati u Uffiċjali tal-Komunità",
+  "short_name": "eli/sl/389.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/389.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/389.3/mlt, expression eli/sl/389.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 115 tal-2002, kif emendat bl-Avvi\\ Legali 316 tal2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nApplikazzjonijiet g]all-Gwardjani Privati u Uffiċjali tal-Komunità.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-uffi`jali pubbli`i li jkunu qeg]din fi grad jew skala minn\n11 sa 20, it-tnejn inklu\\i, jew kategorija ekwivalenti, jistg]u jkunu\ne\\entati mid-disposizzjonijiet ta’ l-artikolu 10(a)(iv) ta’ l-Att dwar\nGwardjani Privati u Uffiċjali tal-Komunità.\n\nE\\enzjoni.\nEmendat:\nA.L. 316 tal-2010.\nKap. 389.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

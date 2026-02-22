@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-190-mlt",
+  "type": "statute",
+  "title": "Att dwar is-Servizz ta' Gwidi tat-Turisti Imħassar bl-Att XII tal-1999",
+  "title_en": "Att dwar is-Servizz ta' Gwidi tat-Turisti Imħassar bl-Att XII tal-1999",
+  "short_name": "Kap. 190(R)",
+  "status": "repealed",
+  "issued_date": "2017-08-16",
+  "in_force_date": "1965-11-23",
+  "url": "https://legislation.mt/eli/cap/190/19990901/mlt",
+  "description": "Official text from legislation.mt (eli/cap/190/mlt, expression eli/cap/190/19990901/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SERVIZZ TA’ GWIDI TAT-TURISTI\n\n[ KAP. 190.\n\nKAPITOLU 190\nATT DWAR IS-SERVIZZ TA’ GWIDI TAT-TURISTI\nSabiex jipprovdi biex jiġi organizzat u regolat Servizz ta’ Gwidi tat-Turisti.\n\n23 ta’ Novembru, 1965\nSar liġi bl-ATT XLVI tal-1965, kif emendat bl-Atti XXXVI tal-1977, XIII\ntal-1983, XVI tal-1984 u II tal-1986.\n\nImħassar bl-Att XII tal-1999.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

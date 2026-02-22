@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-45-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Provision of Air Navigation Services) Order",
+  "title_en": "Civil Aviation (Provision of Air Navigation Services) Order",
+  "short_name": "eli/sl/499.45/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2006-11-21",
+  "url": "https://legislation.mt/eli/sl/499.45/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.45/mlt, expression eli/sl/499.45/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (PROVISION OF AIR NAVIGATION SERVICES) [L.S.499.45\n\nLEĠISLAZZJONI SUSSIDJARJA 499.45\nCIVIL AVIATION (PROVISION OF AIR\nNAVIGATION SERVICES) ORDER*\n21 ta’ Novembru, 2006\nL-AVVIŻ LEGALI 281 ta’ l-2006, kif emendat bl-Avviżi Legali 411 ta’ l2007 u 138 ta’ l-2008 u bl-Att XL tal-2023.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

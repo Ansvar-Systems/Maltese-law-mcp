@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-40-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Investment Services Act and Banking Act (MiFID and MiFIR Administrative Penalties, Measures and Investigatory Powers)",
+  "title_en": "Regolamenti Dwar Investment Services Act and Banking Act (MiFID and MiFIR Administrative Penalties, Measures and Investigatory Powers)",
+  "short_name": "eli/sl/370.40/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/370.40/20251003/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.40/mlt, expression eli/sl/370.40/20251003/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT AND BANKING ACT\n(MiFID AND MiFIR ADMINISTRATIVE PENALTIES,\nMEASURES AND INVESTIGATORY POWERS)\n\n[ L.S.370.40\n\nLEĠISLAZZJONI SUSSIDJARJA 370.40\nREGOLAMENTI DWAR INVESTMENT SERVICES ACT\nAND BANKING ACT (MiFID AND MiFIR\nADMINISTRATIVE PENALTIES, MEASURES\nAND INVESTIGATORY POWERS)*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 401 tal-2017, kif emendat bl-Avviżi Legali 135 tal2022 u 216 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

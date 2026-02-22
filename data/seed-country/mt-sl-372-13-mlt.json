@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-372-13-mlt",
+  "type": "statute",
+  "title": "Regoli dwar l-Industrija fid-Djar",
+  "title_en": "Regoli dwar l-Industrija fid-Djar",
+  "short_name": "eli/sl/372.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/372.13/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.13/mlt, expression eli/sl/372.13/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 150 ta’ l-1995, kif emendat bl-Avvi\\ Legali 425 ta’ l2007",
+      "content": "Djar.\n\nIt-titolu ta’ dawn r-regoli hu Regoli dwar l-Industrija fid-",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Djar",
+      "content": "Meta persuna li tkun re[istrata g]all-finijiet tat-taxxa dwar\nil-valur mi\\jud tqabbad arti[jani fid-dar fuq ba\\i part-time f’dawk\nl-attivitajiet li hemm imsemmija fl-artikolu 48A ta’ l-Att dwar itTaxxa fuq l-Income, hija g]andha t]allas it-taxxa lill-Kummissarju\nbir-rata ta’ 15 il-`ente\\mu fl-euro fuq il-]las annwali totali li\njing]ata lil kull arti[jan fid-dar dwar kull taxxa li tista’ tkun dovuta\nminn dawk l-arti[jani fid-dar g]ar-rigward ta’ dawk l-attivitajiet, li\ntin]adem skond din il-formola li [ejja:\n}las annwali nett\n0.85\n\nX\n\nTitolu.\n}las ta’ taxxa minn\npersuni re[istrati\ng]all-finijiet talVAT.\nEmendata:\nA.L. 425 ta’ l2007.\nKap. 123.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "It-taxxa dovuta skond ir-regola 2 g]andha tit]allas lillKummissarju mhux aktar tard mill-15 ta’ Jannar ta’ kull sena ta’\nstima, u g]andha ti[i regolata bid-disposizzjonijiet relevanti tatTaqsima VIII ta’ l-Att dwar l-Amministrazzjoni tat-Taxxa.\n\nMeta l-]las ikun\ndovut.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Il-persuna li tkun re[istrata g]all-finijiet tat-taxxa dwar ilvalur mi\\jud g]andha tag]ti lista lill-Kummissarju li jkun fiha\ndettalji dwar kull arti[jan fid-dar li din ir-regola tkun tapplika\ng]alih kif ukoll dwar il-]las li jing]ata lil kull arti[jan fid-dar. Dan\nl-elenku g]andu jintehme\\ mal-]las ta’ taxxa dovuta li jsir skond\nma hemm fir-regola 3.\n\nElenku ta’ arti[jani\nfid-dar.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "fid-dar",
+      "content": "Meta l-Kummissarju jkun sodisfatt li l-]ti[iet tar-regoli 3 u\n4 ikunu t]arsu, il-persuna li tkun re[istrata g]all-finijiet tat-taxxa\ndwar il-valur mi\\jud ikollha jedd, meta tkun qed ta]dem il-profitti\ntag]ha g]all-g]anijiet tat-taxxa fuq l-income, g]al tnaqqis:\n\nJedd g]al tnaqqis.\n\n(a) ta’ l-ammont nett mog]ti bi hlas lill-arti[jani fid-dar li\nd-disposizzjonijiet ta’ dawn ir-regoli jkunu japplikaw\ng]alihom;\n(b) tat-taxxa m]allsa lill-Kummissarju skond ir-regola 3\nta’ dawn ir-regoli dwar is-sena ta’ stima rilevanti; u\n(`) ammont addizzjonali ekwivalenti g]al tletin fil-mija\ntas-somma totali li to]ro[ mill-paragrafi (a) u (b).\n\nKap. 372.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 77
+      }
+    }
+  ],
+  "definitions": []
+}

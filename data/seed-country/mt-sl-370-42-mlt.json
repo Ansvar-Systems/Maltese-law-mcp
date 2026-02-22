@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-42-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Investment Services Act (Tied Agents)",
+  "title_en": "Regolamenti Dwar Investment Services Act (Tied Agents)",
+  "short_name": "eli/sl/370.42/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-30",
+  "in_force_date": "2018-01-30",
+  "url": "https://legislation.mt/eli/sl/370.42/20180130/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.42/mlt, expression eli/sl/370.42/20180130/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (TIED AGENTS)\n\n[ L.S.370.42\n\nLEĠISLAZZJONI SUSSIDJARJA 370.42\nREGOLAMENTI DWAR INVESTMENT\nSERVICES ACT (TIED AGENTS)*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 403 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

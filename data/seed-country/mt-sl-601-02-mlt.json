@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-601-02-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ir-Reviżjoni tas-Salarju ta l-Awditur Ġenerali",
+  "title_en": "Ordni dwar ir-Reviżjoni tas-Salarju ta l-Awditur Ġenerali",
+  "short_name": "eli/sl/601.02/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/601.02/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/601.02/mlt, expression eli/sl/601.02/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 67 ta’ l-1998, kif emendat bl-Avviż Legali 410 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Reviżjoni tasSalarju ta’ l-Awditur Ġenerali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għandu jitħallas lill-Awditur Ġenerali\n€22,108.08 fis-sena b’seħħ mill-1 ta’ Jannar, 1998.\n\nReviżjoni tassalarju ta’ lAwditur Ġenerali.\nEmendat:\nA.L. 410 tal-2007.\n\ns-salarju\n\nta’",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 31
+      }
+    }
+  ],
+  "definitions": []
+}

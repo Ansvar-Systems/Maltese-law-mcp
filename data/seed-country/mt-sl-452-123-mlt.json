@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-123-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali",
+  "title_en": "Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali",
+  "short_name": "eli/sl/452.123/mlt",
+  "status": "in_force",
+  "issued_date": "2022-01-03",
+  "in_force_date": "2022-01-01",
+  "url": "https://legislation.mt/eli/sl/452.123/20220101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.123/mlt, expression eli/sl/452.123/20220101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 462 tal-2021",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Standard\nNazzjonali dwar l-Inqas Paga Nazzjonali.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-inqas paga nazzjonali fil-ġimgħa għal ġimgħa normali\nta’ xogħol għandha tkun kif ġej:\n\nL-inqas paga\nnazzjonali.\n\nTa’ età 18-il sena u fuqhom ………………€182.83\nTa’ età 17-il sena …………………………€176.05\nTaħt is-17-il sena …………………………€173.21",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-inqas paga nazzjonali ta’ impjegati part-time għandha\ntkun ikkalkulata pro rata bl-istess rata fis-siegħa ta’ impjegat\nkomparabbli whole-time li tkun tapplika skont l-inqas paga tal-Ordni\ndwar Kunsill tal-Pagi li Jirregola l-Pagi rilevanti, jew f’każijiet fejn\nOrdni dwar Kunsill tal-Pagi li Jirregola l-Pagi ma tkunx tapplika,\nb’rata fis-siegħa li ma tkunx anqas mill-Inqas Paga Nazzjonali\nStandard li tkun tapplika, kif stabbilita skont l-artikolu preċedenti u\ndiviża b’erbgħin (40).",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Impjegati parttime",
+      "content": "Meta xi Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi\njkun japplika għal xi impjegat, il-pagi li jitħallsu lil dak l-impjegat firrigward tal-2022 ma għandhomx ikunu anqas minn dawk stabbiliti\nb’dak l-Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi applikabbli għal\n2021, aġġustat għall-għoli tal-ħajja b’xi żjidiet ta’ pagi dikjarati bħala\nli jkunu ġeneralment japplikaw għall-impjegati whole-time kollha\nskont l-artikolu 8 tal-Att dwar l-Impiegi u r-Relazzjonijiet Industrijali,\njew b’xi żidiet fil-paga għall-għoli tal-ħajja stabbilita b’xi ordni ta’\nstandard nazzjonali applikabbli fir-rigward tal-2022.\n\nOrdnijiet dwar\nKunsilli tal-Pagi li\njirregolaw il-Pagi.\n\nKap. 452.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

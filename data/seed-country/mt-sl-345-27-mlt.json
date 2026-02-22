@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Markets Act (Covered Bonds)",
+  "title_en": "Regolamenti dwar Financial Markets Act (Covered Bonds)",
+  "short_name": "eli/sl/345.27/mlt",
+  "status": "in_force",
+  "issued_date": "2023-03-22",
+  "in_force_date": "2023-03-14",
+  "url": "https://legislation.mt/eli/sl/345.27/20240126/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.27/mlt, expression eli/sl/345.27/20240126/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FINANCIAL MARKETS ACT (COVERED BONDS)\n\n[ L.S. 345.27\n\nLEĠISLAZZJONI SUSSIDJARJA 345.27\nREGOLAMENTI DWAR FINANCIAL MARKETS ACT\n(COVERED BONDS)\n14 ta’ Marzu, 2023\n\nL-AVVIŻ LEGALI 59 tal-2023, kif emendat bl-Avviż Legali 13 tal-2024.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

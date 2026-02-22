@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-9-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Mard u Kondizzjonijiet Komunikabbli",
+  "title_en": "Regolamenti dwar Mard u Kondizzjonijiet Komunikabbli",
+  "short_name": "eli/sl/9.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/9.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.10/mlt, expression eli/sl/9.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 137 tal-2005",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti dwar\nMard u Kondizzjonijiet Kommunikabbli.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-mard jew kondizzjonijiet li ġejjin huma speċifikati bħala\nmard jew kondizzjonijiet li għalihom japplika l-artikolu 244A talKodiċi Kriminali:\n\nSpeċifikazzjoni ta’\nmard jew\nkondizzjonijiet.\nKap. 9.\n\n(a) Human Immunodeficiency Virus Infection (HIV);\n(b) Acquired Immune Deficiency Syndrome (AIDS);\n(ċ) Infezzjoni tal-Epatite B;\n(d) Infezzjoni tal-Epatite C;\n(e) Tuberkulosi.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

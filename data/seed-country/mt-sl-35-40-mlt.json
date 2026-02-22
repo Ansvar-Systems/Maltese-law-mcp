@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-35-40-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità",
+  "title_en": "Regolamenti dwar Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità",
+  "short_name": "eli/sl/35.40/mlt",
+  "status": "in_force",
+  "issued_date": "2025-08-13",
+  "in_force_date": "2025-08-01",
+  "url": "https://legislation.mt/eli/sl/35.40/20250801/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.40/mlt, expression eli/sl/35.40/20250801/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 165 tal-2025",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nDrittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nId-drittijiet elenkati fl-Iskeda għandhom jitħallsu\nlill-uffiċjal awtorizzat nominat mill-Prim Ministru bħala l-persuna\nawtorizzata sabiex toħroġ dokumenti tal-identità jew lil xi persuna\ndelegata għal dan il-għan.\n\nDrittijiet li\ngħandhom\njitħallsu.\n\n(2)\nL-uffiċjal awtorizzat jista’ jirrinunzja kwalunkwe\ndrittijiet li għandhom jitħallsu fir-rigward ta’ applikazzjoni partikolari\njekk, fl-opinjoni tal-uffiċjal awtorizzat, id-dritt tal-ħlas se jikkawża\nproblemi finanzjarji għall-applikant, billi jieħu inkonsiderazzjoni lmezzi u ċ-ċirkostanzi tal-applikant.\nServizz\n\nDrittijiet\n(€)",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "korretta) li mhumiex dikjarati mitlufa, misruqa jew",
+      "content": "Applikazzjonijiet għal karta ġdida talidentità sabiex tissostitwixxi d-dokument li huwa\nmitluf, misruq jew meqrud....................................",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "mitluf, misruq jew meqrud...................................",
+      "content": "Applikazzjonijiet għal karta ġdida talidentità sabiex tissostitwixxi dokument li huwa\nsfigurat..................................................................",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "sfigurat.................................................................",
+      "content": "Applikazzjonijiet ghall-ħruġ urġenti\nta’\nkarti\ntal40\nidentità......................................................",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

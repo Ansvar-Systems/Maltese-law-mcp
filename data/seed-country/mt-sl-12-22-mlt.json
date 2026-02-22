@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-12-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Forma ta' l-Ittra Uffiċjali għall-finijiet ta' l-artikolu 166A(2) tal-Kodiċi ta' Organizzazzjoni u Proċeduri Ċivili",
+  "title_en": "Regolamenti dwar il-Forma ta' l-Ittra Uffiċjali għall-finijiet ta' l-artikolu 166A(2) tal-Kodiċi ta' Organizzazzjoni u Proċeduri Ċivili",
+  "short_name": "eli/sl/12.22/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/12.22/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.22/mlt, expression eli/sl/12.22/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 278 ta’ l-2005",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilForma ta’ l-Ittra Uffi`jali g]all-finijiet ta’ l-artikolu 166A(2) talKodi`i ta’ Organizzazzjoni u Pro`edura ~ivili.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’kull ittra uffi`jali skond it-termini ta’ l-artikolu 166A,\ng]andu jkun hemm stampat b’ittri `ari u pre`i\\i ta]t l-intestatura\ntal-Qorti, dan l-avvi\\ li [ej:\n\nAvvi\\ li jing]ata flittra uffi`jali.\n\n\"Din l-ittra uffi`jali qed tintbag]at ta]t l-artikolu 166A\ntal-Kapitolu 12, u jekk ma twe[ibx fi \\mien tletin (30)\njum, din issir titolu e\\ekuttiv. G]alhekk huwa flinteress tieg]ek li tkellem avukat jew prokuratur\nlegali.\".",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

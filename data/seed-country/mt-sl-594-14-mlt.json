@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-594-14-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ir-Reġistru ta' l-Applikanti għal Impieg (It-Tieni Taqsima)",
+  "title_en": "Ordni dwar ir-Reġistru ta' l-Applikanti għal Impieg (It-Tieni Taqsima)",
+  "short_name": "eli/sl/594.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/594.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/594.14/mlt, expression eli/sl/594.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 52 tal-1980, kif emendat bl-Avviż Legali 64 tal-1988",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Reġistru talApplikanti għal Impjieg (It-Tieni Taqsima).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-klassijiet ta’ persuni li jistgħu jirreġistraw fit-Tieni\nTaqsima tar-Reġistru tal-Applikanti għal Impieg għandhom ikunu:\n\nIl-persuni li jistgħu\njirreġistraw fitTieni Taqsima tarReġistru talApplikanti għal\nImpieg.\nEmendat:\nA.L. 64 tal-1988.\n\n(i) persuni f’impieg ta’ qligħ ta’ flus; u\n(ii) persuni li, mingħajr raġuni tajba u suffiċjenti,\nitemmu l-impieg jew jirrifjutaw opportunità ta’\nimpieg.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Impieg",
+      "content": "Kull waħda mill-klassijiet ta’ persuni msemmija fl-artikolu\n2(i) u (ii) għandhom ikunu reġistrati f ’taqsimijiet separati tarReġistru.\n\nTaqsimiet separati\ntar-Reġistru.\nEmendat:\nA.L. 64 tal-1988.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

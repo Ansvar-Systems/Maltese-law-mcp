@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-372-24-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Avviż ta' Data Stabbilita",
+  "title_en": "Ordni dwar Avviż ta' Data Stabbilita",
+  "short_name": "eli/sl/372.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/372.24/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.24/mlt, expression eli/sl/372.24/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 495 ta’ l-2004",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Avvi\\ ta’ Data\nStabbilita.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-23 jum ta’ Novembru, 2004, [iet stabbilita b]ala d-data\nli jirreferi g]aliha l-artikolu 24B(`) ta’ l-Att dwar lAmministrazzjoni tat-Taxxa.\n\nData stabbilita.\nKap. 372.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 26
+      }
+    }
+  ],
+  "definitions": []
+}

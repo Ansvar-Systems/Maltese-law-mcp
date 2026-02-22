@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-545-40-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar ir-Rata li Tapplika minflok is-Sostitut tal-Prezz tas-Suq",
+  "title_en": "Regolamenti dwar ir-Rata li Tapplika minflok is-Sostitut tal-Prezz tas-Suq",
+  "short_name": "eli/sl/545.40/mlt",
+  "status": "in_force",
+  "issued_date": "2023-03-27",
+  "in_force_date": "2023-01-01",
+  "url": "https://legislation.mt/eli/sl/545.40/20230101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/545.40/mlt, expression eli/sl/545.40/20230101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 63 tal-2023",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar ir-Rata li Tapplika minflok is-Sostitut tal-Prezz tas-Suq.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dawn ir-regolamenti huwa li jiddetermina rrata li għandha titħallas mill-operatur tas-sistema ta’ distribuzzjoni\nminflok is-sostitut tal-prezz tas-suq għas-sena 2023 fid-dawl tal-kriżi\ninternazzjonali tal-enerġija minħabba l-kunflitt fl-Ukrajna.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "internazzjonali tal-enerġija minħabba l-kunflitt fl-Ukrajna",
+      "content": "It-tifsir fl-Att dwar ir-Regolatur għas-Servizzi talEnerġija u l-Ilma u fir-Regolamenti dwar l-Elettriku għandhom\njapplikaw.\n\nTifsir.\nKap. 545.\nL.S. 545.34.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ir-rata li għandha titħallas mill-operatur tas-sistema ta’\ndistribuzzjoni minflok is-sostitut tal-prezz tas-suq għas-sena 2023\ngħandha tkun ta’ tmien ċenteżmi u ħamsa u tmenin milleżmi\n(€0.08,85) għal kull kWh.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

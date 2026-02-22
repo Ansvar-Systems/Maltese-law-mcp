@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-378-13-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ipprezzar tas-Servizzi tal-Ajru",
+  "title_en": "Regolamenti dwar l-Ipprezzar tas-Servizzi tal-Ajru",
+  "short_name": "eli/sl/378.13/mlt",
+  "status": "in_force",
+  "issued_date": "2011-06-02",
+  "in_force_date": "2011-06-02",
+  "url": "https://legislation.mt/eli/sl/378.13/20110602/mlt",
+  "description": "Official text from legislation.mt (eli/sl/378.13/mlt, expression eli/sl/378.13/20110602/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 189 tal-2011, kif emendat bl-Att XVI tal-2019",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIpprezzar tas-Servizzi tal-Ajru.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx teħieġ xort’oħra:\n\nTifsir.\nEmendat:\nXVI.2019.72.\n\n\"l-Att\" tfisser l-Att dwar l-Affarijiet tal-Konsumatur;\n\"id-Direttur Ġenerali\" tfisser id-Direttur Ġenerali (Affarijiet talKonsumatur) kif imfisser fl-Att;\n\"Qorti Ċivili\" tfisser il-Qorti Ċivili (Sezzjoni tal-Kummerċ) kif\nimwaqqfa bl-artikolu 3 tal-Ordni dwar it-Twaqqif ta’ Sezzjonijiet talQrati Ċivili;\n\nKap. 378.\n\nL.S. 12.19.\n\n\"ir-Regolament\" tfisser Regolament (KE) Nru 1008/2008 talParlament Ewropew u tal-Kunsill tal-24 ta’ Settembru 2008 dwar\nregoli komuni għall-operat ta' servizzi tal-ajru fil-Komunità\n(Riformulazzjoni).",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Id-Direttur Ġenerali għandu, skont l-Att, ikun\nresponsabbli għall-isorveljar u l-investigazzjonijiet fir-rigward talkonformità mad-dispożizzjonijiet tal-artikolu 23 tar-Regolament.\n\nPersuna maħtura.\nEmendata:\nXVI.2019.72.\n\n(2) Fit-twettiq tal-funzjonijiet tiegħu taħt dawn ir-regolamenti,\nid-Direttur għandu jkollu s-setgħat kif ordnat taħt l-Att u, b’mod\npartikolari, għandu joħroġ dik l-ordni jew deċiżjoni, jew jieħu dik\nil-miżura kif hu jqis xieraq skont l-Att.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "il-miżura kif hu jqis xieraq skont l-Att",
+      "content": "Eskluż meta jkunu ġew assenjati kompetenzi lill-Qorti Ċivili\nskont l-Att jew skont l-Att dwar l-Awtorità ta’ Malta għallKompetizzjoni u għall-Affarijiet tal-Konsumatur, fit-twettiq talfunzjonijiet tiegħu skont dawn ir-regolamenti d-Direttur Ġenerali\ngħandu jkollu l-istess setgħat kif preskritt skont l-Att, inkluża s-setgħa\nli jinvestiga u li jibda proċeduri ġudizzjarji skont l-Att quddiem ilQorti Ċivili.\n\nInvestigazzjonijiet\nu proċeduri\nġudizzjarji.\nKap. 510.\nSostitwit:\nXVI.2019.72.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "XVI.2019.72",
+      "content": "Kull persuna li tħossha aggravata b’sentenza, ordni, penali\njew miżura mogħtija mill-Qorti Ċivili, tista’ tappella quddiem il-Qorti\ntal-Appell fuq kull punt ta’ dritt u, jew fatt, billi tippreżenta rikors firreġistru tal-Qorti tal-Appell fi żmien għoxrin jum mid-data tassentenza tal-Qorti Ċivili:\n\nDritt ta’ appell.\nSostitwit:\nXVI.2019.72.\n\nIżda l-Qorti tal-Appell għandha tappunta l-każ għas-smigħ sa\nmhux aktar tard minn sitt xhur mid-data tas-sentenza tal-Qorti Ċivili.",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

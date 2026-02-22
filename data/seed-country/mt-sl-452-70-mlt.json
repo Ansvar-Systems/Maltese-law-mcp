@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-70-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għal Sagristani u Kustodji",
+  "title_en": "Ordni għal Kunsill tal-Pagi għal Sagristani u Kustodji",
+  "short_name": "eli/sl/452.70/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.70/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.70/mlt, expression eli/sl/452.70/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1992",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni g]al Kunsill tal-Pagi g]al\nSagristani u Kustodji.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) G]andu jkun hemm Kunsill tal-Pagi g]al Sagristani u\nKustodji li ja]dem g]al sagristani u g]al kustodji li jie]du ]sieb ta’\nknisja, mu\\ew jew bini miftu] g]al wirjiet pubbli`i.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ dwar il-]sieb biex jin]are[ dan l-Ordni [ie\npubblikat fil-Gazzetta tal-25 ta’ Ottubru, 1991.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.\n\n(2) F’dan l-artikolu, il-kelma \"kustodju\" tinkludi minbarra\npersuna impjegata biex tie]u ]sieb knisja, mu\\ew jew bini, kull\npersuna li tkun prin`ipalment jew fil-bi``a l-kbira ta’ xog]olha\ninkarigata mit-tindif, manutenzjoni jew sigurtà ta’ dik il-knisja,\nmu\\ew jew bini.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

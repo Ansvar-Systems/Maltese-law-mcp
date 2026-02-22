@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-364-20-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Eżenzjoni mit-Taxxa fuq Trasferimenti minn SportMalta",
+  "title_en": "Ordni dwar Eżenzjoni mit-Taxxa fuq Trasferimenti minn SportMalta",
+  "short_name": "eli/sl/364.20/mlt",
+  "status": "in_force",
+  "issued_date": "2024-05-27",
+  "in_force_date": "2024-05-10",
+  "url": "https://legislation.mt/eli/sl/364.20/20240510/mlt",
+  "description": "Official text from legislation.mt (eli/sl/364.20/mlt, expression eli/sl/364.20/20240510/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 110 tal-2024",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Eżenzjoni mitTaxxa fuq Trasferimenti minn SportMalta.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "xort’oħra:\n\nTifsir.\n\nF’dan l-ordni, sakemm ir-rabta tal-kliem ma teħtieġx\n\n\"assoċjazzjoni tal-isports\" tfisser assoċjazzjoni li taqa’\nfit-tifsira ta’ \"klabb\" kif imfissra fl-Att dwar l-Isports;\n\nKap. 455.\n\n\"Att\" tfisser l-Att dwar it-Taxxa fuq Dokumenti u\nTrasferimenti;\n\nKap. 364.\n\n\"proprjetà assenjata\" għandu jkollha l-istess tifsira kif\nmogħti lilha fl-artikolu 2 tal-Att dwar l-Isports;\n\nKap. 455.\n\n\"SportMalta\" tfisser il-korp imwaqqaf bl-artikolu 4 talAtt dwar l-Isports u tinkludi entità mwaqqfa taħt dak l-Att li\nkienet il-predeċessur jew hi s-suċċessur fit-titolu ta’\nSportMalta.\n\nKap. 455.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "SportMalta",
+      "content": "Bla ħsara għad-dispożizzjonijiet l-oħra ta’ dan l-ordni, ittaxxa li xort’oħra kienet tkun imposta skont l-Att, fuq trasferiment li\njapplika għalih dan l-ordni, ma għandhiex tiġi imposta.\n\nEżenzjoni.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "SportMalta",
+      "content": "Dan l-ordni għandu japplika għal kwalunkwe\ntrasferiment li jikkonsisti fil-konċessjoni ta’ enfitewsi temporanja fuq\nproprjetà assenjata li saret jew għandha ssir minn SportMalta lil\nassoċjazzjoni sportiva.\n\nApplikabbiltà talordni.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

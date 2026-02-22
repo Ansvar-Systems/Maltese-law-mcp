@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-409-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittjiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "title_en": "Regolamenti dwar id-Drittjiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "short_name": "eli/sl/409.3/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/409.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/409.3/mlt, expression eli/sl/409.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 115 ta’ l-2001, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nid-Drittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti\n{udizzjarji fuq Appelli.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 14(10)\nta’ l-Att dwar Servizzi ta’ l-Ivvja[[ar u tat-Turi\\mu g]al Malta,\ng]all-pre\\entata ta’ atti [udizzjarji fuq appelli, g]andhom ikunu\nmija u sittax-il euro u sebg]a u erbg]in `ente\\mu (€116.47).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 426 ta’ l2007.\nKap. 409.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Securitisation Cell Companies",
+  "title_en": "Regolamenti dwar Securitisation Cell Companies",
+  "short_name": "eli/sl/386.16/mlt",
+  "status": "in_force",
+  "issued_date": "2014-12-03",
+  "in_force_date": "2014-12-03",
+  "url": "https://legislation.mt/eli/sl/386.16/20141203/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.16/mlt, expression eli/sl/386.16/20141203/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SECURITISATION CELL COMPANIES\n\n[ L.S.386.16\n\nLE{ISLAZZJONI SUSSIDJARJA 386.16\nREGOLAMENTI DWAR\nSECURITISATION CELL COMPANIES*\n28 ta’ Novembru, 2014\nL-AVVI| LEGALI 411 tal-2014, kif emendat bl-Avvi\\ Legali 347 tal2016.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

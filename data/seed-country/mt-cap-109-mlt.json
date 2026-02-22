@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-109-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Legati taż-Żwieġ ta' Għawdex (Amministrazzjoni u Għażla)",
+  "title_en": "Ordinanza dwar il-Legati taż-Żwieġ ta' Għawdex (Amministrazzjoni u Għażla)",
+  "short_name": "Kap. 109",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1940-12-31",
+  "url": "https://legislation.mt/eli/cap/109/19630302/mlt",
+  "description": "Official text from legislation.mt (eli/cap/109/mlt, expression eli/cap/109/19630302/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Legali 4 tal-1963",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar il-Legati\ntaż-Żwieġ ta’ Għawdex (Amministrazzjoni u Għażla).",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "L-amministrazzjoni tal-legati taż-żwieġ magħmulin filGżira ta’ Għawdex minn Salvatore Refalo, Domenica Vassallo,\nAngelo Fantino, Perna Critelli u Giovanni Pace għandha tkun\nf’idejn is-Segretarju għall-Affarijiet ta’ Għawdex jew uffiċjal ieħor\nmaħtur mill-Prim Ministru.\n\nL-amministrazzjoni tal-legati\nf’idejn isSegretarju għallAffarijiet ta’\nGħawdex.\nEmendat:\nA.L. 4 tal-1963.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Il-jedd ta’ għażla għal-legati msemmijin fl-artikolu 2\nta’ din l-Ordinanza għandu jkun f’idejn il-Bord li jkun jikkonsisti\nmill-Kummissjunarji tal-Karità ta’ Għawdex u minn rappreżentant\nmaħtur għaldaqshekk mill-Isqof ta’ Għawdex pro tempore.\n\nJedd ta’ għażla\nmogħti lil Bord.\n\n(2) Ir-rappreżentant tal-Isqof ta’ Għawdex jippresjedi fillaqgħat tal-Bord.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 626 tal-31 ta’ Diċembru, 1940.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}
