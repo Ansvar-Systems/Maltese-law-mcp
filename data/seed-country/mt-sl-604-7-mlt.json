@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-604-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Limitazzjoni fuq in-Numru ta’ Residenti li jistgħu jokkupaw Dar Mikrija",
+  "title_en": "Regolamenti dwar il-Limitazzjoni fuq in-Numru ta’ Residenti li jistgħu jokkupaw Dar Mikrija",
+  "short_name": "eli/sl/604.7/mlt",
+  "status": "repealed",
+  "issued_date": "2024-08-29",
+  "in_force_date": "2024-10-23",
+  "url": "https://legislation.mt/eli/sl/604.7/20240901/mlt",
+  "description": "Official text from legislation.mt (eli/sl/604.7/mlt, expression eli/sl/604.7/20240901/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 197 tal-2024, kif emendat bl-Avviż Legali 206 tal2024",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nil-Limitazzjoni fuq in-Numru ta’ Residenti li jistgħu jokkupaw Dar\nMikrija.\n\nTitolu.\nEmendat:\nA.L. 206 tal-2024.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Mikrija",
+      "content": "Kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra,\nkliem u frażijiet użati f’dawn ir-regolamenti għandu jkollhom l-istess\ntifsira kif mogħti lilhom fl-Att.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-użu ta’ dar li tinkera lil numru ta’ residenti li ma jkunux\njgħixu flimkien bħala familja, irrispettivament minn jekk l-istess dar\ntiġix mikrija bħala dar sħiħa jew permezz ta’ numru ta’ spazji\nresidenzjali kondiviżi minn mhux aktar minn għaxar (10) residenti li\njoqogħdu flimkien għandu jkun permess, diment li n-numru ta’\nresidenti, il-kmamar tas-sodda u l-kmamar tal-banju jikkorrispondu\nmal-Iskeda.\n\nLimitazzjoni tannumru ta’\nresidenti.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1)\nGħall-finijiet sabiex jiġi determinat in-numru ta’\nresidenti, l-Awtorità għandha titlob lil sid il-kera jiddikjara n-numru\nta’ kmamar tas-sodda u tal-kmamar tal-banju ġewwa d-dar mikrija.\n\nDikjarazzjoni minn\nsid il-kera.\n\n(2)\nKwalunkwe dikjarazzjoni magħmula minn sid il-kera li\nma tkunx f’konformità mal-Iskeda għandha tkun meqjusa bħala\ndikjarazzjoni falza skont l-artikolu 22 tal-Att.\n\n(regolament 3)\nResidenti permessi\n\nNumru minimu ta’\nkmamar tas-sodda\n\nNumru minimu ta’ kmamar\ntal-banju\n\n[ L.S. 604.07\n\nLIMITAZZJONI FUQ IN-NUMRU TA’ RESIDENTI LI\nJISTGĦU JOKKUPAW DAR MIKRIJA",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 92
+      }
+    }
+  ],
+  "definitions": []
+}

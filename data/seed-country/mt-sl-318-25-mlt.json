@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-318-25-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Żieda Perċentwali fir-Rata ta’ Pensjoni Kontributorja għall-Irtirar",
+  "title_en": "Regolamenti dwar Żieda Perċentwali fir-Rata ta’ Pensjoni Kontributorja għall-Irtirar",
+  "short_name": "eli/sl/318.25/mlt",
+  "status": "in_force",
+  "issued_date": "2019-05-22",
+  "in_force_date": "2019-05-22",
+  "url": "https://legislation.mt/eli/sl/318.25/20190522/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.25/mlt, expression eli/sl/318.25/20190522/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 93 tal-2019",
+      "content": "It-titolu ta' dawn ir-regolamenti hu r-Regolamenti dwar\nŻieda Perċentwali fir-Rata ta’ Pensjoni Kontributorja għall-Irtirar.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nKull persuna illi tissodisfa l-kundizzjonijiet talartikolu 64A tal-Att dwar is-Sigurtà Soċjali u li tagħżel li tibqa’\nf’impjieg assigurabbli jew taħdem għaliha nnifisha ma tieħux ilpensjoni msemmija fl-artikolu 64A tal-imsemmi Att meta ikollha dritt\ngħaliha.\n\nEliġibilità.\nKap. 318.\n\n(2)\nL-imsemmija pensjoni għandha tkun qegħda tiġi\nrrinunzjata għal mhux inqas minn sena mid-data meta l-persuna\njkollha dritt għaliha u tibqa f’impjieg assigurabbli jew taħdem għaliha\nnnifisha.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull persuna li tirrinunzja għal pensjoni msemmija għal\nmhux inqas minn sena mid-data meta ssir eliġibbli tibda tibbenefika\nminn żieda fir-rata tal-pensjoni mid-data meta tiddeċiedi li tibda\ntirċievi l-pensjoni msemmija kif ġej:\n(a)\n\nżieda ta’ 5% jekk tieħu l-pensjoni wara sena;\n\n(b)\n\nżieda ta’ 10.5% jekk tieħu l-pensjoni wara sentejn;\n\n(ċ)\n\nżieda ta’ 16.5% jekk tieħu l-pensjoni wara tlett\nsnin; u\n\n(d)\n\nżieda ta’ 23% jekk tieħu l-pensjoni wara erba’ snin.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "żieda ta’ 23% jekk tieħu l-pensjoni wara erba’ snin",
+      "content": "Meta jsir il-kalkolu għall-finijiet li jiġi stabbilit l-ammont\naddizzjonali skont ir-rata bil-perċentwali miżjuda għandu jitqies dan li\nġej:\n(a)\n\nis-sena li fiha l-pensjoni kienet dovuta;\n\n(b)\n\nir-rata ta’ pensjoni li kienet dovuta; u\n\n(ċ)\n\nin-numru ta’ snin li matulhom il-pensjoni ma\ntħallsitx.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 74
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "tħallsitx",
+      "content": "(1)\nL-ammont addizzjonali li jirriżulta skont irregolament 4 jibqa’ fiss u jibqa’ jitħallas b’żieda mar-rata tal-pensjoni\nhekk kif maħduma kull sena skont it-Taqsima V tal-Att dwar is-\n\nRati perċentwali\nmiżjuda.\n\nKalkolu ta' kif\ntinħadem iż- żieda\nperċentwali.\n\nKundizzjonijiet\noħra dwar kif\ntitħallas din iżżieda. Kap. 318.\n\nKap. 318.\n\nŻIEDA PERĊENTWALI FIR-RATA TA’ PENSJONI\nKONTRIBUTORJA GĦALL-IRTIRAR\n[ L.S. 318.25\nSigurtà Soċjali.\n(2)\nL-ammont addizzjonali skont is-subregolament (1) jista’\njitħallas lis-superstiti tal-benefiċjarju jekk is-superstiti jibbenefika\nminn pensjoni skont it-Taqsima IV tal-Att dwar is-Sigurtà Soċjali\nmħallsa wara l-mewt tal-benefiċjarju.",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 107
+      }
+    }
+  ],
+  "definitions": []
+}

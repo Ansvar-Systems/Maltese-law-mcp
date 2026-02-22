@@ -1,0 +1,65 @@
+{
+  "id": "mt-cap-324-mlt",
+  "type": "statute",
+  "title": "Att dwar id-Delega ta' Funzjonijiet minn Ministri",
+  "title_en": "Att dwar id-Delega ta' Funzjonijiet minn Ministri",
+  "short_name": "Kap. 324",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1988-05-20",
+  "url": "https://legislation.mt/eli/cap/324/19880520/mlt",
+  "description": "Official text from legislation.mt (eli/cap/324/mlt, expression eli/cap/324/19880520/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XVI tal-1988 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar id-Delega ta’\nFunzjonijiet minn Ministri.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx\nxort’oħra -\n\nTifsir.\n\n\"funzjonijiet\" tinkludi setgħat u dmirijiet;\n\"liġi\" tfisser Att tal-Parlament jew Att ieħor mgħoddi millLeġislatura ta’ Malta jew Ordinanza;\n\"Ministru\" tfisser id-detentur ta’ kariga skont l-artikolu 80 talKostituzzjoni.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Ministru jista’ jiddelega lil Segretarju Parlamentari li\njkun qiegħed jassistih fit-twettiq ta’ dmirijietu, kull funzjoni li bissaħħa tal-kariga tiegħu tkun mogħtija lilu b’xi jew taħt xi liġi.\n\nDelega ta’\nfunzjonijiet.\n\n(2) Delega ta’ funzjonijiet taħt dan l-artikolu għandha tkun\nmingħajr preġudizzju għat-twettiq ta’ dawk il-funzjonijiet millMinistru.\n(3) Is-setgħa li tiġi hekk delegata biex isiru ordnijiet, regoli jew\nregolamenti għandha, kemm-il darba ma jkunx jidher li hemm xi\nħsieb ieħor, tiftiehem li tinkludi setgħa li wieħed jirrevoka,\njemenda jew ibiddel ordnijiet, regoli jew regolamenti.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull delega ta’ funzjonijiet u kull żieda magħha jew\nemenda, bidla, sostituzzjoni jew tħassir ta’ dik id-delega għandhom\nisiru bil-miktub mill-Ministru nnifsu, u għandu jiġi ppublikat avviż\ndwar dan fil-Gazzetta.\n\nAvviż dwar\nfunzjonijiet\ndelegati.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "delegati",
+      "content": "Segretarju Parlamentari jista’ jħarrek jew jiġi mħarrek\ndwar kull funzjoni delegata lilu taħt dan l-Att, u jista’ jkompli kull\nproċediment legali li jkun inbeda għar-rigward ta’ dawk ilfunzjonijiet qabel id-data li fiha tkun saret id-delega.\n\nProċedimenti\nlegali.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 370 tal-20 ta’ Mejju, 1988.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Prodotti ta' KostruzzjoniImħassrin bl-Avviż Legali 462 tal-2012",
+  "title_en": "Regolamenti dwar Prodotti ta' KostruzzjoniImħassrin bl-Avviż Legali 462 tal-2012",
+  "short_name": "eli/sl/427.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.12/mlt, expression eli/sl/427.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PRODOTTI TA’ KOSTRUZZJONI\n\n[L.S.427.12\n\nLE{ISLAZZJONI SUSSIDJARJA 427.12\nREGOLAMENTI DWAR PRODOTTI\nTA’ KOSTRUZZJONI\n1 ta’ Lulju, 2002\nL-AVVI| LEGALI 270 tal-2001, kif emendat bl-Avvi\\i Legali 330 tal2002, 29 tal-2004, 6 tal-2007, 25 tal-2008, 347 tal-2010 u 104 tal-2011.\n\nRevokati bl-Avvi\\ Legali 462 tal-2011.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-48-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Identity of Air Carrier) Order",
+  "title_en": "Civil Aviation (Identity of Air Carrier) Order",
+  "short_name": "eli/sl/499.48/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/499.48/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.48/mlt, expression eli/sl/499.48/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (IDENTITY OF AIR CARRIER)\n\n[L.S.499.48\n\nLE{ISLAZZJONI SUSSIDJARJA 499.48\nCIVIL AVIATION\n(IDENTITY OF AIR CARRIER) ORDER*\n31 ta’Lulju, 2007\nL-AVVI| LEGALI 205 tal-2007, kif emendat bl-Avvi\\ Legali 411 tal2007 u bl-Att VIII tal-2010.\n\n*Dan l-Ordni [ie ppubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

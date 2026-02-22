@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-390-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Tariffa ta' Drittijiet Imħassar bl-Att XIII tal-2021",
+  "title_en": "Ordni dwar Tariffa ta' Drittijiet Imħassar bl-Att XIII tal-2021",
+  "short_name": "eli/sl/390.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1956-09-27",
+  "url": "https://legislation.mt/eli/sl/390.2/20221227/mlt",
+  "description": "Official text from legislation.mt (eli/sl/390.2/mlt, expression eli/sl/390.2/20221227/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 588 ta’ l-1956",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Tariffa ta’ Drittijiet.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar Tariffa ta’ Drittijiet",
+      "content": "It-tariffa ta’ drittijiet li għandhom jitħallsu lil arkitetti u\ninġinieri ċivili għal xogħol professjonali u servizzi mogħtija għal\ndak li għandu x’jaqsam ma’ bini, rikostruzzjoni u tiswija ta’ bini\nmilqut minn alignments ġodda, pjanijiet regolaturi jew proġetti ta’\nrikostruzzjoni, għandha tkun kif imfissra fl-Iskeda ta’ dan l-Ordni.\n\n(Artikolu 2)\nA.\n\nBini bil-ħsara tal-gwerra",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "(i)",
+      "content": "3% fuq it-tariffa tas-soltu tal-Kummissjoni\ngħall-Ħsarat tal-Gwerra, fuq l-ispiża totali taxxogħlijiet kif approvati mid-Direttur taxXogħlijiet Pubbliċi.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

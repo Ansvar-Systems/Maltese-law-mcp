@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-139-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar it-Tqassim tal-Proprjetà ta' l-Għadu Ġermaniża",
+  "title_en": "Ordinanza dwar it-Tqassim tal-Proprjetà ta' l-Għadu Ġermaniża",
+  "short_name": "Kap. 139",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1953-01-15",
+  "url": "https://legislation.mt/eli/cap/139/19530115/mlt",
+  "description": "Official text from legislation.mt (eli/cap/139/mlt, expression eli/cap/139/19530115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bl-ORDINANZA I tal-1953",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar itTqassim tal-Proprjetà tal-Għadu Ġermaniża, u għandha tiftiehem\nħaġa waħda mal-Ordinanza dwar it-Tqassim tal-Proprjetà talGħadu Ġermaniża, hawnhekk iżjed ’il quddiem imsejħa l\"Ordinanza prinċipali\".",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "L-Ordinanza prinċipali jkollha effett u titqies li dejjem\nkellha effett daqslikieku s-somom imsemmijin fil-paragrafu (b) tattifsira \"dejn tal-għadu Ġermaniż\" jinkludu kull somma dovuta li\ntingħata meta għaddiet dik l-Ordinanza -\n\nTibdil fit-tifsira ta’\n\"dejn tal-għadu\nĠermaniż\".\n\n(a) bis-saħħa ta’ xi titolu tas-City of Saarbruecken 6 per\ncent. Sterling Loan of 1928 li jkun titolu b’kitba li\ntaqbel mas-Supplementary Agreement dwar il-ħidma\ntal-artikolu 2 tal-Anglo-German Transfer Agreement\ntal-1 ta’ Lulju, 1938;\n(b) bis-saħħa ta’ xi titolu ta’ xi waħda mill-ħarġiet ta’\ntitoli msemmija fl-Iskeda li tinsab ma’ din lOrdinanza.\n\nĦARGIET TA’ TITOLI\n\nPotash Syndicate of Germany 25 year Sinking Fund Gold Loan.\nCity of Berlin 6 per cent. Sterling Loan, 1927.\nCity of Cologne 6 per cent. Sterling Loan, 1928.\nCity of Dresden 5½ per cent. Sterling Loan of 1927.\nCity of Munich 6 per cent. Sterling Bonds.\nState of Hamburg 6 per cent. Sterling Loan of 1926.\nHamburg Waterworks 6 per cent. Sterling Loan.\nThe Free State of Saxony 6 per cent. 25 year Sterling Bonds of 1927.\nProvince of Westphalia 7 per cent. Sterling Loan of 1926.\nPrussian Electric Company 6 per cent. 25 year Sterling Bonds.\n\nKap. 132.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

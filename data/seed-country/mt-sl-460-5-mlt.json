@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-460-5-mlt",
+  "type": "statute",
+  "title": "Ordni dwar is-Sospensjoni ta’ Ċerti Disposizzjonijiet fir-rigward tal-Parlament Ewropew",
+  "title_en": "Ordni dwar is-Sospensjoni ta’ Ċerti Disposizzjonijiet fir-rigward tal-Parlament Ewropew",
+  "short_name": "eli/sl/460.5/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-30",
+  "in_force_date": "2011-11-30",
+  "url": "https://legislation.mt/eli/sl/460.5/20111130/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.5/mlt, expression eli/sl/460.5/20111130/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 117 tal-2004",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar is-Sospensjoni ta’\nêerti Disposizzjonijiet fir-rigward tal-Parlament Ewropew.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Minkejja kull ħaāa li tinsab fl-Att dwar l-Elezzjonijiet\ngħall-Parlament Ewropew, matul il-perjodu bejn l-1 ta’ Mejju, 2004\nu l-bidu taŜ-Ŝmien 2004-2009 tal-Parlament Ewropew, membri talKamra tad-Deputati jistgħu jkunu Membri tal-Parlament Ewropew\nu kull disposizzjoni tal-Att dwar l-Elezzjonijiet għall-Parlament\nEwropew li tmur kontra dan ghandħa, matul dak il-perjodu, tkun\nsospiŜa u jkollha biss effett dwar l-elezzjoni ta’ membri talParlament Ewropew li għandhom isiru f’Āunju 2004 u elezzjonijiet\nsussegwenti.\n\nSospensjoni ta’\nëerti\ndisposizzjonijiet.\nKap. 467.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

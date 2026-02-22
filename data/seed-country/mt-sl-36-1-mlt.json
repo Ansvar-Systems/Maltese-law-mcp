@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-36-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Użu ta' Karta biex tqartas",
+  "title_en": "Ordni dwar l-Użu ta' Karta biex tqartas",
+  "short_name": "eli/sl/36.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.1/mlt, expression eli/sl/36.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 139 ta’ l-1916",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-U\\u ta’ Karta biex\ntqartas.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tqartas",
+      "content": "Kull ]a[a ta’ l-ikel m’g]andhiex titqartas f’karta ma]mu[a\njew u\\ata, jew f’gazzetta.\n\nTitolu.\nHa[a ta’ l-ikel li\ntiqartas f’karta.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 27
+      }
+    }
+  ],
+  "definitions": []
+}

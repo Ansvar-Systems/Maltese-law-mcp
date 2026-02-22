@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-10-37-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Karrozzini (Tariffa ta Nolijiet)",
+  "title_en": "Regolamenti dwar Karrozzini (Tariffa ta Nolijiet)",
+  "short_name": "eli/sl/10.37/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.37/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.37/mlt, expression eli/sl/10.37/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 75 ta’ l-1988, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilKarrozzini (Tariffa ta’ Nolijiet).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-karrozzini bil-li`enza jistg]u jinkrew bil-]in li jibda\ng]addej mill-waqt li l-karrozzin jissejja] mill-venda jew mit-triq.\n\nKiri bil-]in.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Dawn in-nolijiet li [ejjin g]andhom jintalbu g]al kirja bil]in ta’ karrozzin g]al kull vja[[:\n\nNolijiet.\nSostitwit:\nA.L. 407 ta’ l2007.\n\nL-inqas nol (li jkopri l-ewwel nofs sieg]a jew\nparti minnha) ................................................ s i t t e u r o u\ndisg]a u\ndisg]in\n`ente\\mu\n(6.99)\nG]al kull nofs sieg]a sussegwenti jew parti\nminnha ......................................................... e u r o\nu\n]amsa\nu\nsebg]in\n`ente\\mu\n(1.75).",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Nolijiet",
+      "content": "Il-kelma \"vja[[\" tfisser it-trasportazzjoni ta’ g]add ta’\npassi[[ieri li ma jkunux iktar minn erbg]a li jkunu qeg]din iduru\nf’eskursjoni jew jivvja[[aw minn post g]all-ie]or:\n\nTifsir ta’ \"vja[[\".\n\nI\\da g]all-finijiet ta’ dan ir-Regolament, \\ew[t itfal bejn letajiet ta’ tlieta u g]axar snin g]andhom jitqiesu daqs persuna\nwa]da.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "wa]da",
+      "content": "Il-ku``ier ta’ kull karrozzin g]andu jwa]]al kopja tatTariffa ta’ Nolijiet fil-karrozzin tieg]u f’dik il-po\\izzjoni fejn ilpassi[[ieri jkunu jistg]u jarawha sewwa.\n\nKopja tat-Tariffa\nta’ Nolijiet.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

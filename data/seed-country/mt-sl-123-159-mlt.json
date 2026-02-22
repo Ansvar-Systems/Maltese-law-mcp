@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-123-159-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis għal Ħaddiema Maturi",
+  "title_en": "Regoli dwar Tnaqqis għal Ħaddiema Maturi",
+  "short_name": "eli/sl/123.159/mlt",
+  "status": "in_force",
+  "issued_date": "2014-06-02",
+  "in_force_date": "2014-06-02",
+  "url": "https://legislation.mt/eli/sl/123.159/20140602/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.159/mlt, expression eli/sl/123.159/20140602/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 180 tal-2014, kif emendat bl-Att XXVII tal-2016",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Tnaqqis\ngħal Ħaddiema Maturi.\n\nTitolu u bidu fisseħħ.\n\n(2) Dawn ir-regoli għandhom jidħlu fis-seħħ mis-sena ta’ stima\n2015, fir-rigward ta’ persuni impjegati nhar jew wara l-1 ta’ Jannar",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "2014",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieġ xort’oħra -\n\nTifsir.\nEmendat:\nXXVII. 2016.6.\n\n\"impjegat kwalifikanti\" tfisser persuna li l-età tagħha hija bejn\n45 u 65 sena u li isimha jidher fuq ir-reġistru ta’ nies qiegħda\n(Taqsimiet 1 u 2) u li ilha fuq tali reġistru għal mill-inqas is-6 xhur\npreċedenti, kif stabbilit minn Jobsplus;\n\"persuna kwalifikanti\" tfisser persuna li timpjega \"impjegat\nkwalifikanti\", kif approvat minn Jobsplus;\n\"taħriġ\" tfisser programm ta’ taħriġ li jsir barra mil-lant taxxogħol, jew li jsir fuq il-lant tax-xogħol iżda esternalizzat lil terzi\npersuni, wara monitoraġġ u approvazzjoni minn Jobsplus.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Meta persuna kwalifikanti tipprovdi impjieg lil\nimpjegat kwalifikanti fis-sena ta’ qabel is-sena ta’ stima, tnaqqis\nekwivalenti għal €5,800 fis-sena huwa permess kontra d-dħul\ntaxxabbli tal-imsemmija persuna kwalifikanti matul l-ewwel\nsentejn li jkun qed jipprovdi impjieg lil impjegat kwalifikanti:\nIżda, meta l-impjegat ma jkunx impjegat għal sena sħiħa\nmatul is-sena ta’ stima, it-tnaqqis ikun permess pro rata. Is-sentejn\ntnaqqis jibdew mill-ewwel ġurnata tal-impjieg, u, sakemm limpjegat jibqa’ f ’tali impjieg, persuna kwalifikanti tibbenefika\nminn tnaqqis ekwivalenti għal €11,600 meta jgħaddu l-imsemmija\nsentejn:\nIżda wkoll, sa fejn dan it-tnaqqis ma jkunx kollu paċut\nmad-dħul tal-persuna kwalifikanti għas-sena li matulha l-persuna\ntkun intitolata għal tnaqqis, dak it-tnaqqis għandu jinġieb ’il\nquddiem u ssir it-tpaċija tiegħu kontra dħul tas-snin sussegwenti\nsuċċessivament:\nIżda wkoll, meta l-persuna kwalifikanti hija individwu,\nsakemm dan it-tnaqqis ma jkunx kollu paċut kontra d-dħul ta’ tali\nindividwu jew il-konjuġi tiegħu, fejn applikabbli, għas-sena\nimsemmija, dak it-tnaqqis għandu jinġieb ’il quddiem u paċut\nkontra d-dħul tas-snin sussegwenti suċċessivament.\n(2) It-tnaqqis huwa permess biss meta l-persuna kwalifikanti\nma tibbenefikax minn tnaqqis, kreditu ta’ taxxa, jew kull forma\n\nTnaqqis permess.\n\n[ L.S.123.159\n\nTNAQQIS GĦAL ĦADDIEMA MATURI\n\noħra ta’ assistenza fir-rigward tal-imsemmi impjieg mingħand ilGvern jew entità oħra tal-Gvern.\nTnaqqis għattaħriġ.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tnaqqis permess",
+      "content": "Meta persuna kwalifikanti tipprovdi impjieg lil impjegat\nkwalifikanti fis-sena ta’ qabel is-sena ta’ stima, tnaqqis ekwivalenti\ngħal 50% tal-ispejjes magħmula fit-taħriġ tal-impjegat kwalifikanti\n( s a m as s i m u t a ’ € 4 0 0 ) g ħ a nd u j k u n p e r m e s s k on t r a d - d ħ u l\ntaxxabbli tal-persuna kwalifikanti.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

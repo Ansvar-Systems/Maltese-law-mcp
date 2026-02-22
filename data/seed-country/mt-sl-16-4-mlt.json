@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-16-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Adozzjoni",
+  "title_en": "Regolamenti dwar l-Adozzjoni",
+  "short_name": "eli/sl/16.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/16.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/16.4/mlt, expression eli/sl/16.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 15 ta’ l-1995, kif emendat bl-Att II tal-2019",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lAdozzjoni.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-]wejje[ li [ejjin huma preskritti g]all-finijiet taddisposizzjonijiet tal-Kodi`i ~ivili li huma spe`ifikati:\n\n}wejje[ preskritti\ng]all-finijiet ta’\ndiversi artikoli talKodi`i ~ivili.\nEmendat:\nII.2019.6.\nKap. 16.\n\n(a) gћall-finijiet tal-artikolu 116(2), l-awtorità hemm\nimsemmija tkun l-Uffiċjal Eżekuttiv Ewlieni tal-Awtorità\nta’ Standards ta’ Ħarsien Soċjali. L-Uffiċjal Eżekuttiv\nEwlieni gћandu min-naћa tiegћu jissottometti rapport\nsoċjali lill-qorti fl-interess tal-persuna li tkun ser tiġi\nadottata, u l-qorti tagћti d-digriet fuq ir-rikors ta’\nadozzjoni wara li tkun qieset ir-rapport;\n(b) G]all-finijiet ta’ l-artikolu 118(1), il-mod preskritt\nimsemmi fih ikun riferenza g]an-numru li jiddistingwi\nl-applikazzjoni pre\\entata favur il-persuna li l-identità\ntag]ha ma tkunx mag]rufa minn min ikun ser jag]ti lkunsens u riferenza g]ad-data li fiha kienet pre\\entata\ndik l-applikazzjoni;\n(`) G]all-finijiet ta’ l-artikolu 118(2)(b), il-klassi ta’\npersuna li tista’ tawtentika dokument tax-xorta\nmsemmija f’dak is-subartikolu tkun kull klassi ta’\npersuna li jkollha kariga li, skond il-li[i ta’ Malta jew\ntal-post fejn id-dokument ikun awtentikat, tag]ti\nsetg]a lil dik il-persuna biex tawtentika dokument filpost fejn isir id-dokument;\n(d) G]all-finijiet ta’ l-artikolu 119(2), i`-`ertifikat ta’\ntabib re[istrat ikun me]tie[ fil-ka\\ijiet kollha ]lief\nmeta l-applikant jew wie]ed mill-applikanti jkunu lomm jew il-missier tal-persuna li g]andha ti[i adottata\njew meta l-Qorti jidhrilha xieraq li te\\enta l-applikant;\n(e) G]all-finijiet ta’ l-artikolu 120, il-persuna li tista’ ti[i\nnominata mill-Qorti b]ala kuratur spe`jali ta’\nminorenni tkun persuna li tkun g]alqet il-]amsa u\ntletin sena u li tkun, min]abba l-esperjenza jew kariga\ntag]ha, persuna xierqa u tajba biex tag]milha ta’\nkuratur.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

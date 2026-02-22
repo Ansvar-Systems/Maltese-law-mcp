@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-106-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Kontroll tal-Koltivazzjoni tat-Tabakk Imħassra bl-Att II tal-2015",
+  "title_en": "Ordinanza dwar il-Kontroll tal-Koltivazzjoni tat-Tabakk Imħassra bl-Att II tal-2015",
+  "short_name": "Kap. 106(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1939-07-14",
+  "url": "https://legislation.mt/eli/cap/106/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/106/mlt, expression eli/cap/106/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONTROLL TAL-KOLTIVAZZJONI TAT-TABAKK\n\n[ KAP. 106.\n\nKAPITOLU 106\nORDINANZA DWAR IL-KONTROLL TALKOLTIVAZZJONI TAT-TABAKK\nBiex tikkontrolla l-koltivazzjoni tat-tabakk.\n\n(14 ta’ Lulju, 1939)*\nL-ORDINANZA XLIV tal-1939, kif emendata bl-Ordinanza XXV tal1962; bl-Avviż Legali 4 tal-1963; bl-Att XIII ta’ 1-1983; u bl-Avviż Legali\n409 tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Proklama Nru. XXXIV tal-14 ta’ Lulju, 1939.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

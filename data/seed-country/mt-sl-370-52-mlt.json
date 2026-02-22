@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-52-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Fees)",
+  "title_en": "Regolamenti dwar Investment Services Act (Fees)",
+  "short_name": "eli/sl/370.52/mlt",
+  "status": "in_force",
+  "issued_date": "2025-01-22",
+  "in_force_date": "2025-01-01",
+  "url": "https://legislation.mt/eli/sl/370.52/20250328/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.52/mlt, expression eli/sl/370.52/20250328/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 370.52\n\nINVESTMENT SERVICES ACT (FEES)\n\nLEĠISLAZZJONI SUSSIDJARJA 370.52\nREGOLAMENTI DWAR INVESTMENT SERVICES\nACT (FEES)\n1 ta’ Jannar, 2025\nL-AVVIŻ LEGALI 370 tal-2024, kif emendat bl-Avviż Legali 61 tal2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

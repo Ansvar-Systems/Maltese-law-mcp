@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-442-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar ir-Rata ta’ Dividend fuq Kapital tal-Ishma għall Għaqdiet Koperativi",
+  "title_en": "Regolamenti dwar ir-Rata ta’ Dividend fuq Kapital tal-Ishma għall Għaqdiet Koperativi",
+  "short_name": "eli/sl/442.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/442.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/442.1/mlt, expression eli/sl/442.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 35 ta’ l-1990",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar irRata ta’ Dividend fuq Kapital tal-Ishma g]al G]aqdiet Koperativi.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ebda g]aqda koperativa re[istrata ma g]andha t]allas\ndividend fuq kapital ta’ ishma m]allas li jkun ta’ iktar minn ]amsa\nfil-mija fis-sena ming]ajr l-awtorizzazzjoni tal-Bord talKoperativi.\n\nRata ta’ dividend\nfuq kapital talishma.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

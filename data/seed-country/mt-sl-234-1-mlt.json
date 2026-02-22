@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ismijiet ta Bastimenti",
+  "title_en": "Regolamenti dwar l-Ismijiet ta Bastimenti",
+  "short_name": "eli/sl/234.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.1/mlt, expression eli/sl/234.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ISMIJIET TA’ BASTIMENTI\n\n[L.S.234.01\n\nLE{ISLAZZJONI SUSSIDJARJA 234.01\nREGOLAMENTI DWAR L-ISMIJIET TA’\nBASTIMENTI*\n\n1 ta’ {unju, 1973\n\nL-AVVI| LEGALI 55 ta’ l-1973.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

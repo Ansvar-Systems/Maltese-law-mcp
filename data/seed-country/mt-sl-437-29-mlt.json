@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-437-29-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Metodi ta' Monitoraġġ tal-Ħidma u Metodi biex ikun Assessjat il-Valur Ġenetiku tal-Merħla ta' Annimali tar-Razza Pura għat-Tnissil ta' l-Ispeċi Bovina Imħassrin bl-Avviż Legali 11 tal-2024",
+  "title_en": "Regolamenti dwar Metodi ta' Monitoraġġ tal-Ħidma u Metodi biex ikun Assessjat il-Valur Ġenetiku tal-Merħla ta' Annimali tar-Razza Pura għat-Tnissil ta' l-Ispeċi Bovina Imħassrin bl-Avviż Legali 11 tal-2024",
+  "short_name": "eli/sl/437.29/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2024-03-26",
+  "url": "https://legislation.mt/eli/sl/437.29/20240326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/437.29/mlt, expression eli/sl/437.29/20240326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 323 ta’ l-2003",
+      "content": "(1) It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nMetodi ta’ Monitoraġġ tal-Ħidma u l-Metodi biex ikun Assessjat\nil-Valur Ġenetiku tal-Merħla ta’ Annimali tar-Razza Pura għatTnissil ta’ l-Ispeċi Bovina.\n\nTitolu u skop.\n\n(2) L-għan ta’ dawn ir-regolamenti hu li jkunu implimentati ddisposizzjonijiet li jinsabu fid-Deċiżjoni tal-Kummissjoni ta’ lUnjoni Ewropea 86/130/KEE li tistabblixxi l-metodi ta’\nmonitoraġġ ta’ ħidma u l-metodi biex ikun assessjat il-valur\nġenetiku tal-merħla ta’ annimali tar-razza pura għat-tnissil ta’ lispeċi bovina. Din id-Deċiżjoni ssib il-bażi legali tagħha taħt idDirettiva tal-Kunsill ta’ l-Unjoni Ewropea 77/504/KEE, l-Artikolu\n6(1), l-ewwel inċiż.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu u skop",
+      "content": "Il-metodi ta’ monitoraġġ tal-ħidma u l-metodi biex ikun\nassessjat il-valur ġenetiku ta’ l-annimali tar-razza pura għat-tnissil\ngħandhom ikunu dawk stabbiliti fl-Iskeda.\n\n*Dawn ir-Regolamenti ġew imħassrin bl-Avviż Legali 11 tal-2024.\n\nDisposizzjonijiet\nta’ l-Iskeda.\n\nMETODI TA’ MONITORAĠĠ TAL-ĦIDMA U METODI BIEX IKUN\nASSESSJAT IL-VALUR ĠENETIKU TAL-MERĦLA TA’ ANNIMALI\nTAR-RAZZA PURA GĦAT-TNISSIL TA’ L-ISPEĊI BOVINA\n\nI.\nIs-Servizz Veterinarju tat-teritorju ta’ Malta għandu japprova l-korpi\nresponsabbli biex ifasslu r-regoli biex tkun reġistrata l-ħidma u l-assessjar tal-valur\nġenetiku u għall-pubblikazzjoni tar-riżultati ta’ evalwazzjoni ta’ annimali tar-razza\npura għat-tnissil ta’ l-ispeċi bovina. L-ismijiet tal-korpi approvati għandhom jiġu\nnotifikati lill-Kummissjoni Ewropea u lill-Istati Membri.\nB’mod partikolari, dawn il-korpi għandhom jagħtu kont tal-metodi ta’ reġistrar, ilmudell tad-deskrizzjoni tal-ħidma, il-metodu statistiku ta’ analiżi u l-parametri\nġenetiċi użati għal kull trait evalwat.\nII.\n\nReġistrar tal-ħidma.\n\nId-data kollha trid tkun reġistrata taħt ir-responsabbilt tal-korp approvat.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "TAR-RAZZA PURA GĦAT-TNISSIL TA’ L-ISPEĊI BOVINA",
+      "content": "Riproduzzjoni (tratti sekondarji)\n\nMeta jkunu qegħdin jiġu evalwati l-fertilità, l-calving aptitude u t-tul tal-ħajja,\ndawn għandhom jkunu assessjati fuq il-bażi ta’ data dwar il-fertilizzazzjoni (eż:\nnon-return-rate) , il-calving score u l-età funzjonali (eż: Stay-ability, culling age, u\nt-tul tal-ħajja produttiva), rispettivament.",
+      "metadata": {
+        "source_line_start": 107,
+        "source_line_end": 114
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "t-tul tal-ħajja produttiva), rispettivament",
+      "content": "Assessjar ta’ tip morfoloġiku\n\nMeta jkun qed jitwettaq rating morfoloġiku, dan għandu jkun magħmul bl-użu ta’\nsistema approvata ta’ reġistrar.\n\nEvalwazzjoni ġenetika",
+      "metadata": {
+        "source_line_start": 115,
+        "source_line_end": 124
+      }
+    }
+  ],
+  "definitions": []
+}

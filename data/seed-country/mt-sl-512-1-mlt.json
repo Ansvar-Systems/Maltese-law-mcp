@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-512-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Eżenzjonijiet taħt l-Att dwar l-Intrapriżi Ż-żgħar",
+  "title_en": "Regolamenti dwar Eżenzjonijiet taħt l-Att dwar l-Intrapriżi Ż-żgħar",
+  "short_name": "eli/sl/512.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-15",
+  "in_force_date": "2011-11-15",
+  "url": "https://legislation.mt/eli/sl/512.1/20111115/mlt",
+  "description": "Official text from legislation.mt (eli/sl/512.1/mlt, expression eli/sl/512.1/20111115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 429 tal-2011",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nEŜenzjonijiet taħt l-Att dwar l-IntrapriŜi Ŝ-śgħar.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Mingħajr preāudizzju għal xi obbligu skont xi liāi oħra, ilparagrafi (a) u (b) tal-artikolu 3(2) tal-Att dwar l-IntrapriŜi Ŝ-śgħar\nm’għandhomx ikunu japplikaw għal:\n\nEŜenzjoni għal\nstrumenti speëifiëi\nmill-applikazzjoni\ntal-Att.\nKap. 512.\n\n(a) strumenti li jimplimentaw leāislazzjoni tal-Unjoni\nEwropea, meta l-kontenut tal-istrument ikun imfisser\nfil-leāislazzjoni;\n(b) leāislazzjoni fiskali jew leāislazzjoni maħsuba biex\ntistabbilixxi miŜuri għall-ālieda kontra l-frodi u levaŜjoni tat-taxxa; u\n(ë) strumenti li jipprovdu għat-twaqqif ta’ miŜuri ta’\nappoāā għall-intrapriŜi, inkluŜi strumenti li jemendaw\nstrumenti li diāà jeŜistu, dwar is-suāāett.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

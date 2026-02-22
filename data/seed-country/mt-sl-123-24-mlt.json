@@ -1,0 +1,605 @@
+{
+  "id": "mt-sl-123-24-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Eżenzjoni mit-Taxxa għal Xogħol Filantropiku",
+  "title_en": "Avviż dwar Eżenzjoni mit-Taxxa għal Xogħol Filantropiku",
+  "short_name": "eli/sl/123.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2024-03-12",
+  "url": "https://legislation.mt/eli/sl/123.24/20240312/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.24/mlt, expression eli/sl/123.24/20240312/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "konsolidati",
+      "content": "It-titolu ta’ dan l-Avviż hu Avviż dwar Eżenzjoni mitTaxxa fuq l-Income għal Xogħol Filantropiku.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-istituzzjonijiet u l-organizzazzjonijiet imsemmija flIskeda ta’ dan l-Avviż huma approvati bħala li qegħdin jagħmlu\nxogħol filantropiku, u b’hekk eżenti mit-taxxa fuq l-income għallfinijiet tal-artikolu 12(1)(e) tal-Att dwar it-Taxxa fuq l-Income.\n\nIstituzzjonijiet\napprovati.\n\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Angela House - Gwardamangia",
+      "content": "Association for the Transport of the Maltese Sick and Poor\nto Lourdes",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "to Lourdes",
+      "content": "bBrave – bullying: awareness and support",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Beating Hearts Malta",
+      "content": "Bishop’s Conservatory - Gozo",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 79
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Cana Foundation",
+      "content": "Fondazzjoni Caritas Malta (ex Caritas National Council\n(Caritas Malta))",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 92
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "(Caritas Malta))",
+      "content": "Central Office of the Diocesan Commission for Children’s\nHomes",
+      "metadata": {
+        "source_line_start": 93,
+        "source_line_end": 97
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Homes",
+      "content": "Iċ-Ċentru Fidi u Ġustizzja\n\nKap. 123.\n\n[ L.S.123.24\n\nEŻENZJONI MIT-TAXXA FUQ L-INCOME\nGĦAL XOGĦOL FILANTROPIKU",
+      "metadata": {
+        "source_line_start": 98,
+        "source_line_end": 113
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Conservatorio Vincenzo Bugeja - St Venera",
+      "content": "Dar Pirotta (issa tagħmel parti minn Dar il-Providenza)",
+      "metadata": {
+        "source_line_start": 134,
+        "source_line_end": 137
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Daritama",
+      "content": "Dar Nazaret - Żejtun",
+      "metadata": {
+        "source_line_start": 146,
+        "source_line_end": 149
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Don Bosco Foundation",
+      "content": "Down’s Children Association",
+      "metadata": {
+        "source_line_start": 170,
+        "source_line_end": 173
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Equal Partners Foundation",
+      "content": "Fatima Working Girls’ House - Sliema",
+      "metadata": {
+        "source_line_start": 190,
+        "source_line_end": 193
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Fondazzjoni Arka",
+      "content": "Federazzjoni Għawdxija għall-Persuni b’Diżabilità",
+      "metadata": {
+        "source_line_start": 198,
+        "source_line_end": 201
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Ghana Mission Foundation",
+      "content": "L-Għaqda għad-Drittijiet ta’ l-Irġiel - Malta\n\nEŻENZJONI MIT-TAXXA FUQ L-INCOME\nGĦAL XOGĦOL FILANTROPIKU\n\n[ L.S.123.24",
+      "metadata": {
+        "source_line_start": 258,
+        "source_line_end": 267
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "[ L.S.123.24",
+      "content": "Għaqda Ħandikappati Għawdxin",
+      "metadata": {
+        "source_line_start": 268,
+        "source_line_end": 271
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Għaqda Ħandikappati Għawdxin",
+      "content": "Għaqda għat-Tfal u Żgħażagħ Neqsin mis-Smiegħ",
+      "metadata": {
+        "source_line_start": 272,
+        "source_line_end": 275
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Għaqda għat-Tfal u Żgħażagħ Neqsin mis-Smiegħ",
+      "content": "Għaqda Soċjali 8 ta’ Settembru",
+      "metadata": {
+        "source_line_start": 276,
+        "source_line_end": 279
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Għaqda Soċjali 8 ta’ Settembru",
+      "content": "L-Għaqda Spina Bifida u Hydrocephalus",
+      "metadata": {
+        "source_line_start": 280,
+        "source_line_end": 283
+      }
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "L-Għaqda Spina Bifida u Hydrocephalus",
+      "content": "L-Għaqda Żgħażagħ Handikappati",
+      "metadata": {
+        "source_line_start": 284,
+        "source_line_end": 287
+      }
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "L-Għaqda Żgħażagħ Handikappati",
+      "content": "Għaqda Żgħażagħ Inkapaċitati",
+      "metadata": {
+        "source_line_start": 288,
+        "source_line_end": 291
+      }
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Good Shepherd Institute - Balzan",
+      "content": "Good Shepherd Sisters - Dar Merħba Bik",
+      "metadata": {
+        "source_line_start": 300,
+        "source_line_end": 303
+      }
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Gozo Association for the Deaf",
+      "content": "Grupp ta’ Familji ta’ Persuni neqsin mis-Smiegħ",
+      "metadata": {
+        "source_line_start": 312,
+        "source_line_end": 315
+      }
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Happy Paws",
+      "content": "Il-Ħbieb tal-Morda u l-Anzjani f’Għawdex",
+      "metadata": {
+        "source_line_start": 320,
+        "source_line_end": 323
+      }
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Institute of Brain Injured Children",
+      "content": "Ir-Razzett tal-Ħbiberija",
+      "metadata": {
+        "source_line_start": 336,
+        "source_line_end": 339
+      }
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Jesuit Refugee Service",
+      "content": "Jesus of Nazareth - Żejtun",
+      "metadata": {
+        "source_line_start": 348,
+        "source_line_end": 351
+      }
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "Kindergarten for the Handicapped (Parents Group)",
+      "content": "Kunsill Nazzjonali taż-Żgħażagħ",
+      "metadata": {
+        "source_line_start": 364,
+        "source_line_end": 367
+      }
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "Malta Federation of Organisations Persons with Disability",
+      "content": "Malta Guide Dogs Foundation\n\n[ L.S.123.24\n\nEŻENZJONI MIT-TAXXA FUQ L-INCOME\nGĦAL XOGĦOL FILANTROPIKU",
+      "metadata": {
+        "source_line_start": 412,
+        "source_line_end": 425
+      }
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "GĦAL XOGĦOL FILANTROPIKU",
+      "content": "Malta House of Prayer Foundation (limitedly for the period\n1/1/2017 to 31/12/2018)",
+      "metadata": {
+        "source_line_start": 426,
+        "source_line_end": 430
+      }
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "Malta Order of Charity",
+      "content": "Malta Parkinson’s Disease Association",
+      "metadata": {
+        "source_line_start": 435,
+        "source_line_end": 438
+      }
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "Maria Bugeja Cancer Support",
+      "content": "Mid-Dlam Għad-Dawl Foundation",
+      "metadata": {
+        "source_line_start": 461,
+        "source_line_end": 461
+      }
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "Section 109",
+      "content": "Foundation\nAccessibility\n\nfor",
+      "metadata": {
+        "source_line_start": 468,
+        "source_line_end": 477
+      }
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "Technology",
+      "content": "Il-Moviment Azzjoni Soċjali",
+      "metadata": {
+        "source_line_start": 479,
+        "source_line_end": 479
+      }
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "Technology",
+      "content": "Il-Moviment Missjunarju \"Ġesu fil-Proxxmu\"",
+      "metadata": {
+        "source_line_start": 481,
+        "source_line_end": 481
+      }
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "Technology",
+      "content": "National Parents’ Society of Persons with Disability",
+      "metadata": {
+        "source_line_start": 484,
+        "source_line_end": 484
+      }
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "Section 118",
+      "content": "Noah’s Ark Animal Sanctuary",
+      "metadata": {
+        "source_line_start": 486,
+        "source_line_end": 486
+      }
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "Section 120",
+      "content": "Old Comrades’ Association KOMR Regiment (ex KOMR\nBenevolent Fund)",
+      "metadata": {
+        "source_line_start": 488,
+        "source_line_end": 489
+      }
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "Benevolent Fund)",
+      "content": "L-Opri Missjunarji Pontifiċi",
+      "metadata": {
+        "source_line_start": 490,
+        "source_line_end": 490
+      }
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "Benevolent Fund)",
+      "content": "Order of St John of Jerusalem Knights Hospitaller Russian\nGrand Priory of Malta",
+      "metadata": {
+        "source_line_start": 492,
+        "source_line_end": 493
+      }
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "Grand Priory of Malta",
+      "content": "Ospizio San Giuseppe - Żebbuġ",
+      "metadata": {
+        "source_line_start": 494,
+        "source_line_end": 494
+      }
+    },
+    {
+      "provision_ref": "s125",
+      "section": "125",
+      "title": "Grand Priory of Malta",
+      "content": "Peace Laboratory, Ħal Far\n\nEŻENZJONI MIT-TAXXA FUQ L-INCOME\nGĦAL XOGĦOL FILANTROPIKU\n\n[ L.S.123.24",
+      "metadata": {
+        "source_line_start": 495,
+        "source_line_end": 502
+      }
+    },
+    {
+      "provision_ref": "s131",
+      "section": "131",
+      "title": "[ L.S.123.24",
+      "content": "Ronald McDonald House Charities Foundation Malta\n(RHMC)",
+      "metadata": {
+        "source_line_start": 508,
+        "source_line_end": 509
+      }
+    },
+    {
+      "provision_ref": "s140",
+      "section": "140",
+      "title": "Section 140",
+      "content": "Societas Doctrinae Christianae (M.U.S.E.U.M.)(Female\nSection)",
+      "metadata": {
+        "source_line_start": 518,
+        "source_line_end": 519
+      }
+    },
+    {
+      "provision_ref": "s141",
+      "section": "141",
+      "title": "Section)",
+      "content": "Societas Doctrinae Christianae (M.U.S.E.U.M.)(Men’s\nSections)",
+      "metadata": {
+        "source_line_start": 520,
+        "source_line_end": 521
+      }
+    },
+    {
+      "provision_ref": "s142",
+      "section": "142",
+      "title": "Sections)",
+      "content": "Soċjetà San Vinċenz de Paul - Malta",
+      "metadata": {
+        "source_line_start": 522,
+        "source_line_end": 522
+      }
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "Sections)",
+      "content": "Society of Ladies of Charity of St Vincent de Paul - Malta",
+      "metadata": {
+        "source_line_start": 524,
+        "source_line_end": 524
+      }
+    },
+    {
+      "provision_ref": "s147",
+      "section": "147",
+      "title": "Sections)",
+      "content": "Sovereign Military and Hospitaller Order of St John of\nJerusalem, Rhodes and Malta",
+      "metadata": {
+        "source_line_start": 527,
+        "source_line_end": 528
+      }
+    },
+    {
+      "provision_ref": "s148",
+      "section": "148",
+      "title": "Jerusalem, Rhodes and Malta",
+      "content": "St Francis de Paul Institute - B’kara",
+      "metadata": {
+        "source_line_start": 529,
+        "source_line_end": 529
+      }
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "Jerusalem, Rhodes and Malta",
+      "content": "St. John Rescue Corps – Malta",
+      "metadata": {
+        "source_line_start": 533,
+        "source_line_end": 533
+      }
+    },
+    {
+      "provision_ref": "s153",
+      "section": "153",
+      "title": "Jerusalem, Rhodes and Malta",
+      "content": "St Joseph’s Home - St Venera",
+      "metadata": {
+        "source_line_start": 534,
+        "source_line_end": 534
+      }
+    },
+    {
+      "provision_ref": "s154",
+      "section": "154",
+      "title": "Jerusalem, Rhodes and Malta",
+      "content": "St Joseph’s Home - Żabbar",
+      "metadata": {
+        "source_line_start": 535,
+        "source_line_end": 535
+      }
+    },
+    {
+      "provision_ref": "s155",
+      "section": "155",
+      "title": "Jerusalem, Rhodes and Malta",
+      "content": "St Joseph’s Home - Żejtun",
+      "metadata": {
+        "source_line_start": 536,
+        "source_line_end": 536
+      }
+    },
+    {
+      "provision_ref": "s159",
+      "section": "159",
+      "title": "Section 159",
+      "content": "St Paul’s Home - Hamrun",
+      "metadata": {
+        "source_line_start": 540,
+        "source_line_end": 540
+      }
+    },
+    {
+      "provision_ref": "s160",
+      "section": "160",
+      "title": "Section 160",
+      "content": "St Theresa Children’s Home - Żurrieq\n\n[ L.S.123.24\n\nEŻENZJONI MIT-TAXXA FUQ L-INCOME\nGĦAL XOGĦOL FILANTROPIKU",
+      "metadata": {
+        "source_line_start": 541,
+        "source_line_end": 552
+      }
+    },
+    {
+      "provision_ref": "s163",
+      "section": "163",
+      "title": "GĦAL XOGĦOL FILANTROPIKU",
+      "content": "The Dockyard Workmen’s Fund",
+      "metadata": {
+        "source_line_start": 555,
+        "source_line_end": 555
+      }
+    },
+    {
+      "provision_ref": "s177",
+      "section": "177",
+      "title": "Section 177",
+      "content": "Tiġrija Palazz Foundation for Charity",
+      "metadata": {
+        "source_line_start": 569,
+        "source_line_end": 569
+      }
+    },
+    {
+      "provision_ref": "s178",
+      "section": "178",
+      "title": "Section 178",
+      "content": "Ursoline Creche - Ħal Tarxien",
+      "metadata": {
+        "source_line_start": 570,
+        "source_line_end": 570
+      }
+    },
+    {
+      "provision_ref": "s182",
+      "section": "182",
+      "title": "Section 182",
+      "content": "Villa Mons. Gonzi - Siġġiewi (issa tagħmel parti minn Dar\nil-Providenza)",
+      "metadata": {
+        "source_line_start": 574,
+        "source_line_end": 575
+      }
+    },
+    {
+      "provision_ref": "s187",
+      "section": "187",
+      "title": "il-Providenza)",
+      "content": "Żgħażagħ Azzjoni Kattolika - ZAK",
+      "metadata": {
+        "source_line_start": 580,
+        "source_line_end": 580
+      }
+    },
+    {
+      "provision_ref": "s188",
+      "section": "188",
+      "title": "il-Providenza)",
+      "content": "Iż-Żgħażagħ Ħaddiema Nsara",
+      "metadata": {
+        "source_line_start": 581,
+        "source_line_end": 584
+      }
+    }
+  ],
+  "definitions": []
+}

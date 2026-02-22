@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tindif tal-Fosos Imħassrin bl-Avviż Legali 213 tal-2013",
+  "title_en": "Regolamenti dwar it-Tindif tal-Fosos Imħassrin bl-Avviż Legali 213 tal-2013",
+  "short_name": "eli/sl/10.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.8/mlt, expression eli/sl/10.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TINDIF TAL-FOSSOS\n\n[L.S.10.08\n\nLE{ISLAZZJONI SUSSIDJARJA 10.08\nREGOLAMENTI DWAR IT-TINDIF\nTAL-FOSSOS\n29 ta’ Settembru, 1921\nIN-NOTIFIKAZZJONI TAL-GVERN 270 tal-1921, kif emendata binNotifikazzjonijiet tal-Gvern 339 tal-1924, 34 tal-1925 u 23 tal-1929; u blAtt XIV tal-1969.\n\nRevokati bl-Avvi\\ Legali 213 tal-2013.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

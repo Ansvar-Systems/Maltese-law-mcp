@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-12-mlt",
+  "type": "statute",
+  "title": "Investment Services Act (Performance Fees) Regulations",
+  "title_en": "Investment Services Act (Performance Fees) Regulations",
+  "short_name": "eli/sl/370.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/370.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.12/mlt, expression eli/sl/370.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (PERFORMANCE FEES) [L.S.370.12\n\nLE{ISLAZZJONI SUSSIDJARJA 370.12\nINVESTMENT SERVICES ACT\n(PERFORMANCE FEES) REGULATIONS*\n13 ta’ Ottubru, 2006\nL-AVVI| LEGALI 239 tal-2006, kif emendat bl-Avvi\\ Legali 426 tal2013.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-37-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti tad-Dwana dwar Prekawzjoni mill-Ħruq",
+  "title_en": "Regolamenti tad-Dwana dwar Prekawzjoni mill-Ħruq",
+  "short_name": "eli/sl/37.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.7/mlt, expression eli/sl/37.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "7 ta’ Awissu, 1964",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti tadDwana dwar Prekawzjoni mill-}ruq.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "}add ma jista’ jpejjep jew jixg]el xi sulfarini jew lighters\nf ’xi tinda jew depo\\t tad-Dwana, jew f ’xi spazju fil-bera] firre`inti tad-Dwana fejn ikun hemm f’xi \\mien avvi\\ f’dan is-sens.\n\nProjbizzjoni ta’\ntipjip jew ta’ xeg]il\nta’ sulfarini jew\nlighters.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "}add ma jista’ jkollu fuqu lighters tas-sigarretti f’xi tinda\njew depo\\t tad-Dwana.\n\nProjbizzjoni ta’\n[arr ta’ lighters.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Kull persuna li ma t]arisx xi wie]ed mir-regolamenti ta’\nhawn fuq tista’ te]el, meta tinsab ]atja, piena ta’ mhux i\\jed minn\n]dax-il euro u ]amsa u sittin `ente\\mu (11.65) g]al kull nuqqas.\n\nPiena.\nEmendat:\nXIII. 1983.5;\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 45
+      }
+    }
+  ],
+  "definitions": []
+}

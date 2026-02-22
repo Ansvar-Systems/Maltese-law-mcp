@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-363-43-mlt",
+  "type": "statute",
+  "title": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Ġnien Kunsill ta' l-Ewropa Gżira (Kunsill Lokali Gżira)",
+  "title_en": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Ġnien Kunsill ta' l-Ewropa Gżira (Kunsill Lokali Gżira)",
+  "short_name": "eli/sl/363.43/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.43/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.43/mlt, expression eli/sl/363.43/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 33 tal-2000",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar id-Delega talAmministrazzjoni ta’ {nien Kunsill tal-Ewropa G\\ira (Kunsill\nLokali G\\ira).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Lokali G\\ira)",
+      "content": "L-art deskritta fl-artikolu 3 skont il-Ftehim ta’ Kiri g]allAmministrazzjoni u l-U\\u tal-{nien Kunsill ta’ l-Ewropa G\\ira filG\\ira mill-Kunsill Lokali {\\ira ffirmat fit-8 ta’ Marzu, 2000, hija\nb’ dan s p e` if i k at a g] a l l -f i ni j i e t t a d- de l ega t a ’ fu n zj oni j i et\nimsemmija fl-artikolu 33(1)(m) tal-Att dwar Gvern Lokali, middata tal-pubblikazzjoni ta’ dan l-ordni.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Lokali G\\ira)",
+      "content": "L-art imsemmija fl-artikolu 2 tikkonsisti f’bi``a art, li\ntidher delineata bl-a]mar fuq il-pjanta L.D. 185/99 mehmu\\a malFtehim ta’ Kiri msemmi fl-artikolu 2.\n\nTitolu.\n\nDelega ta’\nfunzjonijiet.\n\nKap. 363.\nDeskrizzjoni.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

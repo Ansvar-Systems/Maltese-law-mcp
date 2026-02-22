@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-386-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kumpanniji ta' Investiment b'Kapital Azzjonarju Fiss skond l-Att dwar il-Kumpanniji",
+  "title_en": "Regolamenti dwar Kumpanniji ta' Investiment b'Kapital Azzjonarju Fiss skond l-Att dwar il-Kumpanniji",
+  "short_name": "eli/sl/386.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/386.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.4/mlt, expression eli/sl/386.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 48 ta’ l-1999",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nKumpanniji ta’ Investiment b’Kapital Azzjonarju Fiss skond l-Att\ndwar il-Kumpanniji.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) F’dawn ir-regolamenti, kemm-il darba r-rabta talkliem ma te]tie[x xorta o]ra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar il-Kumpanniji;\n\nKap. 386.\n\n\"INVCO\" tfisser kumpannija ta’ investiment b’kapital azzjonarju\nfiss.\n(2) Id-disposizzjonijiet ta’ l-artikolu 84(10) ta’ l-Att\ng ] a n d h o m , g ] a l l - g ] a n i j i e t t a ’ d a w n i r- r e g o l a m e n t i , i k u n u\njapplikaw g]al INVCO li jkollha li`enza g]al skema ta’\ninvestiment kollettiv skond l-artikolu 4 ta’ l-Att dwar Servizzi ta’\nInvestiment.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Investiment",
+      "content": "Minkejja kull ]a[a li tinsab fit-tifsira ta’ segretarju ta’\nkumpannija fl-artikolu 2 u fl-artikolu 138(3) ta’ l-Att, INVCO\ng]andha, bl-approvazzjoni ta’ l-awtorità kompetenti, ta]tar filkariga ta’ segretarju ta’ kumpannija, kull persuna li sew tista’ tkun\nindividwu sew li ma tkunx.\n\nKap. 370.\n\nSegretarju ta’\nkumpannija ta’\nkumpannija ta’\ninvestiment\nb’kapital\nazzjonarju fiss.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-315-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tat-Tipjip fuq il-Bajjiet",
+  "title_en": "Regolamenti dwar il-Kontroll tat-Tipjip fuq il-Bajjiet",
+  "short_name": "eli/sl/315.12/mlt",
+  "status": "in_force",
+  "issued_date": "2025-10-02",
+  "in_force_date": "2026-01-01",
+  "url": "https://legislation.mt/eli/sl/315.12/20260101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/315.12/mlt, expression eli/sl/315.12/20260101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 204 tal-2025",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nil-Kontroll tat-Tipjip fuq il-Bajjiet.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"Awtorità\" tfisser l-Awtorità għall-Ambjent u r-Riżorsi\nmwaqqfa bl-artikolu 6 tal-Att dwar il-Protezzjoni tal-Ambjent;\n\nKap. 549.\n\n\"bajja\" tfisser kwalunkwe bajja kif delineata fl-Iskeda;\n\"prodott erbali għat-tipjip\" għandu jkollha l-istess tifsira\nkif mogħti lilha fir-Regolamenti dwar il-Manifattura,\nPreżentazzjoni u Bejgħ tat-Tabakk u Prodotti Relatati;\n\nL.S. 315.10.\n\n\"prodott tat-tabakk\" tfisser prodotti li jistgħu jiġu\nkkunsmati u li jikkonsistu, ukoll parzjalment, mit-tabakk,\nkemm jekk ġenetikament modifikati jew mod ieħor, u tinkludi\nkwalunkwe tagħmir għat-tabakk;\n\"tagħmir għat-tabakk\" għandu jkollha l-istess tifsira kif\nmogħti lilha fir-Regolamenti dwar il-Kontroll ta’ Prodotti u\nRekwiżiti għat-Tipjip li Jixbħu Sigaretti jew Tabakk.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Rekwiżiti għat-Tipjip li Jixbħu Sigaretti jew Tabakk",
+      "content": "L-ebda persuna ma għandha tikkonsma u, jew tuża’\nprodott tat-tabakk jew kwalunkwe prodott erbali għat-tipjip fuq\nkwalunkwe bajja kif delineata fl-Iskeda:\n\nL.S. 315.09.\n\nProjbizzjoni ta’\ntipjip fuq il-bajjiet.\n\nIżda tali projbizzjoni ma għandhiex tapplika f’dawk iżżoni indikati bħala żoni għat-tipjip u li huma fiżikament delineati fuq\nil-post mill-Awtorità.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 58
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "il-post mill-Awtorità",
+      "content": "L-Awtorità, id-Dipartiment tas-Saħħa, l-Awtorità tatTuriżmu ta’ Malta, l-Aġenzija għas-Sistema ta’ Infurzar Lokali u lPulizija Eżekuttiva għandhom jikkollaboraw u jikkooperaw fl-infurzar\nta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 59,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kontroll u infurzar",
+      "content": "Kwalunkwe persuna li tikser id-dispożizzjonijiet ta’\ndawn ir-regolamenti għandha tkun ħatja ta’ reat u għandha teħel meta\ntinstab ħatja multa ta’ mija u ħamsin euro (€150).\n\nReati u pieni.\n\n[ L.S. 315.12\n\n(regolament 3)\nIl-Bajja tal-Mixquqa u r-Ramla l-Ħamra\n\n[ L.S. 315.12",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 90
+      }
+    }
+  ],
+  "definitions": []
+}

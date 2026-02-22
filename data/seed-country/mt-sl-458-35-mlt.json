@@ -1,0 +1,635 @@
+{
+  "id": "mt-sl-458-35-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Farmakoviġilanza",
+  "title_en": "Regolamenti dwar il-Farmakoviġilanza",
+  "short_name": "eli/sl/458.35/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2012-10-30",
+  "url": "https://legislation.mt/eli/sl/458.35/20220101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.35/mlt, expression eli/sl/458.35/20220101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "30 ta’ Ottubru, 2012",
+      "content": "(1) It-titolu ta’ dawn ir-Regolamenti hu r-Regolamenti\ndwar il-Farmakoviġilanza.\n\nTitolu, għan u\nskop.\n\n(2) Dawn ir-regolamenti jimplimentaw id-dispożizzjonijiet tadDirettiva (KE) Nru 2010/84 tal-Parlament Ewropew u tal-Kunsill\ntal-15 ta’ Diċembru 2010 li temenda, fir-rigward talfarmakoviġilanza, id-Direttiva 2001/83/KE dwar il-kodiċi talkomunità li għandu x’jaqsam mal-prodotti mediċinali għall-użu\nmill-bniedem.\n(3) Dawn ir-regolamenti għandhom japplikaw għal prodotti\nmediċinali awtorizzati għall-użu mill-bniedem u għal kull attività\nta’ farmakoviġilanza konnessa ma’ dan.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "ta’ farmakoviġilanza konnessa ma’ dan",
+      "content": "Għall-finijiet ta’ dawn ir-regolamenti:\n\nTifsir.\n\n\"abbuż minn prodotti mediċinali \" tfisser użu eċċessiv\nintenzjonali, persistenti jew sporadiku, li jkun akkumpanjat minn\neffetti fiżiċi jew psikoloġiċi li jagħmlu ħsara;\n\"l-Aġenzija \" tfisser l-Aġenzija Ewropea għall-Mediċini\nstabbilita bir-Regolament (KE) Numru 2004/726;\n\"l-Att\" tfisser l-Att dwar il-Mediċini;\n\"l-Awtorità\" tfisser l-Awtorità dwar il-Mediċini mwaqqfa kif\nhemm fl-artikolu 4 tal-Att dwar il-Mediċini;\n\"bilanċ bejn ir-riskji u l-benefiċċji” tfisser evalwazzjoni taleffetti terapewtiċi pożittivi tal-prodott mediċinali b’relazzjoni ma’\nkull riskju li jkollu x’jaqsam mal-kwalità, sigurtà jew effikaċja talprodott mediċinali rigward is-saħħa tal-pazjenti jew is-saħħa\npubblika;\n\"il-Kummissjoni\" tfisser il-Kummissjoni kif hemm fid-Deċiżjoni\ntal-Kunsill 1999/468 KE tat-28 ta’ Ġunju, 1999;\n\"il-Komunità \" tfisser l-Unjoni Ewropea u ż-Żona Ekonomika\nEwropea;\n\"master file għas-sistema ta’ farmakoviġilanza \" tfisser\ndeskrizzjoni dettaljata tas-sistema ta’ farmakoviġilanza użata middetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq fir-rigward ta’\nprodott mediċinali awtorizzat wieħed jew aktar;\n\"pjan tal-ġestjoni tar-riskju \" deskrizzjoni dettaljata tas-sistema\ntal-ġestjoni tar-riskju;\n\"rapporti perjodiċi ta’ aġġornament dwar is-sigurtà \" tfisser\nrapporti perjodiċi li jkun fihom id-dokumenti msemmija firregolament 29;\n\"reazzjoni avversa \" tfisser ir-rispons għal prodott mediċinali li\n\nKap. 458.\nKap. 458.\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\n\njkun ta’ ħsara u mhux intenzjonat;\n\"reazzjoni avversa mhux mistennija\" tfisser reazzjoni avversa, li\nn-natura, is-severità jew ir-riżultat tagħha ma tkunx konsistenti\nmas-sommarju tal-karatteristiċi tal-prodott;\n\"reazzjoni avversa serja \" tfisser reazzjoni avversa li tirriżulta\nf’mewt, jew li tkun tħedded il-ħajja, jew li minħabba fiha persuna\njkollha tiddaħħal l-isptar bħala pazjent jew li biha jitwal iż-żmien\nta’ pazjent fl-isptar, jew li tirriżulta f ’diżabilità jew inkapaċità\nsinjifikanti, jew li tkun anomalija konġenitali jew difett fit-twelid;\n\"sistema ta’ farmakoviġilanza \" tfisser sistema użata middetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq u mill-iStati\nMembri biex jitwettqu l-kompiti u r-responsabbiltajiet imniżżla\nf ’dawn ir-regolamenti u li tkun imfassla biex tissorvelja s-sigurtà\ntal-prodotti mediċinali awtorizzati u biex tiżvela kull bidla filbilanċ bejn il-benefiċċju u r-riskju tagħhom;\n\"sistema tal-ġestjoni tar-riskju\" tfisser sensiela ta’ attivitajiet u\ni nterv en ti t a’ farm ak oviġ ilanza i mfassla b iex ji denti fikaw,\njikkaratterizzaw, jipprevjenu jew jimminimizzaw ir-riskji relatati\nma’ prodott mediċinali, inkluża l-evalwazzjoni tal-effettività ta’\ndawk l-attivitajiet u interventi;\n\"Stat Membru\" tfisser Stat li jkun membru tal-Komunità;\n\"studju dwar is-sigurtà wara l-awtorizzazzjoni \" tfisser kull\nstudju relatat ma’ prodott mediċinali awtorizzat li jsir bil-għan li\njidentifika, jikkaratterizza jew jikkwantifika riskju għas-sigurtà,\njikkonferma l-profil ta’ sigurtà tal-prodott mediċinali, jew ikejjel leffettività tal-miżuri tal-ġestjoni tar-riskju.\nTwaqqif ta’\nsistema ta’\nfarmako-viġilanza.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 90
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "farmako-viġilanza",
+      "content": "(1) L-Awtorità għandha twaqqaf u tħaddem sistema ta’\nfarmakoviġilanza u għat-twettiq tal-kompiti ta’ farmakoviġilanza\ntagħha u għas-sehem tagħha fl-attivitajiet ta’ farmakoviġilanza talKomunità. Is-sistema ta’ farmakoviġilanza għandha tintuża biex\ntiġbor it-tagħrif dwar ir-riskji tal-prodotti mediċinali fir-rigward\ntas-saħħa pubblika jew dik tal-pazjenti. It-tagħrif għandu jirreferi\npartikolarment għal reazzjonijiet avversi fil-bniedem, li jiġu millużu tal-prodott mediċinali fil-kuntest tal-kondizzjonijiet talawtorizzazzjoni tat-tqegħid fis-suq kif ukoll minn użu barra ttermini tal-awtorizzazzjoni għat-tqegħid fis-suq, u minn\nreazzjonijiet avversi assoċjati mal-espożizzjoni fuq ix-xogħol.\n(2) Permezz tas-sistema ta’ farmakoviġilanza msemmija fissubregolament (1), l-Awtorità għandha tevalwa t-tagħrif kollu\nx j e n t i f i k a m e n t , t q i s l - g ħ a ż l i e t g ħ a t - t n a q q i s t a r- r i s k j u u l prevenzjoni u tieħu azzjoni regolatorja dwar l-awtorizzazzjoni\ngħat-tqegħid fis-suq kif meħtieġ. Għandha ssir verifika regolari tassistema ta’ farmakoviġilanza tagħha u tirrapporta ir-riżultati lillKummissjoni mhux aktar tard mill-21 ta’ Settembru, 2013 u wara\ndin id-data ta’ kull sentejn.\n(3) L-informazzjoni pertinenti miġbura b’din is-sistema\ngħandha tiġi mgħoddija mill-Awtorità lill-iStati Membri l-oħra u\nlill-Aġenzija. L-informazzjoni għandha tiġi rekordjata fid-database\nmsemmija fl-ewwel punt tat-tieni subparagrafu tal-Artikolu 57(1)\ntar-Regolament (KE) Numru 726/2004 u għandha tkun aċċessibbli\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\npermanentement għall-iStati Membri kollha u mingħajr dewmien\ngħall-pubbliku.\n(4) Għandu jkun id-dmir tat-tobba u ta’ professjonisti tas-saħħa\noħrajn li jirraportaw minnufih lill-Awtorità kull reazzjoni avversa\nsospetta għal xi prodott mediċinali f’Malta.\n(5) L-Awtorità għandha tiffaċilita r-rappurtar li jsir dwar ilpazjenti permezz ta’ formati ta’ rappurtar alternativi b’żieda ma’\nformati oħra li jkunu fuq l-internet kif ukoll tieħu kull miżura\nadatta biex tikseb data preċiża u verifikabbli għall-evalwazzjoni\nxjentifika ta’ rapporti ta’ reazzjoni avversa sospetta. L-Awtorità\ngħandha wkoll tiżgura li l-pubbliku jingħata tagħrif importanti fuq\ndak li jirrigwarda l-farmakoviġilanza u li jkollu x’jaqsam mal-użu\nta’ xi prodott mediċinali b’mod tempestiv billi tippublika fuq ilweb-portal tagħħa u b’kull mezz ieħor ta’ informazzjoni li jkun\ndisponibbli għall-pubbliku hekk kif ikun meħtieġ.\n(6) L-Awtorità għandha tiżgura permezz tal-metodi kif tiġbor linformazzjoni u meta jkun meħtieġ bil-prosegwiment ta’ rapporti\nta’ reazzjoni avversa sospettata, li jkunu qegħdin jittieħdu l-miżuri\nadatti kollha biex jigi identifikat prodott medicinali bijoloġiku li\njkun qed jiġi ordnat b’riċetta, dispensat, jew mibjugħ fit-terrritorju\ntagħhom u li jkun jifforma s-suġġett ta’ rapport ta’ reazzjoni\na v ve r s a s o s p e t t a , f i l- k u nt e s t sp e ċ i f ik u t a l- i s e m t a l p ro d o tt\nmediċinali, u n-numru tal-lott tieghu.\n(7) L-Awtorità għandha wkoll tieħu l-miżuri meħtieġa biex\ntiżgura li detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq li jonqos\nmilli jwettaq l-obbligi stipulati f ’dawn ir-regolamenti jeħel pieni\neffettivi, proporzjonati u dissważivi.",
+      "metadata": {
+        "source_line_start": 91,
+        "source_line_end": 138
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "effettivi, proporzjonati u dissważivi",
+      "content": "L-Awtorità tista’ tiddelega kull ħidma fdata f’idejha taħt\ndawn ir-regolamenti lil xi Stat Membru ieħor sakemm isir ftehim\nbil-miktub minn l-aħħar Stat. Kull Stat Membru jista’\njirrappreżenta mhux iżjed minn Stat Membru wieħed ieħor.\n\nSetgħa ta’ delega.",
+      "metadata": {
+        "source_line_start": 139,
+        "source_line_end": 146
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Setgħa ta’ delega",
+      "content": "L-Awtorità li tiddelega għanda tgħarraf lill-Kummissjoni,\nlill-Aġenzija u lill-iStati Membri l-oħra kollha tad-delegazzjoni bilmiktub. L-iStat Membru li jiddelega u l-Aġenzija għandhom\njippubblikaw dak it-tagħrif.\n\nTagħrif li jingħata\nlill-Kummissjoni.",
+      "metadata": {
+        "source_line_start": 147,
+        "source_line_end": 154
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "lill-Kummissjoni",
+      "content": "(1) Id-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandu jħaddem sistema ta’ farmakoviġilanza għat-twettiq talkompiti tiegħu ta’ farmakoviġilanza ekwivalenti għas-sistema ta’\nfarmakoviġilanza tal-iStat Membru rilevanti prevista taħt irregolament 3.\n\nDmir tad-detentur\nta’ awtorizzazzjoni\ngħat-tqegħid fissuq.\nEmendat:\nA.L. 234 tal-2022.\n\n(2) Id-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandu, permezz tas-sistema ta’ farmakoviġilanza msemmija fissubregolament (1), jivvaluta t-tagħrif kollu xjentifikament, iqis lgħażliet li jkollu għat-tnaqqis u l-prevenzjoni tar-riskju u jieħu lmiżuri xierqa meħtieġa.\n(3) Id-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq għandu\njwettaq verifika regolari tas-sistema tiegħu ta’ farmakoviġilanza.\nHu għandu jniżżel nota dwar is-sejbiet prinċipali tal-verifika dwar\nil-master file tas-sistema ta’ farmakoviġilanza u, abbażi tarriżultanzi tal-verifika, jiżgura li jitħejja u jiġi implimentat pjan ta’\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\n\nazzjoni xieraq korrettiv. Malli jkunu ġew implimentati għalkollox\nl-azzjonijiet korrettivi, in-nota tkun tista’ titneħħa.\n(4) Bħala parti mis-sistema ta’ farmakoviġilanza, id-detentur\nta’ awtorizzazzjoni għat-tqegħid fis-suq għandu:\n(a) jkollu permanentement u kontinwament għaddispożizzjoni tiegħu persuna kwalifikata kif imiss li\ntkun responsabbli għall-farmakoviġilanza;\n(b) iżomm u jagħmel disponibbli fuq talba master file tassistema ta’ farmakoviġilanza;\n(ċ) iħaddem sistema, u jara li tkun disponibbli meta\ntintalab, tal-ġestjoni tar-riskju għal kull prodott\nmediċinali;\n(d) jissorvelja r-riżultat tal-miżuri ta’ minimizzazzjoni tarriskju li jinsabu fil-pjan tal-ġestjoni tar-riskju jew li\nhuma stipulati bħala kondizzjonijiet fl-awtorizzazzjoni\ngħat-tqegħid fis-suq;\n(e) jaġġorna s-sistema tal-ġestjoni tar-riskju u jissorvelja\nd-data ta’ farmakoviġilanza biex jistabbilixxi jekk\nikunx hemm riskji ġodda jew jekk ikunux inbidlu rriskji jew jekk ikunx hemm bidliet fil-bilanċ bejn ilbenefiċċju u r-riskju ta’ prodotti mediċinali:\nIżda l-persuna kwalifikata msemmija fil-paragrafu (a)\ngħandu jkollha r-residenza tagħha u tkun topera fl-Unjoni Ewropea\nu għandha tkun responsabbli għat-twaqqif u l-manutenzjoni tassistema ta’ farmakoviġilanza. Id-detentur ta’ awtorizzazzjoni għattqegħid fis-suq għandu jressaq l-isem u d-dettalji ta’ kuntatt talpersuna kwalifikata lill-Awtorità u u lill Aġenzija:\nIżda wkoll b’deroga mill-proviso preċedenti, fejn lawtorizzazzjoni għat-tqegħid fis-suq tingħata mill-awtorità kompetenti\ntar-Renju Unit fir-rigward tal-Irlanda ta’ Fuq, il-persuna kwalifikata\nmsemmija fil-paragrafu (a) ta’ dan is-subregolament tista’ tkun tirrisjedi\nu topera f’partijiet tar-Renju Unit barra l-Irlanda ta’ Fuq. Dan il-proviso\nma għandux japplika għal sitwazzjonijiet fejn id-detentur talawtorizzazzjoni għat-tqegħid fis-suq diġà jkollu għad-dispożizzjoni\ntiegħu persuna kwalifikata li tirrisjedi u topera fl-Unjoni Ewropea fl-20\nta' April 2022.\n(5) Minkejja d-dispożizzjonijiet tas-subregolament (3), lAwtorità tista’ titlob li tinħatar persuna li jista’ jsir kuntatt magħha\ndwar kwistjonijiet ta’ farmakoviġilanza fuq livell nazzjonali li tkun\ntirrispondi lill-persuna kwalifikata responsabbli mill-attivitajiet ta’\nfarmakoviġilanza.\nDeroga.",
+      "metadata": {
+        "source_line_start": 155,
+        "source_line_end": 210
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Deroga",
+      "content": "Mingħajr preġudizzju għar-regolament 6(2), (3) u (4), iddetenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq mogħtija qabel\nil- 21 ta’ Lulju, 2012 m’għandhomx, b’deroga mir-regolament\n6(3)(ċ), jiġu mitluba jħaddmu sistema ta’ ġestjoni tar-riskju għal\nkull prodott mediċinali.\n\nL-Awtorità tista’\ntimponi obbligu.",
+      "metadata": {
+        "source_line_start": 211,
+        "source_line_end": 219
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Deroga",
+      "content": "L-Awtorità tista’ timponi obbligu fuq id-detentur ta’\nawtorizzazzjoni għat-tqegħid fis-suq biex iħaddem sistema talġestjoni tar-riskju, kif imsemmi fir-regolament 6(3)(ċ), jekk ikun\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\nhemm xi tħassib dwar ir-riskji li jistgħu jolqtu l-bilanċ bejn ilbenefiċċju u r-riskju ta’ prodott mediċinali awtorizzat. F’dak ilk u n t e s t , l - Aw t o r i t à g ħ a n d h a w k o l l t i t l o b l i d - d e t e n t u r t a ’\nawtorizzazzjoni għat-tqegħid fis-suq biex iressaq deskrizzjoni fiddettall tas-sistema tal-ġestjoni tar-riskju li huwa jkun bi ħsiebu\njintroduċi għall-prodott mediċinali involut. L-impożizzjoni ta’\ndawk l-obbligi tkun debitament ġustifikata, avżata bil-miktub u\ngħandu jkun fiha wkoll it-tempistika li fiha tkun tista’ tiġi\nppreżentata d-deskrizzjoni fid-dettall tas-sistema tal-ġestjoni tarriskju.",
+      "metadata": {
+        "source_line_start": 220,
+        "source_line_end": 236
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "ppreżentata d-deskrizzjoni fid-dettall tas-sistema tal-ġestjoni tarriskju",
+      "content": "L-Awtorità\ngħandha\ntipprovdi\nlid-detentur\nta’\nawtorizzazzjoni għat-tqegħid fis-suq l-opportunità li jippreżenta\nosservazzjonijiet bil-miktub bi tweġiba għall-impożizzjoni talobbligu f ’dak iż-żmien stipulat li tispeċifika, jekk id-detentur ta’\nawtorizzazzjoni għat-tqegħid fis-suq jitlob dan fi żmien tletin jum\nmill-avviż bil-miktub tal-obbligu.\n\nOpportunità li jiġu\nppreżentati\nosservazzjonijiet\nbil-miktub.",
+      "metadata": {
+        "source_line_start": 237,
+        "source_line_end": 252
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "bil-miktub",
+      "content": "Abbażi tal-osservazzjonijiet bil-miktub imressqa middetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq, l-Awtorità\ngħandha tirtira jew tikkonferma l-obbligu. Meta l-Awtorità\ntikkonferma l-obbligu, l-awtorizzazzjoni għat-tqegħid fis-suq\ngħandha tiġi varjata kif ikun adatt biex tinkludi l-miżuri li\ngħandhom jittieħdu bħala parti mis-sistema tal-ġestjoni tar-riskju\nbħala kondizzjonijiet tal-awtorizzazzjoni għat-tqegħid fis-suq.\n\nL-Awtorità tista’\ntirtira jew\ntikkonferma lobbligu.",
+      "metadata": {
+        "source_line_start": 253,
+        "source_line_end": 263
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "tikkonferma lobbligu",
+      "content": "Il-maniġġar ta’ flejjes maħsuba għal attivitajiet li\ngħandhom x’jaqsmu mal-farmakoviġilanza, it-tħaddim ta’ networks\nta’ komunikazzjoni u s-sorveljanza tas-suq għandhom ikunu taħt ilkontroll permanenti tal-Awtorità biex jiggarantixxi l-indipendenza\ntagħhom fit-twettiq ta’ dawk l-attivitajiet ta’ farmakoviġilanza.\n\nIl-maniġġar ta’\nflejjes maħsuba\ngħal attivitajiet\nrelattivi għallfarmakoviġilanza.",
+      "metadata": {
+        "source_line_start": 264,
+        "source_line_end": 273
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "relattivi għallfarmakoviġilanza",
+      "content": "Ir-regolament 11 m’għandux iżomm lill-Awtorità milli\ntiġbor ħlasijiet mingħand id-detenturi ta’ awtorizzazzjoni għattqegħid fis-suq għat-twettiq ta’ dawk l-attivitajiet mill-Awtorità bilkondizzjoni li tiġi strettament garantita l-indipendenza tagħha fittwettiq ta’ dawk l-attivitajiet ta’ farmakoviġilanza.\n\nMa jżomm xejn\nlura lill-Awtorità\nmilli tiġbor\nħlasijiet.\nEmendat:\nA.L. 305 of 2014.\n\nDetenturi ta’ Awtorizzazzjonijiet għat-tqegħid fis-suq\ngħandhom iħallsu l-obbligi kif imposti taħt ir-Regolamenti dwar ilFarmakoviġilanza.\n\nL.S. 458.46",
+      "metadata": {
+        "source_line_start": 274,
+        "source_line_end": 288
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "L.S. 458.46",
+      "content": "L-Awtorità għanda tistabbilixxi u tmexxi web-portal talmediċini nazzjonali li jkollu link mal-web-portal tal-mediċini\nEwropew stabbilit kif hemm fl-Artikolu 26 tar-Regolament (KE)\nNru 726/2004. Permezz tal-web-portal tal-mediċini nazzjonali, lAwtorità għandha tara li jkun hemm disponibbli għall-pubbliku dan\nli ġej:\n(a) ir-rapporti ta’ evalwazzjoni pubbliċi, flimkien ma’\nsommarju tagħhom;\n(b) sommarji tal-karatteristiċi tal-prodott u fuljetti talpakkett;\n(ċ) sommarji tal-pjanijiet tal-ġestjoni tar-riskju għal\nprodotti mediċinali awtorizzati kif hemm fid-Direttiva\n(KE) Nru 2001/83/EC kif emendata;\n(d) il-lista tal-prodotti mediċinali msemmija fl-Artikolu\n\nTrasparenza u\nkomunikazzjonijiet\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\n23 tar-Regolament (KE) Nru 726/2004;\n(e) informazzjoni dwar modi differenti ta’ rappurtar ta’\nreazzjonijiet avversi suspettati għal prodotti\nmediċinali lill-awtoritajiet nazzjonali kompetenti minn\nprofessjonisti għall-kura tas-saħħa u pazjenti, inklużi\nl-forom strutturati bbażati fuq il-web imsemmija flArtikolu 25 tar-Regolament (KE) Nru 726/2004.\n\nAvviżi pubbliċi.",
+      "metadata": {
+        "source_line_start": 289,
+        "source_line_end": 318
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Avviżi pubbliċi",
+      "content": "(1) Detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandu d-dmir li jinforma lill-Awtorità, lill-Aġenzija u lillKummissjoni jekk ikun ser jagħmel xi avviż pubbliku relatat ma’\ntagħrif dwar tħassib fuq kwistjonijiet ta’ farmakoviġilanza firrigward tal-użu ta’ xi prodott mediċinali. Id-detentur ta’\nawtorizzazzjoni għat-tqegħid fis-suq għandu d-dmir li jinforma lillawtoritajiet fl-istess ħin jew qabel ma jsir dak l-avviż. Id-detentur\nta’ awtorizzazzjoni għat-tqegħid fis-suq għandu jiżgura li t-tagħrif\nli jingħata lill-pubbliku jiġi ppreżentat b’mod oġġettiv u li dan ma\njkunx iqarraq.\n(2) Sakemm ma jkunux meħtieġa li jsiru avviżi pubbliċi urġenti\ngħall-ħarsien tas-saħħa pubblika, l-Awtorità, l-Aġenzija u lKummissjoni għandhom jgħarrfu lil xulxin mhux aktar tard minn\nerbgħa u għoxrin siegħa qabel ma jsir l-avviż pubbliku relatat mattagħrif dwar tħassib fuq il-farmakoviġilanza.\n(3) Għal sustanzi attivi li jkunu jinsabu fi prodotti mediċinali\nawtorizzati f’aktar minn Stat Membru wieħed, l-Aġenzija għandha\nt k u n r e s p o n s a b b l i g ħ a l l - k o o r d i n az z j o n i b e j n l - a w t o r i t a j i e t\nkompetenti nazzjonali tal-avviżi dwar is-sigurtà u għandha\ntipprovdi skedi ta’ żmien għall-pubblikazzjoni tat-tagħrif. Bilkoordinazzjoni tal-Aġenzija, l-Awtorità għandha tagħmel kull sforz\npossibbli biex taqbel dwar messaġġ komuni fir-rigward tas-sigurtà\ntal-prodott mediċinali involut u skedi ta’ żmien għat-tixrid\ntagħhom.\n(4) Meta l-Aġenzija jew l-Awtorità jippubblikaw it-tagħrif\nimsemmi fis-subregolamenti (2) u (3), kull tagħrif ta’ natura\npersonali jew li tkun kummerċjalment kunfidenzjali għandu\njitħassar sakemm l-iżvelar pubbliku tiegħu ma jkunx meħtieġ għallħarsien tas-saħħa pubblika.\n\nReġistrazzjoni,\nrappurtar u\nevalwazzjoni ta’\ndata ta’ farmakoviġilanza.",
+      "metadata": {
+        "source_line_start": 319,
+        "source_line_end": 346
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "data ta’ farmakoviġilanza",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom jirreġistraw ir-reazzjonijiet kollha avversi sospetti filKomunità jew f’pajjiżi terzi li jinġiebu għall-attenzjoni tagħhom,\nkemm jekk dawn jiġu rappurtati spontanjament minn pazjenti jew\nminn professjonisti fil-kura tas-saħħa, jew li jseħħu fil-kuntest ta’\nstudju wara l-awtorizzazzjoni. Id-detenturi ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq għandhom jiżguraw li dawk ir-rapporti jkunu\naċċessibbli f’punt wieħed uniku fi ħdan il-Komunità:\nIżda b’deroga minn dak hawn imsemmi, ir-reazzjonijiet\navversi sospetti li jseħħu fil-kuntest ta’ test kliniku għandhom jiġu\nreġistrati u rappurtati kif hemm fid-Direttiva 2001/20/KE.\n\nRapporti elettroniċi\nta’ reazzjonijiet\navversi.",
+      "metadata": {
+        "source_line_start": 347,
+        "source_line_end": 361
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "avversi",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\nm’għandhomx jirrifjutaw milli jikkunsidraw rapporti ta’\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\nreazzjonijiet avversi sospetti li jaslu elettronikament jew b’xi mezz\nieħor adatt mingħand il-pazjenti u professjonisti fil-kura tas-saħħa.",
+      "metadata": {
+        "source_line_start": 362,
+        "source_line_end": 373
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "ieħor adatt mingħand il-pazjenti u professjonisti fil-kura tas-saħħa",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom iressqu elettronikament fid-database u fin-network talipproċessar tad-data msemmija fl-Artikolu 24 tar-Regolament (KE)\nNru 726/2004 (hawn iżjed ’il quddiem imsejjaħ id- \"database talEudravigilance \"), it-tagħrif dwar ir-reazzjonijiet avversi sospetti\nserji kollha li seħħew fl-Unjoni Ewropea u f’pajjiżi terzi fi żmien\nħmistax-il jum wara l-jum meta d-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq involut ikun ġie mgħarraf b’dan.",
+      "metadata": {
+        "source_line_start": 374,
+        "source_line_end": 382
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Database talEudravigilance",
+      "content": "(1) Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom jippreżentaw elettronikament lid-database talEudravigilance informazzjoni dwar reazzjonijiet avversi sospetti\nmhux serji li jkunu seħħew fl-Unjoni Ewropea, fi żmien disgħin\njum wara l-jum meta d-detentur ta’ awtorizzazzjoni għat-tqegħid\nfis-suq involut ikun ikun ġie mgħarraf b’dan.\n\nReazzjonijiet\navversi sospetti\nmhux serji.\n\n(2) Għal prodotti mediċinali li jkun fihom is-sustanza attiva\nmsemmija fil-lista tal-pubblikazzjonijiet sorveljata mill-Aġenzija\nkif hemm fl-Artikolu 27 tar-Regolament (KE) Nru 726/2004, iddetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq m’għandux ikun\nmeħtieġ jirrapporta lid-database tal-Eudravigilance ir-reazzjonijiet\navversi sospetti reġistrati fil-letteratura medika elenkata, iżda\ngħandu jissorvelja kull letteratura medika oħra u jirrappurta kull\nreazzjoni avversa sospetta.",
+      "metadata": {
+        "source_line_start": 383,
+        "source_line_end": 399
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Database talEudravigilance",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom jistabbilixxu proċeduri dwar il-ksib ta’ data eżatti u\nverifikabbli għall-evalwazzjoni xjentifika tar-rapporti dwar\nreazzjonijiet avversi sospetti. Huma għandhom ukoll jiġbru\ninformazzjoni ta’ prosegwiment dwar dawn ir-rapporti u jaġġornaw\ndatabase tal-Eudravigilance.\n\nProċeduri dwar ilksib ta’ data.",
+      "metadata": {
+        "source_line_start": 400,
+        "source_line_end": 408
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Proċeduri dwar ilksib ta’ data",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom jikkollaboraw mal-Aġenzija u mal-iStati Membri biex\njikxfu duplikati tar-rapporti ta’ reazzjonijiet avversi sospetti.\n\nKollaborazzjoni\nmal-Aġenzija u\nma’ Stati Membri.",
+      "metadata": {
+        "source_line_start": 409,
+        "source_line_end": 416
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "ma’ Stati Membri",
+      "content": "L-Awtorità għanda tirreġistra r-reazzjonijiet avversi\nsospetti kollha li jseħħu fit-territorju tagħħa u li jinġiebu għallattenzjoni tagħħa mill-professjonisti għall-kura tas-saħħa u millp a z j e n t i . L - Aw t o r i t à g ħ a n d h a t i n v o l v i l i l l - p a z j e n t i u l i l l professjonisti fil-kura tas-saħħa, kif ikun adatt, fil-prosegwiment\nta’ kull rapport li tirċievi biex tikkonforma ruħha maddispożizzjonijiet tar-regolament 3(5) u (6).\n\nReġistrazzjoni ta’\nreazzjonijiet\navversi sospetti.",
+      "metadata": {
+        "source_line_start": 417,
+        "source_line_end": 424
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "avversi sospetti",
+      "content": "L-Awtorità għanda tiżgura li rapporti ta’ reazzjonijiet bħal\ndawk jistgħu jitressqu permezz tal-web-portals tal-mediċina\nnazzjonali jew b’mezzi oħra.\n\nPreżentata ta’\nrapporti.",
+      "metadata": {
+        "source_line_start": 425,
+        "source_line_end": 431
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "rapporti",
+      "content": "Għar-rapproti mressqa minn detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq, meta r-reazzjoni avversa sospetta tkun seħħet\nf’Malta, l-Awtorità tista’ tinvolvi lid-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq fil-prosegwiment tar-rapporti.",
+      "metadata": {
+        "source_line_start": 432,
+        "source_line_end": 438
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Prosegwiment tarrapport",
+      "content": "L-Awtorità għanda tikkollabora mal-Aġenzija u maddetenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq fil-kxif ta’\nduplikati tar-rapporti ta’ reazzjonijiet avversi sospetti.\n\nKxif ta’ duplikati.\n\n[ L.S.458.35\n\nRapporti ta’\nreazzjonijiet\navversi sospetti\nserji.\n\nFARMAKOVIĠILANZA",
+      "metadata": {
+        "source_line_start": 439,
+        "source_line_end": 455
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Prosegwiment tarrapport",
+      "content": "(1) L-Awtorità għandha, fi żmien ħmistax-il jum minn\nmeta jaslulha r-rapporti dwar reazzjonijiet avversi sospetti serji\nmsemmija fir-regolament 21, tippreżenta r-rapporti elettronikament\nfid- database tal-Eudravigilance.\n(2) L-Awtorità għandha, fi żmien disgħin jum wara li jaslulha\nr-rapporti msemmija fir-regolament 21, tippreżenta rapporti dwar\nreazzjonijiet avversi sospetti mhux serji elettronikament fiddatabase tal-Eudravigilance.\n\nAċċess għal\nrapporti permezz\ntad-database talEudravigilance.",
+      "metadata": {
+        "source_line_start": 456,
+        "source_line_end": 467
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "tad-database talEudravigilance",
+      "content": "Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom jaċċessaw dawk ir-rapporti fid-database talEudravigilance.\n\nReazzjonijiet li\njirriżultaw minn\nżball.",
+      "metadata": {
+        "source_line_start": 468,
+        "source_line_end": 474
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "żball",
+      "content": "L-Awtorità għandha tiżgura li r-rapporti dwar reazzjonijiet\navversi sospetti li jirriżultaw minn żball li jkollu x’jaqsam mal-użu\nta’ prodott li jinġiebu għall-attenzjoni tagħha jkunu disponibbli fiddatabase tal-Eudravigilance.\n\nMa jistgħux isiru\nobbligi\naddizzjonali.",
+      "metadata": {
+        "source_line_start": 475,
+        "source_line_end": 482
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "addizzjonali",
+      "content": "Sakemm ma jkunx hemm raġunijiet ġustifikabbli li\njirriżultaw minn attivitajiet ta’ farmakoviġilanza, l-Awtorità\nm’għandha timponi l-ebda obbligu addizzjonali ta’ rappurtar ta’\nreazzjonijiet avversi sospetti fuq id-detenturi ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq.\n\nRapporti perjodiċi\nta’ aġġornament\ndwar is-sigurtà.",
+      "metadata": {
+        "source_line_start": 483,
+        "source_line_end": 492
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "dwar is-sigurtà",
+      "content": "(1) Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom iressqu quddiem l-Aġenzija rapporti perjodiċi ta’\naġġornament dwar is-sigurtà li jkun fihom:\n(a) sommarji tad-data rilevanti għall-benefiċċji u r-riskji\ntal-prodott mediċinali, inklużi r-riżultati ta’ kull studju\nfilwaqt li jitqies l-impatt potenzjali tagħhom fuq lawtortizzazzjoni għat-tqegħid fis-suq;\n(b) evalwazzjoni xjentifika tal-bilanċ bejn il-benefiċċju u\nr-riskju tal-prodott mediċinali;\n(ċ) id-data kollha li jkollhom x’jaqsmu mal-volum ta’\nbejgħ tal-prodott mediċinali u kull data fil-pussess\ntad-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq li\njkollhom x’jaqsmu mal-volum tar-riċetti, inkluża stima\ntal-popolazzjoni esposta għall-prodott mediċinali.\n(2) L-evalwazzjoni msemmija fis-subregolament (1)(b)\ngħandha tkun imsejsa fuq id-data kollha disponibbli, inklużi d-data\nminn testijiet kliniċi fl-indikazzjonijiet u popolazzjonijiet mhux\nawtorizzati.\n(3) Ir-rapporti perjodi ta’ aġġornament\ngħandhom jiġu ppreżentati elettronikament.\n\ndwar\n\nis-sigurtà\n\nL-Aġenzija\ngħandha tagħmel\nir-rapporti\ndisponibbli.",
+      "metadata": {
+        "source_line_start": 493,
+        "source_line_end": 521
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "disponibbli",
+      "content": "L-Aġenzija għandha tagħmel ir-rapporti msemmija firregolament 29 disponibbli għall-Awtorità, għall-membri talKumitat tal-Evalwazzjoni tar-Riskju fil- Farmakoviġilanza, għallKumitat tal-Prodotti Mediċinali għall-Użu mill-Bniedem u għallgrupp ta’ koordinazzjoni permezz tar-repożitorju msemmi flArtikolu 25a tar-Regolament (KE) Nru 726/2004.\n\nMeta għandhom\njiġu ppreżentati rrapporti.",
+      "metadata": {
+        "source_line_start": 522,
+        "source_line_end": 526
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "jiġu ppreżentati rrapporti",
+      "content": "(1) B’deroga mir-regolament 29, id-detenturi ta’\nawtorizzazzjoni għat-tqegħid fis-suq għal prodotti mediċinali\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\nmsemmijin fid-Direttiva 2001/83/KE, fl-Artikolu 10(1), jew fidDirettiva 2001/83/KE, fl-Artikolu 10a, u d-detenturi ta’\nreġistrazzjonijiet għal prodotti mediċinali imsemmijin fid-Direttiva\n2001/83/KE, fl-Artikolu 14, jew fid-Direttiva 2001/83/KE, flArtikolu 16a, għandhom jippreżentaw rapporti perjodiċi ta’\naġġornament għal dawk il-prodott mediċinali fil-każijiet li ġejjin\nbiss:\n(a) meta obbligu bħal dak ikun stipulat bħala kondizzjoni\nfl-awtorizzazzjoni għat-tqegħid fis-suq; jew\n(b) meta dan jiġi mitlub minn awtorità kompetenti abbażi\nta’ tħassib relatat mad-data dwar il-farmakoviġilanza\njew minħabba n-nuqqas ta’ provvista ta’ rapporti\nperjodiċi ta’ aġġornament dwar is-sigurtà relatati ma’\nsustanza attiva wara li tkun ingħatat l-awtorizzazzjoni\ngħat-tqegħid fis-suq.\n(2) Ir-rapporti ta’ evalwazzjoni tar-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà għandhom jitwasslu lill-Kumitat talEvalwazzjoni tar-Riskju fil-Farmakoviġilanza, li għandu jqis jekk\nikunx hemm bżonn għal rapport uniku ta’ evalwazzjoni għallawtorizzazzjonijiet kollha għat-tqegħid fis-suq għall-prodotti\nmediċinali li jkun fihom l-istess sustanza attiva u jinforma lillgrupp ta’ koordinazzjoni jew lill-Kumitat tal-Prodotti Mediċinali\ngħall-Użu mill-Bniedem kif ikun adatt, sabiex jiġu applikati lproċeduri stipulati fl-Artikolu 107c(4) u fl-Artikolu 107e tadDirettiva 2001/83/KE.",
+      "metadata": {
+        "source_line_start": 527,
+        "source_line_end": 554
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "(2) Ir-rapporti ta’ evalwazzjoni tar-rapporti perjodiċi ta’",
+      "content": "(1) Il-frekwenza li r-rapporti perjodiċi ta’ aġġornament\ndwar is-sigurtà għandha tiġi speċifikata fl-awtorizzazzjoni għattqegħid fis-suq.\n\nFrekwenza u dati\nmeta jiġu\nppreżentati.\n\n(2) Id-dati meta jiġu ppreżentati hekk kif tkun il-frekwenza\nspeċifikata għandhom jiġu kalkulati mid-data tal-awtorizzazzjoni.",
+      "metadata": {
+        "source_line_start": 555,
+        "source_line_end": 563
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "speċifikata għandhom jiġu kalkulati mid-data tal-awtorizzazzjoni",
+      "content": "(1) Id-detenturi ta’ awtorizzazzjonijiet għat-tqegħid fissuq li ngħataw qabel il-21 ta’ Lulju, 2012, u li għalihom ilfrekwenza u d-dati meta jiġu ppreżentati r-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà m’humiex stipulati bħala kondizzjoni\ngħall-awtorizzazzjoni tat-tqegħid fis-suq, għandhom jippreżentaw\nir-rapporti perjodiċi ta’ aġġornament dwar is-sigurtà kif hemm fissubregolament (2) sakemm frekwenza oħra jew dati oħra meta jiġu\nppreżentati r-rapporti jiġu stipulati fl-awtorizzazzjoni għat-tqegħid\nfis-suq jew stabbiliti kif hemm fir-regolamenti 35, 36 jew 37.\n(2) Ir-rapporti perjodiċi ta’ aġġornament dwar is-sigurtà\ngħandhom jiġu ppreżentati quddiem l-awtoritajiet kompetenti\nminnufih hekk kif jiġu mitluba jew kif jingħad f’dan li ġej:\n(a) meta prodott mediċinali ma jkunx għadu tqiegħed fissuq, mill-inqas kull sitt xhur wara l-awtorizzazzjoni u\nsakemm dan jitqiegħed fis-suq;\n(b) meta prodott mediċinali jkun tqiegħed fis-suq, millinqas kull sitt xhur matul l-ewwel sentejn wara li dan\njitqiegħed għall-ewwel darba fis-suq, darba fis-sena\ngħas-sentejn ta’ wara u f’intervalli ta’ kull tliet snin\n\nAwtorizzazzjonijiet\nmogħtija qabel il21 ta’ Lulju 2012.\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\nwara dan.\n\nProdotti mediċinali\nawtorizzati biss fi\nStat Membru\nwieħed.",
+      "metadata": {
+        "source_line_start": 564,
+        "source_line_end": 594
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "wieħed",
+      "content": "Ir-regolament 33 għandu japplika wkoll għal prodotti\nmediċinali awtorizzati biss fi Stat Membru wieħed u li r-regolament\n35 ma jkunx japplika għalih.\n\nFrekwenza\narmonizzata meta\njiġu ppreżentati rrapporti.",
+      "metadata": {
+        "source_line_start": 595,
+        "source_line_end": 602
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "jiġu ppreżentati rrapporti",
+      "content": "(1) Meta prodotti mediċinali li jkunu soġġetti għal\nawtorizzazzjonijiet differenti għat-tqegħid fis-suq ikun fihom listess sustanza attiva jew l-istess taħlita ta’ sustanzi attivi, ilfrekwenza u d-dati meta jiġu ppreżentati r-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà li jirriżultaw mill-applikazzjoni tarregolamenti 32 u 33 jistgħu jiġu emendati u armonizzati biex ikunu\njippermettu li ssir evalwazzjoni unika fil-kuntest ta’ proċedura ta’\nqsim tax-xogħol fuq rapport perjodiku ta’ aġġornament dwar issigurtà u biex tiġi stabbilita data ta’ referenza għall-Komunità minn\nmeta jiġu kalakulati d-dati meta jsiru l-preżentati.\n(2) Din il-frekwenza armonizzata meta jiġu ppreżentati rrapporti u d-data ta’ referenza għall-Komunità jistgħu jiġu\nstabbiliti, wara konsultazzjoni mal-Kumitat tal-Evalwazzjoni tarRiskju fil- Farmakoviġilanza, minn xi wieħed minn dawn li ġejjin:\n(a) il-Kumitat għall-Prodotti Mediċinali għall-Użu millBniedem,\nfejn\nmill-inqas\nwaħda\nmillawtorizzazzjonijiet għat-tqegħid fis-suq għall-prodotti\nmediċinali li fihom is-sustanza attiva involuta tkun\ningħatat kif hemm fil-proċedura ċentralizzata prevista\nfil-Kapitolu 1 tat-Titolu II tar-Regolament (KE) Nru\n726/2004;\n(b) il-grupp ta’ koordinazzjoni, f’każijiet oħra għajr dawk\nimsemmija fil-paragrafu (a).\n(3) L-Aġenzija għandha tippubblika l-frekwenza armonizzata\nmeta jiġu ppreżentati r-rapporti stabbilita kif hawn fissubregolamenti (1) u (2). Id-detenturi ta’ awtorizzazzjoni għattqegħid fis-su q għandhom j ippreżentaw applikazzjoni għal\nvarjazzjoni fl-awtorizzazzjoni għat-tqegħid fis-suq hekk kif ikun\nmeħtieġ.\n\nData ta’ referenza\ngħall-Komunità.",
+      "metadata": {
+        "source_line_start": 603,
+        "source_line_end": 629
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "għall-Komunità",
+      "content": "Għall-finijiet tar-regolament 35, id-data ta’ referenza\ngħall-Komunità għall-prodotti mediċinali li jkun fihom l-istess\nsustanza attiva jew l-istess taħlita ta’ sustanzi attivi għandha tkun\nwaħda minn dawn li ġejjin:\n(a) id-data tal-ewwel awtorizzazzjoni għat-tqegħid fis-suq\nfil-Komunità ta’ prodott mediċinali li jkun fih dik issustanza attiva jew dik it-taħlita ta’ sustanzi attivi;\n(b) jekk id-data msemmija fil-paragrafu (a) ma tkunx\ntista’ tiġi żgurata, l-aktar data kmieni minn dawk\nmagħrufa għall-awtorizzazzjonijiet għat-tqegħid fissuq għal prodotti mediċinali li jkun fihom dik issustanza attiva jew dik it-taħlita ta’ sustanzi attivi.\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35",
+      "metadata": {
+        "source_line_start": 630,
+        "source_line_end": 644
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "[ L.S.458.35",
+      "content": "(1) Id-detenturi ta’ awtorizzazzjoni għat-tqegħid fis-suq\ngħandhom ikunu jistgħu jippreżentaw talbiet lill-Kumitat talProdotti Mediċinali għall-Użu mill-Bniedem jew lill-grupp ta’\nkoordinazzjoni, kif ikun adatt, biex jistabbilixxu d-dati ta’ referenzi\ngħall-Komunità jew biex tinbidel il-frekwenza meta jiġu\nppreżentati r-rapporti perjodiċi ta’ aġġornament dwar is-sigurtà\nminħabba f’xi raġuni minn dawn li ġejjin:\n\nDetenturi ta’\nawtorizzazzjoni\ngħat-tqegħid fissuq jistgħu\njippreżentaw\ntalbiet.\n\n(a) għal raġunijiet li għandhom x’jaqsmu mas-saħħa\npubblika;\n(b) biex tiġi evitata evalwazzjoni doppja;\n(ċ) biex tinkiseb armonizzazzjoni internazzjonali.\n(2) Talbiet bħal dawk għandhom jiġu ppreżentati bil-miktub u\ngħandhom ikunu ġustifikati kif imiss. Il-Kumitat tal-Prodotti\nMediċinali għall-Użu mill-Bniedem jew il-grupp ta’ koordinazzjoni\ngħandhom, wara l-konsultazzjoni li ssir mal-Kumitat talEvalwazzjoni tar-Riskju fil- Farmakoviġilanza, jew japprovaw jew\ninkella jirrifjutaw dawk it-talbiet. L-Aġenżija għandha tippubblika\nkull bidla fid-dati jew fil-frekwenza meta jiġu ppreżentati rrapporti perjodiċi ta’ aġġornament dwar is-sigurtà. Id-detenturi ta’\nawtorizzazzjoni għat-tqegħid fis-suq għandhom jippreżentaw\napplikazzjoni għal varjazzjoni fl-awtorizzazzjoni għat-tqegħid fissuq hekk kif ikun meħtieġ.",
+      "metadata": {
+        "source_line_start": 645,
+        "source_line_end": 671
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "awtorizzazzjoni għat-tqegħid fis-suq għandhom jippreżentaw",
+      "content": "L-Aġenzija għandha tippubblika lista tad-dati ta’ referenza\nu l-frekwenza għall-Komunità biex jiġu ppreżentati rapporti\nperjodiċi ta’ aġġornament dwar is-sigurtà permezz tal-web-portal\ntal-mediċini Ewropew.\n\nPubblikazzjoni ta’\ndati ta’ referenza u\nrapporti.",
+      "metadata": {
+        "source_line_start": 672,
+        "source_line_end": 680
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "rapporti",
+      "content": "Kull bidla fid-dati meta jiġu ppreżentati u fil-frekwenza\ntar-rapporti perjodiċi ta’ aġġornament dwar is-sigurtà speċifikata\nfl-awtorizzazzjonijiet għat-tqegħid fis-suq b’konsegwenza talapplikazzjoni tar-regolamenti 35, 36 u 37 għandha tibda tgħodd sitt\nxhur wara d-data ta’ pubblikazzjoni bħal dik.\n\nData effettiva meta\njseħħu l-bidliet.",
+      "metadata": {
+        "source_line_start": 681,
+        "source_line_end": 688
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "jseħħu l-bidliet",
+      "content": "L-awtorità għandha, meta tkun Stat Membru ta’ referenża\njew relatur fil-Kumitat tal-Evalwazzjoni tar-Riskju filFarmakoviġilanza, tevalwa r-rapporti perjodiċi ta’ aġġornament\ndwar is-sigurtà biex tistabbilixxi jekk ikunx hemm riskji ġodda jew\njekk ir-riskji ikunux inbidlu jew jekk ikunx hemm xi bidliet filbilanċ bejn il-benefiċċju u r-riskju tal-prodotti mediċinali.\n\nEvalwazzjoni millAwtorità ta’\nrapporti perjodiċi\nta’ aġġornament\ndwar is-sigurtà.",
+      "metadata": {
+        "source_line_start": 689,
+        "source_line_end": 698
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "dwar is-sigurtà",
+      "content": "Għandha ssir evalwazzjoni unika tar-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà għall-prodotti mediċinali awtorizzati\nf’aktar minn Stat Membru wieħed u, fil-każijiet tal-paragrafi 4 sa 6\ntal-Artikolu 107c tad-Direttiva 2001/83/KE, għall-prodotti\nmediċinali kollha li jkun fihom l-istess sustanza attiva jew l-istess\ntaħlita ta’ sustanzi attivi u li għalihom jkunu ġew stabbiliti data ta’\nreferenza għall-Komunità u l-frekwenza tar-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà.\n\nEvalwazzjoni\nunika tar-rapporti\nperjodiċi ta’\naġġornament\ndwar is-sigurtà.",
+      "metadata": {
+        "source_line_start": 699,
+        "source_line_end": 713
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "dwar is-sigurtà",
+      "content": "L-evalwazzjoni unika għandha ssir minn xi wieħed minn\ndawn li ġejjin:\n\nKif issir levalwazzjoni\nunika.\n\n(a) Stat Membru maħtur mill-grupp ta’ koordinazzjoni\nfejn l-ebda waħda mill-awtorizzazzjonijiet għattqegħid fis-suq involuti ma tkun ingħatat kif hemm fil-\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\nproċedura ċentralizzata prevista fil-Kapitlu 1 tat-Titolu\nII tar-Regolament (KE) Nru 726/2004; jew\n(b) relatur maħtur mill-Kumitat tal-Evalwazzjoni tarRiskju fil-Farmakoviġilanza, fejn mill-inqas waħda\nmill-awtorizzazzjonijiet għat-tqegħid fis-suq involuti\ntkun ingħatat kif hemm fil-proċedura ċentralizzata\nprevista fil-Kapitolu 1 tat-Titolu II tar-Regolament\n(KE) Nru 726/2004.\n\nRapport ta’\nevalwazzjoni.",
+      "metadata": {
+        "source_line_start": 714,
+        "source_line_end": 739
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "evalwazzjoni",
+      "content": "L-iStat Membru jew ir-relatur, kif ikun adatt, għandu jħejji\nrapport ta’ evalwazzjoni fi żmien sittin jum minn meta jasallu rrapport perjodiku ta’ aġġornament dwar is-sigurtà u jibagħtu lillAġenzija u lill-iStati Membri involuti. L-Aġenzija għandha tibgħat\nir-rapport lid-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq.",
+      "metadata": {
+        "source_line_start": 740,
+        "source_line_end": 745
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Kif isiru lkummenti",
+      "content": "Fi żmien tletin jum minn meta jirċievu r-rapport ta’\nevalwazzjoni, l-iStati Membri u d-detentur tal-awtorizzazzjoni\ngħat-tqegħid fis-suq jistgħu jippreżentaw kummenti lill-Aġenzija u\nlir-relatur jew lill-iStat Membru.\n\nIr-relatur għandu\njaġġorna r-rapport\nta’ evalwazzjoni.",
+      "metadata": {
+        "source_line_start": 746,
+        "source_line_end": 754
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Kif isiru lkummenti",
+      "content": "Wara li jirċievu l-kummenti msemmija fir-regolament 44,\nfi żmien ħmistax-il jum ir-relatur jew l-iStati Membri għandhom\njaġġornaw ir-rapport ta’ evalwazzjoni filwaqt li jqisu kull kumment\nli jkun sar, u jressquh quddiem il-Kumitat tal-Evalwazzjoni tarRiskju fil-Farmakoviġilanza. Il-Kumitat tal-Evalwazzjoni tarR i s k j u f i l - F a r m a k o v i ġ i l a n z a g ħ a n d u j a d o t t a r- r a p p o r t t a ’\nevalwazzjoni bil-bidliet ulterjuri jew mingħajrhom fil-laqgħa\ntiegħu li jkun imiss u joħroġ rakkomandazzjoni. Irrakkomandazzjoni għanda ssemmi l-pożizzjonijiet diverġenti\nflimkien mar-raġunijiet li jkunu bbażati fuqhom. L-Aġenzija\ngħandha tinkludi r-rapport ta’ evalwazzjoni adottat u rrakkomandazzjoni fir-repożitorju stabbilit skont l-Artikolu 25a tarRegolament (KE) Nru 726/2004 u jgħaddihom it-tnejn li huma liddetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq.\n\nL-awtorità\ngħandha tqis tkunx\nmeħtieġa xi\nazzjoni.",
+      "metadata": {
+        "source_line_start": 755,
+        "source_line_end": 768
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "azzjoni",
+      "content": "Wara l-evalwazzjoni tar-rapporti perjodiċi ta’ aġġornament\nd war is-si gurtà, l-awto ri tà g ħand ha t ikk unsid ra j ekk tku nx\nmeħtieġa xi azzjoni li tkun tinvolvi l-awtorizzazzjoni tat-tqegħid\nfis-suq għall-prodott mediċinali involut. L-Awtorità dwar ilLiċenzjar imwaqqfa skond l-artikolu 3 tal-Att, tista’ tibqa’ żżomm,\ntvarja, tissospendi jew tirrevoka l-awtorizzazzjonijiet għat-tqegħid\nfis-suq kif ikun adatt.\n\nGrupp ta’\nkoordinazzjoni\nbiex jikkunsidra rrapport.",
+      "metadata": {
+        "source_line_start": 769,
+        "source_line_end": 779
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "biex jikkunsidra rrapport",
+      "content": "Fil-każ ta’ evalwazzjoni unika tar-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà li tirrakkomanda xi azzjoni li tkun\ntinvolvi aktar minn awtorizzazzjoni għat-tqegħid fis-suq waħda kif\nhemm fl-Artikolu 107e(1) tad-Direttiva Nru 2001/83/KE kif\nemendata, li ma tkun tinkludi l-ebda awtorizzazzjoni għat-tqegħid\nfis-suq mogħtija kif hemm fil-proċedura ċentralizzata prevista filKapitolu 1 tat-Titolu II tar-Regolament (KE) Nru 726/2004, ilgrupp ta’ koordinazzjoni għandu, fi żmien tletin jum minn meta\njirċevi r-rapport tal-Kumitat tal-Evalwazzjoni tar-Riskju filFarmakoviġilanza, jikkunsidra r-rapport u jadotta pożizzjoni dwar\niż-żamma, il-va rjazzjoni, is-so spensjoni jew ir-revoka talawtorizzazzjonijiet għat-tqegħid fis-suq involuti, inkluża skeda ta’\nżmien għall-implimentazzjoni tal-pożizzjoni miftiehma.\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35",
+      "metadata": {
+        "source_line_start": 780,
+        "source_line_end": 794
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "[ L.S.458.35",
+      "content": "(1) Jekk fil-grupp ta’ koordinazzjoni, l-iStati Membri\nrappreżentati jilħqu ftehim dwar l-azzjoni li għandha tittieħed\nb’kunsens, il-president għandu jirreġistra l-ftehim u jibagħtu liddetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq u lill-iStati\nMembri. L-iStati Membri għandhom jadottaw il-miżuri neċessarji\nb i e x i ż o m m u , i v a r j a w, j i s s o s p e n d u j e w j i r r e v o k a w l awtorizzazzjonijiet għat-tqegħid fis-suq involuti f’konformità maliskeda ta’ żmien għall-implimentazzjoni deċiża fil-ftehim.\n\nDeċiżjonijiet li\njsiru mill-grupp ta’\nkoordinazzjoni.\n\n(2) Fil-każ ta’ varjazzjoni, id-detentur ta’ awtorizzazzjoni għattqegħ id fis-su q għ andu jressaq lil l-awt oritaji et ko mp etenti\nnazzjonali applikazzjoni adatta għal bdil, inkluż wieħed sommarju\nu aġġornat tal-karatteristiċi tal-prodott u fuljett tal-pakkett fliskeda ta’ żmien għall-implimentazzjoni stabbilita.\n(3) Jekk ma jkunx jista’ jintlaħaq ftehim b’kunsens, ilpożizzjoni tal-maġġoranza tal-iStati Membru rappreżentati fi ħdan\nil-grupp ta’ koordinazzjoni għandha tintbagħat quddiem ilKummissjoni li għandha tapplika l-proċedura stipulata fl-Artikoli\n33 u 34 tad-Direttiva Nru 2001/83/KE kif emendata.\n(4) Meta l-ftehim li jilħqu l-iStati Membri rappreżentati fi ħdan\nil-grupp ta’ koordinazzjoni jew il-pożizzjoni tal-maġġoranza taliStati Membri jkunu differenti mir-rakkomandazzjoni tal-Kumitat\ntal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza, il-grupp ta’\nkoordinazzjoni għandu jehmeż mal-ftehim jew mal-pożizzjoni talmaġġoranza, spjegazzjoni dettaljata tar-raġunijiet xjentifiċi għaddifferenzi flimkien mar-rakkomandazzjoni.",
+      "metadata": {
+        "source_line_start": 795,
+        "source_line_end": 816
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza, il-grupp ta’",
+      "content": "Fil-każ ta’ evalwazzjoni unika tar-rapporti perjodiċi ta’\naġġornament dwar is-sigurtà li tkun tirrakkomanda xi azzjoni li\ntirrigwarda aktar minn awtorizzazzjoni għat-tqegħid fis-suq waħda\nkif hemm fl-Artikolu 107e (1) tad-Direttiva 2001/83/KE kif\nemendata li tinkludi mill-inqas awtorizzazzjoni għat-tqegħid fissuq waħda mogħtija kif hemm fil-proċedura ċentralizzata prevista\nfil-Kapitlu 1 tat-Titolu II tar-Regolament (KE) Nru 726/2004, ilKumitat tal-Prodotti Mediċinali għall-Użu mill-Bniedem għandu, fi\nżmien tletin jum mil-wasla tar-rapport tal-Kumitat talEvalwazzjoni tar-Riskju fil- Farmakoviġilanza, jikkunsidra rrapport u jadotta opinjoni dwar iż-żamma, il-varjazzjoni, issospensjoni jew ir-revoka tal-awtorizzazzjonijiet għat-tqegħid fissuq involuti, inkluża skeda ta’ żmien għall-implimentazzjoni talopinjoni.\n\nAdozzjoni ta’\nopinjoni fuq\nawtorizzazzjonijiet\ngħat-tqegħid fissuq.",
+      "metadata": {
+        "source_line_start": 817,
+        "source_line_end": 829
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "għat-tqegħid fissuq",
+      "content": "Meta din l-opinjoni tal-Kumitat tal-Prodotti Mediċinali\ngħall-Użu mill-Bniedem tkun differenti mir-rakkomandazzjoni talKumitat tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza, ilKumitat tal-Prodotti Mediċinali għall-Użu mill-Bniedem għandu\njehmeż mal-opinjoni tiegħu spjegazzjoni dettaljata tar-raġunijiet\nxjentifiċi għal dawk id-differenzi flimkien mar-rakkomandazzjoni.\n\nSpjegazzjoni\ndettaljata tarraġunijiet\nxjentifiċi.",
+      "metadata": {
+        "source_line_start": 830,
+        "source_line_end": 838
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "xjentifiċi",
+      "content": "(1) Abbażi\ntal-opinjoni\ntal-Kumitat\ntal-Prodotti\nMediċinali għall-Użu mill-Bniedem imsemmi fir-regolament 50, ilKummissjoni għandha:\n\nDeċiżjonijiet li\ngħandhom jiġu\nadottati millKummissjoni.\n\n(a) tadotta deċiżjoni indirizzata lill-iStati Membri dwar ilmiżuri li għandhom jittieħdu fir-rigward talawtorizzazzjonijiet għat-tqegħid fis-suq mogħtija mill-\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\niStati Membri\nprevista; u\n\nu\n\nmilqutin\n\nmill-proċedura\n\nhawn\n\n(b) meta l-opinjoni tkun tgħid li hija meħtieġa azzjoni\nregolatorja fir-rigward tal-awtorizzazzjoni għattqegħid fis-suq, tadotta deċiżjoni biex tvarja,\ntissospendi jew tirrevoka l-awtorizzazzjonijiet għattqegħid fis-suq mogħtija kif hemm fil-proċedura\nċentralizzata stipulata fir-Regolament (KE) Nru 726/\n2004 u milqutin mill-proċedura hawn prevista.\n(2) L-Artikoli 33 u 34 tad-Direttiva 2001/83/KE għandhom\njapplikaw għall-adozzjoni tad-deċiżjoni msemmija fissubregolament (1)(a) u għall-implimentazzjoni relattiva mill-iStati\nMembri.\nDeċiżjonijiet dwar\nmiżuri li\ngħandhom\nx’jaqsmu ma’\nawtorizzazzjonijiet\ngħat-tqegħid fissuq.",
+      "metadata": {
+        "source_line_start": 839,
+        "source_line_end": 882
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Membri",
+      "content": "L-Artikolu 10 tar-Regolament (KE) Nru 726/2004 għandu\njapplika għad-deċiżjoni msemmija fir-regolament 51(1)(b). Meta lKummissjoni tadotta deċiżjoni bħal dik, din tista’ wkoll tadotta\ndeċiżjoni indirizzata lill-iStati Membri konformement mal-Artikolu\n127a tad-Direttiva 2001/83/KE kif emendata.\n\nIl-kxif ta’ sinjali.",
+      "metadata": {
+        "source_line_start": 883,
+        "source_line_end": 889
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Membri",
+      "content": "Fir-rigward ta’ prodotti mediċinali awtorizzati kif hemm\nfid-Direttiva 2001/83/KE, l-awtoritajiet kompetenti nazzjonali\nf’kollaborazzjoni mal-Aġenzija għandhom jieħdu dawn il-miżuri li\nġejjin:\n(a) jissorveljaw ir-riżultat tal-miżuri ta’ miżuri ta’\nminimizzazzjoni tar-riskju li jkunu qegħdin filpjanijiet tal-ġestjoni tar-riskju u l-kondizzjonijiet\nimsemmija fl-Artikoli 21a, 22 jew 22a tad-Direttiva\n2001/83/KE;\n(b) jevalwaw l-aġġornamenti tas-sistema tal-ġestjoni tarriskju;\n(ċ) jissorveljaw id-data fid-database tal-Eudravigilance\nbiex ikun jista’ jiġi stabbilit jekk ikunx hemm riskji\nġodda jew jekk ir-riskji jkunux inbidlu u jekk dawk irriskji ikollhomx impatt fuq il-bilanċ bejn il-benefiċċju\nu r-riskju.\n\nAnalisi u\nprijoritizzazzjoni\nta’ sinjali ta’ riskji.",
+      "metadata": {
+        "source_line_start": 890,
+        "source_line_end": 907
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "ta’ sinjali ta’ riskji",
+      "content": "Il-Kumitat\ntal-Evalwazzjoni\ntar-Riskju\nfilFarmakoviġilanza għandu jwettaq l-analisi tal-bidu u lprijoritizzazzjoni ta’ sinjali ta’ riskji ġodda jew ta’ riskji li jkunu\nnbidlu jew ta’ bidliet fil-bilanċ bejn il-benefiċċju u r-riskju. Meta\njitqies li tista’ tkun meħtieġa xi azzjoni ta’ prosegwiment, levalwazzjoni ta’ dawk is-sinjali u qbil dwar kull azzjoni\nsussegwenti fir-rigward tal-awtorizzazzjoni għat-tqegħid fis-suq\ngħandha titwettaq f ’perjodu ta’ żmien imfassal hekk kif ikun ilqjies u l-gravità tal-kwisjtoni.\n\nTagħrif reċiproku\ndwar ir-riskji.",
+      "metadata": {
+        "source_line_start": 908,
+        "source_line_end": 919
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "dwar ir-riskji",
+      "content": "L-Aġenzija u l-awtoritajiet kompetenti nazzjonali u ddetentur ta’ awtorizzazzjoni għat-tqegħid fis-suq għandhom\njgħarrfu lil xulxin fil-każ li jiġu żvelati riskji ġodda jew riskji li\njkunu nbidlu jew jekk jinkixfu xi bidliet fil-bilanċ bejn ilbenefiċċju u r-riskju.\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35",
+      "metadata": {
+        "source_line_start": 920,
+        "source_line_end": 930
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "[ L.S.458.35",
+      "content": "L-Awtorità\ngħandha\ntiżgura\nli\nd-detentur\nta’\nawtorizzazzjoni għat-tqegħid fis-suq jgħarrf lill-Aġenzija Ewropea\ndwar il-Medicini u lill-awtoritajiet kompetenti nazzjonali fil-każ li\njkunu ġew żvelati riskji ġodda jew riskji li jkunu nbidlu jew ikunu\nsaru bidliet fil-bilanċ bejn il-benefiċċju u r-riskju.\n\nDmirijiet tal-iStati\nMembri fuq tagħrif\ndwar riskji.",
+      "metadata": {
+        "source_line_start": 931,
+        "source_line_end": 945
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "dwar riskji",
+      "content": "(1)(a) L-Awtorità jew il-Kummissjoni, kif imiss, għandhom,\nabbażi ta’ tħassib li jirriżulta mill-evalwazzjoni ta’\ndata ġejja minn attivitajiet ta’ farmakoviġilanza,\njibdew il-proċedura li hawn provdut dwarha f’dan isregolament billi jgħarrfu lill-iStati Membri l-oħra, lillAġenzija u lill-Kummissjoni jekk:\n\nIl-proċedura\nurġenti talKomunità.\nEmendat:\nA.L. 352 tal-2013.\n\n(i)\n\njikkunsidraw li jissospendu jew jirrevokaw\nawtorizzazzjoni għat-tqegħid fis-suq;\n(ii) jikkunsidraw li jipprojbixxu l-forniment ta’ xi\nprodott mediċinali;\n(iii) jikkunsidraw li jirrifjutaw it-tiġdid ta’\nawtorizzazzjoni għat-tqegħid fis-suq; jew\n(iv) ikunu mgħarrfa mid-detentur tal-awtorizzazzjoni\ngħat-tqegħid fis-suq li, abbażi ta’ tħassib dwar\nis-sigurtà, id-detentur ikun waqqaf it-tqegħid\nfis-suq ta’ prodott mediċinali jew ikun ħa\nazzjoni biex tiġi rtirata awtorizzazzjoni għattqegħid fis-suq, jew ikun bi ħsiebu jagħmel dan\njew ma jkunx applika għat-tiġdid ta’\nawtorizzazzjoni għat-tqegħid fis-suq.\n(b) L-Awtorità jew il-Kummissjoni, kif imiss, għandhom,\nabbażi ta’ tħassib li jirriżulta mill-evalwazzjoni ta’\ndata ġejja minn attivitajiet ta’ farmakoviġilanza,\njgħarrfu lill-iStati Membri l-oħra, lill-Aġenzija u lillKummissjoni jekk iqisu li jkunu meħtieġa xi kontraindikazzjoni ġdida, tnaqqis fid-doża rakkomandata,\njew restrizzjoni għall-indikazzjonijiet ta’ xi prodott\nmediċinali. It-tagħrif għandu jagħti ħjiel tal-azzjoni li\ntkun qiegħeda titqies u r-raġunijiet għaliha.\nL-Awtorità jew il-Kummissjoni, kif imiss, għandhom,\nmeta jitqies li għandha tittieħed azzjoni urġenti,\njibdew il-proċedura li hawn provdut dwarha f’dan issubregolament dwar kull każ imsemmi f’dan irregolament.\nMeta l-proċedura li hemm provdut dwarha f’dan irregolament ma tinbediex, dwar prodotti mediċinali\nawtorizzati kif hemm fil-proċeduri stipulati fil-Kapitlu\n4 tat-Titlu III tad-Direttiva 2001/83/KE, il-każ għandu\njiġi mgħarraf lill-grupp ta’ koordinament.\nL-Artikolu 31 tad-Direttiva 2001/83/KE għandu jkun\njapplika meta jkunu involuti l-interess tal-Unjoni\nEwropea.\n(ċ) Meta tinbeda l-proċedura msemmija f’dan ir-regolament,\nl-Aġenzija għandha tivverifika jekk it-tħassib dwar issigurtà jkunx jirrelata għal prodotti mediċinali li ma\njkunux dawk koperti mill-informazzjoni, jew jekk ikunx\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\nkomuni għall-prodotti kollha li jappartjenu lill-istess\nsensiela jew klassi terapewtika.\n\n(2) Meta l-prodott mediċinali involut ikun awtorizzat f’iktar minn\nStat Membru wieħed, l-Aġenzija għandha mingħajr ebda dewmien\ntgħarraf lill-inizjatur tal-proċedura bir-riżultat ta’ din il-verifika, u\ngħandhom japplikaw il-proċeduri stipulati fl-Artikoli 107j u 107k tadDirettiva Nru 2001/83/KE. Inkella, it-tħassib dwar is-sigurtà għandu\njiġi indirizzat mill-iStat Membru involut. L-Aġenzija jew l-Awtorità,\nkif japplika, għandhom jgħarrfu lid-detenturi ta’ awtorizzazzjoni għattqegħid fis-suq li tkun inbdiet dik il-proċedura.\n(3)\n\n(a) Mingħajr preġudizzju għad-dispożizzjonijiet tassubregolament (1), u l-Artikoli 107j u 107k tadDirettiva Nru 2001/83/KE kif emendata, Stat Membru\njista’, meta tkun meħtieġa azzjoni urġenti biex tiġi\nprotetta s-saħħa pubblika, jissospendi lawtorizzazzjoni għat-tqegħid fis-suq u jiprojbixxi lużu tal-prodott mediċinali involut fit-territorju tiegħu\nsakemm tiġi adottata deċiżjoni definittiva. Dan għandu\njinforma lill-Kummissjoni, lill-Aġenzija u lill-iStati\nMembri l-oħra mhux aktar tard mill-ġurnata tax-xogħol\nli tkun taħbat minnufih wara bir-raġunijiet għallazzjoni tiegħu.\n(b) F’kull stadju tal-proċedura stipulata fl-Artikoli 107j sa\n107k tad-Direttiva Nru 2001/83/KE kif emendata, ilKummissjoni tista’ titlob lill-iStati Membri fejn ilprodott mediċinali jkun awtorizzat biex dawn\nminnufih jieħdu miżuri temporanji.\n\n(4)\n\n(a) Fejn l-iskop tal-proċedura, kif stabbilit kif hemm fissubregolament (1), ikun jinkludi prodotti mediċinali\nawtorizzati kif hemm fir-Regolament (KE) Nru 726/\n2004, il-Kummissjoni tista’, f’kull stadju tal-proċedura\nhawn imnedija, tieħu miżuri temporanji minnufih firrigward ta’ dawk l-awtorizzazzjonijiet għat-tqegħid\nfis-suq.\n(b) It-tagħrif imsemmi f’dan ir-regolament jista’ jkun\njirrigwarda prodotti mediċinali individwali jew\nsensiela ta’ prodotti mediċinali jew xi klassi\nterapewtika.\n(ċ) Meta l-iskop tal-proċedura mnedija taħt dan irregolament tkun tinvolvi sensiela ta’ prodotti\nmediċinali jew xi klassi terapewtika, il-prodotti\nmediċinali awtorizzati kif hemm fir-Regolament (KE)\nNru 726/2004 li jkunu jappartjenu lil dik is-sensiela\njew klassi għandhom ukoll jiġu inklużi fil-proċedura.\n\n(5)\nFilwaqt tal-komunikazzjoni tat-tagħrif imsemmi fissubregolament (1), l-iStat Membru għandu jagħmel disponibbli lillAġenzija t-tagħrif xjentifiku rilevanti kollu li jkollu għaddispożizzjoni tiegħu u kull evalwazzjoni mill-iStat Membru.\nSorveljanza ta’\nstudji dwar issigurtà wara lawtorizzazzjoni.",
+      "metadata": {
+        "source_line_start": 946,
+        "source_line_end": 1041
+      }
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "studji dwar issigurtà wara lawtorizzazzjoni",
+      "content": "(1) Dan ir-regolament japplika għal studji dwar is-sigurtà\nwara l-awtorizzazzjoni mingħajr intervent li huma mniedija, ġestiti\njew finanzjati mid-detentur ta’ awtorizzazzjoni għat-tqegħid fis-\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\nsuq, b’mod volontarju jew konformement mal-obbligi imposti kif\nhemm fl-Artikoli 21a jew 22a tad-Direttiva Nru 2001/83/KE kif\nemendata, u li jinvolvu l-ġbir ta’ data dwar is-sigurtà minn pazjenti\njew minn professjonisti fil-kura tas-saħħa.\n(2) Dan ir-regolament huwa mingħajr preġudizzju għarrekwiżiti nazzjonali u tal-Komunità għall-iżgurar tal-benesseri u\ntad-drittijiet tal-parteċipanti fi studji dwar is-sigurtà wara lawtorizzazzjoni mingħajr intervent.\n(3) L-istudji m’għandhomx isiru meta l-att tat-twettiq talistudju jippromwovi l-użu ta’ prodott mediċinali.\n(4) Il-ħlasijiet lill-professjonisti għall-kura tas-saħħa għassehem tagħhom fi studji dwar is-sigurtà ta’ wara l-awtorizzazzjoni\nmingħajr intervent għandhom ikunu ristretti għall-kumpens għażżmien u l-ispejjeż magħmula.\n(5) L-Awtorità tista’ titlob lid-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq biex jippreżenta l-protokoll u r-rapporti ta’\nprogress lill-awtoritajiet kompetenti tal-iStati Membri fejn ikun sar\nl-istudju.\n(6) Id-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq għandu\njibgħat ir-rapport finali lill-awtoritajiet kompetenti tal-iStati\nMembri fejn ikun sar l-istudju fi żmien tnax-il xahar mit-tmiem talġbir tad-data.\n(7)\n\n(a) Waqt li jkun qed isir l-istudju, id-detentur ta’\nawtorizzazzjoni għat-tqegħid fis-suq għandu\njissorvelja id-data ġenerata u jqis l-implikazzjonijiet\ntagħha għall-bilanċ bejn il-benefiċċju u r-riskju talprodott mediċinali involut.\n(b) Kull informazzjoni ġdida li għandha mnejn\ntinfluwenza l-bilanċ bejn il-benefiċċju u r-riskju ta’\nprodott mediċinali għandha titwassal lill-awtoritajiet\nkompetenti tal-iStat Membru fejn il-prodott mediċinali\njkun ġie awtorizzat kif hemm fl-Artikolu 23 tadDirettiva Nru 2001/83/KE kif emendata.\n(ċ) L-obbligu stabbilit fis-subregolament (2) huwa\nmingħajr preġudizzju għall-informazzjoni dwar irriżultati tal-istudji li d-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq għandu jagħmel disponibbli\npermezz ta’ rapporti ta’ aġġornament perjodiċi dwar\nis-sigurtà kif stipulat fir-regolament 29.\n\n(8) Ir-regolamenti 59 sa 62 għandhom ikunu japplikaw\nesklużivament għall-istudji msemmija fis-subregolament (1) u li\njsiru konformement mal-obbligu impost kif hemm fl-Artikoli 21a\njew 22a tad-Direttiva Nru 2001/83/KE.",
+      "metadata": {
+        "source_line_start": 1042,
+        "source_line_end": 1087
+      }
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "jew 22a tad-Direttiva Nru 2001/83/KE",
+      "content": "(1) Qabel ma jsir studju, id-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq għandu jippreżenta abbozz ta’ protokoll lillKumitat tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza, ħlief\ng ħ a l l - i s t u d j i l i j k u n u s e j s i r u f i St a t M e m b r u w i e ħ e d b i s s\n(pereżempju Malta) li jitlob l-istudju kif hemm fl-Artikolu 22a tadDirettiva Nru 2001/83/KE. Dwar kull studju bħal dak, id-detentur\n\nPreżentata ta’\nabbozz ta’\nprotokoll.\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\n\nta’ awtorizzazzjoni għat-tqegħid fis-suq għandu jippreżenta abbozz\nta’ protokoll lill-Awtorità.\n(2) Fi żmien sittin jum mill-preżentata tal-abbozz tal-protokoll\nl - Aw t o r i t à j e w i l - K u m i t a t t a l - E v a l w a z z j o n i t a r- R i s k j u f i l Farmakoviġilanza, kif ikun adatt, għandu jippubblika:\n(a) ittra li tapprova l-abbozz ta’ protokoll;\n(b) ittra ta’ oġġezzjoni, li għandha tniżżel fid-dettall irraġunijiet għall-oġġezzjoni, f’kull każ minn dawn li\nġejjin:\n(i)\n\njekk it-twettiq tal-istudju jitqies bħala wieħed li\njippromwovi l-użu ta’ prodott mediċinali;\n(ii) jekk it-tfassil tal-istudju jitqies bħala wieħed li\nma jilħaqx l-għanijiet tal-istudju; jew\n(ċ) ittra li tkun tavża lid-detentur ta’ awtorizzazzjoni għattqegħid fis-suq li l-istudju jkun prova klinika li\ntinkwadra fl-ambitu tad-Direttiva 2001/20/KE.\n(3)\n\n(a) L-istudju jista’ jitnieda biss meta tkun inħarġet lapprovazzjoni bil-miktub mill-Awtorità jew millKumitat tal-Evalwazzjoni tar-Riskju filFarmakoviġilanza, kif ikun adatt.\n(b) Meta tinħareġ ittra ta’ approvazzjoni kif imsemmi fissubregolament (2)(a), id-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq għandu jibgħat il-protokoll lillawtoritajiet kompetenti tal-iStati Membri fejn għandu\njitwettaq l-istudju u jista’, wara dan, jibda l-istudju\nkonformement mal-protokoll approvat.\n\nAwtorizzazzjoni ta’\nemendi.",
+      "metadata": {
+        "source_line_start": 1088,
+        "source_line_end": 1131
+      }
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "emendi",
+      "content": "Wara li jkun tnieda studju, kull emenda sostanzjali għallprotokoll għandha tiġi ppreżentata qabel l-implimentazzjoni\ntagħhom, lill-awtorità kompetenti nazzjonali jew lill-Kumitat talEvalwazzjoni tar-Riskju fil-Farmakoviġilanza, kif ikun adatt. Lawtorità kompetenti nazzjonali jew il-Kumitat tal-Evalwazzjoni\nt a r- R is kj u f il - F a r m a k ov i ġ il a nz a , k if i k un a d a t t , g ħa n dh o m\njevalwaw l-emendi u jinformaw lid-detentur ta’ awtorizzazzjoni\ngħat-tqegħid fis-suq dwar l-approvazzjoni tagħhom jew oġġezzjoni\ngħalihom. Meta jkun japplika, id-detentur ta’ awtorizzazzjoni għattqegħid fis-suq għandu jinforma lill-iStati Membri fejn ikun\nqiegħed isir l-istudju.",
+      "metadata": {
+        "source_line_start": 1132,
+        "source_line_end": 1141
+      }
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "Finalizzazzjoni talistudju",
+      "content": "(1) Wara li jitlesta l-istudju, għandu jiġi ppreżentat rapport\nfinali tal-istudju lill-awtorità kompetenti nazzjonali jew lillKumitat tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza, fi żmien\ntnax-il xahar mit-tmiem tal-ġbir tad-data sakemm ma tkunx\ningħatat rinunzja bil-miktub mill-awtorità kompetenti nazzjonali\njew mill-Kumitat tal-Evalwazzjoni tar-Riskju filFarmakoviġilanza, kif ikun adatt.\n(2) Id-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq għandu\njevalwa jekk ir-riżultati tal-istudju jkollhomx impatt fuq lawtorizzazzjoni għat-tqegħid fis-suq u għandu, jekk ikun meħtieġ,\njippreżenta applikazzjoni lill-awtoritajiet nazzjonali kompetenti\nbiex ivarja l-awtorizzazzjoni għat-tqegħid fis-suq.\n\nFARMAKOVIĠILANZA\n\n[ L.S.458.35\n\n(3) Flimkien mar-rapport finali dwar l-istudju, id-detentur ta’\nawtorizzazzjoni għat-tqegħid fis-suq għandu jippreżenta sintesi\nelettronika tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza.",
+      "metadata": {
+        "source_line_start": 1142,
+        "source_line_end": 1161
+      }
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "elettronika tal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza",
+      "content": "(1) Abbażi tar-riżultati tal-istudju u wara konsultazzjoni\nmad-detentur ta’ awtorizzazzjoni għat-tqegħid fis-suq, il-Kumitat\ntal-Evalwazzjoni tar-Riskju fil-Farmakoviġilanza jista’ jagħmel\nrakkomandazzjonijiet li jkollhom x’jaqsmu mal-awtorizzazzjoni\ngħat-tqegħid fis-suq, fejn isemmi r-raġunijiet li dawn ikunu bażati\nfuqhom. Ir-rakkomandazzjonijiet għandhom isemmu lpożizzjonijiet diverġenti u r-raġunijiet li jkunu bażati fuqhom.\n(2)\n\n(a) Meta\nrakkomandazzjonijiet\ngħall-varjazzjoni,\nsospensjoni jew revoka tal-awtorizzazzjoni għattqegħid fis-suq isiru għal xi prodott mediċinali\nawtorizzat mill-iStati Membri konformement madDirettiva Nru 2001/83/KE kif emendata, l-iStati\nMembri rappreżentati fi ħdan il-grupp ta’\nkoordinazzjoni għandhom jaqblu fuq pożizzjoni dwar\nil-kwistjoni waqt li jqisu r-rakkomandazzjoni\nmsemmija fis-subregolament (1) u jinkludu skeda ta’\nżmien għall-implimentazzjoni tal-pożizzjoni maqbula.\n(b) Jekk fi ħdan il-grupp ta’ koordinazzjoni, l-iStati\nMembri rappreżentati jaqblu dwar l-azzjoni li għandha\ntittieħed b’kunsens, il-president għandu jirreġistra lqbil u jibagħtu lid-detentur ta’ awtorizzazzjoni għattqegħid fis-suq u lill-iStati Membri.\n(ċ) L-iStati Membri għandhom jadottaw il-miżuri\nneċessarji biex ivarjaw, jissospendu jew jirrevokaw lawtorizzazzjoni għat-tqegħid fis-suq bi qbil maliskeda ta’ żmien għall-implimentazzjoni deċiża filqbil.\n(d) Fil-każ li jintlaħaq qbil dwar varjazzjoni, id-detentur\nta’ awtorizzazzjoni għat-tqegħid fis-suq għandu\njippreżenta lill-awtoritajiet kompetenti nazzjonali\napplikazzjoni kif imiss għal varjazzjoni, inkluż\nsommarju aġġornat tal-karatteristiċi tal-prodott u\nfuljett tal-pakkett fl-iskeda ta’ żmien għallimplimentazzjoni deċiża.\n(e) Il-qbil għandu jiġi pubblikat fil-web-portal talmediċini Ewropew imwaqqaf kif hemm fl-Artikolu 26\ntar-Regolament (KE) Nru 726/2004.\n(f)\n\nJekk ma jkunx jista’ jintlaħaq qbil b’kunsens, ilpożizzjoni\ntal-maġġoranza\ntal-iStati\nMembri\nrappreżentati fi ħdan il-grupp ta’ koordinazzjoni\ngħandha titwassal lill-Kummissjoni, li mbagħad\ngħandha tapplika l-proċedura stipulata fl-Artikoli 33 u\n34 tad-Direttiva Nru 2001/83/KE.\n\n(g) Meta l-qbil li jintlaħaq bejn l-iStati Membri\nrappreżentati fi ħdan il-grupp ta’ koordinazzjoni jew\nil-pożizzjoni tal-maġġoranza tal-iStati Membri jkunu\ndifferenti mir-rakkkomandazzjoni tal-Kumitat talEvalwazzjoni tar-Riskju fil-Farmakoviġilanza, il-\n\nRakkomandazzjonijiet għal\nvarjazzjoni,\nsospensjoni jew\nrevoka ta’\nawtorizzazzjonijiet\ngħat-tqegħid fissuq.\n\n[ L.S.458.35\n\nFARMAKOVIĠILANZA\ngrupp ta’ koordinazzjoni għandu jehmeż mal-qbil jew\nmal-pożizzjoni tal-maġġoranza, spjegazzjoni dettaljata\ntar-raġunijiet xjentifiċi għad-differenzi flimkien marrakkomandazzjoni.",
+      "metadata": {
+        "source_line_start": 1162,
+        "source_line_end": 1227
+      }
+    }
+  ],
+  "definitions": []
+}

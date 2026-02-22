@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-514-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Retirement Pensions (Control of Assets)",
+  "title_en": "Regolamenti dwar Retirement Pensions (Control of Assets)",
+  "short_name": "eli/sl/514.3/mlt",
+  "status": "in_force",
+  "issued_date": "2015-01-15",
+  "in_force_date": "2015-01-01",
+  "url": "https://legislation.mt/eli/sl/514.3/20210518/mlt",
+  "description": "Official text from legislation.mt (eli/sl/514.3/mlt, expression eli/sl/514.3/20210518/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "RETIREMENT PENSIONS (CONTROL OF ASSETS)\n\n[ L.S.514.03\n\nLEĠISLAZZJONI SUSSIDJARJA 514.03\nREGOLAMENTI DWAR RETIREMENT PENSIONS\n(CONTROL OF ASSETS)*\n1 ta’ Jannar, 2015 *\nL-AVVIŻ LEGALI 7 tal-2015, kif emendat bl-Avviż Legali 47 tal-2020 u\n214 tal-2021.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n*ara r-regolament regulation 1(2) ta’ dawn ir-Regolamenti, kif promulgati\noriġinarjament.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

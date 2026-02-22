@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-449-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Importazzjoni ta’ Laħam",
+  "title_en": "Regolamenti dwar l-Importazzjoni ta’ Laħam",
+  "short_name": "eli/sl/449.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.8/mlt, expression eli/sl/449.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 28 ta’ l-1977",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lImportazzjoni ta’ La]am.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lImportazzjoni ta’ La]am",
+      "content": "F’dawn ir-regolamenti, \"annimal\" tinkludi pullam u fniek.\n\nTitolu.\nTifsir.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma tista’ timporta xi la]am barra minn la]am\nimkessa], iffri\\at jew ippro`essat.\n\nProjbizzjoni ta’\nimportazzjoni ta’\n`ertu la]am.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma tista’ timporta xi la]am imkessa], iffri\\at\njew pro`essat jekk kull konsenja ta’ la]am b]al dak ma jkollhiex\nmag]ha dokument jew dokumenti g]as-sodisfazzjon tasSuprintendent tas-Sa]]a Pubblika, liema dokument jew dokumenti\ng]andhom juru b’mod partikolari -\n\nImportazzjoni ta’\nla]am iffri\\at\nflimkien ma’\ndokumenti.\n\n(a) li l-la]am 1i g]alih id-dokument, jew id-dokumenti,\njirreferu kien miksub minn annimali li [ew\nspezzjonati, fil-pajji\\ ta’ l-ori[ini tal-la]am, qabel u\nwara 1-qatla u li nstabu ]ielsa minn kull mard fil-]in\ntal-qatla; u\n(b) li kull dressing, preparazzjoni, pro`essar, ippakkjar u\ntitkettjar\ntal-la]am\nikunu\nsaru\nb’dawk\nilprekawzjonijiet u b’dawk il-materjali u tag]mir u\nb’dak il-mod li ma jkunx hemm xi periklu g]as-sa]]a.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "b’dak il-mod li ma jkunx hemm xi periklu g]as-sa]]a",
+      "content": "Is-Suprintendent tas-Sa]]a Pubblika jista’ jordna li kull\nla]am importat ji[i mbullat b’dak il-mod li jidhirlu xieraq.\n\nImbullar ta’ la]am\nimportat.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

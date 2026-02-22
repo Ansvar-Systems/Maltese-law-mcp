@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-50-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Cross-Border Distribution of Funds)",
+  "title_en": "Regolamenti dwar Investment Services Act (Cross-Border Distribution of Funds)",
+  "short_name": "eli/sl/370.50/mlt",
+  "status": "in_force",
+  "issued_date": "2022-05-09",
+  "in_force_date": "2022-05-06",
+  "url": "https://legislation.mt/eli/sl/370.50/20220506/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.50/mlt, expression eli/sl/370.50/20220506/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (CROSS-BORDER\nDISTRIBUTION OF FUNDS)\n\n[ L.S.370.50\n\nLEĠISLAZZJONI SUSSIDJARJA 370.50\nREGOLAMENTI DWAR INVESTMENT SERVICES\nACT (CROSS-BORDER DISTRIBUTION OF FUNDS)\n6 ta’ Mejju,2022\n\nL-AVVIŻ LEGALI 131 tal-2022.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

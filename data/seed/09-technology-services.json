@@ -1,127 +1,206 @@
 {
   "id": "mt-technology-services",
   "type": "statute",
-  "title": "Technology Arrangements and Services Act (Cap. 592)",
-  "title_en": "Technology Arrangements and Services Act",
-  "short_name": "TASA",
+  "title": "Innovative Technology Arrangements and Services (ITAS) Certification Regulations",
+  "title_en": "Innovative Technology Arrangements and Services (ITAS) Certification Regulations",
+  "short_name": "ITAS-CERT",
   "status": "in_force",
-  "issued_date": "2018-11-01",
-  "in_force_date": "2018-11-01",
-  "url": "https://legislation.mt/eli/cap/592/eng/pdf",
-  "description": "The Technology Arrangements and Services Act (Cap. 592) constitutes the third element of Malta's 'blockchain triptych' legislation and establishes the regulatory framework for technology service providers operating in relation to innovative technology arrangements. It works in conjunction with the Malta Digital Innovation Authority Act (Cap. 591) and the Virtual Financial Assets Act (Cap. 590), establishing categories of technology service providers, their licensing or registration requirements, and applicable conduct standards. The Act has been progressively aligned with applicable EU law including the Digital Operational Resilience Act (DORA) and the Cyber Resilience Act.",
+  "issued_date": "2024-06-20",
+  "in_force_date": "2024-06-14",
+  "url": "https://legislation.mt/eli/sl/591.1/20240614/eng",
+  "description": "Official consolidated text from legislation.mt (eli/sl/591.1/20240614/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
       "section": "1",
-      "title": "Article 1. Scope and Purpose",
-      "content": "This Act establishes the regulatory framework for technology service providers offering services in relation to innovative technology arrangements, including distributed ledger technology-based services, smart contract-related services, and associated technology infrastructure services. The Act aims to foster the responsible development and deployment of technology services in Malta, to protect users of technology services, and to promote Malta as a jurisdiction for innovative technology activities conducted in accordance with high regulatory standards. This Act applies in conjunction with applicable EU law including Regulation (EU) 2022/2554 (DORA) in the financial services sector and Regulation (EU) 2024/2847 (Cyber Resilience Act) for ICT products and services."
+      "title": "LEGAL NOTICE 132 of 2024",
+      "content": "(1)\nThe short title of these regulations is the\nInnovative Technology Arrangements and Services (ITAS)\nCertification Regulations.\n\nCitation and scope.\n\n(2)\nThe scope of these regulations is to provide for a\nvoluntary recognition framework for innovative technology\narrangements and services and for innovative technology service\nproviders, as shall be determined by the Authority for the purposes\nestablished in the Act, from time to time.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 28
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Article 2. Technology Service Providers",
-      "content": "For the purposes of this Act, technology service providers include: technology exchanges providing services enabling the exchange or trading of virtual financial assets or other digital assets; VFA wallet services providing software-based services for the secure storage and management of cryptographic keys and digital assets; portfolio management services for virtual financial assets; payment services facilitated through innovative technology arrangements; investment advice services relating to virtual financial assets; and other categories of technology service specified by the Minister responsible for innovation by regulation. Technology service providers offering services within the scope of this Act shall obtain the applicable authorisation or registration prior to commencing operations."
+      "title": "Citation and scope",
+      "content": "requires:\n\n(1)\n\nIn these regulations, unless the context otherwise\n\n\"the Act\" means the Malta Digital Innovation Authority\nAct;\n\"the Authority\" means the Malta Digital Innovation\nAuthority established by article 5 of the Act;\n\"innovative technology arrangements\" means any\napplications and, or solutions or parts thereof which include\nsoftware, code, computer protocols and other architectures\nwhich are used in the context of innovative technology;\n''innovative technology services'' means those services in\nrelation to innovative technology arrangements which the\nAuthority may, from time to time, define, authorize or regulate;\n\"officer\" means an officer or any person who is\nappointed to carry out representative and fiduciary functions in\nthe control and administration of a legal person or a legal\norganisation having separate legal personality, and any person\nwho carries out such functions even if under another name,\nincluding a director, manager or company secretary;\n\"service provider\" or \"innovative technology service\nprovider\" means a natural or legal person that renders\ninnovative technology services, including a technical expert;\n(2) Words and expressions used in these regulations which\nare also used in the Act but which are not defined herein shall have the\n\nInterpretation.\n\nsame meaning as assigned to them in the Act.\nApplication for\nrecognition.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 74
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Article 3. Authorisation Requirements",
-      "content": "Technology service providers shall obtain the appropriate authorisation from the competent authority before commencing the provision of technology services covered by this Act. Applications for authorisation shall include information on the legal form and registered office of the applicant, the identity and fitness and propriety of directors, shareholders, and senior managers, the proposed services to be provided and the business plan, the financial resources available and arrangements for the safeguarding of client assets, the technology infrastructure and security arrangements, and the compliance framework. The competent authority shall process applications within a specified timeframe and shall grant authorisation where the applicable requirements are satisfied."
+      "title": "Interpretation",
+      "content": "Any person who intends to obtain recognition for any\ninnovative technology arrangements or any innovative technology\nservice may apply to the Authority by making use of the relevant\nprescribed forms issued by the Authority for such purpose and\naccessible through the website of the Authority, or in the absence of a\nprescribed form, by an application in writing providing the information\nrequired by the Authority for such purpose with reference to the subject\nmatter of the application.\n\nTransparency in\nconsidering\napplications.",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 88
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Article 4. Ongoing Obligations",
-      "content": "Authorised technology service providers shall at all times maintain the conditions required for authorisation, including the minimum financial resources, governance arrangements, technology infrastructure standards, and compliance framework. Technology service providers shall notify the competent authority without undue delay of any material change to the information provided in their application for authorisation, including changes in the composition of the board or senior management, significant changes to the services offered, or changes to the technology infrastructure underlying their services. Failure to maintain applicable conditions or to notify the competent authority of material changes shall constitute grounds for suspension or withdrawal of authorisation."
+      "title": "applications",
+      "content": "The Authority shall act in an open and transparent manner\nwhen considering applications and shall seek to provide reasonable\ninformation on the progress of an application to the applicant and, in\ncase of refusal, the reasons for refusing to accept an application under\nthese regulations shall be communicated in writing to the applicant.\n\nInnovative\ntechnology\narrangements\ncertification.",
+      "metadata": {
+        "source_line_start": 89,
+        "source_line_end": 100
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Article 5. Technology Infrastructure Requirements",
-      "content": "Technology service providers shall implement and maintain technology infrastructure that meets applicable security, resilience, and performance standards. Technology infrastructure requirements include the use of systems and networks meeting applicable security standards, the implementation of access controls and encryption, business continuity and disaster recovery capabilities, capacity management, and regular security testing including penetration testing. Technology service providers shall document their technology risk management framework and shall conduct regular assessments of technology risks. The competent authority shall issue technical standards for technology infrastructure applicable to technology service providers, aligned with relevant Union standards."
+      "title": "certification",
+      "content": "Without prejudice to the forms of recognition that the\nAuthority may issue in accordance with the Act, there shall be a form\nof recognition to be issued by the Authority known as \"innovative\ntechnology arrangements certification\" or \"ITA certification\".",
+      "metadata": {
+        "source_line_start": 101,
+        "source_line_end": 105
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Article 6. Smart Contracts",
-      "content": "Technology service providers utilising smart contracts in the provision of their services shall ensure that smart contracts meet applicable technical standards for security, functionality, and transparency. Smart contracts shall be audited by qualified technical experts prior to deployment and following significant modifications, and audit reports shall be made available to the competent authority upon request. Smart contracts operating in critical applications shall implement mechanisms for governance, including administrative rights enabling authorised modifications or deactivation where necessary to address security vulnerabilities or regulatory compliance requirements. The MDIA may certify smart contracts meeting specified technical and governance requirements."
+      "title": "technology arrangements certification\" or \"ITA certification\"",
+      "content": "(1)\nThe Authority shall, from time to time, and taking\ninto account international and European Union legislation, determine\nthe types of technologies and innovative technology arrangements to\nwhich the innovative technology arrangements certification shall apply.\n(2)\nThe Authority may determine different types and classes\nof innovative technology arrangements certification, including\ncertification based on self-assessment methodologies, and set the levels\nof certification and elements to be assessed.\n(3)\nThe Authority may issue innovative technology\narrangements certification to different innovative technology\narrangements for one or more specific criteria with particular reference\nto: purposes, qualities, features, attributes, behaviours or aspects, as\nmay be determined by the Authority, and which shall be specified in the\nITA certification.\n(4)\nAn innovative technology arrangements certification for\none or more specific purposes, qualities, features, attributes, behaviours\nor other aspects shall neither operate as a certification for different\npurposes, qualities, features, attributes, behaviours or other aspects, nor\nshall it bar other certifications or recognitions for other purposes,\nqualities, features, attributes, behaviours or other aspects.\n(5)\nITA certification may be issued on an in principle or\nconditional basis subject to the innovative technology arrangements\nsatisfying the conditions or obligations imposed by the Authority.\n(6)\n\nITA certification issued under these regulations shall\n\nspecify the details of how the innovative technology arrangements are\nidentified and the innovative technology arrangements certification\nshall be given a unique number for purposes of such identification.\n(7)\nThe holder of the certified innovative technology\narrangements shall post the innovative technology arrangements\ncertification on the arrangement, in a specific location which shall be\nnotified to the Authority, in an easily accessible and legible format in\norder that it can be viewed by all users of the innovative technology\narrangements.\n(8)\nWhen an innovative technology arrangements\ncertification is issued in favour of an innovative technology\narrangements, without specifying any elements as provided for in subregulation (3), it shall be presumed to refer to all parts of the\ninnovative technology arrangements which are described as\nconstituting the arrangement in the application, unless expressly stated\notherwise, in which case it shall refer only to the specific criteria\ndesignated as the subject of the certification.\n(9)\nSubject to the right of appeal provided for in the Act, it\nshall be the sole discretion of the Authority to determine whether\ninnovative technology arrangements qualify for innovative technology\narrangements certification under these regulations.\n(10)\nThe Authority may designate and make public, any\ninternational or other standards of recognition it may rely on when\nissuing certification under these regulations accessible through the\nwebsite of the Authority.\n(11)\nAn applicant or holder of an innovative technology\narrangements certification shall pay to the Authority such fees as may\nbe prescribed by the Minister or the Authority in accordance with their\npowers at law in such manner as the said Minister or Authority may\ndetermine, from time to time, with the original application and\nsubsequently upon renewal, and which shall be accessible through the\nwebsite of the Authority:\nProvided that, the Authority reserves the right not to\nprescribe any fees in terms of this sub-regulation.",
+      "metadata": {
+        "source_line_start": 106,
+        "source_line_end": 184
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Article 7. Conduct of Business Obligations",
-      "content": "Technology service providers shall conduct their business honestly, fairly, and transparently and shall act in the best interests of their clients. Providers shall disclose to clients all material information relevant to the services offered, including risks, fees, and any conflicts of interest. Providers shall implement effective client on-boarding procedures including applicable identity verification, suitability assessment, and anti-money laundering checks. Client assets shall be segregated from the provider's own assets and held in accordance with applicable safeguarding requirements. Technology service providers shall maintain adequate records of all transactions and client interactions and shall provide clients with clear and timely information on the status of their accounts and transactions."
+      "title": "prescribe any fees in terms of this sub-regulation",
+      "content": "(1)\nAny person to whom an innovative technology\narrangements certification has been issued following an application\nunder these regulations shall not effect any material changes to the\ncertified innovative technology arrangements without having obtained\nthe prior written approval by the Authority of any such amendment or\nsubstitution;\n(2)\ninclude:\n\nThe term \"material changes\" in sub-regulation (1) shall\n\nVariations of\npurposes and other\nfeatures.\n\n(a)\nany alterations to any innovative technology\narrangements or parts thereof including, software, code or\ncomputer protocol to which the ITA certification applies, save for\nupgrades, maintenance, innovative evolution or the mere\nreplacement of any supporting software which do not materially\nchange the functionality, or have a material impact on the users\nof the innovative technology arrangements, or are not in breach\nof the regulatory principles of the Act or of the ITA certification;\n(b)\n\nany development altering the rights of users;\n\n(c)\nany changes introducing new risks, increasing any\nexisting risks, or which may interfere with any risk mitigation\nmechanism in place;\n(d)\nany development altering the rights, authorisation\nand powers of the Authority or any person authorised by the\nAuthority;\n(e)\nany alterations to the general purposes of the\ncertified innovative technology arrangements or to matters on\nwhich the Authority has received assurances in connection with\nthe issuing of the ITA certification;\n(f)\nany alterations to matters which the Authority, in\nthe ITA certification or documentation leading to the issuing of\nthe ITA certification, specifically lists as requiring its\nauthorisation prior to any changes being effected; or\n(g)\nany other alterations that may be specified by the\nAuthority and accessible through its website, from time to time.\n(3)\nIn addition to the above, in those circumstances in which\nan innovative technology service provider is, on a request of the\nAuthority, providing services in relation to the process of the issuing of\nan ITA certification, the said service provider shall specify whether any\nenvisaged substitution or amendment consists of a material change, in\naccordance with the meaning attributed to it in sub-regulation (2), or\nmay have material impact on the users of the innovative technology\narrangements or third parties, or affects the content of their review,\nassurances or declarations provided to the Authority for the purposes of\nthe certification of the relevant innovative technology arrangements:\nProvided that, to the extent that the changes result in\nadditional elements which have not been reviewed and do not fall within\nthe parameters of existing assurances and declarations issued by the said\nservice provider, the said service provider shall carry out a review of the\nsaid additional elements, and provide the Authority with the relative\nassurances that the changes do not affect his previous declarations and\nevaluations of the certified innovative technology arrangements.\n\n(4)\nThe Authority may, prescribe mandatory notification in\ngeneral or give directions as it may deem fit in the circumstances of\nthe case.",
+      "metadata": {
+        "source_line_start": 185,
+        "source_line_end": 273
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Article 8. Incident Management",
-      "content": "Technology service providers shall implement robust incident management capabilities enabling them to detect, respond to, and recover from operational incidents and cybersecurity events affecting their services. Providers shall maintain documented incident response plans covering triage and classification of incidents, internal escalation and communication, notification of affected clients and the competent authority, and post-incident review. Material incidents shall be notified to the competent authority within the timeframe specified by applicable regulation, and detailed post-incident reports shall be submitted within a specified period following resolution. The competent authority shall maintain an aggregate view of incidents affecting technology service providers and shall coordinate with MITA on incidents with cybersecurity dimensions."
+      "title": "the case",
+      "content": "Where prior authorisation to any envisaged changes is not\nrequired according to these regulations, the person to whom an\ninnovative technology arrangements certification has been issued\nfollowing an application under these regulations shall provide the\nAuthority with the details of any changes in the certified innovative\ntechnology arrangements, or to the information that had been provided\nto the Authority in the application process provided for in terms of these\nregulations, within thirty (30) days of such changes materializing.\n\nDuty to notify\nchanges.",
+      "metadata": {
+        "source_line_start": 274,
+        "source_line_end": 286
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Article 9. Third-Party Risk Management",
-      "content": "Technology service providers shall manage risks arising from their use of third-party services, including cloud computing services, software development services, and infrastructure services, in accordance with applicable requirements. The competent authority may require technology service providers to notify it of material arrangements with third-party service providers and to demonstrate that applicable due diligence and contractual protections are in place. Technology service providers shall maintain and regularly test exit strategies enabling them to switch third-party service providers or to bring services in-house in the event of a third-party failure or unacceptable deterioration in service quality. Third-party service providers that are critical to the operation of technology service providers shall be subject to enhanced oversight requirements."
+      "title": "changes",
+      "content": "(1)\nAll certificates under these regulations shall be\nvalid for the period as established by the Authority and shall be\npresumed to expire on the first day after the lapse of the period of\nvalidity indicated on the certificate, unless renewed by the Authority\nin accordance with these regulations, in which case the expiry date\nshall be extended by the renewal period and the innovative technology\narrangements certification shall lapse on the day after the said\nextended expiry date.\n\nRenewals of\ncertifications and\nregistrations.\n\n(2) It shall be the duty of the innovative technology\narrangements certification holder to ensure that the said certification is\nvalid and effective throughout the duration period and that subject to\nthe confirmation by the Authority, the innovative technology\narrangements certification shall be renewed at least within the last\nthree (3) months of its duration period and in any case prior to expiry.",
+      "metadata": {
+        "source_line_start": 287,
+        "source_line_end": 307
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Article 10. Operational Resilience",
-      "content": "Technology service providers shall implement an operational resilience framework ensuring that they can withstand, respond to, and recover from all types of disruption and ensure the continuity of their critical services. Operational resilience requirements include testing of critical systems and services, scenario-based resilience assessments, recovery time and recovery point objective targets for critical services, and cross-entity coordination arrangements. The competent authority shall conduct resilience assessments of technology service providers and may participate in sector-wide resilience exercises coordinated with other regulatory authorities. The operational resilience framework shall be aligned with the requirements of Regulation (EU) 2022/2554 (DORA) to the extent applicable to technology service providers subject to that Regulation."
+      "title": "three (3) months of its duration period and in any case prior to expiry",
+      "content": "(1)\nThe Authority shall be empowered to register\npersons providing innovative technology services for purposes that the\nAuthority shall, from time to time, define and publish through\nguidelines and which shall be accessible through the website of the\nAuthority setting out the functions and obligations of such registered\ninnovative technology service providers within the framework of\ninnovative technology recognition and certification.\n(2)\nThe registration of an innovative technology service\nprovider may be made in relation to natural or legal persons, or legal\norganisations having separate legal personality, as the Authority may\ndetermine.\n(3)\nThe Authority shall determine the means of application\nfor the purposes of registering innovative technology service\nproviders, and the general and specific requirements for registration,\nincluding requirements relating to \"fit and proper\" tests that the\ninnovative technology service providers must satisfy whether they are\nnatural or legal persons, or legal organisations having separate legal\npersonality.\n(4)\n\nThe Authority shall establish rules on the manner in\n\nRegistration of an\ninnovative\ntechnology service\nprovider.\n\nwhich innovative technology services are to be provided by natural or\nlegal persons, or legal organisations having separate legal personality,\nincluding where necessary, rules on the internal segregation of functions\nand on the responsibility for the recognised functions and which shall be\naccessible through the website of the Authority.\n(5)\nThe Authority may designate and make public and\naccessible through its website any international or other standards of\nservice it may rely on when considering a registration of innovative\ntechnology service providers under these regulations.\n(6)\nWithout prejudice to the other requirements that may be\npublished by the Authority through guidelines accessible through its\nwebsite, the Authority shall not recognise an innovative technology\nservices provider if the circumstances referred to in article 28 of the\nAct arise.\n(7)\nThe Authority shall grant the registration to recognised\ninnovative technology service providers which shall specify the official\nname and surname, if applicable, and registered address and have a\nunique number for identification purposes and a list of the classes of\nservices which the applicant has been registered to provide.\n(8)\nThe registered innovative technology service provider\nshall post the registration issued to it by the Authority on its website, if\napplicable, as well as on any innovative technology arrangements to\nwhich it renders its services in a specific location, as may be further\nspecified by the Authority. Said posting of the registration, which shall\nbe in an easily accessible and legible format in order that it can be\nviewed and clearly understood by all users of the innovative\ntechnology arrangements, shall be notified to the Authority.\n(9)\nWhen an innovative technology service provider is a legal\nperson, or a legal organisation having separate legal personality the\nregistration shall be issued in the name of the legal person or the legal\norganisation and where the service is carried out personally by such\nservice provider, the registration shall be issued in the official name\nand surname of the said service provider.\n\n(10) Innovative technology service providers registered under\nthe provisions of these regulations shall be considered to be\nprofessionals who act as fiduciaries in relation to the information\nsubmitted to them by any customers and shall also be bound by the\nprovisions of the Professional Secrecy Act and shall act accordingly.\n(11) The Authority shall be empowered to require innovative\ntechnology arrangements that are seeking to be, or may have been\ncertified by the Authority, to engage the services of registered\ninnovative technology service providers to carry out specific functions\nin relation to the innovative technology arrangements certification or\n\nreview process, as shall be specified by the Authority in its published\nguidelines accessible through its website.",
+      "metadata": {
+        "source_line_start": 308,
+        "source_line_end": 412
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Article 11. Supervision and Examination",
-      "content": "The competent authority shall supervise technology service providers on an ongoing basis, including through the review of regular supervisory reports, on-site examinations of providers' systems and records, and thematic reviews of specific risk areas or regulatory requirements. Supervisory examinations shall assess the adequacy of governance arrangements, technology infrastructure, risk management, compliance frameworks, and financial resources. The competent authority shall have the power to require technology service providers to provide any information needed for supervisory purposes, to require independent audits of technology systems, and to require providers to engage external experts to assess specific aspects of their operations. Examination findings shall be communicated to the management of the provider and shall be followed up to verify that deficiencies are addressed."
+      "title": "guidelines accessible through its website",
+      "content": "(1)\nRegistrations issued to innovative technology\nservice providers under these regulations shall be valid for a period of\nthree (3) years and shall expire accordingly unless renewed in terms of\nregulation 11(2), provided that the Authority may issue a registration\nfor a different period, as it may deem reasonable.\n\nRenewals of\nregistrations.\n\n(2)\nIt shall be the duty of the innovative technology service\nprovider to ensure that the registration is valid and effective\nthroughout the period of duration, and subject to the confirmation by\nthe Authority, the registration shall be renewed at least within the last\nthree (3) months of its period of duration and, in any case, prior to\nexpiry.",
+      "metadata": {
+        "source_line_start": 413,
+        "source_line_end": 430
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Article 12. Cross-Border Provision of Services",
-      "content": "Technology service providers authorised under this Act may provide services cross-border to recipients in other jurisdictions subject to compliance with applicable law in those jurisdictions and with any applicable Union law provisions. Where technology service providers provide services in other EU Member States, they shall comply with applicable Union law requirements, including MiCA requirements for crypto-asset service providers and DORA requirements for ICT third-party service providers in the financial sector. The competent authority shall cooperate with the supervisory authorities of other jurisdictions in the supervision of cross-border technology services and shall participate in applicable international supervisory cooperation frameworks."
+      "title": "expiry",
+      "content": "(1)\nWhen an applicant for an innovative technology\narrangements certification to be issued by the Authority is not\nhabitually resident in Malta, it may be required by the Authority to\nappoint, a resident agent who:\n(a)\n\nis habitually resident in Malta;\n\n(b)\nis not interdicted or incapacitated or is an\nundischarged bankrupt;\n(c)\nhas not been convicted of any of the crimes\naffecting public trust or of theft or of fraud or money laundering\nor of knowingly receiving property obtained by theft or fraud;\nand\n(d)\nhas satisfied the Authority that he is a person\ncapable of carrying out the functions provided for in terms of\nthese regulations.\n(2)\nA legal person and a legal organisation having a separate\nlegal personality shall be considered as not being habitually resident in\nMalta for the purposes of this regulation if none of:\n(a)\nthe members of its board of administrators or\nsecretary; and\n(b)\nits senior officers, being the chief executive\nofficer, the chief operations officer or its chief technology\nofficer;\nare habitually resident in Malta.\n(3)\nNotices of the appointment, including the terms of\nengagement, resignation or removal of the resident agent shall be filed\nwith the Authority in the prescribed form, and until such form is issued\n\nAppointment of\nresident agent.\n\nby the Authority, by means of a notification in writing and, where a\nnotice of appointment is given, it shall be accompanied by the\nacceptance in writing of the resident agent of such appointment.\n(4)\nThe Authority may, at any time, refuse or reject any\nnotice of an appointment which it considers is not in compliance with\nthese regulations, and in such case, the innovative technology\nrecognition holder or applicant, as the case may be, shall immediately\npropose another resident agent.\nFunctions of the\nresident agent.",
+      "metadata": {
+        "source_line_start": 431,
+        "source_line_end": 494
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Article 13. Enforcement Powers",
-      "content": "The competent authority shall have enforcement powers enabling it to take effective action against technology service providers that breach applicable requirements. Enforcement powers include the power to issue warnings and reprimands, to require technology service providers to take specified remedial action, to suspend or restrict the provision of services, to withdraw authorisation, and to impose administrative fines proportionate to the gravity of the infringement. The competent authority shall publish a statement of its enforcement policy specifying the factors taken into account in determining the appropriate enforcement response. Enforcement decisions shall be proportionate and shall take into account the impact on clients and on financial stability."
+      "title": "resident agent",
+      "content": "(1)\nIt shall be the function of the resident agent on\nbehalf of the innovative technology certification applicant or holder to:\n(a)\nact as the channel of communication between the\ninnovative technology recognition holder or applicant and the\nAuthority and other Maltese government departments and\nauthorities;\n(b)\nsign and file with the Authority and other Maltese\ngovernment departments and authorities all declarations and\nforms as may be required in terms of Maltese law; and\n(c)\nact as the legal representative of the innovative\ntechnology recognition holder or applicant for judicial\nproceedings in Malta, and any notice whether by the Authority\nor any other authority, that is sent to the resident agent at his last\nregistered address with the Authority, shall be deemed to have\nbeen duly received by and notified to the innovative technology\nrecognition holder or applicant.\n(2)\nThe resident agent shall not be held personally liable for\nnon-compliance by the innovative technology recognition holder or\napplicant with any law, nor for any misrepresentation made in any\nsubmissions or documents issued by the innovative technology\nrecognition holder or applicant, even if authenticated by the resident\nagent for the purposes of the application, certification, recognition or\nany other law, unless the resident agent has personally undertaken such\nliability for the compliance in writing or has himself wilfully or\nnegligently made a false declaration.\n(3)\nThe resident agent shall neither be responsible for any\ncourt fees, legal expenses, or any related expenses in the event of any\njudicial proceedings filed against him in his capacity as legal\nrepresentative of the innovative technology recognition holder or\napplicant or any of its officers, by whosoever they may have been filed.\n\nPowers of resident\nagent.",
+      "metadata": {
+        "source_line_start": 495,
+        "source_line_end": 535
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Article 14. Consumer Disputes",
-      "content": "Technology service providers shall implement accessible and effective complaints handling procedures enabling clients to submit complaints and receive responses within specified timeframes. Providers shall participate in any alternative dispute resolution scheme designated by the competent authority for the resolution of disputes between technology service providers and their clients. Where a dispute cannot be resolved through the provider's internal complaints process or through alternative dispute resolution, clients may pursue their claims through the competent courts. The competent authority shall monitor complaints data and dispute resolution outcomes and shall use this information to identify systemic issues and inform its supervisory priorities."
+      "title": "agent",
+      "content": "(1)\nWithout prejudice to the express powers entrusted\nto the resident agent by an innovative technology recognition holder or\napplicant in the said engagement, the resident agent shall have the\npower on behalf of the innovative technology certification holder or\n\napplicant, to:\n(a)\nsign and file applications, declarations, notices,\nreturns and any other document that may be required in terms of\nMaltese law;\n(b)\napply for the recognition or certification of an\ninnovative technology arrangement or for the registration of an\ninnovative technology service provider under these regulations\nand for the revocation or cancellation of a recognition or\ncertification or registration, and to perform any ancillary act in\nrelation thereto;\n(c)\npay all relative fees and taxes payable in terms of\nMaltese law;\n(d)\ndo all other things as may be considered\nconducive or ancillary for the certification or other form of\nrecognition or registration under the Act, these regulations or\nfor the maintenance of such recognition or registration;\n(e)\nauthenticate documents issued by the innovative\ntechnology recognition holder or applicant; and\n(f)\nreceive formal notification on behalf of the\ninnovative technology recognition holder or applicant when\nnotifications are required under the provisions of these\nregulations or any other law or any agreement:\nProvided that it shall not be lawful for the certification of\nan innovative technology arrangements or the registration of an\ninnovative technology service provider to be issued in the name of the\nresident agent, even if he is formally authorised for such purpose.\n(2)\nThe resident agent shall be deemed to have all the\nnecessary powers to enter into binding undertakings with the\nAuthority on matters relating to the recognition by the Authority on\nbehalf of the innovative technology recognition holder or applicant\nand the Authority is authorised to act accordingly:\nProvided that nothing in this Act shall imply any power\nof a resident agent to execute any document relating to an undertaking\ninvolving liability unless expressly authorised to do so in writing.\n(3)\nThe innovative technology recognition holder or\napplicant may restrict any of the above powers of the resident agent:\nProvided that where the innovative technology\nrecognition holder or applicant limits such powers, it shall file with the\nAuthority a declaration to that effect in the prescribed form issued by\nthe Authority and accessible through its website and such limitation\n\nshall not have effect with regard to third parties until it is so filed and\nrecorded in the register of recognitions published by the Authority.\n(4)\nUnless expressly prohibited from doing so in terms of his\nengagement, the resident agent may delegate and specifically appoint\nin writing another person to act in specific matters on his behalf\nprovided that in so doing the resident agent shall not in any manner be\nrelinquishing any of the functions, powers and responsibilities\nconferred on him under these regulations.\nResignation or\nremoval of resident\nagent.",
+      "metadata": {
+        "source_line_start": 536,
+        "source_line_end": 620
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Article 15. Regulatory Cooperation",
-      "content": "The competent authority shall cooperate with the Malta Financial Services Authority, MDIA, MITA, the Malta Communications Authority, and the Information and Data Protection Commissioner in the supervision of technology service providers and the development of consistent regulatory standards. Memoranda of understanding shall be maintained between the competent authority and other regulatory bodies specifying cooperation arrangements, including information sharing, joint investigations, and supervisory colleges for significant cross-sector providers. The competent authority shall contribute to Union-level regulatory developments relating to technology services and shall participate in relevant ESMA, EBA, and EIOPA working groups as appropriate."
+      "title": "agent",
+      "content": "(1)\nA resident agent may resign from his position as a\nresident agent by giving at least thirty days’ (30) notice, or such other\nshorter period as the innovative technology arrangements certification\nholder, or the Authority may consent to in writing.\n(2)\nThe innovative technology arrangements certification\nholder or applicant may remove the resident agent by giving at least\nthirty days’ (30) notice, or such other shorter period as the Authority\nmay consent to in writing.\n(3)\nThe Authority shall have the power to appoint, on a\nlimited and temporary basis, a resident agent on behalf of the\ninnovative technology arrangements certification holder in case the\npost of a resident agent is vacant for more than five (5) working days\nand the innovative technology arrangements certification holder has\nfailed to fill that vacancy within said time. Such resident agent shall\nseek to establish contact with the persons who have duties in relation to\nthe governance of the innovative technology arrangements in order that\nthey shall appoint a resident agent of their choice:\nProvided that in such case as provided in sub-regulation\n(4), the appointee shall be an advocate with a warrant to practice law in\nMalta.\n(4)\nWhere the ITA certification holder or applicant is in\ndefault of his obligations under these regulations in that the position of\na resident agent is vacant and the Authority, pursuant to sub-regulation\n(3), did not appoint a temporary resident agent within the period\nstipulated in the guidelines accessible through the website of the\nAuthority, the said Authority may, without prejudice to any other action\nthat may be taken under these regulations, apply to the Civil Court,\nFirst Hall for the appointment of a curator to act as resident agent until\nsuch time as another resident agent is appointed by the Court or the\ninnovative technology arrangements certification ceases to have effect.\n\nRight to an\neffective judicial\nremedy.",
+      "metadata": {
+        "source_line_start": 621,
+        "source_line_end": 660
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Article 16. Regulatory Technology",
-      "content": "The competent authority shall promote the use of regulatory technology (RegTech) to improve the efficiency and effectiveness of regulatory compliance by technology service providers and to enhance the competent authority's own supervisory capabilities. Technology service providers are encouraged to use automated compliance monitoring, smart contract-based regulatory reporting, and other innovative approaches to demonstrating compliance with applicable requirements. The competent authority shall engage with technology service providers and technology developers to understand emerging RegTech solutions and to assess their suitability for integration into the regulatory framework. Malta shall participate in relevant Union-level initiatives on supervisory technology and regulatory technology."
+      "title": "Malta",
+      "content": "The provisions of Part IX of the Act shall apply to\ndecisions taken by the Authority pursuant to these regulations.\n\nNo exemption\nfrom other laws.",
+      "metadata": {
+        "source_line_start": 661,
+        "source_line_end": 667
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "from other laws",
+      "content": "Unless expressly stated in the Act or any European Union\nlegislation or any other law, nothing in these regulations shall be\n\nconsidered as exempting any innovative technology arrangements or\nany innovative technology service provider from the provisions of any\nother law, including other regulatory laws requiring authorisations or\napprovals:\nProvided that, in the event that a requirement under these\nregulations is similar in scope to that under another law and has been\nsatisfactorily satisfied by an applicant, the Authority may, if necessary\nwith the written consent of the applicant, co-ordinate with the other\nnational competent authorities and rely on the submissions and\nprocesses being carried out by the other authorities in carrying out its\nduties under these regulations.",
+      "metadata": {
+        "source_line_start": 668,
+        "source_line_end": 693
+      }
     }
   ],
   "definitions": [
     {
-      "term": "technology service provider",
-      "definition": "A natural or legal person providing technology services in relation to innovative technology arrangements, including technology exchanges, VFA wallet services, portfolio management services, and other specified categories of technology service.",
-      "source_provision": "art2"
+      "term": "the Act",
+      "definition": "the Malta Digital Innovation Authority",
+      "source_provision": "s2"
     },
     {
-      "term": "smart contract",
-      "definition": "A computer programme or transaction protocol stored on a distributed ledger that automatically executes, controls, or documents legally relevant events and actions according to the terms of a contract or agreement.",
-      "source_provision": "art6"
+      "term": "the Authority",
+      "definition": "the Malta Digital Innovation",
+      "source_provision": "s2"
     },
     {
-      "term": "operational resilience",
-      "definition": "The ability of a technology service provider to build, assure, and review its operational integrity and reliability by ensuring that all disruptions to the continuity of critical services are prevented, responded to, and recovered from, through the deployment of appropriate ICT capabilities.",
-      "source_provision": "art10"
+      "term": "officer",
+      "definition": "an officer or any person who is",
+      "source_provision": "s2"
+    },
+    {
+      "term": "The Authority shall determine the",
+      "definition": "of application",
+      "source_provision": "s10"
     }
   ]
 }

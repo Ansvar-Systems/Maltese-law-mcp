@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-314-mlt",
+  "type": "statute",
+  "title": "Att dwar ir-Ratifika tal-Konvenzjoni Internazzjonali imsejħa l-International Convention for the Safety of Life at Sea",
+  "title_en": "Att dwar ir-Ratifika tal-Konvenzjoni Internazzjonali imsejħa l-International Convention for the Safety of Life at Sea",
+  "short_name": "Kap. 314",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1986-07-18",
+  "url": "https://legislation.mt/eli/cap/314/19860718/mlt",
+  "description": "Official text from legislation.mt (eli/cap/314/mlt, expression eli/cap/314/19860718/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "International Convention for the Safety of Life at Sea",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar ir-Ratifika talKonvenzjoni Internazzjonali msejħa l-International Convention for\nthe Safety of Life at Sea.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "International Convention for the Safety of Life at Sea",
+      "content": "F’dan l-Att -\n\nTitolu fil-qosor.\n\nTifsir.\n\n\"Konvenzjoni\" tfisser il-konvenzjoni internazzjonali msejħa lInternational Convention for the Safety of Life at Sea iffirmata\nf ’Londra fl-1 ta’ Novembru, 1974 u l-Protokol tagħha ffirmat\nf’Londra fis-17 ta’ Frar, 1978.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Bis-saħħa ta’ dan l-Att, u skont id-disposizzjonijiet tal-Att\ndwar ir-Ratifika ta’ Trattati, il-Gvern ta’ Malta huwa awtorizzat li\njaċċedi għall-Konvenzjoni.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 410 tat-18 ta’ Lulju, 1986.\n\nAwtorizzazzjoni ta’\naċċessjoni għallKonvenzjoni.\nKap. 304.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

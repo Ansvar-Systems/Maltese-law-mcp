@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-465-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kumitat li jagħti Pariri fuq il-Politika ta’ Immunizzazzjoni",
+  "title_en": "Regolamenti dwar Kumitat li jagħti Pariri fuq il-Politika ta’ Immunizzazzjoni",
+  "short_name": "eli/sl/465.5/mlt",
+  "status": "repealed",
+  "issued_date": "2012-02-27",
+  "in_force_date": "2012-02-27",
+  "url": "https://legislation.mt/eli/sl/465.5/20120227/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.5/mlt, expression eli/sl/465.5/20120227/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 253 tal-2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nKumitat li jagħti Pariri fuq il-Politika ta’ Immunizzazzjoni.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għandu jitwaqqaf mill-Ministru responsabbli għas-saħħa\nKumitat li jagħti Pariri fuq il-Politika ta’ Immunizzazzjoni, hawn\niŜjed ’il quddiem imsejjaħ \"il-Kumitat\".\n\nTwaqqif ta’\nKumitat.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kumitat",
+      "content": "Ikun id-dmir tal-Kumitat li:\n(a\n\niāib ’il quddiem konoxxenza tal-programm\nimmunizzazzjoni, u sostenn għalih, fost\nprofessjonisti u l-pubbliku āenerali;\n\nta’\nil-\n\nDmirijiet talKumitat.\n\n(b) iŜomm ruħu aāāornat dwar l-aħħar riëerka fl-iŜvilupp\ntal-vaëëini;\n(ë) jagħti parir lis-Suprintendent tas-Saħħa Pubblika dwar\nil-prioritajiet li għandhom japplikaw fil-programm ta’\nvaëëinazzjoni fi Ŝmien qasir, medju u fit-tul;\n(d) jiŜviluppa\nrakkomandazzjonijiet\ndwar\namministrazzjoni ta’ vaëëini li tingħata b’rutina;\n\nl-\n\n(e) joħroā linji direttivi dwar dosaāā, perjodiëità u kontraindikazzjonijiet li japplikaw għal vaëëini individwali;",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Dmirijiet talKumitat",
+      "content": "(f)\n\njagħti pariri skont ma jista’ jiāi mitlub jagħmel misSuprintendent tas-Saħħa Pubblika.\n\n(1)\n\nIl-Kumitat għandu jkun magħmul kif āej:\n\n(a) president li jiāi nominat mis-Suprintendent tas-Saħħa\nPubblika;\n\nGħamla talKumitat.\n\n(b) speëjalista fil-Mediëina tas-Saħħa Pubblika;\n(ë) speëjalista fil-Pedjatrija;\n(d) speëjalista fil-Viroloāija;\n(e) speëjalista fil-Mikrobioloāija/Batterjoloāija;\n(f)\n\nspeëjalista fil-Mard Infettiv;\n\n(g) spiŜjar.\n(2) Għandu jkun hemm Segretarju tal-Kumitat li jinħatar misSuprintendent tas-Saħħa Pubblika.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 80
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "(g) spiŜjar",
+      "content": "Il-Kumitat għandu jirregola l-proëedura tiegħu nnifsu.\n\nRegolament talproëedura.",
+      "metadata": {
+        "source_line_start": 81,
+        "source_line_end": 90
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-399-17-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Tmiem ta' Privileġġi Esklużivi fl-1 ta' Ġunju, 2001",
+  "title_en": "Ordni dwar Tmiem ta' Privileġġi Esklużivi fl-1 ta' Ġunju, 2001",
+  "short_name": "eli/sl/399.17/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/399.17/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/399.17/mlt, expression eli/sl/399.17/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 46 ta’ l-2001",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Tmiem ta’\nPrivile[[i Esklu\\ivi fl-1 ta’ Marzu, 2001.",
+      "metadata": {
+        "source_line_start": 9,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]all-finijiet ta’ l-artikolu 44(3) ta’ l-Att biex jirregola\nKomunikazzjonijiet Elettroni`i, l-1 ta’ Marzu, 2001 [iet stabbilita\nb]ala d-data meta dawn il-privile[[i esklu\\ivi li [ejjin dwar ittmexxija ta’ xi sistemi ta’ komunikazzjonijiet elettroni`i jew dwar\nil-provvista ta’ xi servizzi ta’ komunikazzjonijiet elettroni`i hekk\nkif setg]u [ew mog]tija f ’xi jew ta]t xi li[i, li`enza,\nawtorizazzjoni, kuntratt jew istrument ie]or g]andhom itemmu\nmilli jibqg]u je\\istu:\n\nTmiem ta’\nprivile[[i\nesklu\\ivi.\nKap. 399.\n\nIl-privile[[i esklu\\ivi kollha g]at-t]addim ta’ sistemi ta’\nkomunikazzjonijiet elettroni`i u g]all-provvsta ta’ servizzi ta’\nkomunikazzjonijiet elettroni`i mog]tija lill-kumpannija Telepage\nLimited bis-sa]]a tal-Ftehim dwar il-Li`enza tal-11 ta’ Marzu tassena elf disa’ mija erbg]a w disg]in (1994) u tat-2 ta’ Settembru\ntas-sena elf disa’ mija u tmienja u disg]in (1998) u tal-ftehim tal-31\nta’ Lulju tas-sena elf disa’ mija u tmienja u disg]in (1998).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mt-cap-115-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar it-Tirżin fl-Użu tal-George Cross",
+  "title_en": "Ordinanza dwar it-Tirżin fl-Użu tal-George Cross",
+  "short_name": "Kap. 115",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1943-08-25",
+  "url": "https://legislation.mt/eli/cap/115/20080101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/115/mlt, expression eli/cap/115/20080101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-1990; u bl-Avviż Legali 409 tal-2007",
+      "content": "It-titolu fil-qosor ta’ din l-Ordinanza huwa l-Ordinanza\ndwar it-Tirżin fl-Użu tal-George Cross.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Minn mindu tibda sseħħ din l-Ordinanza ħadd ma jkun\njista’ jagħmel użu jew jibqa’ jagħmel użu għal għanijiet tannegozju jew kummerċ tiegħu jew għal kull għan ieħor li jkun,\nmingħajr l-awtorizzazzjoni tal-Prim Ministru, mill-emblema talGeorge Cross, jew xi sura li tista’ tixxebbah jew mill-kelmiet\n\"George Cross\" sew jekk waħedhom jew flimkien ma’ xi kelma jew\nkelmiet oħra, u, jekk xi ħadd jikser din id-disposizzjoni, huwa jkun\nħati ta’ reat kontra din l-Ordinanza, u, jekk jinsab ħati mill-Qorti\ntal-Maġistrati, jeħel multa ta’ mhux anqas minn mija u sittax-il\neuro u sebgħa u erbgħin ċenteżmu (116.47), u mhux iżjed minn\nerba’ mija u ħamsa u sittin euro u sebgħa u tmenin ċenteżmu\n(465.87), u jista’ jitlef l-oġġetti li fuqhom jew dwarhom l-emblema\njew kelmiet kienu ġew użati:\n\nProjbizzjoni talużu tal-emblema\ntal-George Cross,\neċċ.\nEmendat:\nA.L. 4 tal-1963;\nA.L. 46 tal-1965;\nLVIII. 1974.68;\nXIII. 1983.5;\nVIII. 1990.3;\nA.L. 409 tal-2007.\n\nIżda meta dik l-emblema jew dawk il-kelmiet kienu laħqu\nġew użati f’jum l-għoti tal-kunsens u, fi żmien xahar mill-jum li fih\ndin l-Ordinanza tibda sseħħ, issir talba bil-miktub lill-President ta’\nMalta għall-awtorizzazzjoni sabiex jibqgħu jintużaw dik l-emblema\njew dawk il-kelmiet, jitqies illi l-persuna fil-kwistjoni għandha lawtorizzazzjoni provviżorja li tagħmel użu minn dik l-emblema\njew dawk il-kelmiet, skond il-każ, sa ma dik il-persuna ssir taf\nb’dak li l-President ta’ Malta jkun qata’ fuq it-talba tagħha.\n(2) Il-Prim Ministru jista’, f’kull żmien, fid-diskrezzjoni\nassoluta tiegħu, ibiddel jew iħassar 1-awtorizzazzjoni minnu\nmogħtija qabel taħt is-subartikolu (1).",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 54
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "mogħtija qabel taħt is-subartikolu (1)",
+      "content": "Meta kumpannija jew xirka tkun ħatja ta’ ksur tal-artikolu\n2, kull direttur, manager, segretarju u persuna oħra b’kariga filkumpannija jew xirka li bid-dehen tkun ħadet sehem fil-ksur ta’ din\nil-liġi, tkun ħatja kontra din l-Ordinanza u teħel l-istess piena.\n\nMeta l-ħtija ssir\nminn kumpannija\njew xirka.",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jew xirka",
+      "content": "Ma jittieħdu ebda proċedimenti taħt din 1-Ordinanza\nmingħajr il-kunsens tal-Avukat Ġenerali.\n\nKunsens talAvukat Ġenerali\ngħall-proċedimenti\ntaħt din lOrdinanza.\nEmendat:\nA.L. 46 tal-1965;\nLVIII. 1974.68.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 410 tal-31 ta’ Awissu, 1943.\n\n[ KAP. 115.\n\nProjbizzjoni ta’\nreġistrar ta’ \"trade\nmarks\" li jkun\nfihom dik lemblema, eċċ.\nEmendat:\nA.L. 4 tal-1963;\nXI. 1977.2.\nKap. 29.\n\nTIRŻIN FL-UŻU TAL-GEORGE CROSS",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 92
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "TIRŻIN FL-UŻU TAL-GEORGE CROSS",
+      "content": "Għall-għanijiet tal-artikolu 93 tal-Ordinanza dwar ilProtezzjoni tal-Proprjetà Industrijali, il-Kontrullur ma jirreġistra\nebda \"trade mark\" li jkun fiha l-imsemmijin emblema jew kelmiet\nmingħajr l-awtorizzazzjoni speċjali tal-Prim Ministru li d-deċiżjoni\ntiegħu tkun finali.",
+      "metadata": {
+        "source_line_start": 93,
+        "source_line_end": 100
+      }
+    }
+  ],
+  "definitions": []
+}

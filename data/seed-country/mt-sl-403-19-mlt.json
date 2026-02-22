@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Reinsurance Special Purpose Vehicles",
+  "title_en": "Regolamenti dwar Reinsurance Special Purpose Vehicles",
+  "short_name": "eli/sl/403.19/mlt",
+  "status": "in_force",
+  "issued_date": "2014-01-08",
+  "in_force_date": "2014-01-08",
+  "url": "https://legislation.mt/eli/sl/403.19/20140108/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.19/mlt, expression eli/sl/403.19/20140108/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "RE-INSURANCE SPECIAL PURPOSE VEHICLES\n\n[ L.S.403.19\n\nLEĠISLAZZJONI SUSSIDJARJA 403.19\nREGOLAMENTI DWAR\nRE-INSURANCE SPECIAL PURPOSE VEHICLES*\n22 ta’ April, 2016\nL-AVVIŻ LEGALI 130 tal-2016.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

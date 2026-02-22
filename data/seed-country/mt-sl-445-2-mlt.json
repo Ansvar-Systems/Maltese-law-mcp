@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-445-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Siġar Storiċi u Antiki",
+  "title_en": "Ordni dwar Siġar Storiċi u Antiki",
+  "short_name": "eli/sl/445.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/445.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/445.2/mlt, expression eli/sl/445.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 269 ta’ l-1933",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Si[ar Stori`i u\nAntiki.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Is-si[ar l-aktar importanti li g]andhom jkunu protetti milli[i huma mni\\\\la fl-Iskeda ta’ dan l-Ordni.\n\nSi[ar protetti.\n\n(Artikolu 2)\nLista ta’ si[ar protetti mil-li[i",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-grupp ta’ si[ar ta\\-\\ebbu[ qodma (Olea europaca) li\nhemm fuq l-artijiet tal-Bidnija, vi`in l-Wardija.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Is-si[ar li [ejjin fil-Buskett:\n(a) is-si[ar tal-ballut vi`in it-triq prin`ipali.\n(b) is-si[ar il-kbar tal-fraxxnu (Fraxinus excelsior) filwied.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "(b) is-si[ar il-kbar tal-fraxxnu (Fraxinus excelsior) filwied",
+      "content": "Is-si[ar li [ejjin fil-{onna ta’ Sant’Anton:\n(a) is-si[ra l-kbira ta’ l-ar\\nu (Pinus halepensis) fuq wara\ntal-Palazz;\n(b) is-si[ra kolossali (Gleditschia triachanthos, ar.\ninermis) u is-si[ra l-qadima eritrina indjana (Erythrina\nindica), it-tnejn fil-[onna privati;\n(`) il-grupp ta’ si[ar ta’ l-ar\\nu vi`in l-istazzjon tal-pompi\nfit-triq prin`ipali;\n(d) it-tliet Araukarja ex`elsa kbar fil-[onna privati;\n(e) is-seba’ si[ar ta`-`ipress (Cypressus sempervirens\npyramidalis) u l-erba’ si[ar ta`-`ipress (Cupressus\nsempervirens horizontalis) fil-parti `entrali tal-[onna\npubbli`i;\n(f)\n\nis-si[ar ta\\-\\ebbu[ qodma fil-[onna msemmija.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "is-si[ar ta\\-\\ebbu[ qodma fil-[onna msemmija",
+      "content": "Is-si[ar il-kbar ta’ l-ar\\nu fil-{onna tal-Mall fil-bastjun ta’\nSan Filippu l-Furjana.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

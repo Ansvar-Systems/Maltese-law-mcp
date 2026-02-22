@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-552-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ippjanar tal-Iżvilupp (Obbligazzjoni dwar l-Ippjanar)",
+  "title_en": "Regolamenti dwar l-Ippjanar tal-Iżvilupp (Obbligazzjoni dwar l-Ippjanar)",
+  "short_name": "eli/sl/552.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
+  "url": "https://legislation.mt/eli/sl/552.11/20101221/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.11/mlt, expression eli/sl/552.11/20101221/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 347 tal-2009",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIppjanar tal-I\\vilupp (Obbligazzjoni dwar l-Ippjanar).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ebda obbligazzjoni dwar l-ippjanar li tkun timponi xi ]las,\nkif indikat fl-artikolu 77(1)(b) tal-Att dwar l-Ippjanar ta’ lI\\vilupp, ma’ tista’ ti[i imposta fuq applikant g]al permess ta’\n\\vilupp dwar \\vilupp li jkollu sinifikat nazzjonali jew strate[iku\njew dwar \\vilupp li jkun jolqot materji ta’ sigurezza nazzjonali.\n\nMa tista’ ti[i\nimposta ebda\nobbligazzjoni dwar\nl-ippjanar.\nKap. 552.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

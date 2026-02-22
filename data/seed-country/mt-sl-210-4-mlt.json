@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-210-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Impieg Part-time ta' Persuni b'Diżabilità",
+  "title_en": "Regolamenti dwar l-Impieg Part-time ta' Persuni b'Diżabilità",
+  "short_name": "eli/sl/210.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/210.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/210.4/mlt, expression eli/sl/210.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 159 ta’ l-1995, kif emendat bl-Avviż Legali 320 tal2019",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lImpieg Part-time ta’ Persuni b’Diżabilità.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Fil-kalkolu tan-numru ta’ persuni fl-impieg ta’ xi\npersuna li għaliha japplika l-artikolu 15 ta’ l-Att dwar l-Impieg ta’\nPersuni b’Diżabilità, għandhom iseħħu d-disposizzjonijiet li ġejjin:\n\nSafejn japplika lartikolu 15.\nKap. 210.\nEmendat:\nA.L. 320 tal-2019.\n\n(a) persuna li l-impieg tagħha jkun reġistrat bħala part-time\ngħandha tingħadd bħala nofs unità;\n(b) persuna li l-impieg tagħha jkun reġistrat bħala full-time\nimnaqqas għandha tingħadd bħala nofs unità;\n(ċ) persuna li l-impieg tagħha jkun ordinarjament jinvolvi\niżjed minn tletin siegħa servizz fil-ġimgħa għandha\ntingħadd bħala unità waħda.\n(2) Meta persuna tkun impjegata mill-istess prinċipal in parti fi\nklassi waħda ta’ impieg u in parti fi klassi jew klassijiet oħra ta’\nimpieg, f’dak il-każ, għall-fini tas-subregolament (1) (a) in-numru ta’ sigħat ta’ servizz ordinarjament involuti\nfl-impieg tagħha minn dak il-prinċipal għandu\njittieħed li jkun in-numru hekk involut fil-klassijiet\nkollha ta’ l-impieg li hi tkun qed taħdem fihom; u\n(b) jekk perċentaġġ differenti jkun f’xi żmien applikabbli\ngħall-klassijiet diversi ta’ impieg li hi tkun qed taħdem\nfihom, hi għandha titqies li tkun impjegata għall-ħin\nkollu f’dik il-klassi ta’ impieg li għaliha japplika logħla perċentaġġ.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

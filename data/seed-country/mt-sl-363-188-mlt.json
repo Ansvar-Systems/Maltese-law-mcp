@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-363-188-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Kontroll tal-Ħamiem (Kunsill Lokali Birkirkara)",
+  "title_en": "Bye-Laws dwar Kontroll tal-Ħamiem (Kunsill Lokali Birkirkara)",
+  "short_name": "eli/sl/363.188/mlt",
+  "status": "in_force",
+  "issued_date": "2017-10-16",
+  "in_force_date": "2017-10-16",
+  "url": "https://legislation.mt/eli/sl/363.188/20171016/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.188/mlt, expression eli/sl/363.188/20171016/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 14/8/2017",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar\nKontroll tal-Ħamiem (Kunsill Lokali Birkirkara).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieg xort’oħra:\n\nTifsir.\n\n''l-Att'' tfisser l-Att dwar Gvern Lokali;\n\nKap. 363\n\n\"ħamiem domestiku'' tfisser ħamiem li jkun miżmum f’post ta’\nabitazzjoni jew xi post ieħor għal skop ta’ rikreazzjoni, passatemp\njew sport;\n''ħamiem selvaġġ'' tfisser ħamiem li ma jkunx ħamiem\ndomestiku;\n''il-Kunsill'' tfisser il-Kunsill Lokali ta’ Birkirkara;\n''Lokalità'' tfisser il-lokalità ta’ Birkirkara kif murija fit-Tieni\nSkeda li tinsab mal-Att.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Skeda li tinsab mal-Att",
+      "content": "F’kull parti tal-lokalità hu projbit li persuna titma’\nħamiem selvaġġ.\n\nMhux permess li\npersuna titma’\nħamiem selvaġġ.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Skeda li tinsab mal-Att",
+      "content": "Il-propjetarji ta’ proprjetà immobbli ġewwa l-lokalita’ li\nma tkunx abitata, għandhom jiżguraw li l-imsemmija proprjetà tkun\nimbarrata b’tali mod li ma jkunux jistgħu jidħlu jew ibejjet ħamiem\nselvaġġ ġewwa fiha.\n\nPropjretà immobbli\nabbandunata.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 58
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "abbandunata",
+      "content": "1 Kull persuna li tikser xi dispożizzjonijiet ta’ dawn ilBye-Laws tkun ħatja ta’ kontravvenzjoni u tista’, meta tinsab ħatja,\nsakemm ma tkunx applikabbli piena ogħla taħt xi liġi oħra, teħel:",
+      "metadata": {
+        "source_line_start": 59,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

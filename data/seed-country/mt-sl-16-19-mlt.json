@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-16-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Applikazzjoni tat-Tieni Skeda li tinsab mal-Kodiċi Ċivili",
+  "title_en": "Regolamenti dwar l-Applikazzjoni tat-Tieni Skeda li tinsab mal-Kodiċi Ċivili",
+  "short_name": "eli/sl/16.19/mlt",
+  "status": "in_force",
+  "issued_date": "2023-03-15",
+  "in_force_date": "2023-03-10",
+  "url": "https://legislation.mt/eli/sl/16.19/20230310/mlt",
+  "description": "Official text from legislation.mt (eli/sl/16.19/mlt, expression eli/sl/16.19/20230310/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 57 tal-2023",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nl-Applikazzjoni tat-Tieni Skeda li tinsab mal-Kodiċi Ċivili.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Huwa b’dan ipprovdut li sabiex jiġi evitat id-dubju\norganizzazzjonijiet iffurmati skont id-dispożizzjonijiet tal-artikolu 7A\ntal-Att dwar Dipendenza fuq id-Droga (Trattament mhux Priġunerija)\ngħandhom ikunu rregolati mid-dispożizzjonijiet tat-Tieni Skeda li\ntinsab mal-Kodiċi Ċivili safejn dawk id-dispożizzjonijiet japplikaw\ngħall-assoċjazzjonijiet, sal-limitu kif provdut fir-Regolamenti dwar lUżu Responsabbli tal-Kannabis (Liċenzjar tal-Organizzazzjonijiet).\n\nGħan.\nKap. 537.\n\nL.S. 628.01.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

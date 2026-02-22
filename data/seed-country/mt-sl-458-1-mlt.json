@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Suġġetti ta' l-Eżami għal Assistenti Spiżjara",
+  "title_en": "Regolamenti dwar Suġġetti ta' l-Eżami għal Assistenti Spiżjara",
+  "short_name": "eli/sl/458.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.1/mlt, expression eli/sl/458.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 60 ta’ l-1922",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nSu[[etti ta’ l-E\\ami g]al Assistenti Spi\\jara.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Su[[etti ta’ l-E\\ami g]al Assistenti Spi\\jara",
+      "content": "Is-su[[etti ta’ l-e\\ami g]al assistenti spi\\jara jkunu dawn\nli [ejjin:\n\n(a) l-ismijiet, il-kliem u l-indikazzjonijiet sempli`i bilLatin li soltu jintu\\aw fl-ispi\\eriji; is-simboli diversi li\njintu\\aw fir-ri`etti tat-tobba; it-tifsir tag]hom, l-u\\u\ntag]hom u l-proporzjon bejniethom li g]andu jkun\nhemm fil-pi\\ u fil-kapacità;\n\n(b) il-medi`ini diversi tal-British Pharmacopoeia, u\nrendikont e\\att, fi kliem tekni`i, ta’ l-apparenza, ttog]ma u r-ri]a tag]hom; id-do\\a u l-inkompatibilità;\n\n(`) il-preparazzjoni uffi`jali ta’ dawn il-medi`ini; ilkomposizzjoni, l-apparenza u d-do\\a tag]hom u lkwantitajiet proporzjonali ta’ l-ingredjenti filpreparazzjonijiet l-aktar importanti;\n(d) sustanzi velenu\\i: l-ismijiet, karatteristi`i u do\\i\nperikulu\\i u l-antidoti tag]hom, jew il-mi\\uri li\ng]andhom jittie]du f’ka\\ijiet ta’ avvelenament;\n\n(e) ri`etti tat-tobba: il-qari tag]hom u il-qis, l-u\\in u lkomposizzjoni tal-medi`ini, u kif ji[u mmarkati\nb’kitba `ara u li tinqara.\n\nTitolu.\nSu[[etti ta’ le\\ami.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

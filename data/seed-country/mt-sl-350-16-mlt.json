@@ -1,0 +1,105 @@
+{
+  "id": "mt-sl-350-16-mlt",
+  "type": "statute",
+  "title": "Ħtiġiet dwar Standards u Prattika dwar Kif Għandhom ikunu rappurtati Traġedji fix-Xandir",
+  "title_en": "Ħtiġiet dwar Standards u Prattika dwar Kif Għandhom ikunu rappurtati Traġedji fix-Xandir",
+  "short_name": "eli/sl/350.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.16/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.16/mlt, expression eli/sl/350.16/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Da]la",
+      "content": "L-Awtorità tax-Xandir approvat dawn il-]ti[iet biex\niservu, skond kif jg]oddu, ta’ g]ajnuna g]ax-xandara tattelevi\\joni u tar-radju fir-rappurta[[ ta’ tra[edji fix-xandir.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Il-Vittma",
+      "content": "Meta jkun hemm tra[edja, il-[rajja tolqot l-ewwelnett\nlill-vittma u lill-qraba/]bieb tag]ha. Malli l-a]bar to]ro[, tolqot\ndirettament l-udjenza.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "}TI{IET DWAR STANDARDS U PRATTIKA\nDWAR KIF G}ANDHOM IKUNU RAPPURTATI\nTRA{EDJI FIX-XANDIR\nIl-Qraba",
+      "metadata": {
+        "source_line_start": 78,
+        "source_line_end": 84
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "It-Telespettatur",
+      "content": "It-telespettatur g]andu l-jedd g]al rappurta[[ [ust ta’\nstorja msawra tajjeb bla ma jkollu jsofri sensazzjonali\\mu fqir.",
+      "metadata": {
+        "source_line_start": 123,
+        "source_line_end": 125
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "li t-tra[edja [[ib mag]ha",
+      "content": "Verifika tal-Fatti\n\n}TI{IET DWAR STANDARDS U PRATTIKA\nDWAR KIF G}ANDHOM IKUNU RAPPURTATI\nTRA{EDJI FIX-XANDIR",
+      "metadata": {
+        "source_line_start": 138,
+        "source_line_end": 148
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Suwi`idji",
+      "content": "Is-suwi`idju ma g]andux jissemma ]lief f’`irkostanzi\nstraordinarji. Importanti ]afna li jin]arbu detttalji ta’ suwi`idji\nmeta jkun hemm xi aspett [did li jista’ jkun ikkupjat. Wie]ed irid\nukoll joqg]od attent g]all-kliem li jag]\\el biex jiddeskrivi l-[rajja.",
+      "metadata": {
+        "source_line_start": 156,
+        "source_line_end": 160
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "ukoll joqg]od attent g]all-kliem li jag]\\el biex jiddeskrivi l-[rajja",
+      "content": "tat-tfal.\n\nIt-Tfal\nIx-xandara g]andhom jag]tu ka\\ fuq kollox id-djug]fija",
+      "metadata": {
+        "source_line_start": 162,
+        "source_line_end": 167
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Punti O]rajn",
+      "content": "{rajjiet tra[i`i ma g]andhomx ji[u sfruttati g]al\nra[unijiet politi`i, skopijiet o]ra jew xi a[enda mo]bija.",
+      "metadata": {
+        "source_line_start": 197,
+        "source_line_end": 199
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "G]eluq",
+      "content": "G]andu jkun biss l-interess pubbliku li jo]loq le``ezzjoni g]al dawn ir-regoli ta’ m[iba.\n\n}TI{IET DWAR STANDARDS U PRATTIKA\nDWAR KIF G}ANDHOM IKUNU RAPPURTATI\nTRA{EDJI FIX-XANDIR",
+      "metadata": {
+        "source_line_start": 213,
+        "source_line_end": 226
+      }
+    }
+  ],
+  "definitions": []
+}

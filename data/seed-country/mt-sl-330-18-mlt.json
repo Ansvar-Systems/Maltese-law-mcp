@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Malta Financial Services Authority Act (Packaged Retail and Insurance-Based Investment Products (PRIIPs))",
+  "title_en": "Regolamenti dwar Malta Financial Services Authority Act (Packaged Retail and Insurance-Based Investment Products (PRIIPs))",
+  "short_name": "eli/sl/330.18/mlt",
+  "status": "in_force",
+  "issued_date": "2022-06-22",
+  "in_force_date": "2022-06-17",
+  "url": "https://legislation.mt/eli/sl/330.18/20220617/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.18/mlt, expression eli/sl/330.18/20220617/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MALTA FINANCIAL SERVICES AUTHORITY ACT\n(PACKAGED RETAIL AND INSURANCE-BASED\nINVESTMENT PRODUCTS (PRIIPS))\n\n[ L.S.330.18\n\nLEĠISLAZZJONI SUSSIDJARJA 330.18\nREGOLAMENTI DWAR MALTA FINANCIAL\nSERVICES AUTHORITY ACT (PACKAGED RETAIL\nAND INSURANCE-BASED INVESTMENT\nPRODUCTS (PRIIPS))\n17 ta’ Ġunju, 2022\n\nL-AVVIŻ LEGALI 178 tal-2022.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

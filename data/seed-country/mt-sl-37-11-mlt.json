@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-37-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Projbizzjoni ta' Importazzjoni ta' Fibri ta' l-Asbestos",
+  "title_en": "Regolamenti dwar il-Projbizzjoni ta' Importazzjoni ta' Fibri ta' l-Asbestos",
+  "short_name": "eli/sl/37.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.11/mlt, expression eli/sl/37.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 129 ta’ l-1994",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProjbizzjoni ta’ Importazzjoni ta’ Fibri ta’ l-Asbestos.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 129 ta’ l-1994",
+      "content": "}add ma jista’ jimporta [ewwa Malta jew jo]ro[ minn\ndepo\\t fibri zfu\\i ta’ l-asbestos.\n\nTitolu.\nProjbizzjoni ta’\nimportazzjoni ta’\nfibri ta’ l-asbestos.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 27
+      }
+    }
+  ],
+  "definitions": []
+}

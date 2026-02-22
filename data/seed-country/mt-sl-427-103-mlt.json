@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-103-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Labelling of Tyres with respect to Fuel Efficiency and Other Parameters (Implementing) Regulations",
+  "title_en": "Regolamenti dwar Labelling of Tyres with respect to Fuel Efficiency and Other Parameters (Implementing) Regulations",
+  "short_name": "eli/sl/427.103/mlt",
+  "status": "in_force",
+  "issued_date": "2021-08-09",
+  "in_force_date": "2021-08-06",
+  "url": "https://legislation.mt/eli/sl/427.103/20210806/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.103/mlt, expression eli/sl/427.103/20210806/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "LABELLING OF TYRES WITH RESPECT TO FUEL\nEFFICIENCY AND OTHER PARAMETERS\n(IMPLEMENTING)\n\n[ L.S. 427.103\n\nLEĠISLAZZJONI SUSSIDJARJA 427.103\nREGOLAMENT DWAR LABELLING OF TYRES\nWITH RESPECT TO FUEL EFFICIENCY AND OTHER\nPARAMETERS (IMPLEMENTING)\n6 ta’ Awwissu 2021\nL-AVVIŻ LEGALI 323 tal-2021.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

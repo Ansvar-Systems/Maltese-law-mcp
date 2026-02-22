@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-452-139-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali",
+  "title_en": "Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali",
+  "short_name": "eli/sl/452.139/mlt",
+  "status": "in_force",
+  "issued_date": "2026-01-19",
+  "in_force_date": "2026-01-01",
+  "url": "https://legislation.mt/eli/sl/452.139/20260101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.139/mlt, expression eli/sl/452.139/20260101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 289 tal-2025",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Standard\nNazzjonali dwar l-Inqas Paga Nazzjonali.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-ordni, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfiser l-Att dwar l-Impiegi u r-Relazzjonijiet\nIndustrijali;\n\nKap. 452.\n\n\"Ftehim\" tfisser in-National Agreement on the Minimum\nWage Recommendations by the Low Wage Commission\niffirmat fil-25 ta’ Ottubru 2023 bejn il-Gvern, it-trade unions u\norganizzazjonijiet ta’ prinċipali kif rappreżentati fil-Kunsill\nMalti għall-Iżvilupp Ekonomiku u Soċjali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-inqas paga nazzjonali fil-ġimgħa għal ġimgħa normali\nta’ xogħol għandha tkun skont l-istess Ftehim kif ġej:\n\nL-inqas paga\nnazzjonali.\n\nTa’ età tmintax (18)-il sena u fuqhom …………….........€229.44\nTa’ età sbatax (17)-il sena ……………………….........€222.66\nTa’ età taħt is-sbatax (17)-il sena…………………...…€219.82",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Ta’ età taħt is-sbatax (17)-il sena…………………...…€219.82",
+      "content": "L-inqas paga nazzjonali ta’ impjegati part-time għandha\ntkun ikkalkulata pro rata bl-istess rata fis-siegħa ta’ impjegat\nkomparabbli whole-time li tkun tapplika skont l-inqas paga tal-Ordni\ntal-Kunsill tal-Pagi li Jirregola l-Pagi rilevanti, jew f’każijiet fejn\nOrdni tal-Kunsill tal-Pagi li Jirregola l-Pagi ma tkunx tapplika, b’rata\nfis-siegħa li ma tkunx anqas mill-Inqas Paga Nazzjonali Standard li\ntkun tapplika, kif stabbilita skont l-artikolu preċedenti u diviża\nb’erbgħin (40).",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Impjegati parttime",
+      "content": "Fejn kwalunkwe Ordni tal-Kunsill tal-Pagi li Jirregola lPagi jkun japplika għal xi impjegat, il-pagi li jitħallsu lil tali impjegat\nfir-rigward tal-2026 ma għandhomx ikunu anqas minn dawk stabbiliti\nb’tali Ordni tal-Kunsill tal-Pagi li Jirregola l-Pagi applikabbli għal\n2025, aġġustat għall-għoli tal-ħajja b’xi żidiet ta’ pagi dikjarati bħala li\njkunu ġeneralment applikabbli għall-impjegati whole-time kollha\nskont l-artikolu 8 tal-Att, jew b’xi żidiet fil-paga għall-għoli tal-ħajja\nstabbilita b’xi ordni ta’ standard nazzjonali applikabbli fir-rigward tal2026.\n\nOrdnijiet talKunsilli tal-Pagi li\njirregolaw il-Pagi.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 71
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-10-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Applikazzjonijiet għal Baned Mużikali",
+  "title_en": "Ordni dwar Applikazzjonijiet għal Baned Mużikali",
+  "short_name": "eli/sl/10.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.1/mlt, expression eli/sl/10.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| TAL-PULIZIJA tat-3 ta’ Frar, 1898",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Applikazzjonijiet\ng]al Baned Mu\\ikali.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "g]al Baned Mu\\ikali",
+      "content": "Applikazzjonijiet biex jitwa]]lu arbli f’toroq, pjazzez u\ntriqat pubbli`i f’okka\\jonijiet ta’ festi pubbli`i, g]al baned\nmu\\ikali, jew biex ji[u sparati murtaretti ma ji[ux kunsidrati jekk\ndawn l-applikazzjonijiet ma jigux ri`evuti fl-G]assa tal-Pulizija\nrilevanti kif gej:\n\nTitolu.\nApplikazzjoni.\n\n(a) biex jitwa]]lu arbli....................[img]atejn;\n\n(b) g]al baned mu\\ikali ...................tliet ijiem; u\n\n(`) biex ji[u sparati murtaretti .........g]axart ijiem,\n\nqabel d-data tal-permess me]tie[.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Applikazzjoni",
+      "content": "Ma jin]are[ ebda permess biex ji[u sparati murtaretti\nf’toroq, pjazzez u triqat pubbli`i.\n\nProjbizzjoni li ji[u\nsparati murtaretti.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

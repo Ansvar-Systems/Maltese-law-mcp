@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-55-8-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Master fl-Istudji Notarili",
+  "title_en": "Ordni dwar il-Master fl-Istudji Notarili",
+  "short_name": "eli/sl/55.8/mlt",
+  "status": "in_force",
+  "issued_date": "2015-04-06",
+  "in_force_date": "2015-04-06",
+  "url": "https://legislation.mt/eli/sl/55.8/20150406/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.8/mlt, expression eli/sl/55.8/20150406/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 71 tal-2015",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar il-Master fl-Istudji\nNotarili.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Notarili",
+      "content": "Għall-finijiet, u skont it-termini, tal-artikolu 6(1)(ċ) tal-Att\ndwar il-Professjoni Nutarili u l-Arkivji Nutarili, il-grad ta’ Master\nfl-Istudji Nutarili (M. Not. Stud.) approvat mis-Senat tal-Università\nta’ Malta skont l-artikolu 81(2) tal-Att dwar l-Edukazzjoni u offrut\nmill-Fakultà tal-Liġi tal-Università ta’ Malta, u kif pubblikat filGazzetta, bħala l-Ordinamenti għall-Grad ta’ Master of Advocacy M.Adv.- u għall-Grad ta’ Master of Notarial Studies - M.Not.St. taħt il-patroċinju tal-Fakultà tal-Liġi, huwa b’dan stabbilit bħala lgrad l-ieħor fil-livell ta’ Master imsemmi fl-artikolu 6(1)(ċ) li\njintitola d-detentur ta’ dak il-grad li joqgħod għall-eżami talwarrant ta’ nutar pubbliku.\n\nTitolu.\nId-detentur tal-grad\nta’ M. Not. Stud.\njista’ joqgħod\ngħall-eżami talwarrant ta’ nutar\npubbliku.\nKap. 55.\nKap. 327.\nL.S. 327,508.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

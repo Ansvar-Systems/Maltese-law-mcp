@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-372-31-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Ħlas Lura ta’ Taxxa permezz ta’ Trasferimenti Elettroniċi",
+  "title_en": "Regoli dwar Ħlas Lura ta’ Taxxa permezz ta’ Trasferimenti Elettroniċi",
+  "short_name": "eli/sl/372.31/mlt",
+  "status": "in_force",
+  "issued_date": "2023-12-20",
+  "in_force_date": "2023-12-07",
+  "url": "https://legislation.mt/eli/sl/372.31/20231207/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.31/mlt, expression eli/sl/372.31/20231207/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 281 tal-2023",
+      "content": "It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Ħlas Lura ta’\nTaxxa permezz ta’ Trasferimenti Elettroniċi.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar l-Amministrazzjoni tat-Taxxa;\n\"Kummissarju\" għandu jkollha l-istess tifsira kif mogħti\nlilha fl-Att dwar it-Taxxa fuq l-Income;\n\nKap. 372.\nKap. 123.\n\n\"Ministru\" tfisser il-Ministru responsabbli għall-finanzi.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-Kummissarju jista’ jagħmel ħlas lura ta’ taxxa li jkun\ndovut lil kwalunkwe persuna skont l-artikolu 48 tal-Att permezz ta’\ntrasferiment elettroniku ta’ fondi.\n\nĦlas lura ta’ taxxa\npermezz ta’\ntrasferiment\nelettroniku.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "elettroniku",
+      "content": "Bil-għan li jiġi stabbilit jekk imgħax għandux ikun\npagabbli mill-Kummissarju skont is-subartikolu (2D) tal-artikolu 48\ntal-Att u, fejn ikun applikabbli, fil-kalkolu ta’ kwalunkwe tali mgħax:\n\nKalkolu talimgħax.\n\n(a)\nmeta l-Kummissarju jagħti struzzjonijiet bankarji\ngħat-trasferiment elettroniku ta’ fondi lil persuna sabiex isir\nħlas lura ta’ taxxa, billi juża l-aħħar dettalji magħrufa dwar\ntrasferimenti elettroniċi lill-imsemmija persuna, għandu jitqies\nli t-taxxa tkun tħallset lura fil-ġurnata li fiha jkunu ngħataw\ndawk l-istruzzjonijiet;\n(b)\nl-ebda kont ma għandu jittieħed dwar kwalunkwe\ndewmien fil-ħlas lura tat-taxxa meta tali dewmien ikun dovut\ngħall-fatt li l-persuna intitolata għall-ħlas lura ma tkunx tat lillKummissarju d-dettalji bankarji kompleti u aġġornati li jkunu\nmeħtieġa sabiex isir il-ħlas lura permezz ta’ trasferiment\nelettroniku.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "elettroniku",
+      "content": "Id-dispożizzjonijiet tar-regola 4 ma għandhomx\njapplikaw għal ħlasijiet lura ta’ taxxa li għalihom jirreferu ssubartikoli (4) jew (4A) jew il-provisos għas-subartikolu (7)(a) talartikolu 48 tal-Att.\n\nInapplikabbilità\ntar-regola 4 għal\nċerti ħlasijiet lura\nta’ taxxa.",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 75
+      }
+    }
+  ],
+  "definitions": []
+}

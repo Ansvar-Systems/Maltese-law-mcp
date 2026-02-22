@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-467-2-mlt",
+  "type": "statute",
+  "title": "Ordni Għall-Elezzjonijiet tal-Parlament Ewropew",
+  "title_en": "Ordni Għall-Elezzjonijiet tal-Parlament Ewropew",
+  "short_name": "eli/sl/467.2/mlt",
+  "status": "in_force",
+  "issued_date": "2019-01-28",
+  "in_force_date": "2019-01-28",
+  "url": "https://legislation.mt/eli/sl/467.2/20190128/mlt",
+  "description": "Official text from legislation.mt (eli/sl/467.2/mlt, expression eli/sl/467.2/20190128/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ELEZZJONIJIET TAL-PARLAMENT EWROPEW\n\n[ L.S. 467.02\n\nLEĠISLAZZJONI SUSSIDJARJA 467.02\nORDNI GĦALL-ELEZZJONIJIET\nTAL-PARLAMENT EWROPEW\n18 ta’ Jannar, 2019\nL-AVVIŻ LEGALI 6 tal-2019.\n\nBIS-SAĦĦA tal-artikolu 5(1) tal-Att dwar Elezzjonijiet għallParlament Ewropew, il-Prim Ministru qiegħed jistabbilixxi l-25 ta’\nMejju 2019 bħala d-data meta ser issir l-Elezzjoni għall-Parlament\nEwropew.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

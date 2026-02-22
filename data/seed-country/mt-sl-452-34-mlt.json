@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-452-34-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Isptarijiet u l-Kliniki",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Isptarijiet u l-Kliniki",
+  "short_name": "eli/sl/452.34/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.34/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.34/mlt, expression eli/sl/452.34/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "16 ta’ Frar, 1968",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Isptarijiet u l-Kliniki.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) G]andu jkun hemm Kunsill tal-Pagi g]all-Isptarijiet u\nl-Kliniki li g]andu japplika g]all-impjegati kollha f ’kull sptar\nprivat, nursing home jew post ta’ konvalexxenza, klinika dentali\njew klinika o]ra, inklu\\i l-mekkani`i dentali jew istituzzjonijiet\nmedi`i jew tan-nursing jew stabbilimenti simili.\n\nSafejn japplika ilKunsill tal-Pagi.\nEmendat:\nA.L. 16 ta’ l-1976;\nA.L. 75 ta’ l-1977.\n\n(2)\n\nKemm-il-darba l-kuntest tal-kliem ma je]tie[x xort’o]ra -\n\n\"kliniki\" tinkludi wkoll kliniki g]al kura ta’ qabel it-twelid,\nklinika ta’ l-X-ray u laboratorji medi`i u kull stabbiliment ie]or\nfejn in-nies isirilhom e\\ami mediku jew jing]ataw attenzjoni\nmedika, i\\da ma tinkludi ebda istituzzjoni li hi mmexxija mhux bi\nskop ta’ qlig];\n\"sptar\" tfisser kull istituzzjoni ta’ kura mediko-kirur[ika, kull\npost ta’ maternità jew hydropathic establishment u tinkludi djar\ng]ax-xju], u sanatorji barra minn dawk l-istituzzjonijiet tal-karità\nmag]rufa b]ala hekk mill-Ministru responsabbli g]all-politika\nsocjali.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "Dan il-Kunsill tal-Pagi ma japplikax g]al impjegati li rrimunerazzjoni tag]hom g]al servizz hija regolata b’tariffa\nmag]mula skond xi li[i o]ra.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Riserva",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntas-27 ta’ Ottubru, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 59
+      }
+    }
+  ],
+  "definitions": []
+}

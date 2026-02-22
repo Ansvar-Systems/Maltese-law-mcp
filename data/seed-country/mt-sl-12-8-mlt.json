@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-12-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Assenjazzjoni ta' Dmirijiet lill-Maġistrati",
+  "title_en": "Regolamenti dwar l-Assenjazzjoni ta' Dmirijiet lill-Maġistrati",
+  "short_name": "eli/sl/12.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/12.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.8/mlt, expression eli/sl/12.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 38 ta’ l-1990",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lAssenjazzjoni ta’ Dmirijiet lill-Ma[istrati.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 38 ta’ l-1990",
+      "content": "(1) Il-President g]andu jassenja lil kull wie]ed millma[istrati il-qorti li fiha g]andu joqg]od filwaqt li jindika l[urisdizzjoni tal-kaw\\i li dik il-qorti tista’ tie]u konjizzjoni\ntag]hom, u jista’ jbiddel ma[istrat minn qorti g]al o]ra.\n\n(2) Kull assenjazzjoni ta’ dmirijiet, tibdil u taqsim ta’ dmirijiet\nin [enerali, dwar il-ma[istrati, g]andhom jitqiesu li jkunu [ew\nnotifikati kif imiss u bi\\\\ejjed g]all-finijiet kollha jekk jitwa]]al\navvi\\ dwarhom fir-re[istru tal-qrati tal-ma[istrati qabel jew malli\njibda l-perijodu li fih dik l-assenjazzjoni, dak it-tibdil jew dak ittaqsim g]andu jse]].\n(3) Ir-re[istratur g]andu j\\omm notament ta’ l-avvi\\i kollha li\njitwa]]lu skond is-sub-regolament (2) ta’ dan ir-regolament u taddata ta’ meta jkunu twa]]lu.\n\nTitolu.\nAssenjazzjoni ta’\ndmirijiet bejn ilma[istrati.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

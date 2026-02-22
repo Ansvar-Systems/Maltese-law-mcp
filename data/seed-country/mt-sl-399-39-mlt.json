@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-399-39-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Apparat għar-Riċezzjoni Biss f’Terminal ta’ Satellita",
+  "title_en": "Ordni dwar Apparat għar-Riċezzjoni Biss f’Terminal ta’ Satellita",
+  "short_name": "eli/sl/399.39/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-15",
+  "in_force_date": "2010-12-15",
+  "url": "https://legislation.mt/eli/sl/399.39/20101215/mlt",
+  "description": "Official text from legislation.mt (eli/sl/399.39/mlt, expression eli/sl/399.39/20101215/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 194 tal-2005",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Apparat g]arRi`ezzjoni Biss f’Terminal ta’ Satellita.",
+      "metadata": {
+        "source_line_start": 9,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-apparat tas-satellita g]ar-ri`ezzjoni biss f’terminal ta’\nsatellita g]andu ji[i e\\entat mill-]ti[iet tal-artikolu 32 tal-Att li\njirregola Komunikazzjonijiet Elettroni`i.\n\nE\\enzjoni.\nKap. 49.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 25
+      }
+    }
+  ],
+  "definitions": []
+}

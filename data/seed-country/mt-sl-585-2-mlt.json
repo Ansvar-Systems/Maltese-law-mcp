@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-585-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Nuclear Safety",
+  "title_en": "Regolamenti dwar Nuclear Safety",
+  "short_name": "eli/sl/585.2/mlt",
+  "status": "in_force",
+  "issued_date": "2018-10-16",
+  "in_force_date": "2018-10-16",
+  "url": "https://legislation.mt/eli/sl/585.2/20181016/mlt",
+  "description": "Official text from legislation.mt (eli/sl/585.2/mlt, expression eli/sl/585.2/20181016/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 585.02\n\nNUCLEAR SAFETY\n\nLEĠISLAZZJONI SUSSIDJARJA 585.02\nREGOLAMENTI DWAR NUCLEAR SAFETY\n15 ta’ Lujlu, 2018\nL-AVVIŻ LEGALI 323 tal-2018, kif emendat bl-Avviż Legali 360 tal2020.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

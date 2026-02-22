@@ -1,0 +1,115 @@
+{
+  "id": "mt-sl-217-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Dikjarazzjoni ta Postijiet ta Detenzjoni",
+  "title_en": "Ordni dwar Dikjarazzjoni ta Postijiet ta Detenzjoni",
+  "short_name": "eli/sl/217.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/217.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/217.3/mlt, expression eli/sl/217.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "152 ta’ l-2002, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Dikjarazzjoni ta’\nPosijiett ta’ Detenzjoni.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Posijiett ta’ Detenzjoni",
+      "content": "Il-postijiet imsemmija fl-Iskeda huma b’dan dikjarati li\nhuma postijiet ta’ detenzjoni g]all-finijiet ta’ l-Att dwar lImmigrazzjoni.\n\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Il-lock up fil-Kwartieri {enerali tal-Pulizija, Floriana",
+      "content": "II-lock up fl-edifi``ju tal-Qrati tal-{ustizzja fil-Belt\nValletta.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Valletta",
+      "content": "Il-post approvat ta’ Kustodja mill-Pulizija fl-G]assa talPulizija tar-Rabat, G]awdex.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Valletta",
+      "content": "II-post approvat ta’ Kustodja mill-Pulizija fl-Ajruport\nInternazzjonali ta’ Malta.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Valletta",
+      "content": "Il-post approvat ta’ Kustodja mill-Pulizija fil-Port il-Kbir\nfil-Belt VaIletta.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Valletta",
+      "content": "Il-post approvat [ewwa Lyster Barracks, }al Far.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Valletta",
+      "content": "Il-Kumpless }al-Far Immigration Reception Centre.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Valletta",
+      "content": "Il-post approvat [ewwa l-Kumpless tal-Pulizija, Fort\nMosta, Mosta.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Mosta, Mosta",
+      "content": "Il-post approvat [ewwa Safi Barracks, }al Safi.\n\nTitolu.\nDikjarazzjoni ta’\npostijiet ta’\ndetenzjoni.\nKap. 217.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 69
+      }
+    }
+  ],
+  "definitions": []
+}

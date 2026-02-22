@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-551-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Proċeduri tal-Appelli dwar l-Ambjent u l-Ippjanar",
+  "title_en": "Regolamenti dwar il-Proċeduri tal-Appelli dwar l-Ambjent u l-Ippjanar",
+  "short_name": "eli/sl/551.2/mlt",
+  "status": "in_force",
+  "issued_date": "2017-01-03",
+  "in_force_date": "2017-01-03",
+  "url": "https://legislation.mt/eli/sl/551.2/20170103/mlt",
+  "description": "Official text from legislation.mt (eli/sl/551.2/mlt, expression eli/sl/551.2/20170103/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 416 tal-2016",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilProċeduri tal-Appelli dwar l-Ambjent u l-Ippjanar.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVIŻ LEGALI 416 tal-2016",
+      "content": "(1) F’dawn ir-regolamenti, kemm-il darba ir-rabta talkliem ma tkunx teħtieġ xort’oħra:\n\"l-Att\" tfisser l-Att dwar it-Tribunal ta’ Reviżjoni tal-Ambjent u\nl-Ippjanar;\n\nTitolu.\nTifsir.\nKap. 551.\n\n\"Tribunal\" tfisser it-Tribunal ta’ Revizjoni dwar l-Ambjent u lIppjanar.\n(2) F’dawn ir-regolamenti kull espressjoni mfissra fl-Att\ngħandha tinghata l-istess tifsira kif għandha fl-Att.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "It-termini stabbiliti fl-Att għandhom jiġu sospiżi fil-perjodi\nspeċifikati fir-regolamenti 4 u 5.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Sospensjoni tattermini",
+      "content": "Ir-Reġistru tat-Tribunal ikun magħluq bejn it-23 ta’\nDiċembru ta’ xi sena l-1 ta’ Jannar tas-sena ta’ wara, iż-żewġ\nġranet inklużi.\n\nDati meta rReġistru jkun\nmagħluq.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Sospensjoni tattermini",
+      "content": "Il-perijodi li ġejjin għandhom jitqiesu bħala perijodi\ninattivi:\n\nPerijodi inattivi.\n\n(a) ġimgħa waħda qabel Ħadd il-Għid; u\n(b) bejn l-10 u l-20 ta’ Awwissu ta’ kull sena.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

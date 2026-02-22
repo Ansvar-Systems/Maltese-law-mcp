@@ -1,0 +1,115 @@
+{
+  "id": "mt-sl-605-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kunsilli ta' Skola",
+  "title_en": "Regolamenti dwar Kunsilli ta' Skola",
+  "short_name": "eli/sl/605.4/mlt",
+  "status": "in_force",
+  "issued_date": "2021-04-21",
+  "in_force_date": "2021-01-01",
+  "url": "https://legislation.mt/eli/sl/605.4/20210101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/605.4/mlt, expression eli/sl/605.4/20210101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 135 tal-1993, kif emendat bl-Avviż Legali 424 tal2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nKunsilli ta’ Skola.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-iskejjel kollha statali, wkoll dawk mhux skedati flEwwel Skeda tal-Att dwar l-Edukazzjoni, għandhom jitmexxew\nminn kunsill ta’ skola.\n\nKunsilli ta’ Skola\ngħal skejjel talIstat.\nKap. 327.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-artikoli 23, 24, 25 u 26 tal-Att dwar l-Edukazzjoni\ngħandhom jitqiesu li japplikaw għall-iskejjel kollha tal-Istat ukoll\ndawk li m’humix skedati.\n\nKomposizzjoni,\nfunzjonijiet u\nelezzjonijiet talkunsilli.\nKap. 327.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Bla ħsara għar-regolamenti ta’ qabel, il-Ministru talEdukazzjoni jista’ jeżenta skola partikolari, li mhux skola skedata,\nmit-tmexxija ta’ kunsill.\n\nSetgħa tal-Ministru\nli jeżenta skola\nmit-tmexxija ta’\nkunsill.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "kunsill",
+      "content": "Il-kunsilli kollha fl-iskejjel tal-Istat għandhom jitmexxew\ns k o n d i l - l i n j i g w i d a l i h e m m f l - E w w e l S k e d a t a ’ d a w n i rregolamenti.\n\nLinji gwida għallkunsilli.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Linji gwida għallkunsilli",
+      "content": "Il-Kunsilli kollha tal-Istat għandhom jamministraw il-fondi\ntagħhom skond ir-regoli finanzjarji li hemm fit-Tieni Skeda ta’\ndawn ir-regolamenti.\n\nRegoli finanzjarji.\n\nL.S.605.04\n\nKUNSILLI TA’ SKOLA\n(Regolament 5)",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "b’mod konkret lill-iskola fl-aspetti fiżiċi u materjali tagħha",
+      "content": "Ħidma tal-Kunsill: Ċ. Il-Kunsill u l-Organizzazzjonijiet Lokali",
+      "metadata": {
+        "source_line_start": 256,
+        "source_line_end": 259
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "edukazzjoni, taħriġ u koperazzjoni bejn l-iskola u l-azjenda",
+      "content": "Ħidma tal-Kunsill: D. Il-Kunsill u l-Ħaddiema fl-Iskejjel inklużi lGħalliema u l-Kap/Kapijiet tal-Iskola.",
+      "metadata": {
+        "source_line_start": 283,
+        "source_line_end": 284
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "riservati",
+      "content": "Ħidma tal-Kunsill: E. Il-Kunsill u t-Tmexxija tal-Iskola",
+      "metadata": {
+        "source_line_start": 293,
+        "source_line_end": 296
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "jwieġeb lill-Kunsill fuq kull azzjoni li tidher xierqa li tittieħed",
+      "content": "Ħidma tal-Kunsill: F. Il-Kunsill u l-Ambjent ta’ madwar l-Iskola",
+      "metadata": {
+        "source_line_start": 307,
+        "source_line_end": 310
+      }
+    }
+  ],
+  "definitions": []
+}

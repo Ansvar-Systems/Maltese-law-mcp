@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-32-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti Merkantili - Prevention of Pollution of Ships",
+  "title_en": "Regolamenti dwar Bastimenti Merkantili - Prevention of Pollution of Ships",
+  "short_name": "eli/sl/234.32/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.32/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.32/mlt, expression eli/sl/234.32/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PREVENTION OF POLLUTION FROM SHIPS\n\n[L.S.234.32\n\nLE{ISLAZZJONI SUSSIDJARJA 234.32\nREGOLAMENTI DWAR BASTIMENTI\nMERKANTILI - PREVENTION OF POLLUTION\nFROM SHIPS*\n1 ta’ Marzu, 2004\nL-AVVI| LEGALI 332 tal-2003, kif emendat bl-Avvi\\ Legali 183 tal2011.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

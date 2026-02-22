@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-161-105-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €69,881,201.96 4.8% Stock tal-Gvern ta’ Malta 2016 (It-Tieni Ħruġ)",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €69,881,201.96 4.8% Stock tal-Gvern ta’ Malta 2016 (It-Tieni Ħruġ)",
+  "short_name": "eli/sl/161.105/mlt",
+  "status": "in_force",
+  "issued_date": "2012-01-10",
+  "in_force_date": "2012-01-10",
+  "url": "https://legislation.mt/eli/sl/161.105/20120110/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.105/mlt, expression eli/sl/161.105/20120110/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX €69,881,201.96",
+      "content": "8% STOCK TAL-GVERN TA’ MALTA 2016\n(IT-TIENI ĦRUĠ)\n\n[ L.S.161.105\n\nLEĠISLAZZJONI SUSSIDJARJA 161.105\nGĦALL-ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX\n€69,881,201.96 4.8% STOCK TAL-GVERN TA’\nMALTA 2016 (IT-TIENI ĦRUĠ)\n11 ta’ Novembru, 2003\nL-AVVIŻ LEGALI 343 tal-2003, kif emendat bl-Avviż Legali 427 tal2007.",
+      "metadata": {
+        "source_line_start": 2,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 343 tal-2003, kif emendat bl-Avviż Legali 427 tal2007",
+      "content": "It-titolu ta’ din id-Direttiva hu d-Direttiva mill-Ministru\ntal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €69,881,201.96",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €69,881,201.96",
+      "content": "L-iStock jinħareġ skont kif stipulat fil-prospett.\n\nTitolu.\nEmendat:\nA.L. 427 tal-2007.\nMod tal-ħruġ taliStock.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull persuna u, jew enti jistgħu japplikaw għal dan liStock. It-tqassim tal-iStock isir skond kif spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Stock",
+      "content": "Is-somma ta’ flus li għandha tinġabar bl-iStock ma\ngħandhiex teċċedi €69,881,201.96.\n\nSomma ta’ flus li\ngħandha tinġabar.\nEmendat:\nA.L. 427 tal-2007.",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "L-imgħax bir-rata ta’ €2.40,0 għal kull €100 Stock jitħallas\nkull sitt xhur b’lura fis-26 ta’ Mejju u fis-26 ta’ Novembru ta’ kull\nsena waqt il-kors tal-iStock. L-ewwel ħlas relattiv għall-perjodu\nbejn is-27 ta’ Novembru, 2003 u s-26 ta’ Mejju, 2004 isir fis-26 ta’\nMejju, 2004.\n\nRata ta’ mgħax u\ndati tal-ħlas.\nEmendat:\nA.L. 427 tal-2007.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 65
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Mejju, 2004",
+      "content": "Fidwa ta’ Stock.\n\nL-iStock għandu jiġi mifdi b’parità fis-26 ta’ Novembru,\n\nKap. 345.",
+      "metadata": {
+        "source_line_start": 66,
+        "source_line_end": 76
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Approved Auditor)",
+  "title_en": "Regolamenti dwar Insurance Business (Approved Auditor)",
+  "short_name": "eli/sl/403.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/403.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.9/mlt, expression eli/sl/403.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS (APPROVED AUDITOR)\n\n[L.S.403.09\n\nLE{ISLAZZJONI SUSSIDJARJA 403.09\nREGOLAMENTI DWAR INSURANCE BUSINESS\n(APPROVED AUDITOR)*\n1 ta’ Jannar, 2001\nL-AVVI| LEGALI 105 tal-2000, kif emendat bl-Avvi\\i Legali 426 tal2007, 145 tal-2009 u 393 tal-2015.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

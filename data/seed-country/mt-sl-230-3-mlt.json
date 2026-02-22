@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-230-3-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Ħin tas-Sajf",
+  "title_en": "Ordni dwar il-Ħin tas-Sajf",
+  "short_name": "eli/sl/230.3/mlt",
+  "status": "in_force",
+  "issued_date": "2022-03-17",
+  "in_force_date": "2022-03-17",
+  "url": "https://legislation.mt/eli/sl/230.3/20220317/mlt",
+  "description": "Official text from legislation.mt (eli/sl/230.3/mlt, expression eli/sl/230.3/20220317/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 111 tal-2022",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar il-Ħin tas-Sajf.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-ordni hu l-Ordni dwar il-Ħin tas-Sajf",
+      "content": "Fis-snin 2022 sa 2026 it-tnejn inklużi, iż-żmien tal-ħin\ntas-sajf għandu jibda mis-sagħtejn ta’ filgħodu, ħin lokali, tal-aħħar\nĦadd ta’ Marzu u jispiċċa fit-tlieta ta’ filgħodu, ħin tas-sajf lokali, talaħħar Ħadd ta’ Ottubru tal-istess snin, kif ġej:fl-2022:\n\nil-Ħadd 27 ta’ Marzu u l-Ħadd 30 ta’ Ottubru\n\nfl-2023:\n\nil-Ħadd 26 ta’ Marzu u l-Ħadd 29 ta’ Ottubru\n\nfl-2024:\n\nil-Ħadd 31 ta’ Marzu u l-Ħadd 27 ta’ Ottubru\n\nfl-2025:\n\nil-Ħadd 30 ta’ Marzu u l-Ħadd 26 ta’ Ottubru\n\nfl-2026:\n\nil-Ħadd 29 ta’ Marzu u l-Ħadd 25 ta’ Ottubru\n\nTitolu.\nŻmien tal-ħin tassajf.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-35-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Vetturi bil-Mutur meta jinżammu mid-Dipartiment tad-Dwana",
+  "title_en": "Regolamenti dwar Vetturi bil-Mutur meta jinżammu mid-Dipartiment tad-Dwana",
+  "short_name": "eli/sl/35.12/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/35.12/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.12/mlt, expression eli/sl/35.12/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1989, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nVetturi bil-Mutur meta jin\\ammu mid-Dipartiment tad-Dwana.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Meta tin\\amm xi vettura bil-mutur fil-kustodja tadDipartiment tad-Dwana g]andu jintalab mill-Kontrullur tad-Dwana\ndritt ta’ euro u sittax-il `ente\\mu (1.16) g]al kull [urnata jew parti\nminnha:\n\nDrittijiet g]a\\\\amma ta’ vetturi\nbil-mutur.\nEmendat:\nA.L. 407 ta’ l2007.\n\nI\\da dak id-dritt g]andu ji\\died g]al \\ew[ euro u tlieta u\ntletin `ente\\mu (2.33) g]al kull vettura g]al kull [urnata jew parti\nminnha wara li jg]addu tletin [urnata:\nI\\da wkoll fil-ka\\ ta’ motor cycles id-drittijiet li jintalbu\nskond dan ir-regolament ikunu kwart ta’ l-ammont imsemmi qabel.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-Ministru tal-Finanzi jista’ jnaqqas jew ja]fer kull dritt\ndovut bis-sa]]a ta’ dawn ir-regolamenti.\n\nSetg]a tal-Ministru\ntal-Finanzi.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

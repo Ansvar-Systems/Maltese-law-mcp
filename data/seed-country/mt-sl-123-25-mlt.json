@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-123-25-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Eżenzjoni dwar l-Investment Finance Bank LimitedImħassar bl-Avviż Legali 430 tal-2014",
+  "title_en": "Ordni dwar Eżenzjoni dwar l-Investment Finance Bank LimitedImħassar bl-Avviż Legali 430 tal-2014",
+  "short_name": "eli/sl/123.25/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.25/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.25/mlt, expression eli/sl/123.25/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "E|ENZJONI DWAR\nL-INVESTMENT FINANCE BANK LIMITED\n\n[ L.S.123.25\n\nLE{ISLAZZJONI SUSSIDJARJA 123.25\nORDNI DWAR E|ENZJONI DWAR L-INVESTMENT\nFINANCE BANK LIMITED\n30 ta’ Jannar, 1992\nL-AVVI| LEGALI 18 tal-1992.\n\nRevokat bl-Avviż Legali 430 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-204-3-mlt",
+  "type": "statute",
+  "title": "Avviż ta Tibdil fl-Ammont Minimu ta DehebImħassar bl-Avviż Legali 436 tal-2014",
+  "title_en": "Avviż ta Tibdil fl-Ammont Minimu ta DehebImħassar bl-Avviż Legali 436 tal-2014",
+  "short_name": "eli/sl/204.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/204.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/204.3/mlt, expression eli/sl/204.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TIBDIL FL-AMMONT MINIMU TA’ DEHEB\n\n[L.S.204.03\n\nLE{ISLAZZJONI SUSSIDJARJA 204.03\nAVVI| TA’ TIBDIL FL-AMMONT MINIMU TA’\nDEHEB\n4 ta’ Awissu, 1989\nL-AVVI| LEGALI 108 tal-1989.\n\nRevokat bl-Avvi\\ Legali 436 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

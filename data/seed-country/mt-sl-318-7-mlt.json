@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-318-7-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Estensjoni tas-Sigurtà Soċjali",
+  "title_en": "Ordni dwar l-Estensjoni tas-Sigurtà Soċjali",
+  "short_name": "eli/sl/318.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.7/mlt, expression eli/sl/318.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1987",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Estensjoni tasSigurtà So`jali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Estensjoni tasSigurtà So`jali",
+      "content": "Id-disposizzjonijiet ta’ l-artikoli 19 u 30 (sakemm dan\njapplika g]all-g]ajnuna so`jali) ta’ l-Att dwar is-Sigurtà So`jali\ng]andhom japplikaw g]al nies ta’ nazzjonalità tal-pajji\\i\nspe`ifikati fl-Iskeda li tinsab ma’ dan l-Ordni, liema pajji\\i huma,\nflimkien ma’ Malta, partijiet fil-Konvenzjoni Ewropea dwar\nG]ajnuna So`jali u Medika.\n\nBel[ju\n\nDanimarka\n\nRepubblika Federali tal-{ermanja\nFranza\nGre`ja\n\nI\\landa\nIrlanda\nItalja\n\nLussemburgu\nNetherlands\nNorve[ja\nPortugall\nSpanja\nSvezja\n\nTurkija\n\nRenju Unit\n\nTitolu.\nEstensjoni ta’\napplikazzjoni.\nKap. 318.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

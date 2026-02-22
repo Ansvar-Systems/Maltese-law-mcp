@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-98-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Prospetti ta Oġġetti Essenzjali",
+  "title_en": "Regolamenti dwar Prospetti ta Oġġetti Essenzjali",
+  "short_name": "eli/sl/98.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/98.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/98.1/mlt, expression eli/sl/98.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 50 ta’ l-1939",
+      "content": "It-titolu ta’ dawn ir-Regolamenti huwa Regolamenti dwar\nProspetti ta’ O[[etti Essenzjali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prospetti ta’ O[[etti Essenzjali",
+      "content": "Kull persuna li jkollha, tippossjedi, jew jkollha x’taqsam\nma’ l-importazzjoni, bejg], manifattura jew produzzjoni ta’\n]wejje[ essenzjali, g]andha tag]ti li`-Chairman tal-Bord g]allKontroll tal-Prezzijiet dawk il-prospetti illi, minn \\mien g]al ie]or,\nhuwa jkun irid dwar xi o[[ett essenzjali li jkun f’idejn dik ilpersuna, jew prodott jew ordnat ninnha, jew lilha kkonsenjat.\n\nTitolu.\nProspetti.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

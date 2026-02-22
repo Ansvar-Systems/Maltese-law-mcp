@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-478-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Iskema Malta Kreattiva",
+  "title_en": "Regolamenti dwar l-Iskema Malta Kreattiva",
+  "short_name": "eli/sl/478.4/mlt",
+  "status": "in_force",
+  "issued_date": "2022-12-27",
+  "in_force_date": "2022-12-20",
+  "url": "https://legislation.mt/eli/sl/478.4/20221220/mlt",
+  "description": "Official text from legislation.mt (eli/sl/478.4/mlt, expression eli/sl/478.4/20221220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 357 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIskema Malta Kreattiva.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"applikant\" tfisser l-istess bħat-tifsira mogħtija lilha fillinji gwida;\n\"Att\" tfisser l-Att dwar il-Kummissjoni Ċinematografika\nta’ Malta;\n\nKap. 478.\n\n\"Kummissarju\" tfisser il-Kummissarju Ċinematografiku\nmaħtur taħt l-artikolu 5(1) tal-Att;\n\"Kummissjoni\" tfisser il-Kummissjoni Ċinematografika\nta’ Malta mwaqqfa bl-artikolu 3 tal-Att;\n\"linji gwida\" tfisser dawk il-linji gwida li jistgħu jiġu\nppubblikati mill-Kummissjoni minn żmien għal żmien skont lAtt;\n\"proġett\" tfisser l-istess bħat-tifsira mogħtija lilha fil-linji\ngwida;\n\"Skema Malta Kreattiva\" tfisser l-iskema mwaqqfa skont\nil-linji gwida li tista’ tipprovdi assistenza fit-termini ta’ dawn\nir-regolamenti.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Fejn il-Kummissjoni tkun sodisfatta li kemm l-applikant\nkif ukoll il-proġett huma eliġibbli għal assistenza kif preskritt fil-linji\ngwida, il-Kummissjoni tista’ tipprovdi assistenza skont it-termini u lkondizzjonijiet stabbiliti fil-linji gwida.\n\nAssistenza ta’\nappoġġ għal\napplikanti\neliġibbli.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "eliġibbli",
+      "content": "(1)\nL-applikazzjonijiet għal assistenza sabiex jiġu\nappoġġjati kwalunkwe applikanti eliġibbli, għandhom jaslu għand ilKummissjoni sal-31 ta’ Ottubru 2023.\n\nSkadenza għassottomissjoni talapplikazzjonijiet\ngħall-assistenza.\n\n(2)\nL-ebda assistenza taħt dawn ir-regolamenti ma għandha\ntingħata mill-Kummissjoni wara l-31 ta’ Diċembru 2023.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

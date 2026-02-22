@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-582-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Miżuri Mandatorji għal Servizzi Residenzjali għal Anzjani",
+  "title_en": "Regolamenti dwar Miżuri Mandatorji għal Servizzi Residenzjali għal Anzjani",
+  "short_name": "eli/sl/582.14/mlt",
+  "status": "in_force",
+  "issued_date": "2020-11-18",
+  "in_force_date": "2020-11-18",
+  "url": "https://legislation.mt/eli/sl/582.14/20201118/mlt",
+  "description": "Official text from legislation.mt (eli/sl/582.14/mlt, expression eli/sl/582.14/20201118/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 424 tal-2020",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar Miżuri Mandatorji għal Servizzi Residenzjali għal Anzjani.\n\nTitolu u għan.\n\n(2)\nL-għan ta’ dawn ir-regolamenti hu li jistabbilixxu miżuri\nmandatorji għal servizzi residenzjali għal anzjani li l-Awtorità tista’\ntimponi penali amministrattivi, u li jiġu stabbiliti l-penali li għandhom\njitħallsu sabiex jiġi kkontrollat it-tixrid tal-COVID-19.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "jitħallsu sabiex jiġi kkontrollat it-tixrid tal-COVID-19",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"anzjan\" tfisser persuna li għandha ’l fuq minn sittin (60)\nsena li l-bżonnijiet ta’ kura tagħha jistgħu jintlaħqu b’mod\nħolistiku fit-tul minn faċilità;\n\"Att\" tfisser l-Att tal-Awtorità ta’ Standards ta’ Ħarsien\nSoċjali;\n\nKap. 582.\n\n\"Awtorità\" tfisser l-Awtorità ta’ Standards ta’ Ħarsien\nSoċjali stabbilita bis-saħħa tal-artikolu 5 tal-Att;\n\"bubble residenżjali\" tfisser l-istess persuni jinżammu\nfl-istess koort fi grupp żgħir;\n\"provditur ta’ servizz\" tfisser persuna, jew\norganizzazzjoni li tipprovdi u topera faċilità u servizzi ta’ kura\nrelatati lil anzjani fit-tul;\n\"sistema ta’ allokazzjoni għal residenti u carers\" tfisser\nsistema fejn l-istess koort tal-persunal tal-kura jiġi allokat biex\njipprovdi l-kura b’mod ħolistika għall-ħtiġijiet kollha tarresidenti assenjati fl-istess kunċett ta’ bubble residenzjali;\n\"Tribunal\"\ntfisser\nit-Tribunal\nta’\nReviżjoni\nAmministrattiva kif imsemmi fl-artikoli 25 u 26 tal-Att.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 54
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Amministrattiva kif imsemmi fl-artikoli 25 u 26 tal-Att",
+      "content": "(1)\nFejn l-Awtorità timponi penali amministrattivi kif\nimsemmi fl-artikolu 28 tal-Att, l-ammont ta’ din il-penali għandu jkun\ndeterminat b’referenza għall-Iskeda.\n(2)\nL-ewwel kolonna tal-Iskeda tipprovdi deskrizzjoni\nġenerali tal-ksur ta’ dawn ir-regolamenti u t-tieni kolonna tistabbilixxi\nl-penali li għandha titħallas.\n\nPenali\namministrattivi.\n\nAppelli.\n\nMIŻURI MANDATORJI GĦAL SERVIZZI RESIDENZJALI\nGĦAL ANZJANI",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 75
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Appelli",
+      "content": "Kull persuna li tħoss ruħha aggravata b’deċiżjoni talAwtorità tista’ tappella quddiem it-Tribunal skont l-artikoli 25 u 26 talAtt.\n\n[ L.S. 582.14\n\n(Regolament 3)\nF’każ ta’ nuqqas ta’ konformità mill-provditur ta’\nservizz liċenzjat biex:",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 85
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "teknoloġiċi oħra",
+      "content": "Rispett tal-Miżuri tal-Kwarantina",
+      "metadata": {
+        "source_line_start": 123,
+        "source_line_end": 123
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "mill-awtorità",
+      "content": "Arranġamenti taż-Żjara",
+      "metadata": {
+        "source_line_start": 126,
+        "source_line_end": 126
+      }
+    }
+  ],
+  "definitions": []
+}

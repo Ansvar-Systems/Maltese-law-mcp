@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-372-26-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Maħfra ta’ Mgħax",
+  "title_en": "Regoli dwar Maħfra ta’ Mgħax",
+  "short_name": "eli/sl/372.26/mlt",
+  "status": "in_force",
+  "issued_date": "2013-11-06",
+  "in_force_date": "2013-11-06",
+  "url": "https://legislation.mt/eli/sl/372.26/20131106/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.26/mlt, expression eli/sl/372.26/20131106/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 361 tal-2013",
+      "content": "It-titolu ta’ dawn ir-regoli huwa r-Regoli dwar Maħfra ta’\nMgħax.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Kummissarju jista’, fid-diskrezzjoni tiegħu, jaħfer kull\nimgħax jew parti minnu impost fuq xi persuna taħt iddispożizzjonijiet tal-artikolu 44(2A) tal-Att dwar lAmministrazzjoni tat-Taxxa, hawn iżjed ’il quddiem imsejjaħ \"lAtt\":\n\nMaħfra.\n\nIżda l-Kummissarju jista’ biss jaħfer l-imgħax jekk ikun\nsodisfatt li t-taxxa dovuta ma tħallsitx fiż-żmien kif suppost\nminħabba kawża raġonevoli, b’dan illi l-fatt li titqiegħed fiduċja\nfuq xi persuna oħra sabiex twettaq xi biċċa xogħol ma jitqiesx\nbħala kawża raġonevoli.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(1) Il-Kummissarju jista’ jimponi kull kundizzjoni li\njidhirlu xierqa għall-maħfra taħt ir-regola 2, inkluż li l-persuna\nkkonċernata ma tkunx għamlet xi nuqqas jew ommissjoni f’dak iżżmien li l-Kummissarju jista’ jistabbilixxi jew li l-imsemmija\npersuna għandha tagħmel ħlas ta’ taxxa f’dak l-ammont f’dak iżżmien li l-Kummissarju jista’ jiddetermina.\n\nKundizzjonijiet.\n\n(2) Jekk xi kundizzjoni imposta mill-Kummissarju skont iddispożizzjonijiet tas-subregola (1) tiġi miksura mill-persuna\nkkonċernata, kull maħfra ta’ mgħax mogħtija mill-Kummissarju\ntiġi mitlufa.\n(3) Il-Kummissarju għandu jikkomunika bil-miktub lillpersuna kkonċernata kull kundizzjoni imposta skont is-subregola\n(1), il-konsekwenzi jekk xi kundizzjoni skont is-subregola (2) tiġi\nmiksura u, fejn dan ikun il-każ, il-fatt tat-telfa tal-maħfra.\n(4) L-użu tad-diskrezzjoni taħt din ir-regola ma tistax tiġi\nkwerelata f’xi appell.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kundizzjonijiet",
+      "content": "Imgħax impost skont id-dispożizzjonijiet tal-artikolu\n44(2A) tal-Att fuq l-ammont ta’ taxxa li għandha titħallas skont\nftehim ta’ pagament ta’ mhux iżjed minn sentejn jieqaf milli\njkompli jiżdied mid-data meta persuna tidħol fil-ftehim ta’\npagament:\n\nTwaqqif talimgħax.\n\nIżda jekk il-maħfra ma ssirx minħabba f’nuqqas ta’\nkonformità mad-dispożizzjonijiet tar-regola 2, l-imgħax jiġi impost\ndaqslikieku qatt ma twaqqaf.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "daqslikieku qatt ma twaqqaf",
+      "content": "Fejn persuna tkun ibbenifikat minn maħfra ta’ mgħax skont\ndawn ir-regoli, il-Kummissarju jista’ jaqta’ ammont ekwivalenti\ngħall-imgħax maħfur minn kull imgħax fuq rifużjoni ta’ taxxa li\njista’ jkun dovut lil dik il-persuna fi żmien sitt snin mid-data li fiha\n\nTpaċija.\n\n[ L.S.372.26\n\nMAĦFRA TA’ MGHAX\n\nsseħħ il-maħfra tal-imgħax taħt dawn ir-regoli.\nDikjarazzjoni ta’\nċaħda.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 74
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "ċaħda",
+      "content": "Xejn milli hawn f’dawn ir-regoli ma jagħti dritt lil xi\npersuna biex titlob għal rifużjoni ta’ xi ammont ta’ mgħax diġà\nmħallas lill-Kummissarju taħt id-dispożizzjonijiet tal-Atti dwar itTaxxi.",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 81
+      }
+    }
+  ],
+  "definitions": []
+}

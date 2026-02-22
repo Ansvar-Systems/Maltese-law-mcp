@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-35-25-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Servizzi Mediċi mogħtija mit-Taqsima tas-Saħħa Okkupazzjonali",
+  "title_en": "Regolamenti dwar Servizzi Mediċi mogħtija mit-Taqsima tas-Saħħa Okkupazzjonali",
+  "short_name": "eli/sl/35.25/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/35.25/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.25/mlt, expression eli/sl/35.25/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 2 ta’ l-2001, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nServizzi Medi`i mog]tija mit-Taqsima tas-Sa]]a Okkupazzjonali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andhom jit]allsu lis-Suprintendent tas-Sa]ha Pubblika\ndawn id-drittijiet li [ejjin g]al dawn is-servizzi li [ejjin:\n\nDrittijiet li\ng]andhom\njit]allsu.\nEmendat:\nA.L. 407 ta’ l2007.\n\n€\n(a) E\\ami Kliniku Ba\\iku, inklu\\ e\\ami\nfi\\iku u anali\\i ta' 1-urina\n(b) Investigazzjonijiet:\nX-Ray tas-sider\nElettrokardjogramma (ECG)\nTestijiet Funzjonali tal-Pulmun (PFT)\nAudjogramma\nSerolo[ija Brucella\nStool Cutture\n(`) G]al investigazzjonijiet spe`ifi`i li\njsiru:\nHepatitis B surface antigen (Serolo[ija\nHBsAg)\nHepatitis A - Serolo[ija\nLaboratorju ta' Ri`erka fuq Mard\nVenerju\nComptete Blood Count (CBC)\nComptete\nBlood\nCount\nb'g]add\ndifferenzjali\nUrea (demm)\nElettroliti (demm)\nKreatinina (demm)\nTestijiet Funzjonali tal-Fwied (LFT)",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

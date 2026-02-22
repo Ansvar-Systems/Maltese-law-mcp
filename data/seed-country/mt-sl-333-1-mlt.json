@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-333-1-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Route Charges for Navigation Services) Regulations",
+  "title_en": "Civil Aviation (Route Charges for Navigation Services) Regulations",
+  "short_name": "eli/sl/333.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2003-01-01",
+  "url": "https://legislation.mt/eli/sl/333.1/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/333.1/mlt, expression eli/sl/333.1/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (ROUTE CHARGES FOR\nNAVIGATION SERVICES) REGULATIONS\n\n[ L.S.333.01\n\nLEĠISLAZZJONI SUSSIDJARJA 333.01\nCIVIL AVIATION (ROUTE CHARGES FOR\nNAVIGATION SERVICES) REGULATIONS *\n1 ta’ Jannar, 2003\nL-AVVIŻ LEGALI 386 tal-2002, kif emendat bl-Avviżi Legali 434 tal2003, 515 tal-2004, 40 tal-2006, 22, 424 u 442 tal-2007, 142 tal-2008, 35\ntal-2009, 56 tal-2010, 35 tal-2011, 67 tal-2012, 56 tal-2013, 8 tal-2014,\n155 tal-2015, 55 tal-2016,198 tal-2017, 70 tal-2018, 27 tal-2019 u 37 tal2020, 9 tal-2021, 34 tal-2022 u 6 tal-2023 u bl-Att XL tal-2023.\n\n*Dawn ir-regolamenti ġew ippubblikat bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

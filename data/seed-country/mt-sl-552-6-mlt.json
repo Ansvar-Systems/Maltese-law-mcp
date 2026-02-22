@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-552-6-mlt",
+  "type": "statute",
+  "title": "Ordni dwar ir-Reviżjoni Parzjali tal-Pjan ta’ Struttura",
+  "title_en": "Ordni dwar ir-Reviżjoni Parzjali tal-Pjan ta’ Struttura",
+  "short_name": "eli/sl/552.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-21",
+  "in_force_date": "2010-12-21",
+  "url": "https://legislation.mt/eli/sl/552.6/20101221/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.6/mlt, expression eli/sl/552.6/20101221/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 35 tal-2007",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar ir-Revi\\joni Parzjali\ntal-Pjan ta’ Struttura.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-Revi\\joni Parzjali tal-Pjan ta’ Struttura kif approvat\nb’ri\\oluzzjoni tal-Kamra tad-Deputati fis-Seduta Nru. 427 tas-26\nta’ Lulju, 2006 g]andu jitqies li da]al fis-se]] fil-15 ta’ Frar, 2007.\n\nBidu fis-se]] tarRevi\\joni Parzjali\ntal-Pjan ta’\nStruttura.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

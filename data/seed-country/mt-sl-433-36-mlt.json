@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-36-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Examination of Varieties of Agricultural Plant and Vegetable Species",
+  "title_en": "Regolamenti dwar Examination of Varieties of Agricultural Plant and Vegetable Species",
+  "short_name": "eli/sl/433.36/mlt",
+  "status": "in_force",
+  "issued_date": "2023-07-13",
+  "in_force_date": "2023-07-04",
+  "url": "https://legislation.mt/eli/sl/433.36/20251212/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.36/mlt, expression eli/sl/433.36/20251212/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "EXAMINATION OF VARIETIES OF AGRICULTURAL\nPLANT AND VEGETABLE SPECIES\n\n[ L.S. 433.36\n\nLEĠISLAZZJONI SUSSIDJARJA 433.36\nREGOLAMENTI DWAR EXAMINATION OF\nVARIETIES OF AGRICULTURAL PLANT AND\nVEGETABLE SPECIES\n4 ta’ Lulju, 2023\nL-AVVIŻ LEGALI 144 tal-2023, kif emendat bl-Avviżi Legali 282 tal2023 u 65 u 285 tal-2025.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

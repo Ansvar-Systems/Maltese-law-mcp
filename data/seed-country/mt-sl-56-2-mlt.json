@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-56-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Noti Duplikati tar-Reġistru Pubbliku",
+  "title_en": "Regolamenti dwar Noti Duplikati tar-Reġistru Pubbliku",
+  "short_name": "eli/sl/56.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/56.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/56.2/mlt, expression eli/sl/56.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 50 ta’ l-1984, kif emendat bl-Avvi\\ Legali 58 ta’ l1986",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nNoti Duplikati tar-Re[istru Pubbliku.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Noti Duplikati tar-Re[istru Pubbliku",
+      "content": "(1) Id-Direttur tar-Re[istru Pubbliku huwa obbligat li\njag]mel noti duplikati ta’ xi noti ori[inali g]ar-re[istrazzjoni ta’ xi\nkaw\\a ta’ preferenza fost il-kredituri, noti ta’ referenza jew noti ta’\ninsinwa li jkunu depo\\itati fir-Re[istru Pubbliku f’Malta jew firRe[istru Pubbliku f’G]awdex, meta n-nota ori[inali tkun intilfet,\n[iet distrutta jew [iet danne[[jata, u li jag]mel re[istru [did\nminflok kull re[istru mitluf, distrutt jew danne[[jat.\n\nTitolu.\nG]emil ta’ noti\nduplikati.\n\n(2) In-noti duplikati u r-re[istri [odda g]andhom isiru\nb’riferenza g]ar-re[istru jew g]an-nota ori[inali rispettivi, skond\nil-ka\\, mi\\muma fir-Re[istru Pubbliku jew b’riferenza g]all-att\nrelattiv, u ji[i riprodott it-tag]rif rilevanti li jkun fihom fuq in-nota\nduplikata jew fuq ir-re[istru [did skond il-ka\\.\n\n(3) In-noti duplikati u r-re[istri [odda jistg]u jsiru bil-pro`ess\ntal- microfilming li g]andu jsir fil-post tar-Re[istru Pubbliku\nf’Malta u f’G]awdex u bis-supervi\\joni tad-direttur ta’ dak irre[istru.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Id-disposizzjonijiet ta’ l-Att dwar ir-Re[istru Pubbliku u\ntal-Kodi`i ~ivili dwar il-formulazzjoni tan-noti msemmija f’dawn\nir-Regolamenti g]andhom japplikaw g]al noti duplikati u re[istri\n[odda mag]mula skond dawn ir-Regolamenti.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "(1) In-noti duplikati jew ir-re[istri [odda m]ejjija skond\ndawn ir-Regolamenti g]andhom ikunu awtentikati mid-Direttur tarRe[istru Pubbliku jew minn assistent direttur jew uffi`jal indikat\nfl-artikolu 3(2) ta’ l-Att dwar ir-Re[istru Pubbliku, u d-direttur jew\ndak l-assistent direttur jew uffi`jal fuq imsemmi g]andu ji\\gura li\nt-tag]rif li jkun jinsab fin-nota duplikata jew fir-re[istru [did, ikun\njaqbel mat-tag]rif li jkun jinsab jew li kellu jinsab fin-nota jew firre[istru ori[inali.\n\n~erti\ndisposizzjonijiet\njapplikaw g]al noti\nduplikati, e``.\nKap. 56.\nKap. 16.\nAwtentikazzjoni\nta’ noti.\nEmendat:\nA.L. 58 ta’ l-1986.\nKap. 56.\n\n(2) Id-Direttur tar-Re[istru Pubbliku g]andu jindika n-noti\nduplikati jew re[istri [odda li jkunu saru skond dawn irRegolamenti u d-data tag]hom u minn fejn ikun in[ab it-tag]rif\nbiex saru.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 65
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "biex saru",
+      "content": "Id-disposizzjonijiet ta’ dawn ir-Regolamenti g]andhom\njapplikaw ukoll g]an-noti duplikati u r-re[istri [odda, ta’ noti ta’\nti[did ta’ re[istrazzjonijiet u ta’ ipoteki legali.\n\nNoti ta’ ti[did ta’\nre[istrazzjonijiet u\nipoteki legali.",
+      "metadata": {
+        "source_line_start": 66,
+        "source_line_end": 76
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Ħatra ta' Awtorità KompetentiImħassar bl-Avviż Legali 432 tal-2014",
+  "title_en": "Ordni dwar Ħatra ta' Awtorità KompetentiImħassar bl-Avviż Legali 432 tal-2014",
+  "short_name": "eli/sl/403.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/403.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.1/mlt, expression eli/sl/403.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "}ATRA TA’ AWTORITÀ KOMPETENTI\n\n[L.S.403.01\n\nLE{ISLAZZJONI SUSSIDJARJA 403.01\nORDNI DWAR }ATRA TA’ AWTORITÀ\nKOMPETENTI\n7 ta’Awissu, 1998\nL-AVVI| LEGALI 190 tal-1998.\n\nRevokat bl-Avviż Legali 432 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-9-7-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Proprjetà miżmuma taħt il-Kodiċi Kriminali",
+  "title_en": "Avviż dwar Proprjetà miżmuma taħt il-Kodiċi Kriminali",
+  "short_name": "eli/sl/9.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/9.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.7/mlt, expression eli/sl/9.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 121 tal-2002",
+      "content": "It-titolu ta’ dan l-Avviż hu Avviż dwar Proprjetà miżmuma\ntaħt il-Kodiċi Kriminali.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-persuni li ġejjin għandhom iżommu, f'isem ir-Reġistratur\ntal-Qrati Kriminali, l-proprjetà msemmija biswit isimhom:\n\nProprjetà u persuni\nmsemmija.\n\nIl-Kummissarju tal-Pulizija\n\nArmi u munizzjon, inklużi\npartijiet minnhom;\nIl-Brigadier tal-Forzi Armati\nSplużivi, detonaturi, kimiċi\nperikolużi u sustanzi oħra jew\nmaterjal kombustibbli;\nId-Direttur tas-Saħħa\nMediċinali perikolużi;\nId-Direttur tal-Mużewijiet\nO ġ ġ e t t i t a ' Va l u r s t o r i k u j e w\nartistiku;\nIl-Gvernatur tal-Bank Ċentrali F l u s , ċ e r t i f i k a t i f i n a n z j a r j i ,\ndeheb, fidda, ħaġar prezzjuż u\noġġetti oħra prezzjużi.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "oġġetti oħra prezzjużi",
+      "content": "Proprjetà li tinżamm minn dawk il-persuni għandha\ntinżamm f'post sigur mill-persuni nominati u ma għandhomx\njintużaw minn xi persuna jew jingħataw lil xi persuna ħlief kif jiġi\nordnat mir-reġistratur tal-Qrati Kriminali.\n\nProprjetà tinżamm\nf'post sigur.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "f'post sigur",
+      "content": "Il-Kummissarju tal-Pulizija huwa l-persuna li f'idejha armi\nt a n - n a r, m u n i z z j o n , s p l u ż i v i j e w s u s t a n z i p e r i k o l u ż i o ħ r a\nkkonfiskati favur il-Gvern skont ma hemm fil-Kodiċi Kriminali,\ngħandhom jiġu kkunsinnati mir-reġistratur sabiex dawn l-oġġetti\njitneħħew.\n\nArmi tan-nar, eċċ.,\nkkonfiskati favur\nil-Gvern.\nKap. 9.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-460-29-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Protokoll dwar it-Tħassib tal-Poplu Irlandiż dwar it-Trattat ta’ Lisbona",
+  "title_en": "Ordni dwar il-Protokoll dwar it-Tħassib tal-Poplu Irlandiż dwar it-Trattat ta’ Lisbona",
+  "short_name": "eli/sl/460.29/mlt",
+  "status": "in_force",
+  "issued_date": "2013-06-10",
+  "in_force_date": "2013-06-10",
+  "url": "https://legislation.mt/eli/sl/460.29/20130610/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.29/mlt, expression eli/sl/460.29/20130610/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 154 tal-2013",
+      "content": "It-titolu ta’ dan l-Ordni huwa l-Ordni dwar il-Protokoll\ndwar it-Tħassib tal-Poplu Irlandiż dwar it-Trattat ta’ Lisbona.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-Ordni, kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieġ xort’oħra:\n\nTifsiriet.\n\n\"l-Att\" tfisser l-Att dwar l-Unjoni Ewropea;\n\nKap. 460.\n\n\"il-Protokoll\" tfisser il-Protokoll dwar it-Tħassib tal-Poplu\nIrlandiż dwar it-Trattat ta’ Lisbona ffirmat fi Brussell fis-16 ta’\nMejju, 2012.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Mejju, 2012",
+      "content": "Għall-iskopijiet tal-artikolu 2(2) tal-Att huwa b’dan\niddikjarat illi l-Protokoll għandu jitqies bħala ħaġa waħda matTrattat dwar l-Unjoni Ewropea u mat-Trattat dwar il-Funzjonament\ntal-Unjoni Ewropea hekk kif il-Protokoll jiġi fis-seħħ skont iddispożizzjonijiet tal-Artikolu 4 tiegħu u skont id-Dikjarazzjoni,\niffirmata mill-Kapijiet ta’ Stat jew ta’ Gvern tas-27 Stat Membru\ntal-Unjoni Ewropea, waqt il-laqgħa tal-Kunsill tal-Unjoni Ewropea\nfit-18 u d-19 ta’ Ġunju, 2009.\n\nProtokoll jitqies\nħaġa waħda matTrattati.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

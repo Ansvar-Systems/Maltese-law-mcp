@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-296-13-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Area ta’ Reġistrazzjoni Obbligatorja u Reġistrazzjoni Volontarja",
+  "title_en": "Regoli dwar Area ta’ Reġistrazzjoni Obbligatorja u Reġistrazzjoni Volontarja",
+  "short_name": "eli/sl/296.13/mlt",
+  "status": "in_force",
+  "issued_date": "2024-05-27",
+  "in_force_date": "2024-05-10",
+  "url": "https://legislation.mt/eli/sl/296.13/20240510/mlt",
+  "description": "Official text from legislation.mt (eli/sl/296.13/mlt, expression eli/sl/296.13/20240510/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 111 tal-2024",
+      "content": "It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Area ta’\nReġistrazzjoni Obbligatorja u Reġistrazzjoni Volontarja.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "xort’oħra:\n\nTifsir.\n\nF’dawn ir-regoli, sakemm ir-rabta tal-kliem ma teħtieġx\n\n\"area ta’ reġistrazzjoni\" għandu jkollha l-istess tifsira kif\nmogħti lilha fl-Att;\n\"area ta’ reġistrazzjoni obbligatorja\" għandu jkollha listess tifsira kif mogħti lilha fl-Att;\n\"Att\" tfisser l-Att dwar ir-Reġistrazzjoni ta’ Artijiet;\n\nKap. 296.\n\n\"reġistratur \" għandu jkollha l-istess tifsira kif mogħti\nlilha fl-Att;\n\"Reġistratur tal-Artijiet\" għandu jkollha l-istess tifsira kif\nmogħti lilha fl-Att;\n\"reġistrazzjoni volontarja\" tfisser ir-reġistrazzjoni ta’\ntitolu għal art skont id-dispożizzjoniet tal-artikolu 17 tal-Att.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kwalunkwe proprjetà li tinsab barra minn area ta’\nreġistrazzjoni u ġiet reġistrata bi kwalunkwe titolu mir-Reġistratur talArtijiet, għandha titqies li hi f’area ta’ reġistrazzjoni obbligatorja\nb’effett mill-31 ta’ Marzu 2022.\n\nArea ta’\nreġistrazzjoni\nobbligatorja.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "obbligatorja",
+      "content": "(1)\nF’każ li reġistrazzjoni tolqot parti minn proprjetà\nli hi meqjusa bħala unità waħda (1), dik il-parti tal-proprjetà li ma\ntaqax f’area ta’ reġistrazzjoni għandha tiġi kkunsidrata għal\nreġistrazzjoni volontarja mir-reġistratur.\n\nReġistrazzjoni\nvolontarja.\n\n(2)\nProprjetà li ma taqax f’area ta’ reġistrazzjoni iżda tgawdi\ndrittijiet komuni li huma reġistrati ma’ proprjetà ta’ terzi persuni,\ngħandha tiġi kkunsidrata għal reġistrazzjoni volontarja mir-reġistratur.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-103-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar Postijiet ta' Ħsara għas-Saħħa Imħassra bl-Att II tal-2015",
+  "title_en": "Ordinanza dwar Postijiet ta' Ħsara għas-Saħħa Imħassra bl-Att II tal-2015",
+  "short_name": "Kap. 103(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1939-07-07",
+  "url": "https://legislation.mt/eli/cap/103/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/103/mlt, expression eli/cap/103/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "POSTIJIET TA’ ĦSARA GĦAS-SAĦĦA\n\n[ KAP. 103.\n\nKAPITOLU 103\nORDINANZA DWAR POSTIJIET TA’ ĦSARA GĦASSAĦĦA\nBiex tipprovdi għat-tibdil ta’ postijiet ta’ ħsara għas-saħħa.\n\n(7 ta’ Lulju, 1939)*\nL-ORDINANZA XXXV ta’ 1-1939, u ġiet emendata bl- Ordinanza VI ta'\nl-1959; bl-Avviż Legali 4 tal-1963; bl-Atti: LVIII tal-1974, XLIX tal-1981,\nXIII of 1983 u VIII tal-1990; u bl-Avviż Legali 409 tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Proklama Nru. XXXIII tas-7 ta’ Lulju, 1939.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

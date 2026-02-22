@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-75-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Eżenzjonijiet Fiskali (Istituzzjonijiet tal-Komunitajiet Ewropej)",
+  "title_en": "Regolamenti dwar Eżenzjonijiet Fiskali (Istituzzjonijiet tal-Komunitajiet Ewropej)",
+  "short_name": "eli/sl/123.75/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/123.75/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.75/mlt, expression eli/sl/123.75/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 289 tal-2004",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nEżenzjonijiet Fiskali (Istituzzjonijiet tal-Komunitajiet Ewropej).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-dispożizzjonijiet ta’ dawn ir-regolamenti għandhom\njapplikaw għall-\n\nIstituzzjonijiet li\ngħalihom\ngħandhom\njapplikaw dawn irregolamenti.\n\n(a) Parlament Ewropew\n(b) Kunsill tal-Unjoni Ewropea\n(ċ) Kummissjoni Ewropea\n(d) Qorti Ewropea tal-Ġustizzja tal-Komunitajiet Ewropej\n(e) Qorti Ewropea tal-Awdituri\n(f)\n\norganizzazzjonijiet oħra:\n(i)\n(ii)\n(iii)\n(iv)\n\nil-Bank Ċentrali Ewropew\nil-Bank tal-Investiment Ewropew\nOmbudsman Ewropew\nkull organizzazzjoni oħra tal-Komunitajiet\nEwropej li tista’ tiġi approvata mill-Ministru talAffarijiet Barranin u Promozzjoni talInvestiment bi qbil mal-Ministru tal-Finanzi\nminn żmien għal żmien.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "minn żmien għal żmien",
+      "content": "L-Istituzzjonijiet tal-Komunitajiet Ewropej, hawn fuq\nimsemmija, se jkunu eżenti mit-taxxi u ħlasijiet kif se jingħad hawn\ntaħt:\n\nEżenzjonijiet\nfiskali.\n\n(a) b’riferenza għall-Att dwar it-Taxxa fuq l-Income,\nskond l-artikolu 12(2) tal-istess Att;\n\nKap. 123.\n\n(b) b’riferenza għall-Att dwar ir-Reġistrazzjoni u lLiċenzjar ta’ Vetturi bil-Mutur, skont l-artikolu 19(2)\ntal-istess Att.\n\nKap. 368.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 69
+      }
+    }
+  ],
+  "definitions": []
+}

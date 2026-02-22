@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-44-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Tagħmir Mediku",
+  "title_en": "Regolamenti dwar Tagħmir Mediku",
+  "short_name": "eli/sl/427.44/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.44/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.44/mlt, expression eli/sl/427.44/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.427.44\n\nTAG}MIR MEDIKU\n\nLEĠISLAZZJONI SUSSIDJARJA 427.44\nREGOLAMENTI DWAR TAGĦMIR MEDIKU*\n21 ta’ Marzu, 2010\nL-AVVIŻ LEGALI 210 tal-2008, kif emendat bl-Avviż Legali 320 tal2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-85-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Għeneb Dikjarat li hu Prodott Agrikolu Imħassar bl-Att XXXIV tal-2023",
+  "title_en": "Ordni dwar Għeneb Dikjarat li hu Prodott Agrikolu Imħassar bl-Att XXXIV tal-2023",
+  "short_name": "eli/sl/85.4/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1960-01-15",
+  "url": "https://legislation.mt/eli/sl/85.4/20231017/mlt",
+  "description": "Official text from legislation.mt (eli/sl/85.4/mlt, expression eli/sl/85.4/20231017/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 2 ta’ l-1960",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Għeneb dikjarat li\nhu Prodott Agrikolu.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-għeneb għandu jiġi kunsidrat bħala prodott agrikolu\ngħall-finijiet ta’ l-Ordinanza dwar l-Esportazzjoni ta’ Prodotti talBiedja.\n\nProdott agrikolu.\nKap. 85.\n\n*Din l-Ordni ġiet imħassra bl-Att XXXIV tal-2023.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

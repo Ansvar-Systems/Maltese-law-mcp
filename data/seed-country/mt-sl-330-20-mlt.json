@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-20-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Malta Financial Services Authority Act (Digital Operational Resilience Act (DORA))",
+  "title_en": "Regolamenti dwar Malta Financial Services Authority Act (Digital Operational Resilience Act (DORA))",
+  "short_name": "eli/sl/330.20/mlt",
+  "status": "in_force",
+  "issued_date": "2024-07-29",
+  "in_force_date": "2025-01-17",
+  "url": "https://legislation.mt/eli/sl/330.20/20250117/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.20/mlt, expression eli/sl/330.20/20250117/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MALTA FINANCIAL SERVICES AUTHORITY ACT\n(DIGITAL OPERATIONAL RESILIENCE ACT (DORA))\n\n[ L.S.330.20\n\nLEĠISLAZZJONI SUSSIDJARJA 330.20\nREGOLAMENTI DWAR MALTA FINANCIAL\nSERVICES AUTHORITY ACT (DIGITAL\nOPERATIONAL RESILIENCE ACT (DORA))\n17 ta’ Jannar, 2025\n\nL-AVVIŻ LEGALI 166 tal-2024.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

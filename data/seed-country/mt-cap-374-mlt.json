@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-374-mlt",
+  "type": "statute",
+  "title": "Att li jirrikonoxxi Trusts Imħassar bl-Att XX tal-2004",
+  "title_en": "Att li jirrikonoxxi Trusts Imħassar bl-Att XX tal-2004",
+  "short_name": "Kap. 374(R)",
+  "status": "repealed",
+  "issued_date": "2011-12-07",
+  "in_force_date": "1994-09-23",
+  "url": "https://legislation.mt/eli/cap/374/20050101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/374/mlt, expression eli/cap/374/20050101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ KAP. 374.\n\nTRUSTS\n\nKAPITOLU 374\nATT LI JIRRIKONOXXI TRUSTS\nBiex Malta tirratifika l-Konvenzjoni fuq il-liġi applikabbli għal Trusts u\nl-għarfien tagħhom, u biex jagħmel xi emendi fl-Att dwar Offshore Trusts,\nKap.331.\n\n23 ta’ Settembru, 1994\nL-ATT XX tal-1994.\n\nMħassar bl-Att XIII. 2004.91 mill-1 ta’ Jannar 2005 - ara l-Avviż\nLegali 497 tal-2004.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

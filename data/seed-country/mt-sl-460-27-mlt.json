@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-460-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità",
+  "short_name": "eli/sl/460.27/mlt",
+  "status": "in_force",
+  "issued_date": "2013-01-03",
+  "in_force_date": "2013-01-03",
+  "url": "https://legislation.mt/eli/sl/460.27/20130103/mlt",
+  "description": "Official text from legislation.mt (eli/sl/460.27/mlt, expression eli/sl/460.27/20130103/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 309 tal-2012",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar idDrittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet indikati fl-Iskeda għandhom jitħallsu lilluffiċjal awtorizzat imsemmi mill-Prim Ministru bħala l-persuna\nawtorizzata biex joħroġ dokumenti tal-identità jew lil xi persuna\ndelegata għal dan il-għan.\n\nDrittijiet li\ngħandhom\njitħallsu.\n\nServizz\n\nĦlas\n€",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "erbat ijiem ta’ xogħol ................................................ bla ħlas",
+      "content": "Applikazzjonijiet, sottomessi fil-ħin normali ta’\nxogħol, għal karta ġdida tal-identità biex tissostitwixxi\nd-dokument li huwa mitluf, misruq jew imħassar\n(tinġabar wara erbat ijiem ta’ xogħol) .........................",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "(tinġabar wara erbat ijiem ta’ xogħol) ........................",
+      "content": "Applikazzjonijiet, sottomessi fil-ħin normali ta’\nxogħol, għal karta ġdida tal-identità sabiex\ntissostitwixxi dokument li huwa sfigurat (tinġabar\nwara erbat ijiem ta’ xogħol) .......................................\n#",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "#",
+      "content": "Is-servizzi mitluba kollha sabiex karti tal-identità\njinġabru fi żmien sagħtejn mis-sottomissjoni talapplikazzjoni ............................................................\n---------------------#din il-partita għadha mhux fis-seħħ.\n\n*ara r-regolament 1(2) ta’ dawn nir-Regolamenti, kif promulgati oriġinarjament, u lAvviż Legali 460 tal-2012.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

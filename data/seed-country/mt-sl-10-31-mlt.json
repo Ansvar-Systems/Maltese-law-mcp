@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-10-31-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Ġebla tal-Bini",
+  "title_en": "Ordni dwar il-Ġebla tal-Bini",
+  "short_name": "eli/sl/10.31/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.31/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.31/mlt, expression eli/sl/10.31/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 47 ta’ l-1976",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-{ebla tal-Bini.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-{ebla tal-Bini",
+      "content": "Il-]xuna ta’ kull ]ajt ta’ kull kamra, espost g]ax-xita,\ng]andha tkun ta’ 38`m (pied u 3 pulzieri), mag]mul minn \\ew[\nfa``ati ta’ l-istess ]xuna ta’ [ebla tal-franka, separati b’vojt kif\npreskritt bil-li[i.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "preskritt bil-li[i",
+      "content": "Ebda persuna ma tista’ tu\\a fil-bini ta’ xi ]ajt xi [ebla talfranka li l-qisien tag]ha, jew xi wie]ed minnhom, ikunu iktar\nminn -\n\nTitolu.\n}xuna tal-]itan ta’\nbarra.\n\nQisien tal-[ebla\nw\\ata fil-bini.\n\n(a) 50.80`m (20 pulzier) tul, 26.03`m (10¼ pulzieri) g]oli\nu 15.24`m (6 pulzieri) ]xuna fil-ka\\ tal-[ebla li tintu\\a\nf’Malta; u\n\n(b) 50.80`m (20 pulzier) tul, 27.94`m (11-il pulzier) g]oli\nu 15.24`m (6 pulzieri) ]xuna fil-ka\\ ta’ [ebla w\\ata\nf’G]awdex jew f’Kemmuna.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "{ebla tal-franka maqtug]a minn xi barriera m’g]andha\nf’ebda ka\\ tkun iktar mill-qisien, jew xi wie]ed minnhom, murija\nhawn ta]t:\n\n(a) 53.34`m (21 pulzier) tul, 27.30`m (10¾pulzieri) g]oli\nu 16.51`m (6½ pulzieri) ]xuna, fil-ka\\ ta’ [ebla\nmaqtug]a f’Malta, u\n\n(b) 53.34`m (21 pulzier) tul, 29.21`m (11½ pulzieri) g]oli\nu 16.51`m (6½ pulzieri) ]xuna fil-ka\\ ta’ [ebla\nmaqtug]a f’G]awdex jew f’Kemmuna.\n\nQisien tal-qtug] ta’\n[ebla tal-fanka.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 59
+      }
+    }
+  ],
+  "definitions": []
+}

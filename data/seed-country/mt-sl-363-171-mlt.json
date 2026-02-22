@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-363-171-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar il-Kontroll tal-Ħamiem (Kunsill Lokali Ir-Rabat)",
+  "title_en": "Bye-Laws dwar il-Kontroll tal-Ħamiem (Kunsill Lokali Ir-Rabat)",
+  "short_name": "eli/sl/363.171/mlt",
+  "status": "in_force",
+  "issued_date": "2012-07-20",
+  "in_force_date": "2012-07-20",
+  "url": "https://legislation.mt/eli/sl/363.171/20120720/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.171/mlt, expression eli/sl/363.171/20120720/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 50/04/2012",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar ilKontroll tal-Ħamiem (Kunsill Lokali Ir-Rabat).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\ntkunx meħtieġ xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"ħamiem domestiku\" tfisser ħamiem li jkun miżmum f’post ta’\nabitazzjoni jew xi post ieħor għal skop ta’ rikreazzjoni, passatemp\njew sport;\n\"ħamiem selvaġġ\" tfisser ħamiem li ma jkunx ħamiem\ndomestiku;\n''il-Kunsill\" tfisser il-Kunsill Lokali Ir-Rabat;\n\"lokalità\" tfisser il-lokalità Ir-Rabat.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "1 F’kull parti tal-lokalità hu projbit li persuna titma’ ħamiem\nselvaġġ.\n\nMhux permess li\npersuna titma’\nħamiem selvaġġ.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "għal dawk il-persuni li jrabbu jew jieħdu ħsieb ħamiem domestiku",
+      "content": "Il-proprjetarji ta’ proprjetà immobbli ġewwa l-lokalità li\nma tkunx abitata, għandhom jiżguraw li l-imsemmija proprjetà tkun\nimbarrata b’tali mod li ma’ jkunx jista’ jidħol jew ibejjet ħamiem\nselvaġġ fiha.\n\nProprjeta` immobli\nabbandunata.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "abbandunata",
+      "content": "1 Kull persuna li tikser xi dispożizzjoni ta’ dawn lordinamenti tkun ħatja ta’ kontravvenzjoni u teħel, meta tinsab\nħatja, u sakemm ma tkunx tapplika piena ogħla taħt xi liġi oħra:",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

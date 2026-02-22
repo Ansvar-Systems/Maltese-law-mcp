@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-463-1-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Korpi Kostitwiti",
+  "title_en": "Avviż dwar Korpi Kostitwiti",
+  "short_name": "eli/sl/463.1/mlt",
+  "status": "repealed",
+  "issued_date": "2011-01-11",
+  "in_force_date": "2011-01-11",
+  "url": "https://legislation.mt/eli/sl/463.1/20110111/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.1/mlt, expression eli/sl/463.1/20110111/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIś LEGALI 207 tal-2003",
+      "content": "It-titolu ta’ dan l-avviŜ hu l-AvviŜ dwar Korpi Kostitwiti.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-avviŜ hu l-AvviŜ dwar Korpi Kostitwiti",
+      "content": "Il-Ministru tal-Finanzi u l-Affarijiet Ekonomiëi stabbilixxa\nli l-korpi kostitwiti li huma l-aktar rappreŜentattivi tal-interessi tassettur kummerëjali skont l-artikolu 6(4) tal-Att dwar ilKorporazzjoni Maltija għall-IntrapriŜa huma dawn li āejjin:\nMalta Federation of Industry\nIl-Kamra tal-Kummerë ta’ Malta\nAssociation of the General Retailers and Traders Union.\n\nTitolu.\nKorpi kostitwiti.\nKap. 463.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

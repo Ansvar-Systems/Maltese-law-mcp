@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-7-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Avviżi ta' Perkilu għan-Navigazzjoni Imħassrin bl-Avviż Legali 22 tal-2003",
+  "title_en": "Regoli dwar Avviżi ta' Perkilu għan-Navigazzjoni Imħassrin bl-Avviż Legali 22 tal-2003",
+  "short_name": "eli/sl/234.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.7/mlt, expression eli/sl/234.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "AVVI|I TA’ PERIKLU G}AN-NAVIGAZJONI\n\n[L.S.234.07\n\n*LE{ISLAZZJONI SUSSIDJARJA 234.07\n\nREGOLI DWAR AVVI|I TA’ PERIKLU\nG}AN-NAVIGAZJONI\n\n13 ta’ Awissu, 1974\n\nL-AVVI| LEGALI 88 ta’ l-1974.\n\n*Im]assar bl-Avvi\\ Legali 22 ta’ l-2003.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-350-27-mlt",
+  "type": "statute",
+  "title": "Ħtiġiet dwar Standards u Prattika dwar il-Prezz ta' Telefonati u Sms's fil-Mezzi tax-Xandir",
+  "title_en": "Ħtiġiet dwar Standards u Prattika dwar il-Prezz ta' Telefonati u Sms's fil-Mezzi tax-Xandir",
+  "short_name": "eli/sl/350.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.27/mlt, expression eli/sl/350.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Introduzzjoni",
+      "content": "1 Dawn il-}ti[iet dwar Standards u Prattika dwar il-Prezz ta’\nTelefonati u SMS’s fil-Mezzi tax-Xandir saru bis-sa]]a ta’ lartikolu 20(3) ta’ l-Att dwar ix-Xandir, Kapitolu 350 tal-Li[ijiet ta’\nMalta.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Malta",
+      "content": "Il-Prezz tat-Telefonata u ta’ SMS g]andu jixxandar",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Malta",
+      "content": "Rispett g]all-privatezza tal-persuna li ``empel waqt\ntelefonati.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

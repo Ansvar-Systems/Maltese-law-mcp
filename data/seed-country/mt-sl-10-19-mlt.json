@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-10-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bejjiegħa fit-Toroq",
+  "title_en": "Regolamenti dwar Bejjiegħa fit-Toroq",
+  "short_name": "eli/sl/10.19/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.19/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.19/mlt, expression eli/sl/10.19/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 1 ta’ l-1938",
+      "content": "It-titolu ta’ dan ir-Regolament hu Regolament dwar\nBejjieg]a fit-Toroq.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Bejjieg]a fit-Toroq",
+      "content": "Ebda bejjieg] fit-toroq, bil-li`enza, ma jista’, ]lief bilpermess spe`jali tal-Kummissarju tal-Pulizija, jikkumer`ja jew\njinnegozja f’xi ]in li fih ma jistax jin\\amm ]anut miftu] biex isir\ndak ix-xorta ta’ kummer` jew negozju.\n\nTitolu.\nEg]mil ta’\nnegozju.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 27
+      }
+    }
+  ],
+  "definitions": []
+}

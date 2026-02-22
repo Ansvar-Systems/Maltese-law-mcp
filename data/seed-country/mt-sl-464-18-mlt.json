@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-464-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Penali imposti mill-Kunsill Mediku Imħassrin bl-Avviż Legali 249 tal-2025",
+  "title_en": "Regolamenti dwar Penali imposti mill-Kunsill Mediku Imħassrin bl-Avviż Legali 249 tal-2025",
+  "short_name": "eli/sl/464.18/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2009-02-03",
+  "url": "https://legislation.mt/eli/sl/464.18/20251017/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.18/mlt, expression eli/sl/464.18/20251017/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 38 ta’ l-2009",
+      "content": "It-titolu ta’ dawn r-regolamenti huwa Regolamenti dwar\nPenali imposti mill-Kunsill Mediku.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawk il-każijiet li l-Kunsill Mediku ikun sodisfatt li\na k k u ż a l i t i n ġ i e b k o n t r a p r o f es s j o n i s t t k u n ġ i e t i p p r u v a t a ,\ngħaldaqstant dak il-Kunsill jista’ jimponi penali ta’ mhux iżjed\nminn għoxrin elf euro.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penali",
+      "content": "Jekk professjonist jonqos milli jħallas dik il-penali li tiġi\nimposta fuqu fi żmien tliet xhur mid-data meta tiġi imposta dik ilpenali, għaldaqstant il-Kunsill Mediku għandu jordna li isem ilprofessjonist jiġi kanċellat mir-reġistru adatt mingħajr il-ħtieġa ta’\nebda avviż ieħor.\n\nTneħħija ta’ isem\nmir-reġistru.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penali",
+      "content": "Meta isem ta’ professjonist ikun ġie kanċellat minn xi\nr e ġ i s t r u g ħ a r- r a ġ u n i m s e m m i j a f i r - r e g o l a m e n t 3 , i s e m - i l\nprofessjonist għandu biss jerġa’ jitniżżel fir-reġistru adatt meta\ntitħallas il-penali kollha kemm hi u, f’dak il-każ, il-Kunsill Mediku\ngħandu jordna li dak l-isem għandu minnufih jerġa’ jitniżżel firreġistru adatt.\n\nMeta l-isem jerġa’\njitniżżel firreġistru.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 249 tal-2025.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

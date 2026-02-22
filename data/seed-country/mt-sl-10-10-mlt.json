@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-10-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Protezzjoni tas-Sagħtar",
+  "title_en": "Regolamenti dwar il-Protezzjoni tas-Sagħtar",
+  "short_name": "eli/sl/10.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.10/mlt, expression eli/sl/10.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 85 ta’ l-1932",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProtezzjoni tas-Sag]tar.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProtezzjoni tas-Sag]tar",
+      "content": "}add ma jista’ jeqred, jaqta’ jew jaqla’ mill-eg]ruq xtieli\ntas-sag]tar (Thymus Capitatus), jew ibieg], jixtri, ju\\a jew i\\omm\nxtieli minn dawn g]al xi g]an.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "xtieli minn dawn g]al xi g]an",
+      "content": "Id-Direttur ta’ l-Agrikultura jista’, madankollu, jag]ti\npermess bil-miktub biex jinqata’, jinqala’ mill-eg]ruq jew ji[i\nm`aqlaq sag]tar, kull meta l-art tkun me]tiega biex tin]adem jew\nbiex tkun mod ie]or sviluppata ndustrijalment, jew biex jitnaqqas\nin-numru ta’ xtieli fejn dawn ikunu kibru \\-\\ejjed.\n\nTitolu fil-qosor.\nProjbizzjoni.\n\nPermess f’`erti\nka\\ijiet.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

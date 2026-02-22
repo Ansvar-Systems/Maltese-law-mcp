@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-519-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi (2012) Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi (2012) Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 519(R)",
+  "status": "repealed",
+  "issued_date": "2012-05-21",
+  "in_force_date": "2012-01-01",
+  "url": "https://legislation.mt/eli/cap/519/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/519/mlt, expression eli/cap/519/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "JIMPLIMENTA MIŻURI TAL-ESTIMI (2012)\n\n[ KAP. 519.\n\nKAPITOLU 519\nATT LI JIMPLIMENTA MIŻURI TAL-ESTIMI (2012)\nBiex jimplimenta Miżuri tal-Estimi Finanzjarji għall-2012 u miżuri\namministrattivi oħra.\n\n1 ta’ Jannar, 2012\nL-ATT V tal-2012.\n\nImħassar bl-Att II tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

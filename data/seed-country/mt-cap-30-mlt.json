@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-30-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Ħamiem tal-Ittri Imħassra bl-Att II tal-2015",
+  "title_en": "Ordinanza dwar il-Ħamiem tal-Ittri Imħassra bl-Att II tal-2015",
+  "short_name": "Kap. 30(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1903-08-01",
+  "url": "https://legislation.mt/eli/cap/30/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/30/mlt, expression eli/cap/30/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[KAP. 30.\n\nĦAMIEM TAL-ITTRI\n\nKAPITOLU 30\nORDINANZA DWAR IL-ĦAMIEM TAL-ITTRI\nBiex tagħmel disposizzjonijiet dwar il-ħamiem tal-ittri.\n\n(1 ta’ Awissu, 1903)*\nL-ORDINANZA XIV tal-1901 kif emendata bl-Avviżi Legali: 4 tal-1963,\n148 tal-1975, u bl-Att XLIX tal-1981.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Proklama Nru. XIII tal-25 ta’ Ġunju, 1901 u Not. tal-Gvern Nru. 153 tas-27 ta’\nLulju, 1903.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

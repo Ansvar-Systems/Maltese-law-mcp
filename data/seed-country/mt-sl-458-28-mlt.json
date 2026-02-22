@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-458-28-mlt",
+  "type": "statute",
+  "title": "Regoli dwar il-Ħinijiet li fihom Jiftħu l-Ispiżeriji",
+  "title_en": "Regoli dwar il-Ħinijiet li fihom Jiftħu l-Ispiżeriji",
+  "short_name": "eli/sl/458.28/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2022-02-04",
+  "url": "https://legislation.mt/eli/sl/458.28/20220204/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.28/mlt, expression eli/sl/458.28/20220204/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 476 tal-2010, kif emendat bl-Avviż Legali 64 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regoli hu Regoli dwar il-Ħinijiet li\nfihom Jiftħu l-Ispiżeriji.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) L-ispiżeriji f’Malta u Għawdex għandhom jiftħu millinqas mid-9.00 a.m. sa 12.00 nofsinhar u mill-4.00 p.m. sas-7.00\np.m. mit-Tnejn sas-Sibt u jistgħu jibqgħu miftuħin għal kull żmien\naktar minn dawn is-siegħat.\n\nFtuħ ta’ spiżeriji\nmatul il-ġranet talġimgħa.\n\n(2) Is-Sibt wara nofsinhar l-ispiżjar responsabbli jista’ ma\njiftaħx l-ispiżerija tiegħu sakemm ikun hemm spiżerija oħra li tkun\nmiftuħa f’dik il-lokalità kif imfissra fit-Tieni Skeda li tinsab malAtt dwar Gvern Lokali, u skont roster li jinħareġ mill-Awtorità\ndwar il-Liċenzjar:\n\nKap. 363.\n\nIżda f’dawk il-lokalitajiet fejn ikun hemm biss spiżerija\nwaħda, dik l-ispiżerija għandha tiġi inkluża fir-roster ta’ spiżeriji\ngħal-lokalità fil-viċin skont ma tista’ tiddeċiedi l-Awtorità dwar ilLiċenzjar.\n(3) Ikun id-dmir tal-ispiżjar responsabbli li ma jiftaħx lispiżerija tiegħu s-Sibt wara nofsinhar li juri b’mod ċar fuq il-bieb\ntal-ispiżerija tiegħu l-isem u l-indirizz tal-ispiżerija li tkun miftuħa\nf’dik il-lokalità, kif imfissra fit-Tieni Skeda li tinsab mal-Att dwar\nGvern Lokali, u skond ir-roster li jinħareġ mill-Awtorità dwar ilLiċenzjar.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Gvern Lokali, u skond ir-roster li jinħareġ mill-Awtorità dwar ilLiċenzjar",
+      "content": "Għandu jkun id-dmir tal-ispiżjar responsabbli sabiex li\njiżgura li nhar ta' Ħadd u festi pubbliċi l-ispiżerija tiegħu għandha\ntkun mill-inqas miftuħa mid-9.00 am sa 12.00 nofsinhar u mill-4.00\np.m. sas-7.00 p.m. strettament skont ir-roster maħruġa għal dan liskop mill-Awtorità dwar il-Liċenzjar:\nIżda d-disposizzjonijiet ta' din ir-regola ma għandhomx\njapplikaw għal dik l-ispiżerija fl-Ajruport Internazzjonali ta' Malta.\n\nKap. 363.\n\nFtuħ ta’ spiżeriji\nfil-Ħdud u vaganzi\npubbliċi.\nSostitwit:\nA.L. 64 tal-2022.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

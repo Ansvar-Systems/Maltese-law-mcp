@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti li Jitħaddmu Mekkanikament (Passiġġieri u Merkanzija)Imħassrin bl-Avviż Legali 284 tal-2002",
+  "title_en": "Regolamenti dwar Bastimenti li Jitħaddmu Mekkanikament (Passiġġieri u Merkanzija)Imħassrin bl-Avviż Legali 284 tal-2002",
+  "short_name": "eli/sl/10.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.23/mlt, expression eli/sl/10.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI LI JIT}ADDMU MEKKANIKAMENT\n(PASSI{{IERI U MERKANZIJA)\n\n[L.S.10.23\n\nLE{ISLAZZJONI SUSSIDJARJA 10.23\nREGOLAMENTI DWAR BASTIMENTI\nLI JIT}ADDMU MEKKANIKAMENT\n(PASSI{{IERI U MERKANZIJA)\n20 ta’ Di`embru, 1955\nIN-NOTIFIKAZZJONI TAL-GVERN 704 tal-1955, kif emendata binNotifikazzjonijiet tal-Gvern 398 u 626 tal-1957; bl-Avvi\\ Legali 116 tal1975; bl-Atti: XLIX tal-1981 u XIII tal-1983; bl-Avvi\\ Legali 110 tal1989; u bl-Att XVII tal-1991.\n\nRevokati bl-Avvi\\ Legali 284 tal-2002.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

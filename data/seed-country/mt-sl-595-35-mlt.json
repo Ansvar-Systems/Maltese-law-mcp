@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-595-35-mlt",
+  "type": "statute",
+  "title": "Ordni li Jwaqqaf l-Aġenzija Ambjent MaltaImħassar bl-Avviż Legali 216 tal-2020",
+  "title_en": "Ordni li Jwaqqaf l-Aġenzija Ambjent MaltaImħassar bl-Avviż Legali 216 tal-2020",
+  "short_name": "eli/sl/595.35/mlt",
+  "status": "repealed",
+  "issued_date": "2020-01-29",
+  "in_force_date": "2020-01-29",
+  "url": "https://legislation.mt/eli/sl/595.35/20200129/mlt",
+  "description": "Official text from legislation.mt (eli/sl/595.35/mlt, expression eli/sl/595.35/20200129/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 595.35\n\nAĠENZIJA AMBJENT MALTA\n\nLEĠISLAZZJONI SUSSIDJARJA 595.35\nORDNI LI JWAQQAF L-AĠENZIJA AMBJENT MALTA\n7 ta’ Jannar, 2020\nL-AVVIŻ LEGALI 1 tal-2020.\n\nImħassar bl-Avviż Legali 216 tal-2020.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

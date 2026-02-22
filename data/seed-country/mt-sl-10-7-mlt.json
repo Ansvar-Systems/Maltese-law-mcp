@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-10-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Rapport ta' Annimali lill-Pulizija",
+  "title_en": "Regolamenti dwar Rapport ta' Annimali lill-Pulizija",
+  "short_name": "eli/sl/10.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.7/mlt, expression eli/sl/10.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "15 ta’ Lulju, 1921",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nRapport ta’ Annimali lill-Pulizija.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Rapport ta’ Annimali lill-Pulizija",
+      "content": "Sidien ta’ baqar, nag]a[, mog]o\\, ]nie\\er, \\wiemel u\nbg]ula g]andhom, matul l-ewwel sitt ijiem tax-xahar ta’ Jannar ta’\nkull sena u, fil-ka\\ ta’ ]niezer matul l-ewwel sitt ijiem tax-xahar ta’\nLulju ta’ kull sena wkoll, jirrappurtaw lill-og]la uffi`jal tal-Pulizija\nli jservi fl-eqreb G]assa tal-Pulizija tad-distrett, in-numru ta’ dawn\nl-annimali fil-pussess tag]hom u jg]idu fejn i\\ommuhom u, fil-ka\\\nta’ baqar u bg]ula, jispe`ifikaw is-sess u n-nisel.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "ta’ baqar u bg]ula, jispe`ifikaw is-sess u n-nisel",
+      "content": "Kull \\ieda fin-numru ta’ annimali, kemm bi twelid kif\nukoll b’xiri, u kull tnaqqis, sew b’bejg] jew mewt jew qatla,\ng]andhom ukoll ji[u rrapportati; kull annimal mibjug] g]all-qatla\ng]andu ji[i kunsidrat b]ala maqtul, u annimali li, fil-[ranet fuq\nimsemmija, g]ad ma jkollhom xahar ma g]andhomx jing]addu.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "imsemmija, g]ad ma jkollhom xahar ma g]andhomx jing]addu",
+      "content": "Huwa bi\\\\ejjed li r-rapport isir jew mis-sid jew millpersuna li tkun qed tie]u ]sieb, i\\da ebda persuna ma ti[i sku\\ata\ng]ar-ra[uni li kienet ]asbet, bi \\ball, li r-rapport kien ser isir minn\npersuna o]ra.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "persuna o]ra",
+      "content": "Is-sid jew il-persuna li tie]u ]sieb, skond kif ikun l-ka\\, li\njonqos milli jag]mel ir-rapporti msemmija fir-regolamenti 2 u 3 ta’\ndawn ir-Regolamenti, jew li jag]mel rapport falz jew ]a\\in je]el,\nmeta jinstab ]ati, il-pieni stabbiliti g]all- kontravvenzjonijiet.\n\nTitolu.\nRapport ta’\nannimali.\nSostitwit:\nN.G. 118 ta’ l1923.\n\n|idiet u tnaqqis.\n\nRapport wie]ed\nbiss me]tie[.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

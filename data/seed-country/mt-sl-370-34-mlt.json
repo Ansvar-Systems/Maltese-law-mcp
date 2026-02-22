@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-34-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Notified CISs)",
+  "title_en": "Regolamenti dwar Investment Services Act (Notified CISs)",
+  "short_name": "eli/sl/370.34/mlt",
+  "status": "in_force",
+  "issued_date": "2016-06-24",
+  "in_force_date": "2016-06-10",
+  "url": "https://legislation.mt/eli/sl/370.34/20250207/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.34/mlt, expression eli/sl/370.34/20250207/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (NOTIFIED CISs)\n\n[ S.L.370.34\n\nLEĠISLAZZJONI SUSSIDJARJA 370.34\nREGOLAMENTI DWAR INVESTMENT SERVICES\nACT (NOTIFIED CISs)*\n10 ta’ Ġunju, 2016\nL-AVVIŻ LEGALI 219 tal-2016, kif emendat bl-Avviżi Legali 240 tal2021, 294 tal-2023 u 32 tal-2025.\n\n*Dawn ir-regolamenti ġew ppubblikati bl-ilsien Ingliż biss.\n\n1\n\nEmendat:\nA.L. 294 tal-2023.",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

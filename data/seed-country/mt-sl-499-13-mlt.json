@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-499-13-mlt",
+  "type": "statute",
+  "title": "Ordni ta’ Dikjarazzjoni ta’ Port (Ras Ħanżir)",
+  "title_en": "Ordni ta’ Dikjarazzjoni ta’ Port (Ras Ħanżir)",
+  "short_name": "eli/sl/499.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/499.13/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.13/mlt, expression eli/sl/499.13/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 14 tal-1998, kif emendat bl-Att XV tal-2009",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni ta’ Dikjarazzjoni ta’\nPort (Ras }an\\ir).",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-triq li tinfed, mag]rufa b]ala \"It-Telg]a ta’ Ras }an\\ir\",\nli tag]ti mill-entratura (Point A) f’Laboratory Wharf g]all-qu``ata\ntal-g]olja fil-Qasam Industrijali ta’ Kordin (Point B), u li g]andha\ndawn il-koordinati li [ejjin, qeg]da b’dan ti[i dikjarata b]ala area\nfil-limiti tal-Port il-Kbir tal-Belt Valletta u li tag]mel parti minn\nport skond kif imfisser fl-Att dwar Portijiet u Bastimenti:\n\nDikjarazzjoni ta’\nPort.\nEmendat:\nXV. 2009.49.\n\nN 3971430\n\nE 455600 (Point A)\n\nu\nN 3970964\n\nE455910 (Point B).\n\nDawn il-koordinati qabel imsemmija jirreferu g]all-Malta\nSurvey Sheets No. 5470 u 5471.\n\nKap. 352.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

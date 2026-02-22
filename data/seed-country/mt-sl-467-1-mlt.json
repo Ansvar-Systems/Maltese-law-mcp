@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-467-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ogħla Infiq għall-Elezzjonijiet għall-Parlament Ewropew",
+  "title_en": "Regolamenti dwar l-Ogħla Infiq għall-Elezzjonijiet għall-Parlament Ewropew",
+  "short_name": "eli/sl/467.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-17",
+  "in_force_date": "2011-08-17",
+  "url": "https://legislation.mt/eli/sl/467.1/20110817/mlt",
+  "description": "Official text from legislation.mt (eli/sl/467.1/mlt, expression eli/sl/467.1/20110817/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 313 tal-2004, kif emendat bl-Att XXIV tal-2015",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar lOgħla Infiq għall-Elezzjonijiet għall-Parlament Ewropew.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ebda somma ma tista’ titħallas u ebda spiża ma tista’ ssir\nminn kandidat f’elezzjoni ta’ membri tal-Parlament Ewropew jew\nmill-aġent elettorali tiegħu sew qabel, matul, jew wara elezzjoni\nminħabba jew għar-rigward tat-tmexxija ta’ elezzjoni bħal dik,\niżjed minn ħamsin elf euro (€50,000):\n\nL-ogħla nfiq.\nEmendat:\nXXIV. 2015.52.\n\nIżda wkoll fil-komputazzjoni tal-ispiża tal-kampanja kif\nintqal qabel, meta kandidat jitlob miżata għall-parteċipazzjoni\nf ’attivitajiet politiċi jew għal xi prodotti jew servizzi li jkunu\ndisponibbli f’dawn l-attivitajiet l-ammont ta’ dawk il-miżati mitluba\nu verifikati kif xieraq għandu jitnaqqas mill-ammont totali tal-ispiża ta’\nkampanja elettorali.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

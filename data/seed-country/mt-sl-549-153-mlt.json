@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-549-153-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Konservazzjoni tal-Għasafar Selvaġġi (Dikjarazzjoni dwar Deroga għall-Kontroll tal-iSturnus vulgaris u l-Columba livia)",
+  "title_en": "Regolamenti dwar il-Konservazzjoni tal-Għasafar Selvaġġi (Dikjarazzjoni dwar Deroga għall-Kontroll tal-iSturnus vulgaris u l-Columba livia)",
+  "short_name": "eli/sl/549.153/mlt",
+  "status": "in_force",
+  "issued_date": "2022-12-22",
+  "in_force_date": "2022-12-16",
+  "url": "https://legislation.mt/eli/sl/549.153/20221216/mlt",
+  "description": "Official text from legislation.mt (eli/sl/549.153/mlt, expression eli/sl/549.153/20221216/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 354 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nil-Konservazzjoni tal-Għasafar Selvaġġi (Dikjarazzjoni dwar Deroga\ngħall-Kontroll tal-iSturnus vulgaris u l-Columba livia).",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra,\nkliem u frażijiet użati f’dawn ir-regolamenti għandu jkollhom l-istess\ntifsir kif mogħti lilhom fir-Regolamenti dwar il-Konservazzjoni talGħasafar Selvaġġi, hawn iżjed ’il quddiem imsejħa \"r-Regolamenti\ndwar l-Għasafar Selvaġġi\".",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Din id-deroga għandha tapplika biss għall-kontroll taliSturnus vulgaris u l-Columba livia.\n\nRestrizzjonijiet ta’\nkontroll.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Il-perjodu għall-kontroll tal-iSturnus vulgaris u lColumba livia għandu jkun mid-data tal-pubblikazzjoni ta’ dawn irregolamenti sat-30 ta’ Ġunju 2023, iż-żewġ dati inklużi.\n\nTwaqqif talperjodu għallkontroll.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Twaqqif talperjodu għallkontroll",
+      "content": "Il-kontroll tal-iSturnus vulgaris u l-Columba livia għandu\njkun skont id-dispożizzjonijiet tal-qafas stabbilit bir-Regolamenti\ndwar il-Konservazzjoni tal-Għasafar Selvaġġi (Qafas Sabiex Tiġi\nPermessa Deroga għall-Kontroll tal-Għasafar fl-Interess tas-Sigurtà\ntal-Ajru) u r-Regolamenti dwar l-Għasafar Selvaġġi.\n\nKontroll skont\nqafas speċifikat.\nL.S. 549.85.\n\nL.S. 549.42.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-9-27-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Ordnijiet ta’ Ffriżar u Ordnijiet ta’ Konfiska",
+  "title_en": "Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Ordnijiet ta’ Ffriżar u Ordnijiet ta’ Konfiska",
+  "short_name": "eli/sl/9.27/mlt",
+  "status": "in_force",
+  "issued_date": "2021-06-25",
+  "in_force_date": "2021-04-23",
+  "url": "https://legislation.mt/eli/sl/9.27/20210423/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.27/mlt, expression eli/sl/9.27/20210423/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 180 tal-2021",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar ir-Rikonoxximent Reċiproku ta’ Ordnijiet ta’ Ffriżar u Ordnijiet\nta’ Konfiska.\n\nTitolu u skop.\n\n(2)\nDawn ir-regolamenti jipprovdu għad-dispożizzjonijiet\nmeħtieġa biex jiġi implimentat ir-Regolament (UE) 2018/1805 talParlament Ewropew u tal-Kunsill tal-14 ta’ Novembru 2018 dwar irrikonoxximent reċiproku ta’ ordnijiet ta’ ffriżar u ordnijiet ta’\nkonsfiska, minn hawn ‘il quddiem imsejjaħ \"ir-Regolament\".",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu u skop",
+      "content": "(1)\nMeta Malta tkun l-Istat emittenti għall-finijiet tarRegolament, il-qrati ta’ ġurisdizzjoni kriminali u l-Uffiċċju għallIrkupru tal-Assi għandhom jiġu maħtura bħala awtoritajiet kompetenti\nemittenti fir-rigward ta’ ordnijiet ta’ ffriżar u ordnijiet ta’ konfiska:\n\nĦatra ta’\nawtoritajiet\nkompetenti.\n\nIżda l-Avukat Ġenerali għandu jkun l-awtorità ta’\nvalidazzjoni għall-finijiet tar-Regolament.\n(2)\nMeta Malta tkun l-Istat ta’ eżekuzzjoni għall-finijiet tarRegolament, l-Uffiċċju għall-Irkupru tal-Assi għandu jkun maħtur\nbħala l-awtorità ta' eżekuzzjoni kompetenti.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu u skop",
+      "content": "(1)\nOrdni ta’ ffriżar trasmessa lill-Uffiċċju għallIrkupru tal-Assi għandha tkun akkumpanjata mill-ordni ta' ffriżar\noriġinali u traduzzjoni taċ-ċertifikat ta’ ffriżar.\n(2)\nĊertifikat ta’ konfiska trasmess lill-Uffiċċju għallIrkupru tal-Assi għandu jkun akkumpanjat mill-ordni ta’ konfiska\noriġinali u traduzzjoni taċ-ċertifikat ta’ konfiska.\n\nTrasmissjoni ta’\nordnijiet ta’ ffriżar\nu ordnijiet ta’\nkonfiska",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

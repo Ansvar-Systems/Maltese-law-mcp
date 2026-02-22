@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-261-11-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1988)",
+  "title_en": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1988)",
+  "short_name": "eli/sl/261.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/261.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/261.11/mlt, expression eli/sl/261.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 2, 30, 49, 89 u 93 ta’ l-1988, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Awtorità tad-Djar\n(Trasferiment ta’ Proprjetà) (1988).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(Trasferiment ta’ Proprjetà) (1988)",
+      "content": "Il-proprjetà deskritta fl-Iskeda hi b’dan spe`ifikata g]allfinijiet ta’ l-artikolu 12 ta’ l-Att dwar l-Awtorità tad-Djar.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "(Trasferiment ta’ Proprjetà) (1988)",
+      "content": "Il-proprjetà spe`ifikata fl-artikolu 2 g]andha ti[i trasferita\nlill-Awtorità tad-Djar u ti[i vestita fiha kif provdut fl-imsemmi\nartikolu b’se]] mid-data spe`ifikata fl-Iskeda.\n\n(Artikolu 2)\n\nDeskrizzjoni tal-proprjetà msemmija fl-artikolu 2\nu jum stabbilit",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "proprjetà tal-Gvern",
+      "content": "(`) Bi``a art li tag]mel parti mill-Estate tad-Djar talGvern Tal-Plier, f’}a\\-|abbar, li tikkonsisti fi plots flimsemmi Estate mag]rufa b]ala Plot Nri. 10 sa 14 talkejl ta’ madwar 906 metru kwadru, li tmiss millGrigal, Xlokk u Lbi` ma’ proprjetà tal-Gvern.\nB’se]] mis-27 ta’ Ottubru, 1988:\n\n(a) Id-dar numru 2, Row B, Triq G. Grech Delicata, Estate\ntad-Djar tal-Gvern f’Ta’ Paris, Birkirkara.\n\n(b) Flat numru 2, Blokk A, Estate tad-Djar tal-Gvern ta’\nTriq Sannat, Ta`-~awla, ir-Rabat, G]awdex.\nB’se]] mit-18 ta’ Novembru, 1988:\n\nId-dar numru 4, Blokk I, Triq }al Luqa, Tarxien.",
+      "metadata": {
+        "source_line_start": 179,
+        "source_line_end": 196
+      }
+    }
+  ],
+  "definitions": []
+}

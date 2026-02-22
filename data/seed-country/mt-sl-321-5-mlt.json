@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-321-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tifsira ta’ Xogħol tal-Inġinerija Imħassrin bl-Att XLVIII tal-2021",
+  "title_en": "Regolamenti dwar it-Tifsira ta’ Xogħol tal-Inġinerija Imħassrin bl-Att XLVIII tal-2021",
+  "short_name": "eli/sl/321.5/mlt",
+  "status": "repealed",
+  "issued_date": "2012-11-07",
+  "in_force_date": "2012-10-19",
+  "url": "https://legislation.mt/eli/sl/321.5/20210723/mlt",
+  "description": "Official text from legislation.mt (eli/sl/321.5/mlt, expression eli/sl/321.5/20210723/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TIFSIRA TA’ XOGĦOL TAL-INĠINERIJA\n\n[ L.S.321.05\n\nLEĠISLAZZJONI SUSSIDJARJA 321.05\nREGOLAMENTI DWAR IT-TIFSIRA\nTA’ XOGĦOL TAL-INĠINERIJA\n19 ta’ Ottubru, 2012\nL-AVVIŻ LEGALI 354 tal-2012.\n\nImħassrin bl-Att XLVIII.2021.17.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

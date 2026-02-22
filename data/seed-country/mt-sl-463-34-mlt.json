@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-463-34-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Miżuri ta’ Assistenza Temporanja relatati mal-COVID-19",
+  "title_en": "Regolamenti dwar Miżuri ta’ Assistenza Temporanja relatati mal-COVID-19",
+  "short_name": "eli/sl/463.34/mlt",
+  "status": "in_force",
+  "issued_date": "2020-10-01",
+  "in_force_date": "2020-04-01",
+  "url": "https://legislation.mt/eli/sl/463.34/20220101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.34/mlt, expression eli/sl/463.34/20220101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "283 tal-2021u 70 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nMiżuri ta’ Assistenza Temporanja relatati mal-COVID-19.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regoamenti, kemm-il darba r-rabta tal-kliem\nma teħtiegx xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nKap. 463.\n\n\"il-Korporazzjoni\" tfisser l-Intrapriża ta’ Malta mwaqqfa taħt lAtt;\n\"Linji Gwida\" tfisser dawk il-linji ta’ gwida li jistgħu jiġu\nppubblikati mill-Korporazzjoni minn żmien għal żmien skont l-Att;\n\"impriża eliġibbli\" tfisser impriża skont it-tifsira mogħtija fl-Att\nli tissodisfa l-parametri stabbiliti fil-Linji Gwida;\n\"Qafas Temporanju\" tfisser il-Qafas Temporanju għal miżuri ta’\ngħajnuna mill-Istat biex jassistu l-ekonomija fix-xenarju attwali talCOVID-19, kif emendata u kif tista’ tiġi sussegwentement\nemendatakif ippublikata mill-Kummissjoni Ewropea.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Fejn il-Korporazzjoni tkun sodisfatta li impriżi eliġibbli\njeħtieġu assistenza biex isostnu, jippreservaw u jiġġeneraw l-attività\nekonomika tagħhom, il-Korporazzjoni tista’ tipprovdi għajnuna, kif\ngħandha tiġi stabbilita aktar fil-Linji Gwida fi kwalunkwe forma\npermessa mill-Att u skont il-Qafas Temporanju.\n\nGħajnuna sabiex\ntassisti impriżi\neliġibbli.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "eliġibbli",
+      "content": "(1)\nL-intrapriża li tkun intitolata għal kreditu ta’ taxxa\nskont dawn ir-regolamenti u l-Linji Gwida rispettivi, għandha tkun\nintitolata, wara l-għotja ta’ benefiċċju, li tnaqqas mill-ammont ta’\ntaxxa d-dħul li hu dovut fuq id-dħul taxxabbli tagħha li jiġi ġġenerat\nmill-kummerċ jew negozju fis-snin tas-stima l-ammont, li hu\nekwivalenti għall-kreditu ta’ taxxa mogħtija.\n\nUżu ta’ kreditu ta’\ntaxxa.\n\n(2)\nL-intrapriża li f’kwalunkwe sena ta’ stima ma tagħmilx\nużu mill-kreditu fiskali mogħti lilha jew li ma tnaqqasx il-valur millammont tad-dħul taxxabbli li jkun iġġenerat mill-kummerċ jew negozju\nli huwa inqas mill-kreditu fiskali mogħti, tista’ tuża’ l-kreditu ta’ taxxa li\nma jkunx utilizzat għal dik is-sena ta’ stima jew għas-snin sussegwenti.\n\nMIZURI TA’ ASSISTENZA TEMPORANJA\nRELATATI MAL-COVID-19\n(3)\nKreditu ta’ taxxa mogħtija li jkun konformi mat-termini u\nl-kondizzjonijiet stabbiliti fil-Linji Gwida ma jistgħux jagħtu lok għal\ndritt ta’ rifużjoni ta’ taxxa.\n\n[ L.S. 463.34\n\nSkadenza għassottomissjoni talapplikazzjonijiet\ngħall-għajnuna.\nSostitwit:\nA.L. 132 tal-2021;\nA.L. 283 tal-2021;\nA.L. 70 tal-2022.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 87
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "A.L. 70 tal-2022",
+      "content": "L-għajnuna tingħata lil impriżi eliġibbli taħt dawn irregolamenti sa mhux aktar tard mit-30 ta’ Ġunju, 2022.",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 92
+      }
+    }
+  ],
+  "definitions": []
+}

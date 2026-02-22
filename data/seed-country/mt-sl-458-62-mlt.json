@@ -1,0 +1,30 @@
+{
+  "id": "mt-sl-458-62-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Authorisation for Preparation and Dispensing of Medicinal Products by Automated Means from Designated Premises at Central Procurement Services Unit (CPSU)",
+  "title_en": "Regoli dwar Authorisation for Preparation and Dispensing of Medicinal Products by Automated Means from Designated Premises at Central Procurement Services Unit (CPSU)",
+  "short_name": "eli/sl/458.62/mlt",
+  "status": "in_force",
+  "issued_date": "2021-12-27",
+  "in_force_date": "2021-12-24",
+  "url": "https://legislation.mt/eli/sl/458.62/20211224/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.62/mlt, expression eli/sl/458.62/20211224/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "AUTHORISATION FOR PREPARATION AND DISPENSING\nOF MEDICINAL PRODUCTS BY AUTOMATED MEANS\nFROM DESIGNATED PREMISES AT CENTRAL\nPROCUREMENT AND SUPPLIES UNIT (CPSU)\n\n[ L.S. 458.62\n\nLEĠISLAZZJONI SUSSIDJARJA 458.62\nREGOLI DWAR AUTHORISATION FOR\nPREPARATION AND DISPENSING OF MEDICINAL\nPRODUCTS BY AUTOMATED MEANS FROM\nDESIGNATED PREMISES AT CENTRAL\nPROCUREMENT AND SUPPLIES UNIT (CPSU)\n24 ta’ Diċembru, 2021\n\nL-AVVIŻ LEGALI 501 tal-2021.\nDawn ir-regolamenti ġew ippubblikati bl-Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AUTHORISATION FOR PREPARATION AND DISPENSING OF MEDICINAL PRODUCTS BY AUTOMATED",
+      "definition": "FROM DESIGNATED PREMISES AT CENTRAL",
+      "source_provision": "s1"
+    }
+  ]
+}

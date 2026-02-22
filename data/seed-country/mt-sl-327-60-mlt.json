@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-327-60-mlt",
+  "type": "statute",
+  "title": "Statut I 21 - Statut tal-Istitut tal-Istudji Forensiċi",
+  "title_en": "Statut I 21 - Statut tal-Istitut tal-Istudji Forensiċi",
+  "short_name": "eli/sl/327.60/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.60/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.60/mlt, expression eli/sl/327.60/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STATUT G}ALL-ISTITUT TAL-KRIMINOLO{IJA\n\n[L.S.327.60\n\nLE{ISLAZZJONI SUSSIDJARJA 327.60\nSTATUT G}ALL-ISTITUT TAL-KRIMINOLO{IJA\n3 ta’ Novembru, 2009\nL-AVVI| LEGALI 323 tal-2009, kif emendat bl-Avvi\\ Legali 136 tal2012.\n\nRevokati bl-Avviż Legali 300 tal-2012.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

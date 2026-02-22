@@ -1,0 +1,95 @@
+{
+  "id": "mt-sl-502-2-mlt",
+  "type": "statute",
+  "title": "Minister of Finance, the Economy and Investment for the Issue of Euro 30,000,000 Malta Government Stocks",
+  "title_en": "Minister of Finance, the Economy and Investment for the Issue of Euro 30,000,000 Malta Government Stocks",
+  "short_name": "eli/sl/502.2/mlt",
+  "status": "in_force",
+  "issued_date": "2011-11-15",
+  "in_force_date": "2011-11-15",
+  "url": "https://legislation.mt/eli/sl/502.2/20111115/mlt",
+  "description": "Official text from legislation.mt (eli/sl/502.2/mlt, expression eli/sl/502.2/20111115/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "LEGAL NOTICE 431 of 2011",
+      "content": "The title of this Directive is Directive by the Minister of\nFinance, the Economy and Investment for the Issue of Euro\n30,000,000 Malta Government Stocks.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Title",
+      "content": "An amount of Euro 24,000,000 Malta Government Stock\nshall be issued Floating Rate Malta Government Stock 2014 (v)\nlinked to the six-month Euribor.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issuing of Stock",
+      "content": "The Stock shall be issued as set out in the prospectus.\n\nMode of issuing\nStock.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stock",
+      "content": "All persons and, or entities are eligible to apply for this\nStock. Allotment will be applied as set out in the prospectus.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Allotment policy",
+      "content": "In terms of the Financial Markets Act, when this Stock has\nbeen allotted, an application shall be made for this Stock to be\nplaced on the official list and for trading on the Malta Stock\nExchange.\n\nTrading on the\nMalta Stock\nExchange.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Exchange",
+      "content": "The sum of money to be raised shall be Euro 24,000,000.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "The sum of money to be raised shall be Euro 24,000,000",
+      "content": "(1) Interest shall be paid at the floating rate linked to the\nsix-month Euribor in effect on the applicable interest determination\ndate, plus a spread of 45 basis points (bps) calculated on Day Count\nFraction (Actual/360) for every Euro 100. The spread of 45bps is\nfixed and applicable until the maturity of the Stock.\n\nSum of money to\nbe raised.\nRate of interest and\ndates of payment.\n\n(2) Interest shall be payable half yearly in arrears on the 23rd\nof May and 23rd of November in every year for the duration of the\nStock.\n(3) The first payment covering the period from the 23rd\nNovember, 2011 to the 22nd May, 2012 (both dates inclusive), shall\nbe made on the 23rd day of May, 2012.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 73
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Stock",
+      "content": "The Floating Rate Malta Government Stock 2014 (V)\nlinked to the six-month Euribor shall be redeemed at par on the\n23rd November, 2014.\n\nRedemption of\nStock.",
+      "metadata": {
+        "source_line_start": 74,
+        "source_line_end": 83
+      }
+    }
+  ],
+  "definitions": []
+}

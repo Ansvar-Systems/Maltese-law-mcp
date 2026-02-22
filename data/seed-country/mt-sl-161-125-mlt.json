@@ -1,0 +1,95 @@
+{
+  "id": "mt-sl-161-125-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħ\u0001ruġ\u0004 ta' Euro 100,000,000 Stock tal-Gvern ta’ Malta",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħ\u0001ruġ\u0004 ta' Euro 100,000,000 Stock tal-Gvern ta’ Malta",
+  "short_name": "eli/sl/161.125/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-13",
+  "in_force_date": "2011-08-13",
+  "url": "https://legislation.mt/eli/sl/161.125/20110813/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.125/mlt, expression eli/sl/161.125/20110813/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 162 tal-2011",
+      "content": "It-titolu ta’ din id-direttiva hu Direttiva mill-Ministru talFinanzi, l-Ekonomija u Investiment għall-Ħruġ ta’ Euro\n100,000,000 Stock tal-Gvern ta’ Malta.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għandu jinħareġ ammont ta’ Euro 100,000,000 Stock talGvern ta’ Malta kif ġej:\n\nĦruġ ta’ Stock.\n\n(a) 4.25% Stock tal-Gvern ta’ Malta 2017 (III) Fungibility\nIssue, u\n(b) 5.25% Stock tal-Gvern ta’ Malta 2030 (I) Fungibility\nIssue, jew\n(ċ) f’ammonti miż-żewġ Stocks imsemmija hawn qabel\nb’valur nominali flimkien ta’ Euro 100,000,000.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-ħruġ ta’ Stocks ser isir kif stipulat fil-prospett.\n\nMod tal-Ħruġ ta’\nStocks.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stocks",
+      "content": "Kull persuna u, jew enti jistgħu japplikaw għal dawn liStocks. It-tqassim tal-iStocks isir kif hemm spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Stock",
+      "content": "(1) Taħt id-dispożizzjonijiet tal-Att dwar is-Swieq\nFinanzjarji, meta dawn l-iStocks jiġu allokati, għandha ssir\napplikazzjoni sabiex kull Stock jitqiegħed fuq il-lista uffiċjali u\nbiex ikun negozjat fil-Borża ta’ Malta.\n\nNegozju fil-Borża\nta’ Malta.\nKap. 345.\n\n(2) Fis-6 ta’ Novembru, 2011 wara l-pagament tal-ewwel\nimgħax, kull ammont allokat fl-4.25% Stock tal-Gvern ta’ Malta\n2017 (III) FI jiġi integrat mal-ħruġ eżistenti ta’ dan l-iStock u wara,\ndawn iż-żewġ Stocks jitqiesu bħala Stock wieħed.\n(3) Fit-23 ta’ Ġunju, 2011 wara l-pagament tal-ewwel imgħax,\nkull ammont allokat fil-5.25% Stock tal-Gvern ta’ Malta 2030 (I) FI\njiġi integrat mal-ħruġ eżistenti ta’ dan l-iStock u wara, dawn iżżewġ Stocks jitqiesu bħala Stock wieħed.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 62
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "Is-somma ta’ flus li għandha tinġabar bl-iStocks\nimsemmija flimkien tkun ta’ Euro 100,000,000. L-Accountant\nGeneral jirriserva d-dritt li jżid is-somma li għandha tinġabar\nb’ammont ta’ mhux iżjed minn Euro 50,000,000.\n\nSomma ta’ flus li\ngħandha tinġabar.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "għandha tinġabar",
+      "content": "(1) L-imgħax bir-rata ta’ Euro 2.125 għal kull Euro 100,",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 72
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Fidwa ta’ Stock",
+      "content": "(1) L-4.25% Stock tal-Gvern ta’ Malta 2017 (III) jiġi mifdi\nb’parità fis-6 ta’ Novembru, 2017.\n(2) Il-5.25% Stock tal-Gvern ta’ Malta 2030 (I) jiġi mifdi\nb’parità fit-23 ta’ Ġunju, 2030.",
+      "metadata": {
+        "source_line_start": 96,
+        "source_line_end": 102
+      }
+    }
+  ],
+  "definitions": []
+}

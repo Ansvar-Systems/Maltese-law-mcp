@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-499-8-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Avjazzjoni Ċivili (Eżenzjoni mil-Liċenza ta’ Operatur)",
+  "title_en": "Ordni dwar l-Avjazzjoni Ċivili (Eżenzjoni mil-Liċenza ta’ Operatur)",
+  "short_name": "eli/sl/499.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1987-12-24",
+  "url": "https://legislation.mt/eli/sl/499.8/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.8/mlt, expression eli/sl/499.8/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "bl-Atti VIII tal-2010 u XL tal-2023",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar l-Avjazzjoni Ċivili\n(Eżenzjoni mil-Liċenza ta’ Operatur).",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(Eżenzjoni mil-Liċenza ta’ Operatur)",
+      "content": "F’dan l-Ordni -\n\n\"l-Att\" tfisser l-Att dwar 1-Avjazzjoni Ċivili;\n\nTitolu.\nEmendat:\nVIII. 2010.61.\nTifsir.\nEmendat:\nAtt XL tal-2023.\nKap. 232.\n\n\"ekwipaġġ\" tfisser kull persuna impjegata jew ingaġġata fuq\ninġenju ta’ l-ajru u li jkun qed itir fuq xogħol li jkun qed jagħmel\nf’dak l-istess inġenju;\n\"ftehim dry lease\" tfisser ftehim li bih inġenju ta’ l-ajru jinkera\nmingħajr ekwipaġġ mis-sid reġistrat tiegħu lil persuna oħra;\n\"impriża tat-trasport ta’ l-ajru estera\" tfisser impriża li x-xogħol\ntagħha jinkludi l-ġarr bl-ajru ta’ passiġġieri jew ta’ merkanzija bi\nħlas jew b’kumpens u li l-post prinċipali tax-xogħol tagħha jkun\nbarra minn Malta;\n\"kmandant ta’ l-inġenju ta’ l-ajru\" għandha l-istess tifsira kif\nmogħtija lil \"pilot in command\" fl-artikolu 2 ta’ l-Att dwar inNavigazzjoni fl-Ajru;\n\nKap. 641.\n\nMeta kwalunkwe liġi oħra tagħmel referenza għad-dispożizzjonijiet\ntal-Air Navigation Order, liema dis-pożizzjonijiet ma ġewx riprodotti flAtt dwar i n-Navigazzj oni fl-Ajru, jew bi k walu nkwe At t li\njissostitwixxih, il-materja għandha tiġi regolata permezz ta’ strument\nregolatorju maħruġ mid-Direttur Ġenerali.\n\nKap. 641.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 54
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kap. 641",
+      "content": "(1) Inġenju ta’ l-ajru li l-piż totali massimu awtorizzat\ntiegħu ma jkunx aktar minn 2700 kilgrammi ma jkunx suġġett\ngħall-ħtieġa ta’ liċenza ta’ operatur meta jintuża fuq titjira (a) li fiha l-persuni jinġarru għall-finijiet ta’ taħriġ biex\njittajjar inġenju ta’ l-ajru;\n(b) li fiha l-persuni jinġarru għall-gost jew biex jaraw linħawi ta’ madwar Malta; jew\n(ċ) li fiha l-kmandant ta’ l-inġenju ta’ l-ajru jħallas lis-sid\nta’ l-inġenju ta’ l-ajru biex ikun jista’ jtajjar l-inġenju\nta’ l-ajru.\n(2) It-titjiriet magħmula minn inġenju ta' l-ajru reġistrat\nf ’M a l t a dr y le as ed l i l i m p ri ż a t a t- t r a s p o rt t a ’ l - a j r u e s t e r a\ngħandhom ikunu eżenti mill-ħtiġiet ta’ liċenza ta’ operatur skond lartikolu 6(1) ta’ l-Att għaż-żmien tal-ftehim dry lease.\n\nEżenzjoni milliċenza ta’\noperatur.\nEmendat:\nVIII. 2010.61.\n\nL.S.499.08]\n\nTħaris tal-Att dwar\nin-Navigazzjoni flAjru.\nEmendat:\nAtt XL tal-2023.\nKap. 641\n\nAVJAZZJONI ĊIVILI\n(EŻENZJONI MIL-LIĊENZA TA’ OPERATUR)",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 87
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Att XL tal-2023",
+      "content": "L-eżenzjoni msemmija fir-regolament 3(1) ma għandha blebda mod tinftiehem li tfisser li l-operatur jew is-sid ta’ l-inġenju\nta’ l-ajru, jew il-kmandant ta’ l-inġenju ta’ l-ajru ikun eżenti milli\njħares il-ħtiġiet Att dwar in-Navigazzjoni fl-Ajru, u minn kull\nkondizzjoni oħra li l-Ministru jista’ jimponi.",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 95
+      }
+    }
+  ],
+  "definitions": []
+}

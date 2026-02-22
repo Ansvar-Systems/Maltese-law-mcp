@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-137-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Poteri u l-Funzjonijiet tad-Direttur tal-Lottu Pubbliku",
+  "title_en": "Att dwar il-Poteri u l-Funzjonijiet tad-Direttur tal-Lottu Pubbliku",
+  "short_name": "Kap. 137",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1953-04-04",
+  "url": "https://legislation.mt/eli/cap/137/19530404/mlt",
+  "description": "Official text from legislation.mt (eli/cap/137/mlt, expression eli/cap/137/19530404/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Pubbliku",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar il-Poteri u lFunzjonijiet tad-Direttur tal-Lottu Pubbliku.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Huwa hawnhekk dikjarat illi l-poteri u l-funzjonijiet li bissubartikolu (1) tal-artikolu 2 tal-Att għat-Twaqqif tal-Kariga ta’\nDirettur tal-Lottu Pubbliku ġew mogħtija lid-Direttur tal-Lottu\nPubbliku jikkomprendu u, ħlief għall-finijiet ta’ responsabbiltà\nkriminali, għandu jitqies li dejjem ikkomprendew il-poteri u ddmirijiet kollha illi, skond jew bis-saħħa tal-Ordinanza dwar ilLottu Pubbliku u l-Att tal-1948 dwar il-Lotteriji tal-Gvern #, kienu\nmogħtija jew assenjati lill-Kollettur tat-Taxxi u l-Lottu.\n\nDikjarazzjoni dwar\nil-poteri u lfunzjonijiet tadDirettur tal-Lottu\nPubbliku.\nKap. 122\n(Imħassar bl-Att\nXVI tal-2018).\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 198 tas-7 ta’ April, 1953.\n#Revokat bl-Att XXIV tal-1981 - Kapitolu 292 ta’ din l-Edizzjoni Riveduta).\n\nKap. 70\n(Imħassra bl-Att\nXVI tal-2018).",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

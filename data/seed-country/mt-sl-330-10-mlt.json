@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Malta Financial Services Authority Act (Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds)",
+  "title_en": "Regolamenti dwar Malta Financial Services Authority Act (Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds)",
+  "short_name": "eli/sl/330.10/mlt",
+  "status": "in_force",
+  "issued_date": "2017-03-08",
+  "in_force_date": "2017-03-07",
+  "url": "https://legislation.mt/eli/sl/330.10/20260116/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.10/mlt, expression eli/sl/330.10/20260116/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "(INDICES USED AS BENCHMARKS IN FINANCIAL\nINSTRUMENTS AND FINANCIAL CONTRACTS OR TO\nMEASURE THE PERFORMANCE OF INVESTMENT FUNDS)\n\n[ L.S.330.10\n\nLEĠISLAZZJONI SUSSIDJARJA 330.10\nREGOLAMENTI DWAR MALTA FINANCIAL\nSERVICES AUTHORITY ACT (INDICES USED AS\nBENCHMARKS IN FINANCIAL INSTRUMENTS\nAND FINANCIAL CONTRACTS OR TO MEASURE\nTHE PERFORMANCE OF INVESTMENT FUNDS)\n7 ta’ Marzu, 2017\nAVVIŻ LEGALI 77 tal-2017, kif emendat bl-Avviżi Legali 185 tal-2018,\n312 tal-2022 u 6 tal-2026.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

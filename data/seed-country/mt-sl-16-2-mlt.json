@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-16-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Atti Duplikati ta' l-Istat Ċivili",
+  "title_en": "Regolamenti dwar Atti Duplikati ta' l-Istat Ċivili",
+  "short_name": "eli/sl/16.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/16.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/16.2/mlt, expression eli/sl/16.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 92 ta’ l-1979",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar Atti\nDuplikati ta’ l-Istat ~ivili.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Ikun id-dmir tad-Direttur tar-Re[istru Pubbliku li j]ejji\natti ta’ l-istat `ivili duplikati ta’ dawk l-atti ori[inali kollha\ndepo\\itati fir-Re[istru Pubbliku f’Malta jew f’G]awdex li jkunu\nmeqruda jew li tkun [ratilhom ]sara min]abba ]ruq jew tkiddu blu\\u.\n\nT]ejjija ta’ atti\nduplikati.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-atti duplikati hekk im]ejjija g]andhom ji[u awtentikati\nmid-Direttur tar-Re[istru Pubbliku jew minn dik il-persuna o]ra\ndelegata minnu billi jiffirma isfel fit-tarf ta’ l-imsemmija atti.\n\nAwtentikazzjoni\nta’ l-atti.\n\n(2) Dawn l-atti `ivili duplikati g]andhom isiru b’riferenza\ng]ar-re[istru mi\\mum fir-Re[istru Pubbliku.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "g]ar-re[istru mi\\mum fir-Re[istru Pubbliku",
+      "content": "Id-disposizzjonijiet tal-Kodi`i ~ivili dwar il-formulazzjoni\nta’ atti ta’ l-istat `ivili g]andhom japplikaw g]al atti duplikati\nm]ejjija skond dawn ir-Regolamenti.\n\nApplikabbiltà taddisposizzjonijiet\ntal-Kodi`i ~ivili.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

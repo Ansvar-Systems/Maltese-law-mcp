@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-427-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Żraben u Xedd is-Saqajn",
+  "title_en": "Ordni dwar Żraben u Xedd is-Saqajn",
+  "short_name": "eli/sl/427.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.2/mlt, expression eli/sl/427.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ Jannar, 2001",
+      "content": "1 It-titolu ta’ dan l-Ordni hu Ordni dwar Żraben u Xedd isSaqajn, u jista’ jissejjaħħ Ordni Nru. 43 tal-2000.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1 Dan l-Ordni Mandatorju għandu japplika għat-twaħħil ta’\ntikketti fuq materjal użat fil-komponenti prinċipali ta’ żraben u\nxedd is-saqajn għall-bejgħ lill-konsumatur.\n\nApplikabbilità.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "żraben ġugarelli",
+      "content": "1 Għall-finijiet ta’ dan l-Ordni Mandatorju, kemm-il darba rrabta tal-kliem ma teħtieġx xort’oħra, għandhom japplikaw ittifsiriet li ġejjin:\n\nL.S.427.50",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsiriet",
+      "content": "1 Informazzjoni fuq il-kompożizzjomi ta’ żraben għandha\ntingħata permezz tat-twaħħil ta’ tikketta kif speċifikat fil-paragrafu",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "tkun stabbilita fuq il-bażi tal-provvedimenti li hemm fil-paragrafu",
+      "content": "1 u fl-Ewwel Skeda, mingħajr ma jittieħed kont ta’ aċċessorji jew\nrinforzi bħalma huma rqajja’ ta’ l-għarqub, tberfil, tiżjin, bokkli,\nlametti, vajlori tat-toqob tal-lazzijiet jew aċċessorji simili.",
+      "metadata": {
+        "source_line_start": 81,
+        "source_line_end": 83
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Ħruġ fis-suq",
+      "content": "1 Kull żarbun maħruġ fis-suq għandu jissodisfa l-ħtiġiet ta’\ndan l-Ordni mingħajr preġudizzju għal provvedimenti rilevanti\noħra.",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 90
+      }
+    }
+  ],
+  "definitions": []
+}

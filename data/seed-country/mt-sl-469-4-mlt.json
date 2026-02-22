@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-469-4-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ ammont ta’ €39,599,347.78 5.1% Stock tal-Gvern ta’ Malta 2014 (It-Tielet Ħruġ) Imħassra bl-Att XLV tal-2016",
+  "title_en": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ ammont ta’ €39,599,347.78 5.1% Stock tal-Gvern ta’ Malta 2014 (It-Tielet Ħruġ) Imħassra bl-Att XLV tal-2016",
+  "short_name": "eli/sl/469.4/mlt",
+  "status": "in_force",
+  "issued_date": "2012-05-03",
+  "in_force_date": "2012-05-03",
+  "url": "https://legislation.mt/eli/sl/469.4/20120503/mlt",
+  "description": "Official text from legislation.mt (eli/sl/469.4/mlt, expression eli/sl/469.4/20120503/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "LEGAL NOTICE 374 of 2004, as amended by Legal Notice 427 of 2007",
+      "content": "The title of this Directive is Directive by the Prime\nMinister and Minister of Finance for the Issue of €39,599,347.78",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "LEGAL NOTICE 374 of 2004, as amended by Legal Notice 427 of 2007",
+      "content": "1% Malta Government Stock 2014 (First Issue).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "LEGAL NOTICE 374 of 2004, as amended by Legal Notice 427 of 2007",
+      "content": "This Stock shall be issued as set out in the prospectus.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "This Stock shall be issued as set out in the prospectus",
+      "content": "All persons and/or entities are eligible to apply for this\nStock. Allotment will be applied as set out in the prospectus.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "This Stock shall be issued as set out in the prospectus",
+      "content": "(a) In terms of the Financial Markets Act, when the Stock\nhas been allotted, an application shall be made for the\nStock to be placed on the official list and for trading on\nthe Malta Stock Exchange.\n\nTitle.\nAmended by:\nL.N. 427 of 2007.\nMode of issuing\nstock.\nAllotment policy.\nTrading on the\nMalta Stock\nExchange.\n\n(b) On the 6th January, 2005 after the payment of the first\ndividend, this stock will be integrated with the existing\nissue 5.1% Malta Government Stock 2014 (III) and\nshall thereafter both be deemed to be one Stock.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Exchange",
+      "content": "Interest at the rate of €2.55,0 for every €100 Stock will be\npayable half-yearly in arrear on the 6th day of January and on the\n6th day of July in every year for the duration of the Stock. The first\npro-rata payment covering the period from the 14th day of August,\n2004 to the 6th day of January, 2005 shall be made on the 6th day\nof January, 2005.\n\nRate of interest and\ndates of payment.\nAmended by:\nL.N. 427 of 2007.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "L.N. 427 of 2007",
+      "content": "*\n\nThe Stock shall be redeemed at par on the 6th July, 2014.\n\nThis Directive has been revoked by Act XLV of 2016, but it is still partially\napplicable since the six-year period prescribed by law to claim funds referring to\nstocks that have already matured, has not yet expired.\n\nRedemption of\nStock.",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 85
+      }
+    }
+  ],
+  "definitions": []
+}

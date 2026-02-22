@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-509-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi (2011) Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi (2011) Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 509(R)",
+  "status": "repealed",
+  "issued_date": "2011-04-01",
+  "in_force_date": "2011-01-01",
+  "url": "https://legislation.mt/eli/cap/509/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/509/mlt, expression eli/cap/509/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "JIMPLIMENTA MIŻURI TAL-ESTIMI (2011)\n\n[ KAP. 509.\n\nKAPITOLU 509\nATT LI JIMPLIMENTA MIŻURI TAL-ESTIMI (2011)\nBiex jimplimenta Miżuri tal-Estimi Finanzjarji għall-2011 u miżuri\namministrattivi oħra.\n\n1 ta’ Jannar, 2011\nL-ATT IV tal-2011.\n\nImħassar bl-Att II tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

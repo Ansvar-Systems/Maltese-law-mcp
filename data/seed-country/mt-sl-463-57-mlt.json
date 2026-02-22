@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-57-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Iżvilupp ta’ Negozju (2024)",
+  "title_en": "Regolamenti dwar l-Iżvilupp ta’ Negozju (2024)",
+  "short_name": "eli/sl/463.57/mlt",
+  "status": "in_force",
+  "issued_date": "2024-04-30",
+  "in_force_date": "2024-03-01",
+  "url": "https://legislation.mt/eli/sl/463.57/20240301/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.57/mlt, expression eli/sl/463.57/20240301/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 91 tal-2024",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Iżvilupp ta’ Negozju (2024).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nKap. 463.\n\n\"impriża eliġibbli\" għandu jkollha l-istess tifsira kif\nmogħti lilha fil-Linji Gwida;\n\"Korporazzjoni\" tfisser l-Intrapriża ta’\nmwaqqfa skont l-artikolu 7 tal-Att;\n\nMalta\n\nkif\n\n\"Linji Gwida\" tfisser il-Linji Gwida kif jistgħu jiġu\nppubblikati mill-Korporazzjoni minn żmien għal żmien skont lAtt, li jistabbilixxu l-parametri tal-implimentazzjoni talgħajnuna mogħtija permezz ta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Fejn il-Korporazzjoni tkun sodisfatta li impriża li tkun\nqed twettaq jew li jkollha l-ħsieb li twettaq attività li tkun se\ntikkontribwixxi għall-iżvilupp ekonomiku ta’ Malta, tkun teħtieġ\ngħajnuna sabiex tiffaċilita l-investiment, il-Korporazzjoni tista’ tassisti\nlil dik l-impriża bi kreditu ta’ taxxa u, jew għotja fi flus li ma tistax\nteċċedi t-tliet mitt elf euro (€300,000) fuq perjodu ta’ tliet (3) snin\nskont it-termini u l-kondizzjonijiet stabbiliti fil-Linji Gwida.\n\nTip ta’ Għajnuna.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tip ta’ Għajnuna",
+      "content": "(1)\nIl-Korporazzjoni għandha tistabbilixxi perjodi ta’\nsottomissjoni ta’ applikazzjonijiet, liema perjodi għandhom jiġu\nppubblikati fuq is-sit elettroniku tal-Korporazzjoni.\n\nSkadenza għassottomissjoni talapplikazzjonijiet\ngħall-għajnuna.\n\n(2)\nL-ebda għajnuna skont dawn ir-regolamenti ma għandha\ntingħata mill-Korporazzjoni wara l-31 ta’ Diċembru 2030.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 65
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-647-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Markets in Crypto-Assets Act (Fees)",
+  "title_en": "Regolamenti dwar Markets in Crypto-Assets Act (Fees)",
+  "short_name": "eli/sl/647.1/mlt",
+  "status": "in_force",
+  "issued_date": "2024-11-25",
+  "in_force_date": "2024-11-05",
+  "url": "https://legislation.mt/eli/sl/647.1/20241230/mlt",
+  "description": "Official text from legislation.mt (eli/sl/647.1/mlt, expression eli/sl/647.1/20241230/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MARKETS IN CRYPTO-ASSETS ACT (FEES)\n\n[ L.S. 647.01\n\nLEĠISLAZZJONI SUSSIDJARJA 647.01\nREGOLAMENTI DWAR MARKETS IN CRYPTOASSETS ACT (FEES)\n5 ta’ Novembru, 2024\nL-AVVIŻ LEGALI 295 tal-2024.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

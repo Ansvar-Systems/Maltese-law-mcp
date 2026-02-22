@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-491-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-ħatra tal-Awtorità Ċentrali fil-Foster Care",
+  "title_en": "Regolamenti dwar il-ħatra tal-Awtorità Ċentrali fil-Foster Care",
+  "short_name": "eli/sl/491.1/mlt",
+  "status": "repealed",
+  "issued_date": "2018-06-28",
+  "in_force_date": "2018-06-28",
+  "url": "https://legislation.mt/eli/sl/491.1/20180628/mlt",
+  "description": "Official text from legislation.mt (eli/sl/491.1/mlt, expression eli/sl/491.1/20180628/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 192 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilħatra tal-Awtorità Ċentrali fil-Foster Care.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Awtorità ta’ Standards ta’ Ħarsien Soċjali għandha\ngħall-finijiet u l-effetti kollha tinħatar bħala l-Awtorità Ċentrali kull\nfejn tinsab fl-Att dwar il-Foster Care.\n\nIl-ħatra talAwtorità Ċentrali.\nKap. 491.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

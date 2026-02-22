@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-378-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar it-Tismija ta' Postijiet għat-Tribunal għal Talbiet ta' Konsumaturi",
+  "title_en": "Ordni dwar it-Tismija ta' Postijiet għat-Tribunal għal Talbiet ta' Konsumaturi",
+  "short_name": "eli/sl/378.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1996-01-16",
+  "url": "https://legislation.mt/eli/sl/378.2/20230127/mlt",
+  "description": "Official text from legislation.mt (eli/sl/378.2/mlt, expression eli/sl/378.2/20230127/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 9 ta’ l-1996, kif emendat bl-Avviż Legali 14 tal-2023",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar it-Tismija ta’\nPostijiet għat-Tribunal għal Talbiet ta’ Konsumaturi.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-uffiċċju tad-Dipartiment għall-Affarijiet tal-Konsumatur\nfil-Belt Valletta, l-uffiċċju li jintuża miċ-Ċentru Amministrattiv ta’\nGħawdex fil-Belt Victoria, Għawdex u l-uffiċċju li jintuża millUffiċċju tas-Segretarju Permanenti għall-Inklużjoni,\nOrganizzazzjonijiet Volontarji u d-Drittijiet tal-Konsumatur flImrieħel ġew identifikati bħala l-postijiet fejn it-Tribunal għal Talbiet\ntal-Konsumaturi għandu jżomm is-seduti tiegħu.\n\nIdentifikazzjoni ta’\npositjiet.\nSostitwit:\nA.L. 14 tal-2023.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

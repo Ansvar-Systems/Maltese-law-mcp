@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-115-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis għall-Edukazzjoni Terzjarja",
+  "title_en": "Regoli dwar Tnaqqis għall-Edukazzjoni Terzjarja",
+  "short_name": "eli/sl/123.115/mlt",
+  "status": "in_force",
+  "issued_date": "2010-09-17",
+  "in_force_date": "2010-09-17",
+  "url": "https://legislation.mt/eli/sl/123.115/20100917/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.115/mlt, expression eli/sl/123.115/20100917/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 427 tal-2010",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu Regoli dwar Tnaqqis\ng]all-Edukazzjoni Terzjarja.\n\nTitolu u bidu fisse]].\n\n(2) Dawn ir-regoli g]andhom jid]lu fis-se]] mis-sena ta’ stima\n2011, fir-rigward ta’ mi\\ati m]allsa mill-1 ta’ Jannar 2010.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "2011, fir-rigward ta’ mi\\ati m]allsa mill-1 ta’ Jannar 2010",
+      "content": "(1) Fejn issir talba g]al tnaqqis minn individwu skont lartikolu 14F tal-Att dwar it-Taxxa fuq l-Income, l-imsemmi tnaqqis\ng]andu, bla ]sara g]ad-dispo\\izzjonijiet ta’ dawn ir-regoli,\njittie]du kontra d-d]ul tieg]u g]as-sena li fiha huwa jkun spi``a\nb’su``ess l-istudji tieg]u:\n\nTnaqqis.\nKap. 123.\n\nI\\da li t-tnaqqis li ji[i permess g]andu jkun l-ammont ta’\nmi\\ati attwalment im]allas jew g]axart elef euro (€10,000), liema\njkun l-inqas:\nI\\da wkoll, sal-limitu li t-tnaqqis ma jkunx jista’ jittie]ed\nkollu kontra d-d]ul tal-individwu jew tal-konju[i, fejn applikabbli,\ng]as-sena msemmija, g]andu ji[i trasferit u jinqata’ kontra d-d]ul\ng]as-snin sussegwenti wara xulxin.\n(2) It-tnaqqis jista’ jsir biss fejn l-individwu ma jkunx ir`ieva\njew mhux ser jir`evi xi forma ta’ kumpens fir-rigward tal-mi\\ati\nm]allsa g]all-imsemmija studji mill-Gvern jew minn xi entità o]ra\ntal-Gvern jew privata.\n(3) L-ebda tnaqqis rigward studji terzjarji ma jista’ jintalab ta]t\ndawn ir-regoli jekk l-individwu jitlob jew ikun talab xi tnaqqis jew\nkreditu ta’ taxxa g]al xi sena fir-rigward tal-imsemmija studji\nterzjarji.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tnaqqis",
+      "content": "It-tnaqqis skont ir-regola 2 jista’ ji[i mog]ti biss fejn lindividwu li qed jitolbu jissottometti lill-Kummissarju, fl-ewwel\nsena li ssir it-talba, flimkien mal-formola tat-taxxa ta’ dik is-sena,\ni`-`ertifikat relatat tal-programm komplut tal-istudji mog]ti millistituzzjoni relatata, b’dan i`-`ertifikat ikun konfermat b]ala ta’\nlivell ta’ edukazzjoni terzjarja mi`-¬entru Malti g]al\nRikonoxximent ta’ Kwalifiki u ta’ Informazzjoni.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

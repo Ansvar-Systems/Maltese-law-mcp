@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-120-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Standard Nazzjonali dwar Żjieda fil-Paga għall-Impjegati",
+  "title_en": "Ordni dwar Standard Nazzjonali dwar Żjieda fil-Paga għall-Impjegati",
+  "short_name": "eli/sl/452.120/mlt",
+  "status": "in_force",
+  "issued_date": "2020-01-20",
+  "in_force_date": "2020-01-20",
+  "url": "https://legislation.mt/eli/sl/452.120/20200120/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.120/mlt, expression eli/sl/452.120/20200120/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 350 tal-2019",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Standard\nNazzjonali dwar Żjieda fil-Paga għall-Impjegati.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nIl-pagi ta’ impjegati whole-time għandhom\njiżdiedu bi tliet euro u disgħa u erbgħin ċenteżmi (€3.49) fil-ġimgħa.\n\nŻjieda għall-għoli\ntal-ħajja.\n\n(2)\nIr-rata fis-siegħa ta’ impjegati part-time għandha tiżdied\nbl-istess ammont taż-żjieda fir-rata fis-siegħa ta’ impjegat whole-time\nkomparabbli, ikkalkulata wara li jiġu inklużi ż-żidiet fil-ġimgħa\nspeċifikati fis-subartikolu (1), jew fil-każijiet fejn ma jkun hemm ebda\nkategorija komparabbli ta’ impjegati whole-time fil-post tax-xogħol,\nbir-rata fis-siegħa ta’ impjegat whole-time komparabbli f’Ordni talKunsill tal-Pagi li Jirregola l-Pagi li jkun japplika, jew fejn ma jkunx\nhemm Ordni tal-Kunsill tal-Pagi li Jirregola l-Pagi li jkun japplika,\nb’wieħed minn kull erbgħin (\n) tar-rata ta’ żidiet kif speċifikati fissubartikolu (1).",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

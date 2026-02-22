@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-573-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Art Agrikola",
+  "title_en": "Regolamenti dwar Art Agrikola",
+  "short_name": "eli/sl/573.1/mlt",
+  "status": "in_force",
+  "issued_date": "2017-06-06",
+  "in_force_date": "2017-06-06",
+  "url": "https://legislation.mt/eli/sl/573.1/20170606/mlt",
+  "description": "Official text from legislation.mt (eli/sl/573.1/mlt, expression eli/sl/573.1/20170606/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 159 tal-2017",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nArt Agrikola.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Art agrikola tfisser kull art tal-Gvern li tkun\nprinċipalment mikrija għall-koltivazzjoni ta’ prodotti agrikoli, fjuri,\nsiġar tal-frott jew dwieli u għal skopijiet li għandhom x’jaqsmu malagrikoltura, inkluż it-twaqqif ta’ serer, cloches jew cold frames, iżda\nma tinkludix art intiża biex jirgħu l-annimali.\n\nTifsir ta’ art\nagrikola.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(1)\nKull persuna li għandha titolu validu fuq isimha\ndwar art agrikola proprjetà tal-Gvern ta’ Malta tista’ tittrasferixxi u\ntassenja d-drittijiet tagħha, jew parti minnhom, soġġetti dawn iddrittijiet għal kundizzjonijiet li għandhom jiġu mposti mill-Awtorità\ntal-Artijiet, inkluż il-qbiela, fuq l-imsemmija art lill-terz b’dan illi tali\nterz għandu jkun bidwi bona fede full-time jew part-time irreġistrat\nmad-Direttur tal-Agrikoltura jew ikun membru ta’ koperattiva\nagrikola, ta’ organizzazzjoni ta’ produtturi jew ta’ assoċjazzjoni\nrikonoxxuta ta’ bdiewa. Kull trasferiment għandu jkun soġġett għallapprovazzjoni tal-Bord tal-Gvernaturi tal-Awtorità tal-Artijiet u\nskond dawk il-kundizzjonijiet imposti mill-imsemmi Bord, liema\nkundizzjonijiet għandhom jiġu ppublikati.\n\nTrasferiment ta’ art\nagrikola.\n\n(2) Qabel ma jkun hemm l-approvazzjoni mill-Bord talGvernaturi tal-Awtorità tal-Artijiet ta’ xi art agrikola jew parti\nminnha, għandu jiġi vverifikat li ma hemm l-ebda ksur ta’ xi liġi jew\ndispożizzjoni kontrattwali għar-rigward tal-imsemmija art.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "dispożizzjoni kontrattwali għar-rigward tal-imsemmija art",
+      "content": "Kull persuna li temmet b’suċċess kors akkademiku fi\nstudji agrikoli fil-ħames snin preċedenti mid-dħul fis-seħħ ta’ dawn\nir-regolamenti tista’ tingħata mill-Awtorità tal-Artijiet b’titolu ta’\nqbiela art agrikola tal-Gvern bil-għan li tistabbilixxi attività agrikola\nkif imsemmi hawn fuq. Kull għotja ta’ art għandha tkun soġġetta\ngħall-approvazzjoni tal-Bord tal-Gvernaturi tal-Awtorità tal-Artijiet u\nskond dawk il-kundizzjonijiet imposti mill-imsemmi Bord liema\nkundizzjonijiet għandhom jiġu ppublikati. Kull persuna li għaliha\njapplika dan ir-regolament għandha tibbenefika minn rata\npreferenzjali ta’ qbiela għall-perjodu massimu ta’ ħames snin.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 59
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Studenti",
+      "content": "(1)\nMeta jmut il-kerrej tal-art agrikola, il-kirja\ngħandha tkompli fuq min għandu jedd għaliha skont iddispożizzjonijiet tal-Att dwar it-Tiġdid ta’ Kiri ta’ Raba’.\n\nApplikabbiltà.\nKap. 199\n\nKap. 199\nSpejjeż.\n\n[ L.S. 573.01\n\n(2) Jekk wara l-mewt tal-kerrej, ma jkun hemm ebda\npersuna oħra rikonoxxuta mill-Awtorità tal-Artijiet li bħala kerrej fuq\nl-art agrikola u ma jkun hemm ebda persuna li tkun tikkwalifika bħala\nkerrej biex tkompli l-qbiela skont l-Att dwar it-Tiġdid ta’ Kiri ta’\nRaba, l-art għandha tintradd lura lil Gvern.",
+      "metadata": {
+        "source_line_start": 60,
+        "source_line_end": 82
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Raba, l-art għandha tintradd lura lil Gvern",
+      "content": "L-Awtorità tal-Artijiet għandha tiżgura li l-ispejjeż\nkollha involuti sabiex iseħħ it-trasferiment hawn fuq imsemmi\ngħandhom jinġabru mingħand il-persuna li sejra tingħata l-art\nagrikola.",
+      "metadata": {
+        "source_line_start": 83,
+        "source_line_end": 90
+      }
+    }
+  ],
+  "definitions": []
+}

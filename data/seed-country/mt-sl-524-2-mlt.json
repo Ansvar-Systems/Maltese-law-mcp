@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-524-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Protokoll tal-Awtorita' għall-Protezzjoni tal-Embrijuni",
+  "title_en": "Regolamenti dwar il-Protokoll tal-Awtorita' għall-Protezzjoni tal-Embrijuni",
+  "short_name": "eli/sl/524.2/mlt",
+  "status": "repealed",
+  "issued_date": "2022-08-03",
+  "in_force_date": "2022-07-29",
+  "url": "https://legislation.mt/eli/sl/524.2/20220729/mlt",
+  "description": "Official text from legislation.mt (eli/sl/524.2/mlt, expression eli/sl/524.2/20220729/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 215 tal-2022",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu Regolamenti\ndwar il-Protokoll tal-Awtorita' għall-Protezzjoni tal-Embrijuni.\n\nTitolu u dħul fisseħħ.\n\n(2) Dawn ir-regolamenti għandhom jidħlu fis-seħħ f’dik iddata jew dati li l-Ministru responsabbli għas-saħħa, flimkien malMinistru responsabbli għall-ġustizzja, jistgħu, b’avviż fil-Gazzetta,\njistabbilixxu u jistgħu jiġu hekk stabbiliti dati differenti għal\ndispożizzjonijiet u, jew għanijiet differenti ta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "dispożizzjonijiet u, jew għanijiet differenti ta’ dawn ir-regolamenti",
+      "content": "Il-Protokoll kif imfisser fl-artikolu 2 fl-Att dwar ilProtezzjoni tal-Embrijuni huwa b'dawn ir-regolamenti ppubblikat flIskeda.\n\n*Għadu mhux fis-seħħ.\n\nKap. 524.\n\n[ L.S. 524.02\n\nPROTOKOLL TAL-AWTORITA' GĦALL-PROTEZZJONI\n\nIL-PROTOKOLL TAL-AWTORITA' GĦALL-PROTEZZJONI\n[Dan il-Protokoll ġie ppublikat bl-ilsien Ingliż biss]",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 45
+      }
+    }
+  ],
+  "definitions": []
+}

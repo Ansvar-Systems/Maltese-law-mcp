@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-37-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Ċerti Setgħat ta' l-Uffiċjali tad-Dwana",
+  "title_en": "Regolamenti dwar Ċerti Setgħat ta' l-Uffiċjali tad-Dwana",
+  "short_name": "eli/sl/37.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.9/mlt, expression eli/sl/37.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 29 tal-1991, kif emendat bl-Att VII tal-2019 u VIII tal2020",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nĊerti Setgħat tal-Uffiċjali tad-Dwana.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nUffiċjal tad-Dwana, meta awtorizzat millKummissarju, għandu jkollu s-setgħa, b’żieda mas-setgħat u maddmirijiet mogħtija lilu skont l-Ordinanza tad-Dwana, li jeżerċita ssetgħat u d-dmirijiet kollha li bil-liġi huma mogħtija lil uffiċjal talPulizija Eżekuttiva fil-postijiet murija fl-Iskeda, dwar reat li jkun\nsar jew li jkun hemm suspett li jkun sar.\n\nGħoti ta’ setgħat\nta’ Pulizija.\nKap. 37.\nSostitwit:\nVII.2019.15\nEmendat:\nVIII.2020.79.\n\n(2) Qabel ma l-uffiċjal jibda jaqdi l-irwoli msemmija fissubregolament (1), hu għandu jieħu dan il-ġurament:\n\"Jiena ................................. solennement naħlef/\nniddikjara li nkun tassew fidili u leali lejn il-poplu u rRepubblika ta’ Malta u l-Kostituzzjoni tagħha u li naqdi\nfedelment l-imsemmija Repubblika fis-servizz tiegħi bħala\nuffiċjal tad-Dwana u bil-poteri mogħtija lili bħala uffiċjal talPulizija Eżekuttiva, skont il-liġi, mingħajr biża’ jew favuri,\nġibda jew mibegħda. (Hekk Alla jgħinni)\":\nIżda dawk il-funzjonijiet, setgħat u dmirijiet li huma b’liġi\nriservati għal uffiċjali li jkollhom il-grad ta’ mhux inqas minn spettur\ntal-Pulizija għandhom jitwettqu biss minn uffiċjali li ma jkollhomx grad\ninqas minn dak ta’ Customs officer hekk kif elenkat fl-Estimi Finanzjarji\nAnnwali bis-saħħa tal-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "ajruport u fil-viċinanza tiegħu",
+      "content": "Kull uffiċċju, bini, tinda jew post ieħor okkupat millKontrullur tad-Dwana jew li jkun taħt il-kontroll tiegħu.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ajruport u fil-viċinanza tiegħu",
+      "content": "Kull parti tax-xtajta ta’ Malta jew fil-viċinanza immedjata\ntagħha.\n\nKap. 601.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

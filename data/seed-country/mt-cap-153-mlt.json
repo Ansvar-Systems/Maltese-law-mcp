@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-153-mlt",
+  "type": "statute",
+  "title": "Att li Jbiddel l-Isem tal-Ispetturi Sanitarji Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jbiddel l-Isem tal-Ispetturi Sanitarji Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 153(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1957-12-12",
+  "url": "https://legislation.mt/eli/cap/153/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/153/mlt, expression eli/cap/153/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ISEM TAL-ISPETTURI SANITARJI\n\n[ KAP. 153.\n\nKAPITOLU 153\nATT LI JBIDDEL L-ISEM TAL-ISPETTURI\nSANITARJI\nBiex ibiddel l-Isem ta’ Spetturi Sanitarji fi Spetturi tas-Saħħa.\n\n12 ta’ Diċembru, 1957*\nL-ATT XX tal-1957.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 777 tas-16 ta’ Diċembru, 1957.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

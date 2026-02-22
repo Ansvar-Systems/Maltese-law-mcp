@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-36-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti għall-Projbizzjoni ta' l-Importazzjoni ta' Fienu, Tiben u Żerriegħa tal-Qoton",
+  "title_en": "Regolamenti għall-Projbizzjoni ta' l-Importazzjoni ta' Fienu, Tiben u Żerriegħa tal-Qoton",
+  "short_name": "eli/sl/36.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.6/mlt, expression eli/sl/36.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 414 ta’ l-1936",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti g]allProjbizzjoni ta’ l-Importazzjoni ta’ Fienu, Tiben, u |errieg]a talqoton.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 414 ta’ l-1936",
+      "content": "(1) L-importazzjoni ta’ fienu, tiben, u \\errieg]a tal-qoton\nminn postijiet ta’ barra ddikjarati b]ala artijiet imni[[sin bil-pesta\nhija pprojbita.\n\n(2) L-importazzjoni ta’ fienu, tiben, u \\errieg]a tal-qoton minn\npostijiet o]ra ta’ barra tista’ biss issir kemm-il-darba kull partita\nminn din il-merkanzija jkollha mag]ha `ertifikat ma]ru[ millawtorità sanitarja tal-pajji\\ li jesporta fejn jing]ad illi ma hemm\nebda tni[[is ta’ pesta, jew ma kien hemm ebda tni[[is ta’ pesta fi\\\\mien tax-xahar ta’ qabel, fost in-nies jew fost il-[rieden jew\nannimali o]ra gerriema fid-distrett ta’ l-ori[ini tal-merkanzija u\nfid-distrett minn fejn titg]abba il-merkanzija.\n\nTitolu.\n\nProjbizzjoni ta’ limportazzjoni ta’\nfienu, e``.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

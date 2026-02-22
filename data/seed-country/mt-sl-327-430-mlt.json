@@ -1,0 +1,91 @@
+{
+  "id": "mt-sl-327-430-mlt",
+  "type": "statute",
+  "title": "Ordinamenti għall-Postgraduate Certificate in Geographic Information Systems taħt il-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli Imħassrin bl-Avviż Legali 185 tal-2022",
+  "title_en": "Ordinamenti għall-Postgraduate Certificate in Geographic Information Systems taħt il-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli Imħassrin bl-Avviż Legali 185 tal-2022",
+  "short_name": "eli/sl/327.430/mlt",
+  "status": "repealed",
+  "issued_date": "2012-09-12",
+  "in_force_date": "2012-09-07",
+  "url": "https://legislation.mt/eli/sl/327.430/20220701/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.430/mlt, expression eli/sl/327.430/20220701/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 292 tal-2012",
+      "content": "(1) It-titolu ta’ dawn l-ordinamenti hu l-Ordinamenti għallPostgraduate Certificate in Geographic Information Systems taħt\nil-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli.\n\nTitolu u\ninterpretazzjoni.\n\n(2) F’dawn l-ordinamenti, kemm-il darba r-rabta tal-kliem ma\nteħtieġx mod ieħor \"il-Bord\" means the Board of the Institute for Sustainable\nDevelopment;\n\" i l - k o r s \" t f i s s e r i l - p r o g r a m m t a ’ s t u d j u li j w a s s a l g ħ a l l Postgraduate Certificate in Geographic Information Systems;\n\"il-Postgraduate Certificate\" tfisser il-Postgraduate Certificate\nin Geographic Information Systems; u\n\"ir-Regolamenti Prinċipali\" tfisser ir-Regolamenti Ġenerali għarRikonoxximenti Universitarji ta’ wara l-Ewwel Grad.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "in Geographic Information Systems; u",
+      "content": "Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li\njibdew f’Ottubru 2011 jew wara.\n\nApplikabilità.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Applikabilità",
+      "content": "Biex ikunu rreġistrati bħala studenti regolari fil-kors, lapplikanti għandu jkollhom grad ta’ Bachelor minn l-Università ta’\nMalta jew kwalifika ekwivalenti minn università oħra rikonoxxuta,\nf’qasam ta’ studju li l-Bord iqis xieraq.\n\nRekwiżiti għaddħul.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Rekwiżiti għaddħul",
+      "content": "Il-kors għandu jinfirex fuq semestru ta’ studju fuq bażi\nfull-time jew l-ekwivalenti fi studju fuq bażi part-time.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tul tal-kors",
+      "content": "Il-kors għandu jikkonsisti minn għadd ta’ taqsimiet studju\nmgħallma li għalihom hemm assenjati total ta’ 30 kredtu.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Programm tal-kors",
+      "content": "Il-programm ta’ studju għandu jkun ippubblikat wara lapprovazzjoni tas-Senat, normalment mhux anqas minn tmien xhur\nqabel il-bidu tal-kors.\n\nPubblikazzjoni talprogramm ta’\nstudju.",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Programm tal-kors",
+      "content": "Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom\njapplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi parttime, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment\njitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time\ntal-kors.\n\nDispożizzjonijiet\nspeċjali għallkorsijiet fuq bażi\npart-time.\n\n*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 78
+      }
+    }
+  ],
+  "definitions": [
+    {
+      "term": "il-Bord",
+      "definition": "the Board of the Institute for Sustainable",
+      "source_provision": "s1"
+    }
+  ]
+}

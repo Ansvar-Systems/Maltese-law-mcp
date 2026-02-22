@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-255-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Formuli ta' l-Att taż-Żwieġ",
+  "title_en": "Regolamenti dwar Formuli ta' l-Att taż-Żwieġ",
+  "short_name": "eli/sl/255.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2021-02-08",
+  "url": "https://legislation.mt/eli/sl/255.2/20210208/mlt",
+  "description": "Official text from legislation.mt (eli/sl/255.2/mlt, expression eli/sl/255.2/20210208/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u bl-Att LXV tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nFormuli ta’ l-Att taż-Żwieġ.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-għanijiet ta’ l-artikolu 21 ta’ l-Att dwar iż-Żwieġ, ilformula ta’ l-Att dwar iż-Żwieġ li għandha tintuża fil-każ ta’\nżwiġijiet kattoliċi skond l-imsemmi Att għandha tkun dik murija flIskeda.\n\nFormula ta’ l-Att\ntaż-Żwieġ.\nKap. 255.\n\nL.S.255.02]\n\nSostitwit:\nA.L. 338 tal2019;\nLXV.2020.42.\n\nFORMULI TA’ L-ATT TAŻ-ŻWIEĠ\n\n[Regolament 2]",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

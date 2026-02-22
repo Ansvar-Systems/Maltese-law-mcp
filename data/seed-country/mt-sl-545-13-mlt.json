@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-545-13-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Suq tal-ElettrikuImħassrin bl-Avviż Legali 235 tal-2021",
+  "title_en": "Regolamenti dwar is-Suq tal-ElettrikuImħassrin bl-Avviż Legali 235 tal-2021",
+  "short_name": "eli/sl/545.13/mlt",
+  "status": "repealed",
+  "issued_date": "2015-08-27",
+  "in_force_date": "2011-05-05",
+  "url": "https://legislation.mt/eli/sl/545.13/20210604/mlt",
+  "description": "Official text from legislation.mt (eli/sl/545.13/mlt, expression eli/sl/545.13/20210604/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.545.13\n\nSUQ TAL-ELETTRIKU\n\nLEĠISLAZZJONI SUSSIDJARJA 545.13\nREGOLAMENTI DWAR IS-SUQ TAL-ELETTRIKU\n5 ta’ Mejju, 2011\nL-AVVIŻ LEGALI 166 tal-2011, kif emendat bl-Avviż Legali 132 tal2012; bl-Atti XXXIV tal-2014 u XXV tal-2015; u bl-Avviżi Legali 29 u 428\ntal-2016, 37 tal-2017 u 352 tal-2018.\n\nImħassrin bl-Avviż Legali 235 tal-2021.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

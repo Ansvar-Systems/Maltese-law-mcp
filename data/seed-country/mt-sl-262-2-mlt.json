@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-262-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Trasferiment ta' Pazjenti fi Sptar",
+  "title_en": "Regolamenti dwar it-Trasferiment ta' Pazjenti fi Sptar",
+  "short_name": "eli/sl/262.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/262.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/262.2/mlt, expression eli/sl/262.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 91 ta’ l-1981",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar itTrasferiment ta’ Pazjenti fi Sptar.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 91 ta’ l-1981",
+      "content": "(1) Ebda pazjent f’xi sptar ma jista’ ji[i trasferit minn xi\nsptar g]al ie]or jekk dak it-trasferiment ma jkunx awtorizzat millmanager ta’ l-isptar li fih dak il-pazjent ikun qed jin\\amm.\n\n(2) Kull awtorizzazzjoni b]al dik issir fuq il-formula murija flIskeda.\n(3) Kull awtorizzazzjoni b]al dik tispi``a jekk ma ting]atax\neffett mhux iktar tard minn tmienja u g]oxrin jum wara l-jum li fih\ntkun iffirmata mill-imsemmi manager.\n\nTitolu.\nTrasferiment ta’\npazjenti.\n\nTRASFERIMENT TA’ PAZJENTI FI SPTAR\n\nL.S.262.02]\n\n(Regolament 2)\n\nATT DWAR IS-SA}}A MENTALI\n\nAwtorità g]al trasferiment minn sptar g]al ie]or li jkunu ta]t managers differenti\n\n(1) Isem il-pazjent.\n(2) Isem u indirizz ta’\nl-isptar li fih il-pazjent\ng]andu jin\\amm.\n(3) Isem u indirizz ta’\nl-isptar li fih il-pazjent ikun\nse ji[i trasferit.\n\nQed hawnhekk ting]ata awtorità g]at-trasferiment\nta’ (1) ............................................................. minn\n(2) ................................................................... g]al\n(3) .......................................................... skond-irRegolamenti dwar it-Trasferiment ta’ Pazjenti fi\nSptar fi \\mien 28 jum mid-data ta’ din l-awtorità.\nIsem ........................\nKariga ........................\n\nRe[istrazzjoni ta’ D]ul\n(Din it-taqsima mhix parti mill-awtorità g]al trasferiment i\\da g]andha timtela iktar\ntard fl-isptar li fih il-pazjent ikun trasferit)\n(4) Isem l-isptar.\nDan il-pazjent [ie trasferit g]al (4) ......................\nskond din l-awtorità fil- (5) ........................\n(5) Data ta’ d]ul flisptar li jkun qed jir`evih.\nIffirmat ........................\nf’isem il-manager\nData ...........................",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 71
+      }
+    }
+  ],
+  "definitions": []
+}

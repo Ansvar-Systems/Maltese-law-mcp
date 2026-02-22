@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-372-28-mlt",
+  "type": "statute",
+  "title": "Regoli dwar it-Taxxa",
+  "title_en": "Regoli dwar it-Taxxa",
+  "short_name": "eli/sl/372.28/mlt",
+  "status": "in_force",
+  "issued_date": "2015-09-23",
+  "in_force_date": "2016-01-01",
+  "url": "https://legislation.mt/eli/sl/372.28/20220601/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.28/mlt, expression eli/sl/372.28/20220601/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ Jannar, 2016",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu r-Regoli dwar it-Taxxa\nfuq l-Income (Rata ta’ Mgħax).\n\nTitolu u bidu fisseħħ.\n\n(2) Dawn ir-regoli għandhom jidħlu fis-seħħ mill-1 ta’ Jannar\n2016, fir-rigward ta’ kull perjodu jew parti minnu li jibda fi jew\nwara dik id-data.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "wara dik id-data",
+      "content": "L-imgħax applikabbli kif previst fl-artikolu 44(2A) tal-Att\ndwar l-Amministrazzjoni tat-Taxxa għandu jkun żero punt ħamsa\nerbgħa fil-mija (0.54%).\nIżda fir-rigward ta’ kwalunkwe perjodu jew parti minnu li\njibda minn jew wara l-1 ta’ Jannar 2020, l-imsemmi mgħax għandu\njkun bir-rata ta’ żero punt tlieta tlieta fil-mija (0.33%):\nIżda wkoll meta d-data sa meta t-taxxa għandha titħallas skont\nid-dispożizzjonijiet rilevanti tal-Atti dwar it-Taxxa tkun il-31 ta’\nAwwissu 2022 jew data aktar tard, l-imgħax għandu jitħallas bir-rata\nta’ żero punt sitta fil-mija (0.6%) għal kull xahar jew parti minnu li\nmatulu t-taxxa tibqa’ mhux imħallsa u l-imgħax totali ma għandux\njeċċedi l-ammont tat-taxxa msemmija.\n\nRata.\nEmendata:\nA.L. 304 tal-2019;\nA.L. 99 tal-2022;\nA.L. 228 tal-2022.\nKap. 372.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

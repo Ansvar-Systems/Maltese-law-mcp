@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Insurance Business (Custodian of Assets)",
+  "title_en": "Regolamenti dwar Insurance Business (Custodian of Assets)",
+  "short_name": "eli/sl/403.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/403.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.2/mlt, expression eli/sl/403.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INSURANCE BUSINESS (CUSTODIAN OF ASSETS)\n\n[L.S.403.02\n\nLE{ISLAZZJONI SUSSIDJARJA 403.02\nREGOLAMENTI DWAR INSURANCE BUSINESS\n(CUSTODIAN OF ASSETS)*\n30 ta’ Marzu, 1999\nL-AVVI| LEGALI 62 ta’ l-1999, kif emendat bl-Avvi\\ Legali 426 ta’ l2007.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

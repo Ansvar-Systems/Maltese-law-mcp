@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-422-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Eżenzjoni mit-Taxxa u Xogħol ta’ Statistika għall-Entitajiet Pubbliċi",
+  "title_en": "Regolamenti dwar Eżenzjoni mit-Taxxa u Xogħol ta’ Statistika għall-Entitajiet Pubbliċi",
+  "short_name": "eli/sl/422.3/mlt",
+  "status": "in_force",
+  "issued_date": "2022-11-03",
+  "in_force_date": "2022-10-21",
+  "url": "https://legislation.mt/eli/sl/422.3/20221021/mlt",
+  "description": "Official text from legislation.mt (eli/sl/422.3/mlt, expression eli/sl/422.3/20221021/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 261 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nEżenzjoni mit-Taxxa u Xogħol ta’ Statistika għall-Entitajiet Pubbliċi.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar l-Awtorità tal-Istatistika ta’ Malta;\n\nKap. 422.\n\n\"Awtorità\" tfisser l-Awtorità tal-Istatistika ta’ Malta\nmwaqqfa bl-artikolu 3 tal-Att;\n\"Uffiċċju\" tfisser l-Uffiċċju Nazzjonali tal-istatistika\nmwaqqaf bl-artikolu 9 tal-Att.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-Awtorità għandha tkun eżentata minn kull\nresponsabbiltà għall-ħlas ta’ kwalunkwe taxxa fuq l-income, taxxa fuq\ntrasferimenti u dokumenti, u dazju tad-dwana u tas-sisa, taħt\nkwalunkwe liġi li tkun fis-seħħ dak iż-żmien.\n\nEżenzjoni mittaxxa.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "B’żieda mal-funzjonijiet tal-Uffiċċju msemmija flartikolu 10, l-Uffiċċju jista’, billi juża r-riżorsi tiegħu, iwettaq xogħol\nta’ statistika għall-entitajiet pubbliċi oħra bi ħlas għall-irkupru talispejjeż:\n\nXogħol ta’\nstatistika għallentitajiet pubbliċi.\n\nIżda d-disseminazzjoni tar-riżultati minn tali xogħol\nstatistiku jkun fid-diskrezzjoni tal-Uffiċċju.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "statistiku jkun fid-diskrezzjoni tal-Uffiċċju",
+      "content": "(1)\nL-ipproċessar ta’ kwalunkwe informazzjoni\nrelatata ma’ persuna fiżika identifikata jew persuna fiżika\nidentifikabbli mill-Uffiċċju għandu jkun soġġett għal salvagwardji\nxierqa skont id-dispożizzjonijiet tar-Regolament (UE) 2016/679 talParlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar ilprotezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data\npersonali u dwar il-moviment liberu ta’ tali data u li jħassar idDirettiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tadData). Tali salvagwardji għandhom jiżguraw li l-miżuri tekniċi u\norganizzattivi jkunu fis-seħħ b’tali mod li jiżguraw is-sigurtà xierqa\ntad-data personali, inkluż il-protezzjoni kontra l-ipproċessar mhux\nawtorizzat jew illegali u kontra t-telf, il-qerda jew il-ħsara aċċidentali.\n(2)\nIr-restrizzjonijiet dwar l-użu ta’ informazzjoni u lprojbizzjoni ta’ żvelar ta’ informazzjoni kif provdut fl-artikoli 40 u 41\ntal-Att għandhom japplikaw.\n\nKunfidenzjalità u\nprotezzjoni taddata.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 70
+      }
+    }
+  ],
+  "definitions": []
+}

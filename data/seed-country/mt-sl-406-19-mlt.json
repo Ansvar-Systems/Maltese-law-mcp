@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-406-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Taxxa fuq il-Valur Miżjud (Rata ta’ Mgħax)",
+  "title_en": "Regolamenti dwar it-Taxxa fuq il-Valur Miżjud (Rata ta’ Mgħax)",
+  "short_name": "eli/sl/406.19/mlt",
+  "status": "in_force",
+  "issued_date": "2014-03-04",
+  "in_force_date": "2014-01-01",
+  "url": "https://legislation.mt/eli/sl/406.19/20220901/mlt",
+  "description": "Official text from legislation.mt (eli/sl/406.19/mlt, expression eli/sl/406.19/20220901/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u 227 tal-2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar itTaxxa fuq il-Valur Miżjud (Rata ta’ Mgħax).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-imgħax applikabbli skond l-artikolu 21(4) tal-Att dwar\nit-Taxxa fuq il-Valur Miżjud għandu jkun bir-rata ta’ żero punt sitta\nfil-mija (0.6%):\n\nRata ta’ mgħax.\nEmendat:\nA.L. 303 tal-2019;\nA.L. 227 tal-2022.\nKap. 406.\n\nIżda għal bilanċi ta’ taxxa li kellhom jitħallsu minn persuni\ntaxxabbli qabel l-1 ta’ Settembru 2022, jibqa’ applikabbli mgħax birrata ta’ żero punt tlieta, tlieta fil-mija (0.33%).\n\n*ara r-regolament 1(2) ta’ dawn ir-Regolamenti kif promulgati oriġinarjament.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

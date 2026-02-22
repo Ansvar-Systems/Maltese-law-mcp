@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-350-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Kopji ta' Tapes",
+  "title_en": "Regolamenti dwar Kopji ta' Tapes",
+  "short_name": "eli/sl/350.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.8/mlt, expression eli/sl/350.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 245 ta’ l-2000, kif emendat bl-Avvi\\ Legali 424 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nKopji ta’ Tapes.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Kopji ta’ Tapes",
+      "content": "(1)\n\nG]all-fini ta’ dawn ir-regolamenti:\n\nTitolu.\nTifsir.\n\n\"Awtorità\" tfisser l-Awtorità tax-Xandir imwaqqfa skond lartikolu 118 tal-Kostituzzjoni ta’ Malta;\n\"persuna li tressaq ilment\" tfisser terza persuna milquta li titlob\nlill-Awtorità li din ta’ l-a]]ar tassigura li xandar jikkonforma maddisposizzjonijiet ta’ l-Att dwar ix-Xandir.\n\nKap. 350.\n\n(2) Kliem u fra\\ijiet u\\ati f’dawn ir-regolamenti g]andhom\njing]ataw l-istess tifsir mog]ti lilhom fl-Att dwar ix-Xandir.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Xandar g]andu jipprovdi lil kull persuna aggravata bilkontenut ta’ xandira b’kopja ta’ dik ix-xandira fi \\mien [urnata\nmid-data minn meta ssir it-talba minn dik il-persuna.\n\nObbligi ta’ xandar.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "G]all-g]oti ta’ kopja ta’ xandir, persuna li tag]mel ilment\ng]andha t]allas dawn id-drittijiet lix-xandar:\n\nDrittijiet li jit]allsu\nlix-xandar.\nEmendat:\nA.L. 424 ta’ l2007.\n\n(a) f’ka\\ ta’ programm tar-radju (i)\n\ndritt ta’ tlieta u g]oxrin euro (23) g]al xandira li\nma te``ediex sieg]a liema dritt g]andu jinkludi\nl-ispejje\\ kollha, inklu\\ il-prezz tal-provvista ta’\naudio cassette; u\n(ii) dritt addizzjonali ta’ ]ames euro u ]amsin\n`ente\\mu (5.50) g]al sieg]a addizzjonali jew\nparti minnha;\n(b) f’ka\\ ta’ programm tat-televi\\joni (i)\n\ndritt ta’ erbg]a u tletin euro u erbg]a u ]amsin\n`ente\\mu (34.50) g]al xandira li ma te``ediex\nsieg]a liema dritt jinkludi l-ispejje\\ kollha,\ninklu\\ il-prezz tal-provvista ta’ video cassette; u\n(ii) dritt addizzjonali ta’ ]ames euro u ]amsin\n`ente\\mu (5.50) g]al sieg]a addizzjonali jew\nparti minnha.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "parti minnha",
+      "content": "F’ka\\ li x-xandar jonqos milli jipprovdi kopja ta’ dak ittape imsemmi qabel fil-perjodu msemmi fir-regolament 3, lAwtorità g]andha tipprovdi kopja ta’ dik ix-xandira lill-persuna\naggravata u d-drittijiet imsemmi fir-regolament 4 g]andhom ji[u\nm]allsa lill-Awtorità.\n\nNuqqas ta’ xandar\nli jipprovdi kopja\nta’ xandira.",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 73
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "ta’ xandira",
+      "content": "Id-disposizzjonijiet ta’ dawn ir-regolamenti huma bla ]sara\ng]all-poteri ta’ 1-Awtorità skond id-disposizzjoni ta’ l-artikolu\n21A(3) ta’ l-Att dwar ix-Xandir.\n\nPoteri ta’ lAwtorità.\nKap. 350.",
+      "metadata": {
+        "source_line_start": 74,
+        "source_line_end": 83
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-133-1-mlt",
+  "type": "statute",
+  "title": "Direttiva dwar id-Depożitarju Elettroniku Ċentrali għall-Bills tat-Teżor ta' Malta",
+  "title_en": "Direttiva dwar id-Depożitarju Elettroniku Ċentrali għall-Bills tat-Teżor ta' Malta",
+  "short_name": "eli/sl/133.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/133.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/133.1/mlt, expression eli/sl/133.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 58 ta’ l-2007",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva dwar idDepo\\itarju Elettroniku ~entrali g]all-Bills tat-Te\\or ta’ Malta.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’din id-Direttiva, kemm-il darba r-rabta tal-kliem ma\ntkunx te]tie[ xort’o]ra:\n\nTifsir.\n\n\"bye laws\" g]andha tiftiehem bl-istess mod b]al ma hemm flartikolu 2 ta’ l-Att dwar is-Swieq Finanzjarji;\n\nKap. 345.\n\n\"data mag]\\ula g]ad-dematerjalizzazzjoni\" tfisser id-data\nmag]\\ula meta l-bills tat-Te\\or ta’ Malta jitqeg]du fuq lista u ji[u\nre[istrati fuq Depo\\itarju ~entrali tat-Titoli. Il-Ministru jista’,\nb’avvi\\ fil-Gazzetta, jav\\a dwar liema tkun id-data ta’\ndematerjalizzazzjoni;\n\"Depo\\itarju ~entrali tat-Titoli\" g]andha tiftiehem bl-istess mod\nb]al fl-artikolu 2 ta’ l-Att dwar is-Swieq Finanzjarji;\n\nKap. 345.\n\n\"Exchange\" g]andha tiftiehem bl-istess mod b]al fl-artikolu 2 ta’\nl-Att dwar is-Swieq Finanzjarji;\n\nKap. 345.\n\n\"[urnata ta’ negozju\" tfisser kull [urnata li mhix is-Sibt, il-}add\njew xi btala pubblika meta s-suq tat-titoli f ’Malta jkun mag]luq\nskond ma ji[i mg]arraf b’avvi\\ li jin]are[ mill-Bor\\a minn \\mien\ng]al \\mien.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "g]al \\mien",
+      "content": "(1) Id-Depo\\itarju ~entrali tat-Titoli g]andu jkun idDepo\\itarju Elettroniku ~entrali g]all-bills tat-Te\\or ma]ru[in bissa]]a ta’ l-Att dwar il-Bills tat-Teor ta’ Malta.\n(2) L-arran[amenti tat-trasferiment permezz ta’ re[istrazzjoni\nfil-ktieb li hi m]addma mid-Depo\\itarju ~entrali tat-Titoli qieg]ed\nji[i istitwit b]ala s-sistema elettronika ta’ trasferiment g]all-bills\ntat-Te\\or kif imsemmi fl-artikolu 11(1) ta’ l-Att dwar il-Bills tatTe\\or ta’ Malta.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ji[i istitwit b]ala s-sistema elettronika ta’ trasferiment g]all-bills",
+      "content": "(1) Hekk kif tit]abbar id-data g]ad-dematerjalizzazzjoni,\nkull `ertifikat ta’ bills tat-Te\\or li jkun g]adu ma g]alaqx g]andu\nji[i rritornat fit-Te\\or sa mhux aktar tard minn [urnata ta’ negozju\nqabel id-data mag]\\ula.\n(2) Min kellu `ertifikati tal-bills tat-Te\\or u jkun irritornahom\nqabel id-data mag]\\ula g]ad-dematerjalizzazzjoni g]andu ji[i\nre[istrat fid-Depo\\itarju ~entrali tat-Titoli u wara l-[urnata\nmsemmija g]andu jir`ievi avvi\\ mill-istess Depo\\itarju ~entrali\ntat-Titoli li jkun jikkonferma dik ir-re[istrazzjoni permezz ta’\nAvvi\\ ta’ Re[istrazzjoni.\n(3) ~ertifikati ta’ bills tat-Te\\or li ]ar[u qabel id-data\nmag]\\ula g]ad-dematerjalizzazzjoni ma jibqg]ux negozzjabbli fis-\n\nDepo\\itarju\nElettroniku\n~entrali g]all-bills\ntat-Te\\or ta’ Malta.\nKap. 133.\n\nKap. 133.\n\nArran[amenti\ntransitorji.\n\nL.S.133.01]\n\nDEPO|ITARJU ELETTRONIKU ~ENTRALI\nG}ALL-BILLS TAT-TE|OR TA’ MALTA\n\nsuq sekondarju sa [urnata ta’ negozju qabel dik id-data ta’\ndematerjalizzazzjoni.\n(4) Il-valur nominali ta’ `ertifikati ta’ bills tat-Te\\or li ma\njkunux in[iebu fit-Te\\or sa [urnata ta’ negozju qabel id-data g]addematerjalizzazzjoni g]andhom ikunu re[istrati mit-Te\\or fidDepo\\itarju ~entrali tat-Titoli b]ala \"Treasury Clients’ Account\".",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 92
+      }
+    }
+  ],
+  "definitions": []
+}

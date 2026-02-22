@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-549-113-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Perjodu tal-Għeluq tal-Uffiċċji tal-Awtorità għall-Ambjent u r-Riżorsi",
+  "title_en": "Regolamenti dwar il-Perjodu tal-Għeluq tal-Uffiċċji tal-Awtorità għall-Ambjent u r-Riżorsi",
+  "short_name": "eli/sl/549.113/mlt",
+  "status": "repealed",
+  "issued_date": "2017-05-02",
+  "in_force_date": "2017-05-02",
+  "url": "https://legislation.mt/eli/sl/549.113/20170502/mlt",
+  "description": "Official text from legislation.mt (eli/sl/549.113/mlt, expression eli/sl/549.113/20170502/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "LEGAL NOTICE 111 of 2017",
+      "content": "The title of these regulations is the Period of Shutdown\nof the Environment and Resources Authority Offices Regulations.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Citation",
+      "content": "(1)\nThe period of shutdown of the Environment\nand Resources Authority Offices shall be from the 24th December of\none year till the 1st January of the next following year.\n\nPeriod of\nShutdown.\n\n(2) The period mentioned in sub-regulation (1) shall\nsuspend any time-frame prescribed by any regulation under the Act.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

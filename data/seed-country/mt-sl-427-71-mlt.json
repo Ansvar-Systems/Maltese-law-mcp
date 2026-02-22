@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-427-71-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Xorb Spirituż",
+  "title_en": "Regolamenti dwar Xorb Spirituż",
+  "short_name": "eli/sl/427.71/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.71/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.71/mlt, expression eli/sl/427.71/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 189 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nXorb Spiritu\\.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Dawn ir-regolamenti jimplimentaw id-disposizzjonijiet tarRegolament (KE) Nru 110/2008 tal-Parlament Ewropew u talKunsill dwar id-definizzjoni, id-deskrizzjoni, il-pre\\entazzjoni, littikkettar, u l-protezzjoni ta’ indikazzjonijiet [eografi`i, ta’ xorb\nspiritu\\ u li j]assar ir-Regolament tal-Kunsill (KEE) Nru 1576/89.\n\nKamp ta’\napplikazzjoni.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-Awtorità Maltija dwar l-Istandards qieg]da tin]atar\nb]ala l-awtorità nazzjonali responsabbli msemmija fir-Regolament\n(KE) Nru 110/2008:\n\n}atra tal-awtorità\nkompetenti.\n\n(a) biex tir`ievi kull applikazzjoni sabiex indikazzjonijiet\n[eografi`i ji[u re[istrati skont l-Artikolu 17 tarRegolament (KE) Nru 110/2008; u\n(b) fir-rigward tal-Artikolu 24(1) tar-Regolament (KE)\nNru 110/2008, g]all-kontroll fir-rigward tal-obbligi\nstabbiliti mir-Regolament (KE) Nru 110/2008 skont irRegolament (KE) Nru 882/2004.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

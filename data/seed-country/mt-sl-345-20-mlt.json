@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-20-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Financial Markets Act (SME Growth Markets)",
+  "title_en": "Regolamenti Dwar Financial Markets Act (SME Growth Markets)",
+  "short_name": "eli/sl/345.20/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-05",
+  "url": "https://legislation.mt/eli/sl/345.20/20180105/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.20/mlt, expression eli/sl/345.20/20180105/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FINANCIAL MARKETS ACT\n(SME GROWTH MARKETS)\n\n[ L.S.345.20\n\nLEĠISLAZZJONI SUSSIDJARJA 345.20\nREGOLAMENTI DWAR FINANCIAL MARKETS\nACT (SME GROWTH MARKETS)*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 390 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

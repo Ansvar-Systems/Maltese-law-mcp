@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-526-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi (2013) Imħassar bl-Att II tal-2015",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi (2013) Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 526(R)",
+  "status": "repealed",
+  "issued_date": "2013-05-24",
+  "in_force_date": "2013-01-01",
+  "url": "https://legislation.mt/eli/cap/526/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/526/mlt, expression eli/cap/526/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "JIMPLIMENTA MIŻURI TAL-ESTIMI (2013)\n\n[ KAP. 526.\n\nKAPITOLU 526\nATT LI JIMPLIMENTA MIŻURI TAL-ESTIMI (2013)\nBiex jimplimenta Miżuri tal-Estimi Finanzjarji għall-2013 u miżuri\namministrattivi oħra.\n\n1 ta’ Jannar, 2013\nL-ATT III tal-2013.\n\nImħassar bl-Att II tal-2015.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

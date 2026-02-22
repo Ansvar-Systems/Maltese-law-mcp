@@ -1,0 +1,585 @@
+{
+  "id": "mt-sl-586-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l-Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali)",
+  "title_en": "Regolamenti dwar il-Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l-Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali)",
+  "short_name": "eli/sl/586.8/mlt",
+  "status": "in_force",
+  "issued_date": "2018-05-31",
+  "in_force_date": "2018-05-31",
+  "url": "https://legislation.mt/eli/sl/586.8/20180531/mlt",
+  "description": "Official text from legislation.mt (eli/sl/586.8/mlt, expression eli/sl/586.8/20180531/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "DISPOŻIZZJONIJIET ĠENERALI",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar il-Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn\nAwtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l-Investigazzjoni,\nis-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’\nPieni Kriminali).\n\nTitolu.\n\n(2)\nDawn ir-regolamenti jittrasponu d-Direttiva (UE) 2016/\n680 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar ilprotezzjoni ta’ persuni fiżiċi fir-rigward tal-ipproċessar ta’ data\npersonali mill-awtoritajiet kompetenti għall-finijiet tal-prevenzjoni, linvestigazzjoni, is-sejbien jew il-prosekuzzjoni ta’ reati kriminali jew leżekuzzjoni ta’ pieni kriminali, u dwar il-moviment liberu ta’ tali data.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm il-kuntest ma jitlobx xorta\n\nTifsir.\n\noħra:\n\"Att\" tfisser l-Att dwar il-Protezzjoni u l-Privatezza tad-Data;\n\nKap. 586.\n\n\"awtorità kompetenti\" tfisser:\n(a)\nkwalunkwe awtorità kompetenti pubblika għallprevenzjoni, l-investigazzjoni, is-sejbien jew il-prosekuzzjoni ta’\nreati kriminali jew l-eżekuzzjoni ta’ pieni kriminali, inkluż\nsalvagwardji kontra u l-prevenzjoni ta’ theddid għas-sigurtà\npubblika, u teskludi s-Servizz tas-Sigurtà skont kif stabbilit taħt\nl-Att dwar is-Servizz tas-Sigurtà;\n(b)\nkwalunkwe korp jew entità oħra fdata mil-liġi li\nteżerċita awtorità pubblika u setgħat pubbliċi għall-finijiet talprevenzjoni, l-investigazzjoni, is-sejbien jew il-prosekuzzjoni ta’\nreati kriminali jew l-eżekuzzjoni ta’ pieni kriminali, inkluż issalvagwardji kontra u l-prevenzjoni ta’ theddid għas-sigurtà\n*Ara Avviż Legali 172 tal-2018.\n\nKap. 391\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\npubblika;\n\"awtorità superviżorja\" tfisser awtorità pubblika indipendenti li\ntiġi stabbilita minn Stat Membru ieħor skont l-artikolu 41 tad Direttiva\nimsemmija fir-regolament 1(2);\n\"data bijometrika\" tfisser data personali li tirriżulta millipproċessar tekniku speċifiku relatat mal-karatteristiċi fiżiċi, fiżjoloġiċi\njew tal-imġiba ta’ persuna, li tippermetti jew tikkonferma lidentifikazzjoni unika ta’ dik il-persuna fiżika, bħall-immaġnijiet talwiċċ jew id-data dattiloskopika;\n\"data dwar is-saħħa\" tfisser data personali relatata mas-saħħa\nfiżika jew mentali ta’ persuna fiżika, inkluża l-provvista ta’ servizzi talkura tas-saħħa, li tiżvela informazzjoni rigward l-istat ta’ saħħa;\n\"data ġenetika\" tfisser data personali relatata mal-karatteristiċi\nġenetiċi ta’ persuni fiżika li jkunu ntirtu jew inkisbu u li tagħti\ninformazzjoni unika dwar il-fiżjoloġija jew is-saħħa ta’ dik il-persuna\nfiżika, u li tirriżulta, b’mod partikolari, minn analiżi ta’ kampjun\nbijoloġiku mill-persuna fiżika inkwistjoni;\n\"data personali\" tfisser kwalunkwe informazzjoni relatata ma’\npersuna fiżika identifikata jew identifikabbli u persuna fiżika\nidentifikabbli hija persuna li tista’ tiġi identifikata, direttament jew\nindirettament, b’mod partikolari b’referenza għal mezz ta’\nidentifikazzjoni bħal isem, numru ta’ identifikazzjoni, data ta’\nlokalizzazzjoni, identifikatur online jew għal fattur wieħed jew aktar\nspeċifiċi għall-identità fiżika, fiżjoloġika, ġenetika, mentali, ekonomika,\nkulturali jew soċjali ta’ dik il-persuna fiżika;\n\"deċiżjoni ta’ adegwatezza\" tfisser deċiżjoni adottata millKummissjoni Ewropea skont l-artikolu 36(3) tad-Direttiva imsemmija\nfir-regolament 1(2), fejn pajjiż terz, territorju jew settur speċifiku wieħed\njew aktar f’dak il-pajjiż terz, jew organizzazzjoni internazzjonali\njiżguraw livell adegwat ta’ protezzjoni;\n\"id-Direttiva\" tfisser id-Direttiva (UE) 2016/680 tal-Parlament\nEwropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni ta’\npersuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali millawtoritajiet kompetenti għall-finijiet tal-prevenzjoni, l-investigazzjoni,\nis-sejbien jew il-prosekuzzjoni ta’ reati kriminali jew l-eżekuzzjoni ta’\npieni kriminali, u dwar il-moviment liberu ta’ tali data;\n\"ipproċessar\" tfisser kwalunkwe attività jew sett ta’ attivatijiet li\njitwettqu fuq data personali jew fuq settijiet ta’ data personali, sew jekk\nb’mezzi awtomatizzati u sew jekk mingħajrhom, bħalma huma l-ġbir, irreġistrazzjoni, l-organizzazzjoni, l-istrutturar, il-ħażna, l-adattament jew\nil-bidliet, l-irkupru, il-konsultazzjoni, l-użu, l-iżvelar bi trasmissjoni, ittixrid jew it-tqegħid għad-dispożizzjoni b’xi mezz ieħor, l-allinjament\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\njew it-taħlita, ir-restrizzjoni, it-tħassir jew il-qerda;\n\"kontrollur\" tfisser l-awtorità kompetenti li, waħidha jew flimkien\nma’ oħrajn, tiddetermina l-iskopijiet u l-mezzi tal-ipproċessar tad-data\npersonali;\n\"korpi tal-unjoni\" tfisser aġenziji, uffiċċji u korpi stabbiliti skont\nil-Kapitoli 4 u 5 tat-Titolu V tat-Trattat dwar il-Funzjonament tal-Unjoni\nEwropea, jew kwalunkwe trattat sussegwenti u aġenziji, uffiċċji u korpi\noħra stabbiliti taħt il-liġi tal-Unjoni u awtorizzati mil-liġi biex\njipproċessaw data personali għal kwalunkwe għan stabbilit firregolament 3(1), fejn il-liġi tipprovdi għall-komunikazzjoni ta’ dik iddata personali minn awtoritajiet kompetenti lil dawk l-aġenziji, uffiċċji\nu korpi;\n\"ksur ta’ data personali\" tfisser ksur tas-sigurtà li jwassal għal\nqerda aċċidentali jew illegali, telf, bidliet, żvelar mhux awtorizzat ta’,\njew aċċess għal, data personali trasmessa, maħżuna jew ipproċessata\nb’xi mod ieħor;\n\"Kummissarju\" tfisser il-Kummissarju għall-Informazzjoni u lProtezzjoni tad-Data skont kif inhu stabbilit fl-artikolu 11 tal-Att;\n\"organizzazzjoni internazzjonali\" tfisser organizzazzjoni u l-korpi\nsubordinati tagħha regolati mid-dritt internazzjonali pubbliku jew\nkwalunkwe korp ieħor li jiġi stabbilit a bażi ta’ ftehim bejn żewġ pajjiżi\njew aktar. Għal skopijiet ta’ dawn ir-regolamenti, l-Organizzazzjoni talPulizija dwar Kriminalità Internazzjonali (‘Interpol’) għandha titqies\nbħala organizzazzjoni internazzjonali;\n\"proċessur\" tfisser persuna fiżika jew ġuridika, awtorità pubblika,\naġenzija jew korp ieħor li tipproċessa data personali f’isem ilkontrollur;\n\"psewdonimizzazzjoni\" tfisser l-ipproċessar ta’ data personali\nb’tali mod li d-data personali ma tkunx tista’ tibqa’ tiġi attribwita għal\nsuġġett tad-data speċifiku mingħajr l-użu ta’ informazzjoni\naddizzjonali, dment li tali informazzjoni addizzjonali tinżamm\nseparatament u tkun soġġetta għal miżuri tekniċi u organizzattivi biex\njiġi żgurat li d-data personali ma tiġix attribwita għal persuna fiżika\nidentifikata jew identifikabbli;\n\"restrizzjoni tal-ipproċessar\" tfisser l-immarkar ta’ data personali\nmaħżuna bil-għan li jiġi limitat l-ipproċessar tagħha fil-ġejjieni;\n\"riċevitur\" tfisser persuna fiżika jew ġuridika, awtorità pubblika,\naġenzija jew korp ieħor, li liha tiġi żvelata d-data personali,\nirrispettivament milli huwiex parti terza jew le. Madankollu, lawtoritajiet pubbliċi li jistgħu jirċievu data personali fil-qafas ta’\n\nKap. 586.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\ninkjesta partikolari f’konformità mal-liġi ma għandhomx jitqiesu bħala\nriċevituri; l-ipproċessar ta’ dik id-data minn dawk l-awtoritajiet pubbliċi\ngħandu jkun f’konformità mar-regoli ta’ protezzjoni tad-data applikabbli\nskont il-finijiet tal-ipproċessar;\n\"sistema ta’ arkivjar\" tfisser kwalunkwe sett strutturat ta’ data\npersonali li tkun aċċessibbli skont kriterji speċifiċi, sew jekk ċentralizzat,\ndeċentralizzat jew mifrux fuq bażi funzjonali jew ġeografika;\n\"tfassil tal-profil\" tfisser kwalunkwe forma ta’ pproċessar\nawtomatizzat ta’ data personali li jikkonsisti fl-użu ta’ data personali\nbiex jiġu evalwati ċerti aspetti personali relatati ma’ persuna fiżika,\nb’mod partikolari biex jiġu analizzati jew imbassra aspetti rigward ilprestazzjoni fuq ix-xogħol, is-sitwazzjoni ekonomika, is-saħħa, ilpreferenzi personali, l-interessi, l-affidabbiltà, l-imġieba, illokalizzazzjoni jew il-movimenti ta’ dik il-persuna fiżika;\n\"utent\" tfisser persuna fiżika awtorizzata mill-kontrollur jew millproċessur biex ikollha aċċess u tuża kwalunkwe sistema ta’ pproċessar\nawtomatizzat.\n\nApplikabilità ta’\ndawn irregolamenti.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 186
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "dawn irregolamenti",
+      "content": "(1)\nDawn ir-regolamenti għandhom japplikaw għallipproċessar ta’ data personali mill-awtoritajiet kompetenti għall-finijiet\ntal-prevenzjoni, l-investigazzjoni, is-sejbien jew il-prosekuzzjoni ta’\nreati kriminali jew l-eżekuzzjoni ta’ pieni kriminali, inkluż ssalvagwardji kontra u l-prevenzjoni ta’ theddid għas-sigurtà pubblika:\nIżda d-dispożizzjonijiet speċifiċi għall-protezzjoni ta’ data\npersonali f’atti adottati mill-Unjoni Ewropea li daħlu fis-seħħ fis-6 ta’\nMejju 2016 jew qabel din id-data fil-qasam tal-kooperazzjoni\nġudizzjarja f’materji kriminali u kooperazzjoni polizjeska, li jirregolaw\nl-ipproċessar bejn l-Istati Membri u l-aċċess għal sistemi ta’\ninformazzjoni minn awtoritajiet maħtura minn Stati Membri hekk kif\nstabbilit skont it-Trattat fl-ambitu tad-Direttiva, m’għandhomx ikunu\naffettwati.\n(2)\nDawn ir-regolamenti għandhom japplikaw għallipproċessar komplet jew parzjali b’mezzi awtomatizzati tad-data\npersonali, u għall-ipproċessar, għajr b’mezzi awtomatizzati tad-data\npersonali li tifforma parti minn sistema ta’ arkivjar jew li tkun maħsuba\nbiex tifforma parti minn sistema ta’ arkivjar.\n(3)\nDawn ir-regolamenti m’għandhomx japplikaw għallipproċessar ta’ data personali minn awtoritajiet kompetenti għal skop\nieħor għajr l-iskopijiet stabbiliti fis-subregolament (1).\n(4)\nDawn ir-regolamenti m’għandhomx japplikaw għallipproċessar ta’ data personali mill-awtoritajiet kompetenti għal skopijiet\nta’ arkivjar fl-interess pubbliku, skopijiet ta’ riċerka xjentifika jew\nstorika jew skopijiet ta’ statistika sakemm dan l-ipproċessar ma jsirx\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\ngħal xi wieħed mill-għanijiet imsemmija fis-subregolament (1).\nPRINĊIPJI",
+      "metadata": {
+        "source_line_start": 187,
+        "source_line_end": 225
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "PRINĊIPJI",
+      "content": "(1)\n\nId-data personali għandha tkun:\n\n(a)\n\nipproċessata b’mod legali u ġust;\n\n(b)\nmiġbura għal finijiet speċifiċi, espliċiti u leġittimi u\nmhux ipproċessata b’mod li ma jkunx kompatibbli ma’ dawk ilfinijiet;\n(ċ)\nadegwata, rilevanti u mhux eċċessiva għall-finijiet\nli għalih tiġi pproċessata;\n(d)\npreċiża u, fejn meħtieġ, tinżamm aġġornata;\ngħandu jittieħed kull pass raġonevoli biex ikun żgurat li d-data\npersonali impreċiża, b’kont meħud tal-għanijiet li għalihom tiġi\npproċessata, titħassar jew tiġi rettifikata mingħajr dewmien;\n(e)\nmiżmuma b’mod li tippermetti l-identifikazzjoni\ntas-suġġetti tad-data għal mhux aktar milli jkun meħtieġ għalfinijiet li tiġi pproċessata;\n(f)\nipproċessata b’mod li tiżgura s-sigurtà xierqa taddata personali, inkluż il-protezzjoni kontra pproċessar mhux\nawtorizzat jew illegali u kontra t-telfien, il-qerda jew il-ħsara\ninċidentali, bl-użu ta’ miżuri tekniċi jew organizzattivi xierqa.\n(2)\nL-ipproċessar mill-istess kontrollur jew minn wieħed\ndifferenti għal kwalunkwe wieħed mill-finijiet stipulati fir-regolament\n3(1) minbarra dak li għalih tinġabar id-data personali għandu jkun\npermess sakemm:\n(a)\nil-kontrollur ikun awtorizzat biex jipproċessa data\npersonali bħal din għal dak l-iskop skont il-liġi; u\n(b)\nl-ipproċessar huwa meħtieġ u proporzjonat għal\ndak skop ieħor ieħor skont il-liġi.\n(3)\nL-ipproċessar mill-istess kontrollur jew minn wieħed\ndifferenti jista’ jinkludi l-arkivjar fl-interess tal-pubbliku, l-użu\nxjentifiku, statistiku jew storiku, għall-finijiet stipulati fir-regolament\n3(1), soġġetti għal salvagwardji xierqa għad-drittijiet u l-libertajiet tassuġġetti tad-data.\n(4)\nIl-kontrollur għandu jkun responsabbli mill-konformità\ntas-subregolamenti (1), (2) u (3), u għandu jkun jista’ juri din ilkonformità.\n\nPrinċipji relatati\nmal-ipproċessar ta’\ndata personali.\n\n[ L.S. 586.08\n\nLimiti ta’ żmien\ngħall-ħażna u għarrieżami.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "metadata": {
+        "source_line_start": 226,
+        "source_line_end": 290
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "KRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "content": "(1)\nData personali li m’għadhiex meħtieġa għall-finijiet\nstabbiliti fir-regolament 3(1) għandha tiġi mħassra mingħajr dewmien\nżejjed.\n\n(2)\nMingħajr preġudizzju għal kwalunkwe limitu ta' żmien\ngħall-ħażna jew tħassir ta' data pprovduta minn xi liġi, il-kontrollur\ngħandu jistabbilixxi limiti ta' żmien xieraq għat-tħassir ta' data personali\njew għal reviżjoni perjodika tal-ħtieġa għall-ħażna ta' data personali. Ilkontrollur għandu jkun responsabbli biex jistabbilixxi politika ta' żamma\ntad-data, li għandha tinkludi l-kategoriji tad-data kollha u l-limiti tażżmien rispettivi.\n(3)\nIl-politika dwar iż-żamma tad-data u kwalunkwe emenda\nsussegwenti, għandha tiġi riveduta u approvata mill-Kummissarju. IlKummissarju jista' jirrifjuta politika ta' żamma tad-data jekk ma\ntikkonformax ma' dawn ir-regolamenti.\n(4)\nIl-kontrollur għandu jkun responsabbli biex jistabbilixxi lmiżuri proċedurali meħtieġa, inklużi, iżda mhux limitati għallarranġamenti tekniċi meħtieġa, sabiex jiġi żgurat li l-obbligi stabbiliti\nfis-subregolament (2) jintlaħqu.\nDistinzjoni bejn\nkategoriji differenti\nta’ suġġetti taddata.",
+      "metadata": {
+        "source_line_start": 291,
+        "source_line_end": 313
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "ta’ suġġetti taddata",
+      "content": "Il-kontrollur, fejn applikabbli u sakemm ikun possibli,\ngħandu jagħmel distinzjoni ċara bejn data personali ta’ kategoriji\ndifferenti ta’ suġġetti tad-data, li tinkludi:\n(a)\npersuni li fir-rigward tagħhom ikun hemm\nraġunijiet serji biex wieħed jemmen li jkunu wettqu jew li jkunu\nser iwettqu reat kriminali;\n(b)\n\npersuni misjuba ħatja ta' reat kriminali;\n\n(ċ)\nvittmi ta' reat kriminali jew persuni li ċerti fatti firrigward tagħhom jagħtu lok għal raġunijiet biex wieħed jemmen\nli huma jistgħu jkunu l-vittma ta' reat kriminali; u\n(d)\npartijiet oħra għal reat kriminali, bħal persuni li\njistgħu jissejħu biex jixhdu f'investigazzjonijiet b'rabta ma' reati\nkriminali jew proċeduri kriminali sussegwenti, persuni li jistgħu\njipprovdu informazzjoni dwar reati kriminali, jew kuntatti jew\nassoċjati ta' waħda mill-persuni msemmija fil-paragrafi (a) u (b).\nDistinzjoni bejn\ndata personali u\nverifika tal-kwalità\ntad-data personali.",
+      "metadata": {
+        "source_line_start": 314,
+        "source_line_end": 339
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "tad-data personali",
+      "content": "(1)\nData personali bbażata fuq valutazzjonijiet\npersonali għandha tiġi distinta minn data personali bbażata fuq fatti.\n(2)\nL-awtoritajiet kompetenti għandhom jieħdu l-passi kollha\nraġonevoli biex jiżguraw li data personali li ma tkunx preċiża, mhux\nkompluta jew li ma tkunx għadha aġġornata ma tiġix trasmessa jew issir\ndisponibbli.\n(3)\n\nL-awtoritajiet\n\nkompetenti\n\ngħandhom,\n\nsa\n\nfejn\n\nikun\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\npossibbli, jivverifikaw il-kwalità tad-data personali qabel ma din tiġi\ntrasmessa jew issir disponibbli. Sa fejn ikun possibbli, fittrasmissjonijiet kollha ta' data personali, l-awtoritajiet kompetenti\ngħandhom jiżguraw li:\n(a)\ndata personali bbażata fuq opinjonijiet jew\nvalutazzjonijiet personali għandha tiġi verifikata mas-sors qabel\nma’ din tiġi trasmessa u l-grad ta’ affidabbilità jew preċiżjoni\ntagħha għandha tkun indikata b’mod ċar;\n(b)\ndata personali li tikkonsisti f’deċiżjonijiet\nġudizzjarji jew f’deċiżjonijiet biex ma sseħħx prosekuzzjoni\ngħandha tkun indikata b’mod ċar; u\n(ċ)\nl-informazzjoni meħtieġa li tippermetti lill-awtorità\nkompetenti li tirċievi d-data biex tevalwa l-grad ta’ preċiżjoni,\nkompletezza u affidabilità tad-data personali, u l-limitu sa fejn hi\naġġornata għandhom jiġu miżjuda.\n(4)\nIr-riċevitur għandu jkun innotifikat mingħajr dewmien\njekk jirriżulta li data personali mhux korretta ġiet trasmessa jew li ddata personali ġiet trasmessa illegalment. F'każ bħal dan, id-data\npersonali għandha tiġi rettifikata jew imħassra jew l-ipproċessar għandu\njkun ristrett skont ir-regolament 16.",
+      "metadata": {
+        "source_line_start": 340,
+        "source_line_end": 392
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "jkun ristrett skont ir-regolament 16",
+      "content": "(1)\nL-ipproċessar għandu jkun legali biss jekk u\nsakemm dak l-ipproċessar ikun meħtieġ għat-twettiq ta' kompitu li jsir\nminn awtorità kompetenti għall-finijiet stipulati fir-regolament 3(1) u li\njkun ibbażat fuq il-liġi.\n\nLegalità talipproċessar.\n\n(2)\nL-awtoritajiet kompetenti skont il-liġi għandhom\njispeċifikaw tal-inqas l-objettivi tal-ipproċessar, id-data personali li\ngħandha tiġi pproċessata u l-finijiet tal-ipproċessar.\n(3) L-awtoritajiet kompetenti jistgħu jiġbru data personali\npermezz ta’ sorveljanza teknika jew mezzi awtomatizzati oħra għal\nkwalunkwe skop stabbilit fir-regolament 3(1) u li hu bbażat fuq il-liġi.",
+      "metadata": {
+        "source_line_start": 393,
+        "source_line_end": 408
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "kwalunkwe skop stabbilit fir-regolament 3(1) u li hu bbażat fuq il-liġi",
+      "content": "(1) Data personali miġbura minn awtoritajiet\nkompetenti għall-finijiet stipulati fir-regolament 3(1) m’għandhiex tiġi\npproċessata għal finijiet li mhumiex dawk stipulati fir-regolament 3(1)\nsakemm tali pproċessar ma jkunx awtorizzat mill-liġi u skont ir-regoli\napplikabbli tal-protezzjoni ta’ data.\n(2)\nFejn il-liġi tipprovdi kundizzjonijiet speċifiċi għallipproċessar, l-awtorità kompetenti li tittrasmetti d-data għandha\ntinforma lir-riċevituri ta’ data personali bil-kundizzjonijiet u birrekwiżit li tikkonforma magħhom.\n(3)\n\nL-awtorità\n\nkompetenti\n\nm’għandhiex\n\ntapplika\n\nl-\n\nKundizzjonijiet\nspeċifiċi għallipproċessar.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\nkondizzjonijiet imsemmija fis-subregolament (2) għal riċevituri fi Stati\nMembri oħra jew għal korpi tal-Unjoni, li huma differenti minn dawk\napplikabbli għal trasmissjonijiet ta’ data simili bejn awtoritajiet\nkompetenti f’Malta.\n\nIpproċessar ta’\nkategoriji speċjali\nta’ data personali.",
+      "metadata": {
+        "source_line_start": 409,
+        "source_line_end": 452
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "ta’ data personali",
+      "content": "Ipproċessar ta’ data personali li jiżvela oriġini razzjali jew\netnika, opinjonijiet politiċi, twemmin reliġjuż jew filosofiku, jew sħubija\nfi trade union, u l-ipproċessar ta' data ġenetika, data bijometrika bliskop li jiġi identifikat b'mod uniku persuna fiżika, data dwar saħħa jew\ndata dwar il-ħajja sesswali jew l-orjentazzjoni sesswali tal-persuna fiżika\ngħandu jkun permess biss fejn strettament meħtieġ, soġġett għal\nsalvagwardji xierqa għad-drittijiet u l-libertajiet tas-suġġett tad-data, u\nbiss;\n(a)\n\nfejn awtorizzat bil-liġi;\n\n(b)\nbiex jipproteġi l-interessi vitali tas-suġġett tad-data\njew ta' persuna fiżika oħra; jew\n(ċ)\nmeta dan l-ipproċessar jirrelata ma' data li hija\nmanifestament magħmula pubblika mis-suġġett tad-data.\nTeħid ta’\ndeċiżjonijiet\nindividwali\nawtomatizzati.",
+      "metadata": {
+        "source_line_start": 453,
+        "source_line_end": 475
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "awtomatizzati",
+      "content": "(1)\nDeċiżjoni\nbbażata\nbiss\nfuq\nipproċessar\nawtomatizzat, inkluż t-tfassil tal-profil, li joħloq effett legali negattiv li\njikkonċerna s-suġġett tad-data jew jaffettwah b'mod sinifikanti, tiġi\npprojbita sakemm ma tkunx awtorizzata mil-liġi li għaliha jkun soġġett\nil-kontrollur u li tipprovdi salvagwardji adatti għad-drittijiet u llibertajiet tas-suġġett tad-data, mill-inqas id-dritt li jkun hemm intervent\numan min-naħa tal-kontrollur.\n(2)\nId-deċiżjonijiet\nimsemmija\nfis-subregolament\n(1)\nm'għandhomx ikunu bbażati fuq kategoriji speċjali ta' data personali\nmsemmija fir-regolament 10, sakemm ma jkunux stabbiliti miżuri xierqa\nbiex jissalvagwardjaw id-drittijiet u l-libertajiet u l-interessi leġittimi tassuġġett tad-data.\n(3)\nIl-profil li jirriżulta f'diskriminazzjoni kontra persuni fiżiċi\nfuq il-bażi ta' kategoriji speċjali ta' data personali msemmija firregolament 10 għandu jkun ipprojbit.\nDRITTIJIET TAS-SUĠĠETT TAD-DATA\n\nKomunikazzjoni u\nmodalitajiet għalleżerċizzju taddrittijiet tas-suġġett\ntad-data.",
+      "metadata": {
+        "source_line_start": 476,
+        "source_line_end": 505
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "tad-data",
+      "content": "(1)\nIl-kontrollur għandu jieħu l-passi kollha meħtieġa\nbiex jipprovdi kwalunkwe informazzjoni msemmija fir-regolament 13 u\njiżgura li kwalunkwe komunikazzjoni fir-rigward tar-regolament 11, 14\nsa 18 u 31 relatati mal-ipproċessar jingħata f'forma konċiża, intelliġibbli\nu faċilment aċċessibbli, bl-użu ta' lingwaġġ ċar u sempliċi. Linformazzjoni għandha tiġi pprovduta b'kull mezz xieraq, inkluż b'mod\nelettroniku. Bħala regola ġenerali, il-kontrollur għandu jipprovdi l-\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\ninformazzjoni fl-istess forma tat-talba.\n(2)\nIl-kontrollur għandu jiffaċilita l-eżerċizzju tad-drittijiet\ntas-suġġett tad-data skont ir-regolamenti 11 u 14 sa 18.\n(3)\nIl-kontrollur għandu jinforma lis-suġġett tad-data bilmiktub dwar is-segwitu tat-talba tiegħu mingħajr dewmien bla bżonn.\n(4)\nL-informazzjoni pprovduta taħt ir-regolament 13 u\nkwalunkwe komunikazzjoni magħmula u azzjoni meħuda taħt irregolamenti 11, 14 sa 18 u 31 jiġu pprovduti mingħajr ħlas:\nIżda jekk ir-rikjesti minn suġġett ta’ data jkunu\nmanifestament bla bażi jew eċċessivi, b'mod partikolari minħabba nnatura ripetittiva tagħhom, il-kontrollur jista' jew:\n(a)\njimponi ħlas raġonevoli meħud tal-ispejjeż\namministrattivi biex tingħata l-informazzjoni jew ilkomunikazzjoni jew tat-teħid tal-azzjoni mitluba; jew\n(b)\n\njirrifjuta li jaġixxi fuq it-talba.\n\n(5)\nMeta l-kontrollur ikollu dubbji raġonevoli dwar l-identità\ntal-persuna fiżika li tkun qed tagħmel it-talba msemmija fir-regolament\n14 jew 16, il-kontrollur jista' jitlob li tiġi pprovduta informazzjoni\naddizzjonali meħtieġa biex tiġi kkonfermata l-identità tas-suġġett taddata.",
+      "metadata": {
+        "source_line_start": 506,
+        "source_line_end": 545
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "addizzjonali meħtieġa biex tiġi kkonfermata l-identità tas-suġġett taddata",
+      "content": "(1)\nIl-kontrollur għandu jagħmel, tal-inqas,\ninformazzjoni li ġejja disponibbli għas-suġġett tad-data:\n(a)\n\nl-\n\nl-identità u d-dettalji ta' kuntatt tal-kontrollur;\n\n(b)\nid-dettalji ta' kuntatt tal-Uffiċjal tal-Protezzjoni tadData, fejn applikabbli;\n(ċ)\nil-finijiet tal-ipproċessar li għalih id-data personali\ntkun maħsuba;\n(d)\nid-dritt li jitressaq ilment quddiem il-Kummissarju\nu d-dettalji ta' kuntatt tal-Kummissarju;\n(e)\nl-eżistenza tad-dritt li jintalbu mingħand ilkontrollur l-aċċess għal u r-rettifika jew it-tħassir ta' data\npersonali u r-restrizzjoni tal-ipproċessar ta' data personali, dwar\nis-suġġett tad-data.\n(2)\nMinbarra l-informazzjoni msemmija fis-subregolament\n(1), il-kontrollur għandu jagħti lis-suġġett tad-data, f'każijiet speċifiċi, linformazzjoni ulterjuri li ġejja biex ikun jista' jeżerċita d-drittijiet tiegħu:\n\nInformazzjoni li\ngħandha tkun\ndisponibbli jew\nmogħtija lissuġġett tad-data.\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n(a)\n\nil-bażi legali għall-ipproċessar;\n\n(b)\nil-perijodu li għalih ser tinħażen id-data personali,\njew, fejn ma jkunx possibbli, il-kriterji użati biex jiġi determinat\ndak il-perijodu;\n(ċ)\nfejn applikabbli, il-kategoriji tar-riċevituri tad-data\npersonali, inkluż f'pajjiżi terzi jew organizzazzjonijiet\ninternazzjonali;\n(d)\nfejn meħtieġ, informazzjoni ulterjuri, b'mod\npartikolari fejn id-data personali tinġabar mingħajr ma jkun jaf issuġġett tad-data.\n(3)\nL-informazzjoni skont is-subregolament (2) bbażata fuq\nkwalunkwe liġi nazzjonali oħra tista’ tittardja, tiġi ristretta jew titħalla\nbarra, sakemm it-tali miżura ma tikkostitwixxix miżura meħtieġa u\nproporzjonata f'soċjetà demokratika b'kont debitu tad-drittijiet\nfundamentali u l-interessi leġittimi tal-persuna fiżika kkonċernata,\nsabiex:\n(a)\nikun\nevitat\nli\njiġu\nmfixkla\ninvestigazzjonijiet jew proċeduri uffiċjali jew legali;\n\ninkjesti,\n\n(b)\nikun evitat preġudizzju għall-prevenzjoni, issejbien, l-investigazzjoni jew il-prosekuzzjoni ta' reati kriminali\njew għall-eżekuzzjoni ta' pieni kriminali;\n\nDritt ta’ aċċess\nmis-suġġett taddata.\n\n(ċ)\n\ntiġi protetta s-sigurtà pubblika;\n\n(d)\n\ntiġi protetta s-sigurtà nazzjonali;\n\n(e)\n\njiġu protetti d-drittijiet u l-libertajiet ta' oħrajn.",
+      "metadata": {
+        "source_line_start": 546,
+        "source_line_end": 639
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "jiġu protetti d-drittijiet u l-libertajiet ta' oħrajn",
+      "content": "Bla ħsara għar-regolament 15, is-suġġett tad-data għandu\nd-dritt jikseb mingħand il-kontrollur, konferma dwar jekk id-data\npersonali li tikkonċerna lilu hijiex qiegħda tiġi pproċessata, u, fejn dak\nhu l-każ, aċċess għal tali data personali u għall-informazzjoni li ġejja:\n(a)\n\nil-finijiet u l-bażi legali għall-ipproċessar;\n\n(b)\n\nil-kategoriji ta' data personali kkonċernati;\n\n(ċ) i r-riċevituri jew il-kategoriji ta' riċevituri li lilhom\ntkun ġiet żvelata d-data personali, b'mod partikolari riċevituri\nf'pajjiżi terzi jew organizzazzjonijiet internazzjonali;\n(d)\nfejn possibbli, il-perijodu previst li għalih tkun ser\ntinħażen id-data personali, jew jekk dan ma jkunx possibbli, ilkriterji li jintużaw biex jiġi determinat dak il-perijodu;\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\n(e)\nl-eżistenza tad-dritt li jintalbu mingħand ilkontrollur ir-rettifika jew it-tħassir ta' data personali jew irrestrizzjoni tal-ipproċessar ta' data personali dwar is-suġġett taddata;\n(f)\nid-dritt li jitressaq ilment quddiem il-Kummissarju\nu d-dettalji ta' kuntatt tal-Kummissarju;\n(g)\nkomunikazzjoni tad-data personali li tkun qed tiġi\npproċessata u ta' kull informazzjoni disponibbli dwar l-oriġini\ntagħha.",
+      "metadata": {
+        "source_line_start": 640,
+        "source_line_end": 678
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "tagħha",
+      "content": "(1)\nId-dritt ta' aċċess ta' suġġett tad-data jista' jkun\nristrett, kompletament jew parzjalment, sakemm dik ir-restrizzjoni\nparzjali jew kompleta tikkostitwixxi miżura meħtieġa u proporzjonata\nf'soċjetà demokratika b'attenzjoni xierqa għad-drittijiet fundamentali u linteressi leġittimi tal-persuna fiżika kkonċernata, għal kwalunkwe mirraġunijiet imsemmija fir-regolament 13(3)(a) sa (e).\n\nLimitazzjonijiet\ngħad-dritt talaċċess.\n\n(2)\nFil-każijiet imsemmija fis-subregolament (1), il-kontrollur\ngħandu jinforma lis-suġġett tad-data, mingħajr dewmien żejjed, u mhux\naktar tard minn erbgħin jum minn meta jirċievi t-talba, bil-miktub dwar\nkull rifjut jew restrizzjoni ta’ aċċess u r-raġunijiet għar-rifjut jew irrestrizzjoni:\nIżda dik l-informazzjoni tista' titħalla barra meta ddispożizzjoni tfixkel l-iskop tas-subregolament (1). Fi kwalunkwe każ,\nil-kontrollur għandu jinforma lis-suġġett tad-data bil-possibbiltà li\njressaq ilment mal-Kummissarju jew biex ifittex rimedju ġudizzjarju.\n(3)\nIl-kontrollur għandu jiddokumenta r-raġunijiet fattwali\njew legali li fuqhom tkun ibbażata d-deċiżjoni taħt is-subregolamenti (1)\nu (2) u dik l-informazzjoni għandha tkun disponibbli għallKummissarju.",
+      "metadata": {
+        "source_line_start": 679,
+        "source_line_end": 700
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "u (2) u dik l-informazzjoni għandha tkun disponibbli għallKummissarju",
+      "content": "(1)\nIs-suġġett ta’ data għandu d-dritt li jikseb\nmingħand il-kontrollur mingħajr dewmien bla bżonn, ir-rettifika ta' data\npersonali dwaru li ma tkunx eżatta. Filwaqt li jiġi kkunsidrat il-fini talipproċessar, is-suġġett tad-data għandu jkollu d-dritt li jikseb likkompletar tad-data personali mhux kompluta, inkluż permezz talgħoti ta' dikjarazzjoni supplimentari.\n(2)\nIl-kontrollur għandu jħassar data personali mingħajr\ndewmien bla bżonn u jipprovdi għad-dritt tas-suġġett tad-data li jikseb\nmingħand il-kontrollur it-tħassir ta' data personali dwaru mingħajr\ndewmien bla bżonn meta l-ipproċessar jikser id-dispożizzjonijiet\nadottati skont ir-regolamenti 4, 8 jew 10, jew meta d-data personali\njkollha titħassar f'konformità ma' obbligu legali li għalih il-kontrollur\nhuwa soġġett.\n\nDritt ta’ rettifika\njew tħassir ta’ data\npersonali u\nrestrizzjoni fuq lipproċessar.\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n(3)\nMinflok\nipproċessar meta:\n\nit-tħassir,\n\nil-kontrollur\n\ngħandu\n\njillimita\n\nl-\n\n(a)\nl-eżattezza tad-data personali tiġi kkontestata missuġġett tad-data, u l-eżattezza jew l-ineżattezza ma tistax tkun\naċċertata; jew\n(b)\nevidenza:\n\nid-data personali tkun trid tinżamm għal finijiet ta'\n\nIżda meta l-ipproċessar ikun ristrett skont is-subregolament\n(3)(a), il-kontrollur għandu jinforma lis-suġġett tad-data qabel ineħħi rrestrizzjoni tal-ipproċessar.\n(4)\nIr-regolament 15 dwar il-limitazzjoni għad-dritt ta’ aċċess\ngħandu japplika mutatis mutandis għad-dritt għar-rettifika jew tħassir ta’\ndata personali u restrizzjoni tal-ipproċessar.\n(5)\nIl-kontrollur għandu jikkomunika r-rettifika tad-data\npersonali mhux preċiża lill-awtorità kompetenti li minnha toriġina ddata personali mhux preċiża.\n(6)\nFejn data personali ġiet irrettifikata jew imħassra jew lipproċessar ġie ristrett skont is-subregolament (1), (2) u (3), il-kontrollur\ngħandu jinnotifika lir-riċevituri u dawn għandhom jirrettifikaw jew\niħassru id-data personali jew jirrestrinġu l-ipproċessar tad-data personali\ntaħt ir-responsabbiltà tagħhom.\nEżerċizzju taddrittijiet missuġġett tad-data u\nverifika millKummissarju.",
+      "metadata": {
+        "source_line_start": 701,
+        "source_line_end": 768
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "verifika millKummissarju",
+      "content": "(1)\nFil-każijiet imsemmija fir-regolament 13(3), irregolament 15(2) u r-regolament 16(4), is-suġġett tad-data jista’\njeżerċita id-drittijiet tiegħu permezz tal-Kummissarju.\n(2)\nIl-kontrollur għandu jinforma lis-suġġett tad-data dwar ilpossibbiltà li jeżerċita d-drittijiet tiegħu permezz tal-Kummissarju skont\nis-subregolament (1).\n(3)\nMeta jiġi eżerċitat id-dritt imsemmi fis-subregolament (1),\nil-Kummissarju għandu jinforma lis-suġġett tad-data tal-inqas li jkunu\nsaru l-verifiki kollha meħtieġa jew rieżami mill-Kummissarju. IlKummissarju għandu jinforma wkoll lis-suġġett tad-data dwar id-dritt\ntiegħu li jfittex rimedju ġudizzjarju.\n\nDrittijiet tassuġġett tad-data\nf’investigazzjonijiet u\nproċedimenti\nkriminali.",
+      "metadata": {
+        "source_line_start": 769,
+        "source_line_end": 786
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "kriminali",
+      "content": "Fejn liġi tipprovdi b'mod ekwivalenti għad-drittijiet\nimsemmija taħt ir-regolamenti 13, 14 u 16 fir-rigward ta' data personali\nli tkun miżmuma f'deċiżjoni jew reġistru ġudizzjarju jew fil-fajl tal-każ\nipproċessat matul l-investigazzjonijiet u l-proċedimenti kriminali, issuġġett tad-data għandu d-dritt li jeżerċita d-drittijiet tiegħu skont liġi\noħra.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\nIR-RABA’ TAQSIMA\nKONTROLLUR U PROĊESSUR\nTitolu I\nObbligi Ġenerali",
+      "metadata": {
+        "source_line_start": 787,
+        "source_line_end": 807
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Obbligi Ġenerali",
+      "content": "(1)\nIl-kontrollur għandu, b'kont meħud tan-natura, lambitu, il-kuntest u l-finijiet tal-ipproċessar kif ukoll ir-riskji ta'\nprobabbiltà u gravità diversa għad-drittijiet u l-libertajiet tal-persuni\nfiżiċi, jimplimenta miżuri tekniċi u organizzattivi adatti biex jiżgura u\njkun jista' juri li l-ipproċessar isir f'konformità ma' dawn ir-regolamenti,\ninkluż fejn proporzjonat, l-implimentazzjoni ta’ politiki adatti dwar ilprotezzjoni tad-data mill-kontrollur.\n\nObbligi talkontrollur.\n\n(2)\nIl-miżuri msemmija fis-subregolament (1) għandhom jiġu\nriveduti u aġġornati fejn meħtieġ.",
+      "metadata": {
+        "source_line_start": 808,
+        "source_line_end": 820
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Obbligi talkontrollur",
+      "content": "(1)\nIl-kontrollur għandu, b'kunsiderazzjoni xierqa talogħla livell ta' żvilupp tekniku, l-ispiża tal-implimentazzjoni u tannatura, l-ambitu, il-kuntest u l-finijiet tal-ipproċessar, kif ukoll ir-riskji\nta' probabbiltà u gravità diversa għad-drittijiet u l-libertajiet tal-persuni\nfiżiċi kkawżati mill-ipproċessar, kemm fiż-żmien tad-determinazzjoni\ntal-mezzi għall-ipproċessar kif ukoll fiż-żmien tal-ipproċessar innifsu,\njimplimenta miżuri tekniċi u organizzattivi xierqa, bħallpsewdonimizzazzjoni, li huma maħsuba biex jimplimentaw il-prinċipji\ntal-protezzjoni tad-data, bħalma hija l-minimizzazzjoni tad-data, b'mod\neffettiv u biex jiġu integrati s-salvagwardji meħtieġa fl-ipproċessar,\nsabiex jiġu sodisfatti r-rekwiżiti ta' dawn ir-regolamenti u jiġu protetti ddrittijiet tas-suġġetti tad-data.\n\nProtezzjoni taddata b’mod\nintenzjonat u\nb’mod\nawtomatiku.\n\n(2)\nIl-kontrollur għandu jimplimenta miżuri tekniċi u\norganizzattivi adatti biex jiġi żgurat li, b'mod awtomatiku, tiġi\npproċessata biss data personali li hi meħtieġa għal kull skop speċifiku\ntal-ipproċessar. Dak l-obbligu japplika għall-ammont ta' data personali\nmiġbura, il-livell ta' pproċessar tagħha, il-perijodu tal-ħażna tagħha u laċċessibbiltà tagħha. B'mod partikolari, tali miżuri għandhom jiżguraw\nli b'mod awtomatiku d-data personali ma tkunx aċċessibbli mingħajr lintervent tal-individwu għal għadd indefinit ta' persuni fiżiċi.",
+      "metadata": {
+        "source_line_start": 821,
+        "source_line_end": 843
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "tal-ipproċessar. Dak l-obbligu japplika għall-ammont ta' data personali",
+      "content": "(1)\nMeta żewġ kontrolluri jew aktar jiddeterminaw\nflimkien il-finijiet u l-mezzi tal-ipproċessar, dawn għandhom jitqiesu\nbħala kontrolluri konġunti.\n(2)\nKontrolluri konġunti għandhom, b'mod trasparenti,\njistabbilixxu r-responsabbiltajiet rispettivi tagħhom għall-konformità\nma' dawn ir-regolamenti, b'mod partikolari fir-rigward tal-eżerċizzju\ntad-drittijiet tas-suġġett tad-data u l-kompiti rispettivi tagħhom biex\njipprovdu l-informazzjoni msemmija fir-regolament 13, permezz ta'\narranġament bejniethom, ħlief u sa fejn, ir-responsabbiltajiet rispettivi\n\nKontrolluri\nkonġunti.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\ntal-kontrolluri jkunu stabbiliti bil-liġi.\n\n(3)\nIl-kontrolluri konġunti għandhom jaħtru liema kontrollur\nminnhom għandu jaġixxi bħala punt wieħed ta' kuntatt għas-suġġetti taddata:\nIżda fejn il-punt ta' kuntatt waħdieni huwa stabbilit b'liġi,\ndik il-liġi għandha tapplika minkejja kull ftehim bejn il-kontrolluri.\nProċessur.",
+      "metadata": {
+        "source_line_start": 844,
+        "source_line_end": 877
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Proċessur",
+      "content": "(1)\nFejn l-ipproċessar isir f'isem il-kontrollur, ilkontrollur għandu juża biss proċessuri li jagħtu garanziji biżżejjed biex\njiġu implimentati miżuri tekniċi u organizzattivi xierqa b'tali mod li lipproċessar jissodisfa r-rekwiżiti ta' dawn ir-regolamenti u jiżgura lprotezzjoni tad-drittijiet tas-suġġett tad-data.\n(2)\nIl-proċessur m’għandux jingaġġa proċessur ieħor mingħajr\nma l-kontrollur ma jagħti awtorizzazzjoni speċifika jew ġenerali minn\nqabel:\nIżda fil-każ ta' awtorizzazzjoni ġenerali bil-miktub, ilproċessur għandu jgħarraf lill-kontrollur bi kwalunkwe intenzjoni ta'\ntibdil rigward iż-żieda jew is-sostituzzjoni ta' proċessuri oħrajn, biex\nb'hekk jagħti l-opportunità lill-kontrollur li joġġezzjona għal tali bidliet.\n(3)\nL-ipproċessar minn proċessur għandu jkun regolat minn\nkuntratt, li hu vinkolanti għall-proċessur fir-rigward tal-kontrollur u li\njistabbilixxi s-suġġett u t-tul tal-ipproċessar, in-natura u l-fini talipproċessar, it-tip ta' data personali u l-kategoriji tas-suġġetti tad-data u\nl-obbligi u d-drittijiet tal-kontrollur. Dak il-kuntratt għandu jistipula,\nb'mod partikolari, li l-proċessur:\n(a)\nkontrollur;\n\njaġixxi\n\nbiss\n\nfuq\n\nstruzzjonijiet\n\nmingħand\n\nil-\n\n(b)\njiżgura li l-persuni awtorizzati biex jipproċessaw iddata personali jkunu impenjaw ruħhom li jżommu lkunfidenzjalità jew ikunu taħt obbligu statutorju adatt ta'\nkunfidenzjalità;\n(ċ)\njassisti lill-kontrollur permezz ta' kwalunkwe mezz\nxieraq biex tiġi żgurata l-konformità mad-dispożizzjonijiet dwar\nid-drittijiet tas-suġġett tad-data;\n(d)\nfuq l-għażla tal-kontrollur, iħassar jew jirritorna ddata personali kollha lill-kontrollur wara li jintemm l-għoti ta'\nservizzi ta' pproċessar ta' data, u jħassar kopji eżistenti sakemm\nil-liġi ma tirrikjedix il-ħżin tad-data personali;\n(e)\njagħmel\ndisponibbli\ngħall-kontrollur\nkull\ninformazzjoni meħtieġa biex tintwera l-konformità ma' dan ir-\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\nregolament;\n(f)\njikkonforma mal-kundizzjonijiet imsemmija fissubregolamenti (2) u (3) biex jingaġġa proċessur ieħor;\n(g)\njassisti lill-kontrollur biex jiżgura konformità malobbligi skont ir-regolamenti 29 sa 31 waqt li jqis in-natura talipproċessar u l-informazzjoni disponibbli għall-proċessur.\n(4)\nIl-kuntratt imsemmi fis-subregolament (3) għandu jkun\nbil-miktub, inkluż f'forma elettronika.\n(5)\nJekk proċessur jiddetermina, bi ksur ta’ dawn irregolamenti, l-għanijiet u l-mezzi ta’ proċessar, dak il-proċessur għandu\njitqies bħala kontrollur fir-rigward ta’ dak l-ipproċessar.",
+      "metadata": {
+        "source_line_start": 878,
+        "source_line_end": 948
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "jitqies bħala kontrollur fir-rigward ta’ dak l-ipproċessar",
+      "content": "Il-proċessur u kull persuna li taġixxi taħt l-awtorità talkontrollur jew tal-proċessur, li jkollhom aċċess għal data personali, ma\ngħandhomx jipproċessawha ħlief fuq struzzjonijiet mingħand ilkontrollur, sakemm ma jkunux meħtieġa jagħmlu dan mil-liġi.\n\nIpproċessar taħt lawtorità talkontrollur jew ilproċessur.",
+      "metadata": {
+        "source_line_start": 949,
+        "source_line_end": 954
+      }
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Ipproċessar taħt lawtorità talkontrollur jew ilproċessur",
+      "content": "(1)\nIl-kontrolluri għandhom iżommu reġistru talkategoriji kollha ta' attivitajiet ta' pproċessar taħt ir-responsabbiltà\ntagħhom. Dan ir-reġistru għandu jkollu l-informazzjoni kollha li ġejja:\n\nReġistri ta’\nattivatijiet ta’\npproċessar.\n\n(a)\nl-isem u d-dettalji tal-kuntatt tal-kontrollur u fejn\napplikabbli, il-kontrollur konġunt u l-Uffiċjal tal-Protezzjoni tadData;\n(b)\n\nil-finijiet tal-ipproċessar;\n\n(ċ)\nil-kategoriji ta' riċevituri li lilhom tkun ġiet żvelata\njew ser tiġi żvelata d-data personali, inklużi r-riċevituri f'pajjiżi\nterzi jew organizzazzjonijiet internazzjonali;\n(d)\ndeskrizzjoni tal-kategoriji ta' suġġett tad-data u talkategoriji ta' data personali;\n(e)\n\nfejn applikabbli, l-użu tat-tfassil tal-profil;\n\n(f)\nfejn applikabbli, il-kategoriji tal-komunikazzjoni u\nt-trasferimenti ta’ data personali skont il-Ħames Taqsima ta’\ndawn ir-regolamenti;\n(g)\nfejn applikabbli, id-dettalji tal-awtorità, korp,\naġenzija, uffiċċju jew persuna li tagħmel it-talba msemmija firregolament 35(2);\n(h)\nfejn applikabbli, l-iskop u r-raġuni għat-talba\nmsemmija fir-regolament 35(2) u, jew, ta' komunikazzjoni jew\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\ntrasferiment ta' data personali, skont il-każ;\n(i)\nfejn applikabbli, id-data tal-komunikazzjoni jew ittrasferiment ta' data personali;\n(j)\nindikazzjoni tal-bażi legali għall-operazzjoni ta'\npproċessar, inklużi komunikazzjonijiet u trasferimenti, li\ngħalihom hija maħsuba d-data personali;\n(k)\nfejn possibbli, il-limiti ta' żmien previsti għattħassir tal-kategoriji differenti ta' data personali;\n(l)\nfejn possibbli, deskrizzjoni ġenerali tal-miżuri ta'\nsigurtà tekniċi u organizzattivi msemmija fir-regolament 29 (1).\n(2)\nProċessur għandu jżomm reġistru tal-kategoriji kollha ta'\nattivitajiet ta' pproċessar imwettqa f'isem il-kontrollur, li jkun fih:\n(a)\nl-isem u d-dettalji ta' kuntatt tal-proċessur jew\nproċessuri, ta' kull kontrollur li l-proċessur qed jaġixxi f'ismu u,\nfejn applikabbli, l-Uffiċjal tal-Protezzjoni tad-Data;\n(b)\nkontrollur;\n\nil-kategoriji tal-ipproċessar imwettqa f'isem kull\n\n(ċ)\nfejn applikabbli, il-komunikazzjoni u t-trasferimenti\nta' data personali fejn espliċitament istruzzjonat mill-kontrollur,\ninkluż l-identifikazzjoni tar-riċevitur;\n(d)\nfejn ikun possibbli, deskrizzjoni ġenerali tal-miżuri\ntekniċi u organizzattivi ta' sigurtà msemmija fir-regolament 29(1).\n(3)\nIr-reġistri msemmija fis-subregolamenti\ngħandhom ikunu bil-miktub, inkluż f’forma elettronika.\n\n(1)\n\nu\n\n(2)\n\n(4)\nIl-kontrollur u l-proċessur għandhom jagħmlu r-rekords\nimsemmija fis-subregolamenti (1) u (2) disponibbli għall-Kummissarju\nfuq talba tiegħu.\nReġistrar.",
+      "metadata": {
+        "source_line_start": 955,
+        "source_line_end": 1048
+      }
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Reġistrar",
+      "content": "(1)\nIl-kontrolluri, u fejn applikabbli il-proċessuri,\ngħandhom jiżguraw illi l-operazzjonijiet tal-ipproċessar fis-sistemi ta'\npproċessar awtomatizzat relatati tal-inqas mal-ġbir, il-bdil, ilkonsultazzjoni, l-iżvelar inklużi trasferimenti, il-kombinament u ttħassir, huma rreġistrati.\n(2)\nIr-reġistri msemmija fis-subregolament (1) għandhom\njinkludi mill-inqas id-data u l-ħin tal-operazzjonijiet u, safejn ikun\npossibbli, l-identifikazzjoni tal-utent li jwettaq dik l-operazzjoni ta’\npproċessar:\nIżda r-reġistri tal-konsultazzjoni u l-iżvelar għandhom\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\njinkludu wkoll il-ġustifikazzjoni għal operazzjonijiet bħal dawn, u,\nkemm jista' jkun, l-identità tar-riċevituri ta' dik id-data personali għajr lutent.\n(3)\nIr-reġistri għandhom jintużaw biss għal verifika tallegalità tal-ipproċessar, awtomonitoraġġ, li jiżguraw l-integrità u ssigurtà tad-data personali, u għal proċedimenti kriminali.\n(4)\nIl-kontrollur u l-proċessur għandhom jagħmlu r-reġistri\ndisponibbli għall-Kummissarju fuq talba tiegħu.",
+      "metadata": {
+        "source_line_start": 1049,
+        "source_line_end": 1077
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "disponibbli għall-Kummissarju fuq talba tiegħu",
+      "content": "Il-kontrollur u l-proċessur għandhom jikkooperaw malKummissarju fit-twettiq tal-kompiti tiegħu skont ir-regolament 48 fuq\ntalba tiegħu.\n\nKooperazzjoni\nmal-Kummissarju.",
+      "metadata": {
+        "source_line_start": 1078,
+        "source_line_end": 1084
+      }
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "mal-Kummissarju",
+      "content": "(1) Fejn tip ta' pproċessar, partikolarment bl-użu ta'\nteknoloġiji ġodda, u b'kont meħud tan-natura, l-ambitu, il-kuntest u lfinijiet tal-ipproċessar li x'aktarx jirriżultaw f'riskju għoli għad-drittijiet\nu l-libertajiet tal-persuni fiżiċi, il-kontrollur għandu jwettaq, qabel lipproċessar, valutazzjoni tal-impatt tal-operazzjonijiet ta' pproċessar\nprevisti fuq il-protezzjoni tad-data personali.\n\nValutazzjoni talimpatt fuq ilprotezzjoni taddata.\n\n(2)\nIl-valutazzjoni msemmija fis-subregolament (1), għandha\ntinkludi mill-inqas deskrizzjoni ġenerali tal-operazzjonijiet ta'\npproċessar previsti, valutazzjoni tar-riskji għad-drittijiet u l-libertajiet\ntas-suġġetti tad-data, il-miżuri previsti sabiex jindirizzaw dawk ir-riskji,\nsalvagwardji, miżuri u mekkaniżmi ta' sigurtà li jiżguraw il-protezzjoni\nta' data personali u li juru l-konformità ma' dawn ir-regolamenti, b'kont\nmeħud tad-drittijiet u l-interessi leġittimi tas-suġġetti tad-data u persuni\noħrajn ikkonċernati.",
+      "metadata": {
+        "source_line_start": 1085,
+        "source_line_end": 1101
+      }
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Valutazzjoni talimpatt fuq ilprotezzjoni taddata",
+      "content": "(1) Il-kontrollur\njew\nil-proċessur\ngħandhom\njikkonsultaw mal-Kummissarju qabel l-ipproċessar ta’ data personali li\ntkun ser tifforma parti minn sistema ġdida ta’ arkivjar, li tkun ser\ntinħoloq, fejn:\n(a)\nvalutazzjoni tal-impatt fuq il-protezzjoni tad-data\nkif previst fir-regolament 27 li jindika li l-ipproċessar jirriżulta\nf'riskju għoli fin-nuqqas ta' miżuri meħuda mill-kontrollur biex\njittaffa r-riskju; jew\n(b)\nit-tip ta' pproċessar, b'mod partikolari, meta jkunu\nqed jintużaw teknoloġiji, mekkaniżmi jew proċeduri ġodda,\njinvolvi riskju għoli għad-drittijiet u l-libertajiet tas-suġġetti taddata.\n(2)\nIl-Kummissarju għandu jiġi kkonsultat matul it-tħejjija ta’\nproposta għal miżura leġislattiva li għandha tiġi adottata mill-Parlament\njew ta’ miżura regolatorja, li hi relatata ma’ pproċessar.\n\nKonsultazzjoni\nminn qabel malKummissarju.\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n(3)\nIl-Kummissarju jista’ jistabbilixxi lista tal-operazzjonijiet\nta’ pproċessar li huma soġġetti għal konsultazzjoni minn qabel skont issubregolament (1).\n(4)\nIl-kontrollur\ngħandu\njipprovdi\nlill-Kummissarju\nb'valutazzjoni tal-impatt fuq il-protezzjoni tad-data skont ir-regolament\n27 u, fuq talba tal-Kummissarju, kwalunkwe informazzjoni oħra li\ntippermetti lill-Kummissarju jivvaluta l-konformità tal-ipproċessar u\nb'mod partikolari r-riskji għall-protezzjoni tad-data personali tas-suġġett\ntad-data u tas-salvagwardji relatati.\n(5)\nMeta l-Kummissarju jkun tal-opinjoni li l-ipproċessar\nprevist imsemmi fis-subregolament (1) jikser kwalunkwe dispożizzjoni\nadottata skont dawn ir-regolamenti, b'mod partikolari meta l-kontrollur\nma jkunx identifika jew naqqas ir-riskju biżżejjed, il-Kummissarju\ngħandu jipprovdi, fi żmien sitt ġimgħat minn meta jirċievi t-talba għallkonsultazzjoni, parir bil-miktub lill-kontrollur u, fejn applikabbli, lillproċessur, u jista' juża kwalunkwe waħda mis-setgħat tiegħu msemmija\nfir-regolament 49:\nIżda perjodu bħal dan jista' jiġi estiż b'xahar, b'kont meħud\ntal-kumplessità tal-ipproċessar intenzjonat.\n(6)\nIl-Kummissarju għandu jinforma lill-kontrollur u, fejn\napplikabbli, lill-proċessur b'kull estensjoni kif provdut fil-proviso tassubregolament (5), fi żmien xahar minn meta jirċievi t-talba għal\nkonsultazzjoni, flimkien mar-raġuni ta’ dewmien.\nTitolu II\nSigurtà tad-Data Personali\nSigurtà talipproċessar.",
+      "metadata": {
+        "source_line_start": 1102,
+        "source_line_end": 1166
+      }
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Sigurtà talipproċessar",
+      "content": "(1)\nIl-kontrollur\nu\nl-proċessur\ngħandhom,\nb'kunsiderazzjoni tal-ogħla livell ta' żvilupp tekniku, l-ispejjeż talimplimentazzjoni u n-natura, l-ambitu, il-kuntest u l-finijiet talipproċessar kif ukoll ir-riskju ta' probabbiltà u gravità diversa għaddrittijiet u l-libertajiet tal-persuni fiżiċi, jimplimentaw miżuri tekniċi u\norganizzattivi xierqa, sabiex jiżguraw livell ta' sigurtà xieraq għar-riskju,\nb'mod partikolari fir-rigward tal-ipproċessar ta' kategoriji speċjali ta'\ndata personali msemmija fir-regolament 10.\n(2)\nFir-rigward tal-ipproċessar awtomatizzat, il-kontrollur jew\nil-proċessur għandu, wara evalwazzjoni tar-riskji, jimplimenta miżuri\nmfasslin sabiex:\n(a)\njiċħad l-aċċess minn persuni mhux awtorizzati għattagħmir użat għall-ipproċessar (‘kontroll tal-aċċess għattagħmir’);\n(b)\njipprevjeni l-qari, l-ikkupjar, il-modifika jew ittneħħija mhux awtorizzati tal-mezzi tad-data (‘kontroll tal-mezzi\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\ntad-data’);\n(ċ)\njipprevjeni d-dħul mhux awtorizzat ta' data\npersonali u l-ispezzjoni, il-modifika jew it-tħassir mhux\nawtorizzat ta' data personali kkonservata (‘kontroll talkonservazzjoni’);\n(d)\njipprevjeni l-użu ta' sistemi awtomatizzati ta'\npproċessar minn persuni mhux awtorizzati bl-użu ta' tagħmir\ngħall-komunikazzjoni tad-data (‘kontroll tal-utent’);\n(e)\njiżgura li l-persuni awtorizzati biex jużaw sistema\nawtomatizzata ta' pproċessar jkollhom aċċess biss għad-data\npersonali koperta mill-awtorizzazzjoni għall-aċċess tagħhom\n(‘kontroll tal-aċċess għad-data’);\n(f)\njiżgura li jkun possibbli li jiġu vverifikati u\nstabbiliti l-korpi li lilhom tkun intbagħtet jew saret disponibbli\njew tista' tintbagħat jew issir disponibbli data personali bl-użu ta'\ntagħmir għall-komunikazzjoni tad-data (‘kontroll talkomunikazzjoni’);\n(g)\njiżgura li jkun sussegwentement possibbli li jiġi\nvverifikat u stabbilit liema data personali ddaħħlet f'sistemi\nawtomatizzati ta' pproċessar u meta u minn min iddaħħlet id-data\npersonali (‘kontroll tad-dħul’);\n(h)\njipprevjeni l-qari, l-ikkupjar, il-modifika jew ittħassir mhux awtorizzati ta' data personali waqt it-trasferiment\ntad-data personali jew waqt it-trasportazzjoni tal-mezzi tad-data\n(‘kontroll tat-trasport’);\n(i)\njiżgura li s-sistemi installati jistgħu, fil-każ ta'\ninterruzzjoni, jiġu rkuprati (‘irkupru’);\n(j)\njiżgura li l-funzjonijiet tas-sistema jaħdmu, li ssejbien ta' żbalji fil-funzjonijiet jiġi rrapportat (\"affidabbiltà\") u li\nd-data personali kkonservata ma tistax tiġi korrotta permezz ta'\nfunzjonament ħażin tas-sistema (‘integrità’).",
+      "metadata": {
+        "source_line_start": 1167,
+        "source_line_end": 1230
+      }
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "funzjonament ħażin tas-sistema (‘integrità’)",
+      "content": "(1) F'każ ta' ksur tad-data personali, il-kontrollur\ngħandu jinnotifika bil-miktub, inkluż b’mod elettroniku, mingħajr\ndewmien bla bżonn u, fejn fattibbli, mhux aktar tard minn tnejn u\nsebgħin siegħa wara li jkun sar jaf bil-ksur tad-data personali lillKummissarju, sakemm il-ksur ta' data personali x'aktarx ma jirriżultax\nf'riskju għad-drittijiet u l-libertajiet tal-persuni fiżiċi:\nIżda fejn in-notifika lill-Kummissarju ma ssirx fi żmien\ntnejn u sebgħin siegħa, din għandha tkun akkumpanjata minn raġunijiet\ngħad-dewmien.\n\nNotifika ta’ ksur\nta’ data personali\nlill-Kummissarju.\n\n[ L.S. 586.08\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n(2)\nIl-proċessur għandu jinnotifika bil-miktub, inkluż b’mod\nelettroniku, lill-kontrollur mingħajr dewmien bla bżonn wara li jsir jaf bi\nksur ta' data personali:\nIżda meta titqies is-severità tal-ksur tad-data personali u lkonsegwenzi possibbli li jistgħu jseħħu jekk il-kontrollur ma jiġix\ninnotifikat minnufih, il-proċessur jista’ jinnotifika lill-kontrollur\npermezz ta' mezzi oħra. F'każ bħal dan, in-notifika bil-miktub, inkluża\nf'forma elettronika, għandha ssir xorta waħda.\n(3)\n\nIn-notifika msemmija fis-subregolament (1) għandha mill-\n\nanqas:\n(a)\ntiddeskrivi n-natura tal-ksur tad-data personali\ninklużi, fejn hu possibbli, il-kategoriji u l-għadd approssimattiv\ntas-suġġetti tad-data kkonċernati u l-kategoriji u l-għadd\napprossimattiv ta' reġistri tad-data personali kkonċernati;\n(b)\ntikkomunika l-isem u d-dettalji ta' kuntatt talUffiċjal tal-Protezzjoni tad-Data jew ta' punt ta' kuntatt ieħor fejn\ntista' tinkiseb aktar informazzjoni;\n(ċ)\ntiddeskrivi l-konsegwenzi probabbli tal-ksur ta'\ndata personali;\n(d)\ntiddeskrivi l-miżuri li ttieħdu jew proposti biex\njittieħdu mill-kontrollur sabiex jindirizza l-ksur ta' data personali,\ninklużi, fejn xieraq, miżuri biex jiġu mitigati l-effetti negattivi\npossibbli.\n(4)\nMeta, u sa fejn, mhuwiex possibbli li tiġi pprovduta linformazzjoni msemmija fis-subregolament (3) fl-istess ħin, linformazzjoni tista' tiġi pprovduta f'fażijiet mingħajr aktar dewmien.\n(5)\nIl-kontrollur għandu jiddokumenta kwalunkwe ksur ta'\ndata personali msemmi fis-subregolament (1), fosthom il-fatti relatati\nmal-ksur tad-data personali, l-effetti tiegħu u l-azzjoni ta' rimedju\nmeħuda b’tali mod illi l-Kummissarju jista’ jivverifika l-konformità ma’\ndan ir-regolament.\n(6)\nMeta l-ksur tad-data personali jinvolvi data personali li\ntkun ġiet trasmessa minn jew lejn kontrollur ta' Stat Membru ieħor, linformazzjoni msemmija fis-subregolament (3) għandha tiġi\nkkomunikata lil dak il-kontrollur mingħajr dewmien żejjed.\nKomunikazzjoni\nta’ ksur ta’ data\npersonali lissuġġett tad-data.",
+      "metadata": {
+        "source_line_start": 1231,
+        "source_line_end": 1299
+      }
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "personali lissuġġett tad-data",
+      "content": "(1) Fejn il-ksur ta' data personali x'aktarx jirriżulta\nf'riskju għoli għad-drittijiet u l-libertajiet ta' persuni fiżiċi, il-kontrollur\ngħandu jikkomunika l-ksur tad-data personali bil-miktub, lis-suġġett taddata mingħajr dewmien bla bżonn:\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\nIżda f'każijiet fejn ma jkunx possibbli li jiġi kkomunikat lksur tad-data lis-suġġett tad-data bil-miktub jew fejn minħabba sseverità tal-ksur tad-data personali u l-konsegwenzi possibbli li jistgħu\njiġru jekk il-komunikazzjoni ta’ data personali ma ssirx b’mod\nimmedjat, din il-komunikazzjoni tista’ ssir permezz ta’ mezzi oħra.\n(2)\nIl-komunikazzjoni lis-suġġett tad-data msemmija fissubregolament (1) għandha tiddeskrivi b'lingwaġġ ċar u sempliċi nnatura tal-ksur ta' data personali u għandha tinkludi tal-inqas linformazzjoni u miżuri msemmija fir-regolament 30(3)(b), (ċ) u (d).\n(3)\nIl-komunikazzjoni lis-suġġett tad-data msemmija\nfis-subregolament (1) ma għandhiex tkun meħtieġa jekk xi\nwaħda mill-kundizzjonijiet li ġejjin jiġu ssodisfati:\n(a)\nil-kontrollur ikun implimenta miżuri ta' protezzjoni\nteknoloġika u organizzattiva xierqa, u li dawk il-miżuri ġew\napplikati għad-data personali affettwata mill-ksur ta' data\npersonali, b'mod partikolari dawk li jagħmlu d-data personali ma\ntinftiehemx minn kwalunkwe persuna li ma tkunx awtorizzata\nbiex taċċessaha, bħall-kriptaġġ;\n(b)\nil-kontrollur ħa miżuri sussegwenti li jiżguraw li rriskju għoli għad-drittijiet u l-libertajiet tas-suġġetti tad-data\nmsemmija fis-subregolament (1) mhux probabbli li\njimmaterjalizza;\n(ċ)\n\ntkun tinvolvi sforz sproporzjonat:\n\nIżda f’każ bħal dan, għandu jkun hemm komunikazzjoni\npubblika jew miżura simili fejn is-suġġetti tad-data jiġu infurmati b'mod\ngħaldaqstant effettiv.\n(4)\nJekk il-kontrollur ma jkunx diġà kkomunika l-ksur taddata personali lis-suġġett tad-data, il-Kummissarju, wara li jkun\nikkunsidra l-probabbiltà li l-ksur tad-data personali jirriżulta f'riskju\ngħoli, jista' jordna lill-kontrollur biex jagħmel dan, jew jista' jiddeċiedi li\nkwalunkwe waħda mill-kundizzjonijiet imsemmija fis-subregolament\n(3) huma ssodisfati.\n(5)\nIl-komunikazzjoni lis-suġġett tad-data msemmija fissubregolament (1) tista' tiġi ttardjata, ristretta jew titħalla barra soġġetta\ngħall-kundizzjonijiet u abbażi tar-raġunijiet imsemmija fir-regolament\n13(3).\n(6)\nGħandu jinżamm rekord tad-data, ħin u l-mezzi ta’\nkomunikazzjoni għad-data msemmija fis-subregolament (1), u fejn\napplikabbli, ir-raġuni biex saret dik il-komunikazzjoni lis-suġġett ta’\ndata permezz ta' mezzi oħra skont il-proviso li hemm mal-istess\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\nsubregolament.\n\n(7)\nMeta kontrollur jiddeċiedi li komunikazzjoni lis-suġġett\ntad-data msemmi fis-subregolament (1) mhijiex meħtieġa għal xi waħda\nmir-raġunijiet imsemmija fis-subregolament (3)(a) sa (ċ), il-kontrollur\ngħandu jiddokumenta r-raġunijiet għal dik id-deċiżjoni.\n(8)\nMeta l-komunikazzjoni lis-suġġett tad-data msemmija fissubregolament (1) tkun ġiet ittardjata, ristretta jew titħalla barra skont issubregolament (5), il-kontrollur għandu jiddokumenta r-raġunijiet għal\ndak id-dewmien, restrizzjoni jew ommissjoni.\nTitolu III\nUffiċjal tal-Protezzjoni tad-Data\nĦatra tal-Uffiċjal\ntal-Protezzjoni tadData.",
+      "metadata": {
+        "source_line_start": 1300,
+        "source_line_end": 1381
+      }
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "tal-Protezzjoni tadData",
+      "content": "tad-Data.\n\n(1)\n\nIl-kontrollur għandu jaħtar Uffiċjal tal-Protezzjoni\n\n(2)\nL-obbligu taħt is-subregolament (1) m'għandux japplika\ngħal qrati u tribunali u awtoritajiet ġudizzjarji indipendenti oħra meta\njaġixxu fil-kapaċità ġudizzjarja tagħhom.\n(3)\nL-Uffiċjal tal-Protezzjoni tad-Data għandu jkun innominat\nfuq il-bażi tal-kwalitajiet professjonali tiegħu u, b'mod partikolari,\ngħarfien espert tiegħu tal-liġi u l-prattiċi fil-qasam tal-protezzjoni taddata u l-abbiltà li jwettaq il-kompiti msemmija fir-regolament 34.\n(4)\nUffiċjal wieħed tal-Protezzjoni tad-Data jista' jiġi\nnnominat għal bosta awtoritajiet kompetenti, waqt li titqies l-istruttura\norganizzattiva u d-daqs tagħhom.\n(5)\nIl-kontrollur għandu jippubblika d-dettalji ta’ kuntatt talUffiċjal tal-Protezzjoni tad-Data u jikkomunikahom lill-Kummissarju.\nPożizzjoni talUffiċjal talProtezzjoni tadData.",
+      "metadata": {
+        "source_line_start": 1382,
+        "source_line_end": 1404
+      }
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Pożizzjoni talUffiċjal talProtezzjoni tadData",
+      "content": "(1) Il-kontrollur għandu jiżgura li l-Uffiċjal talProtezzjoni tad-Data jkun involut, kif xieraq u f'waqtu, fil-kwistjonijiet\nkollha relatati mal-protezzjoni tad-data personali.\n(2)\nIl-kontrollur għandu jappoġġa lill-Uffiċjal tal-Protezzjoni\ntad-Data fit-twettiq tal-kompiti msemmija fir-regolament 34 billi\njipprovdi riżorsi meħtieġa biex iwettaq dawk il-kompiti u aċċess għaddata personali u l-operazzjonijiet ta' pproċessar, u biex iżomm l-għarfien\nespert tiegħu.\n(3)\nIl-kontrollur għandu jiżgura li l-Uffiċjal tal-Protezzjoni\ntad-Data ma jirċievi l-ebda struzzjoni dwar l-eżerċizzju tal-kompiti\ntiegħu msemmija fir-regolament 34:\nIżda l-Uffiċjal tal-Protezzjoni tad-Data għandu jirraporta\ndirettament lill-ogħla livell ta’ ġestjoni.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\n(4)\nL-Uffiċjal tal-Protezzjoni tad-Data m'għandux jiġi mkeċċi\njew penalizzat mill-kontrollur għat-twettiq tal-kompiti msemmija firregolament 34.",
+      "metadata": {
+        "source_line_start": 1405,
+        "source_line_end": 1432
+      }
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "L-Uffiċjal tal-Protezzjoni tad-Data m'għandux jiġi mkeċċi",
+      "content": "Il-kontrollur għandu jafda lill-Uffiċjal tal-Protezzjoni tadData tal-anqas bil-kompiti li ġejjin:\n(a)\njinforma u jagħti pariri lill-kontrollur u l-impjegati\nli jwettqu l-ipproċessar tal-obbligi tagħhom skont dawn irregolamenti u skont dispożizzjonijiet oħra dwar il-protezzjoni\ntad-data;\n\nKompiti talUffiċjal talProtezzjoni tadData.\n\n(b)\njissorvelja l-konformità ma' dawn ir-regolamenti,\nma' dispożizzjonijiet oħra dwar il-protezzjoni tad-data u malpolitiki tal-kontrollur fir-rigward tal-protezzjoni tad-data\npersonali, inklużi l-assenjazzjoni tar-responsabbiltajiet, issensibilizzazzjoni u t-taħriġ tal-persunal involut f' attivitajiet ta'\npproċessar, u l-verifiki relatati;\n(ċ)\njagħti parir meta mitlub fir-rigward tal-valutazzjoni\ntal-impatt fuq il-protezzjoni tad-data u jissorvelja l-prestazzjoni\nskont ir-regolament 27;\n(d)\n\njikkoopera mal-Kummissarju; u\n\n(e)\njaġixxi bħala l-punt ta' kuntatt għall-Kummissarju\ndwar kwistjonijiet relatati mal-ipproċessar, inkluż ilkonsultazzjoni minn qabel imsemmija fir-regolament 28, u li jiġi\nkkonsultat, kif adatt, fir-rigward ta' kwalunkwe suġġett ieħor.\nIL-ĦAMES TAQSIMA\nKOMUNIKAZZJONI U TRASFERIMENTI TA’ DATA\nTitolu I\nKundizzjonijiet Ġenerali għall-Komunikazzjoni u\nTrasferimenti ta’ Data Personali",
+      "metadata": {
+        "source_line_start": 1433,
+        "source_line_end": 1464
+      }
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Trasferimenti ta’ Data Personali",
+      "content": "(1) Komunikazzjoni jew trasferiment ta' data personali\nminn awtorità kompetenti għandha sseħħ biss fuq talba bil-miktub,\nsakemm xi liġi oħra jew xi ftehim internazzjonali li għalih Malta tkun\nparti jipprovdi mod ieħor.\n(2)\nIt-talba msemmija fis-subregolament (1) għandha tinkludi\nindikazzjoni tal-persuna jew korp li jagħmel it-talba u r-raġuni u l-iskop\nli għalih issir it-talba, kemm-il darba xi liġi oħra jew xi ftehim\ninternazzjonali li Malta tkun parti minnu ma jipprovdix mod ieħor.\n(3)\nL-awtorità kompetenti li tirċievi t-talba kif imsemmi fissubregolament (1) għandha twieġeb bil-miktub u tinforma lill-persuna\n\nModalitajiet ta'\ntalbiet għal\nkomunikazzjoni u\ntrasferimenti ta'\ndata personali.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\njew il-korp li għamel it-talba bid-deċiżjoni meħuda dwar jekk it-talba\ntistax tintlaħaq jew le.\n(4)\nMinkejja r-rekwiżiti msemmija fis-subregolament (1),\nawtorità kompetenti tista', mingħajr ebda talba minn qabel, tkun\nmeħtieġa li tikkomunika jew tittrasferixxi data personali lil:\n(a)\nawtoritajiet kompetenti fi Stati Membri oħra jew lil\nkorpi tal-Unjoni f'każijiet fejn hemm raġunijiet fattwali biex\nwieħed jemmen li d-data tista' tgħin fis-sejbien, il-prevenzjoni, linvestigazzjoni jew il-prosekuzzjoni ta' kwalunkwe reati\nkriminali serji jew reati terroristiċi;\n(b)\nkwalunkwe riċevitur ieħor fejn it-trasferiment ta’\ndata personali hija meħtieġa għall-awtorità kompetenti li qed\ntikkomunika jew titrasferixxi d-data fl-eżekuzzjoni tad-dmirijiet\ntagħha għall-għanijiet stipulati fir-regolament 3(1).\n\nKomunikazzjoni\njew trasferiment ta’\ndata personali\ntrasmessa jew\nmagħmula\ndisponibbli minn\nStat Membru ieħor.",
+      "metadata": {
+        "source_line_start": 1465,
+        "source_line_end": 1517
+      }
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Stat Membru ieħor",
+      "content": "(1) Meta data personali tiġi kkomunikata jew trasmessa\nminn Stat Membru ieħor, din id-data tista’ tiġi kkomunikata jew\ntrasferita biss jekk l-Istat Membru ikun ta l-awtorizzazzjoni talkomunikazzjoni jew trasferiment minn qabel.\n(2)\nKomunikazzjonijiet\njew\ntrasferimenti\nmingħajr\nawtorizzazzjoni minn qabel ta’ Stat Membru ieħor skont issubregolament (1) jistgħu jiġu permessi biss jekk il-komunikazzjoni jew\nit-trasferiment ta' data personali tkun meħtieġa għall-prevenzjoni ta'\ntheddida immedjata u serja għas-sigurtà ta’ Stat Membru jew ta' pajjiż\nterz, jew għall-interessi essenzjali ta' Stat Membru, u la darba din lawtorizzazzjoni minn qabel ma tistax tinkiseb fil-ħin:\nIżda l-awtorità responsabbli għall-għoti ta' awtorizzazzjoni\nminn qabel għandha tkun infurmata mingħajr dewmien.\n(3)\nIs-subregolament (1) ma għandux japplika f'każijiet fejn ilkomunikazzjoni ta' data personali sseħħ fil-qadi ta' xogħol legali millawtorità kompetenti li tagħmel dik il-komunikazzjoni dwar każ\npartikolari li għalih id-data ġiet speċifikament trasmessa jew kienet\ndisponibbli.\nTitolu II\nKomunikazzjoni ta' Data Personali Lokalment u\nfi ħdan l-Unjoni Ewropea\n\nKomunikazzjoni\nta’ data personali\nlil awtoritajiet\nkompetenti oħra.",
+      "metadata": {
+        "source_line_start": 1518,
+        "source_line_end": 1545
+      }
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "kompetenti oħra",
+      "content": "(1)\nKomunikazzjoni ta’ data personali lil awtoritajiet\nkompetenti oħra, għandha isir, jekk it-trasferiment ikun meħtieġ:\n(a)\n\ngħall-finijiet stabbiliti fir-regolament 3(1);\n\n(b)\nsabiex jipproteġi l-interessi vitali ta' suġġett taddata jew ta' persuna oħra; jew\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\n(ċ)\nbiex jipproteġi l-interessi leġittimi tas-suġġett taddata jew tal-kontrollur:\nIżda sakemm l-awtorità kompetenti li tittrasferixxi\ntiddetermina li d-drittijiet u l-libertajiet fundamentali tal-persuna\nkkonċernata ma jissostitwixxux l-interessi li jeħtieġu l-komunikazzjoni.\n(2)\nKomunikazzjoni ta’ data personali kif kontemplat fissubregolament (1) tista’ sseħħ ukoll jekk:\n(a)\njeżiesti obbligu legali jew awtorizzazzjoni biex tiġi\nkkomunikata dik id-data personali; jew\n(b)\nil-Kummissarju jawtorizza il-komunikazzjoni ta’\ndata personali.",
+      "metadata": {
+        "source_line_start": 1546,
+        "source_line_end": 1579
+      }
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "data personali",
+      "content": "(1) Komunikazzjoni ta' data personali lid-Dipartimenti\ntal-Gvern jew entitajiet jew korpi pubbliċi oħra stabbiliti bil-liġi, jew lil\npartijiet privati oħra tista' sseħħ biss, jekk:\n(a)\nil-komunikazzjoni hija strettament meħtieġa għattwettiq ta' kompitu tal-awtorità kompetenti li tittrasferixxi kif\nprevist mil-liġi għall-finijiet stabbiliti fir-regolament 3(1);\n(b)\nil-komunikazzjoni hija strettament meħtieġa sabiex\ntipproteġi l-interessi vitali tas-suġġett tad-data jew ta' persuna\noħra;\n(ċ)\nf'każ individwali għall-istabbiliment, eżerċizzju\njew difiża ta' pretensjonijiet legali relatati mal-għanijiet stabbiliti\nfir-regolament 3(1) jew li jirriżulta minn, jew b’xi mod ieħor\nrelatat ma’, reat kriminali:\nIżda sakemm l-awtorità kompetenti li tittrasferixxi\ntiddetermina li d-drittijiet u l-libertajiet fundamentali tas-suġġett taddata kkonċernat ma jissostitwixxux l-interessi li jeħtieġu lkomunikazzjoni:\nIżda wkoll id-data komunikata lill-partijiet privati għandha tkun\nlimitata għal dak li hu strettament neċessarju biex tidentifika b’mod\nadegwat il-persuni msemmija taħt ir-regolament 6(a) sabiex jeżerċita\nd-drittijiet tiegħu taħt dan il-paragrafu.\n(d)\njeżisti obbligu legali jew awtorizzazzjoni biex tiġi\nkkomunikata dik id-data personali; jew\n(e)\nil-Kummissarju jawtorizza dik il-komunikazzjoni\nta’ data personali.\n(2)\n\nF'ċirkostanzi eċċezzjonali, tista' sseħħ komunikazzjoni ta'\n\nKomunikazzjoni\nta’ data personali\nlid-dipartimenti\ntal-gvern, korpi\npubbliċi u entitajiet\nstabbiliti bil-liġi, u\nlil partijiet privati.\nEmendat:\nA.L. 108 tal-2020.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\ndata personali lid-Dipartimenti tal-Gvern jew entitajiet pubbliċi jew\nkorpi oħra stabbiliti bil-liġi, jew lil partijiet privati oħra, jekk:\n(a)\nhuwa ċar fl-interess tas-suġġett tad-data u s-suġġett\ntad-data stess ikun ta l-kunsens tiegħu għall-komunikazzjoni; jew\n(b)\nhuwa strettament meħtieġ għall-prevenzjoni ta'\nperiklu serju u imminenti.\n\nKomunikazzjoni\nta’ Data personali\nlil Awtoritajiet fi\nStati Membri oħra\nkompetenti għallfinijiet stabbiliti\nfir-regolament 3(1)\nu lill-Korpi talUnjoni.",
+      "metadata": {
+        "source_line_start": 1580,
+        "source_line_end": 1647
+      }
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "u lill-Korpi talUnjoni",
+      "content": "Mingħajr\npreġudizzju\ngħad-dispożizzjonijiet\nta'\nkwalunkwe liġi jew regolament li jistipula regoli speċifiċi dwar lipproċessar jew l-iskambju ta' data personali fil-kuntest talkooperazzjoni polizjeska u ġudizzjarja, komunikazzjoni ta' data\npersonali lil awtoritajiet kompetenti fi Stati Membri oħra għall-finijiet\nstabbiliti fir-regolament 3(1) jew lill-korpi tal-Unjoni jistgħu jsiru jekk:\n(a)\njeżisti obbligu legali jew awtorizzazzjoni taħt\nkwalunkwe liġi jew obbligu internazzjonali taħt trattat,\nkonvenzjoni jew ftehim internazzjonali dwar assistenza\nreċiproka, li Malta hija parti minnu;\n(b)\nil-komunikazzjoni hija strettament meħtieġa għallprevenzjoni ta' periklu serju u imminenti; jew\n(ċ)\nil-komunikazzjoni hija strettament meħtieġa għattrażżin ta' reat kriminali serju jew ta' reat terroristiku.\n\nProċessar ta’\nkomunikazzjoni ta’\ndata personali.",
+      "metadata": {
+        "source_line_start": 1648,
+        "source_line_end": 1669
+      }
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "data personali",
+      "content": "(1) Id-data personali kkomunikata minn awtorità\nkompetenti lil Dipartimenti oħra tal-Gvern jew lil korpi stabbiliti bil-liġi,\njew lil partijiet privati oħra, m'għandhiex tintuża għal skopijiet oħra għajr\ndawk speċifikati fit-talba għal komunikazzjoni ta' data personali\nmingħajr l-awtorizzazzjoni tal-awtorità kompetenti li minnha dik id-data\npersonali kienet magħmula disponibbli jew miksuba.\n(2)\nMeta r-riċevitur ta’ data personali msemmija fissubregolament (1) jeħtieġ dik id-data għal skopijiet barra minn dawk li\ngħalihom tkun intalbet id-data, ir-riċevitur għandu jissottometti talba\nġdida lill-awtorità kompetenti skont ir-regolament 35(1), u dik id-data\nm’għandhiex tintuża mir-riċevitur għal skopijiet barra minn dawk inklużi\nfit-talba oriġinali, sakemm ma jkun hemm awtorizzazzjoni bil-miktub.\nTitolu III\nTrasferimenti ta' Data Personali lil Pajjiżi Terzi jew\nOrganizzazzjonijiet Internazzjonali\n\nPrinċipji ġenerali\ngħat-trasferimenti\nta' data personali.",
+      "metadata": {
+        "source_line_start": 1670,
+        "source_line_end": 1690
+      }
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "ta' data personali",
+      "content": "(1) Kull trasferiment, mill-awtoritajiet kompetenti ta'\ndata personali li tkun qed tiġi proċessata jew li hi intenzjonata għallipproċessar wara t-trasferiment lejn pajjiż terz jew lil organizzazzjoni\ninternazzjonali inkluż għal trasferimenti ulterjuri lejn pajjiż terz jew\norganizzazzjoni internazzjonali oħra, għandu jkun konformi biss ma'\ndawn ir-regolamenti meta jintlaħqu l-kondizzjonijiet stabbiliti f'din it-\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\nTaqsima, jiġifieri:\n(a)\nit-trasferiment huwa meħtieġ għall-finijiet stabbiliti\nfir-regolament 3(1);\n(b)\nid-data personali tiġi ttrasferita lil kontrollur\nf'pajjiż terz jew organizzazzjoni internazzjonali li hija awtorità\nkompetenti għall-finijiet imsemmija fir-regolament 3(1);\n(ċ)\n\nġiet adottata deċiżjoni ta' adegwatezza:\n\nIżda fin-nuqqas ta' dik id-deċiżjoni, dawn it-trasferimenti\nta' data personali jistgħu jsiru fejn salvagwardji xierqa ġew provduti jew\njeżistu skont ir-regolament 43:\nIżda wkoll fin-nuqqas ta' deċiżjoni ta' adegwatezza, u ta'\nsalvagwardji xierqa skont ir-regolament 43, dawn it-trasferimenti jistgħu\njsiru fejn japplikaw derogi għal sitwazzjonijiet speċifiċi skont irregolament 44.\n(d)\nfil-każ ta' trasferiment ulterjuri lejn pajjiż terz ieħor\njew organizzazzjoni internazzjonali, l-awtorità kompetenti li\nwettqet it-trasferiment oriġinali jew awtorità kompetenti oħra talistess Stat Membru tawtorizza t-trasferiment ulterjuri wara li tqis\nil-fatturi rilevanti kollha, inklużi:\n(i)\n\nis-serjetà tar-reat kriminali;\n\n(ii)\nl-iskop li għalih id-data personali kienet\noriġinarjament ittrasferita; u\n(iii) il-livell ta' protezzjoni ta' data personali filpajjiż terz jew organizzazzjoni internazzjonali li lilha ddata personali tiġi trasferita b’mod ulterjuri.",
+      "metadata": {
+        "source_line_start": 1691,
+        "source_line_end": 1738
+      }
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "oriġinarjament ittrasferita; u",
+      "content": "(1) Meta tkun ġiet adottata deċiżjoni ta' adegwatezza,\ntrasferiment ta' data personali lejn pajjiż terz, territorju jew settur\nspeċifiku wieħed jew aktar f'dak il-pajjiż terz, jew organizzazzjoni\ninternazzjonali, li fir-rigward tagħha dik id-deċiżjoni ta' adegwatezza\nġiet adottata, jista' jsir mingħajr ma tkun meħtieġa awtorizzazzjoni\nspeċifika.\n(2)\nIr-revoka, l-emenda jew is-sospensjoni ta' deċiżjoni ta'\nadegwatezza għandha tkun mingħajr preġudizzju għal trasferimenti ta'\ndata personali lejn pajjiż terz, territorju jew settur speċifiku wieħed jew\naktar f'dak il-pajjiż terz, jew l-organizzazzjoni internazzjonali firrigward ta' trasferimenti skont ir-regolamenti 43 u 44.\n\nTrasferimenti fuq\nil-bażi ta' deċiżjoni\nta' adegwatezza.\n\n[ L.S. 586.08\n\nTrasferimenti\nsuġġetti għal\nsalvagwardji\nxierqa.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "metadata": {
+        "source_line_start": 1739,
+        "source_line_end": 1770
+      }
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "KRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "content": "(1) Fin-nuqqas ta' deċiżjoni ta' adegwatezza,\ntrasferiment ta' data personali lejn pajjiż terz jew organizzazzjoni\ninternazzjonali jista' jsir fejn:\n(a)\nis-salvagwardji xierqa fir-rigward tal-protezzjoni\ntad-data personali huma previsti fi strument legalment vinkolanti;\njew\n(b)\nil-kontrollur ivvaluta ċ-ċirkostanzi kollha dwar ittrasferiment tad-data personali u jikkonkludi li jeżistu\nsalvagwardji xierqa fir-rigward tal-protezzjoni tad-data personali.\n(2)\nIl-kontrollur għandu jinforma lill-Kummissarju dwar\nkategoriji ta' trasferimenti taħt is-subregolament (1)(b).\n(3)\nMeta trasferiment ikun ibbażat fuq is-subregolament\n(1)(b), tali trasferiment għandu jkun dokumentat.\n(4)\nId-dokumentazzjoni\ngħandha tal-anqas tinkludi:\n\nmsemmija\n\nfis-subregolament\n\n(a)\n\nid-data u l-ħin tat-trasferiment;\n\n(b)\n\ninformazzjoni dwar ir-riċevitur;\n\n(ċ)\n\nil-ġustifikazzjoni għat-trasferiment; u\n\n(d)\n\nid-data personali trasferita.\n\n(5)\nId-dokumentazzjoni msemmija fis-subregolament\ngħandha tkun disponibbli għall-Kummissarju fuq talba tiegħu.\nDerogi\nf’sitwazzjonijiet\nspeċifiċi.\n\n(3)\n\n(3)",
+      "metadata": {
+        "source_line_start": 1771,
+        "source_line_end": 1822
+      }
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "(3)",
+      "content": "(1) Fin-nuqqas ta' deċiżjoni ta' adegwatezza, jew ta'\nsalvagwardji xierqa skont ir-regolament 43, trasferiment jew kategorija\nta' trasferimenti ta’ data personali lil pajjiż terz jew organizzazzjoni\ninternazzjonali jistgħu jsiru biss bil-kundizzjonijiet li t-trasferiment huwa\nmeħtieġ:\n(a)\nsabiex jipproteġi l-interessi vitali tas-suġġett taddata jew ta' persuna oħra;\n(b)\nli jissalvagwardja l-interessi leġittimi tas-suġġett\ntad-data, fejn il-liġi tipprovdi hekk;\n(ċ)\ngħall-prevenzjoni ta’ theddida immedjata u serja\ngħas-sigurtà pubblika ta' Stat Membru jew pajjiż terz;\n(d)\nf'każijiet individwali għall-finijiet stabbiliti firregolament 3(1); jew\n(e)\n\nf'każ individwali għall-istabbiliment, l-eżerċizzju\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\njew id-difiża ta' talbiet legali relatati mal-għanijiet stabbiliti firregolament 3 (1).\n(2)\nId-data personali m'għandhiex tiġi ttrasferita jekk lawtorità kompetenti li tittrasferixxi tiddetermina li d-drittijiet u llibertajiet fundamentali tas-suġġett tad-data kkonċernat jissuperaw linteress pubbliku f'trasferiment stipulat fis-subregolament (1)(d) u (e).\n(3)\nId-dispożizzjonijiet tar-regolament 43(3) sa (5), dwar ittrasferimenti soġġetti għal salvagwardji xierqa, għandhom japplikaw\nmutatis mutandis għat-trasferimenti skont is-subregolament (1).",
+      "metadata": {
+        "source_line_start": 1823,
+        "source_line_end": 1858
+      }
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "mutatis mutandis għat-trasferimenti skont is-subregolament (1)",
+      "content": "(1) B'deroga mir-regolament 41(1)(b) u mingħajr\npreġudizzju għal kwalunkwe ftehim internazzjonali msemmi fissubregolament (2), awtoritajiet kompetenti, f'każijiet individwali u\nspeċifiċi, jistgħu jittrasferixxu data personali direttament lil riċevituri\nstabbiliti f'pajjiżi terzi biss jekk id-dispożizzjonijiet l-oħra ta' dawn irregolamenti huma mħarsa u l-kundizzjonijiet kollha li ġejjin huma\nsodisfatti:\n(a)\npubblika;\n\nl-awtorità kompetenti li tittrasferixxi hija awtorità\n\n(b)\nit-trasferiment huwa strettament meħtieġ għattwettiq ta’ kompitu tal-awtorità kompetenti li tittrasferixxi kif\nprevist mil-liġi għall-finijiet stabbiliti fir-regolament 3(1);\n(ċ)\nl-awtorità kompetenti li tittrasferixxi tiddetermina\nli l-ebda drittijiet u libertajiet fundamentali tas-suġġett tad-data\nkkonċernati ma jissuperaw l-interess pubbliku li jinħtieġ ittrasferiment f'dan il-każ;\n(d)\nl-awtorità kompetenti li tittrasferixxi tqis li ttrasferiment lejn l-awtorità kompetenti għall-finijiet imsemmija\nfir-regolament 3(1) fil-pajjiż terz huwa ineffettiv jew mhux\nxieraq, b'mod partikolari minħabba li t-trasferiment ma jistax\njintlaħaq fi żmien tajjeb;\n(e)\nl-awtorità li hija kompetenti għall-finijiet\nimsemmija fir-regolament 3(1) fil-pajjiż terz tkun infurmata\nmingħajr dewmien żejjed, sakemm dan ma jkunx effettiv jew\nmhux xieraq;\n(f) l-awtorità kompetenti li tittrasferixxi tinforma lirriċevituri dwar l-iskop jew skopijiet speċifikati li għalihom iddata personali għandha tiġi pproċessata biss mir-riċevituri\nsakemm tali proċessar ikun meħtieġ.\n(2)\nFtehim internazzjonali msemmi fis-subregolament (1)\ngħandu jkun kull ftehim internazzjonali bilaterali jew multilaterali fis-\n\nTrasferimenti ta'\ndata personali lil\nriċevituri stabbiliti\nf'pajjiżi terzi.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\nseħħ bejn Malta u pajjiżi terzi fil-qasam tal-kooperazzjoni ġudizzjarja\nf'materji kriminali u kooperazzjoni polizjeska.\n(3)\nL-awtorità kompetenti li tittrasferixxi għandha tinforma\nlill-Kummissarju dwar trasferimenti taħt dan ir-regolament.\n(4)\nId-dispożizzjonijiet tar-regolament 43(3) sa (5) dwar ittrasferimenti soġġetti għal salvagwardji xierqa, għandhom japplikaw\nmutatis mutandis għat-trasferimenti skont is-subregolament (1).\n\nRelazzjoni ma\nftehimiet\ninternazzjonali\nkonklużi fil-qasam\ntal-kooperazzjoni\nġudizzjarja\nf’materji kriminali\nu l-kooperazzjoni\ntal-pulizija.",
+      "metadata": {
+        "source_line_start": 1859,
+        "source_line_end": 1925
+      }
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "tal-pulizija",
+      "content": "Kwalunkwe ftehim internazzjonali jew bilaterali li jinvolvi\nt-trasferiment ta’ data personali lil pajjiżi terzi jew organizzazzjonijiet\ninternazzjonali li ġew konklużi minn Malta qabel is-6 ta’ Mejju 2016 u li\njikkonformaw mal-liġi applikabbli tal-Unjoni għandhom jibqgħu fisseħħ sakemm jiġu emendati, sostitwiti jew revokati.\n\nLimitazzjonijiet\ndwar ilkompetenza talKummissarju.",
+      "metadata": {
+        "source_line_start": 1926,
+        "source_line_end": 1934
+      }
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "dwar ilkompetenza talKummissarju",
+      "content": "Il-Kummissarju m'għandux ikun kompetenti għassuperviżjoni ta' operazzjonijiet ta' proċessar ta’ qrati u tribunali meta\ndawn jaġixxu fil-kapaċità ġudizzjarja tagħhom.",
+      "metadata": {
+        "source_line_start": 1935,
+        "source_line_end": 1943
+      }
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Kompiti talKummissarju",
+      "content": "(1)\n\nIl-kompiti tal-Kummissarju huma li:\n\n(a)\njissorvelja u jinforza l-applikazzjoni ta’ dawn irregolamenti u l-Atti ta' Implimentazzjoni adottati skont idDirettiva;\n(b)\njippromwovi l-għarfien tal-kontrolluri u\nproċessuri tal-obbligi tagħhom skont dawn ir-regolamenti;\n\nl-\n\n(ċ)\nabbażi ta’ rikjesta, jipprovdi informazzjoni lil\nkwalunkwe suġġett tad-data dwar l-eżerċizzju tad-drittijiet tiegħu\nskont dawn ir-regolamenti jew id-Direttiva u, fejn xieraq,\njikkoopera mal-awtoritajiet superviżorji għal dak il-għan;\n(d)\njimmaniġġja ilmenti mressqa minn suġġett taddata, jew minn korp, organizzazzjoni jew assoċjazzjoni skont irregolament 55, u jinvestiga sal-punt xieraq, is-suġġett tal-ilment u\njinforma lill-kwerelant dwar il-progress u r-riżultat talinvestigazzjoni fi żmien raġonevoli, b'mod partikolari jekk tkun\nmeħtieġa aktar investigazzjoni jew koordinazzjoni ma'\nawtoritajiet superviżorji oħra;\n(e)\njivverifika l-legalità tal-ipproċessar skont irregolament 17, u jinforma lis-suġġett tad-data f'perjodu\nraġonevoli tal-eżitu tal-verifika skont ir-regolament 17 (3) jew\nbir-raġunijiet għaliex il-verifika ma saritx;\n(f)\n\njikkoopera, inkluż it-tqassim ta' informazzjoni, u\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\njipprovdi assistenza reċiproka lill-awtoritajiet superviżorji, bilgħan li jiżgura l-konsistenza tal-applikazzjoni u l-infurzar tadDirettiva;\n(g)\nimexxi investigazzjonijiet dwar l-applikazzjoni ta'\ndawn ir-regolamenti, inkluż fuq il-bażi ta' informazzjoni riċevuta\nminn awtorità superviżorja jew awtorità pubblika oħra;\n(h)\njipprovdi parir dwar l-operazzjonijiet ta' pproċessar\nimsemmi fir-regolament 28;\n(i)\njikkontribwixxi għall-attivitajiet tal-Bord Ewropew\ngħall-Protezzjoni tad-Data;\n(j)\njimmonitorja l-iżviluppi rilevanti sakemm dawn\nikollhom impatt fuq il-protezzjoni tad-data personali, b'mod\npartikolari l-iżvilupp tat-teknoloġiji tal-informazzjoni u talkomunikazzjoni;\n(k)\niżomm rekords interni tal-ksur ta' dawn irregolamenti u tal-miżuri meħuda;\n(l)\njippromwovi kuxjenza pubblika u fehim tar-riskji,\nregoli, salvagwardji u drittijiet fir-rigward tal-ipproċessar;\n(m) jagħti pariri, skont il-liġi nazzjonali, lill-Parlament,\nlill-Gvern u lil istituzzjonijiet u korpi oħra dwar miżuri\nleġiżlattivi u amministrattivi relatati mal-protezzjoni tad-drittijiet\nu l-libertajiet tal-persuni fiżiċi fir-rigward tal-ipproċessar;\n(n)\niwettaq kull kompitu ieħor li hu implikat taħt xi\ndispożizzjoni ta' dawn ir-regolamenti.\n(2)\nIl-Kummissarju għandu jiffaċilita s-sottomissjoni talilmenti msemmija fis-subregolament (1)(d) b'miżuri bħal dak li\njipprovdi formola ta’ sottomissjoni ta' ilment li tista’ wkoll timtela\nb'mod elettroniku, mingħajr ma jiġu esklużi mezzi oħra ta'\nkomunikazzjoni.\n(3)\nIt-twettiq tal-kompiti tal-Kummissarju għandu jkun bla\nħlas għas-suġġett tad-data u għall-Uffiċjal tal-Protezzjoni tad-Data:\nIżda meta talba minn suġġett tad-data tkun manifestament\ninfondata jew eċċessiva, b'mod partikolari minħabba l-karattru ripetittiv\ntagħha, il-Kummissarju jista' jitlob ħlas raġonevoli bbażat fuq l-ispejjeż\namministrattivi tiegħu, jew jista' jirrifjuta li jaġixxi fuq it-talba.\n(4)\nMeta tariffa tiġi imposta mill-Kummissarju skont ilproviso li hemm mas-subregolament (3), il-Kummissarju għandu jġorr\nil-piż li juri li t-talba hija manifestament infondata jew eċċessiva.\n\n[ L.S. 586.08\n\nSetgħat talKummissarju.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "metadata": {
+        "source_line_start": 1944,
+        "source_line_end": 2040
+      }
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "KRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI",
+      "content": "Il-Kummissarju għandu jkollu s-setgħat li ġejjin:\n\n(a)\n\nsetgħat investigattivi li jikkonsistu f’dan li ġej:\n\n(i)\nbiex jordna lill-kontrollur u lill-proċessur, u\nfejn applikabbli, lir-rappreżentant tal-kontrollur jew ilproċessur biex jipprovdi kull informazzjoni li hu jkun\njeħtieġ għat-twettiq tal-kompiti tiegħu;\n(ii)\nbiex iwettaq investigazzjonijiet inkluż filforma ta’ verifiki tal-protezzjoni tad-data;\n(iii) jinnotifika lill-kontrollur jew lill-proċessur\ndwar allegat ksur ta’ dawn ir-regolamenti;\n(iv) biex jikseb mingħand il-kontrollur u lproċessur, aċċess għad-data personali kollha u għallinformazzjoni kollha meħtieġa għat-twettiq tal-kompitu\ntiegħu.\n(b)\n\nsetgħat korrettivi li jikkonsistu f'dan li ġej:\n\n(i)\nli joħroġ avviżi lil kontrollur jew proċessur li\nl-operazzjonijiet ta’ pproċessar maħsuba x'aktarx jiksru ddispożizzjonijiet ta' dawn ir-regolamenti;\n(ii)\nli joħroġ ċanfir lil kontrollur jew proċessur\nfejn l-operazzjonijiet ta’ pproċessar ikunu kisru xi\ndispożizzjoni ta' dawn ir-regolamenti;\n(iii) li jordna lill-kontrollur jew lill-proċessur\nbiex jikkonforma mat-talbiet tas-suġġett tad-data biex\njeżerċita d-drittijiet tiegħu skont dawn ir-regolamenti;\n(iv) li jordna lill-kontrollur jew lill-proċessur\nbiex iġibu l-operazzjonijiet ta’ proċessar f'konformità maddispożizzjonijiet ta' dawn ir-regolamenti, fejn xieraq,\nb'mod speċifiku u f'perjodu speċifikat;\n(v)\nsabiex jordna lill-kontrollur jikkomunika\nksur tad-data personali msemmi fir-regolament 31, lissuġġett tad-data;\n(vi) li jimponi limitazzjoni temporanja jew\ndefinittiva inkluża projbizzjoni fuq l-ipproċessar;\n(vii) li jordna r-rettifika jew it-tħassir ta’ data\npersonali jew restrizzjoni tal-ipproċessar skont irregolament 16 u n-notifika ta' tali azzjonijiet lir-riċevituri li\nlilhom tkun ġiet żvelata d-data personali skont irregolament 16(6);\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\n(viii) li jimponi multi amministrattivi skont irregolament 57;\n(ix) li jordna s-sospensjoni tal-fluss tad-data lil\nriċevitur\nf’pajjiż\nterz\njew\nlill-organizzazzjoni\ninternazzjonali.\n(ċ)\npoteri ta’ awtorizzazzjoni u ta' konsulenza li\njikkonsistu f’dawn is-setgħat:\n(i)\nli jagħti parir lill-kontrollur skont ilproċedura ta’ konsultazzjoni minn qabel, imsemmija firregolament 28;\n(ii)\nli joħroġ, fuq inizjattiva tiegħu stess jew fuq\ntalba, opinjonijiet lill-Parlament, lill-Gvern jew, skont illiġi, lil istituzzjonijiet u korpi oħra kif ukoll lill-pubbliku\ndwar kwalunkwe kwistjoni relatata mal-protezzjoni ta’\ndata personali;\n(iii) biex japprova l-politiki għaż-żamma taddata msemmija fir-regolament 5(3); u\n(iv) li jawtorizza l-komunikazzjoni ta’ data\npersonali fejn il-liġi hekk teħtieġ.",
+      "metadata": {
+        "source_line_start": 2041,
+        "source_line_end": 2115
+      }
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "personali fejn il-liġi hekk teħtieġ",
+      "content": "(1) Meta impjegat ta' l-awtorità kompetenti jsir jaf li xi\nwaħda mid-dispożizzjonijiet ta' dawn ir-regolamenti kienu, qegħdin jew\nli jkunu sejrin jiġu miksura b'xi mod, dak l-impjegat għandu jkun jista'\njirrapporta dak il-ksur direttament lill-Uffiċjal tal-Protezzjoni tad-Data\nta’ dik l-awtorità kompetenti.\n\nIllmenti millimpjegati talawtorità\nkompetenti.\n\n(2)\nMeta jsir rapport taħt is-subregolament (1), sakemm ma\njkunx ordnat xort'oħra mill-impjegat li għamel ir-rapport, l-Uffiċjal talProtezzjoni tad-Data għandu jieħu kull pass raġonevoli biex jiżgura li lidentità ta' dak l-impjegat ma tkunx żvelata jew misjuba b’xi mod.\n(3)\nId-dispożizzjonijiet tas-subregolamenti (1) u (2)\ngħandhom japplikaw mutatis mutandis meta dak l-ilment jiġi ppreżentat\nlill-Kummissarju.",
+      "metadata": {
+        "source_line_start": 2116,
+        "source_line_end": 2132
+      }
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "lill-Kummissarju",
+      "content": "Il-Kummissarju għandu jħejji rapport annwali dwar lattivitajiet tiegħu, li għandu jinkludi lista tat-tipi ta’ ksur notifikat u lmulti imposti. Dan ir-rapport għandu jiġu trasmess lill-Parlament, lillGvern u lil awtoritajiet oħra kif indikati mil-liġi, u jkun disponibbli\ngħall-pubbliku.\n\nRapporti dwar lattività talKummissarju.",
+      "metadata": {
+        "source_line_start": 2133,
+        "source_line_end": 2138
+      }
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Rapporti dwar lattività talKummissarju",
+      "content": "(1) Meta l-Kummissarju jeħtieġ informazzjoni,\nassistenza jew azzjoni minn awtorità superviżorja, il-Kummissarju, flapplikazzjoni tad-dispożizzjonijiet ta' dawn ir-regolamenti jew id-\n\nKooperazzjoni ma’\nawtoritajiet\nsuperviżorji.\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\nDirettiva mmirata biex tipproteġi d-drittijiet ta' individwi fir-rigward talipproċessar ta’ data personali li tikkonċernahom, jista’ jitlob\ninformazzjoni, assistenza jew azzjoni lil tali awtorità superviżorja.\n(2)\nIt-talba msemmija fis-subregolament (1) għandu jkun fiha\nl-informazzjoni kollha meħtieġa, inkluż l-iskop u r-raġunijiet tat-talba.\nL-informazzjoni skambjata għandha tintuża biss għall-għan li għalih\nkienet mitluba.\n(3)\nMeta l-Kummissarju jirċievi talba għal informazzjoni,\ngħajnuna, jew għall-eżerċizzju ta’ kwalunkwe waħda mill-funzjonijiet\nsuperviżorji tiegħu, jew ilment minn awtorità superviżorja, ilKummissarju għandu, fi spirtu sħiħ ta' kooperazzjoni, jipprovdi tali\ninformazzjoni jew assistenza, jew jeżerċita l-funżjoni superviżorja, jew\njaġixxi fuq tali ilment daqslikieku it-talba jew l-ilment waslu direttament\nmingħand is-suġġett tad-data.\n(4)\nIl-Kummissarju għandu jieħu l-miżuri xierqa kollha\nmeħtieġa biex iwieġeb għal talba msemmija fis-subregolament (3),\nbħalma hija t-trasmissjoni ta' informazzjoni rilevanti dwar il-kors talinvestigazzjoni, mingħajr dewmien żejjed, u mhux aktar tard minn xahar\nwara li jirċievi t-talba.\n(5)\nIl-Kummissarju m’għandux jirrifjuta li jikkonforma ma’\ntalba msemmija fis-subregolament (3) sakemm:\n(a)\nm'huwiex kompetenti fis-suġġett tat-talba jew filmiżuri li huwa mitlub jesegwixxi; jew\n(b)\n\nil-konformità mat-talba twassal għal ksur tal-liġi.\n\n(6)\nMeta talba msemmija fis-subregolament (3) tkun irċevuta,\nil-Kummissarju għandu jinforma lill-awtorità superviżorja rikjedenti\ndwar ir-riżultati jew, skont kif ikun il-każ, il-progress tal-miżuri meħuda\nsabiex jirrispondi għal din it-talba:\nIżda meta l-Kummissarju jirrifjuta li jikkonforma ma’ dik\nit-talba skont is-subregolament (5), huwa għandu jipprovdi raġunijiet\ngħar-rifjut.\n(7)\nKull komunikazzjoni trasferita fl-ambitu ta’ dan irregolament, għandha, bħala regola, issir jew ipprovduta b'mezzi\nelettroniċi, bl-użu tal-format standardizzat.\n(8)\nL-informazzjoni riċevuta skont dan ir-regolament għandha\ntintuża biss għall-iskop li għalih ġiet mitluba.\n(9)\nIl-Kummissarju m’għandux jimponi ħlas biex jikkonforma\nu jaġixxi fuq talba jew ilment imsemmi skont is-subregolament (3),\nsakemm ir-regoli ġew miftiehma bejn il-Kummissarju u l-awtorità\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\nsuperviżorja rikjedenti dwar kumpens għan-nefqa speċifika li tirriżulta\nminn l-għoti ta’ għajnuna reċiproka f'ċirkostanzi eċċezzjonali.\n\nIS-SEBA’ TAQSIMA\nRIMEDJI, RESPONSABBILTÀ U MULTI",
+      "metadata": {
+        "source_line_start": 2139,
+        "source_line_end": 2217
+      }
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "RIMEDJI, RESPONSABBILTÀ U MULTI",
+      "content": "(1) Mingħajr preġudizzju għal kwalunkwe rimedju\namministrattiv jew ġudizzjarju, kull suġġett tad-data għandu jkollu ddritt li jressaq ilment mal-Kummissarju, jekk is-suġġett tad-data jqis li lipproċessar tad-data personali relatata miegħu jikser dawn irregolamenti.\n\nId-dritt li jitressaq\nilment malKummissarju.\n\n(2)\nMeta jiġi ppreżentat ilment lill-Kummissarju minn suġġett\ntad-data li jallega li l-ipproċessar ta’ data personali li tirrelata miegħu fi\nStat Membru ieħor jikser id-dispożizzjonijiet tad-Direttiva, ilKummissarju għandu jibgħat tali ilment mingħajr dewmien bla bżonn\nlill-awtorità superviżorja ta’ dak l-Istat Membru, u s-suġġett tad-data\ngħandu jkun infurmat dwar it-trasmissjoni.\n(3)\nIl-Kummissarju, wara ilment, għandu jipprovdi assistenza\nulterjuri lis-suġġett tad-data fuq talba tiegħu.\n(4)\nIl-Kummissarju għandu jinforma lill-ilmentatur dwar ilprogress u r-riżultat tal-ilment, inkluż l-possibbiltà ta’ rimedju\nġudizzjarju skont ir-regolament 54.",
+      "metadata": {
+        "source_line_start": 2218,
+        "source_line_end": 2236
+      }
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "ġudizzjarju skont ir-regolament 54",
+      "content": "L-artikolu 31 tal-Att għandu japplika mutatis mutandis\nfejn il-Kummissarju ma jittrattax ilment jew ma jinfurmax is-suġġett\ntad-data fi żmien tliet xhur dwar il-progress jew ir-riżultat tal-ilment\nimressaq skont ir-regolament 53.\n\nDritt għal rimedju\nġudizzjarju effettiv\nkontra lKummissarju.\nEmendat:\nA.L. 108 tal-2020.",
+      "metadata": {
+        "source_line_start": 2237,
+        "source_line_end": 2248
+      }
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "A.L. 108 tal-2020",
+      "content": "Is-suġġett tad-data għandu jkollu d-dritt jagħti mandat lil\nkorp, organizzazzjoni jew assoċjazzjoni mhux bi skop ta’ qligħ li jkunu\nġew ikkostitwiti kif xieraq skont il-liġi, li l-għanijiet statutorji tagħhom\nhuma fl-interess pubbliku u li huma attivi fil-qasam tal-protezzjoni taddrittijiet u l-libertajiet tas-suġġetti tad-data fir-rigward tal-protezzjoni\ntad-data personali biex iressqu l-ilment f’ismu.\n\nRappreżentanza\ntas-suġġetti tadData.",
+      "metadata": {
+        "source_line_start": 2249,
+        "source_line_end": 2258
+      }
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "tas-suġġetti tadData",
+      "content": "(1) Il-Kummissarju għandu jiżgura li l-impożizzjoni\nta’ multi amministrattivi skont ir-regolament 57 ikunu effettivi,\nproporzjonati u disważivi.\n\nKondizzjonijiet\nġenerali għal multi\namministrattivi.\n\n(2)\nMulti amministrattivi għandhom, jiddependi skont iċċirkostanzi tal-każ individwali, jiġu imposti, flimkien jew, minflok, il-\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\nmiżuri msemmija fir-regolament 49(1)(b).\n\n(3)\nMeta jiġi deċiż jekk tiġiex imponuta multa\namministrattiva, kif ukoll l-ammont tal-multa amministrattiva, f'kull każ\nindividwali għandha tingħata konsiderazzjoni lil dan li ġej:\n(a)\nin-natura, il-gravità u t-tul tal-ksur, b'kont meħud\ntan-natura, tal-ambitu jew l-iskop tal-ipproċessar ikkonċernat, kif\nukoll in-numru ta’ suġġetti tad-data affettwati u l-livell ta' ħsara li\nsofrew;\n(b)\n\nin-natura intenzjonali jew negliġenti tal-ksur;\n\n(ċ)\nkwalunkwe azzjoni meħuda mill-kontrollur jew\nmill-proċessur biex itaffi l-ħsara mġarrba mis-suġġetti tad-data;\n(d)\nil-grad ta’ responsabbiltà tal-kontrollur jew talproċessur waqt li jqis il-miżuri tekniċi u organizzattivi\nimplimentati minnhom skont ir-regolamenti 20 u 29;\n(e)\nkwalunkwe ksur preċedenti rilevanti mill-kontrollur\njew mill-proċessur;\n(f)\nil-grad ta' kooperazzjoni mal-Kummissarju, sabiex\njiġi rimedjat l-ksur u biex jittaffew l-effetti negattivi possibbli talksur;\n(g)\n\nil-kategoriji ta’ data personali milquta mill-ksur;\n\n(h)\nil-mod li bih il-ksur sar magħruf mill-Kummissarju,\nb'mod partikolari sa liema punt, il-kontrollur jew il-proċessur\ninnotifikaw il-ksur;\n(i)\nfejn il-miżuri msemmija fir-regolament 49(1)(b)\nġew ordnati qabel kontra il-kontrollur jew il-proċessur\nikkonċernat fir-rigward tal-istess suġġett u konformità ma’ dawk\nil-miżuri; u\n(j)\nkwalunkwe fattur aggravanti jew attenwanti ieħor\napplikabbli għaċ-ċirkostanzi tal-każ.\n(4)\nJekk kontrollur jew proċessur intenzjonalment jew\nb'negliġenza, għall-istess operazzjonijiet ta’ proċessar jew relatati, jikser\ndiversi dispożizzjonijiet ta' dawn ir-regolamenti, l-ammont totali talmulta amministrattiva m'għandux jeċċedi l-ammont speċifikat għalliżjed ksur gravi.\nMulti\namministrattivi.",
+      "metadata": {
+        "source_line_start": 2259,
+        "source_line_end": 2329
+      }
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "amministrattivi",
+      "content": "Il-Kummissarju jista’ jimponi multa amministrattiva ta'\nmhux inqas minn ħames mitt euro (€500) u mhux aktar minn ħamsin elf\neuro (€50,000), skont ir-regolament 56, għal ksur ta’ xi wieħed minn\ndawn li ġejjin:\n\nIPPROĊESSAR TA’ DATA PERSONALI MINN AWTORITAJIET\nKOMPETENTI GĦALL-FINIJIET TAL-PREVENZJONI,\nL-INVESTIGAZZJONI, IS-SEJBIEN JEW IL-PROSEKUZZJONI TA’ REATI\nKRIMINALI JEW L-EŻEKUZZJONI TA’ PIENI KRIMINALI\n\n[ L.S. 586.08\n\n(a)\nl-obbligi tal-kontrollur u tal-proċessur skont irregolamenti 19 sa 34;\n(b)\nl-obbligu li tiġi prodotta politika ta' żamma ta’ data\nu kull emenda sussegwenti skont ir-regolament 5;\n(ċ)\nil-prinċipji bażiċi għall-ipproċessar, skont irregolamenti 4, 8 u 10;\n(d)\nid-drittijiet\nregolamenti 12 sa 18;\n\ntas-suġġetti\n\ntad-data\n\nskont\n\nir-\n\n(e)\nit-trasferimenti\nta'\nkomunikazzjonijiet\ntrasferimenti ta' data personali skont ir-regolamenti 35 sa 46:\n\nu\n\nIżda l-Kummissarju jista' jimponi multa ta' kuljum ta'\nmhux iżjed minn ħamsin euro (€50) sakemm il-ksur jiġi rrettifikat.",
+      "metadata": {
+        "source_line_start": 2330,
+        "source_line_end": 2377
+      }
+    }
+  ],
+  "definitions": []
+}

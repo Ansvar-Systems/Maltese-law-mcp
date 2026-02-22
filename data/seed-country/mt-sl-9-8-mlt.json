@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-9-8-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Postijiet ta' Detenzjoni Stabbiliti",
+  "title_en": "Ordni dwar Postijiet ta' Detenzjoni Stabbiliti",
+  "short_name": "eli/sl/9.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/9.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.8/mlt, expression eli/sl/9.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 437 tal-2003",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Postijiet ta’ Detenzjoni\nStabbiliti.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-postijiet imsemmija fl-Iskeda huma b’dan dikjarati li huma\npostijiet ta’ detenzjoni għall-għanijiet tal-Kodiċi Kriminali.\n\nDikjarazzjoni ta’\npostijiet ta’\ndetenzjoni.\nKap. 9.\n\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Valletta",
+      "content": "Il-lock-up fil-bini fejn tinsab it-taqsima amministrattiva talPulizija, Victoria, Għawdex.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

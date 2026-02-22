@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-350-18-mlt",
+  "type": "statute",
+  "title": "Ħtiġiet dwar Standards u Prattika dwar Wiri u s-Smigħ ta' Programmi għall-Familja",
+  "title_en": "Ħtiġiet dwar Standards u Prattika dwar Wiri u s-Smigħ ta' Programmi għall-Familja",
+  "short_name": "eli/sl/350.18/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/350.18/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/350.18/mlt, expression eli/sl/350.18/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Titolu",
+      "content": "1 Dawn il-Ħtiġiet dwar Standards u Prattika saru millAwtorità tax-Xandir bis-saħħa ta’ l-artikolu 20(3) ta’ l-Att dwar ixXandir, Kapitlu 350 tal-Liġijiet ta’ Malta.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Trejlers",
+      "content": "1 Trejlers ta’ programmi jridu wkoll isegwu dawn il-ħtiġiet.\nJekk ikun ser isir reklam dwar programm għall-kbar qabel id-9.00\np.m., it-trejler irid ikun addattat biex tarah jew tisimgħu l-familja.\n\nSostitwit:\nA.L. 482 tal-2020.\n\n}TI{IET DWAR STANDARDS U PRATTIKA\nDWAR WIRI U S-SMIG} TA’ PROGRAMMI\nG}ALL-FAMILJA\n\nBiċċiet mħejjija biex jirreklamaw programm ta’ vjolenza jridu\njintgħażlu bir-reqqa bla ma jagħmlu ebda enfasi għall-inċidenti\nvjolenti li ma jkunux karatteristika tal-programm kollu.\nEmendat:\nA.L. 482 tal-2020.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 75
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "A.L. 482 tal-2020",
+      "content": "Ħtiġiet li x-xandara għandhom isegwu",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 79
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kap. 350",
+      "content": "Għall-għanijiet ta’ dawn il-ħtiġiet l-espressjoni \"tfal\"\ntfisser nies li jkunu taħt it-tmintax-il sena.",
+      "metadata": {
+        "source_line_start": 238,
+        "source_line_end": 240
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "tfisser nies li jkunu taħt it-tmintax-il sena",
+      "content": "Il-ksur ta’ kwalunkwe mid-dispożizzjonijiet ta’ dawn ilħtiġijiet għandu jikkostitwixxi offiża amministrattiva punibbli millAwtorità skont l-Artikolu 41 u l-Ħames Skeda tal-Att dwar ixXandir.",
+      "metadata": {
+        "source_line_start": 241,
+        "source_line_end": 242
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "tfisser nies li jkunu taħt it-tmintax-il sena",
+      "content": "Il-kliem \"servizz tal-media awdjoviżiva\" u \"fornituri ta’\nservizzi tal-media\" għandu jkollhom l-istess tifsira mogħtija fl-Att\ndwar ix-Xandir.",
+      "metadata": {
+        "source_line_start": 243,
+        "source_line_end": 249
+      }
+    }
+  ],
+  "definitions": []
+}

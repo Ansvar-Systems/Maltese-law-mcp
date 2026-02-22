@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-15-mlt",
+  "type": "statute",
+  "title": "Civil Aviation Joint Aviation Requirements Order",
+  "title_en": "Civil Aviation Joint Aviation Requirements Order",
+  "short_name": "eli/sl/499.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/499.15/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.15/mlt, expression eli/sl/499.15/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION JOINT AVIATION REQUIREMENTS\n\n[L.S.499.15\n\nLE{ISLAZZJONI SUSSIDJARJA 499.15\nCIVIL AVIATION JOINT AVIATION REQUIREMENTS\nORDER*\n1 ta’ Jannar, 1999\nL-AVVI| LEGALI 203 tal-1998, kif emendat bl-Avvi\\i Legali 190 tal2002, 67 tal-2003, 81 tal-2004, 59 u 254 tal-2005, 39 u 169 tal-2006, 24 u\n184 tal-2007, 25 tal-2010 u 483 tal-2011.\n\n*Dan l-Ordni [ie ppubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

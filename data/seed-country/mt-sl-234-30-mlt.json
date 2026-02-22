@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-30-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Bastimenti Merkantili - Safety Convention",
+  "title_en": "Regoli dwar Bastimenti Merkantili - Safety Convention",
+  "short_name": "eli/sl/234.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.30/mlt, expression eli/sl/234.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SAFETY CONVENTION\n\n[L.S.234.30\n\nLE{ISLAZZJONI SUSSIDJARJA 234.30\nREGOLI DWAR BASTIMENTI MERKANTILI SAFETY CONVENTION*\n\n10 ta’ Jannar, 2003\n\nL-AVVI| LEGALI 22 ta’ l-2003.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

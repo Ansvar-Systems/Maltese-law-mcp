@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-379-1-mlt",
+  "type": "statute",
+  "title": "Ordni ta' Dikjarazzjoni dwar l-Applikabilita ta' l-Att dwar il-Kompetizzjoni",
+  "title_en": "Ordni ta' Dikjarazzjoni dwar l-Applikabilita ta' l-Att dwar il-Kompetizzjoni",
+  "short_name": "eli/sl/379.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/379.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/379.1/mlt, expression eli/sl/379.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 16 ta’ l-1995",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni ta’ Dikjarazzjoni dwar lApplikabilità ta’ l-Att dwar il-Kompetizzjoni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-disposizzjonijiet ta’ l-Att dwar il-Kompetizzjoni\ng]andhom japplikaw g]al dawn id-dipartimenti, korporazzjonijiet,\nkumpanniji jew so`jetajiet kummer`jali, li fihom il-Gvern,\ndirettament jew indirettament, jkollu xi sehem bi\\\\ejjed biex\njikkontrolla:\n\nApplikabilità ta’ lAtt dwar ilKompetizzjoni.\nKap. 379.\n\nBank of Valletta Ltd.\nHotel Management Services Co. Ltd.\nKalaxlokk Co. Ltd.\nKonkos Co. Ltd.\nKordin Grain Terminal Co. Ltd.\nMalta Gantry Manufacturing Mufacturing Ltd.\nMalta Government Investments Co. Ltd.\nMalta University Services Co. Ltd.\nMalta Win Containers Ltd.\nMediterranean Oilfield Services Co. Ltd.\nMid-Med Bank Ltd.\nPromotion and Trading Co. Ltd.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

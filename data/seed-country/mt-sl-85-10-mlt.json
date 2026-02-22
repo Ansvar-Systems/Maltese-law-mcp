@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-85-10-mlt",
+  "type": "statute",
+  "title": "Regoli dwar il-Ħlas ta' l-Esportazzjoni tal-Patata Imħassrin bl-Att XXXIV tal-2023",
+  "title_en": "Regoli dwar il-Ħlas ta' l-Esportazzjoni tal-Patata Imħassrin bl-Att XXXIV tal-2023",
+  "short_name": "eli/sl/85.10/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1972-04-18",
+  "url": "https://legislation.mt/eli/sl/85.10/20231017/mlt",
+  "description": "Official text from legislation.mt (eli/sl/85.10/mlt, expression eli/sl/85.10/20231017/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 32 ta’ l-1972",
+      "content": "It-titolu ta’ dawn ir-Regoli hu Regoli dwar il-Ħlas ta’ lEsportazzjoni tal-Patata.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) F’dawn ir-Regoli, kemm-il darba l-kuntest ma jeħtieġx\nxort’oħra, \"esportatur\" ma tinkludix persuna li tesporta patata\nmkabbra minnha.\n\nTifsir.\n\n(2) Kliem u frażijiet li m’humiex xort’oħra mfissra f’dawn irRegoli għandu jkollhom l-istess tifsir li għandhom fl-Ordinanza\ndwar l-Esportazzjoni ta’ Prodotti tal-Biedja.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) L-esportaturi għandhom, mhux aktar tard minn tliet\nijiem wara li jgħabbu xi patata fuq bastiment għall-esportazzjoni,\niħallsu lid-Direttur somma li tkun daqs il-valur kollu tal-patata\nhekk mgħobbija jew jagħtu lid-Direttur garanzija bankarja għal dak\nl-ammont li jkun aċċettabbli m ill-imsemmi Direttur, l iema\ngaranzija għandha titħallas mill-bank fi żmien tletin ġurnata middata tagħha.\n\nKap. 85.\nĦlas eċċ., minn\nesportaturi.\n\n(2) Dak il-valur totali għandu jiġi kalkolat għab-bażi tal-prezz\ndikjarat mill-esportatur relattiv fuq il-liċenza ta’ esportazzjoni\nmaħruġa mid-Direttur tal-Kummerċ, u għandu jinkludi kull\ndrittijiet ta’ piżaturi u ta’ senserija li jkollhom jitħallsu, jekk ikun\nhemm.\n(3) Il-prezz dikjarat fuq il-liċenza ta’ esportazzjoni għandu\njkun l-istess bħal dak li l-esportatur ikun ftiehem li jħallas lillbidwi għall-patata mixtrija mill-esportatur.",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "(3) Il-prezz dikjarat fuq il-liċenza ta’ esportazzjoni għandu",
+      "content": "(1) Mhux aktar tard minn għoxrin ġurnata wara d-data li\nfiha tkun spiċċat it-tagħbija, l-esportatur ta’ kull patata għandu\njagħti lid-Direttur dikjarazzjoni li jkun fiha d-dettalji li ġejjin:\n\nDokumenti li\ngħandhom jinġiebu\nmill-esportaturi.\n\n(a) isem il-bastiment li jkun ser jesporta;\n(b) id-data meta x-xogħol tat-tagħbija jkun spiċċa;\n(ċ) il-piż mgħobbi, u n-numru ta’ xkejjer, pakki jew\nreċipjenti oħra;\n(d) l-isem u l-indirizz tas-sensala, flimkien mal-piż\nmiksub permezz ta’ kull sensal.\n(2) Kull dikarazzjoni bħal dik għandu jkollha magħha listi\nffirmati mis-sensala li juru l-ismijiet u l-indirizz u l-kwantità u lpiż provdut minn kull bidwi tal-patata li tkun qed tiġi esportata.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 59
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "(2) Kull dikarazzjoni bħal dik għandu jkollha magħha listi",
+      "content": "Id-Direttur għandu, kemm jista’ jkun malajr wara li jkun\nirċieva l-ħlas ta’ kull patata esportata, jħallas lill-bidwi, lill-piżatur\n\n*Dawn ir-regoli ġew imħassrin bl-Att XXXIV tal-2023.\n\nĦlas tas-sehem\ndovut lill-bidwi u\nlis-sensal.\n\nL.S.9.02]\n\nu lis-sensal (jekk ikun hemm) is-sehem li kull wieħed minnhom\nikun imissu.",
+      "metadata": {
+        "source_line_start": 60,
+        "source_line_end": 81
+      }
+    }
+  ],
+  "definitions": []
+}

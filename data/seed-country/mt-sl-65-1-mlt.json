@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-65-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Motor Route Buses Imħassrin bl-Avviż Legali 254 tal-2011",
+  "title_en": "Regolamenti dwar il-Motor Route Buses Imħassrin bl-Avviż Legali 254 tal-2011",
+  "short_name": "eli/sl/65.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/65.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/65.1/mlt, expression eli/sl/65.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MOTOR ROUTE BUSES\n\n[L.S.65.01\n\nLE{ISLAZZJONI SUSSIDJARJA 65.01\nREGOLAMENTI DWAR IL-MOTOR ROUTE BUSES\n26 ta’ Novembru, 1948\nIN-NOTIFIKAZZJONI TAL-GVERN 743 tal-1948, kif emendata blAvvi\\i Legali 98 tal-1959, 166 tal-1990 u 150 tal-2009; u bl-Att XV tal2009.\n\nRevokati bl-Avvi\\ Legali 254 tal-2011.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

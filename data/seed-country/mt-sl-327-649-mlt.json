@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-327-649-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Poteri Speċjali tas-Senat f’Cirkostanzi Straordinarji",
+  "title_en": "Regolamenti dwar Poteri Speċjali tas-Senat f’Cirkostanzi Straordinarji",
+  "short_name": "eli/sl/327.649/mlt",
+  "status": "in_force",
+  "issued_date": "2020-07-22",
+  "in_force_date": "2020-07-22",
+  "url": "https://legislation.mt/eli/sl/327.649/20200722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.649/mlt, expression eli/sl/327.649/20200722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 212 tal-2020",
+      "content": "(1)\nDawn ir-regolamenti jistgħu jissejħu bħala rRegolamenti dw ar Poteri S peċjali tas-Senat f ’ Cirkostanzi\nStraordinarji.\n\nIt-Titlu u lInterpretazzjoni\n\n(2)\nF’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra, il-kliem “ċirkostanzi straordinarji” jirreferu\ngħal kull ġrajja jew ċirkostanza li ma setgħetx tiġi evitata wkoll jekk\nkellhom jittieħdu passi raġonevoli, bħal m’hi mxijja ta’ mard filpajjiż jew pandemija jew xi ċirkostanza straordinarja relatata malordni pubbliku meta l-awtoritajiet nazzjonali jirrakkomandaw jew\njordnaw miżuri speċifici; u f’kull kaz, meta tali ċirkostanza tkun ta’\ntfixkiel serju għall-attivitajiet normali ta’ l-Università kif determinat\nmir-Rettur tal-Universita’.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Straordinarji",
+      "content": "(1) Dawn ir-regolamenti għandhom japplikaw mill-1 ta’\nMejju 2020 ’il quddiem.\n\nL-Applikabilità\n\n(2)\nF’każ ta’ kunflitt bejn dawn ir-regolamenti u xi\nregolamenti oħra, dawn ir-regolamenti għandom jieħdu preċedenza.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "regolamenti oħra, dawn ir-regolamenti għandom jieħdu preċedenza",
+      "content": "F’ċirkostanzi straordinarji meta l-attivitajiet normali talUniversità jkollhom jieqfu jew ikunu drastikament ristretti minħabba\nsitwazzjonijiet lil hinn mill-kontroll tal-Università, is-Senat jista’\njieħu kull miżura li jidhirlu xierqa biex l-attivitajiet ta’ tagħlim u ta’\nvalutazzjoni jkunu mħassra jew postposti jew isiru b’mod differenti\nminn kif jipprovdu jew jesiġu kwalunkwe regolamenti oħra.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "minn kif jipprovdu jew jesiġu kwalunkwe regolamenti oħra",
+      "content": "(1)\nIl-miżuri speċjali għandhom ikunu applikabbli biss\ngħal dawk l-istudenti li jkunu ġew affettwati materjalment u/jew\nsostanzjalment miċ-ċirkostanzi straordinarji.\n(2)\nMinn żmien għal żmien, is-Senat jiddeċiedi jekk iċċirkostanzi straordinarji għadhomx fis-seħħ għall-finijiet ta’ dawn irregolamenti.\n\nIl-Poteri Specjali\ntas-Senat talUniversità",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

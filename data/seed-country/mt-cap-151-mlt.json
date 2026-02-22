@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-151-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar is-Sigurtà tal-Komunikazzjonijiet",
+  "title_en": "Ordinanza dwar is-Sigurtà tal-Komunikazzjonijiet",
+  "short_name": "Kap. 151",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1956-10-31",
+  "url": "https://legislation.mt/eli/cap/151/20080101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/151/mlt, expression eli/cap/151/20080101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "410 tal-2007",
+      "content": "It-titolu fil-qosor ta’ din l-Ordinanza huwa l-Ordinanza\ndwar is-Sigurtà tal-Komunikazzjonijiet.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Il-Prim Ministru jista’ jagħmel regolamenti biex jaħsbu\ngħal dawk il-miżuri li minn żmien għal żmien jidhrulu li jkunu\nmeħtieġa għas-sigurtà ta’ komunikazzjonijiet għal kull post barra\nminn Malta, u bla ħsara għall-ġeneralità tad-disposizzjoni ta’ qabel,\ndawn ir-regolamenti jistgħu jaħsbu għal kull waħda mill-miżuri li\nġejjin:\n\nRegolamenti.\nEmendat:\nA.L. 4 tal-1963.\n\n(a) dewmien filli jintbagħtu oġġetti postali minn Malta;\n(b) dewmien jew interruzzjoni ta’ telekomunikazzjonijiet\nma’ kull post barra minn Malta;\n(ċ) illi ma jintbagħtux telegrammi għal kull post barra\nminn Malta mingħajr dik l-awtorità li tkun stabbilita;\n(d) il-kontroll tat-trasmissjoni bit-telegrafija mingħajr fili.\n(2) Kull regolament magħmul bis-saħħa tas-subartikolu (1)\njista’ jaħseb għall-egħmil ta’ ordnijiet u atti oħra, u jista’ jkollu fih\ndawk id-disposizzjonijiet inċidentali u supplementari li jidhru lillPrim Ministru bħala meħtieġa jew xierqa għall-finijiet tarregolamenti.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Regolamenti",
+      "content": "Jekk xi ħadd jikkommetti reat kontra xi regolament\nmagħmul bis-saħħa tal-artikolu 2(1), jew jikser jew jonqos milli\njħares xi regolament bħal dan, jew xi ordni maħruġ taħt regolament\nbħal dan, jew xi direttiv jew ħtieġa magħmula taħt xi regolament\nbħal dan, jeħel, meta jinsab ħati, priġunerija għal żmien ta’ mhux\niżjed minn tliet xhur jew għal multa ta’ mhux iżjed minn mitejn u\ntnejn u tletin euro u erbgħa u disgħin ċenteżmu (232.94).\n\nPieni.\nEmendat:\nA.L. 410 tal-2007.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 54
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Pieni",
+      "content": "Id-disposizzjonijiet ta’ din l-Ordinanza ma jgħoddux għal\nkull komunikazzjoni magħmula mill-Gvern ta’ Malta.\n\nKomunikazzjonijiet tal-Gvern.\n\n*Ara Notifikazzjoni tal-Gvern Imperjali Malti Nru. 72 tal-31 ta’ Ottubru, 1956.",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

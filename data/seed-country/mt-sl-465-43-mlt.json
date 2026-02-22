@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-465-43-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Revokar",
+  "title_en": "Regolamenti dwar Revokar",
+  "short_name": "eli/sl/465.43/mlt",
+  "status": "repealed",
+  "issued_date": "2020-06-12",
+  "in_force_date": "2020-06-12",
+  "url": "https://legislation.mt/eli/sl/465.43/20200612/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.43/mlt, expression eli/sl/465.43/20200612/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 232 tal-2020",
+      "content": "Revokar.\n\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Revokar",
+      "content": "L-ordnijiet u r-regolamenti elenkati hawn isfel, maħruġa\ntaħt l-Att dwar is-Saħħa Pubblika, qegħdin permezz ta’ dawn irregolamenti jiġu mħassra:\n(a)\nPubbliku;\n\nTitolu.\n\nRevoka.\nKap. 465.\n\nOrdni dwar l-Għeluq ta’ Postijiet Miftuħa għall-\n\nL.S. 465.21.\n\n(b)\nRegolamenti dwar l-Infurzar ta’ Ordni ta’\nInfurzar li jirrigwardaw l-Għeluq ta’ Postijiet Miftuħa għallPubbliku;\n\nL.S. 465.24.\n\n(ċ)\nOrdni dwar l-Għeluq ta’ Ħwienet u Ħwienet ta’\nBejgħ mhux Essenzjali li Jipprovdu Servizzi mhux Essenzjali;\n\nL.S. 465.27.\n\n(d)\nRegolamenti dwar l-Infurzar tal-Ordni li\njirrigwarda l-Għeluq ta’ Ħwienet ta’ Bejgħ Mhux Essenzjali u\nĦwienet li Jipprovdu Servizzi Mhux Essenzjal;\n\nL.S. 465.28.\n\n(e)\nVulnerabbli;\n\nPersuni\n\nL.S. 465.33.\n\n(f)\nOrdni dwar iż-Żieda fin-Numru ta’ Persuni fi\nSpazji Pubbliċi; u\n\n(g)\n\nOrdni\n\ndwar\n\nil-Protezzjoni\n\nta’\n\nOrdni dwar l-Għeluq tat-Tribunali Lokali:\n\nL.S. 465.38.\n\nIżda:\n(i)\nkull terminu legali, ġudizzjarju jew\namministrattiv għall-preżentazzjoni ta’ atti\nquddiem it-tribunali lokali, sospiżi permezz talordni hawn fuq imħassar, għandhom jibqgħu\nsospiżi għal perjodu ta’ għoxrin (20) jum mid-data\ntad-dħul seħħ dawn ir-regolamenti.\n(ii)\nkull notifika ta’ taħrika, sospiża\npermezz tal-ordni hawn fuq imħassar, għandha\ntibqa’ sospiża sa perjodu ta’ għaxart (10) ijiem\nmid-data tad-dħul fis-seħħ ta’ dawn irregolamenti.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 89
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "mid-data tad-dħul fis-seħħ ta’ dawn irregolamenti",
+      "content": "Kwalunkwe att, deċiżjoni jew azzjoni meħuda qabel iddħul fis-seħħ tar-Regolamenti tal-2020 dwar Revokar għandhom\njibqgħu regolati mid-dispożizzjonijiet tar-regolamenti u l-ordnijiet kif\n\nDispożizzjoni\ntranżitorja.\nA.L. 232 tal-2020.\n\n[ L.S. 465.43\n\nfis-seħħ qabel id-dħul fis-seħħ tar-Regolamenti tal-2020 dwar\nRevokar.",
+      "metadata": {
+        "source_line_start": 90,
+        "source_line_end": 109
+      }
+    }
+  ],
+  "definitions": []
+}

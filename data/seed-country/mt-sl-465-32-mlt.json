@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-465-32-mlt",
+  "type": "statute",
+  "title": "Ordni dwar is-Sospensjoni ta’ Avvenimenti Organizzati Imħassar bl-Avviż Legali 243 tal-2020",
+  "title_en": "Ordni dwar is-Sospensjoni ta’ Avvenimenti Organizzati Imħassar bl-Avviż Legali 243 tal-2020",
+  "short_name": "eli/sl/465.32/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://legislation.mt/eli/sl/465.32/20200326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.32/mlt, expression eli/sl/465.32/20200326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SOSPENSJONI TA’ AVVENIMENTI ORGANIZZATI\n\n[ L.S.465.32\n\nLEĠISLAZZJONI SUSSIDJARJA 465.32\nORDNI DWAR IS-SOSPENSJONI TA’ AVVENIMENTI\nORGANIZZATI\n23 ta’ Marzu, 2020\n\nL-AVVIŻ LEGALI 101 tal-2020, kif emendat bl-Avviż Legali 205 u\n228 tal-2020.\n\nImħassar bl-Avviż Legali 243 tal-2020.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

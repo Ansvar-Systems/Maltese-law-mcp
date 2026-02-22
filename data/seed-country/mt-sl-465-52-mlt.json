@@ -1,0 +1,145 @@
+{
+  "id": "mt-sl-465-52-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Applikazzjoni tal-Mowbajl ta’ Traċċar ta’ Kuntatti u Twissija Imħassar bl-Avviż Legali 256 tal-2024",
+  "title_en": "Ordni dwar l-Applikazzjoni tal-Mowbajl ta’ Traċċar ta’ Kuntatti u Twissija Imħassar bl-Avviż Legali 256 tal-2024",
+  "short_name": "eli/sl/465.52/mlt",
+  "status": "repealed",
+  "issued_date": "2020-10-19",
+  "in_force_date": "2020-10-01",
+  "url": "https://legislation.mt/eli/sl/465.52/20241004/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.52/mlt, expression eli/sl/465.52/20241004/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 379 tal-2020, kif emendat bl-Avviż Legali 128 tal2021",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar l-Applikazzjoni\ntal-Mowbajl ta’ Traċċar ta’ Kuntatti u Twissija.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nXejn f'dan l-ordni m’għandu jippreġudika lapplikazzjoni tar-Regolament 2016/679/UE.\n\nAmbitu u għan.\n\n(2)\nDan l-ordni għandu japplika għall-ipproċessar tad-data\nmis-Suprintendent tas-Saħħa Pubblika permezz ta’ applikazzjoni talmowbajl ta’ traċċar ta’ kuntatti u twissija li tappoġġa t-traċċar ta’\nkuntatti permezz tal-użu ta’ teknoloġija ta’ traċċar ta’ prossimità u\ntippermetti lill-utenti jieħdu azzjoni volontarja xierqa bħall-ittestjar\njew l-awtoiżolament jekk potenzjalment ikunu esposti għall-vajrus\nCOVID-19.\n(3)\nL-għan ta’ dan l-ordni huwa li jistabbilixxi l-bażi legali\nf’każijiet fejn tiġi pproċessata data personali permezz ta’ applikazzjoni\ntal-mowbajl ta’ traċċar ta’ kuntatti u twissija sabiex jiġi faċilitat ittraċċar ta’ kuntatti rapidu u effiċjenti ta’ persuni infettati bil-vajrus\nCOVID-19, u li għandha tkun komplimentari għal metodi fiżiċi tattraċċar ta’ kuntatti sabiex tkun provduta rispons effettiva sabiex\njillimitaw il-vajrus COVID-19 filwaqt li jipproteġu d-drittijiet u llibertajiet fundamentali tal-bniedem, tal-utenti tal-applikazzjoni.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "COVID-19",
+      "content": "Għall-finijiet ta’ dawn ir-regolamenti u sakemm ilkuntest ma jirrikjedix mod ieħor:\n\"applikazzjoni\" tfisser l-Applikazzjoni tal-Mowbajl tatTraċċar ta’ Kuntatti u Twissija;\n\"identifikaturi ta’ prossimità rotanti\" tfisser identifikaturi\npsewdo-kawżali temporanji, iġġenerati minn kjavi ta’\nesponiment temporanju li jirrappreżentaw utent ta’ tagħmir li\njixxandru permezz ta’ teknoloġija ta’ traċċar tal-prossimità;\n\"kjavi ta’ esponiment temporanju\" tfisser kjavi anonimi\nli huma ġġenerati b’mod każwali u indipendenti bl-użu ta’\nġeneratur ta’ numru kriptografiku każwali;\n\"kodiċi ta’ awtorizzazzjoni\" tfisser kodiċi uniku fornut\n*Dan l-Ordni ġie mħassar bl-Avviż Legali 256 tal-2024.\n\nTifsir.\nEmendat:\nA.L. 128 tal-2021.\n\n[ L.S. 465.52\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\nminn awtorità tas-saħħa pubblika mill-qasam tal-kura, użat\nsabiex tawtorizza persuna li ħariġlu riżultat pożittiv għall-vajrus\nCOVID-19 sabiex jittellaw il-kjavi ta’ esponiment temporanju\nmaħżuna fit-tagħmir tal-utent tiegħu lejn is-server ċentrali;\n\"kontrollur\" tfisser l-istess bħat-tifsira assenjata lilha firRegolament 2016/679/UE;\n\"kuntatt\" tfisser il-proċess fejn l-utenti jiġu nnotifikati\npermezz tal-applikazzjoni li t-tagħmir tal-utenti tagħhom kien\nqrib ta’ tagħmir tal-utenti ieħor ta’ persuna infettata bil-vajrus li\nta l-kunsens tiegħu għar-reġistrazzjoni volontarja tal-infezzjoni\ntiegħu fl-applikazzjoni;\n\"netwerk tas-servizzi tas-saħħa elettroniċi\" tfisser\nnetwerk volontarju mwaqqaf skont l-Artikolu 14 tad-Direttiva\n2011/24/UE tal-Parlament Ewropew u tal-Kunsill tad-9 ta’\nMarzu 2011 dwar l-applikazzjoni tad-drittijiet tal-pazjenti filqasam tal-kura tas-saħħa transkonfinali, u li tipprovdi\npjattaforma tal-awtoritajiet kompetenti tal-Istati Membri li\njittrattaw is-saħħa diġitali;\n\"pajjiż parteċipanti\" tfisser pajjiż awtorizzat minn\nnetwerk tas-servizzi tas-saħħa elettroniċi sabiex jipparteċipa fi\nskambju ta’ data transkonfinali bejn applikazzjonijiet nazzjonali\ntal-mowbajl ta’ traċċar ta’ kuntatti u ta’ twissija bbażati fuq idDeċiżjoni ta’ Implimentazzjoni tal-Kumissjoni (UE) 2020/1023\ntal-15 ta’ Lulju 2020 li temenda d-Deċiżjoni ta’\nImplimentazzjoni (UE) 2019/1765 fir-rigward tal-iskambju\ntransfruntier ta’ data bejn l-applikazzjonijiet nazzjonali għallapparati mobbli għat-traċċar tal-kuntatti u għat-twissija firrigward tal-ġlieda kontra l-pandemija tal-COVID-19;\n\"persuna li qiegħda ġġorr il-vajrus\" tfisser utenti li\nttestjaw pożittiv għall-vajrus tal-COVID-19 u li l-infezzjoni\ntagħhom ġiet ivverifikata skont l-artikolu 7;\n\"server ċentrali\" tfisser database ċentrali li lejha\ntikkomunika l-applikazzjoni u li taħżen il-kjavi ta’ esponiment\ntemporanju ta’ persuna li jġorr l-vajrus;\n\"Servizz Ewropew tal-Federation Gateway\" tfisser\nservizz provdut u mmaniġġjat minn netwerk tas-servizzi tassaħħa elettroniċi, li jaċċetta u jżomm temporanjament data\ndettaljata fis-subartikolu (1) tal-artikolu 10 u mtella’ minn\npajjiżi parteċipanti, sabiex jitniżżlu minn pajjiżi parteċipanti\noħra;\n\nKap. 465.\n\n\"Suprintendent\" tfisser l-istess bħat-tifsira assenjata lilha\nfl-Att dwar is-Saħħa Pubblika;\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\n\n[ L.S.465.52\n\n\"tagħmir tal-utent\" tfisser t-tagħmir li fih tkun installata\nl-applikazzjoni;\n\"traċċar tal-kuntatt\" tfisser il-metodoloġija għall-kontroll\ntal-mard li tipprova telenka l-utenti kollha li kienu f’kuntatt\nmill-qrib ma’ persuna infettata bil-vajrus COVID-19 sabiex jiġi\nvverifikat jekk dawn il-persuni humiex f’riskju ta’ infezzjoni u\njieħdu l-miżuri xierqa lejhom;\n\"utent\" tfisser persuna fil-pussess ta’ tagħmir għall-utenti\nli tkun niżżlet u qed tħaddem b’mod volontarju l-applikazzjoni\napprovata.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 120
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "approvata",
+      "content": "Il-kontrollur għall-finijiet ta’ dan l-ordni għandu jkun isSuprintendent.",
+      "metadata": {
+        "source_line_start": 121,
+        "source_line_end": 125
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kontrollur",
+      "content": "(1)\nL-ipproċessar tad-data permezz tal-applikazzjoni\ngħandu jkun neċessarju għar-raġuni ta’ interess pubbliku fit-taqsima\ntas-saħħa pubblika ibbażat fuq l-Artikoli 6(1)(e) u 9(2)(i) tarRegolament 2016/679/UE.\n\nBażi legali għallipproċessar taddata.\n\n(2)\nL-ebda data personali tal-utenti m’għandha tiġi\npproċessata ulterjorment mill-kontrollur għal skop li jmur lil hinn millambitu ta’ dan l-ordni.",
+      "metadata": {
+        "source_line_start": 126,
+        "source_line_end": 136
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Kontrollur",
+      "content": "(1)\nL-użu tal-applikazzjoni għandu jkun fuq bażi\nvolontarja u l-ebda persuna m’għandha tbati minn xi forma ta’\nżvantaġġ jew azzjoni diskriminatorja meta tirrifjuta jew għax ma\ntkunx kapaċi tuża l-applikazzjoni.\n\nBażi volontarja.\n\n(2)\nUtent għandu jkollu d-dritt li jeżerċita d-drittijiet talprotezzjoni tad-data tiegħu fuq kwalunkwe data personali li\ntikkonċernah ipproċessata mill-kontrollur. Fil-każ li l-kontrollur ikun\njista’ juri li mhuwiex f’pożizzjoni li jidentifika l-utent, il-kontrollur\ngħandu jinforma lis-suġġett tad-data dwar ir-restrizzjoni tad-drittijiet\nmogħtija lilu skont l-Artikoli 15 sa 20 tar-Regolament 2016/679/UE:\nIżda li, r-restrizzjonijiet hawn fuq imsemmija fuq iddrittijiet tas-suġġetti tad-data ma’ għandhomx japplikaw għad-data ta’\nutenti identifikabbli pproċessata mill-kontrollur wara testijiet\nimwettqa mill-awtoritajiet tas-saħħa pubblika.",
+      "metadata": {
+        "source_line_start": 137,
+        "source_line_end": 154
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "imwettqa mill-awtoritajiet tas-saħħa pubblika",
+      "content": "(1)\nMeta\nawtoritajiet\ntas-saħħa\npubblika\njiddijanjostikaw utent bħala persuna infettata bil-vajrus COVID-19,\ndak il-utent jista’ jirreġistra volontarjament din l-informazzjoni flapplikazzjoni permezz ta’ kodiċi ta’ awtorizzazzjoni.\n(2)\nMeta utent volontarjament jiddikjara li huwa infettat bilvajrus COVID-19 skont is-subartikolu (1), il-kjavi ta’ esponiment\ntemporanju imħażna fit-tagħmir tal-utent tiegħu għandhom jittellaw\nfis-server ċentrali.\n\nVerifika ta’\ninfezzjoni.\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\n\n[ L.S. 465.52\n\n(3)\nWara l-ipproċessar tad-data imsemmija fil-paragrafi (b) u\n(ċ) tas-subartikolu (1) tal-artikolu 10, tagħmir tal-utenti ieħor li kienu fi\nprossimità sinifikanti skont l-artikolu 9 għandhom jiġu notifikati\npermezz tal-applikazzjoni b’mod anonimu dwar il-kuntatt mat-tagħmir\ntal-utent tal-persuna li qiegħda ġġorr il-vajrus.\nIdentifikatur\npersonali rotanti.",
+      "metadata": {
+        "source_line_start": 155,
+        "source_line_end": 189
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "personali rotanti",
+      "content": "Identifikaturi personali rotanti ġġenerati minn proċessi\nkriptografiċi avvanzati għandhom jiġu mġedda regolarment u bi\nfrekwenza kompatibbli mal-iskop li tiġi mwaqqfa l-firxa tal-vajrus\nCOVID-19 u b’rata suffiċjenti sabiex jiġi limitat ir-riskju ta’\nidentifikazzjoni u ta’ traċċar fiżiku ta’ persuni.\n\nIl-parametri għaddurata talespożizzjoni.",
+      "metadata": {
+        "source_line_start": 190,
+        "source_line_end": 198
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Il-parametri għaddurata talespożizzjoni",
+      "content": "Il-parametri u speċifikazzjonijiet għad-durata talespożizzjoni u d-distanza bejn it-tagħmir tal-utenti għandhom jiġu\nstabbiliti mis-Suprintendent.\n\nData li għandha\ntiġi pproċessata.\nEmendat:\nA.L. 128 tal-2021.",
+      "metadata": {
+        "source_line_start": 199,
+        "source_line_end": 207
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "A.L. 128 tal-2021",
+      "content": "l-ordni:\n\n(1)\n\nId-data li ġejja għandha tiġi pproċessata skont dan\n\n(a)\n\nfit-tagħmir tal-utent:\n(i)\n\nidentifikaturi ta’ prossimità rotanti;\n\n(ii)\n\ntimbri ta’ ħin approssimattivi; u\n\n(iii) kjavi ta esponiment temporanji li jintużaw\nsabiex jiġġeneraw identifikaturi tal-prossimità rotanti; u\n(b) fejn utent jirreġistra b’mod volontarju infezzjoni\ntaħt l-artikolu 7:\n(i)\ninfezzjoni;\n\nil-kodiċi ta’ awtorizzazzjoni li jivverifika l-\n\n(ii)\nid-data li fiha dehru l-ewwel sintomi talvajrus COVID-19 jew fil-każ ta’ infezzjoni asintomatika\nd-data tat-test;\n(iii) il-perjodu taż-żmien li fih id-data għandha\ntiġi mħassra;\n(iv) il-livell ta’ riskju tat-trasmissjoni skont ilparametri u speċifikazzjonijiet skont l-artikolu 9;\n(v)\nil-kjavi ta’ esponiment temporanji ta’ utenti\ninfettati li kienu fis-seħħ matul il-perjodu li fih probabbli\nseħħet l-infezzjoni ta’ persuni oħra; u\n(vi) id-data li fiha il-kjavi ta’ esponiment\ntemporanji kollha ġew maħluqa; u\n(vii)\n\nlista tal-kodiċi tal-pajjiżi skont l-għażla tal-\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\n\n[ L.S.465.52\n\nutent; u\n(ċ)\n\nfejn ikun hemm kuntatt bejn it-tagħmir tal-utenti:\n\n(i)\nl-identifikaturi tal-prossimità rotanti li\njkunu mxandra minn tagħmir għall-ieħor. Ma hemm lebda rabta diretta li tidentifika l-utenti tat-tagħmir lieħor;\n\n(d)\n\n(ii)\n\nil-prossimità bejn it-tagħmir tal-utenti;\n\n(iii)\n\nperjodu approssimattiv tal-ħin; u\n\n(iv)\n\nit-tul stmat tal-prossimità.\n\nfis-Servizz Ewropew tal-Federation Gateway:\n\n(i)\nIl-kjavi ta’ esponiment temporanju, kull\nkjava flimkien mad-data tal-kjava u l-lista ta’ pajjiżi ta’\ninteress inkluż il-pajjiż ta’ oriġini, tal-utenti infettati li\njkunu wettqu verifika ta’ infezzjoni pożittiva u liema\nkjavi intbagħtu mill-applikazzjonijiet nazzjonali talmowbajl ta’ traċċar ta’ kuntatti u ta’ twissija tal-utenti\ninfettati u fejn id-data ta’ kull kjava hija erbatax (14)-il\njum jew inqas mid-data ta’ infettività tal-utenti\nddeterminata mill-awtorità nazzjonali tas-saħħa tal-utent;\n(2)\nId-data msemmija fil-paragrafi (a), (b) u (ċ) tassubartikolu (1) għandha titħassar b’mod permaneti wara li jgħaddu\nerbatax (14)-il jum mid-data meta tali data tinqabad u tittella’, skont\nkif ikun il-każ, u d-data msemmija fil-paragrafu (d) tas-subartikolu\n(1) għandha titħassar b’mod permanenti wara li jgħaddu sebat (7)\nijiem mid-data meta tali data tittella’ fis-Servizz Ewropew talFederation Gateway:\nIżda d-data miżmuma fis-server ċentali msemmija filparagrafu (b) u d-data miżmuma fuq is-Servizz Ewropew talFederation Gateway msemmija fil-paragrafu (d) tas-subartikolu (1)\ngħandha tinżamm għal sebat (7) ijiem oħra għall-iskop ta’ riserva.",
+      "metadata": {
+        "source_line_start": 208,
+        "source_line_end": 300
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "għandha tinżamm għal sebat (7) ijiem oħra għall-iskop ta’ riserva",
+      "content": "(1)\nIs-Suprintendent għandu jiżgura li l-miżuri ta’\nsigurtà organizzattivi, fiżiċi, loġiċi u tekniċi kollha jiġu implimentati\nsabiex jipproteġu d-data tal-utenti.\n(2)\nL-applikazzjoni għandha, bid-disinn u b’mod\nawtomatiku, tiġi implimentata bl-użu ta’ sistema ta’ softwer ta’\nrintraċċar tal-prossimità kompletament deċentralizzata li tippreserva lprivatezza u m’għandhiex tipproċessa data dwar il-post jew tuża\nservizzi ta’ ġeolokalizzazzjoni.\n(3)\n\nIs-Suprintendent għandu jaħtar entità sabiex tipprovdi l-\n\nMiżuri ta’ sigurtà.\n\n[ L.S. 465.52\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\n\nappoġġ tekniku meħtieġ għall-ġestjoni tas-sigurtà tal-applikazzjoni.\n(4)\nIs-Suprintendent għandu jiżgura li l-persuni kollha li jiġu\nmogħtija aċċess għad-data miġbura skont dan l-ordni jkunu suġġetti\ngħal ftehim ta’ kunfidenzjalità.\nInteroperabbiltà.\nSostitwit:\nA.L. 128 tal-2021.",
+      "metadata": {
+        "source_line_start": 301,
+        "source_line_end": 333
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "A.L. 128 tal-2021",
+      "content": "(1) L-applikazzjoni u kwalunkwe data pproċessata fiha\nhuma mfassla biex jappoġġaw l-interoperabbiltà transkonfinali filpajjiżi parteċipanti fis-Servizz Ewropew tal-Federation Gateway.\n(2)\nInformazzjoni fis-Servizz Ewropew tal-Federation\nGateway għandha tiġi pproċessata biss għal skopijiet relatati malpromozzjoni tal-interoperabbiltà bejn applikazzjonijiet nazzjonali talmowbajl ta’ traċċar ta’ kuntatti u ta’ twissija ta’ pajjiżi parteċipanti\ngħall-pandemija tal-COVID-19 u l-kontinwità ta’ traċċar ta’ kuntatti\ntranskonfinali.\n\nDikummissjonar\ntal-applikazzjoni.",
+      "metadata": {
+        "source_line_start": 334,
+        "source_line_end": 344
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "tal-applikazzjoni",
+      "content": "Kull meta, wara li jkunu ġew eżaminati ċ-ċirkostanzi\nmadwar il-vajrus COVID-19, is-Suprintendent iqis li l-użu talapplikazzjoni ma għadux meħtieġ, is-Suprintendent għandu:\n(a)\n(b)\nl-ordni;\n\njiddikummissjona l-applikazzjoni;\njieqaf milli jipproċessa kwalunkwe data skont dan\n\n(ċ)\niħassar b’ mod permanenti kull data li tkun\nmaħżuna fuq is-server ċentrali; u\n(d)\njippubblika\napplikazzjoni.\n\nl-istruzzjonijiet\n\ngħat-tneħħija\n\ntal-\n\nAPPLIKAZZJONI TAL-MOWBAJL TA’ TRAĊĊAR TA’\n\n[ L.S.465.52",
+      "metadata": {
+        "source_line_start": 345,
+        "source_line_end": 377
+      }
+    }
+  ],
+  "definitions": []
+}

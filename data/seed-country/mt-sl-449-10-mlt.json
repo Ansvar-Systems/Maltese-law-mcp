@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-449-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Bejgħ ta’ Ħalib Pastorizzat",
+  "title_en": "Regolamenti dwar il-Bejgħ ta’ Ħalib Pastorizzat",
+  "short_name": "eli/sl/449.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.10/mlt, expression eli/sl/449.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 148 ta’ l-1977",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilBejg] ta’ }alib Pastorizzat.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, \"tbieg]\" tinkludi toffri, turi,\ntirreklama jew i\\\\omm g]all-bejg] u tag]ti b]ala kumpens jew\nxort’o]ra.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ebda persuna ma tista’ tbieg] g]all-konsum mill-bniedem\nxi ]alib nej ]lief lill-Manager tal-Malta Dairy Products.\n\nLimitazzjoni ta’\nbejg] ta’ ]alib nej.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Bla ]sara g]ad-disposizzjoni tar-regolament 3, ebda\npersuna ma tista’ tbieg] xi ]alib barra minn ]alib pastorizzat:\n\nBejg] ta’ ]alib\njitqies li hu\npastorizzat.\n\nI\\da din il-projbizzjoni m’g]andhiex tapplika g]all-bejg]\nta’ ]alib pri\\ervat f’re`ipjenti si[illati u li jkollhom tikketta xierqa.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tifsir",
+      "content": "G]all-finijiet ta’ pastorizzazzjoni, il-]alib jitqies li [ie\nhekk trattat meta jkun [ie msa]]an -\n\nMeta l-]alib jitqies\nli hu pastorizzat.\n\n(a) g]al temperatura ta’ mhux inqas minn 71.7º ta’ lIskala Celsius (161º F) u mi\\mum f’dik it-temperatura\ng]al ]in ta’ mhux inqas minn ]mistax-il sekonda u\nwara mkessa] g]al temperatura ta’ mhux i\\jed minn\n10 gradi ta’ l-Iskala Celsius (50º F) minnufih wara ttrattament tas-s]ana; jew\n(b) g]al temperatura ta’ mhux inqas minn 62.8º ta’ lIskala Celsius (145º F) u mi\\mum f’dik it-temperatura\ng]al ]in ta’ mhux inqas minn tletin minuta, u wara\nmkessa] g]al temperatura ta’ mhux i\\jed minn 10º ta’\nl-Iskala Celsius (50º F) minnufih wara t-trattament tass]ana u li ma jkunx [ie hekk trattat iktar minn darba.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "mkessa] g]al temperatura ta’ mhux i\\jed minn 10º ta’",
+      "content": "Ebda ]a[a f’dawn ir-regolamenti ma tapplika g]al ]alib ta’\nl-ovini.\n\nRegolamenti ma\njapplikawx.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 65
+      }
+    }
+  ],
+  "definitions": []
+}

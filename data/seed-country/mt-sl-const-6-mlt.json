@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-const-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati",
+  "title_en": "Regolamenti dwar l-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati",
+  "short_name": "eli/sl/const.6/mlt",
+  "status": "in_force",
+  "issued_date": "2017-11-27",
+  "in_force_date": "2017-11-27",
+  "url": "https://legislation.mt/eli/sl/const.6/20171127/mlt",
+  "description": "Official text from legislation.mt (eli/sl/const.6/mlt, expression eli/sl/const.6/20171127/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 329 tal-2017",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nl-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Meta l-Kummissjoni għall-Amministrazzjoni talĠustizzja tagħmel sejħa għall-elezzjonijiet ta’ membri tal-Kumitat\ngħall-Imħallfin u l-Maġistrati mwaqqaf bl-artikolu 101B talKostituzzjoni ta’ Malta, il-Prim Imħallef għandu fiż-żmien utli hemm\nimsemmi, isejjaħ il-laqgħat neċessarji tal-Imħallfin u l-Maġistrati\nsabiex, separatament, isiru l-elezzjonijiet meħtieġa.\n\nIl-Prim Imħallef\nisejjaħ il-laqgħat\ntal-Imħallfin u\nMaġistrati.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-elezzjoni ta’ żewġ imħallfin tal-Qrati Superjuri\ngħandha titmexxa kif ġej:\n\nElezzjoni millImħallfin tal-Qrati\nSuperjuri.\n\n(a)\nil-Prim Imħallef u l-Imħallfin li jkunu membri\ntal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja ma\njkunux eliġibbli biex ikunu kandidati;\n(b)\nil-Prim Imħallef u kull Imħallef ikollhom vot\nkull wieħed;\n(ċ)\nil-Prim Imħallef u kull Imħallef jistgħu jivvutaw\nbiss għal kandidat wieħed;\n(d)\niż-żewġ kandidati li jġibu l-ogħla għadd ta’ voti\ngħandhom, diment li kull wieħed minnhom ikun irċieva millinqas terz u wieħed tal-voti validi kollha mitfugħa, ikunu\ndikjarati eletti membri tal-Kumitat. Jekk wieħed biss millimsemmija żewg kandidati jkun ġab terż u wieħed tal-voti\nvalidi mitfugħa ikun dak il-kandidat biss li jiġi dikjarat elett;\n(e) fil-każ li s-sehem ta’ terz u wieħed tal-voti validi\nmitfugħa ma jkunx intleħaq miż-żewġ kandidati li jkunu ġabu\nl-ogħla numru ta’ voti jew minn xi wieħed minnhom lelezzjoni dwar kull vakanza mhux mimlija fuq il-Kumitat\ngħall-Imħallfin u l-Maġistrati ssir mill-ġdid bejn il-kandidati\nkollha li ma jkunux ġew eletti u l-ħtieġa li jinġieb mill-inqas\nterz u wieħed tal-voti validi mitfugħa ma tkunx tapplika dwar\ndik l-elezzjoni.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "dik l-elezzjoni",
+      "content": "Jekk sa mill-bidu jiġu nominati żewġ kandidati biss,\ndawn għandhom jitqiesu li ġew eletti membri tal-Kumitat għall-\n\nMeta jiġu nominati\nżewġ kandidati\nbiss.\n\n[ L.S.KOST.06\n\nELEZZJONI TA’ MEMBRI TAL-KUMITAT\nGĦALL-IMĦALLFIN U L-MAĠISTRATI\n\nImħallfin u l-Maġistrati.\nIl-Prim Imħallef\nimexxi l-laqgħa u\nl-elezzjoni.",
+      "metadata": {
+        "source_line_start": 61,
+        "source_line_end": 81
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "l-elezzjoni",
+      "content": "Il-laqgħa u l-elezzjoni jitmexxew mill-Prim Imħallef u lgħadd tal-voti jsir minnu, assistit minn wieħed mill-Imħallfin, fillaqgħa u fil-preżenza ta’ l-Imħallfin.\n\nElezzjoni millMagistrati tal-Qrati\nInferjuri.",
+      "metadata": {
+        "source_line_start": 82,
+        "source_line_end": 87
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Inferjuri",
+      "content": "L-istess regoli hawn imsemmija għandhom japplikaw,\nmutatis mutandis għall-elezzjoni taż-żewġ maġistrati, b’dan illi, f’din\nil-laqgħa, il-Prim Imħallef, li jippresedi u jmexxi l-votazzjoni, ma\njkollux id-dritt tal-vot.",
+      "metadata": {
+        "source_line_start": 88,
+        "source_line_end": 95
+      }
+    }
+  ],
+  "definitions": []
+}

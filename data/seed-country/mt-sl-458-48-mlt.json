@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-48-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Proċeduri Speċjali (Penalitajiet fl-Att dwar il-Mediċini)",
+  "title_en": "Regolamenti dwar Proċeduri Speċjali (Penalitajiet fl-Att dwar il-Mediċini)",
+  "short_name": "eli/sl/458.48/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.48/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.48/mlt, expression eli/sl/458.48/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 264 ta’ l-2006, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nPro`eduri Spe`jali (Penalitajiet fl-Att dwar il-Medi`ini).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Awtorità dwar il-Li`enzjar tista’ titlob dawn ilpenalitajiet li [ejjin g]all-ksur ta’ xi wie]ed minn dawn l-artikoli li\n[ejjin ta’ l-Att dwar il-Medi`ini:\n\nPenalitajiet.\nEmendat:\nA.L. 427 ta’ l2007.\nKap. 458.\n\n(a)\n(b)\n(`)\n(d)\n(e)\n(f)\n\nl-artikoli 20, 24, 28, 37, 39, 41 u 43 .........\nl-artikoli 54, 56, 58 u 61 ..........................\nl-artikoli 44, 45, 66(1), 71, 75(3), 75(4),\n76(1), 81(1), 91 u 98 ...............................\nl-artikoli 59, 60, 65, 74(b), 75(1), 75(2),\n84, 93, 94(1) u 96 ....................................\nl-artikoli 31, 78, 85(1), 85(2) u 94(2) .......\nl-artikoli 73(1) u 94(3) ............................\n\n€23,293.73\n€11,646.87\n€9,317.49\n€6,988.12\n€4,658.75\n€2,329.37",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 53
+      }
+    }
+  ],
+  "definitions": []
+}

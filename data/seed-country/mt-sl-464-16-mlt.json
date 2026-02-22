@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-464-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Professjonijiet Komplimentari għall-Mediċina",
+  "title_en": "Regolamenti dwar Professjonijiet Komplimentari għall-Mediċina",
+  "short_name": "eli/sl/464.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2009-01-01",
+  "url": "https://legislation.mt/eli/sl/464.16/20220819/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.16/mlt, expression eli/sl/464.16/20220819/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 277 ta’ l-2008, kif emendat bl-Avviż Legali 219 tal2022",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nProfessjonijiet Komplimentari għall-Mediċina.\n\nTitolu.\nEmendat:\nA.L. 219 tal-2022.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra -\n\nTifsir.\nEmendat:\nA.L. 219 tal-2022.\n\n\"l-Att\" tfisser l-Att dwar il-Professjonijiet tas-Saħħa;\n\nKap. 464.\n\n\"il-Kunsill\" tfisser il-Kunsill tal-Professjonijiet Komplimentari\ngħall-Mediċina, imwaqqaf taħt l-artikolu 26 ta’ l-Att;",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-liċenza għandha tingħata mill-President ta’ Malta lil dawk\nil-persuni li jkollhom isimhom imniżżel f’xi wieħed mir-reġistri li\njkollu l-Kunsill u bir-rakkomandazzjoni tal-Kunsill.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Imħassrin bl-Avviż Legali 219 tal-2022.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tifsir",
+      "content": "Dawk il-persuni li tkun inħarġitilhom liċenza, jew li jkunu\nġew reġistrati biex tinħarġilhom liċenza taħt dawn ir-regolamenti,\nikollhom id-dmir li jikkonformaw ruħhom mal-kondizzjonijiet u li\njissodisfaw il-ħtiġiet stipulati fil-Kodiċi ta’ Prattika tal-professjoni\nrispettiva tagħhom.\n\nGħoti ta’ liċenza.\n\nKondizzjonijiet talliċenza.\nKodiċi ta’ prattika.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

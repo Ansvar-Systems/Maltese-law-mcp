@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-49-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti Merkantili (Investigazzjoni dwar Accident and Incident Safety)",
+  "title_en": "Regolamenti dwar Bastimenti Merkantili (Investigazzjoni dwar Accident and Incident Safety)",
+  "short_name": "eli/sl/234.49/mlt",
+  "status": "in_force",
+  "issued_date": "2011-07-29",
+  "in_force_date": "2011-07-29",
+  "url": "https://legislation.mt/eli/sl/234.49/20110729/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.49/mlt, expression eli/sl/234.49/20110729/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI MERKANTILI (INVESTIGAZZJONI\nDWAR ACCIDENT AND INCIDENT SAFETY)\n\n[L.S.234.49\n\nLE{ISLAZZJONI SUSSIDJARJA 234.49\nREGOLAMENTI DWAR BASTIMENTI\nMERKANTILI (INVESTIGAZZJONI DWAR\nACCIDENT AND INCIDENT SAFETY)*\n12 ta’ Lulju, 2011\nL-AVVI| LEGALI 275 tal-2011.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

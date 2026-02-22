@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-436-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Protokolli dwar il-Produzzjoni ta' Nbejjed IĠT",
+  "title_en": "Regolamenti dwar Protokolli dwar il-Produzzjoni ta' Nbejjed IĠT",
+  "short_name": "eli/sl/436.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/436.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/436.6/mlt, expression eli/sl/436.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PROTOKOLLI DWAR IL-PRODUZZJONI TA’ NBEJJED I{T [L.S.436.06\n\nLE{ISLAZZJONI SUSSIDJARJA 436.06\nREGOLAMENTI DWAR PROTOKOLLI\nDWAR IL-PRODUZZJONI TA’ NBEJJED I{T*\n1 ta’ Mejju, 2007\nL-AVVI| LEGALI 167 ta’ l-2007.\n\n*Dawn ir-regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

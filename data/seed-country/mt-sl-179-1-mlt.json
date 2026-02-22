@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-179-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Talbiet dwar il-Proprjetà amministrata bħala Proprjetà ta' l-Għadu",
+  "title_en": "Regolamenti dwar Talbiet dwar il-Proprjetà amministrata bħala Proprjetà ta' l-Għadu",
+  "short_name": "eli/sl/179.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/179.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/179.1/mlt, expression eli/sl/179.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-Avvi\\ Legali 360 ta’ l-2002, kif emendat bl-Avvi\\ Legali 410 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nTalbiet dwar il-Proprjetà amministrata b]ala Proprjetà ta’ l-G]adu.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Talbiet dwar il-Proprjetà amministrata b]ala Proprjetà ta’ l-G]adu",
+      "content": "F’dawn ir-regolamenti -\n\n\"Att\" tfisser l-Att dwar il-Proprjetà ta’ l-G]adu;\n\nTitolu.\nTifsir.\nKap. 179.\n\n\"Bord\" tfisser il-bord imwaqqaf skond ma hemm fl-artikolu 4 ta’\nl-Att;\n\"Kustodju\" tfisser il-Kustodju tal-Proprjetà ta’ l-G]adu imsemmi\nfl-artikolu 2 ta’ l-Att;\n\"proprjetà\" tfisser, kemm-il darba ma jkunx indikat xort’o]ra,\nkemm proprjetà mobbli kemm immobbli amministrata millKustodju.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Persuna, li tippretendi li tkun persuna li jkollha jedd\nta]t l-artikolu 4 ta’ l-Att, g]andha t]allas dritt ta’ mitejn u tnejn u\ntletin euro u erbg]a u disg]in `ente\\mu (€232.94) meta tkun qed\ntag]mel it-talba tag]ha lill-Kustodju.\n(2) Il-Kustodju g]andu jirreferi kull talba li huwa jir`ievi lillBord, kemm jista’ jkun malajr wara l-1 ta’ Jannar, 2003, u l-Bord\ng]andu ji\\gura li, qabel ir-rilaxx tal-proprjetà skond ma hemm flAtt, il-Kustodju ji[bor lura l-ispejje\\ attwali kollha li jkunu saru\nmatul l-amministrazzjoni, u b’\\ieda ma’ dan, meta l-proprjetà tkun\nimmobbli, jkun dovut dritt ta’ amministrazzjoni ta’ ]amsa fil-mija\nli ji[i kkalkolat fuq il-valur korrenti tal-proprjetà hekk rilaxxata.\n\nTalbiet.\nEmendat:\nA.L. 410 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

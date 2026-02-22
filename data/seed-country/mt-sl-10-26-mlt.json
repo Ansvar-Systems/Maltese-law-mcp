@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-10-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Għawm tal-AnnimaliImħassrin bl-Avviż Legali 25 tal-2008",
+  "title_en": "Regolamenti dwar l-Għawm tal-AnnimaliImħassrin bl-Avviż Legali 25 tal-2008",
+  "short_name": "eli/sl/10.26/mlt",
+  "status": "in_force",
+  "issued_date": "2011-02-11",
+  "in_force_date": "2011-02-11",
+  "url": "https://legislation.mt/eli/sl/10.26/20110211/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.26/mlt, expression eli/sl/10.26/20110211/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S.10.26\n\nG Ħ AW M TA L - A N N I M A L I\n\nLEĀISLAZZJONI SUSSIDJARJA 10.26\nREGOLAMENTI DWAR L-GĦAWM TAL-ANNIMALI\n5 ta’Awwissu, 1960\nL-AVVIś LEGALI 31 tal-1960, kif emendat bl-AvviŜi Legali 90 tal-1975,\n45 tal-1977 u 2 tal-1993.\n\nRevokati bl-AvviŜ Legali 125 tal-2008.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

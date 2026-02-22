@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-18-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Konvenzjoni dwar il-Ħarsien mill-Periklu",
+  "title_en": "Ordni dwar il-Konvenzjoni dwar il-Ħarsien mill-Periklu",
+  "short_name": "eli/sl/234.18/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.18/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.18/mlt, expression eli/sl/234.18/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONVENZJONI DWAR IL-}ARSIEN MILL-PERIKLU\n\n[L.S.234.18\n\nLE{ISLAZZJONI SUSSIDJARJA 234.18\nORDNI DWAR IL-KONVENZJONI DWAR\nIL-}ARSIEN MILL-PERIKLU*\n\n7 ta’ Novembru, 1986\n\nL-AVVI| LEGALI 63 ta’ l-1986.\n\n*Dan l-Ordni [ie pubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

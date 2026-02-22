@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-47-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti Merkantili (Prevenzjoni mit-Tniġġiż bid-Drenaġġ)",
+  "title_en": "Regolamenti dwar Bastimenti Merkantili (Prevenzjoni mit-Tniġġiż bid-Drenaġġ)",
+  "short_name": "eli/sl/234.47/mlt",
+  "status": "in_force",
+  "issued_date": "2011-05-18",
+  "in_force_date": "2011-05-18",
+  "url": "https://legislation.mt/eli/sl/234.47/20110518/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.47/mlt, expression eli/sl/234.47/20110518/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI MERKANTILI\n(PREVENZJONI MIT-TNI{{I| BID-DRENA{{)\n\n[L.S.234.47\n\nLE{ISLAZZJONI SUSSIDJARJA 234.47\nREGOLAMENTI DWAR BASTIMENTI\nMERKANTILI (PREVENZJONI\nMIT-TNI{{I| BID-DRENAGG)*\n30 ta’ {unju, 2011\nL-AVVI| LEGALI 176 tal-2011.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

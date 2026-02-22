@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-384-mlt",
+  "type": "statute",
+  "title": "Att dwar Self Lokali",
+  "title_en": "Att dwar Self Lokali",
+  "short_name": "Kap. 384",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1995-06-13",
+  "url": "https://legislation.mt/eli/cap/384/19950613/mlt",
+  "description": "Official text from legislation.mt (eli/cap/384/mlt, expression eli/cap/384/19950613/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XVIII tal-1995 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar Self Lokali.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Dan l-Att jista’ jissejjaħ l-Att dwar Self Lokali",
+      "content": "(1) Bla ħsara għad-disposizzjonijiet ta’ dan l-Att, il-Gvern\nta’ Malta jista’ jiġbor b’self f ’Malta s-somma li ma tkunx iżjed\nminn tnejn u tletin miljun u ħames mitt elf lira Maltija.\n(2) Sabiex jinġabar is-self kif intqal qabel, il-Ministru\nresponsabbli għall-finanzi huwa b’dan awtorizzat li joħroġ stock\nf ’Malta skont l-Ordinanza dwar Self Lokali (Stock u Titoli\nReġistrati); u s-self magħmul skont id-disposizzjonijiet ta’ dan lartikolu għandu jsir skont dawk it-termini u kundizzjonijiet li limsemmi Ministru jista’ japprova.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "f ’Malta skont l-Ordinanza dwar Self Lokali (Stock u Titoli",
+      "content": "Kull somma mislufa taħt l-awtorità ta’ dan l-Att għandha\ntiġi approprjata u wżata biex tagħmel tajjeb għad-deficit fil-Fond\nKonsolidat minħabba l-ispiża li saret matul is-sena 1994.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 385 tat-13 ta’ Ġunju, 1995.\n\nTitolu fil-qosor.\nSetgħa għall-ġbir\nta’ self.\n\nKap. 161.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

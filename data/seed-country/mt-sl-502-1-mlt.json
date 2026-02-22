@@ -1,0 +1,95 @@
+{
+  "id": "mt-sl-502-1-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment",
+  "short_name": "eli/sl/502.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-17",
+  "in_force_date": "2011-08-17",
+  "url": "https://legislation.mt/eli/sl/502.1/20110817/mlt",
+  "description": "Official text from legislation.mt (eli/sl/502.1/mlt, expression eli/sl/502.1/20110817/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 361 tal-2010",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Ministru talFinanzi, l-Ekonomija u Investiment g]all-}ru[ ta’ Euro 30,000,000\nStock tal-Gvern ta’ Malta.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jin]are[ ammont ta’ Euro 30,000,000 Stock talGvern ta’ Malta 2013 (VI) b’Rata ta’ Mg]ax li Tvarja marbuta malEuribor tas-sitt xhur.\n\n}ru[ ta’ Stock.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-]ru[ ta’ Stocks ser isir kif stipulat fil-prospett.\n\nMod tal-]ru[ ta’\nStock.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Stock",
+      "content": "Kull persuna u, jew enti jistg]u japplikaw g]al dan liStock. It-tqassim tal-iStock isir kif hemm spjegat fil-prospett.\n\nPolicy dwar lallokazzjoni ta’\nStock.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Stock",
+      "content": "Ta]t id-disposizzjonijiet tal-Att dwar is-Swieq Finanzjarji,\nmeta dan l-iStock ji[i allokat, g]andha ssir applikazzjoni sabiex liStock jitqieg]ed fuq il-lista uffi`jali u biex ikun negozjat fil-Bor\\a\nta’ Malta.\n\nNegozju fil-Bor\\a\nta’ Malta.\nKap. 345.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "Is-somma ta’ flus li g]andha tin[abar bl-iStock imsemmi\ntkun ta’ Euro 30,000,000.\n\nSomma ta’ flus li\ng]andha tin[abar.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 55
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Stock",
+      "content": "L-img]ax jit]allas bir-Rata ta’ Mg]ax li Tvarja kull sitt\nxhur marbuta mal-Euribor tas-sitt xhur fis-se]] fid-data meta ti[i\nm]abbra flimkien ma’ \"spread\" fissa ta’ 45bps u ma]duma fuq Day\nCount Fraction \"(Actual/360)\" g]al kull Euro 100. Tali spread ta’\n45 basis points (bps) hija fissa u applikabbli g]al tul il-]ajja taliStock. L-img]ax jit]allas kull sitt xhur b’lura fl-11 ta’ Frar u fil-11\nta’ Awwissu ta’ kull sena sakemm idum l-iStock. L-ewwel ]las\ng]all-perjodu bejn il-11 ta’ Awwissu, 2010 u l-10 ta’ Frar, 2011 (i\\\\ew[ dati inklu\\i) isir fil-11 ta’ Frar, 2011.\n\nRata ta’ mg]ax u\ndati tal-]las.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "dati tal-]las",
+      "content": "Stock tal-Gvern ta’ Malta 2013 (VI) b’Rata ta’ Mg]ax li\nTvarja marbuta mal-Euribor tas-sitt xhur ji[i mifdi b’parità fil-11\nta’ Awwissu, 2013.\n\nFidwa ta’ Stock.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 76
+      }
+    }
+  ],
+  "definitions": []
+}

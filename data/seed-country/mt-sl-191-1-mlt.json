@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-191-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Applikazzjoni tat-Taqsima III ta l-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi",
+  "title_en": "Ordni dwar l-Applikazzjoni tat-Taqsima III ta l-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi",
+  "short_name": "eli/sl/191.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/191.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/191.1/mlt, expression eli/sl/191.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 67 ta’ l-1966, kif emendat bl-Avvi\\ Legali 79 ta’ l2005",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Applikazzjoni tatTa q s i m a I I I t a ’ l - A t t d w a r l - I m m u n i t a j i e t u l - P r i v i l e [ [ i\nDiplomati`i.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-organizzazzjonijiet murija fl-Iskeda (hawnhekk i\\jed ’il\nquddiem imsej]a \"l-organizzazzjonijiet\") huma organizzazzjonijiet\nli Malta jew l-Gvern tag]ha u stat wie]ed ie]or jew i\\jed jew ilgvern jew il-gvernijiet tag]hom huma membri.\n\nLista ta’\norganizzazzjonijiet.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-organizzazzjonijiet g]andhom igawdu l-immunitajiet u lprivile[[i murija fit-Taqsima I tat-Tieni Skeda li tinsab ma’ l-Att\ndwar l-Immunitajiet u l-Privile[[i Diplomati`i u g]andu jkollhom\nl-kapa`itajiet legali ta’ persuna [uridika.\n\nImmunitajiet,\nprivile[[i u\npersonalità\n[uridika.\nKap. 191.\n\nArtikolu 2\nL-Organizzazzjoni tan-Nazzjonijiet Uniti\nL-Organizzazzjoni Internazzjonali tax-Xog]ol\nIl-Kumitat Inter-Governamentali g]all-Emigrazzjoni Ewropea\nL-Organizzazzjoni tan-Nazzjonijiet Uniti dwar l-Ikel u lAgrikoltura\nL-Organizzazzjoni Edukattiva, Xjentifika u Kulturali tanNazzjonijiet Uniti\nL-Organizzazzjoni Mondjali dwar is-Sa]]a\nL-Organizzazzjoni dwar l-Avjazzjoni ~ivili Internazzjonali\nL-Union dwar it-Telekomunikazzjonijiet Internazzjonali\nL-Union Postali Universali\nIl-Kunsill ta’ l-Ewropa\nL-Organizzazzjoni Konsultattiva Marittima InterGovernamentali\nIl-Ftehim {enerali dwar it-Tariffi u l-Kummer`\nIs-Segretarjat tal-Commonwealth\nL-Organizzazzjoni g]all-Projbizzjoni ta’ l-Armi Kimi`i",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

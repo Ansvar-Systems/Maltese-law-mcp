@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-464-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kunsill Mediku",
+  "title_en": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kunsill Mediku",
+  "short_name": "eli/sl/464.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/464.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.11/mlt, expression eli/sl/464.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "22 ta’ Di`embru, 2006",
+      "content": "It-titolu ta’ dawn r-regolamenti huwa Regolamenti dwar il{bir ta’ Drittijiet mill-Kunsill Mediku.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andhom jit]allsu lill-Kunsill Mediku dawn id-drittijiet li\n[ejjin:\n\nDrittijiet li\ng]andhom\njit]allsu.\nEmendat:\nA.L. 427 tal-2007;\nXIII. 2015.170..\n\n(a) g]al kull re[istrazzjoni [dida firRe[istri\nMedi`i:\nf’dak\nMediku,\nDentisti, Spe`jalisti u Provisional ........\n(b) b]ala retention fee kull sena firRe[istru Mediku jew Re[istru g]adDentisti ...............................................\n(`) b]ala retention fee kull sena f’kull\nwie]ed mir-Re[istri ta’ Spe`jalisti .......\n(d) g]al kull `ertifikat mitlub minn tabib\njew dentist ...........................................\n(e) g]al e\\ami s]i] jew parti minnu kif\nikun hekk ordnat ..................................\n\n€51.30\n€38.50\n€51.30\n€12.90\n€1,218.20",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

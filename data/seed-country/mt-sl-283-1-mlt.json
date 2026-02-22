@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-283-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Eżenzjoni ta' Ġarr ta' Merkanzija bil-Baħar",
+  "title_en": "Regolamenti dwar Eżenzjoni ta' Ġarr ta' Merkanzija bil-Baħar",
+  "short_name": "eli/sl/283.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/283.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/283.1/mlt, expression eli/sl/283.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 80 ta’ l-1980",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nE\\enzjoni ta’ {arr ta’ Merkanzija bil-Ba]ar.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "E\\enzjoni ta’ {arr ta’ Merkanzija bil-Ba]ar",
+      "content": "Id-disposizzjonijiet ta’ l-Att li Jirregola\nMerkanzija bil-Ba]ar ma g]andhomx japplikaw g]al:\nmerkanzija sfu\\a;\n\nl-{arr\n\nta’\n\nmerkanzija \\barkata f’Malta biex tintbag]at jew biex\nti[i trasportata g]al pajji\\ ie]or;\nannimali ]ajjin;\n\n]ut minn bastimenti tas-sajd.\n\nTitolu.\nE\\enzjoni.\nKap. 283.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

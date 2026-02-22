@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-230-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Ħin tas-Sajf ta' Malta",
+  "title_en": "Att dwar il-Ħin tas-Sajf ta' Malta",
+  "short_name": "Kap. 230",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1972-06-07",
+  "url": "https://legislation.mt/eli/cap/230/19720607/mlt",
+  "description": "Official text from legislation.mt (eli/cap/230/mlt, expression eli/cap/230/19720607/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XX tal-1972",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar il-Ħin tas-Sajf ta’\nMalta.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx\nxort’oħra -\n\nTifsir.\n\n\"Malta\" għandha l-istess tifsir kif mogħti lilha fl-artikolu 124 talKostituzzjoni ta’ Malta;\n\"ordni taħt dan l-Att\" tfisser ordni magħmul mill-Prim Ministru\ngħal kull fini ta’ dan l-Att u pubblikat fil-Gazzetta tal-Gvern;\n\"iż-żmien tas-sajf \" dwar kull sena tfisser dak iż-żmien li jiġi\nspeċifikat dwar dik is-sena f’ordni taħt dan l-Att.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) F’kull sena li għaliha jirreferi ordni taħt dan l-Att, ilħin għall-finijiet ġenerali f’Malta għandu, matul iż-żmien tas-sajf,\nikun sagħtejn ’il quddiem mill-ħin medju ta’ Greenwich.\n(2) Kull meta f’xi liġi, ordni, regolament, regola, bye-law, att,\navviż, jew dokument ieħor ikun liema jkun, tinsab riferenza għal\nħin partikolari, il-ħin li għalih issir riferenza għandu, matul iżżmien tas-sajf, jitqies li huwa l-ħin stabbilit għall-finijiet ġenerali\nb’dan l-Att.\n(3) Ebda ħaġa f’dan l-Att ma tbiddel l-użu ta’ ħin differenti\ngħal finijiet ta’ astronomija, metjoroloġija, navigazzjoni jew għal\nfinijiet oħra li għalihom skont prattika internazzjonali jintuża ħin\ndifferenti, jew l-interpretazzjoni ta’ xi dokument li jagħmel\nriferenza għal ħin partikolari għal dak li għandu x’jaqsam ma’ xi\nwieħed minn dawk il-finijiet.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 415 tas-7 ta’ Ġunju, 1972.\n\nIl-ħin jiġi mmexxi\n’l quddiem f’xi\nżmienijiet.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

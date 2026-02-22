@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-135-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Tlajjar f'Toroq Speċifikati f'Ta Xbiex (Kunsill Lokali ta' Xbiex)",
+  "title_en": "Bye-Laws dwar Tlajjar f'Toroq Speċifikati f'Ta Xbiex (Kunsill Lokali ta' Xbiex)",
+  "short_name": "eli/sl/363.135/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.135/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.135/mlt, expression eli/sl/363.135/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "425 tal-2007",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar Tlajjar\nf’Toroq Spe`ifikati f’Ta’ Xbiex (Kunsill Lokali Ta’ Xbiex).",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "f’Toroq Spe`ifikati f’Ta’ Xbiex (Kunsill Lokali Ta’ Xbiex)",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra ''l-Att'' tfisser l-Att dwar Gvern Lokali;\n\n''Kunsill'' tfisser il-Kunsill Lokali Ta’ Xbiex;\n\nTitolu.\nTifsir.\nKap. 363.\n\n''lokalità'' tfisser il-lokalità ta’ Ta’ Xbiex kif tidher fit-Tieni\nSkeda li tinsab mal-Att;\n\n''tlajjar'' tfisser il-pre\\enza persistenti ta’ kull persuna g]al ebda\nra[uni partikolari, hekk li huma esklu\\i persuni li jkunu qeg]din\niwettqu xi dmir f’toroq spe`ifikati f’Ta’ Xbiex u kif murija flIskeda.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ebda persuna m’g]andha titlajja f’toroq spe`ifikati f’Ta’\nXbiex kif murija fl-Iskeda.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Xbiex kif murija fl-Iskeda",
+      "content": "Kull persuna li tinsab titlajja f’toroq spe`ifikati f’Ta’\nXbiex murija fl-Iskeda tkun ]atja ta’ kontravvenzjoni u te]el, meta\ntinsab ]atja, ammenda ta’ disg]a u sittin euro u tmienja u tmenin\n`ente\\mu (€69.88).\n\n(Ordinament 3)\n\nLista ta’ toroq f’Ta’ Xbiex li fihom ma jistax isir tlajjar\n\nTriq Giuseppe Calì\n\nTriq San {wann tas-Salib\nTriq Testaferrata\n\nTriq Emanuel Galizia\nTriq Enrico Mizzi\n\nTriq Giorgio Mitrovich\nTriq Sir Ugo Mifsud\n\nEbda tlajjar.\nPenali.\nEmendat:\nA.L. 425 tal-2007.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 77
+      }
+    }
+  ],
+  "definitions": []
+}

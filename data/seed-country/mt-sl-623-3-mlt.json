@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-623-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet li jitħallsu għar-Rendiment tal-Bini fl-Użu tal-Enerġija",
+  "title_en": "Regolamenti dwar Drittijiet li jitħallsu għar-Rendiment tal-Bini fl-Użu tal-Enerġija",
+  "short_name": "eli/sl/623.3/mlt",
+  "status": "in_force",
+  "issued_date": "2021-10-29",
+  "in_force_date": "2021-10-29",
+  "url": "https://legislation.mt/eli/sl/623.3/20211029/mlt",
+  "description": "Official text from legislation.mt (eli/sl/623.3/mlt, expression eli/sl/623.3/20211029/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "16 ta’ Novembru, 2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nDrittijiet li jitħallsu għar-Rendiment tal-Bini fl-Użu tal-Enerġija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti sakemm ir-rabta tal-kliem ma tkunx\nteħtieġ xort’oħra:\n\nTifsir.\nEmendat:\nXXV. 2015.45.\n\n\"applikazzjoni\" tfisser rikjesta magħmula minn assessur tal-EPB\nreġistrat sabiex issir ir-reġistrazzjoni taċ-Ċertifikat tar-Rendiment\ntal-Bini fl-Użu tal-Enerġija;\n\" a s s e s s u r t a l - E P B \" g ħ a n d h a t - t i f s i r a m o g ħ t i j a l i l h a f i rRegolamenti dwar ir-Rendiment tal-Bini fl-Użu tal-Enerġija.\n\nL.S. 623.01",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Dawn ir-regolamenti japplikaw għall-applikazzjonijiet\nkollha għar-reġistrazzjoni taċ-Ċertifikati tar-Rendiment tal-Bini flUżu tal-Enerġija li jiġu ppreżentati minn assessur tal-EPB flUffiċċju għar-Regolament tal-Bini.\n\nApplikabilità.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Għandu jitħallas dritt ta’ ħamsa u sebgħin euro (€75) lillUffiċċju għar-Regolament tal-Bini, għar-reġistrazzjoni taċĊertifikat tar-Rendiment tal-Bini fl-Użu tal-Enerġija, ippreżentat\nminn assessuri reġistrati.\n\nDritt li għandu\njitħallas.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-372-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Avviż ta' Oġġezzjoni",
+  "title_en": "Regolamenti dwar l-Avviż ta' Oġġezzjoni",
+  "short_name": "eli/sl/372.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/372.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.21/mlt, expression eli/sl/372.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 112 ta’ l-2002",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lAvvi\\ ta’ O[[ezzjoni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lAvvi\\ ta’ O[[ezzjoni",
+      "content": "L-avvi\\ ta’ o[[ezzjoni msemmi fl-artikolu 33(2) ta’ l-Att\ndwar l-Amministrazzjoni tat-Taxxa g]andu jsir fuq il-formola\npreskritta li hemm fl-Iskeda A fil-ka\\ ta’ individwu, u fuq ilformola preskritta li hemm fl-Iskeda B fil-ka\\ ta’ persuna li ma\ntkunx individwu.\n\nTitolu.\nFormoli preskritti.\nKap. 372.\n\nL.S.372.21]\n\nAVVI| TA’ O{{EZZJONI\n(Regolament 2)\n\nAVVI| TA’ O{{EZZJONI\n(Regolament 2)\n\n[L.S.372.21",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

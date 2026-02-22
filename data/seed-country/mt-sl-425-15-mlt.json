@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-425-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet fis-Suq tal-Ħut",
+  "title_en": "Regolamenti dwar id-Drittijiet fis-Suq tal-Ħut",
+  "short_name": "eli/sl/425.15/mlt",
+  "status": "in_force",
+  "issued_date": "2021-06-25",
+  "in_force_date": "2021-04-23",
+  "url": "https://legislation.mt/eli/sl/425.15/20210423/mlt",
+  "description": "Official text from legislation.mt (eli/sl/425.15/mlt, expression eli/sl/425.15/20210423/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 178 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nid-Drittijiet fis-Suq tal-Ħut.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet u t-tnaqqis provduti f’dawn ir-regolamenti\ngħandhom japplikaw u jiġi mħallsin fir-rigward ta' servizzi mogħtija\nmill-Gvern skont ir-Regolamenti dwar il-Bejgħ tal-Ħut fis-suq tal-ħut\nfejn isir il-bejgħ bl-ingrossa fi Triq Troubridge, il-Marsa.\n\nGħan.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "(1)\nId-drittijiet li għandhom jitħallsu lill-Gvern għasservizzi msemmija fir-regolament 2 jew taħt ir-Regolamenti dwar ilBejgħ tal-Ħut għandhom ikunu dawk miġjuba fl-Ewwel Skeda ma'\ndawn ir-regolamenti.\n\nDrittijiet u tnaqqis\napplikabbli.\nL.S. 425.02.\n\n(2)\nIt-tnaqqis magħmul mill-Gvern għandu jsir skond lEwwel Skeda mill-ammonti mħallsin mill-bejjiegħa bl-imnut skont irRegolamenti dwar il-Bejgħ tal-Ħut, u l-bilanċi li jifdal għandhom\nikunu dovuti mill-Gvern lis-sajjied skont il-bejgħ rilevanti.\nDrittijiet u tnaqqis\nRegolament 3\nServizz\n\nDritt jew rata ta' tnaqqis\n\nImħallas minn jew\nimnaqqas minn\n\nKavetti użati\nmill-bejjiegħa\nbl-imnut\n\nDritt ta' ħmistax il-ċenteżmu\n(€0.15) għal kull kavetta talħut.\n\nMill-bejjiegħ bl-imnut kif\nimfisser fir-Regolamenti\ndwar il-Bejgħ tal-Ħut (L.S.\n425.02).\n\nBejgħ tal-ħut\nmill-pitkal\n\nTnaqqis ta' 5.3% millammont imħallas millbejjiegħ bl-imnut għallewwel bejgħ ta' ħut maqbud\nli jsir fis-suq tal-ħut fejn isir\nil-bejgħ bl-ingrossa fi Triq\nTroubridge, il-Marsa.\n\nTnaqqis magħmul millGvern mill-imsemmija\nammonti u mħallas lillpitkal rilevanti.\n\nL.S. 425. 02.\n\n[ L.S. 363.***\n\nBejgħ tal-ħut\nmill-pitkal\n\nDRITTIJIET FIS-SUQ TAL-ĦUT\n\nTnaqqis ta' 1% mill-ammont\nimħallas mill-bejjiegħ blimnut għall-ewwel bejgħ ta'\nħut maqbud li jsir fis-suq talħut fejn isir il-bejgħ blingrossa fi Triq Troubridge,\nil-Marsa.\n\nTnaqqis magħmul millGvern mill-imsemmija\nammonti u miżmum millGvern bħala dritt għall-użu\ntas-suq tal-ħut fejn isir ilbejgħ bl-ingrossa fi Triq\nTroubridge, il-Marsa.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 95
+      }
+    }
+  ],
+  "definitions": []
+}

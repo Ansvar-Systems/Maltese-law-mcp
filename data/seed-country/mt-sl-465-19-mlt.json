@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-465-19-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Għeluq tal-Qrati tal-ĠustizzjaImħassar bl-Avviż Legali 230 tal-2020",
+  "title_en": "Ordni dwar l-Għeluq tal-Qrati tal-ĠustizzjaImħassar bl-Avviż Legali 230 tal-2020",
+  "short_name": "eli/sl/465.19/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://legislation.mt/eli/sl/465.19/20200326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.19/mlt, expression eli/sl/465.19/20200326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 465.19\n\nGĦELUQ TAL-QRATI TAL-ĠUSTIZZJA\n\nLEĠISLAZZJONI SUSSIDJARJA 465.19\nORDNI DWAR L-GĦELUQ TAL-QRATI TALĠUSTIZZJA\n13 ta’ Marzu, 2020\nL-AVVIŻ LEGALI 65 tal-2020,kif ikkoreġut bl-Avviż Legali 66 tal2020 u kif emendat bl-Avviżi Legali 97 u 177 tal-2020.\n\nImħassar bl-Avviż Legali 230 tal-2020.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

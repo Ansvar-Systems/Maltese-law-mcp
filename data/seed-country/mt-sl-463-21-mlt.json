@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-iskema Cooperate for Growth",
+  "title_en": "Regolamenti dwar l-iskema Cooperate for Growth",
+  "short_name": "eli/sl/463.21/mlt",
+  "status": "repealed",
+  "issued_date": "2018-04-10",
+  "in_force_date": "2018-04-10",
+  "url": "https://legislation.mt/eli/sl/463.21/20180410/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.21/mlt, expression eli/sl/463.21/20180410/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 100 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar liskema Cooperate for Growth.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nKap. 463.\n\n\"il-Korporazzjoni\" tfisser l-Intrapriża ta’ Malta mwaqqfa\ntaħt l-Att;\n\"Linji Gwida\" tfisser dawk il-linji gwida li jistgħu jiġu\npubblikati mill-Korporazzjoni minn żmien għal żmien skont lAtt.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta l-Korporazzjoni tkun sodisfatta li l-impriża hija\nimpriża eliġibbli kif preskritt fil-Linji Gwida, il-Korporazzjoni tista’\ntipprovdi assistenza lil dawn l-impriżi skond it-termini u lkondizzjonijiet stabbiliti fil-Linji Gwida.\n\nGħajnuna biex\ntappoġġja impriżi\neliġibbli.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Applikazzjonijiet għall-għajnuna biex tappoġġja\nintrapriżi eliġibbli taħt dawn ir-regolamenti għandhom jaslu għand ilKorporazzjoni sa’ mhux aktar tard mit-31 ta’ Diċembru 2020.\n\nSkadenza għassottomissjoni talapplikazzjonijiet\ngħall-għajnuna.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

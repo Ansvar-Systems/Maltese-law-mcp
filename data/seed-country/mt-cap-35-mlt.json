@@ -1,0 +1,75 @@
+{
+  "id": "mt-cap-35-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar id-Drittijiet",
+  "title_en": "Ordinanza dwar id-Drittijiet",
+  "short_name": "Kap. 35",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1905-06-26",
+  "url": "https://legislation.mt/eli/cap/35/19860101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/35/mlt, expression eli/cap/35/19860101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u bl-Atti: XVII tal-1967 u VI tal-1986",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar idDrittijiet.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Ministru li jkollu r-responsabbiltà ta’ xi dipartiment\njew uffiċċju tal-gvern jista’ jagħmel regolamenti li jippreskrivu ddrittijiet li għandhom jitħallsu f ’dak id-dipartiment jew uffiċċju\njew f’isimhom dwar liċenzi, permessi jew xi att jew servizz ieħor\nikun li jkun, u jista’ minn żmien għal żmien ibiddel jew jemenda\ndawk ir-regolamenti.\n\nSetgħa tal-Ministru\nli jistabbilixxi\ndrittijiet.\nEmendat:\nXV.1958.3;\nXXV.1962.3;\nXI.1963.2;\nA.L. 46 tal-1965;\nXVII.1967.2.\n\n(2) Kull regolament bħal dan, meta ma jiġix dispost xort’oħra,\ngħandu effett mid-data tal-ħruġ tiegħu, u għandu mill-iktar fis li\njista’ jkun jiġi mqiegħed fuq il-Mejda tal-Kamra tarRappreżentanti.\n(3) Is-setgħa mogħtija bis-subartikolu (1) u kull setgħa oħra\nmogħtija b’xi liġi oħra biex jiġu stabbiliti dawk id-drittijiet kif\nintqal qabel għandha tiġi eżerċitata bi ftehim mal-Ministru\nresponsabbli għall-finanzi.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "responsabbli għall-finanzi",
+      "content": "L-uffiċjal inkarigat minn uffiċċju jew dipartiment\npubbliku, meta jiġi mitlub li jagħmel att jew servizz illi għalih\ngħandu jitħallas dritt bis-saħħa ta’ din l-Ordinanza, jista’ jirrifjuta\nli jagħmel dak l-att jew servizz sakemm id-dritt ma jiġix imħallas.\n\nUffiċjal jista’\njirrifjuta li jagħmel\natt jew servizz li\njiġi mitlub sakemm\nid-dritt ma\njitħallasx.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "jitħallasx",
+      "content": "Id-drittijiet stabbiliti b’regolament bħal dak hawn fuq\nimsemmi jistgħu jinġabru, meta ma jiġix dispost xort’oħra, bil-mod\nli jiddisponi l-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili għallġbir ta’ somom li għandhom jitħallsu lil dipartiment tal-gvern,\nb’talba jew fl-isem tal-uffiċjal li lilu għandu jiġi mħallas id-dritt.\n\nProċedimenti\ngħall-ġbir ta’\ndrittijiet.\nKap. 12.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 12",
+      "content": "Il-Ministru\nkompetenti\nbi\nftehim\nmal-Ministru\nresponsabbli għall-finanzi jista’ b’regolamenti jordna li l-ħlas taddrittijiet kollha imsemmija fl-artikolu 2, jew ta’ wieħed jew ieħor\nminnhom, jew ta’ dritt li għandu jitħallas taħt liġi oħra li tkun\nisseħħ fi żmien li jkun, jiġi indikat bil-mezz ta’ bolli tal-pustaġġ\nb’dak il-mod li jista’ jkun provdut f’dawk ir-regolamenti.\n\nĦlas ta’ drittijiet\nbil-mezz ta’ boll.\nEmendat:\nII.1906.1;\nXV.1958.3;\nXXV. 1962.3;\nXI.1963.3;\nVI. 1986.2.\n\n*Ara Proklama Nru. X tal-1905.\n\nKAP. 35.]\n\nSetgħa ta’ Ministru\nli jnaqqas jew\njaħfer drittijiet f’xi\nkażijiet.\nMiżjud:\nXXVIII.1939.2.\nEmendat:\nXV.1958.3;\nXXV.1962.3;\nXI.1963.5.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 107
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "XI.1963.5",
+      "content": "Il-Ministru\nkompetenti\nbi\nftehim\nmal-Ministru\nresponsabbli għall-finanzi jista’ jnaqqas jew jaħfer wieħed jew\nieħor mid-drittijiet imsemmijin f ’din l-Ordinanza meta huwa\nsodisfatt li l-ħlas ta’ dak id-dritt ikun jaggrava l-persuna li jmissha\ntħallsu.",
+      "metadata": {
+        "source_line_start": 108,
+        "source_line_end": 120
+      }
+    }
+  ],
+  "definitions": []
+}

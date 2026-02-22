@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-291-5-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Rimunerazzjoni li tingħata lill-Kummissarji għall-Ġustizzja",
+  "title_en": "Avviż dwar Rimunerazzjoni li tingħata lill-Kummissarji għall-Ġustizzja",
+  "short_name": "eli/sl/291.5/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/291.5/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/291.5/mlt, expression eli/sl/291.5/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 164 ta’ l-2006, kif emendat bl-Avvi\\ Legali 423 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Avvi\\ huwa Avvi\\ dwar Rimunerazzjoni\nli ting]ata lill-Kummissarji g]all-{ustizzja.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Mill-1 ta’ Jannar, 2006, g]andha tit]allas lill-Kummissaji\ng]all-{ustizzja rimunerazzjoni bir-rata ta’ tmienja u ]amsin euro u\ntlieta u g]oxrin `ente\\mu (€58.23) g]al kull seduta, b’dana illi\nf ’sena partikolari l-]las komplessiv m’g]andux je``edi s-somma\nta’ ]dax-il elf, sitt mija u sitta u erbg]in euro u sebg]a u tmenin\n`ente\\mu (€11,646.87).\n\nRimunerazzjoni\nlill-kummissarji.\nEmendat:\nA.L. 423 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

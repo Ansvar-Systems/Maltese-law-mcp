@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-17-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Transfer of Registered Office of a European Company (SE)",
+  "title_en": "Regolamenti dwar Transfer of Registered Office of a European Company (SE)",
+  "short_name": "eli/sl/386.17/mlt",
+  "status": "in_force",
+  "issued_date": "2017-01-16",
+  "in_force_date": "2017-01-16",
+  "url": "https://legislation.mt/eli/sl/386.17/20170116/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.17/mlt, expression eli/sl/386.17/20170116/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TRANSFER OF REGISTERED OFFICE\nOF A EUROPEAN COMPANY (SE)\n\n[ L.S.386.17\n\nLEĠISLAZZJONI SUSSIDJARJA 386.17\nREGOLAMENTI DWAR TRANSFER OF\nREGISTERED OFFICE OF A EUROPEAN\nCOMPANY (SE)*\n11 ta’ Jannar, 2017\nL-AVVIŻ LEGALI 19 tal-2017.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

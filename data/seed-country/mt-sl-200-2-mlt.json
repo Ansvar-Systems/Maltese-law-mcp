@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-200-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed minn Bastimenti",
+  "title_en": "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed minn Bastimenti",
+  "short_name": "eli/sl/200.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/200.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/200.2/mlt, expression eli/sl/200.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 30 ta’ l-1969, kif emendat bl-Avvi\\ Legali 32 ta’ l1969",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nPerijodi Permessi g]al Du]]an minn Bastimenti.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Perijodi Permessi g]al Du]]an minn Bastimenti",
+      "content": "Il-kliem u l-fra\\ijiet u\\ati f’dawn ir-Regolamenti g]andu\njkollhom l-istess tifsir kif mog]ti lilhom fl-Att dwar l-Arja Pura,\nhawnhekk i\\jed ’il quddiem imsejja] \"l-Att\".",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "hawnhekk i\\jed ’il quddiem imsejja] \"l-Att\"",
+      "content": "(1) Il-]ru[ ta’ du]]an sewdieni minn `umnija ta’ bastiment\ng]al mhux iktar mill-perijodu spe`ifikat fit-tieni kolonna ta’ lIskeda li tinsab ma’ dawn ir-Regolamenti relattivament g]all-klassi\ntal-ka\\ spe`ifikat fl-ewwel kolonna ta’ l-imsemmija Skeda ma\ng]andux jittie]ed kont tieg]u g]all-finijiet ta’ l-artikolu 3 ta' l-Att:\nI\\da -\n\n(a) il-]ru[ kontinwu ta’ du]]an sewdieni, li jkun kaw\\at\nxort’o]ra milli minn titjir ta’ nugrufun ta’ kaldarun tattubu ta’ l-ilma (water tube boiler) ma g]andux idum\niktar minn erba’ minuti; u\n(b) f’ebda ka\\ ma g]andu du]]an iswed jo]ro[ g]al iktar\nminn \\ew[ minuti fit-total f’perijodu ta’ tletin minuta:\n\nI\\da wkoll ming]ajr il-permess ta’ l-uffi`jal awtorizzat,\nebda nugrufun ma g]andu jittajjar fil-waqt li bastiment ikun f’xi\nport jew bajja f’Malta, liema permess ma jing]atax jekk (a) kien ikun prattikabbli li dik l-operazzjoni ssir qabel ma\nresaq lejn l-art;\n\n(b) ikun prattikabbli li dik l-operazzjoni tit]alla sakemm\njitlaq l-art; jew\n(`) metodu ie]or biex jitne]]a n-nugrufun ikun jista’ ji[i\nadottat.\n\n(2) F’dan ir-regolament \"du]]an iswed\" tfisser du]]an li, jekk\nikun paragunat bil-mod xieraq ma’ chart tat-tip mag]rufa fid-data\ntal-]ru[ b’li[i ta’ l-Att b]ala r-Ringelmann Chart, ikun jidher\nsewdieni daqs jew iktar sewdieni mill-gradazzjoni 4 ta`-chart.\n\n(3) G]all-finijiet ta’ l-imsemmija Skeda bastiment ma jkunx fi\ntriqtu meta jkun ankrat jew marbut ma’ l-art jew mal-qiegh, u\nbastiment li jkun inkalja g]andu jitqies li qieg]ed fi triqtu.\n\nTitolu.\nTifsir.\nKap. 200.\nPerijodu permess\nta’ ]ru[ ta’ du]]an\nsewdieni.\n\nL.S.200.02]\n\nSostitwita:\nA.L. 32 ta’ l-1969.\n\nPERIJODI PERMESSI G}AL DU}}AN MINN BASTIMENTI\n(Regolamet 3)\n\nL-Ewwel Kolonna\nKlassi tal-Ka\\",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 73
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Meta jkun me]tie[, min]abba",
+      "content": "}ru[ minn natural draught oil-fired\nfurnace jew coal-fired boiler furnace filka\\ijiet li [ejjin:\n(a) bastiment ta’ rmonk li ma jkunx fi\ntriqtu i\\da jkun qed jit]ejja biex\nimur fi triqtu jew ikun qed jag]ti\nkurrent lil xi bastimenti o]ra jew lil\nstallazzjonijiet fuq l-art\n(b) bastiment li ma jkunx fi triqtu i\\da\njkun qed ju\\a kurrent g]all-iskop ta’\nta]mil, tlug], pumpjar jew ikun qed\njag]mel xi xog]ol ie]or spe`jali li\ng]alih il-bastiment ikun mag]mul",
+      "metadata": {
+        "source_line_start": 99,
+        "source_line_end": 111
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "g]alih il-bastiment ikun mag]mul",
+      "content": "}ru[ minn xi ori[ini o]ra\n\n}\n\n10 minuti b’kollox\nf’perijodu\nta’\nsieg]a\n\n5 minuti b’kollox\nf’perijodu\nta’\nsieg]a",
+      "metadata": {
+        "source_line_start": 112,
+        "source_line_end": 128
+      }
+    }
+  ],
+  "definitions": []
+}

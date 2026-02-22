@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-340-mlt",
+  "type": "statute",
+  "title": "Att li jbiddel l-isem tal-Qrati Inferjuri",
+  "title_en": "Att li jbiddel l-isem tal-Qrati Inferjuri",
+  "short_name": "Kap. 340",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1990-10-01",
+  "url": "https://legislation.mt/eli/cap/340/19901001/mlt",
+  "description": "Official text from legislation.mt (eli/cap/340/mlt, expression eli/cap/340/19901001/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT VIII tal-1990 ",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att li jbiddel l-isem tal-Qrati\nInferjuri.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Minkejja d-disposizzjonijiet ta’ xi liġi oħra, il-Qorti talMaġistrati tal-Pulizija Ġudizzjarja għall-Gżira ta’ Malta, il-Qorti\ntal-Maġistrati tal-Pulizija Ġudizzjarja għall-Gżejjer ta’ Għawdex u\nKemmuna, u l-Qorti tal-Pulizija Ġudizzjarja għandhom minn issa ’l\nquddiem ikunu magħrufin bħala l-Qorti tal-Maġistrati (Malta) jew\nil-Qorti tal-Maġistrati (Għawdex), kif ikun il-każ:\n\nKif għandhom\nikunu magħrufa lQrati Inferjuri.\n\nIżda b’dan illi meta jiġi preżentat xi att f’xi qorti bħal dik\nfil-kompetenza kriminali tagħha għandu jitniżżel f’dak l-att li dak\nl-att ikun qiegħed jiġi preżentat f ’dik il-qorti bħala Qorti ta’\nĠudikatura Kriminali jew bħala Qorti Istruttorja kif ikun il-każ, u\nf ’xi att li jiġi preżentat fil-Qorti tal-Maġistrati (Għawdex) filkompetenza ċivili tagħha għandu jitniżżel li dak l-att ikun qiegħed\njiġi preżentat fil-kompetenza inferjuri tagħha, jew fil-kompetenza\nsuperjuri ċivili jew kummerċjali tagħha, jew bħala qorti ta’\nġurisdizzjoni volontarja, jew fil-kompetenza fi grad ta’ appell\ninferjuri jew superjuri tagħha, kif ikun il-każ.\n\n*Ara l-artikolu 1 tal-Att kif oriġinarjament promulgat, li parti minnu ġiet imħollija\nbarra taħt l-Att tal-1980 dwar ir-Reviżjoni tal-Liġijiet Statutarji, u l-Avviż Legali Nru.\n142 tal-1990.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 45
+      }
+    }
+  ],
+  "definitions": []
+}

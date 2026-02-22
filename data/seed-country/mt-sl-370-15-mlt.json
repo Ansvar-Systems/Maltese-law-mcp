@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar Servizzi ta' Investiment (Reviżjoni Superviżorja)",
+  "title_en": "Regolamenti dwar l-Att dwar Servizzi ta' Investiment (Reviżjoni Superviżorja)",
+  "short_name": "eli/sl/370.15/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2014-01-24",
+  "url": "https://legislation.mt/eli/sl/370.15/20250117/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.15/mlt, expression eli/sl/370.15/20250117/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR SERVIZZI TA’ INVESTIMENT\n(REVIŻJONI SUPERVIŻORJA)\n\n[ L.S.370.15\n\nLEĠISLAZZJONI SUSSIDJARJA 370.15\nREGOLAMENTI DWAR\nL-ATT DWAR SERVIZZI TA’ INVESTIMENT\n(REVIŻJONI SUPERVIŻORJA)*\n24 ta’ Jannar, 2014\nL-AVVIŻ LEGALI 30 tal-2014, kif emendat bl-Avviżi Legali 299 tal2015, 30 tal-2022, 71 tal-2023 u 252 tal-2024.\n\n*Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-35-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Protective Measures Against Pests of Plants and Related Official Controls and Other Official Activities",
+  "title_en": "Regolamenti dwar Protective Measures Against Pests of Plants and Related Official Controls and Other Official Activities",
+  "short_name": "eli/sl/433.35/mlt",
+  "status": "in_force",
+  "issued_date": "2021-07-20",
+  "in_force_date": "2021-07-16",
+  "url": "https://legislation.mt/eli/sl/433.35/20230428/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.35/mlt, expression eli/sl/433.35/20230428/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PROTECTIVE MEASURES AGAINST PESTS OF PLANTS\nAND RELATED OFFICIAL CONTROLS AND\nOFFICIAL ACTIVITIES\n\n[ L.S.433.35\n\nLEĠISLAZZJONI SUSSIDJARJA 433.35\nREGOLAMENTI DWAR PROTECTIVE MEASURES\nAGAINST PESTS OF PLANTS AND RELATED\nOFFICIAL CONTROLS AND OFFICIAL ACTIVITIES\n16 ta’ Lulju, 2021\n\nL-AVVIŻ LEGALI 304 tal-2021, kif emendat bl-Avviż Legali 102 tal2023.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

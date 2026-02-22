@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-12-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Nomina tal-Qrati",
+  "title_en": "Regolamenti dwar Nomina tal-Qrati",
+  "short_name": "eli/sl/12.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/12.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/12.23/mlt, expression eli/sl/12.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 281 ta’ l-2008, kif emendat bl-Avvi\\ Legali 334 ta’ l2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nNomina tal-Qrati.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) G]all-finijiet ta’ kull regola tal-qorti mag]mula skond\nl-artikolu 29 tal-Kodi`i ta’ Organizzazzjoni u Pro`edura ~ivili\nrigward l-implimentazzjoni tar-Regolament tal-Kunsill imsemmi\nfis-subregolament (2), il-qrati msemmija f ’dak is-subregolament\nhuma b’dan qeg]din ji[u nominati b]ala l-qrati kompetenti.\n\nNomina tal-Qrati\ng]al kwistjonijiet\n`ivili u\nkummer`jali\n(esklu\\i\nkwistjonijiet li\ng]andhom\nx’jaqsmu malfamilja).\nEmendat:\nA.L. 334 ta’ l2008.\nKap. 12.\n\n(2) Il-qrati msemmija fis-subregolament (1) nominati b]ala\nqrati kompetenti g]all-finjiet biex ji[u implimentati dawn irRegolamenti tal-Kunsill li [ejjin huma kif [ej:\n(a) il-Prim’Awla tal-Qorti ~ivili u l-Qorti tal-Ma[istrati\n(G]awdex) (Sezzjoni ta’ {urisdizzjoni {enerali) filkompetenza superjuri tag]ha g]all-fini tar-Regolament\n(KE) Nru 1393/2007 tal-Parlament Ewropew u tal-Kunsill\ntat-13 ta’ Novembru 2007 dwar is-servizz fl-Istati Membri\nta’ dokumenti [udizzjarji u extra-[udizzjarji fi\nkwistjonijiet `ivili jew kummer`jali (servizz ta’\ndokumenti);\n(b) il-Prim’Awla tal-Qorti ~ivili, il-Qorti ~ivili (Sezzjoni\ntal-Familja), il-Qorti tal-Ma[istrati (Malta), il-Qorti\ntal-Ma[istrati (G]awdex) fil-[urisdizzjoni inferjuri\ntag]ha, u l-Qorti tal-Ma[istrati (G]awdex) (Sezzjoni\nta’ {urisdizzjoni {enerali) fil-[urisdizzjoni superjuri\ntag]ha g]all-fini tar-Regolament tal-Kunsill (KE) Nru\n1206/2001 tat-28 ta' Mejju 2001 dwar kooperazzjoni\nbejn il-qrati ta' l-Istati Membri fil-kumpilazzjoni ta'\nxhieda f'materji `ivili jew kummer`jali kif pubblikat\nfil-{urnal Uffi`jali tal-Kommunitajiet Ewropej tas-27\nta’ {unju, 2001; u\n(`) il-Prim’Awla tal-Qorti ~ivili, il-Qorti tal-Ma[istrati\n(G]awdex) (Sezzjoni ta’ {urisdizzjoni {enerali) fil[urisdizzjoni superjuri tag]ha, il-Qorti tal-Appell, irRe[istratur, Qrati u Tribunali ~ivili u r-Re[istratur\nQrati u Tribunali ~ivili f’G]awdex g]all-fini tarRegolament tal-Kunsill (KE) Nru 44/2001 tat-22 ta'\nDi`embru 2000 dwar [urisdizzjoni u rikonoxximent u\ne\\ekuzzjoni ta' sentenzi f'materji `ivili u kummer`jali\nkif pubblikat fil-{urnal Uffi`jali tal-Kommunitajiet\nEwropej tas-16 ta’ Jannar, 2001.\n\nL.S.12.23]\n\nNomina tal-Qrati\nf’kwistjonijiet li\ng]andhom\nx’jaqsmu malfamilja.\nKap. 12.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 76
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kap. 12",
+      "content": "G]all-finijiet ta’ kull regola tal-qorti mag]mula skond lartikolu 29 tal-Kodi`i ta’ Organizzazzjoni u Pro`edura ~ivili\nrigward l-implimentazzjoni tar-Regolament tal-Kunsill (KE) Nru\n2201/2003 tas-27 ta’ Novembru 2003 dwar il-[urisdizzjoni u rrikonoxximent u l-infurzar ta’ sentenzi fi kwistjonijiet\nmatrimonjali u kwistjonijiet ta’ responsabbilità tal-[enituri\npubblikat fil-{urnal Uffi`jali tal-Kommunitajiet Ewropej fl-14 ta’\nDi`embru 2004, il-Qorti ~ivili (Sezzjoni tal-Familja) u l-Qorti talM a[i strat i (G] awd ex ) (Se zzj on i tal - Fam il ja) (K om p ete nza\nSup erjuri ) hum a b’dan q eg] din j i[ u nom i nat i b ]al a l -q r ati\nkompetenti.",
+      "metadata": {
+        "source_line_start": 77,
+        "source_line_end": 88
+      }
+    }
+  ],
+  "definitions": []
+}

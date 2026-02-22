@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-261-9-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1986)",
+  "title_en": "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1986)",
+  "short_name": "eli/sl/261.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/261.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/261.9/mlt, expression eli/sl/261.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI|I LEGALI 20, 53, 59 u 71 ta’ l-1986, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Awtorità tad-Djar\n(Trasferiment ta’ Proprjetà) (1986).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(Trasferiment ta’ Proprjetà) (1986)",
+      "content": "Il-proprjetà deskritta fl-Iskeda hi b’dan spe`ifikata g]allfinijiet ta’ l-artikolu 12 ta’ l-Att dwar l-Awtorità tad-Djar.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "(Trasferiment ta’ Proprjetà) (1986)",
+      "content": "Il-proprjetà spe`ifikata fl-artikolu 2 g]andha ti[i trasferita\nlill-Awtorità tad-Djar u ti[i vestita fiha kif provdut fl-imsemmi\nartikolu b’se]] mid-data spe`ifikata fl-Iskeda.\n\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "(f)",
+      "content": "Il-flat numru 4, Blokk 3, Luqa Road, Tarxien.\n\n(g) Il-flat numru 6, Blokk E 3, Estate tad-Djar, Ta’ Xbiex.\nB’se]] mis-26 ta’ Di`embru, 1986:\n\n(a) Id-dar numru 80, Triq {uze’ Ellul Mercer, Dingli.\n\n(b) Id-dar bin-numru 18 u 19, Granaries Square, Floriana.\n\n(`) Id-dar imsejj]a \"Mathias\", Djar tas-Sajjieda, Xatt isSajjieda, Marsaxlokk.\n(d) Id-dar bin-numru 62, Estate tad-Djar Ta’ Mliet, Mosta.\n\n(e) Il-flat numru 2, Blokk J I , Estate tad-Djar, Rabat.\n\n(f)\n\nIl-flat numru 2, Blokk 9, Bieb 12, Misra] Dorell, Santa\nLucia.\n\n(g) Id-dar numru 3, Vjal l-Oleandri, Santa Lucia.\n(h) Id-dar numru 42, Estate tad-Djar, Si[[iewi.\n\n(i)\n(j)\n\nIl-flat numru 7, B1okk E3, Estate tad-Djar, Triq idDeffa, Ta’ Xbiex.\nId-dar numru 55, Fibers Street, |abbar.\n\n(k) Id-dar numru 71, Triq Ferdinando Falzon, |urrieq.",
+      "metadata": {
+        "source_line_start": 228,
+        "source_line_end": 261
+      }
+    }
+  ],
+  "definitions": []
+}

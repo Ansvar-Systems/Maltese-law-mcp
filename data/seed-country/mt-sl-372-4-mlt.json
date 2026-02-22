@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-372-4-mlt",
+  "type": "statute",
+  "title": "Regoli dwar it-Taxxa fuq l-Income",
+  "title_en": "Regoli dwar it-Taxxa fuq l-Income",
+  "short_name": "eli/sl/372.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/372.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.4/mlt, expression eli/sl/372.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 133 ta’ l-1994",
+      "content": "It-titolu ta’ dawn r-Regoli hu Regoli dwar it-Taxxa fuq lIncome).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Ir-regoli ma]ru[in ta]t l-artikolu 94 ta’ l-Att dwar it-Taxxa\nfuq l-Income kif kienu fis-se]] fit-22 ta’ Settembru, 1994, u kull\nformola ma]ru[a bis-sa][]a tag]hom, g]andhom, fil-qies li dan\nikun japplika, jibqg]u jse]]u u jintuzaw g]all-g]anijiet ta’ u f’dak\nli g]andu x’jaqsam ma’ l-Att dwar l-Amministrazzjoni tat-Taxxa,\nb]allikieku l-istess regoli kienu n]ar[u ta]t l-artikolu 57 ta’ l-Att\ndwar l-Amministrazzjoni tat-Taxxa.\n\nRegoli ta]t l-Att\ndwar it-Taxxa fuq\nl-Income jibqg]u\njse]]u.\nKap. 123.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Meta jsiru regoli dwar xi ]a[a msemmija ta]t l-artikolu 57\nta’ l-Att dwar l-Amministrazzjoni tat-Taxxa, ir-regola 2 ma\ng]andhiex tibqa’ tapplika dwar dawk il-]wejjeg li jaqg]u ta]t dawk\nir-regoli.\n\nLimitazzjoni ta’ liskop.\nKap. 372.\n\nKap. 372.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

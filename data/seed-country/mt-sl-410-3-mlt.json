@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-410-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji",
+  "short_name": "eli/sl/410.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/410.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/410.3/mlt, expression eli/sl/410.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 116 ta’ l-2001, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nid-Drittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti\n{udizzjarji.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 26(3) ta’\nl-Att dwar is-Sekwestru u l-Kustodja ta’ Minuri g]all-pre\\entata ta’\natti [udizzjarji g]andhom ikunu ]dax-il euro u ]amsa u sittin\n`ente\\mu (€11.65).\n\nDrittijiet li\ng]andhom jit]allsu\ng]all-pre\\entata ta’\natti.\nEmendat:\nA.L. 426 ta’ l2007.\nKap. 410.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 37
+      }
+    }
+  ],
+  "definitions": []
+}

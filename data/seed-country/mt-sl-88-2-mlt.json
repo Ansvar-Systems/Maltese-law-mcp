@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-88-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Akkwist ta' Artijiet (Rati ta' Mgħax)",
+  "title_en": "Regolamenti dwar Akkwist ta' Artijiet (Rati ta' Mgħax)",
+  "short_name": "eli/sl/88.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/88.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/88.2/mlt, expression eli/sl/88.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 78 ta’ l-2003",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nAkkwist ta’ Artijiet (Rati ta’ Mg]ax).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Akkwist ta’ Artijiet (Rati ta’ Mg]ax)",
+      "content": "Ir-rata minima ta’ mg]ax g]all-finijiet ta’ l-artikolu 22(3)\nta’ l-Ordinanza dwar l-Akkwist ta’ Artijiet g]al Skopijiet Pubbli`i\nqeg]da b’dan ti[i stabbilita b]ala r-rata m]allsa fuq Depo\\iti Fissi\nkif pubblikata minn \\mien g]al \\mien mill-Bank ~entrali ta’ Malta\nwara li minnha jitnaqqas punt per`entwali.\n\nTitolu.\nTwaqqif ta’ rati ta’\nmg]ax.\nKap. 88.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

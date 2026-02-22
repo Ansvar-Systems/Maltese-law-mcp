@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-77-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "title_en": "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji fuq Appelli",
+  "short_name": "eli/sl/452.77/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.77/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.77/mlt, expression eli/sl/452.77/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 103 ta’ l-2001, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li g]andhom jit]allsu g]all-Pre\\entata ta’ Atti {udizzjarji\nfuq Appelli.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-drittijiet li g]andhom jit]allsu skond l-artikolu 9(7) ta’\nl-Att dwar l-Impiegi u r-Relazzjonijiet Industrijali g]all-pre\\entata\nta’ atti [udizzjarji fuq appelli g]andhom ikunu mija u sittax-il euro\nu sebg]a u erbg]in `ente\\mu (116.47).\n\nDrittijiet li jit]allsu\ng]all-appelli.\nEmendat:\nA.L. 427 ta’ l2007.\nKap. 452.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

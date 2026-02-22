@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-35-37-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet li jitħallsu għaż-Żamma ta’ Annimali f’Żoos",
+  "title_en": "Regolamenti dwar id-Drittijiet li jitħallsu għaż-Żamma ta’ Annimali f’Żoos",
+  "short_name": "eli/sl/35.37/mlt",
+  "status": "in_force",
+  "issued_date": "2024-09-02",
+  "in_force_date": "2024-10-27",
+  "url": "https://legislation.mt/eli/sl/35.37/20241027/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.37/mlt, expression eli/sl/35.37/20241027/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 200 tal-2024",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet li jitħallsu għaż-Żamma ta’ Annimali f’Żoos.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-tifsiriet li jinsabu fir-Regolamenti dwar iż-Żamma ta’\nAnnimali f’Żoos għandhom, fejn applikabbli, japplikaw għal dawn irregolamenti.\n\nTifsir.\nL.S. 439.29.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Id-drittijiet pagabbli lid-Direttur responsabbli għasServizzi Veterinarji għall-ħruġ jew it-tiġdid ta’ liċenzja skont iddispożizzjonijiet tar-Regolamenti dwar iż-Żamma ta’ Annimali f’Żoos\ngħandhom ikunu dawn li ġejjin:\n\nId-drittijiet\npagabbli.\nL.S. 439.29.\n\nFtuħ ta’ żoo ġdid\nTiġdid ta’ liċenzja ta’ żoo\n\n€500\n€100\n\nFlimkien mad-dritt għal-liċenzjar, kemm l-applikant kif ukoll\nid-detentur tal-liċenzja għandhom ikunu soġġetti għall-ħlas ta’ dritt ta’\nkontribuzzjoni pagabbli lill-Fond għall-Għarfien u r-Riċerka dwar itTrattament Xieraq tal-Annimali kif stabbilit fir-Regolamenti dwar iżŻamma ta’ Annimali f’Żoos kif ġej:\nMal-applikazzjoni għall-ftuħ ta’ żoo ġdid\nTiġdid ta’ liċenzja ta’ żoo\n\n€1,500\n€400\n\nL.S. 439.29.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-10-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Protezzjoni ta Siġar Koniferi Imħassrin bl-Att XXXIV tal-2023",
+  "title_en": "Regolamenti dwar il-Protezzjoni ta Siġar Koniferi Imħassrin bl-Att XXXIV tal-2023",
+  "short_name": "eli/sl/10.22/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1949-05-25",
+  "url": "https://legislation.mt/eli/sl/10.22/20231017/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.22/mlt, expression eli/sl/10.22/20231017/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 328 ta’ l-1949",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilProtezzjoni ta’ Siġar Koniferi.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet ta’ dawn ir-Regolamenti, \"siġar koniferi\"\ntfisser is-siġar taċ-ċipress (Cupressus Sempervirens) u s-siġar ta’ larżnu (Pinus).",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Ħlief kif jingħad fir-regolament 4 ta’ dawn ir-Regolamenti,\nhuwa projbit li tiġi meqruda, imqaċċta jew maqtugħa mill-egħruq\nxi siġra konifera tkun fejn tkun.\n\nProjbizzjoni li jiġu\nmeqruda.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Id-Direttur ta’ l-Agrikoltura jista’ jagħti permess bilmiktub biex titqaċċat, tinqala’ mill-egħruq u tinġarr xi siġra\nkonifera, meta jkun sodisfatt illi l-art hi meħtieġa għall-bini jew\ngħal raġunijiet oħra li fil-fehma tiegħu jkunu biżżejjed.\n\nPermess midDirettur ta’ lAgrikoltura.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tifsir",
+      "content": "Dawn ir-Regolamenti għandu jkollhom effett bla ma jitqies\nx’jinsab f ’xi liġi oħra, u m’hemm ebda dritt għal kumpens jew\ndanni jew tpaċija oħra tkun xi tkun minħabba l-projbizzjoni\nmagħmula skond ir-regolament 3 ta’ dawn ir-Regolamenti jew\nminħabba rifjut mid-Direttur ta’ l-Agrikoltura biex jagħti permess\nskond ir-regolament 4 ta’ dawn ir-Regolamenti.\n\nEffett tarRegolamenti.\n\n*Dawn ir-regolamenti ġew imħassrin bl-Att XXXIV tal-2023.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

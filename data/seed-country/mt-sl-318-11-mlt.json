@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-318-11-mlt",
+  "type": "statute",
+  "title": "Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku ma' l-Awstralja)",
+  "title_en": "Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku ma' l-Awstralja)",
+  "short_name": "eli/sl/318.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.11/mlt, expression eli/sl/318.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 97 ta’ l-1991",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar is-Sigurtà So`jali\n(Ftehim Re`iproku ma’ l-Awstralja).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(Ftehim Re`iproku ma’ l-Awstralja)",
+      "content": "Id-disposizzjonijiet li jinsabu fil-Ftehim Re`iproku ffirmat\n[ewwa Canberra, fl-Awstralja, fil-15 ta’ Awissu, 1990, bejn isSenatur Graham Richardson, Ministru tas-Sigurtà So`jali, g]allGvern ta’ l-Awstralja, u Dr. Louis Galea, Ministru tal-Politika\nSo`jali, g]all-Gvern ta’ Malta, g]andu jkollhom kull sa]]a u effett\nfl-1 ta’ Lulju, 1991, u l-Att dwar is-Sigurtà So`jali g]andu jkollu\nse]] kif su[[ett g]all-modifiki me]tie[a fih g]all-fini li jing]ata\nse]] lil dawk id-disposizzjonijiet.\n\nTitolu.\nArran[amenti\njkollhom se]].\n\nKap. 318.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 35
+      }
+    }
+  ],
+  "definitions": []
+}

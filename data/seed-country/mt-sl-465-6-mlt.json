@@ -1,0 +1,255 @@
+{
+  "id": "mt-sl-465-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Ċertifikat tal-Mewt u Kawża tal-Mewt",
+  "title_en": "Regolamenti dwar Ċertifikat tal-Mewt u Kawża tal-Mewt",
+  "short_name": "eli/sl/465.6/mlt",
+  "status": "repealed",
+  "issued_date": "2012-02-27",
+  "in_force_date": "2012-02-27",
+  "url": "https://legislation.mt/eli/sl/465.6/20120227/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.6/mlt, expression eli/sl/465.6/20120227/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 11 tal-2008, kif emendat bl-Avviż Legali 426 tal-2012",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nĊertifikat tal-Mewt u Kawża tal-Mewt.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kull tabib għandu, kull meta tiġri mewt, minnufih\njirrapporta lill-Pulizija u lis-Supretendent tas-Saħħa Pubblika dik\nil-mewt u l-kawża ta’ dik il-mewt bil-miktub u skont il-formola\nstabbilita fil-forma li hemm fl-Iskeda.\n\nDmir li għandhom\nit-tobba.\n\n[ L.S.465.06\n\nĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT\n\n(Regolament 2)\n\nEmendata:\nA.L. 426 tal-2012.\n\nĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Isem u kunjom ........................................................",
+      "content": "Sess: raġel  mara  mhux żgurat ",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Sess: raġel  mara  mhux żgurat ",
+      "content": "Età ..................................",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 57
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Età .................................",
+      "content": "Data tat-twelid .........................................",
+      "metadata": {
+        "source_line_start": 58,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Data tat-twelid ........................................",
+      "content": "Meta l-mewt tkun ta’ xi tarbija jew tiġri fil-ġuf:\n\nPiż fit-twelid (g): .............. Tqala (ġimgħat) .................. Ħin tat-twelid .............",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Meta l-mewt tkun ta’ xi tarbija jew tiġri fil-ġuf:",
+      "content": "Post tat-twelid .....................................................................",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Meta l-mewt tkun ta’ xi tarbija jew tiġri fil-ġuf:",
+      "content": "Ċittadinanza .........................................................................",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 74
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "Residenza permanenti .................................................................................",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 78
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "Kif ikun/tkun impjegat/a:\n\nj/taħdem  diżokkupat/a  pensjonant/a  j/tibqa’ d-dar  student/a \nmhux kapaċi j/taħdem ",
+      "metadata": {
+        "source_line_start": 79,
+        "source_line_end": 84
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "mhux kapaċi j/taħdem ",
+      "content": "Xogħol (jekk il-persuna tkun irtirata, ikteb ix-xogħol li kellha qabel) ...........\n....................................................................................................................",
+      "metadata": {
+        "source_line_start": 85,
+        "source_line_end": 89
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "mhux kapaċi j/taħdem ",
+      "content": "Isem u kunjom tal-ġenituri u jekk dawn humiex ħajjin jew mejtin .................\n....................................................................................................................",
+      "metadata": {
+        "source_line_start": 90,
+        "source_line_end": 94
+      }
+    },
+    {
+      "provision_ref": "s13a",
+      "section": "13a",
+      "title": "Section 13a",
+      "content": "Stat ċivili:\ngħażeb/xebba  miżżewweġ/ġa  armel/la  stat ieħor  (għid x’inhu):\n...................................",
+      "metadata": {
+        "source_line_start": 95,
+        "source_line_end": 97
+      }
+    },
+    {
+      "provision_ref": "s13b",
+      "section": "13b",
+      "title": "..................................",
+      "content": "Meta jkun japplika, isem u kunjom il-konjuġi .............................................",
+      "metadata": {
+        "source_line_start": 98,
+        "source_line_end": 98
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "..................................",
+      "content": "Siegħa, jum, xahar u sena meta ġrat il-mewt ................................................",
+      "metadata": {
+        "source_line_start": 99,
+        "source_line_end": 102
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "..................................",
+      "content": "Post fejn ġrat il-mewt ................................................................................",
+      "metadata": {
+        "source_line_start": 103,
+        "source_line_end": 106
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Section 16",
+      "content": "Kawża tal-mewt\n\nI\nMarda jew kondizzjoni\nli direttament wasslu\ngħall-mewt*\nKawżi li seta’ kien\nhemm qabel\n\na ...............................................\nminħabba fi (jew bħala konsegwenza)\n\nb. ..............................................\nminħabba fi (jew bħala konsegwenza)\n\nŻmien kalkolat li\ngħadda mill-marda/\naċċident sal-mewt\n\n[ L.S.465.06\n\nĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT\n\nK u n d i z z j o n i j i e t t a ’ c. ..............................................\nmard, jekk kien hemm\nminħabba fi (jew bħala konsegwenza)\nqabel, li taw lok għallkawża precedenti; dik\nil-kondizzjoni li kienet\nil-bażi ta’ kollox\ntitniżżel fl-aħħar\nII. Kundizzjonijiet\noħra sinifikanti li\nkkontribwixxew għallmewt iżda li ma\njkellhomx konnesjoni\nmal-marda jew malkundizzjoni\nli\ndirrettament wasslu\ngħall-mewt:\n* M’għandhomx jintużaw ġrajjiet terminali p.e. arrest\nrespirat orju iżda ti ssemm a l-m arda, il-feri ment jew ilkumplikazzjoni li ikkaġunaw il-mewt.",
+      "metadata": {
+        "source_line_start": 107,
+        "source_line_end": 151
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "* M’għandhomx jintużaw ġrajjiet terminali p.e. arrest",
+      "content": "Meta mewt tkun dovuta minħabba f’xi aċċident jew feriment:\n\nData meta jkun sar\nil-feriment:\n\nPost fejn ikun\nsar il-feriment:\n\nX’ta lok għallferiment:\n\nFeriment fuq ixxogħol:\nIva \nLe ",
+      "metadata": {
+        "source_line_start": 152,
+        "source_line_end": 167
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Le ",
+      "content": "Meta tkun mara għid jekk:\n-\n\nil-mewt tkunx ġrat fi żmien ta’ tqala: \n\n-\n\nil-mewt tkunx ġrat fi żmien 42 ġurnata wara t-tqala: \n\n-\n\nil-mewt tkunx ġrat bejn 42 ġurnata u sena wara t-tqala: ",
+      "metadata": {
+        "source_line_start": 168,
+        "source_line_end": 182
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "il-mewt tkunx ġrat bejn 42 ġurnata u sena wara t-tqala: ",
+      "content": "Post tad-difna ............................. Numru ta’ Permess tad-Difna ..................",
+      "metadata": {
+        "source_line_start": 183,
+        "source_line_end": 186
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "il-mewt tkunx ġrat bejn 42 ġurnata u sena wara t-tqala: ",
+      "content": "Isem u Kunjom tat-Tabib u numru mogħti lilu mill-Kunsill Mediku:\n....................................................................................................................",
+      "metadata": {
+        "source_line_start": 187,
+        "source_line_end": 191
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Isem u Kunjom tat-Tabib u numru mogħti lilu mill-Kunsill Mediku:",
+      "content": "Indirizz .......................................................................................................",
+      "metadata": {
+        "source_line_start": 192,
+        "source_line_end": 195
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Isem u Kunjom tat-Tabib u numru mogħti lilu mill-Kunsill Mediku:",
+      "content": "Firma tat-Tabib .................................................................",
+      "metadata": {
+        "source_line_start": 196,
+        "source_line_end": 199
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Section 23",
+      "content": "Data .............................................\nDIVIJONI TAS-SAĦĦA DS:\nIstruzzjonijiet għal min joħroġ iċ-ċertifikat\n\nKull informazzjoni għandha tkun ċara u tinqara sew. Tużax taqsiriet. Kull\ninformazzjoni li tirrigwarda lill-mejjet, kif mitluba mingħandek fuq iċ-ċertifikat talmewt, għandha timtela.\nPara. 2: Numru ta’ Dokument ta’ Identifikazzjoni Legalment Validu: Dan huwa\nimportanti biex il-persuna mejta tkun tista’ tiġi identifikata. Jekk numru ta’ dokument\nta’ identifikazzjoni legalment validu ma jkunx disponibbli, għandu jitniżżel in-numru\ntal-passaport.\nPara. 6: Għal imwiet ta’ trabi u mwiet fil-ġuf: Għal kull mewt ta’ trabi li jkollhom\ninqas minn sena u mewt fil-ġuf ikun importanti li l-piż fit-twelid jiġi reġistrat fi\n\n[ L.S.465.06\n\nĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT\n\ngrammi, it-tqala f’għadd ta’ ġimgħat mitmuma u jingħata l-ħin tat-twelid, minbarra\nd-data tat-twelid f’para. 5.\nPara. 9: Residenza permanenti: Il-post fejn persuna tkun toqgħod huwa l-post fejn\nhija kienet regolarment residenti tul l-aħħar sena. Qatt m’għandek tniżżel bħala\nresidenza waħda li tkun qegħda tintuża waqt xi viżta jew vaganza. Meta persuna tkun\nirrisjediet f ’dar jew istituzzjoni għal żmien twil (ta’ aktar minn sena) niżżel lindirizz ta’ dik id-dar jew istituzzjoni, inkella niżżel l-indirizz tar-residenza ta’\nqabel. Fil-każ ta’ barranin li jkunu joqogħdu barra minn Malta (p.e. turisti) għandek\ntniżżel l-indirizz sħiħ tagħhom barra minn Malta.\nPara. 11: Xoghol: Dan għandu jingħata sħiħ bl-iktar mod possibbli, fejn jiġi\ndeskritt it-tip ta’ xogħol magħmul u tan-negozju/industrija li dan ikollu x’jaqsam\nmagħhom. p.e. ħaddiem fuq magna ġo fabbrika tal-għamara, għalliem fi skola\nsekondarja. Jekk il-persuna tkun iritrata, niżżel it-tip ta’ xogħol li kienet tagħmel\ngħall-iktar żmien twil ta’ ħajjitha fid-dinja tax-xogħol.\nPara. 16: Kawża tal-mewt:\nTaqsima I - qegħda għal kull mard jew kundizzjoni li jkollhom x’jaqsmu massekwenza ta’ ġrajjiet li direttament iwasslu għall-mewt. Fuq kull linja għandha\ntiddaħħal kawża waħda biss. Jekk il-kundizzjoni li titniżżel fuq il-linja a tkun\nirriżultat minn xi kawża oħra, din il-kawża oħra għandha titniżżel fuq il-linja b, u\ntibqa’ sejjer hekk, sakemm tiġi rappurtata s-sekwenza kollha. Ara li dejjem tniżżel xi\ntkun il-kundizzjoni li kienet il-bażi tal-mewt (il-marda jew il-feriment li taw lok\ngħall-katina ta’ ġrajjiet ta’ mard li direttament wasslu għall-mewt, jew iċ-ċirkostanzi\ntal-aċċident jew vjolenza li taw lok għall-feriment fatali) fuq il-linja l-aktar fil-baxx\nf’Taqsima I li tintuza. Għal kull kawża indika l-aħjar intervall ta’ żmien bejn x’ħin\njiġi kalkulat li bdiet il-ġrajja u d-data tal-mewt. M’għandhomx jintużaw ġrajjiet\nterminali p.e. arrest kardjaku u arrest respiratorju.\nJekk insuffiċjenza f ’xi organu bħal m’hi insuffiċjenza kardjaka konġestiva,\ninsuffiċjenza epatika, insuffiċjenza renali jew insuffiċjenza respiratorja jitniżżlu\nbħala l-kawża tal-mewt, dejjem għandek tirrapporta il-kaġun ta’ dik il-marda fillinja(i) ta’ taħtha. (p.e. insuffiċjenza kardjaka konġestiva sekondarja għal mard talqalb iskemiku).\nTaqsima II - qegħda għal kull kundizzjoni oħra sinifikanti li ikkontribwiet għallġrajja fatali, iżda li ma kellhiex x’taqsam mal-marda jew mal-kundizzjoni li kienet\nil-kawża diretta tal-mewt.\nEżempji:\nTajjeb:\n\nTaqsima Ia.\nIb.\n\nTajjeb:\n\nTaqsima Ia.\nIb.\nIċ.\n\nTajjeb:\n\nTaqsima Ia.\nIb.\nIċ.\nId.\nTaqsima II:\n\nMetastasi fil-moħħ\n\nĦ ażin: Taqsima Ia. Karċinoma\n\nprimarja fil-pulmun\nIb. Metastasi fil-moħħ\n\nKarċinoma primarja\nfil-pulmun\nĦ ażin: Taqsima Ia. Emboliżmu kawżat\nEmboliżmu kawżat\nmix-xaħam ħażin\nmix-xaħam\nFrattura f’għonq il-femur\nIb. Frattura tal-femur\nWaqa’ t-taraġ fid-dar\ntiegħu\nĦ ażin: Taqsima Ia. Demm mil-varici\nDemm mil-variċi talesofagu\ntal-esofagu\nIpertensjoni portali\nĊirrosi fil-fwied\nEpatite kronika B\nDjabete mellitus\nTaqsima II: Ċirrosi fil-fwied\n\nĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT\n\n[ L.S.465.06\n\nPara. 17: Mwiet dovuti għal aċċident jew feriment: huwa importanti li tingħata\ninformazzjoni dwar il-ħin eżatt tal-inċident, il-post fejn ikun ġara l-feriment p.e. iddar, fit-triq, f’ristorant eċċ. kif ukoll dwar kif ġara l-feriment p.e. waqt li kien qed\njiżbogħ is-saqaf, kif ukoll jiġi indikat jekk l-aċċident ikunx ġara meta persuna kienet\nfuq ix-xogħol.\nPara. 18. Stat ta’ tqala: Hawn tingħata għajn ta’ informazzjoni importanti li hi\nmeħtieġa biex titqies il-mortalità tal-ommijiet.\nNota: Iżjed informazzjoni u eżempji dwar kif għandu jimtela ċertifikat tal-mewt\njistgħu jitniżżlu mill-website tad-Dipartiment tal-Informazzjoni u r-Ricerka fuq isSaħħa li tinsab fi:\nhttp://www.sahha.gov.mt/entities/healthinformation.html\n\nDikjarazzjoni dwar il-Protezzjoni ta’ Data: Id-Diviżjoni tas-Saħħa tittratta\ninformazzjoni sensittiva personali b’mod kunfidenzjali, u tintrabat li tikkonforma\nruħha mal-Att dwar il-Protezzjoni u l-Privatezza tad-Data, Kap. 586. Id-dettalji li\njinsabu fuq dan iċ-ċertifikat jiġu biss żvelati lil dawk l-Entitajiet fi ħadan din idDiviżjoni u kull awtorità oħra/korp ieħor permessi mil-liġi. Kull mistoqsija li jista’\njkollok għandha tintbagħat lid-Dipartiment tal-Informazzjoni u r-Ricerka fuq isSaħħa, 95, G’Mangia Hill, G’Mangia PTA 1313 jew permezz ta’ e-mail fuq\nhealthinfo@gov.mt",
+      "metadata": {
+        "source_line_start": 200,
+        "source_line_end": 322
+      }
+    }
+  ],
+  "definitions": []
+}

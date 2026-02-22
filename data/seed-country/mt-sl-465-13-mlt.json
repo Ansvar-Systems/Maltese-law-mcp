@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-465-13-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Perjodu ta’ Kwarantina Imħassar bl-Avviż Legali 134 tal-2022",
+  "title_en": "Ordni dwar il-Perjodu ta’ Kwarantina Imħassar bl-Avviż Legali 134 tal-2022",
+  "short_name": "eli/sl/465.13/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-12",
+  "url": "https://legislation.mt/eli/sl/465.13/20220509/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.13/mlt, expression eli/sl/465.13/20220509/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PERJODU TA’ KWARANTINA\n\n[ L.S.465.13\n\nLEĠISLAZZJONI SUSSIDJARJA 465.13\nORDNI DWAR IL-PERJODU TA’ KWARANTINA\n12 ta’ Marzu, 2020\n\nL-AVVIŻ LEGALI 40 tal-2020,kif emendat bl-Avviżi Legali 79, 252,\n279, 289, 471 tal-2020, 197, 254, 274, 300, 317 u 368, 392, 466 tal-2021,\n78, 92, 100, 112, 114 u 126 tal-2022.\n\nImħassar bl-Avviż Legali 134 tal-2022.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

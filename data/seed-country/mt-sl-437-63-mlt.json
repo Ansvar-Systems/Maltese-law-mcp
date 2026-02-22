@@ -1,0 +1,125 @@
+{
+  "id": "mt-sl-437-63-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Metodi ta’ Analiżi għall-Kontroll Uffiċjali ta’ l-Għalf Imħassrin bl-Avviż Legali 37 tal-2025",
+  "title_en": "Regoli dwar Metodi ta’ Analiżi għall-Kontroll Uffiċjali ta’ l-Għalf Imħassrin bl-Avviż Legali 37 tal-2025",
+  "short_name": "eli/sl/437.63/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2005-04-05",
+  "url": "https://legislation.mt/eli/sl/437.63/20250218/mlt",
+  "description": "Official text from legislation.mt (eli/sl/437.63/mlt, expression eli/sl/437.63/20250218/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 93 ta’ l-2005",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu Regoli dwar Metodi ta’\nAnaliżi għall-Kontroll Uffi`jali ta’ l-Għalf.\n(2) L-iskop ta’ dawn ir-regoli hu l-implementazzjoni tar-regoli\nmniżżla taħt id-Direttiva tal-Kummissjoni ta’ l-Unjoni Ewropea 72/\n199/KEE dwar metodi għal analiżi għall-kontroll uffi`jali ta’ lgħalf.\n(3) Malta teħtieġ li l-analiżi għall-kontroll uffi`jali ta’ l-għalf,\nfir-rigward tal-kontenut tagħhom ta’ lamtu, proteina nejja, proteina\nnejja li tinħall bil-Pepsin u hydrochloric acid, ta’ gossypol totali u\nliberu u fir-rigward ta’ l-attività tal-Pepsin għandhom isiru skond\nil-metodi mniżżla fl-Ewwel Skeda.\n(4) Malta teħtieg li l-analiżi għall-kontroll uffi`jali ta’ l-għalf,\nbiex jiġu determinati l-livelli ta’ tylosin u Virginiamycin fl-għalf,\nisiru skond il-metodi mniżżla fit-Tieni Skeda.\n\n*Dawn ir-regoli ġew imħassrin bl-Avviż Legali 37 tal-2025.\n\nTitolu, skop u\napplikabilità.\n\nL.S.437.63]\n\nMETODI TA’ ANALIŻI\nGĦALL-KONTROLL UFFIĊJALI TA’ L-GĦALF",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "KEE u tad-Direttiva tal-Kunsill ta’ l-Unjoni Ewropea 96/25/KEE",
+      "content": "Prinċipju\n\nDan il-metodu jinkorpora żewġ determinazzjonijiet. Fl-ewwel determinazzjoni, ilkampjun għandu jiġi trattat meta jkun jaħraq ma’ hydrochloric acid dilwit. Wara li\nji``ara u jiġi ffiltrat l-optical rotation tat-taħlita tiġi mkejla bil-polarimetry.\nFit-tieni determinazzjoni l-kampjuni jiġu estratti b’40% ethanol. Wara li l-filtrat\njiġi a`idifikat bil-hydrochloric acid, ji``ara u jiġi ffiltrat, l-optical rotation trid\ntitkejjel bħal qabel.\nId-differenza bejn iż-żewġ qifsien immultiplikata b’fattur magħruf tagħti lkontenut ta’ lamtu fil-kampjun.",
+      "metadata": {
+        "source_line_start": 55,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Reaġenti",
+      "content": "25% (w/w) hydrochloric acid, d: 1,126 g/ml.",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 72
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Apparat",
+      "content": "erlenmeyer flask ta’ 250ml b’standard ground glass joint u reflux\ncondenser",
+      "metadata": {
+        "source_line_start": 107,
+        "source_line_end": 109
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Pro`edura",
+      "content": "Preparazzjoni tal-Kampjun\n\nFarrak il-kampjun sakemm ikun biżżejjed fin biex jgħaddi kollu minn għarbiel\nb’xibka b’toqob tondi ta’ 0.5mm.",
+      "metadata": {
+        "source_line_start": 118,
+        "source_line_end": 123
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Qabbad reflux condenser ma’ l-erlenmeyer flask u għaddas il-flask ġo banju",
+      "content": "Kalkolu tar-Riżultati\n\nIl-kontenut ta’ lamtu (%) huwa kalkulat kif imniżżel hawn taħt:\nMiżura bi polarimeter:\n2000(P - P')\nKontenut ta’ lamtu (%) =\n\nġ αħ 20°\nD\n\nFejn:\nP = Optical rotation totali fi angle degrees\nP' = Optical rotation f’angle degrees tas-sustanza solubbli fi 40% (V/V) ethanol\n\nġαħ 20°\nD\n\n= optical rotation specifika tal-pure starch. Il-valuri numeri`i\nkonvenzjonalment a``ettati għall-fattur huma dawn li ġejjin:\n+ 185.9º: lamtu tar-ross\n+ 185.4º: lamtu tal-patata\n+ 184.6º: lamtu tal-qamħirrum\n+ 182.7º: lamtu tal-qamħ\n+ 181.5º: lamtu tax-xgħir\n+ 181.3º: lamtu tal-ħafur\n+ 184.0º: tipi oħra ta’ lamtu u taħlitiet ta’ lamtu f’għalf kompost.\n\nL.S.437.63]",
+      "metadata": {
+        "source_line_start": 163,
+        "source_line_end": 195
+      }
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "(2N × 0,665) × (S - S')",
+      "content": "6N × (S - S')\n20°\nġ αħ\nD\n\nFejn:\nS = optical rotation totali f’saccharimeter degrees\nS' = optical rotation fi saccharimeter degrees tas-sustanzi solubbli fi 40% (V/V)\nethanol\nN = piż (g) ta’ saccharose fi 100ml ta’ ilma u li jagħti optical rotation ta’ 100\nsaccharimeter degrees meta mkejjel permezz ta’ 200mm tube\n16,29 g għal saccharimeters\n26,00 g għal saccharimeters Ġermaniżi\n20,00 g għal saccharimeters mħallta.\n\nġ αħ 20°\nD",
+      "metadata": {
+        "source_line_start": 212,
+        "source_line_end": 229
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Osservazzjonijiet:",
+      "content": "Jekk il-kampjun ikun fih aktar minn 6% carbonates, ikkalkulati fis-sens\nta’ calcium carbonate dawn iridu jiġu distrutti b’trattament b’kwantità eżatta u\nxierqa ta’ dilute sulphuric acid qabel ma tiġi mkejla t-total optical rotation.",
+      "metadata": {
+        "source_line_start": 242,
+        "source_line_end": 245
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Osservazzjonijiet",
+      "content": "L-apparat jista’ jkun ta’ tip manwali, semi-awtomatiku jew awtomatiku.\n\nMETODI TA’ ANALIŻI\nGĦALL-KONTROLL UFFIĊJALI TA’ L-GĦALF\n\n[ L.S.437.63\n\nJekk l-apparat jeħtieg transference bejn id-diġestjoni u d-distillazzjoni, ittrasferiment irid isir bla telf. Jekk il-flask ta’ l-apparat tad-distillazzjoni mhux\nmgħammar b’dropping funnel, mill-ewwel żid is-sodium hydroxide qabel ma\ntqabbad il-flask mal-condenser waqt li tferra l-likwidu minn mal-ġenb.",
+      "metadata": {
+        "source_line_start": 470,
+        "source_line_end": 484
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Di potassium hydrogen phosphate K 2 HPO 4 A.R",
+      "content": "6g\n\nIlma iddistillat\n\n1000ml",
+      "metadata": {
+        "source_line_start": 1169,
+        "source_line_end": 1174
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Real activity = presumed activity* relative activity",
+      "content": "Kif jiġi ripetut\n\nId-differenza bejn ir-riżultati ta’ żewġ determinazzjonijiet paralleli meħuda millistess kampjun ma jistghux je``edu 10% f’valur relattiv.",
+      "metadata": {
+        "source_line_start": 1260,
+        "source_line_end": 1264
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-11-mlt",
+  "type": "statute",
+  "title": "Ordni dwar SmartCity bħala Żona Speċjali Imsemmija",
+  "title_en": "Ordni dwar SmartCity bħala Żona Speċjali Imsemmija",
+  "short_name": "eli/sl/246.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.11/mlt, expression eli/sl/246.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 109 ta’ l-2007",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar SmartCity b]ala\n|ona Spe`jali Msemmija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "SmartCity li tikkonsisti fi proprjetà immobbli mfissra\nb]ala s-Sit fl-att tal-Kon`essjoni Enfitewtika li g]andu ji[i ffirmat\nmill-Gvern ta’ Malta u SmartCity (Malta) Limited TECOM\nInvestments FZ-LLC u l-Awtorità Marittima ta’ Malta approvata\nmill-Kamra tad-Deputati fl-20 ta’ Marzu 2007 hija b’dan\nimsemmija b]ala |ona Spe`jali Msemmija g]all-finijiet ta’ l-Att\ndwar l-Akkwist ta’ Proprjet à Immobbli minn Persuni Mhux\nResidenti.\n\nTismija ta’ |ona\nSpe`jali.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Residenti",
+      "content": "SmartCity g]andha ti\\died mal-Lista ta’ |oni Skedati flEwwel Skeda li tinsab ma’ l-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni Mhux Residenti.\n\n|ieda ma’ l-Ewwel\nSkeda li tinsab ma’\nl-Att.\nKap. 246.\n\nKap. 246.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

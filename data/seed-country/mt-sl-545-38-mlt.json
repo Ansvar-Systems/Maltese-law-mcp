@@ -1,0 +1,195 @@
+{
+  "id": "mt-sl-545-38-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Infrastruttura għall-Iċċarġjar tal-Vetturi Elettriċi Aċċessibbli għall-Pubbliku",
+  "title_en": "Regolamenti dwar Infrastruttura għall-Iċċarġjar tal-Vetturi Elettriċi Aċċessibbli għall-Pubbliku",
+  "short_name": "eli/sl/545.38/mlt",
+  "status": "in_force",
+  "issued_date": "2022-09-19",
+  "in_force_date": "2022-11-13",
+  "url": "https://legislation.mt/eli/sl/545.38/20221113/mlt",
+  "description": "Official text from legislation.mt (eli/sl/545.38/mlt, expression eli/sl/545.38/20221113/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 226 tal-2022",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti\ndwar Infrastruttura għall-Iċċarġjar tal-Vetturi Elettriċi Aċċessibbli\ngħall-Pubbliku.\n\nTitolu u\napplikabbiltà.\n\n(2)\nDawn ir-regolamenti għandhom japplikaw għallinfrastruttura tal-iċċarġjar tal-vetturi elettriċi aċċessibbli għallpubbliku, esklużi:\n(a)\napparat\ninduzzjoni;\n(b)\n\ntal-iċċarġjar\n\nmingħajr\n\nfili\n\njew\n\nta’\n\napparat għall-iskambju tal-batterija;\n\n(ċ)\ninfrastrutturi\ntal-iċċarġjar\nddedikati\nesklussivament għall-iċċarġjar ta’ karozzi tal-linja u kowċis; u\n(d)\npunti tal-iċċarġjar li l-qawwa massima taliċċarġjar tagħhom ma taqbiżx it-3.7 kW.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "(d)",
+      "content": "(1)\nKemm-il darba ma jiġix stabbilit mod ieħor\nf’dawn ir-regolamenti, għandu japplika t-tifsir fl-Att dwar ir-Regolatur\ngħas-Servizzi tal-Enerġija u l-Ilma.\n\nTifsir.\nKap. 545.\n\n(2)\nF'dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\"aċċess għall-iċċarġjar\" tfisser il-proċedura li tippermetti li\nvettura tkun imqabbda mal-infrastruttura tal-iċċarġjar u t-trasferiment\ntal-enerġija meħtieġa għall-iċċarġjar;\n\"ambjent\" għandu jkollha l-istess tifsira kif mogħtija lilha fl-Att\ndwar il-Protezzjoni tal-Ambjent;\n\nKap. 549.\n\n\"Att\" tfisser l-Att dwar ir-Regolatur għas-Servizzi tal-Enerġija u\nl-Ilma;\n\nKap. 545.\n\n\"iċċarġjar bir-roaming\" tfisser l-għażla tal-utent li meta jkollu\nkuntratt ma' operatur tal-infrastruttura tal-iċċarġjar aċċessibbli għallpubbliku partikolari biex juża l-infrastruttura tal-iċċarġjar aċċessibbli\ngħall-pubbliku ta' operatur ieħor mingħajr ma jkollu kuntratt ma' dak loperatur u billi jkollu aċċess għal servizzi ta' ċċarġjar u ta’ ħlas\npermezz ta' pjattaforma ta' interoperabbilità;\n\n[ L.S. 545.38\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n\"infrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku\" tfisser ittagħmir kollu, bħal circuits tal-provvista elettrika, stazzjonijiet taliċċarġjar jew punti tal-iċċarġjar, tagħmir għall-kontroll u limmaniġġjar, u apparat li jippermetti b'mod partikolari t-trasmissjoni\ntad-dejta, superviżjoni, kontroll u ħlas, li huma meħtieġa għalliċċarġjar;\n\"ikkummissjonar\" tfisser l-ewwel darba li punt tal-iċċarġjar\naċċessibbli għall-pubbliku jitħaddem, wara li jiġi stabbilit li dan ikun\nlest mil-lat operativ;\n\"dekummissjonar\" tfisser it-tneħħija permanenti mill-operat ta’\npunt tal-iċċarġjar;\n\"fornitur ta’ servizz ta’ elettromobbiltà\" jew \"eMSP\" jew\n\"fornitur ta’ Servizz ta’ Mobilità Elettronika\" tfisser entità li tipprovdi\naċċess lis-sewwieqa tal-EV għas-servizzi tal-iċċarġjar;\n\"Open Charge Point Interface\" jew \"OCPI\" tfisser protokoll\nmiftuħ użat għal konnessjonijiet bejn l-operaturi ta’ stazzjoni taliċċarġjar u l-fornituri tas-servizzi u li jiffaċilita r-roaming awtomatizzat\ngħas-sewwieqa tal-EV f’diversi netwerks tal-iċċarġjar tal-EV;\n\"Open Charge Point Protocol\" jew \"OCPP\" tfisser protokoll ta'\napplikazzjoni għall-komunikazzjoni bejn stazzjonijiet tal-iċċarġjar talvetturi elettriċi (EV) u sistema ta' ġestjoni ċentrali, magħrufa wkoll\nbħala netwerk tal-istazzjon tal-iċċarġjar;\n\"operatur tal-infrastruttura tal-iċċarġjar aċċessibbli għallpubbliku\" jew \"operatur\" tfisser persuna fiżika jew ġuridika li tipprovdi\nservizzi tal-iċċarġjar tal-vetturi elettriċi lill-utenti u li tkun responsabbli\ngħall-manutenzjoni teknika tal-infrastruttura tal-iċċarġjar aċċessibbli\ngħall-pubbliku, li tiżgura d-disponibbiltà u l-operat tal-punti taliċċarġjar mill-ġdid ġestiti minn dik il-persuna, tissorveljahom u\ntikkontrollahom, kif ukoll tipprovdi d-dejta meħtieġa għal pjattaformi\nelettroniċi għall-monitoraġġ u l-kontroll ta' infrastrutturi rikarikabbli\nmeta jkun meħtieġ li jagħmel dan;\n\"pjattaforma ta' interoperabilità\" tfisser pjattaforma ta' software\nli permezz tagħha żewġ operaturi tal-infrastruttura tal-iċċarġjar\naċċessibbli għall-pubbliku jew aktar jikkontribwixxu għall-iskjerament\ntar-roaming billi jiffaċilitaw, jiżguraw u jottimizzaw l-iskambji taddejta u s-servizzi tal-ħlas bejn operaturi tal-infrastruttura tal-iċċarġjar\naċċessibbli għall-pubbliku;\n\"provditur awtorizzat\" tfisser id-detentur ta' awtorizzazzjoni\nmaħruġa mir-Regolatur taħt dawn ir-regolamenti li tippermetti lil dik ilpersuna biex taġixxi bħala operatur ta' infrastruttura tal-iċċarġjar\naċċessibbli għall-pubbliku;\n\"punt tal-iċċarġjar\" tfisser interface assoċjat ma’ spazju għall-\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\nparkeġġ li jagħmilha possibbli li vettura elettrika waħda tiġi ċċarġjata\nmill-ġdid kull darba;\n\"punt tal-iċċarġjar aċċessibbli għall-pubbliku\" tfisser punt taliċċarġjar, li jipprovdi aċċess mhux diskriminatorju mal-Unjoni kollha\ngħall-utenti. Aċċess mhux diskriminatorju jista' jinkludi termini\ndifferenti ta' awtentikazzjoni, użu u ħlas. B’mod partikolari, dawn li\nġejjin għandhom jitqiesu bħala punti tal-iċċarġjar aċċessibbli għallpubbliku:\n(a)\npunt tal-iċċarġjar li l-ispazju tal-parkeġġ tiegħu\nhuwa fiżikament aċċessibbli għall-pubbliku, inkluż fejn laċċess għall-ispazju tal-parkeġġ huwa soġġett għal\nawtorizzazzjoni u, jew il-ħlas ta' dritt ta' aċċess;\n(b)\npunt tal-iċċarġjar abbinat ma' sistema ta' karozzi\nkondiviżi u aċċessibbli għal partijiet terzi, inkluż bil-ħlas għasservizz tal-iċċarġjar;\nDawn li ġejjin ma għandhomx jitqiesu bħala punti tal-iċċarġjar\naċċessibbli għall-pubbliku:\n(a)\npunt tal-iċċarġjar installat f'bini residenzjali privat\njew f'binja esterna ta' bini residenzjali privat u riservat\nesklussivament għar-residenti;\n(b)\npunt tal-iċċarġjar assenjat esklussivament għalliċċarġjar tal-vetturi fis-servizz fl-istess entità u installat\nf'kumpartiment dipendenti fuq din l-entità;\n(ċ)\npunt tal-iċċarġjar installat f'workshop ta'\nmanutenzjoni jew tiswija mhux aċċessibbli għall-pubbliku;\n\"punt tal-iċċarġjar mill-ġdid ta' qawwa għolja\" tfisser punt taliċċarġjar mil-ġdid li jippermetti t-trasferiment ta' elettriku għal vettura\nelettrika b'qawwa ta' aktar minn 22kW;\n\"punt tal-iċċarġjar mill-ġdid ta’ enerġija normali\" tfisser punt\ntal-iċċarġjar mill-ġdid li jippermetti t-trasferiment tal-elettriku għal\nvettura elettrika b'qawwa inqas minn jew daqs 22kW, esklużi apparat\nb'qawwa inqas minn jew daqs 3.7 kW, li huma installati fid-djar privati\njew li l-għan primarju tagħhom mhuwiex li jiċċarġjaw vetturi elettriċi,\nu li mhumiex aċċessibbli għall-pubbliku;\n\"Sistema ta’ Ġestjoni tal-Punti tal-Iċċarġjar\" jew \"CPMS\"\ntfisser is-sistema ta’ ġestjoni mħaddma mill-operatur tal-punti taliċċarġjar biex jimmaniġġja u jżomm manutenzjoni tal-punti taliċċarġjar u s-sistema ta’ ġestjoni back-end u, jew tan-netwerk;\n\"tlestija mil-lat operattiv\" tfisser il-ħila li tiffunzjona skont iddisinn u l-ispeċifikazzjonijiet;\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S. 545.38\n\n\"utent\" tfisser l-utent aħħari li jeħtieġ li jiċċarġja vettura elettrika\npermezz ta' punt tal-iċċarġjar aċċessibbli għall-pubbliku;\n\"vettura elettrika\" jew \"EV\" tfisser vettura bil-mutur mgħammra\nb’powertrain li jkun fiha mill-inqas magna elettrika waħda mhux\nperiferali bħala konvertitur tal-enerġija b'sistema ta' ħażna tal-enerġija\nelettrika li tiċċarġja mill-ġdid u li tista' tiġi ċċarġjata esternament;\nB'mod partikolari, vetturi elettriċi jinkludu karozzi, kif ukoll\nmuturi, mopeds u roti elettriċi tal-kategoriji li ġejjin:\n(a)\n\"vettura purament elettrika\" tfisser vettura\nmgħammra b'sistema ta’ sewqan, li tinkludi esklussivament\nmuturi elettriċi bħala konvertituri tal-enerġija u sistemi elettriċi\nesklussivament rikarikabbli bħala sistemi ta' ħażna tal-enerġija;\n(b)\n\"vettura elettrika ibrida għall-iċċarġjar estern\"\ntfisser kategorija ta' vettura elettrika ibrida li tista' tiġi ċċarġjata\nminn sors estern;\n(ċ)\n\"vettura ibrida taċ-ċellula tal-fjuwil\" tfisser vettura\ntaċ-ċellula tal-fjuwil mgħammra b'sistema ta' trasmissjoni ta'\nenerġija li tinkludi mill-inqas sistema waħda ta' ħażna ta'\nkarburant u mill-inqas sistema waħda ta' ħażna elettrika\nrikarikabbli bħala sistema ta' ħażna elettrika;\n(d)\n\"ċikliżmu assistit (rota elettrika)\" tfisser rota\nmgħammra b'mutur elettriku awżiljarju ta' qawwa nominali\nmassima ta' inqas minn jew ugwali għal 250W u li l-qawwa talmagna tieqaf meta r-rota tilħaq 25 kilometru fis-siegħa.\nAwtorizzazzjoni\nbiex taġixxi bħala\noperatur talinfrastruttura taliċċarġjar\naċċessibbli għallpubbliku.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 205
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "aċċessibbli għallpubbliku",
+      "content": "(1)\nGħandha tkun meħtieġa awtorizzazzjoni biex\npersuna taġixxi bħala operatur ta’ infrastruttura tal-iċċarġjar aċċessibbli\ngħall-pubbliku.\n(2)\nAwtorizzazzjonijiet għandhom jinħarġu mir-Regolatur firrigward tal-eżekuzzjoni tal-operazzjonijiet, attivitajiet u prattiċi\nmsemmija f’dawn ir-regolamenti u għandhom jinkludu l-pattijiet u lkondizzjonijiet għall-eżekuzzjoni ta’ dawn l-operazzjonijiet, attivitajiet\nu prattiċi.\n(3)\nAwtorizzazzjoni maħruġa mir-Regolatur għandha tkun\nbil-miktub u, sakemm ma tiġix ikkanċellata, sospiża jew revokata skont\nxi kondizzjoni li tinsab fiha jew skont dawn r-regolamenti, jew taħt kull\nliġi oħra, din għandha tibqa’ fis-seħħ għal dak il-perjodu ta’ żmien kif\njista’ jiġi speċifikat fl-awtorizzazzjoni.\n(4)\nAwtorizzazzjonijiet sakemm ma jiġux revokati għandhom\nikunu validi għal perjodu ta' tnax (12)-il sena.\n(5)\n\nAwtorizzazzjoni maħruġa mir-Regolatur taħt dawn ir-\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\nregolamenti ma għandhiex teżenta lill-provditur awtorizzat mirrekwiżit li jikseb kwalunkwe awtorizzazzjoni jew permess ieħor kif\njista' jkun meħtieġ taħt xi liġi oħra.\n(6)\nKull persuna li tixtieq taġixxi bħala operatur ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku għandha\ntissottometti applikazzjoni bil-miktub lir-Regolatur f'dik il-forma u\nmanjiera li r-Regolatur jista' jippreskrivi. Għandu jitħallas dritt ta’\napplikazzjoni li ma jitħallasx lura ta' ħames mitt (€500) euro lirRegolatur mal-applikazzjoni għal awtorizzazzjoni.\n(7)\nIr-Regolatur għandu jistabbilixxi l-proċedura tiegħu\ngħall-finijiet tad-determinazzjoni ta' applikazzjoni għall-ħruġ ta'\nawtorizzazzjoni biex persuna taġixxi bħala operatur ta' infrastruttura\ntal-iċċarġjar aċċessibbli għall-pubbliku.\n(8)\nIr-Regolatur għandu jikkomunika lill-applikant bilmiktub fi żmien raġonevoli, li ma għandux ikun ta' aktar minn sitt (6)\nxhur mid-data tal-irċevuta ta' applikazzjoni valida, kwalunkwe\ndeċiżjoni meħuda dwar applikazzjoni għal awtorizzazzjoni jew\napplikazzjoni għat-tiġdid ta' awtorizzazzjoni jew kwalunkwe raġuni\nvalida li timpedixxi lir-Regolatur biex jasal għal deċiżjoni bħal din.\n(9)\nMalli tiskadi, awtorizzazzjoni tista' tiġġedded, u\napplikazzjoni għat-tiġdid ta' awtorizzazzjoni għandha tiġi sottomessa\nbil-miktub lir-Regolatur f'dik il-forma u manjiera li jista' jeħtieġ irRegolatur, sitt (6) xhur qabel id-data li fiha tiskadi l-awtorizzazzjoni.\nGħandu japplika ħlas ta' dritt li ma jitħallasx lura ta’ applikazzjoni ta’\ntiġdid ta' ħames mitt euro (€500).\n(10) Ir-Regolatur jista' jimmodifika, jemenda, jissostitwixxi,\niżid jew iħassar kwalunkwe kondizzjoni ta' awtorizzazzjoni flawtorizzazzjoni mġedda u jżid kondizzjonijiet speċifiċi rilevanti għal\nkull awtorizzazzjoni individwali kif ir-Regolatur iqis li huwa\nraġonevolment ġustifikat fiċ-ċirkostanzi.\n(11) L-ewwel dritt ta’ awtorizzazzjoni pagabbli taħt issubregolament (12) għandu jitħallas mill-provditur awtorizzat fi żmien\ntletin (30) jum mill-għoti tal-awtorizzazzjoni u wara kull tliet (3) snin\nfl-anniversarju tal-għoti ta’ tali awtorizzazzjoni jew kwalunkwe data\noħra li r-Regolatur jista’ raġonevolment jistabbilixxi.\n(12) L-ammont tad-dritt ta' awtorizzazzjoni għal kull punt talIċċarġjar għandu jkun ta’ ħamsa u sebgħin (€75) euro u għandu\njitħallas lir-Regolatur kull tliet (3) snin:\nIżda l-ammont tad-dritt tal-awtorizzazzjoni għal kull\npunt tal-iċċarġjar irreġistrat wara d-data tal-għoti tal-awtorizzazzjoni\ngħandu jiġi kkalkulat pro rata temporis.\n(13)\n\nJekk xi dritt ta' awtorizzazzjoni pagabbli taħt is-\n\n[ L.S. 545.38\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\nsubregolament (12) ma jitħallasx fi żmien tletin (30) jum mid-data li\nminnha jkun dovut il-ħlas tad-dritt tal-awtorizzazzjoni, ir-Regolatur\ngħandu wara li jiskadi dak iż-żmien jikkomunika mal-provditur\nawtorizzat, li d-dritt tal-awtorizzazzjoni tiegħu ma jkunx tħallas u\nb’hekk jinfurmah dwar in-nuqqas tiegħu li jħallas tali dritt.\n(14) Ir-Regolatur għandu jitqies li kkonforma massubregolament (13) jekk dik il-komunikazzjoni tintbagħat bil-posta\nrreġistrata, fl-indirizz tas-soltu jew l-aħħar wieħed magħruf talprovditur awtorizzat li d-dritt tal-awtorizzazzjoni tiegħu ma jkunx hekk\ntħallas.\n(15) Jekk xi dritt ta' awtorizzazzjoni msemmi fissubregolament (14) ma jitħallasx fi żmien tletin (30) jum wara d-data li\nfiha l-komunikazzjoni msemmija hawn tkun intbagħtet bil-posta\nrreġistrata, l-awtorizzazzjoni li tirreferi għaliha ma tibqax fis-seħħ, u\njekk il-persuna li lilha ngħatat tixtieq terġa' taġixxi bħala operatur ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku hija għandha tkun\nmeħtieġa tapplika għal awtorizzazzjoni ġdida.\n(16) Meta jikkunsidra kwalunkwe applikazzjoni bħal din, irRegolatur jista' jqis in-nuqqas preċedenti tal-applikant li jħallas id-dritt\ntal-awtorizzazzjoni pagabbli taħt is-subregolament (12) u ta'\nkwalunkwe spjegazzjoni rigward dak in-nuqqas li l-applikant jista'\njissottometti lir-Regolatur.\n(17) Ir-Regolatur għandu jkollu s-setgħa li jinkludi\nf'awtorizzazzjoni maħruġa taħt dawn ir-regolamenti kwalunkwe\nkondizzjonijiet li r-Regolatur iqis meħtieġa jew xierqa.\n(18) L-awtorizzazzjoni għandu jkollha sett minimu ta'\nkondizzjonijiet ġenerali:\nIżda kondizzjonijiet speċjali jistgħu jkunu mehmuża ma'\nkull awtorizzazzjoni maħruġa taħt dawn ir-regolamenti.\n(19) Il-provditur awtorizzat għandu f'kull ħin jikkonforma ma'\ndawn ir-regolamenti u mal-kondizzjonijiet tal-awtorizzazzjoni.\n(20) Il-kondizzjonijiet inklużi f'awtorizzazzjoni jista' jkun\nfihom, iżda mhux neċessarjament ikunu limitati għal, dispożizzjonijiet\ndwar:\n(a)\n\nl-għotja u t-terminu tal-awtorizzazzjoni;\n\n(b)\nis-sospensjoni, il-varjazzjoni u l-kondizzjonijiet\ntat-trasferiment tal-awtorizzazzjoni;\n(ċ)\nrekwiżiti ta' konformità għal kondizzjonijiet,\ndirezzjonijiet, ittri ta' ġestjoni, standards, linji gwida, kodiċijiet\nta' prattika jew regoli mogħtija mir-Regolatur jew kif jista' jkun\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\nstabbilit bil-liġi;\n(d)\nl-obbligi tal-provditur awtorizzat inklużi iżda\nmhux limitati għal obbligi ta' servizz tal-konsumatur;\n(e)\n\nprotezzjoni tal-konsumaturi;\n\n(f)\nmonitoraġġ u reġistrazzjoni tal-operazzjonijiet\nawtorizzati;\n(g)\nrappurtar,\nverifika\ninformazzjoni lir-Regolatur;\n\nu\n\nsottomissjoni\n\nta'\n\n(h)\nspezzjoni, teħid ta' kopji u teħid ta' estratti minn\nkotba u rekords miżmuma mill-provditur awtorizzat u t-twettiq\nta' kejl u testijiet fir-rigward ta' kwalunkwe faċilità, assi jew\nimpjant awtorizzat;\n(i)\nvalutazzjoni u verifika ta' operazzjonijiet,\nattivitajiet u prattiċi u l-konformità tagħhom malkondizzjonijiet tal-awtorizzazzjoni; u\n(j)\nregolament ta' kumpaniji sussidjarji u, jew\nkumpaniji li jeżegwixxu parti mill-operazzjonijiet regolati,\nattivitajiet u prattiċi.\n(21) Kull persuna mogħtija awtorizzazzjoni taħt dawn irregolamenti għandha:\n(a)\ntikkonforma ma' kwalunkwe direzzjoni mogħtija\nmir-Regolatur dwar dawk il-kwistjonijiet li huma speċifikati flawtorizzazzjoni jew huma ta' deskrizzjoni hekk speċifikata;\n(b)\nteżegwixxi operazzjonijiet, attivitajiet u prattiki\nregolati skont dawn il-kondizzjonijiet tal-awtorizzazzjoni;\n(ċ)\ntaġixxi skont kwalunkwe rekwiżit kif speċifikat\nfl-awtorizzazzjoni jew li huma ta' deskrizzjoni hekk speċifikata;\nu\n(d)\ntikkonforma\nmad-deċiżjonijiet\nistruzzjonijiet maħruġa mir-Regolatur.\n\njew\n\nl-\n\n(22) Il-provditur awtorizzat għandu jinforma lir-Regolatur bi\nkwalunkwe tibdil relatat mal-attività tiegħu li jirriżulta filkondizzjonijiet għall-awtorizzazzjoni tiegħu li ma jibqgħux jiġu\nsodisfatti u l-ħolqien ta' sussidjarji li l-attivitajiet tagħhom jaqgħu flambitu tal-awtorizzazzjoni u, jew l-iskema ta' awtorizzazzjoni.\n(23) Il-provditur awtorizzat għandu jirreġistra l-punt taliċċarġjar aċċessibbli għall-pubbliku mar-Regolatur fi żmien ħmistax\n(15)-il jum mid-data tal-ikkummissjonar ta' tali punt tal-iċċarġjar\n\n[ L.S. 545.38\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\npermezz tal-proċedura stabbilita mir-Regolatur għal tali għanijiet. Ilprovditur awtorizzat għandu jinnotifika wkoll lir-Regolatur fi żmien\nġurnata (1) mid-data tad-dekummissjonar ta' tali punt tal-iċċarġjar\npermezz tal-proċedura stabbilita mir-Regolatur għal tali għanijiet.\nGħoti ta'\nawtorizzazzjoni.",
+      "metadata": {
+        "source_line_start": 206,
+        "source_line_end": 409
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "awtorizzazzjoni",
+      "content": "(1)\nIr-Regolatur għandu jadotta kondizzjonijiet ġusti,\noġġettivi u trasparenti relatati mal-għoti ta' awtorizzazzjoni f'termini\ntal-prinċipji tal-ġustizzja naturali.\n(2)\nFit-teħid ta' deċiżjoni rigward l-għotja, ħruġ, emenda jew\ntiġdid jew kwalunkwe kwistjoni oħra li għandha x'taqsam ma'\nawtorizzazzjoni maħruġa taħt dawn ir-regolamenti, ir-Regolatur jista'\njieħu kont ta' dan li ġej:\n(a)\nkonformità mill-applikant mal-permessi u lawtorizzazzjonijiet l-oħra rilevanti kollha, ikunu kif ikunu\ndeskritti maħruġa minn kwalunkwe regolatur pubbliku ieħor;\n(b)\nil-kapaċità tal-applikant li jiżgura kondizzjonijiet\nta' sikurezza, fil-kuntest tal-awtorizzazzjoni li għaliha saret\napplikazzjoni;\n(ċ)\n\nintegrità privata u professjonali tal-applikant;\n\n(d)\n\nprotezzjoni tas-saħħa u s-sigurtà tal-impjegati;\n\n(e)\n\nprotezzjoni tal-ambjent;\n\n(f)\nrekord ta' konformità ma' dawn ir-regolamenti u\nkull liġi oħra rilevanti mill-persuna li fir-rigward tagħha\ngħandha tittieħed id-deċiżjoni;\n(g)\nl-adegwatezza tal-faċilità li għandha tiġi\nawtorizzata jew il-faċilità awtorizzata skont il-każ u fir-rigward\ntas-sikurezza, saħħa, sigurtà, sustanzi perikolużi, ambjent, użu\ntal-art u rekwiżiti ta' ppjanar;\n(h)\nil-ħtieġa għal faċilitajiet u servizzi li għandhom\njiġu pprovduti lill-klijenti fil-faċilità kkonċernata u l-punt safejn\nl-interessi tal-klijenti għandhom jiġu moqdija;\n(i)\nRaġunijiet għal\nrifjut għal\nawtorizzazzjoni.\n\nl-interess pubbliku b'mod ġenerali.",
+      "metadata": {
+        "source_line_start": 410,
+        "source_line_end": 458
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "l-interess pubbliku b'mod ġenerali",
+      "content": "Ir-Regolatur għandu jkollu d-dritt li jirrifjuta talba għallħruġ ta' awtorizzazzjoni jew, jekk inħarġet awtorizzazzjoni, talba għattiġdid ta' awtorizzazzjoni, għar-raġunijiet li:\n(a)\nir-Regolatur iqis li t-talba ma tissodisfax wieħed\njew aktar mill-kriterji msemmija fir-regolament 4(2); jew\n(b)\nl-applikazzjoni ma tinkludix l-informazzjoni\nkollha mitluba mir-Regolatur fil-formola tal-applikazzjoni jew\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\nkwalunkwe informazzjoni addizzjonali oħra li r-Regolatur jista'\njitlob mingħand l-applikant għall-iskop li tiġi determinata\napplikazzjoni għall-awtorizzazzjoni; jew\n(ċ)\nl-applikazzjoni ma tkunx akkumpanjata minn tali\ndritt ta' applikazzjoni kif speċifikat skont dawn ir-regolamenti:\nIżda kull deċiżjoni meħuda mir-Regolatur, inkluż irrifjut jew l-irtirar ta' awtorizzazzjoni, għandha tkun kompletament\nmotivata u għandha tkun miftuħa għal kontestazzjoni quddiem itTribunal ta' Reviżjoni Amministrattiva:\nIżda wkoll f'każ ta’ nuqqas mir-Regolatur li jinforma\nlill-applikant dwar kwalunkwe deċiżjoni meħuda dwar aċċess għal\nattività ta' servizz jew l-eżerċizzju tagħha, inkluż ir-rifjut jew l-irtirar\nta' awtorizzazzjoni, ma għandux ifisser b'xi mod, li r-Regolatur ikun\ntaċitament ta tali awtorizzazzjoni u li l-applikant ingħata\nawtomatikament aċċess għal attività ta’ servizz jew l-eżerċizzju\ntagħha.",
+      "metadata": {
+        "source_line_start": 459,
+        "source_line_end": 490
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "tagħha",
+      "content": "Ir-Regolatur jista', fi kwalunkwe żmien matul il-perjodu\nli għalih tkun valida awtorizzazzjoni, jordna s-sospensjoni, ir-revoka\njew il-kanċellazzjoni tagħha meta r-Regolatur ikun sodisfatt li:\n(a)\nid-detentur tal-awtorizzazzjoni jkun naqas jew\nqed jonqos milli jikkonforma ma' kwalunkwe kondizzjoni talawtorizzazzjoni jew ma' dawn ir-regolamenti;\n(b)\nid-detentur tal-awtorizzazzjoni ma għandux lawtorizzazzjonijiet u l-permessi rilevanti l-oħra kollha ikunu\nkif ikunu deskritti li huma meħtieġa minn kwalunkwe regolatur\npubbliku ieħor jew dipartiment tal-Gvern;\n(ċ)\nid-detentur tal-awtorizzazzjoni qiegħed jikser\nkwalunkwe rekwiżit impost mil-liġi;\n(d)\nid-detentur tal-awtorizzazzjoni jonqos milli\njikkonforma ma' kwalunkwe direttiva mogħtija mir-Regolatur;\n(e)\nkwalunkwe\ninformazzjoni\nsottomessa\nflapplikazzjoni għal awtorizzazzjoni jew l-applikazzjoni għattiġdid ta' awtorizzazzjoni u li għaliha nħarġet jew ġiet imġedda\nl-awtorizzazzjoni, skont il-każ, hija ddeterminata bħala falza;\njew\n(f)\njekk id-detentur tal-awtorizzazzjoni ma jissodisfa\nl-ebda kriterju fir-rigward ta' wieħed jew aktar mill-kriterji\nmsemmija fir-regolament 5(2):\nIżda fl-eżerċizzju tas-setgħat għal sospensjoni, revoka\njew kanċellazzjoni ta' awtorizzazzjonijiet, ir-Regolatur jista' jieħu kont\n\nSospensjoni,\nrevoka jew\nkanċellazzjoni ta'\nawtorizzazzjoni.\n\n[ L.S. 545.38\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\ntan-natura tan-nuqqas, jew il-fatt li d-detentur tal-awtorizzazzjoni\nqiegħed jieħu l-passi xierqa li r-Regolatur iqis li huma meħtieġa biex\njikkonforma mal-kondizzjonijiet tal-awtorizzazzjoni, dawn irregolamenti jew kwalunkwe rekwiżit ieħor li r-Regolatur jista' jqis\nrilevanti.\nTmiem ta'\nawtorizzazzjoni.",
+      "metadata": {
+        "source_line_start": 491,
+        "source_line_end": 541
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "awtorizzazzjoni",
+      "content": "(1)\nMeta d-detentur ta' awtorizzazzjoni maħruġa taħt\ndawn ir-regolamenti, jiddeċiedi li jew jissospendi jew itemm lawtorizzazzjoni tiegħu, dak id-detentur għandu jinnotifika minnufih lirRegolatur fil-forma preskritta mir-Regolatur, biex jinnotifika tali\nterminazzjoni jew sospensjoni.\n(2) Wara rikonoxximent mir-Regolatur lid-detentur ta'\nawtorizzazzjoni tan-notifika msemmija fis-subregolament (1), lawtorizzazzjoni għandha titqies li ma baqgħetx fis-seħħ u b'effett\nimmedjat mid-data ta' tali rikonoxximent dak id-detentur għandu jitqies\nli mhuwiex awtorizzat.\n(3)\nMinkejja kull avviż għat-terminazzjoni jew is-sospensjoni\nta' awtorizzazzjoni, id-detentur tal-awtorizzazzjoni għandu jibqa'\nresponsabbli għall-ħlas ta' kwalunkwe dritt dovut lir-Regolatur.\n\nTrasferiment ta'\nawtorizzazzjoni.",
+      "metadata": {
+        "source_line_start": 542,
+        "source_line_end": 558
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "awtorizzazzjoni",
+      "content": "(1)\nAwtorizzazzjoni maħruġa mir-Regolatur taħt dawn\nir-regolamenti ma għandhiex tkun trasferita validament inter vivos lil xi\npersuna oħra sakemm:\n(a)\nmin jittrasferixxi jinforma bil-miktub lir-Regolatur\nb'tali forma u mod li għandu jippreskrivi r-Regolatur;\n(b)\nir-Regolatur huwa sodisfatt li mill-inqas l-istess\nkriterji kif elenkati fir-regolament 4(2) huma mħarsa;\n(ċ)\nit-trasferiment huwa soġġett għall-kondizzjonijiet\npreskritti fl-awtorizzazzjoni; u\n(d)\nir-Regolatur japprova bil-miktub it-trasferiment\ntal-awtorizzazzjoni.\n(2)\nAwtorizzazzjoni maħruġa mir-Regolatur taħt dawn irregolamenti ma għandhiex tkun trasferita validament causa mortis lil xi\npersuna oħra sakemm:\n(a)\nmin jittrasferixxi jinforma bil-miktub lir-Regolatur\nb'dik il-forma u mod kif ir-Regolatur għandu jippreskrivi;\n(b)\nir-Regolatur huwa sodisfatt li mill-inqas l-istess\nkriterji kif elenkati fir-regolament 4(2) huma mħarsa;\n(ċ)\nit-trasferiment huwa soġġett għall-kondizzjonijiet\npreskritti fl-awtorizzazzjoni; u\n(d)\n\nir-Regolatur japprova bil-miktub it-trasferiment\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\ntal-awtorizzazzjoni:\nIżda awtorizzazzjoni maħruġa skont dawn ir-regolamenti\ngħandha tkun dritt indiviżibbli:\nIżda wkoll fil-każ li r-Regolatur japprova t-trasferiment\ntal-awtorizzazzjoni kif intqal qabel, it-trasferiment għandu jkollu effett\nretrospettiv mid-data tal-mewt tad-decujus.\n(3)\nFejn il-provditur awtorizzat huwa korp ġuridiku jew\nkwalunkwe korp ieħor ta' persuni, bidla fil-kontroll tas-sjieda jew talġestjoni ta' dak il-korp għandha titqies li tkun ekwivalenti għattrasferiment tal-awtorizzazzjoni u għandha tkun soġġetta għallapprovazzjoni tar-Regolatur. Għall-fini ta’ dan is-subregolament,\ntrasferiment fil-kontroll tas-sjieda ta’ korp ġuridiku jew korp ieħor ta’\npersuni għandu jitqies li jseħħ fi kwalunkwe każ fejn trasferiment talkapital, ishma, stokks jew drittijiet oħra miżmuma fil-korp ġuridiku\njew korp ieħor ta' persuni jwassal għal bidla fil-persuna li jkollha linteress ta' kontroll f’dak il-korp.",
+      "metadata": {
+        "source_line_start": 559,
+        "source_line_end": 611
+      }
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "trasferiment fil-kontroll tas-sjieda ta’ korp ġuridiku jew korp ieħor ta’",
+      "content": "(1)\nOperatur ta' infrastruttura tal-iċċarġjar aċċessibbli\ngħall-pubbliku għandu japplika għal servizz ta' konnessjoni talelettriku kif stabbilit fir-Regolamenti fuq il-Provvista tal-Elettriku u\ngħandu jkun soġġett għall-imposti applikabbli u t-tariffi tal-konsum\nstabbiliti fihom.\n(2)\nL-installazzjoni tal-wajers elettriċi użata biex tforni lelettriku lil infrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku\ngħandha tkun konformi mar-Regolamenti dwar l-Installazzjonijiet\nElettriċi u għandha titwettaq u tiġi ċċertifikata minn provditur\nawtorizzat li jkollu l-awtorizzazzjoni xierqa skont ir-regolamenti hawn\nfuq imsemmija.",
+      "metadata": {
+        "source_line_start": 612,
+        "source_line_end": 623
+      }
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "fuq imsemmija",
+      "content": "(1)\nL-infrastrutturi tal-iċċarġjar aċċessibbli għallpubbliku kollha għandu jkollhom apparat ta' kejl u kontroll installat\nbiex jikkontrolla u jimmaniġġja l-iċċarġjar.\n\nKonnessjoni malgrilja.\nL.S. 545.01.\n\nL.S. 545.24.\n\nKejl.\n\n(2)\nIt-tagħmir\ntal-kejl\ntal-infrastruttura\ntal-iċċarġjar\naċċessibbli għall-pubbliku għandu jkun konformi mar-Regolamenti\ndwar Strumenti ta’ Kejl.\n\nL.S. 454.15.",
+      "metadata": {
+        "source_line_start": 624,
+        "source_line_end": 645
+      }
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Kejl",
+      "content": "(1)\nKull punt tal-iċċarġjar aċċessibbli għall-pubbliku\ngħandu jkun irreġistrat fuq reġistru nazzjonali tal-infrastruttura għalliċċarġjar tal-vetturi elettriċi aċċessibbli għall-pubbliku. Ir-Regolatur\ngħandu jassenja identifikatur uniku għal kull punt tal-iċċarġjar.\n\nReġistru\nnazzjonali,\nskambju ta' dejta u\nsistema ta'\nsuperviżjoni.\n\n(2)\nMinbarra l-identifikatur tal-punt tal-iċċarġjar, linformazzjoni meħtieġa għall-aċċess għall-iċċarġjar u l-metodi\noperattivi, kif ukoll numru tat-telefon jew buttuna tas-sejħa konnessa\njew kwalunkwe mezz ieħor ekwivalenti biex tilħaq l-operatur f'każijiet\nta' funzjonament ħażin għandhom ikunu disponibbli fil-viċinanza\n\n[ L.S. 545.38\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\nimmedjata tal-punt tal-iċċarġjar aċċessibbli għall-pubbliku.\n(3) Dejta relatata mal-post ġeografiku u l-karatteristiċi\ntekniċi ta' punti tal-iċċarġjar aċċessibbli għall-pubbliku għandha tkun\naċċessibbli fuq bażi miftuħa għall-utenti kollha b'mod mhux\ndiskriminatorju. L-operatur għandu jieħu l-miżuri xierqa biex jiżgura li\ndin id-dejta tiġi aġġornata kontinwament, issir pubblika u għandu\njippermetti l-użu mill-ġdid bla ħlas ta' din id-dejta.\n(4)\nInfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku\ngħandu jkollha sistema ta’ superviżjoni li tippermetti l-iskambju taddejta ma’ kull punt tal-iċċarġjar kif ukoll monitoraġġ f’ħin reali talistat tal-infrastruttura tal-iċċarġjar, u li jirreġistra l-parametri essenzjali\ntal-użu tas-servizz, inklużi dawk li jikkonċernaw l-enerġija mogħtija.\n(5)\nL-Open Charge Point Protocol għandu jintuża minn\nkwalunkwe operatur għall-komunikazzjoni bejn il-punti tal-iċċarġjar u\ns-sistema tal-ġestjoni tal-punt tal-iċċarġjar.\n(6)\nIl-protokoll Open Charge Point Interface għandu jintuża\ngħall-komunikazzjoni bejn il-fornituri tas-servizz tal-elettromobilità u\nl-operaturi tal-punti tal-iċċarġjar u għall-komunikazzjoni bejn ilfornituri tas-servizzi tal-elettromobilità jew l-operaturi tal-punti taliċċarġjar u l-pjattaformi li jipprovdu servizzi ta’ ċċarġjar roaming.\nIċċarġjar ad hoc.",
+      "metadata": {
+        "source_line_start": 646,
+        "source_line_end": 692
+      }
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Iċċarġjar ad hoc",
+      "content": "L-operatur għandu jieħu l-miżuri xierqa biex\njiggarantixxi, taħt kondizzjonijiet mhux diskriminatorji, aċċess għallimposti u, fejn applikabbli, il-ħlas relatat, lil kwalunkwe utent li\njitlobha mingħajr l-obbligu li jidħol f'kuntratt ma' tali operatur:\nIżda l-obbligu huwa preżunt li ġie sodisfatt billi\njippermetti l-iċċarġjar ad hoc u ħlas relatat mingħajr il-ħtieġa għarreġistrazzjoni jew l-awtentikazzjoni tal-utent bl-ebda mod u permezz\nta':\n(a)\nsistema komuni ta' ħlas ibbażata fuq il-kard li\njinkludu sistemi contactless jew metodu ta' ħlas fi flus kontanti\nfil-viċinanza immedjata tal-punt tal-iċċarġjar; u, jew\n(b)\n\nIċċarġjar fuq bażi\nkuntrattwali.\n\nsistema ta' ħlas komuni bbażata fuq l-internet.",
+      "metadata": {
+        "source_line_start": 693,
+        "source_line_end": 710
+      }
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "sistema ta' ħlas komuni bbażata fuq l-internet",
+      "content": "(1)\nMingħajr preġudizzju għar-regolament 12,\noperatur jista' joffri servizzi ta' ċċarġjar ta' vetturi elettriċi lill-utenti fuq\nbażi kuntrattwali, inkluż f'isem u għan-nom ta’ operaturi oħra. Loperaturi li joffru servizz ta’ ċċarġjar fuq bażi kuntrattwali f’isem\noperaturi oħra jistgħu jipprovdu dan is-servizz permezz ta’ konnessjoni\ndiġitali tal-infrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku għal\npjattaforma ta’ interoperabilità, kemm jekk ġestita mill-istess operatur\nta’ infrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku jew minn\npartijiet terzi.\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S.545.38\n\n(2)\nIl-pjattaforma ta’ interoperabbiltà għandha toffri servizz\nta' intermedjazzjoni universali bejn il-funzjonijiet ta' operatur ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku, li tiżgura liskambji tad-dejta meħtieġa għall-iċċarġjar bir-roaming u servizzi\nassoċjati bħal sejba u prenotazzjoni ta' punti ta' ċċarġjar, meta dawn\njiġu offruti mill-operaturi kkonċernati.\n(3)\nIl-pjattaforma ta’ interoperabilità għandha tinkludi lmiżuri xierqa biex tagħmel is-servizz ta' intermedjazzjoni aċċessibbli\ngħal operaturi oħra ta' infrastruttura tal-iċċarġjar aċċessibbli għallpubbliku li l-attività tagħhom teħtieġ interazzjoni ma' operaturi ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku jew utenti.\n(4)\nPjattaforma ta’ interoperabbiltà għandha tinkludi lmiżuri xierqa biex tistabbilixxi relazzjonijiet ma' pjattaformi oħra ta'\ninteroperabilità sabiex l-abbonat ta' operatur ta' infrastruttura taliċċarġjar aċċessibbli għall-pubbliku jkun jista' jiġi konness ma' waħda\nminn dawn il-pjattaformi, u biex ikollu aċċess għall-infrastruttura taliċċarġjar aċċessibbli għall-pubbliku ta' operaturi konnessi ma'\npjattaformi oħra.\n(5)\nPjattaforma ta' interoperabilità ma għandhiex, minħabba\nl-organizzazzjoni jew l-attività tagħha, tikkonferixxi jew\ntikkontribwixxi biex tagħti vantaġġ lil operatur partikolari ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku.",
+      "metadata": {
+        "source_line_start": 711,
+        "source_line_end": 749
+      }
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "infrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku",
+      "content": "(1)\nIl-prezz għal kull kWh ta' elettriku kkunsinnat\nminn punt tal-iċċarġjar aċċessibbli għall-pubbliku għandu jkun kif\nstabbilit fir-Regolamenti fuq il-Provvista tal-Elettriku u l-operatur ta'\ninfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku ma għandux\njagħmel profitt mill-bejgħ mill-ġdid tal-elettriku.\n(2)\nIl-prezz li għandu jitħallas lill-utenti ta' infrastruttura taliċċarġjar aċċessibbli għall-pubbliku għall-użu tas-servizz tal-iċċarġjar\n(eskluż il-komponent tal-elettriku) għandu jkun iddeterminat milloperatur. L-operatur jista' jżid primjum għal kull kWh għas-servizz taliċċarġjar mat-tariffa regolata kif stabbilit fir-Regolamenti fuq ilProvvista tal-Elettriku. Dan il-primjum għandu jitqies li jkopri l-ispiża\nta' investiment, installazzjoni, tħaddim, manutenzjoni u ġestjoni talpunt tal-iċċarġjar kif ukoll kwalunkwe sistema ta' ġestjoni tannetwerk, filwaqt li tinkludi profitt raġonevoli.\n\nTrasparenza talprezz.\nL.S. 545.01.\n\nL.S. 545.01.\n\n(3)\nFuq kull punt tal-iċċarġjar aċċessibbli għall-pubbliku, ilkaratteristiċi tekniċi u t-tqassim tal-komponenti tal-prezz għandhom\nikunu indikati b'mod ċar. Il-prezz applikabbli tal-elettriku għal kull\nkWh għandu jkun distint b'mod ċar u muri separatament millkomponenti l-oħra tal-prezz.",
+      "metadata": {
+        "source_line_start": 750,
+        "source_line_end": 770
+      }
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Trasparenza talprezz",
+      "content": "(1)\nPunt tal-iċċarġjar normali li huwa wkoll punt taliċċarġjar aċċessibbli għall-pubbliku għandu jkun mgħammar millinqas b'sokit tat-Tip 2 jew konnettur tat-tip 2, kif deskritt fl-istandard\n\nStandards.\n\nINFRASTRUTTURA GĦALL-IĊĊARĠJAR TAL-VETTURI\nELETTRIĊI AĊĊESSIBBLI GĦALL-PUBBLIKU\n\n[ L.S. 545.38\n\nEN 62196-2.\n(2)\nPunt tal-iċċarġjar ta' qawwa għolja ta' kurrent dirett li\nhuwa wkoll punt tal-iċċarġjar aċċessibbli għall-pubbliku għandu jkun\nmgħammar tal-inqas b’konnettur wieħed tat-Tip Combo2 kif deskritt\nfl-istandard EN 62196-3.\n(3)\nPunt tal-iċċarġjar ta' qawwa għolja ta’ kurrent alternanti li\nhuwa wkoll punt tal-iċċarġjar aċċessibbli għall-pubbliku għandu jkun\nmgħammar tal-inqas b’konnettur wieħed tat-Tip 2 kif deskritt flistandard EN 62196-2.\n(4)\nPunt tal-iċċarġjar aċċessibbli għall-pubbliku riżervat għal\nvetturi elettriċi tal-Kategorija L sa 3.7kVA għandu jkun mgħammar talinqas b’waħda minn dawn li ġejjin:\n(a)\nsokits jew konnetturi tal-vettura tat-Tip 3a kif\ndeskritt fl-istandard EN 62196-2 (għall-iċċarġjar tal-Mod 3);\n(b)\nsokits u konnetturi konformi mal-IEC 60884\n(għall-iċċarġjar Mode 1 jew Mode 2).\n(5)\n\nSokits tal-iċċarġjar għandu jkollhom xaters tas-sigurtà.\n\nManutenzjoni ta'\ninfrastruttura taliċċarġjar\naċċessibbli għallpubbliku.",
+      "metadata": {
+        "source_line_start": 771,
+        "source_line_end": 811
+      }
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "aċċessibbli għallpubbliku",
+      "content": "L-operatur għandu jkun responsabbli għaż-żamma talinfrastruttura tal-iċċarġjar aċċessibbli għall-pubbliku fi stat tajjeb u\nsigur ta’ tħaddim, u biex jiżgura li ssir manutenzjoni regolari.\n\nPenalitajiet\namministrattivi.",
+      "metadata": {
+        "source_line_start": 812,
+        "source_line_end": 818
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "amministrattivi",
+      "content": "(1)\nIr-Regolatur jista' jimponi penali amministrattiva\nfuq kull persuna li tikser xi dispożizzjoni ta' dawn ir-regolamenti jew\nta’ xi kondizzjoni ta’ awtorizzazzjoni jew approvazzjoni maħruġa\ntaħthom jew li tonqos milli tikkonforma ma' xi direttiva jew deċiżjoni\nmogħtija mir-Regolatur biex tiżgura konformità ma' dawn irregolamenti.\n(2)\nPenali amministrattiva imposta taħt is-subregolament (1)\nma għandhiex taqbeż mitt elf euro (€100,000).\n\nAppelli.\nKap. 490.",
+      "metadata": {
+        "source_line_start": 819,
+        "source_line_end": 832
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Appelli",
+      "content": "It-Tribunal ta' Reviżjoni Amministrattiva mwaqqaf blartikolu 5 tal-Att dwar il-Ġustizzja Amministrattiva għandu jkun\nkompetenti biex jisma' u jiddetermina appelli minn deċiżjonijiet tarRegolatur magħmula taħt dawn ir-regolamenti. Sakemm il-liġi ma\ntipprovdix mod ieħor, appell minn deċiżjoni tar-Regolatur magħmul\ntaħt dawn ir-regolamenti għandu jkun quddiem it-Tribunal ta' Reviżjoni\nAmministrattiva skont l-artikolu 32 tal-Att.",
+      "metadata": {
+        "source_line_start": 833,
+        "source_line_end": 841
+      }
+    }
+  ],
+  "definitions": []
+}

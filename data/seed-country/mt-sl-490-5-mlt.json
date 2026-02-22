@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-490-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Preżentata ta’ Atti fit-Tribunal ta’ Reviżjoni Amministrattiva permezz ta’ Mekkaniżmu Elettroniku",
+  "title_en": "Regolamenti dwar il-Preżentata ta’ Atti fit-Tribunal ta’ Reviżjoni Amministrattiva permezz ta’ Mekkaniżmu Elettroniku",
+  "short_name": "eli/sl/490.5/mlt",
+  "status": "in_force",
+  "issued_date": "2015-10-13",
+  "in_force_date": "2015-10-13",
+  "url": "https://legislation.mt/eli/sl/490.5/20151013/mlt",
+  "description": "Official text from legislation.mt (eli/sl/490.5/mlt, expression eli/sl/490.5/20151013/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 304 tal-2015",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilPreżentata ta’ Atti fit-Tribunal ta’ Reviżjoni Amministrattiva\npermezz ta’ Mekkaniżmu Elettroniku.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "permezz ta’ Mekkaniżmu Elettroniku",
+      "content": "(1) F’dawn ir-regolamenti, sakemm ir-rabta’ tal-kliem ma\nteħtieġx xort’oħra:\n\"Att\" tfisser l-Att dwar il-Ġustizzja Amministrattiva;\n\nTitolu.\n\nTifsir.\nKap. 490.\n\n\"permezz ta’ mekkaniżmu elettroniku\" għandha tfisser online;\n\"rikors\" tfisser rikors magħmul skont id-dispożizzjonijiet talartikolu 15(2) tal-Att.\n(2) Il-kliem u l-espressjonijiet l-oħra li jinsabu f’dawn irregolamenti għandu jkollhom l-istess tifsira mogħtija lilhom fl-Att.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Għandu jkun hemm mekkaniżmu elettroniku li permezz\ntiegħu rikorsi skont id-dispożizzjonijiet tal-artikolu 15(2) tal-Att\nquddiem it-Tribunal ta’ Reviżj oni Amministrattiva jistgħu jiġu\nppreżentati online.\n\nKif jitħaddem ilmekkaniżmu\nelettroniku.\n\n(2) Persuna li tkun tixtieq tippreżenta rikors kif imsemmi hawn\nqabel, permezz tar-rappreżentant legali tagħha, tista’ tagħmel dan\nonline u tħallas id-dritt preskritt.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1) Is-Segretarju jew persuni minnu delegati jistgħu\njirċievu r-rikors kif hawn imsemmi ppreżentat bil-mekkaniżmu\nelettroniku.\n(2) Rikorsi ppreżentati permezz ta’ mekkaniżmu elettroniku\ngħandhom jitqiesu għall-finijiet u effetti kollha tal-liġi daqslikieku\nġew ippreżentati direttament fir-Reġistru tal-istess Tribunal, b’dan\ni l l i m e t a r- r i k o r s q u d d i e m i t - Tr i b u n a l t a ’ R e v i ż j o n i\nAmministrattiva jigi ppreżentat permezz ta’ mekkaniżmu\nelettroniku barra mill-ħinijiet tal-ftuħ tar-Reġistru stabbiliti taħt ilKodiċi ta’ Organizzazzjoni u Proċedura Ċivili, dak l-att għandu\njitqies illi ġie ppreżentat fl-ewwel ġurnata li jkun imiss tal-ftuħ talistess Reġistru.\n\n*ara r-regolament 1(2) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament.\n\nResponsabbiltà tasSegretarju u meta\njitqiesu li ġew\nippreżentati l-atti\nonline.\n\nKap. 12.",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

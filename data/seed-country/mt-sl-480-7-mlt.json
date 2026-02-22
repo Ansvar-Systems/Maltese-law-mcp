@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-480-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Sospensjoni tal-Kundizzjonijiet rigward it-Tiġdid ta’ Liċenza A Speċjali ta’ Sparatur fuq Targets",
+  "title_en": "Regolamenti dwar is-Sospensjoni tal-Kundizzjonijiet rigward it-Tiġdid ta’ Liċenza A Speċjali ta’ Sparatur fuq Targets",
+  "short_name": "eli/sl/480.7/mlt",
+  "status": "in_force",
+  "issued_date": "2021-03-01",
+  "in_force_date": "2021-02-05",
+  "url": "https://legislation.mt/eli/sl/480.7/20210205/mlt",
+  "description": "Official text from legislation.mt (eli/sl/480.7/mlt, expression eli/sl/480.7/20210205/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 42 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nis-Sospensjoni tal-Kundizzjonijiet rigward it-Tiġdid ta’ Liċenza A\nSpeċjali ta’ Sparatur fuq Targets.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’ oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar l-Armi;\n\nKap. 480.\n\n\"Regolamenti\" tfisser ir-Regolamenti dwar il-Liċenzi għall-\n\nL.S. 480. 02.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Armi",
+      "content": "Detentur ta’ Liċenza A Speċjali ta’ Sparatur fuq Targets\ngħandu jkollu l-liċenzja tiegħu mġedda għas-sena 2021 anke jekk ma\njissodisfax ir-rekwiżit indikat fir-regolament 21A(6) tar-Regolamenti,\ndiment li jissodisfa r-rekwiżiti l-oħra kollha fil-liġi.\n\nTiġdid ta’ Liċenza\nA Speċjali ta’\nSparatur fuq\nTargets.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

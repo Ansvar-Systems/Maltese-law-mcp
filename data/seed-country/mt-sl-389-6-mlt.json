@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-389-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Sospensjoni tal-Korsijiet għat-Tiġdid tal-Liċenzji tal-Gwardjani Privati u Uffiċjali tal-Komunità li jestendu l-validità tal-liċenzji",
+  "title_en": "Regolamenti dwar is-Sospensjoni tal-Korsijiet għat-Tiġdid tal-Liċenzji tal-Gwardjani Privati u Uffiċjali tal-Komunità li jestendu l-validità tal-liċenzji",
+  "short_name": "eli/sl/389.6/mlt",
+  "status": "in_force",
+  "issued_date": "2020-07-27",
+  "in_force_date": "2020-07-27",
+  "url": "https://legislation.mt/eli/sl/389.6/20200727/mlt",
+  "description": "Official text from legislation.mt (eli/sl/389.6/mlt, expression eli/sl/389.6/20200727/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 238 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar is-Sospensjoni tal-Korsijiet għat-Tiġdid tal-Liċenzji talGwardjani Privati u Uffiċjali tal-Komunità li jestendu l-validità talliċenzji.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’ oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar Gwardjani Privati u Uffiċjali\ntal-Komunità;\n\nKap. 389.\n\n\"gwardjan privat\" għandha l-istess tifsira mogħtija lilha\nfl-artikolu 2 tal-Att;\n\"uffiċjal tal-komunità\" għandha l-istess tifsira mogħtija\nlilha fl-artikolu 2 tal-Att.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-liċenzji ta’ Gwardji Privati u Uffiċjali tal-Komunità li\nskadew fl-1 ta' Marzu 2020 jew wara sal-15 ta’ Ġunju 2020 għandhom\njiġu estiżi sal-1 ta' Awwissu 2020.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 38
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Estensjoni",
+      "content": "Il-liċenzji tal-Gwardji Privati msemmija fir-regolament 3\ngħandhom jiġu mġedda biss wara li d-detenturi tal-liċenzji jkunu\ngħamlu refresher kors kif previst fir-regolament 4(3) tar-Regolamenti\ndwar il-Gwardji Privati.\n\nTiġdid.\n\nL.S. 389.01.",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 52
+      }
+    }
+  ],
+  "definitions": []
+}

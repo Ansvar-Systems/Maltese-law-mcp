@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-296-12-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Tneħħija ta’ Arei ta’ Reġistrazzjoni",
+  "title_en": "Ordni dwar Tneħħija ta’ Arei ta’ Reġistrazzjoni",
+  "short_name": "eli/sl/296.12/mlt",
+  "status": "in_force",
+  "issued_date": "2022-02-11",
+  "in_force_date": "2022-02-11",
+  "url": "https://legislation.mt/eli/sl/296.12/20220211/mlt",
+  "description": "Official text from legislation.mt (eli/sl/296.12/mlt, expression eli/sl/296.12/20220211/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 73 tal-2022",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Tneħħija ta’ Arei\nta’ Reġistrazzjoni.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dan l-ordni, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar ir-Reġistrazzjoni ta’ Artijiet.\n\nKap. 296.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "L-arei murija deskritti b’linja mhux kontinwa fuq ilmappa ta’ Għawdex enumerata G48 li tinsab fl-Iskeda ma għadhomx\njiffurmaw parti minn arei ta’ reġistrazzjoni għall-finijiet tal-artikolu 10\ntal-Att.\n\nDikjarazzjoni ta’\ntneħħija ta’ arei\nta’reġistrazz-joni.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kif provdut fis-subartikou (1) tal-artikolu 16B kull\nreġistrazzjoni magħmula fl-imsemmija area għandha titqies imħassra u\nbla effett ħlief għal dawk ir-reġistrazzjonijiet li wasslu għal titolu\ngarantit skont l-artikoli 21 sa 25 tal-Att, iż-żewġ artikoli inklużi.\n\nTħassir ta’ arei\nreġistrati.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "reġistrati",
+      "content": "Kull kawzjoni, ipoteka, privileġġ jew jedd ieħor marbut\nma’ reġistrazzjoni mħassra skont is-subartikolu (2) tal-artikolu 16B\ngħandha wkoll titqies mħassra u bla effett.\n\nTħassir ta’\nkawzjonijiet,\nipoteki, privileġġi\njew jeddijiet oħra.\n\n[ L.S. 296.12\n\nTNEĦĦIJA TA’ AREI TA’ REĠISTRAZZJONI",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-262-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Dikjarazzjoni ta' Postijiet bħala Sptar",
+  "title_en": "Ordni dwar Dikjarazzjoni ta' Postijiet bħala Sptar",
+  "short_name": "eli/sl/262.4/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/262.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/262.4/mlt, expression eli/sl/262.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Dikjarazzjoni ta’\nPostijiet b]ala Sptar.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) L-Isptar {enerali ta’ G]awdex qieg]ed ji[i dikjarat\nb]ala sptar g]all-finijiet ta’ l-artikolu 2(1) ta’ l-Att dwar is-Sa]]a\nMentali.\n\nDikjarazzjoni ta’\npostijiet b]ala\nsptar.\nKap. 262.\n\n(2) Il-Ward 6 ta’ l-Ir[iel u l-Ward 3 tan-Nisa ta’ l-Isptar Monte\nCarmeli mhux se jibqg]u jag]mlu sehem minn dak l-isptar u minn\nissa ’il quddiem ser ikunu dar residenzjali g]al persuni b’di\\ordni\nmentali.\n(3) Is-sala San {u\\epp numru 7 tan-nisa, is-Sala San {u\\epp\nnumru 8 tal-ir[iel, is-Sala {wanni Pawlu II numru 1 tan-nisa u sSala {wanni Pawlu II numru 2 tal-ir[iel fir-Residenza San Vin`enz\nDe Paule qed ji[u dikjarati b]ala dar ta’ kura mentali g]all-finijiet\ntat-tifsira fl-artikolu 2(1) tal-Att dwar is-S a]]a Mentali, u ddispo\\izzjonijiet tal-istess Att g]andhom ikunu mutatis mutandis\njapplikaw g]al dawk is-swali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

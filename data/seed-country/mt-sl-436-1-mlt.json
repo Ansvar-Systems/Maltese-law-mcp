@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-436-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Xorta ta' Nbid",
+  "title_en": "Ordni dwar Xorta ta' Nbid",
+  "short_name": "eli/sl/436.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/436.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/436.1/mlt, expression eli/sl/436.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "XORTA TA’ NBID\n\n[L.S.436.01\n\nLE{ISLAZZJONI SUSSIDJARJA 436.01\nORDNI DWAR IX-XORTA TA’ NBID\n1 ta’ Di`embru, 1969\nL-AVVI| LEGALI 108 tal-1969, kif emendat bl-Avvi\\ Legali 115 tal1969.\n\nRevokat bl-Avvi\\ Legali 271 tal-2011.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

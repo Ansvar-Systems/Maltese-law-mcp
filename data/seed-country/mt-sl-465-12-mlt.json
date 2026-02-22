@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-465-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Infurzar ta’ Ordnijiet li jirrigwardaw il-Kwarantina",
+  "title_en": "Regolamenti dwar l-Infurzar ta’ Ordnijiet li jirrigwardaw il-Kwarantina",
+  "short_name": "eli/sl/465.12/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://legislation.mt/eli/sl/465.12/20200326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.12/mlt, expression eli/sl/465.12/20200326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 39 tal-2020, kif emendat bl-Avviż Legali 72 tal2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nl-Infurzar ta’ Ordnijiet li jirrigwardaw il-Kwarantina.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’konformità mar-regolamenti 27(ċ) u 29(1) tal-Att, isSuprintendent tas-Saħħa Pubblika, hawn iżjed ’il quddiem imsejjaħ\n\"is-Suprintendent\", qiegħed permezz ta’ dawn ir-regolamenti\njippreskrivi provvedimenti biex jissalvagwardja kontra u, jew\njikkontrolla l-mard infettiv tal-COVID-19.\n\nProvvedimenti li\njittieħdu misSuprintendent.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull perjodu ta’ kwarantina impost mis-Suprintendent\ngħandu jiġi strettament osservat skont dawk l-ordnijiet li jistgħu\njingħataw mill-imsemmi Suprintendent, taħt id-dispożizzjonijiet talartikolu 29(1) tal-Att.\n\nPerjodu ta’\nkwarantina.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "Kull persuna li tonqos milli tosserva d-dispożizzjonijiet\nta’ dawn ir-regolamenti tkun ħatja ta’ reat u teħel, meta tinstab ħatja,\npenali ta’ tliet elef euro (€3,000) għal kull waħda mill-okkażjonijiet li\ntikser il-perjodu ta’ kwarantina.\n\nReati u pieni.\nSostitwit:\nA.L. 72 tal-2020.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

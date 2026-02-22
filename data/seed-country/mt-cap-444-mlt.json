@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-444-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Kunsill Malti għall-Kultura u l-Arti Imħassar bl-Att XV tal-2015",
+  "title_en": "Att dwar il-Kunsill Malti għall-Kultura u l-Arti Imħassar bl-Att XV tal-2015",
+  "short_name": "Kap. 444(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2002-08-15",
+  "url": "https://legislation.mt/eli/cap/444/20150529/mlt",
+  "description": "Official text from legislation.mt (eli/cap/444/mlt, expression eli/cap/444/20150529/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KUNSILL MALTI GĦALL-KULTURA U L-ARTI\n\n[ KAP. 444.\n\n1\n\nKAPITOLU 444\nATT DWAR IL-KUNSILL MALTI\nGĦALL-KULTURA U L-ARTI\nBiex jipprovdi għat-twaqqif ta’ Kunsill li jkun magħruf bħala l-Kunsill Malti għall-Kultura\nu l-Arti biex jinkoraġġixxi u jippromwovi il-kultura f ’perspettiva wiesgħa ta’ attività socjoekonomika, u sabiex jipprovdi dwar affarijiet anċillari ma’ dan jew li għandhom x’jaqsmu\nmiegħu.\n\n15 ta’ Awissu, 2002\n15 ta’ Diċembru, 2002\n1 ta’ Jannar, 2003\nL-ATT V tal-2002, kif emendat bl-Att XXXII tal-2007; bl-Avviż Legali 426 tal-2007 ;\nu bl- Att XVIII tal-2012 .\n\nImħassar bl-Att XV tal-2015.",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

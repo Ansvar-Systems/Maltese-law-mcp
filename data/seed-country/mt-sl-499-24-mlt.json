@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-24-mlt",
+  "type": "statute",
+  "title": "Carriage by Air (International and Noninternational Carriage) Order",
+  "title_en": "Carriage by Air (International and Noninternational Carriage) Order",
+  "short_name": "eli/sl/499.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/499.24/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.24/mlt, expression eli/sl/499.24/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CARRIAGE BY AIR (INTERNATIONAL AND\nNON-INTERNATIONAL CARRIAGE)\n\n[ L.S.499.24\n\nLE{ISLAZZJONI SUSSIDJARJA 499.24\nCARRIAGE BY AIR (INTERNATIONAL AND NONINTERNATIONAL CARRIAGE) ORDER*\n30 ta’ April, 2004\nL-AVVI| LEGALI 63 ta’ l-2003, kif emendat bl-Avvi\\i Legali 154 ta’ l2006 u 411 ta’ l-2007.\n\n*Dan l-Ordni [ie ppubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

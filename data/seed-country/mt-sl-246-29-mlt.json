@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-29-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Scirocco Heights Residences bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Scirocco Heights Residences bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.29/mlt",
+  "status": "in_force",
+  "issued_date": "2025-07-07",
+  "in_force_date": "2025-06-27",
+  "url": "https://legislation.mt/eli/sl/246.29/20250627/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.29/mlt, expression eli/sl/246.29/20250627/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 111 tal-2025",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Scirocco Heights\nResidences bħala Żona Speċjali Msemmija.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Scirocco Heights Residences li tikkonsisti fi proprjetà\nimmobbli li tinsab fiż-żona delineata bl-aħmar fil-Pjanta tar-Reġistru\ntal-Artijiet annessa ma’ dan l-ordni, hi b’dan imsemmija bħala Żona\nSpeċjali Msemmija għall-finijiet tal-Att dwar l-Akkwist ta’ Proprjetà\nImmobbli minn Persuni mhux Residenti.\n\nŻona speċjali\nmsemmija.\nKap. 246.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Immobbli minn Persuni mhux Residenti",
+      "content": "Scirocco Heights Residences għandha tiżdied mal-Lista\nta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’\nProprjetà Immobbli minn Persuni mhux Residenti.\n\nŻieda mal-Ewwel\nSkeda li tinsab\nmal-Att dwar lAkkwist ta’\nProprjetà\nImmobbli minn\nPersuni mhux\nResidenti.\nKap. 246.\n\n[ L.S. 246.29\n\nSCIROCCO HEIGHTS RESIDENCES BĦALA\nŻONA SPEĊJALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

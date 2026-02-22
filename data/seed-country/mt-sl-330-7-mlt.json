@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Distance Selling (Retail Financial Services)",
+  "title_en": "Regolamenti dwar Distance Selling (Retail Financial Services)",
+  "short_name": "eli/sl/330.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/330.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.7/mlt, expression eli/sl/330.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "DISTANCE SELLING\n(RETAIL FINANCIAL SERVICES)\n\n[ L.S.330.07\n\nLEĠISLAZZJONI SUSSIDJARJA 330.07\nREGOLAMENTI DWAR DISTANCE SELLING\n(RETAIL FINANCIAL SERVICES)*\n4 ta’ Frar, 2005\nL-AVVIŻ LEGALI 36 ta’ l-2005, kif emendat bl-Avviżi Legali 116 ta’ l2006, 424 ta’ l-2007, 290 ta’ l-2008 u 2 tal-2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

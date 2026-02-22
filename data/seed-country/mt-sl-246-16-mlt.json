@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-16-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Żona ta' Metropolis Plaza, Gżira, bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Żona ta' Metropolis Plaza, Gżira, bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.16/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.16/mlt, expression eli/sl/246.16/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 132 ta’ l-2008",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar |ona ta’\nMetropolis Plaza, G\\ira, b]ala |ona Spe`jali Msemmija.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "I\\-|ona ta’ Metropolis Plaza, G\\ira, li tikkonsisti fi\nproprjetà immobbli sitwata fi\\-\\ona delineata bl-a]mar fil-Pjanta\ntar-Re[istru ta’ l-Artijiet annessa ma’ dan l-Ordni, hija b’dan\nimsemmija b]ala |ona Spe`jali Msemmija g]all-finijiet ta’ l-Att\ndwar l-Akkwist ta’ Proprjet à Immobbli minn Persuni Mhux\nResidentii.\n\nTismija ta’ |ona\nSpe`jali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Residentii",
+      "content": "I\\-|ona ta’ Metropolis Plaza, G\\ira g]andha ti\\died malLista ta’ |oni Skedati fl-Ewwel Skeda li tinsab ma’ l-Att dwar lAkkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.\n\n|ieda ma’ l-Ewwel\nSkeda li tinsab ma’\nl-Att.\nKap. 246.\n\nKap. 246.\n\nL.S.246.16]\n\n|ONA TA’ METROPOLIS PLAZA, G|IRA,\nB}ALA |ONA SPE~JALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

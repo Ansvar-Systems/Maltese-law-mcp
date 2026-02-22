@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-625-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Exclusive Economic Zone",
+  "title_en": "Regolamenti dwar Exclusive Economic Zone",
+  "short_name": "eli/sl/625.1/mlt",
+  "status": "in_force",
+  "issued_date": "2023-11-07",
+  "in_force_date": "2023-10-20",
+  "url": "https://legislation.mt/eli/sl/625.1/20231020/mlt",
+  "description": "Official text from legislation.mt (eli/sl/625.1/mlt, expression eli/sl/625.1/20231020/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 625.01\n\nEXCLUSIVE ECONOMIC ZONE\n\nLEĠISLAZZJONI SUSSIDJARJA 625.01\nREGOLI DWAR EXCLUSIVE ECONOMIC ZONE\n20 ta’ Ottubru, 2023\n\nL-AVVIŻ LEGALI 250 tal-2023.\nDawn ir-regolamenti ġew ippubblikati bl-Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

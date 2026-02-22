@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-30-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Agrikoltura u Industriji konnessi magħha",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Agrikoltura u Industriji konnessi magħha",
+  "short_name": "eli/sl/452.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.30/mlt, expression eli/sl/452.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 81 ta’ l-1967",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Agrikoltura u l-Industriji konnessi mag]ha.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi g]all-Agrikoltura u lIndustrji konnessi mag]ha li g]andu japplika g]all-impjegati\nkollha f’kull impri\\a jew parti minn impri\\a li l-attivitajiet tag]ha\njikkonsistu kollha jew prin`ipalment f ’xi wie]ed minn dawn li\n[ejjin:\n\nSafejn japplika ilKunsill tal-Pagi.\n\nAgrikoltura, ortikoltura, florikoltura u vitikoltura, ittg]ammir u t-trobbija ta’ bhejjem, tjur u fniek, ittrobbija ta’ na]al u l-pro`essar ta’ prodotti tal-]alib u\nprodotti ta’ xorta simili.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\ntas-27 ta’ {unju, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

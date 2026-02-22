@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-55-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ħinijiet ta' Uffiċċju ta' l-Arkivji Nutarili",
+  "title_en": "Regolamenti dwar il-Ħinijiet ta' Uffiċċju ta' l-Arkivji Nutarili",
+  "short_name": "eli/sl/55.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/55.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.3/mlt, expression eli/sl/55.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 337 ta’ l-2008",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar il}inijiet ta’ Uffi``ju ta’ l-Arkivji Nutarili.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-[ranet u l-]inijiet li fihom l-Arkivji Nutarili f’Malta u\nG]awdex li qeg]din f’Numru 2, Triq Mikiel Anton Vassalli, il-Belt\nValletta u f ’Numru 128, Triq it-Ti[rija, ir-Rabat, G]awdex\nrispettivament, ikunu miftu]a g]all-pubbliku, minbarra dawk il[ranet meta l-Uffi``ju tan-Nutar tal-Gvern ikun mag]luq, jinsabu\nfl-Iskeda li tinsab ma’ dawn ir-regolamenti.\n\n{ranet u ]inijiet ta’\nftu].\n\n(Regolament 2)\nMalta\nMill-1 ta’ Jannar sal-31 ta’ Di`embru:\nmit-Tnejn sal-{img]a -\n\nmis-7.30a.m. sat-3.00p.m.\nG]awdex\n\nMill-1 ta’ Ottubru sal-15 ta’ {unju:\nmit-Tnejn sal-{img]a -\n\nmis-7.30a.m. san-12.30p.m.\nmis-1.30p.m. sal-4.45p.m.\n\nMis-16 ta’ {unju sat-30 ta’ Settembru:\nmit-Tnejn sal-{img]a -\n\nmis-7.15a.m. sas-1.00p.m",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

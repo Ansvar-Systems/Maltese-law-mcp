@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-437-92-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Standards ta’ Bejgħ ta’ Laħam tat-Tjur",
+  "title_en": "Regolamenti dwar Standards ta’ Bejgħ ta’ Laħam tat-Tjur",
+  "short_name": "eli/sl/437.92/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/437.92/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/437.92/mlt, expression eli/sl/437.92/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 279 ta’ l-2006",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nStandards ta’ Bejg] ta’ La]am tat-Tjur.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Il-Kummissjoni g]as-Sigurtà ta’ l-Ikel hija ma]tura\nb]ala l-awtorità kompetenti g]as-supervi\\joni ta’ konformità marRegolament tal-Kunsill (KEE) Nru. 1906/90 dwar `erti standards\nta’ bejg] ta’ la]am tat-tjur.\n\nDisposizzjonijiet\ng]all-infurzar ta’\nRegolamenti KE\ndwar standards ta’\nbejg] ta’ la]am tattjur.\n\n(2) Il-Kummissjoni g]as-Sigurtà ta’ l-Ikel g]andha tispe`ifika\nr-responsabbiltajiet g]all-infurzar tad-disposizzjonijiet tarRegolament tal-Kunsill (KEE) Nru. 1906/90 dwar `erti standards\nta’ bejg] ta’ la]am tat-tjur u tar-Regolament tal-Kummissjoni\n(KEE) Nru. 1538/91 li jintrodu`i regoli dettaljati sabiex\nj i m p l i m e n t a r- R e g o l a m e n t ( K E E ) N r u . 1 9 0 6 / 9 0 d w a r ` e r t i\nstandards ta’ bejg] ta’ la]am tat-tjur, f’kull stadju ta’ bejg], inklu\\\nit-trasport.\n(3) }lief fejn il-Kummissjoni g]as-Sigurtà fl-Ikel tispe`ifika\nxort’o]ra, ir-responsabbiltà g]all-infurzar fil-livell ta’ bejg] blimnut g]andha tkun assenjata lis-Suprintendent tas-Sa]]a\nPubblika, filwaqt li r-responsabbiltà g]all-infurzar fil-livell\npre`edenti kollha ta’ bejg] g]andha tkun assenjata lid-Direttur,\nServizzi Veterinarji.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

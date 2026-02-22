@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-364-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Poloz ta' Assigurazzjoni (Ħlas f'Daqqa ta' Taxxa)",
+  "title_en": "Regolamenti dwar Poloz ta' Assigurazzjoni (Ħlas f'Daqqa ta' Taxxa)",
+  "short_name": "eli/sl/364.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/364.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/364.2/mlt, expression eli/sl/364.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "4 ta’ Ġunju, 1982",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nPoloz ta’ Assigurazzjoni (Ħlas f’daqqa ta’ Taxxa).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Bla ħsara għad-disposizzjonijiet ta’ dawn irregolamenti, il-Kummissarju jista’ jawtorizza li l-ħlas ta’ taxxa fuq\npoloz ta’ assigurazzjoni jista’ jsir f’daqqa.\n\nĦlas f’daqqa ta’\ntaxxa.\n\n(2) L-ammont totali ta’ taxxa mħallsa b’dak il-mod ma jkun\nqatt inqas mit-total li kien ikollu jitħallas kieku t-taxxa tħallset\nindividwalment.\n(3) Il-ħlas tat-taxxa jsir f’dawk l-intervalli li l-Kummissarju\njista’ jordna.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Il-Kummissarju għandu jeżer`ita dak il-kontroll li jidhirlu\nmeħtieġ dwar il-ħlas tat-taxxa fuq poloz ta’ assigurazzjoni, ittiżmim ta’ records xierqa ta’ dawk il-poloz u kull ħwejjeġ oħra\nan`illari.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "(1)\n\nKull persuna li -\n\n(a) tonqos li tħares xi ħtieġa tal-Kummissarju maħruġa\nskond dawn ir-regolamenti; jew\n(b) ma tħallix jew tfixkel lill-Kummissarju milli jeżer`ita\ndak il-kontroll li jidhirlu xieraq għall-finijiet ta’ dawn\nir-regolamenti,\ngħandha teħel penali ta’ mhux iżjed minn elf u mitejn euro (€1,200.00)\nu imgħax bir-rata kif preskritta mill-Ministru fuq kull taxxa stmata\nmill-Kummissarju.\n(2) Il-Kummissarju jista’, fid-diskrezzjoni tiegħu, jaħfer jew\ninaqqas kull penali li persuna tkun weħlet taħt is-subregolament\n(1).\n\nIl-Kummissarju\njikkontrolla taxxa\nfuq poloz ta’\nassigurazzjoni.\nPieni.\nEmendat:\nA.L. 425 ta’ l2007.\nA.L. 68 tal-2020",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

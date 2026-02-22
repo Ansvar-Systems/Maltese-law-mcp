@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-639-5-mlt",
+  "type": "statute",
+  "title": "Regolmenti dwar Organic Production and Labelling of Organic Products",
+  "title_en": "Regolmenti dwar Organic Production and Labelling of Organic Products",
+  "short_name": "eli/sl/639.5/mlt",
+  "status": "in_force",
+  "issued_date": "2024-01-31",
+  "in_force_date": "2024-01-01",
+  "url": "https://legislation.mt/eli/sl/639.5/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/639.5/mlt, expression eli/sl/639.5/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ORGANIC PRODUCTION AND LABELLING OF\nORGANIC PRODUCTS\n\n[ L.S.639.05\n\nLEĠISLAZZJONI SUSSIDJARJA 639.05\nREGOLAMENTI DWAR ORGANIC PRODUCTION\nAND LABELLING OF ORGANIC PRODUCTS\n12 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 15 tal-2018.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

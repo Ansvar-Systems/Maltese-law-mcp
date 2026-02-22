@@ -1,132 +1,411 @@
 {
   "id": "mt-nis-regulations",
   "type": "statute",
-  "title": "Network and Information Systems Regulations (S.L. 586.07)",
-  "title_en": "Network and Information Systems (NIS) Regulations",
-  "short_name": "NIS-REG",
-  "status": "in_force",
-  "issued_date": "2018-05-09",
-  "in_force_date": "2018-05-09",
-  "url": "https://legislation.mt/eli/sl/586.07/eng/pdf",
-  "description": "The Network and Information Systems Regulations (S.L. 586.07) transpose Directive (EU) 2016/1148 concerning measures for a high common level of security of network and information systems across the Union (NIS Directive) into Maltese law, subsequently aligned with Directive (EU) 2022/2555 (NIS2). The Regulations designate the Malta Information Technology Agency (MITA) as the national competent authority and establish MALTACERT as the national computer security incident response team. They impose security and incident notification obligations on operators of essential services and digital service providers.",
+  "title": "Measures for High Common Level of Security of Network and Information Systems Order Repealed by Legal Notice 71 of 2025",
+  "title_en": "Measures for High Common Level of Security of Network and Information Systems Order Repealed by Legal Notice 71 of 2025",
+  "short_name": "NIS",
+  "status": "repealed",
+  "issued_date": "2018-07-12",
+  "in_force_date": "2018-07-06",
+  "url": "https://legislation.mt/eli/sl/460.35/20260123/eng",
+  "description": "Official consolidated text from legislation.mt (eli/sl/460.35/20260123/eng).",
   "provisions": [
     {
-      "provision_ref": "art1",
+      "provision_ref": "s1",
       "section": "1",
-      "title": "Regulation 1. Citation and Commencement",
-      "content": "These regulations may be cited as the Network and Information Systems Regulations and shall come into force on the date of publication in the Government Gazette. These Regulations transpose into Maltese law Directive (EU) 2016/1148 of the European Parliament and of the Council concerning measures for a high common level of security of network and information systems across the Union, as amended to align progressively with Directive (EU) 2022/2555. All public authorities, operators of essential services, and digital service providers within the scope of these Regulations shall ensure compliance with the applicable requirements within the timeframes specified herein."
+      "title": "PART I - PRELIMINARY",
+      "content": "(1)\nThe title of this order is Measures for High\nCommon Level of Security of Network and Information Systems\nOrder.\n\nCitation and scope.\n\n(2)\nThis order transposes Directive (EU) 2016/1148 of the\nEuropean Parliament and of the Council of 6 July 2016 concerning\nmeasures for a high common level of security of network and\ninformation systems across the Union.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 29
+      }
     },
     {
-      "provision_ref": "art2",
+      "provision_ref": "s2",
       "section": "2",
-      "title": "Regulation 2. Scope",
-      "content": "These Regulations apply to operators of essential services established in Malta and to digital service providers offering services to users in Malta. Essential services sectors covered by these Regulations include energy (electricity, oil, gas), transport (air, rail, water, road), banking, financial market infrastructure, health, drinking water supply and distribution, and digital infrastructure. Digital service providers covered include online marketplaces, online search engines, and cloud computing services. Public administration bodies designated as in-scope entities are also subject to applicable security and incident notification requirements. Micro and small enterprises as defined in Commission Recommendation 2003/361/EC are excluded from the scope of these Regulations unless they are operators of essential services."
+      "title": "Citation and scope",
+      "content": "In this order unless the context otherwise requires:\n\n\"autonomous CSIRT\" means a self-organised CSIRT which\nprovides a monitoring function of CSIRT services and alerts to its own\nbusiness or other agencies, operators of essential services or digital\nservice providers;\n\nInterpretation.\nAmended by:\nL.N. 307 of 2024.\n\n\"CIIP Unit\" means the Critical Information Infrastructure\nProtection Unit as established under article 5(1);\n\"cloud computing service\" means a digital service that enables\naccess to a scalable and elastic pool of shareable computing resources;\n\"consumer\" means any natural person who is acting for\npurposes which are outside his trade, business, craft or profession;\n\"critical information infrastructure\" or \"CII\" means an\ninformation and communication technology asset, system, network or\npart thereof which is essential for the maintenance of vital societal\nfunctions, health, safety, security, economic or social well-being of\npeople, and the disruption or destruction of which would have a\nsignificant impact in Malta as a result of the failure to maintain those\nfunctions;\n\"critical infrastructure\" or \"CI\" has the same meaning assigned\nto it by article 2 of the Critical Infrastructures and European Critical\nInfrastructures (Identification, Designation and Protection) Order;\n\n*These regulations have been repealed by Legal Notice 71 of 2025.\n\nS.L. 460. 24.\n\n\"CSIRT\" means computer security incident response team;\n\n\"Data Protection Commissioner\" means the Information and\nData Protection Commissioner as appointed under article 11 of the\nData Protection Act.\n\n\"Department\" means the Critical Infrastructure Protection\nDepartment established by article 3 of the Critical Infrastructures and\nEuropean Critical Infrastructures (Identification, Designation and\nProtection) Order;\n\n\"digital service\" means a service within the meaning of\nregulation 2 of the Notification Procedure Regulations which is of a\ntype listed in the Third Schedule;\n\"DNS service provider\" means an entity which provides DNS\nservices on the internet;\n\"digital service provider\" means any legal person that provides a\ndigital service;\n\"domain name system\" or \"DNS\" means a hierarchical\ndistributed naming system in a network which refers queries for\ndomain names;\n\"incident\" means any event having an effect on the security of\nnetwork and information systems;\n\"incident handling\" means all procedures supporting the\ndetection, analysis and containment of an incident and the response\nthereto;\n\"internet exchange point\" or \"IXP\" means a network facility\nwhich enables the interconnection of more than two independent\nautonomous systems, primarily for the purpose of facilitating the\nexchange of internet traffic; an IXP provides interconnection only for\nautonomous systems; an IXP does not require the internet traffic\npassing between any pair of participating autonomous systems to pass\nthrough any third autonomous system, nor does it alter or otherwise\ninterfere with such traffic;\n\n\"Malta Communications Authority\" means the authority\nestablished under article 3 of the Malta Communications Authority\nAct;\n\"Member States\" means the Member States of the European\nUnion;\n\"Minister\" means the Minister responsible for the protection of\ncritical infrastructure and critical information infrastructure protection;\n\n\"national strategy on the security of network and information\nsystems\" means a framework providing strategic objectives and\npriorities on the security of network and information systems at\nnational level;\n\"network and information system\" means:\n(a)\nan electronic communications network within the\nmeaning of article 2 of the Electronic Communications\n(Regulation) Act;\n(b)\nany device or group of interconnected or related\ndevices, one or more of which, pursuant to a program, perform\nautomatic processing of digital data; or\n(c)\ndigital data stored, processed, retrieved or\ntransmitted by elements covered under paragraphs (a) and (b)\nfor the purposes of their operation, use, protection and\nmaintenance.\n\"online marketplace\" means a digital service that allows\nconsumers, traders or both as respectively defined in paragraph (a) and\nin paragraph (b) of Article 4(1) of Directive 2013/11/EU of the\nEuropean Parliament and of the Council to conclude online sales or\nservices contracts with traders either on the online marketplace’s\nwebsite or on a trader's website that uses computing services provided\nby the online marketplace;\n\"online search engine\" means a digital service that allows users\nto perform searches of, in principle, all websites or websites in a\nparticular language on the basis of a query on any subject in the form\nof a keyword, phrase or other input, and returns links in which\ninformation related to the requested content can be found;\n\"operator of essential services\" means a public or private entity\nof a type referred to in the Second Schedule, which meets the criteria\nlaid down in article 9(2);\n\"operator security plan\" or \"business continuity management\" is\nthe overall procedure identifying the assets, systems, networks or part\nthereof within critical information infrastructures, operator of essential\nservices and, or digital service providers, identifying the security\nsolutions and technical measures that exist or are being implemented\nfor their protection and the identification, selection and prioritization\nof counter measures and procedures;\n\"representative\" means any natural or legal person established\nin the Union explicitly designated to act on behalf of a digital service\nprovider not established in the Union, which may be addressed by a\nnational competent authority or a CSIRT instead of the digital service\nprovider with regard to the obligations of that digital service provider\n\nunder this order;\n\"risk\" means any reasonably identifiable circumstance or event\nhaving a potential effect on the security of network and information\nsystems and leading to uncertainty on the objectives of an asset,\nsystem, network or part thereof. An effect is a deviation from the\nexpected objectives, objectives may have different aspects and may\napply at different levels, positive or negative. Objectives can have\ndifferent aspects (such as financial, health and safety, and\nenvironmental goals) and can apply at different levels (such as\nstrategic, organization-wide, project, product and process). Risk is\noften characterized by reference to potential events and consequences,\nor a combination of these. Risk is often expressed in terms of a\ncombination of the consequences of an event, including changes in\ncircumstances, and the associated likelihood of occurrence;\n\"risk assessment\" is the overall process of risk identification,\nrisk analysis and risk evaluation, incorporating the identification of risk\nsources, events, their causes and their potential consequences,\ncomprehending the nature of risk and determining the level of risk,\nwith the ultimate objective of comparing the results of the risk analysis\nwith the risk criteria in order to determine whether the risk and, or its\nmagnitude is acceptable or tolerable;\n\"security of network and information systems\" means the ability\nof network and information systems to resist, at a given level of\nconfidence, any action that compromises the availability, authenticity,\nintegrity or confidentiality of stored or transmitted or processed data or\nthe related services offered by, or accessible via those network and\ninformation systems;\n\"standard\" means a standard within the meaning of paragraph (1)\nof Article 2 of Regulation (EU) No 1025/2012 of the European\nParliament and of the Council;\n\"specification\" means a technical specification within the\nmeaning of paragraph (4) of Article 2 of Regulation (EU) No 1025/\n2012 of the European Parliament and of the Council;\n\"top-level domain name registry\" means an entity which\nadministers and operates the registration of internet domain names\nunder a specific top-level domain;\n\"trader\" means any natural persons, or any legal person\nirrespective of whether privately or publicly owned, who is acting,\nincluding through any person acting in his name or on his behalf, for\npurposes relating to his trade, business, craft or profession;\n\n\"Treaty\" shall have the same meaning as in article 2 of the\nEuropean Union Act.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 247
+      }
     },
     {
-      "provision_ref": "art3",
+      "provision_ref": "s3",
       "section": "3",
-      "title": "Regulation 3. National Competent Authority",
-      "content": "The Malta Information Technology Agency (MITA) is designated as the national competent authority for the purposes of these Regulations and for the coordination of national cybersecurity activities. MITA shall carry out the functions assigned to national competent authorities under the NIS Directive and NIS2, including the supervision of compliance by operators of essential services and digital service providers with applicable security requirements, the receipt and processing of incident notifications, and the coordination of national cybersecurity strategy implementation. MITA shall cooperate with competent authorities of other Member States and with the European Union Agency for Cybersecurity (ENISA) in matters of cross-border cybersecurity."
+      "title": "European Union Act",
+      "content": "(1)\nThe security and notification requirements of this\norder shall not apply to undertakings which are subject to the\nrequirements of Article 13a and 13b of Directive 2002/21/EC of the\nEuropean Parliament and of the Council, or to trust service providers\nwhich are subject to requirements of Article 19 of Regulation (EU) No\n910/2014 of the European Parliament and of the Council.\n\nApplicability.\n\n(2)\nThis order applies without prejudice to the Critical\nInfrastructures and European Critical Infrastructures (Identification,\nDesignation and Protection) Order and Directives 2011/93/EU and\n2013/40/EU of the Europe Parliament and of the Council.\n\n(3) Without prejudice to Article 346 TFEU, information that\nis confidential pursuant to law, such as rules on business\nconfidentiality, shall be exchanged with the European Commission\nand relevant authorities only where such exchange is necessary for the\napplication of this order. The information exchanged shall be limited\nto that which is relevant and proportionate to the purpose of such\nexchange. Such exchange of information shall preserve the\nconfidentiality of that information and protect the security and\ncommercial interests of operators of essential services and digital\nservice providers.\n(4)\nThis order is without prejudice to the actions taken to\nsafeguard essential State functions, in particular to safeguard national\nsecurity, including actions protecting information the disclosure of\nwhich is contrary to the essential interests of the security of Malta, and\nto maintain law and order, in particular to allow for the investigation,\ndetection and prosecution of criminal offences.\n(5)\nWhere a sector-specific law requires operators of\nessential services or digital service providers either to ensure the\nsecurity of their network and information systems or to notify\nincidents, provided that such requirements are at least equivalent in\neffect to the obligations laid down in this order, those provisions of\nthat sector-specific law shall apply.",
+      "metadata": {
+        "source_line_start": 248,
+        "source_line_end": 293
+      }
     },
     {
-      "provision_ref": "art4",
+      "provision_ref": "s4",
       "section": "4",
-      "title": "Regulation 4. MALTACERT",
-      "content": "MALTACERT, operating within MITA, is designated as Malta's national Computer Security Incident Response Team (CSIRT) for the purposes of these Regulations. MALTACERT shall have the tasks and capabilities specified for CSIRTs under the NIS Directive and NIS2, including monitoring incidents at a national level, providing early warning, alerts, announcements, and dissemination of information on risks and incidents, responding to incidents, providing dynamic risk and incident analysis, and participating in the CSIRTs Network established under Union law. MALTACERT shall establish and maintain a 24/7 capability for responding to significant cybersecurity incidents and shall publish its services, operational hours, and secure communication channels."
+      "title": "that sector-specific law shall apply",
+      "content": "Processing of personal data pursuant to this order shall\nbe carried out in accordance with the Data Protection Act and\nRegulation 2016/679/EU of the European Parliament and of the\nCouncil.\n\nProcessing of\npersonal data. \n\nPART II – CRITICAL INFORMATION INFRASTRUCTURE\nPROTECTION UNIT, CSIRTMalta and CSIRTs",
+      "metadata": {
+        "source_line_start": 294,
+        "source_line_end": 305
+      }
     },
     {
-      "provision_ref": "art5",
+      "provision_ref": "s5",
       "section": "5",
-      "title": "Regulation 5. Identification of Operators of Essential Services",
-      "content": "MITA shall, in cooperation with relevant sectoral competent authorities, identify operators of essential services in Malta in accordance with the criteria established by the NIS Directive and NIS2. The identification process shall take into account whether the entity provides a service essential for the maintenance of critical societal or economic activities, the provision of that service depends on network and information systems, and an incident would have significant disruptive effects on the provision of that service. Operators of essential services shall be notified of their designation and shall be informed of the obligations applicable to them. The list of designated operators shall be reviewed at regular intervals."
+      "title": "Council",
+      "content": "(1)\nThere shall be a Critical Information\nInfrastructure Protection Unit within the Department, herein referred\nto as the ‘CIIP Unit’.\n(2)\nThe CIIP Unit shall be responsible for monitoring the\napplication of this order and shall be the national competent authority\n\nThe CIIP Unit.\nAmended by:\nL.N. 307 of 2024.\n\ncovering the sectors referred to in the Second Schedule and the services\nreferred to in the Third Schedule.\n(3)\n\nThe CIIP Unit shall be responsible for:\n\n(a)\nestablishing the criteria for the identification and\ndesignation of operators of essential services and digital service\nproviders;\n(b)\nidentifying and designating operators of essential\nservices within Malta pursuant to article 9;\n(c)\nidentifying the services provided by operators of\nessential services and digital service providers;\n(d)\nensuring that a risk assessment is carried out by\noperators of essential services and digital service providers;\n(e)\nensuring that operators of essential services and\ndigital service providers draw up and maintain an operator\nsecurity plan;\n(f)\ninstigating simulated runs of operator security\nplans by operators of essential services and digital service\nproviders.\n(g)\nwithout prejudice to article 3(3), building\npartnerships with operators of Critical Information\nInfrastructures (CIIs) for information sharing;\n(h)\nmaintaining a register of CSIRTs, operators of\nessential services and digital service providers providing\nservices in Malta;\n(i)\nexercising a liaison function to ensure cross-border\ncooperation with the relevant authorities in other Member States\nand with the Cooperation Group and the CSIRTs network;\n(j)\nadopting a national strategy on the security of\nnetwork and information systems pursuant to article 8;\n(k)\nmonitoring security measures taken by operators\nof essential services pursuant to article 11.\n(4)\nThe CIIP Unit shall also perform such related and\nconsequential duties as the Minister may delegate from time to time.\n(5)\nThe CIIP Unit shall, whenever appropriate and in\naccordance with law, consult and cooperate with the relevant national\nlaw enforcement authorities and the Data Protection Commissioner.",
+      "metadata": {
+        "source_line_start": 306,
+        "source_line_end": 385
+      }
     },
     {
-      "provision_ref": "art6",
+      "provision_ref": "s6",
       "section": "6",
-      "title": "Regulation 6. Security Requirements for Operators",
-      "content": "Operators of essential services shall take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of the network and information systems which they use in the provision of their essential services. Having regard to the state of the art, these measures shall ensure a level of security appropriate to the risk presented and shall address at a minimum the following aspects: policies on risk analysis and information system security; incident handling; business continuity management; supply chain security; security in network and information systems acquisition, development, and maintenance; policies and procedures to assess the effectiveness of security measures; and basic cyber hygiene practices and cybersecurity training."
+      "title": "law enforcement authorities and the Data Protection Commissioner",
+      "content": "(1)\nThere shall be a National CSIRT within the CIIP\nUnit, to be known as CSIRTMalta which shall comply with the\nrequirements and tasks set out in paragraphs 1 and 2 of the First\nSchedule respectively, covering at least the sectors referred to in the\nSecond Schedule and the services referred to in the Third Schedule.\nCSIRTMalta shall be responsible for risk and incident handling in\naccordance with a well-defined process.\n\nCSIRTs.\nAmended by:\nL.N. 307 of 2024.\n\n(2)\nCSIRT Malta shall inform the CIIP Unit about incident\nnotifications submitted pursuant to this order.\n(3)\nOperators of an essential service shall receive CSIRT\nmonitoring services from any of the following CSIRTs which shall\ncomply with the requirements and tasks set out in paragraphs 1 and 3\nrespectively of the First Schedule:\n(a)\nan internal CSIRT providing CSIRT monitoring\nservices and alerts within operators of essential services;\n(b)\nan autonomous CSIRT may be contracted to\nperform CSIRT monitoring services.\n(4)\nAny operator of essential services which fails to establish\na CSIRT as provided for in sub-article (3) shall be liable to an\nadministrative fine in accordance with the procedure under article 19.\n(5) The Department and CIIP Unit shall cooperate for the\nbetter fulfilment of the obligations laid down in this order.",
+      "metadata": {
+        "source_line_start": 386,
+        "source_line_end": 421
+      }
     },
     {
-      "provision_ref": "art7",
+      "provision_ref": "s7",
       "section": "7",
-      "title": "Regulation 7. Incident Notification",
-      "content": "Operators of essential services shall notify MITA and MALTACERT without undue delay of any incident having a significant impact on the continuity of the essential services they provide. The notification shall include information enabling MITA and MALTACERT to determine the cross-border impact of the incident. MITA shall establish procedures specifying the timeframes for initial and detailed notifications, the content and format of notifications, and the thresholds for significance applicable in each sector. Where an incident may have an impact on the continuity of essential services in other Member States, MITA shall notify the competent authorities or CSIRTs of those Member States of the incident through established cooperation channels."
+      "title": "better fulfilment of the obligations laid down in this order",
+      "content": "The Minister shall ensure that:\n\nResources.\n\n(a)\nthe CIIP Unit and CSIRTMalta have adequate\nresources to carry out in an effective and efficient manner, the\ntasks assigned to them and thereby to fulfil the objectives of\nthis order;\n(b)\nCSIRTMalta shall have access to an appropriate,\nsecure and resilient communication and information\ninfrastructure at national level.\nPART III– NATIONAL FRAMEWORK ON THE SECURITY OF",
+      "metadata": {
+        "source_line_start": 422,
+        "source_line_end": 438
+      }
     },
     {
-      "provision_ref": "art8",
+      "provision_ref": "s8",
       "section": "8",
-      "title": "Regulation 8. Digital Service Providers",
-      "content": "Digital service providers offering services within the scope of these Regulations shall take appropriate and proportionate technical and organisational measures to manage the risks to the security of the network and information systems they use in the provision of their services within the European Union. The security requirements and incident notification obligations applicable to digital service providers shall take into account the nature and scale of the service provided and the potential impact of an incident on the provision of the service. Digital service providers established outside the Union providing services in Malta shall designate a representative established in the Union for the purposes of these Regulations."
+      "title": "Resources",
+      "content": "The CIIP Unit in collaboration with other entities and\nstakeholders, shall adopt a national strategy on the security of network\nand information systems defining the strategic objectives and\nappropriate policy and regulatory measures with a view to achieving\nand maintaining a high level of security of network and information\nsystems and covering at least the sectors referred to in the Second\nSchedule and the services referred to in the Third Schedule. The\nnational strategy on the security of network and information systems\n\nNational Strategy\non the security of\nnetwork and\ninformation\nsystems.\n\nshall address, in particular, the following issues:\n(a)\nthe objectives and priorities of the national\nstrategy on the security of network and information systems;\n(b)\na governance framework to achieve the objectives\nand priorities of the national strategy on the security of network\nand information systems, including roles and responsibilities of\nthe government bodies and the other relevant actors;\n(c)\nthe identification of measures relating to\npreparedness, response and recovery, including cooperation\nbetween the public and private sectors;\n(d)\nan indication of the education, awareness-raising\nand training programmes relating to the national strategy on the\nsecurity of network and information systems;\n(e)\nan indication of the research and development\nplans relating to the national strategy on the security of network\nand information systems;\n(f)\n\na risk assessment plan to identify risks;\n\n(g)\na list of the various actors involved in the\nimplementation of the national strategy on the security of\nnetwork and information systems.\n\nPART IV – SECURITY OF NETWORK AND INFORMATION\nIdentification of\noperators of\nessential services.",
+      "metadata": {
+        "source_line_start": 439,
+        "source_line_end": 498
+      }
     },
     {
-      "provision_ref": "art9",
+      "provision_ref": "s9",
       "section": "9",
-      "title": "Regulation 9. Supervision and Enforcement",
-      "content": "MITA shall supervise compliance by operators of essential services with the requirements of these Regulations, including through the receipt of evidence of implementation of security policies, on-site inspections, and off-site supervision. MITA may require operators to submit information necessary to assess the security of their network and information systems, to provide evidence that security policies are effectively implemented, and to undergo security audits carried out by MITA or by a qualified auditor designated by MITA. Where MITA identifies deficiencies in an operator's security measures or non-compliance with notification requirements, it may issue binding instructions requiring corrective action and may impose administrative sanctions."
+      "title": "essential services",
+      "content": "(1)\nThe CIIP Unit shall for each sector and subsector\nreferred to in the Second Schedule identify operators of essential\nservices within Malta.\n(2)\nIn identifying operators of essential services pursuant to\nsub-article (1) the CIIP unit shall take into account that:\n(a)\nthe entity provides a service which is essential for\nthe maintenance of critical societal, economic activities or both;\n(b)\nthe provision of that service depends on network\nand information systems; and\n(c)\nan incident would have significant disruptive\neffects on the provision of that service.\n(3)\nFor the purposes of sub-article (1), the CIIP Unit shall\nestablish a list of the services referred to in paragraph (a) of sub-article\n\n(2).\n(4)\nUpon a request in writing by the CIIP Unit, a potential\noperator of essential services in Malta shall within twenty (20) days\nprovide a list of essential services it provides.\n(5)\nThe CIIP Unit shall review the list provided pursuant to\nsub-article (4), and inform the potential operator of essential services\nwhether it has been designated as an operator of essential services\npursuant to this article within reasonable time.\n(6)\nA designated operator of essential services shall comply\nwith the designation notification referred to in sub-article (5) within a\nstipulated time as may be directed by the CIIP Unit.\n(7)\nAny undertaking which fails to comply with the CIIP\nUnit’s request pursuant to sub-article (4) shall be liable to an\nadministrative fine in accordance with the procedure under article 19.\n(8)\nThe CIIP Unit shall on a regular basis, and at least every\ntwo years after 9 May 2018, review and, where appropriate, update the\nlist of identified operators of essential services.",
+      "metadata": {
+        "source_line_start": 499,
+        "source_line_end": 547
+      }
     },
     {
-      "provision_ref": "art10",
+      "provision_ref": "s10",
       "section": "10",
-      "title": "Regulation 10. National Cybersecurity Strategy",
-      "content": "Malta shall maintain a national cybersecurity strategy establishing the strategic objectives and appropriate policy and regulatory measures aimed at achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall address the objectives and priorities in the area of cybersecurity, a governance framework for the achievement of the objectives including the roles and responsibilities of government bodies and other relevant actors, the identification of measures relating to preparedness, response, and recovery, and a programme of education, awareness-raising, and training. The strategy shall be reviewed at least every five years and shall be notified to the European Commission."
+      "title": "list of identified operators of essential services",
+      "content": "(1)\nWhen determining the significance of a disruptive\neffect as referred to in article 9(2)(c), the CIIP Unit shall take into\naccount at least the following cross-sectoral factors:\n(a)\nthe number of users relying on the service\nprovided by the entity concerned;\n(b)\nthe dependency of other sectors referred to in the\nSecond Schedule on the service provided by that entity;\n(c)\nthe impact that incidents could have, in terms of\ndegree and duration, on economic and societal activities or\npublic safety;\n(d)\n\nthe market share of that entity;\n\n(e)\nthe geographic spread with regard to the area that\ncould be affected by an incident;\n(f)\nthe importance of the entity for maintaining a\nsufficient level of the service, taking into account the\navailability of alternative means for the provision of that\nservice;\n(g)\nthe dependency of a critical infrastructure, critical\ninformation infrastructure, or both, on the service provided by\nthat entity.\n(2)\n\nIn order to determine whether an incident would have a\n\nSignificant\ndisruptive effect.\n\nsignificant disruptive effect, the CIIP Unit shall also, where\nappropriate, take into account sector-specific factors.\nSecurity\nrequirements and\nincident\nnotification.",
+      "metadata": {
+        "source_line_start": 548,
+        "source_line_end": 602
+      }
     },
     {
-      "provision_ref": "art11",
+      "provision_ref": "s11",
       "section": "11",
-      "title": "Regulation 11. Cooperation and Information Sharing",
-      "content": "MITA shall participate in the Cooperation Group established under Article 14 of the NIS Directive and in the CSIRTs Network, and shall cooperate with the competent authorities and CSIRTs of other Member States in addressing cross-border cybersecurity risks and incidents. MITA shall share relevant information on cybersecurity risks and incidents with the competent authorities of other Member States and with ENISA to the extent permitted by applicable confidentiality requirements. Operators of essential services and digital service providers are encouraged to share threat intelligence and information on cybersecurity incidents with MITA and with sector-specific information sharing and analysis centres."
+      "title": "notification",
+      "content": "(1)\nThe CIIP Unit shall ensure that operators of\nessential services:\n(a)\ntake appropriate and proportionate technical and\norganisational measures to manage the risks posed to the\nsecurity of network and information systems which they use in\ntheir operations. Having regard to the state of the art, those\nmeasures shall ensure a level of security of network and\ninformation systems appropriate to the risk posed;\n(b)\ntake appropriate measures to prevent and minimise\nthe impact of incidents affecting the security of the network and\ninformation systems used for the provision of such essential\nservices, with a view to ensuring the continuity of those\nservices; and\n(c)\nappoint a security liaison officer who shall have\nthe necessary expertise and who shall:\n(i)\nfacilitate the development, implementation,\nmaintenance and review of an operator of essential\nservices preparedness, processes and solutions;\n(ii)\nensure that an operator of essentials\nservices conducts and maintains appropriate risk\nassessments;\n(iii) ensure that the operator of essential services\nmaintains and exercises an operator security plan; and\n(iv) act as the point of contact for security\nrelated issues for ensuring the fulfilment of the\nobligations laid down in this order between the operator\nof essential services and the Critical Information\nInfrastructure Protection (CIIP) Unit.\n(2)\nOperators of essential services shall notify the CIIP Unit,\nwithout undue delay, of incidents having a significant impact on the\ncontinuity of the essential services they provide. Notifications shall\ninclude information enabling the CIIP Unit to determine, any local or\ncross-border impact of the incident. Notification shall not make the\nnotifying party subject to increased liability.\n(3)\nIn order to determine the significance of the impact of an\nincident, the following parameters in particular shall be taken into\naccount:\n(a)\n\nthe number of users affected by the disruption of\n\nessential service;\n(b)\n\nthe duration of the incident;\n\n(c)\nthe geographical spread with regard to the area\naffected by the incident;\n(d)\nservice;\n\nthe sectors affected by the disruption of essential\n\n(e)\nthe dependency of a critical infrastructure, critical\ninformation infrastructure, or both, on the disruption of\nessential services.\n(4)\nOn the basis of the information provided in the\nnotification by the operator of essential services, the CIIP Unit shall,\ninform the other affected Member States if the incident has a\nsignificant impact on the continuity of essential services in that\nMember State. In so doing, the CIIP Unit, in accordance with law,\nshall preserve the security and commercial interests of the operator of\nessential services, as well as the confidentiality of the information\nprovided in its notification.\nWhere the circumstances allow, the CIIP Unit shall provide the\nnotifying operator of essential services with relevant information\nregarding the follow-up of its notification, such as information that\ncould support the effective incident handling.\nThe CIIP Unit shall forward notifications as referred to in the\nfirst paragraph to single points of contact of other affected Member\nStates.\n(5)\nWhere a designated operator of essential services\nprovides a service to an undertaking providing electronic\ncommunications networks and, or services in terms of the Electronic\nCommunications (Regulation) Act, any security breach affecting such\noperator of essential services shall also be notified by the relevant\nCSIRT to the Malta Communications Authority:\nProvided that in this context, in exercising their regulatory\noversight, the CIIP Unit and the Malta Communications Authority\nshall consult each other and each shall give due consideration to any\nadvice that the other may give.\n(6)\nAfter consulting the notifying operator of essential\nservices, the CIIP Unit may inform the public about individual\nincidents, where public awareness is necessary in order to prevent an\nincident or to deal with an ongoing incident.\n(7)\nAny operator of essential services which fails to comply\nwith the obligations of this article shall be liable to an administrative\n\nfine in accordance with the procedure under article 19.\nImplementation\nand enforcement.",
+      "metadata": {
+        "source_line_start": 603,
+        "source_line_end": 730
+      }
     },
     {
-      "provision_ref": "art12",
+      "provision_ref": "s12",
       "section": "12",
-      "title": "Regulation 12. Supply Chain Security",
-      "content": "Operators of essential services shall take into account the security of their supply chains, including the security-related aspects of the relationships between each entity and its direct suppliers or service providers, in implementing their security risk management measures. MITA may issue sector-specific guidance on supply chain security requirements taking into account the risks identified at a national and European level and the vulnerability of specific supply chains to interference by malicious actors. Operators shall assess the cybersecurity practices of their key suppliers and service providers and shall include cybersecurity requirements in their procurement processes and contractual arrangements with suppliers and service providers."
+      "title": "and enforcement",
+      "content": "(1)\nThe Minister shall ensure that the CIIP Unit has\nthe necessary powers and means to assess the compliance of operators\nof essential services with their obligations under article 11 and the\neffects thereof on the security of network and information systems.\n(2)\nUpon the request of the CIIP Unit, operators of essential\nservices shall without undue delay provide:\n(a)\nthe information necessary to assess the security of\ntheir network and information systems, including documented\nsecurity policies;\n(b)\nevidence of the effective implementation of\nsecurity policies, such as the results of a security audit carried\nout by the CIIP Unit or a qualified auditor and, in the latter case\nto make the results thereof, including the underlying evidence,\navailable to the CIIP Unit.\nWhen requesting such information, the CIIP Unit shall state the\npurpose of the request and specify what information is needed.\n(3)\nFollowing the assessment of information, evidence or\nresults of security audits referred to in sub-article (2), the CIIP Unit\nmay issue binding instructions to the operators of essential service to\nremedy the deficiencies identified.\n(4)\nThe CIIP Unit shall work in close cooperation with the\nData Protection Commissioner when addressing incidents resulting in\npersonal data breaches.\nPART V – SECURITY OF NETWORK AND INFORMATION\n\nSecurity\nrequirements and\nincident\nnotification.",
+      "metadata": {
+        "source_line_start": 731,
+        "source_line_end": 768
+      }
     },
     {
-      "provision_ref": "art13",
+      "provision_ref": "s13",
       "section": "13",
-      "title": "Regulation 13. Peer Reviews",
-      "content": "Malta shall cooperate with other Member States in conducting peer reviews under the NIS Directive and NIS2 framework, under which national cybersecurity capabilities and practices are voluntarily assessed by teams composed of experts from other Member States and ENISA. The results of peer reviews shall be used to identify areas for improvement in Malta's national cybersecurity framework and shall inform the updating of the national cybersecurity strategy and of these Regulations. MITA shall coordinate Malta's participation in peer reviews as both a reviewed and a reviewing country and shall share the outcomes of reviews with relevant stakeholders in Malta's cybersecurity ecosystem."
+      "title": "notification",
+      "content": "(1)\nDigital service providers shall identify and take\nappropriate and proportionate technical and organisational measures to\nmanage the risks posed to the security of network and information\nsystems which they use in the context of offering services within Malta\nreferred to in the Third Schedule. Having regard to the state of the art,\nthose measures shall ensure a level of security of network and\ninformation systems appropriate to the risk posed, and shall take into\naccount the following elements:\n(a)\n\nthe security of systems and facilities;\n\n(b)\n\nincident handling;\n\n(c)\n\nbusiness continuity management;\n\n(d)\n\nmonitoring, auditing and testing;\n\n(e)\n\ncompliance with international standards.\n\n(2)\nDigital service providers shall take measures to prevent\nand minimise the impact of incidents affecting the security of their\nnetwork and information systems on the services referred to in the\nThird Schedule that are offered within Malta, with a view to ensuring\nthe continuity of those services.\n(3)\nDigital service providers shall without undue delay,\nnotify the CIIP Unit of any incident having a substantial impact on the\nprovision of a service as referenced in the Third Schedule that they\noffer within Malta. Notifications shall include information to enable\nthe CIIP Unit to determine the significance of any local and crossborder impact. Notification shall not make the notifying party subject\nto increased liability.\n(4)\nIn order to determine whether the impact of an incident is\nsubstantial, the following parameters in particular shall be taken into\naccount:\n(a)\nthe number of users affected by the incident, in\nparticular users relying on the service for the provision of their\nown services;\n(b)\n\nthe duration of the incident;\n\n(c)\nthe geographical spread with regard to the area\naffected by the incident;\n(d)\nthe extent of the disruption of the functioning of\nthe service;\n(e)\nactivities;\n\nthe extent of the impact on economic and societal\n\n(f)\nthe importance of the entity for maintaining a\nsufficient level of the service, taking into account the\navailability of alternative means for the provision of that\nservice;\n(g)\nthe dependency of a critical infrastructure, critical\ninformation infrastructure, or both, on the service provided by\nthat entity.\nThe obligation to notify an incident shall only apply where the\ndigital service provider has access to the information needed to assess\nthe impact of an incident against the parameters referred to in the first\nparagraph.\n(5)\nWhere an operator of essential services relies on a thirdparty digital service provider for the provision of a service which is\n\nessential for the maintenance of critical societal and economic\nactivities, any significant impact on the continuity of the essential\nservices due to an incident affecting the digital service provider shall be\nnotified in writing and without undue delay by that operator.\n(6)\nWhere appropriate, and in particular if the incident\nreferred to in sub-article (3) concerns two or more Member States, the\nCIIP Unit shall inform the competent authority or CSIRT of the other\naffected Member States. In so doing, the CIIP Unit shall, in accordance\nwith the law, preserve the digital service provider’s security and\ncommercial interests as well as the confidentiality of the information\nprovided.\n(7)\nAfter consulting the digital service provider concerned,\nthe CIIP Unit, where appropriate, may inform the public about\nindividual incidents or require the digital service provider to do so,\nwhere public awareness is necessary in order to prevent an incident or\nto deal with an ongoing incident, or where disclosure of the incident is\notherwise in the public interest.\n(8)\nWithout prejudice to article 3(4), the CIIP Unit shall not\nimpose any further security or notification requirements on digital\nservice providers.\n(9)\nPart V shall not apply to micro and small enterprises as\ndefined in Commission Recommendation 2003/361/EC.\n(10) Any digital service provider which fails to comply with\nthe obligations set out in this article shall be liable to the imposition of\nan administrative fine in accordance with the procedure under article 19.\nImplementation\nand enforcement.",
+      "metadata": {
+        "source_line_start": 769,
+        "source_line_end": 897
+      }
     },
     {
-      "provision_ref": "art14",
+      "provision_ref": "s14",
       "section": "14",
-      "title": "Regulation 14. Vulnerability Disclosure",
-      "content": "MALTACERT shall establish a coordinated vulnerability disclosure policy facilitating the reporting and remediation of vulnerabilities identified in products or services used within Malta, in accordance with the framework established under the NIS Directive and NIS2 and in coordination with ENISA and the European vulnerability database. Researchers identifying vulnerabilities in network and information systems used by operators of essential services or digital service providers may report such vulnerabilities to MALTACERT through the established coordinated disclosure process. Operators shall implement vulnerability management processes enabling them to identify, assess, and remediate vulnerabilities in their network and information systems in a timely manner."
+      "title": "and enforcement",
+      "content": "(1)\nThe CIIP Unit shall take action, if necessary,\nthrough ex post supervisory measures, when provided with evidence\nthat a digital service provider does not meet the requirements laid down\nin article 13. Such evidence may be submitted by a competent authority\nof another Member State where the service is provided by the digital\nservice provider itself.\n(2)\nFor the purposes of sub-article (1), the CIIP Unit shall\nhave the necessary powers and means to require digital service\nproviders to:\n(a)\nprovide the information necessary to assess the\nsecurity of their network and information systems, including\ndocumented security policies;\n(b)\nremedy any failure to meet the requirements laid\ndown in article 13.\n(3)\n\nWhere:\n\n(a)\na digital service provider has its main\nestablishment or a representative in Malta, but its network and\ninformation systems is located in one or more Member States;\nor\n(b)\na digital service provider has its main\nestablishment or a representative in a Member State, but its\nnetwork and information systems is located in Malta,\nthe CIIP Unit shall cooperate and assist competent authorities of other\nMember States as necessary. Such assistance and cooperation may\ncover information exchanges between the CIIP Unit and other Member\nState competent authorities concerned and requests to take supervisory\nmeasures referred to in sub-article (2).",
+      "metadata": {
+        "source_line_start": 898,
+        "source_line_end": 942
+      }
     },
     {
-      "provision_ref": "art15",
+      "provision_ref": "s15",
       "section": "15",
-      "title": "Regulation 15. Sanctions",
-      "content": "Administrative sanctions applicable to entities that fail to comply with the requirements of these Regulations shall be proportionate, effective, and dissuasive. MITA shall have the power to impose administrative fines on operators of essential services and digital service providers that fail to implement appropriate security measures or to notify incidents in accordance with these Regulations. The amount of any administrative fine shall take into account the nature, gravity, and duration of the infringement, whether the infringement was intentional or negligent, the measures taken by the entity to mitigate the damage, the degree of responsibility of the entity, and any previous relevant infringements. Decisions imposing sanctions may be appealed before the competent courts."
+      "title": "measures referred to in sub-article (2)",
+      "content": "Where a designated digital service provider provides a\nservice to an undertaking providing electronic communications\nnetworks and services in terms of the Electronic Communications\n(Regulation) Act, any security breach affecting such digital service\nprovider shall also be notified by the relevant CSIRT to the Malta\nCommunications Authority:\n\nMalta\nCommunications\nAuthority. \n\nProvided that in this context, in exercising their regulatory\noversight, the CIIP Unit and the Malta Communications Authority\nshall consult each other and each shall give due consideration to any\nadvice that the other may give.",
+      "metadata": {
+        "source_line_start": 943,
+        "source_line_end": 961
+      }
     },
     {
-      "provision_ref": "art16",
+      "provision_ref": "s16",
       "section": "16",
-      "title": "Regulation 16. Relationship with Sector-Specific Legislation",
-      "content": "These Regulations apply without prejudice to sector-specific Union law that contains provisions on the security of network and information systems or on the notification of incidents, including Union law applicable to digital operational resilience in the financial sector, the security of the electronic communications sector, safety of transport systems, and the security of energy networks. Where sector-specific Union law requires operators to take measures to manage the security of their network and information systems or to notify incidents and where those requirements are at least equivalent in effect to the obligations laid down in these Regulations, the relevant provisions of the sector-specific law shall apply. MITA shall coordinate with sectoral competent authorities to avoid duplication of reporting requirements."
+      "title": "advice that the other may give",
+      "content": "(1)\nFor the purposes of this order, a digital service\nprovider shall be deemed to be under the jurisdiction of Malta if it has\nits main establishment in Malta. A digital service provider shall be\ndeemed to have its main establishment in Malta when it has its head\noffice in Malta.\n\nJurisdiction and\nterritoriality.\n\n(2)\nA digital service provider that is not established in the\nUnion, but offers services referred to in the Third Schedule within the\nUnion, shall be deemed to be under the jurisdiction of Malta where its\nrepresentative is established in Malta.\n(3)\nThe designation of a representative by the digital service\nprovider shall be without prejudice to legal actions which could be\ninitiated against the digital service provider itself.\nPART VI - STANDARDISATION AND",
+      "metadata": {
+        "source_line_start": 962,
+        "source_line_end": 983
+      }
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "PART VI - STANDARDISATION AND",
+      "content": "In the implementation of article 11(1) and article 13 (1)\nand (2), the CIIP Unit shall, without imposing or discriminating in\nfavour of the use of a particular type of technology, encourage the use of\nEuropean or internationally accepted standards and specifications\nrelevant to the security of network and information systems.\n\nStandardisation.\n\nVoluntary\nnotification.",
+      "metadata": {
+        "source_line_start": 984,
+        "source_line_end": 1003
+      }
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Standardisation",
+      "content": "(1)\nEntities which have not been identified as\noperators of essential services and are not digital service providers may\nnotify, on a voluntary basis, incidents having a significant impact on\nthe continuity of the services which they provide.\n(2) When processing notifications, the CIIP Unit shall act in\naccordance with the procedure set out in article 11 and may prioritise\nthe processing of mandatory notifications over voluntary notifications.\nVoluntary notifications shall only be processed where such processing\ndoes not constitute a disproportionate or undue burden on the CIIP\nUnit.\nVoluntary notification shall not result in the imposition upon the\nnotifying entity of any obligations to which it would not have been\nsubject had it not given that notification.\nPART VII – ENFORCEMENT AND SANCTIONS",
+      "metadata": {
+        "source_line_start": 1004,
+        "source_line_end": 1022
+      }
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Enforcement",
+      "content": "(1)\nThe CIIP Unit may take the following measures in\nrespect of any undertaking which infringes any provision of this order\nor of any other law which the CIIP Unit is entitled to enforce, or who\nfails to comply with any decision given by the CIIP Unit:\n(a)\nthe imposition of an administrative fine in\naccordance with the provisions of this article; and\n(b)\norder the cessation of any act or omission which is\nin breach of this order.\n(2)\nThe CIIP Unit shall, before proceeding to take any of the\nmeasures under sub-article (1), write to the undertaking concerned,\nwarning it of the measure that may be taken and the specific reason\nwhy it may be taken, requiring it to cease or rectify its acts or omissions\nand, or to make its submissions thereto within such period not being\nless than fifteen (15) days which period, without prejudice to the\nprovisions of sub-article (4), may be abridged if the CIIP Unit\nconsiders that the continuance of the infringement impacts negatively\nthe effective exercise by the CIIP Unit of its regulatory functions and,\nor warrants the immediate intervention of the CIIP Unit:\nProvided that where the measure is an administrative fine\nthe undertaking concerned shall also be informed of the amount of the\nfine:\nProvided further that when issuing a warning under this\nsub-article, the CIIP Unit may impose such conditions as it may\nconsider reasonable in the circumstances.\n(3)\nIf the undertaking concerned remedies the infringement\nwithin the period established by the CIIP Unit in accordance with subarticle (2), and agrees in writing to abide with any condition that the\n\nCIIP Unit may impose, the CIIP Unit may at its discretion desist from\nproceeding any further, this without prejudice to any regulatory\nmeasures that may have already been imposed.\n(4)\nIf after the lapse of the period mentioned in sub-article\n(3), the CIIP Unit considers that the undertaking concerned has not\ngiven any valid reasons to demonstrate why no measure should be\ntaken against it, the CIIP Unit shall notify the undertaking concerned\nin writing, specifying the nature of the infringement, stating the\nmeasure being taken, and if the measure is an administrative fine,\nstating the amount of the fine being imposed.\n(5)\nNotwithstanding the provisions of sub-article (2), where\nthe CIIP Unit has prima facie evidence that the infringement\nrepresents an immediate and significant disruptive effect in Malta, the\nCIIP Unit may take urgent interim measures to remedy the situation in\nadvance of reaching a final decision, including ordering the immediate\ncessation of the act or omission giving cause to the infringement:\nProvided that the undertaking which is subject to such\ncontemplated measures, shall, thereafter, be given a reasonable\nopportunity to state its view and propose any remedies:\nProvided further that the interim measures shall be valid\nfor a maximum of three months, subject to extension for a further\nperiod of three months, in circumstances where enforcement\nprocedures have not been completed.\n(6)\nThe notification as referred to in sub-article (4) shall,\nupon the expiry of the time limit for appeal therefrom, upon the\nservice of a copy thereof by means of a judicial act on the undertaking\nindicated in the notice, constitute an executive title for all effects and\npurposes of Title VII of Part I of Book Second of the Code of\nOrganization and Civil Procedure:\nProvided that if the undertaking against which the notice\nhas been issued, files an appeal before the Tribunal within the twenty\n(20) day period referred to under article 22, and concurrently with or\nbefore the filing of its appeal requests the Tribunal to suspend the\neffects of the notice, then the CIIP Unit shall desist from issuing a\njudicial act as referred to in this sub-article until such time as the\nrequest for suspension has been determined, withdrawn or otherwise\ndealt with:\nProvided further that the Tribunal shall determine any\nrequests for suspension referred to in this sub-article expeditiously.\nBefore determining any such request the Tribunal shall give the CIIP\nUnit a reasonable opportunity to reply and make its submissions.\n(7)\nThe effect of a decision of the CIIP Unit to which an\nappeal relates shall not, except where the Tribunal so orders, be\n\nsuspended in consequence of the bringing of the appeal.\nQuantum of an\nadministrative fine.",
+      "metadata": {
+        "source_line_start": 1023,
+        "source_line_end": 1131
+      }
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "administrative fine",
+      "content": "(1)\n\nAn undertaking which, fails to:\n\n(a)\nimplement appropriate and proportionate security\nmeasures pursuant to article 11 and 13; or\n(b)\nfails to cooperate with the CIIP Unit when\nexercising its monitoring obligations under this order,\nshall be liable to an administrative fine of not less than one thousand\neuro (€1000) and not more than one hundred thousand euro (€100,000)\nfor each violation and one hundred euro (€100) for each day during\nwhich such violation persists, which fine shall be determined and\nimposed by the CIIP Unit, in accordance with the procedure under\narticle 19:\nProvided that any daily fine imposed may be backdated to\nthe date of the commission or commencement of the infringement.\n(2)\n\nAn undertaking which:\n\n(a)\nincident;\n\nfails to notify where it ought to have notified an\n\n(b)\nfails to comply with a lawful instruction from the\nCIIP Unit; or\n(c)\nfails to comply with the provisions of this order\nother than those listed under sub-article (1);\nshall be liable to an administrative fine of not less than five hundred\neuro (€500) and not more than fifty thousand euro ((€50,000) for each\nviolation and fifty euro (€50) for each day during which such violation\npersists, which fine shall be determined and imposed by the CIIP Unit,\nin accordance with the procedure under article 19:\nProvided that any daily fine imposed may be backdated to\nthe date of the commission or commencement of the infringement.\n(3)\nIn determining the amount of an administrative fine,\nregard shall be had in particular to the nature and extent of the\ninfringement, its duration and the impact on critical societal and\neconomic activities.\nPART VIII ADMINISTRATIVE REVIEW TRIBUNAL\nAdministrative\nReview Tribunal.",
+      "metadata": {
+        "source_line_start": 1132,
+        "source_line_end": 1182
+      }
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Review Tribunal",
+      "content": "(1)\nThe Administrative Review Tribunal shall be\ncompetent to hear and determine appeals from decisions of the CIIP\nUnit as provided in this order or in any law.\n\n(2)\nThe provisions of the Administrative Justice Act, in so\nfar as they apply to the Administrative Review Tribunal, shall apply to\nany proceedings before the said Tribunal and the words ‘public\nadministration’ in the said enactment shall be construed as a reference\nto the CIIP Unit.",
+      "metadata": {
+        "source_line_start": 1183,
+        "source_line_end": 1203
+      }
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Unit as provided in this order or in any law",
+      "content": "(1)\nThe right to appeal to the Tribunal shall be\ncompetent to any undertaking to which the decision is addressed.\n\nAppeals from\ndecisions.\n\n(2)\nAn appeal from a decision of the CIIP Unit shall be made\nby application and shall be filed with the Secretary of the Tribunal\nwithin twenty (20) days from the date on which the said decision has\nbeen notified.",
+      "metadata": {
+        "source_line_start": 1204,
+        "source_line_end": 1218
+      }
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "been notified",
+      "content": "In determining an appeal the Tribunal shall take into\naccount the merits of the appeal, and may in whole or in part, confirm\nor annul the decision appealed from, giving in writing the reasons for\nits decision and shall cause such decision to be made public and\ncommunicated to the parties to the appeal.\n\nDecisions of the\nTribunal.\n\nINCIDENT RESPONSE TEAMS (CSIRTs)\nThe requirements and tasks of CSIRTs shall be adequately and\nclearly defined and supported by national policy and, or regulation.\nSuch requirements and tasks shall include the following:\n(1)\n\nRequirements for all CSIRTs:\n(a)\nCSIRTs shall ensure a high level of availability of\ntheir communications services by avoiding single points of\nfailure and shall have several means for being contacted and for\ncontacting others at all times. Furthermore, the communication\nchannels shall be clearly specified and well known to the\nconstituency and cooperative partners.\n(b)\nCSIRTs' premises and the supporting information\nsystems shall be located in secure sites.\n(c)\n\nOperator Security and Business continuity:\n\n(i)\nCSIRTs shall be equipped with an\nappropriate system for managing and routing requests, in\norder to facilitate handovers.\n(ii)\nCSIRTs shall be adequately staffed with\ncomputer security incident response officers (CSIROs) to\nensure availability at all times.\n(iii) CSIRTs shall rely on an infrastructure the\ncontinuity of which is ensured. To that end, redundant\nsystems and backup working space shall be available.\n(d)\nCSIRTs shall have the possibility to participate,\nwhere they wish to do so, in local, international cooperation\nnetworks or both.\n(2)\n\nCSIRTMalta’s tasks:\n\n(a)\nfollowing:\n\nCSIRTMalta tasks shall include at least the\n(i)\n\nmonitoring incidents at a national level;\n\n(ii)\nproviding\nearly\nwarning,\nalerts,\nannouncements and dissemination of information to\nrelevant stakeholders about risks and incidents;\n(iii) Coordinating and responding to incidents\nproviding the necessary support and advice to\nconstituents;\n(iv) providing dynamic risk\nanalysis and situational awareness;\n\nand\n\nincident\n\n(v)\nparticipating in the CSIRTs network and in\nthe European Cooperation Group to ensure the effective,\nefficient and secure cooperation at the European level;\n(b)\nCSIRTMalta\nshall\nestablish\nrelationships with the public and private sector;\n\ncooperation\n\n(c)\nTo facilitate cooperation, CSIRTMalta shall\npromote the adoption and use of common or standardised\npractices for:\n(i)\n\nincident and risk-handling procedures;\n\n(ii)\nincident,\nclassification schemes.\n(3)\n\nrisk\n\nand\n\ninformation\n\nCSIRTs' tasks:\n(a)\n\nCSIRTs' tasks shall include at least the following:\n\n(i)\nnetworks;\n\nmonitoring incidents of assets, systems, or\n\n(ii)\nproviding\nearly\nwarning,\nalerts,\nannouncements and dissemination of information to\nrelevant stakeholders about risks and incidents;\n(iii)\n\nresponding to incidents;\n\n(iv) providing dynamic risk\nanalysis and situational awareness.\n\nand\n\nincident\n\n\"OPERATOR OF ESSENTIAL SERVICES\"\nUNDER ARTICLE 2\nSector",
+      "metadata": {
+        "source_line_start": 1219,
+        "source_line_end": 1392
+      }
     }
   ],
   "definitions": [
     {
-      "term": "network and information system",
-      "definition": "An electronic communications network, any device or group of interconnected or related devices, one or more of which automatically processes digital data pursuant to a program, or digital data stored, processed, retrieved, or transmitted by elements covered by the preceding categories.",
-      "source_provision": "art2"
+      "term": "autonomous CSIRT",
+      "definition": "a self-organised CSIRT which",
+      "source_provision": "s2"
     },
     {
-      "term": "operator of essential services",
-      "definition": "A public or private entity operating in a sector covered by these Regulations that has been identified and designated by MITA as providing a service essential for the maintenance of critical societal or economic activities.",
-      "source_provision": "art5"
+      "term": "CIIP Unit",
+      "definition": "the Critical Information Infrastructure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cloud computing service",
+      "definition": "a digital service that enables",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "any natural person who is acting for",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CSIRT",
+      "definition": "computer security incident response team",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Data Protection Commissioner",
+      "definition": "the Information and",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Department",
+      "definition": "the Critical Infrastructure Protection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "digital service",
+      "definition": "a service within the meaning of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DNS service provider",
+      "definition": "an entity which provides DNS",
+      "source_provision": "s2"
     },
     {
       "term": "digital service provider",
-      "definition": "A legal person that provides a digital service, being an online marketplace, an online search engine, or a cloud computing service.",
-      "source_provision": "art8"
+      "definition": "any legal person that provides a",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DNS",
+      "definition": "a hierarchical",
+      "source_provision": "s2"
     },
     {
       "term": "incident",
-      "definition": "Any event having an actual adverse effect on the security of network and information systems.",
-      "source_provision": "art7"
+      "definition": "any event having an effect on the security of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "incident handling",
+      "definition": "all procedures supporting the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IXP",
+      "definition": "a network facility",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Malta Communications Authority",
+      "definition": "the authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member States",
+      "definition": "the Member States of the European",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for the protection of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "online marketplace",
+      "definition": "a digital service that allows",
+      "source_provision": "s2"
+    },
+    {
+      "term": "online search engine",
+      "definition": "a digital service that allows users",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator of essential services",
+      "definition": "a public or private entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "representative",
+      "definition": "any natural or legal person established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "risk",
+      "definition": "any reasonably identifiable circumstance or event",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security of network and information systems",
+      "definition": "the ability",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard",
+      "definition": "a standard within the meaning of paragraph (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specification",
+      "definition": "a technical specification within the",
+      "source_provision": "s2"
+    },
+    {
+      "term": "top-level domain name registry",
+      "definition": "an entity which",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trader",
+      "definition": "any natural persons, or any legal person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "taking into account the availability of alternative",
+      "definition": "for the provision of that",
+      "source_provision": "s10"
+    },
+    {
+      "term": "The Minister shall ensure that the CIIP Unit has the necessary powers and",
+      "definition": "to assess the compliance of operators",
+      "source_provision": "s12"
+    },
+    {
+      "term": "taking into account the availability of alternative",
+      "definition": "for the provision of that",
+      "source_provision": "s13"
+    },
+    {
+      "term": "the CIIP Unit shall have the necessary powers and",
+      "definition": "to require digital service",
+      "source_provision": "s14"
+    },
+    {
+      "term": "upon the service of a copy thereof by",
+      "definition": "of a judicial act on the undertaking",
+      "source_provision": "s19"
+    },
+    {
+      "term": "services by avoiding single points of failure and shall have several",
+      "definition": "for being contacted and for",
+      "source_provision": "s23"
     }
   ]
 }

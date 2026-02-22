@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-123-164-mlt",
+  "type": "statute",
+  "title": "Regoli dwar il-Kont tat-Tifdil tal-Individwu",
+  "title_en": "Regoli dwar il-Kont tat-Tifdil tal-Individwu",
+  "short_name": "eli/sl/123.164/mlt",
+  "status": "in_force",
+  "issued_date": "2015-01-06",
+  "in_force_date": "2015-01-06",
+  "url": "https://legislation.mt/eli/sl/123.164/20150106/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.164/mlt, expression eli/sl/123.164/20150106/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 469 tal-2014, kif emendat bl-Avviż Legali 136 tal2015",
+      "content": "(1) It-titolu ta’ dawn ir-regoli huwa r-Regoli dwar il-Kont\ntat-Tifdil tal-Individwu.\n\nTitolu u bidu fisseħħ.\n\n(2) Dawn ir-regoli għandhom jidħlu fis-seħħ b’effett mis-sena\nta’ stima 2015.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "ta’ stima 2015",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra:\n\"Att\" tfisser l-Att dwar it-Taxxa fuq l-Income;\n\nTifisir.\nKap. 123.\n\n\"ISA\" tfisser kont tat-tifdil speċjali tal-individwu skont dawn irregoli;\nu termini oħra għandu jkollhom it-tifsira mogħtija lilhom fl-artikoli\n33 sa 42, it-tnejn inklużi, tal-Att jew, meta mhux imfissra fl-artikoli\nmsemmija, it-tifsira mogħtija lilhom taħt id-dispożizzjonijiet talAtt.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifisir",
+      "content": "Kont tat-tifdil tal-individwu għandu jikkwalifika bħala ISA\njekk:\n(a) id-detentur tal-kont huwa individwu li għandu talanqas tmintax-il sena, u huwa resident ordinarju ta’\nMalta; u\n(b) id-detentur tal-kont:\n(i)\n\njiddikjara u jwettaq bil-miktub lil wieħed li\njħallas income minn investimenti li d-detentur\ntal-kont ma jżommx ISAs oħra meta saret lapplikazzjoni, u li huwa mhux se jiftaħ ISAs\noħra kemm-il darba l-istess ISA mal-istess\npersuna li jagħmel il-ħlas tibqa’ miftuħa f’ismu;\nu\n(ii) jagħżel billi javża bil-miktub lil min qed\njagħmel il-ħlas tal-income minn investiment\nskont l-artikolu 35 tal-Att sabiex jitħallas xi\nincome minn investiment li jinqala’ mill-holding\ntal-ISA mingħajr tnaqqis ta’ taxxa; u\n(ċ) min qed jagħmel il-ħlas tal-income minn investiment\ngħandu jidentifika l-kont rilevanti bħala ISA; u\n(d) id-dħul minn tali kont tat-tifdil\njikkonsisti esklussivament minn:\n(i)\n\ntal-individwu\n\nimgħax li jitħallas lil individwu f’ismu minn\npersuna li qed tmexxi negozju ta’ kummerċ\nbankarju skont il-liġijiet ta’ kull Membru Stat\n\nKont tat-tifdil talindividwu.\nEmendat:\nA.L. 136 tal-2015.\n\n[ L.S.123.164\n\nKONT TA’ TIFDIL TAL-INDIVIDWU\ntal-Unjoni Ewropea jew taż-Żona Ekonomika\nEwropea (\"EU/EEA\") fir-rigward ta’ somma ta’\nflus depożitata f’kont speċjali tat-tifdil talindividwu; u\n(ii) imgħax li jitħallas lil individwu f’ismu millGvern ta’ Membru Stat tal-EU/EEA jew aġenzija\ntiegħu, minn korporazzjoni jew awtorità\nstabbilita mil-liġi, jew fir-rigward ta’ ħruġ millpubbliku minn kumpannija, entità jew persuna\nġuridika oħra hi kif inhi kostitwita u jekk\nresidenti f’Malta jew xort’oħra;\n(e) depożiti minn individwu fil-kont ta’ tifdil talindividwu u l-valur ta’ titoli relevanti li jagħtu limgħax għal benefiċċju tal-individwu f’dak il-kont ma\njaqbiżx l-elfejn euro (€2,000) fis-sena 2015 u elf euro\n(€1,000) f’kull sena li tiġi wara:\n\nIżda li kull depożitu fi, jew titoli kkreditati lil, ISA ġdid\nskont ir-regola 4 ma jitteħidtx f ’konsiderazzjoni għall-iskop li\njiddetermina jekk l-ammont imsemmi ta’ elf euro (€1,000) ġiex\nmaqbuż f’xi sena.\nTrasferiment bejn\nISAs.\n\nRendikont lil\nKummissarju.\nEmendat:\nA.L. 136 tal-2015.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 96
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kummissarju",
+      "content": "Individwu li jkollu ISA jista’ jagħlaq u jagħmel\ntrasferiment tal-bilanċi kollha tal-istess ISA f ’ISA oħra kemm-il\ndarba huwa jissodisfa il-kundizzjonijiet kollha imsemmija firregola 3 b’referenza għal ISA ġdida fuq l-għeluq tal-ISA preċedenti\nmiżmuma f’ismu.",
+      "metadata": {
+        "source_line_start": 97,
+        "source_line_end": 101
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kummissarju",
+      "content": "(1) Kull min jagħmel il-ħlas ta’ income minn investiment li\njoħroġ minn ISA mhux rikjest li jagħti rendikont lill-Kummissarju\nskont l-artikolu 34(2) tal-Att, iżda għandu jibgħat rendikont ta’ kull\nsena lill-Kummissarju sal-31 ta’ Jannar tas-sena li tiġi wara dik li\ngħaliha jkun sar ir-rendikont.\n(2) Ir-rendikont ta’ kull sena għandu jinkludi d-dettalji li ġejjin\nfir-rigward tas-sena li għaliha jsir ir-rendikont:\n(a) in-numri tal-konitijiet ta’ kull ISA miftuħ, miżmum\njew magħluq matul is-sena minn min qed jagħmel ilħlas;\n(b) l-isem, l-indirizz, u n-numru tat-taxxa ta’ kull persuna\nli kellha kont ta’ ISA matul is-sena ma’ min qed\njagħmel il-ħlas;\n(ċ) l-ammont gross ta’ income minn investiment imħallas\nlil kull min kellu kont ta’ ISA;\n(d) id-data ta’ meta nfetaħ kull kont ta’ ISA;\n(e) id-data tal-għeluq ta’ kull kont ta’ ISA matul is-sena;\n(f)\n\nit-total ta’ depożiti magħmul f’kull kont ta’ ISA matul\nis-sena; u\n\n(g) il-bilanċ li jkun hemm f’kull kont ta’ ISA fl-aħħar tassena, jew, jekk tali kont ġie magħluq, il-bilanċ ta’ waqt\nl-għeluq.",
+      "metadata": {
+        "source_line_start": 102,
+        "source_line_end": 127
+      }
+    }
+  ],
+  "definitions": []
+}

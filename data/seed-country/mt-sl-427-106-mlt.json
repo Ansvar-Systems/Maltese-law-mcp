@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-106-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar General Product Safety (Implementing)",
+  "title_en": "Regolamenti dwar General Product Safety (Implementing)",
+  "short_name": "eli/sl/427.106/mlt",
+  "status": "in_force",
+  "issued_date": "2025-04-14",
+  "in_force_date": "2025-04-04",
+  "url": "https://legislation.mt/eli/sl/427.106/20250404/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.106/mlt, expression eli/sl/427.106/20250404/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "GENERAL PRODUCT SAFETY (IMPLEMENTING)\n\n[ L.S. 427.106\n\nLEĠISLAZZJONI SUSSIDJARJA 427.106\nREGOLAMENTI DWAR GENERAL PRODUCT\nSAFETY (IMPLEMENTING)\n4 ta’ April, 2025\nL-AVVIŻ LEGALI 68 tal-2025.\n\n*Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

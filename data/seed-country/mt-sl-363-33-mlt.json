@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-363-33-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Xoljiment tal-Kunsill Lokali Paola",
+  "title_en": "Ordni dwar Xoljiment tal-Kunsill Lokali Paola",
+  "short_name": "eli/sl/363.33/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.33/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.33/mlt, expression eli/sl/363.33/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 168 ta’ l-1999",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Xoljiment talKunsill Lokali Paola.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu Ordni dwar Xoljiment talKunsill Lokali Paola",
+      "content": "Il-Kunsill Lokali Paola qieg]ed b’dan ji[i xolt min]abba\nnuqqas kontinwu ta’ t]aris tad-disposizzjonijiet ta’ l-artikolu 22(`)\nta’ l-Att dwar Kunsilli Lokali.\n\nTitolu.\nXoljiment talKunsill Lokali\nPaola.\nKap. 363.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

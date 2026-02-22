@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-31-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (European Long-Term Investment Funds)",
+  "title_en": "Regolamenti dwar Investment Services Act (European Long-Term Investment Funds)",
+  "short_name": "eli/sl/370.31/mlt",
+  "status": "in_force",
+  "issued_date": "2016-04-21",
+  "in_force_date": "2016-04-21",
+  "url": "https://legislation.mt/eli/sl/370.31/20160421/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.31/mlt, expression eli/sl/370.31/20160421/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "EUROPEAN LONG-TERM INVESTMENT FUNDS\n(INVESTMENT SERVICES ACT)\n\n[ L.S.370.31\n\nLEĠISLAZZJONI SUSSIDJARJA 370.31\nREGOLAMENTI DWAR EUROPEAN\nLONG-TERM INVESTMENT FUNDS\n(INVESTMENT SERVICES ACT)*\n4 ta’ Marzu, 2016\nL-AVVIŻ LEGALI 70 tal-2016.\n\n*Dawn ir regolamenti ġre ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-452-118-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Standard Nazzjonali ta’ Żjieda fil-Paga għall-Impjegati",
+  "title_en": "Ordni dwar Standard Nazzjonali ta’ Żjieda fil-Paga għall-Impjegati",
+  "short_name": "eli/sl/452.118/mlt",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-01-10",
+  "url": "https://legislation.mt/eli/sl/452.118/20190110/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.118/mlt, expression eli/sl/452.118/20190110/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 443 tal-2018",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Standard\nNazzjonali ta’ Żjieda fil-Paga għall-Impjegati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nIl-pagi ta’ impjegati whole-time għandhom\njiżdiedu b’żewġ euro u tlieta u tletin ċenteżmi (€2.33) fil-ġimgħa bħala\nżieda għall-għoli tal-ħajja u għandhom jiżdiedu wkoll b’euro wieħed\n(€1.00) fil-ġimgħa bħala suppliment mandatorju:\n\nŻjieda għall-għoli\ntal-ħajja.\n\nIżda illi l-euro wieħed (€1) fil-ġimgħa bħala suppliment\nmandatorju ma għandux ikun żieda addizzjonali fil-każ ta’ ftehim\nkollettiv fejn iż-żieda tal-għoli tal-ħajja hija meqjusa bħala parti miżżieda fil-paga maqbula b’mod ġenerali u stabbilita f’dak il-ftehim\nkollettiv:\nIżda wkoll f’dawk il-każijiet fejn iż-żieda tal-għoli talħajja għas-sena 2019 maqbula b’mod ġenerali f’dak il-ftehim kollettiv\nhija anqas minn tliet euro, tlieta u tletin ċenteżmi (€3.33), għandha\ntingħata żieda pro rata tas-suppliment mandatorju biex jintlaħaq laggregate stabbilit f’dan is-subartikolu.\n(2) Ir-rata fis-siegħa ta’ impjegati part-time għandha tiżdied\nbl-istess ammont taż-żjieda fir-rata fis-siegħa ta’ impjegat whole-time\nkomparabbli, ikkalkulata wara li jiġu inklużi ż-żidiet fil-ġimgħa\nspeċifikati fis-subartikolu (1), jew fil-każijiet fejn ma jkun hemm ebda\nkategorija komparabbli ta’ impjegati whole-time fil-post tax-xogħol,\nbir-rata fis-siegħa ta’ impjegat whole-time komparabbli f’Ordni talKunsill tal-Pagi li Jirregola l-Pagi li jkun japplika, jew fejn ma jkunx\nhemm Ordni tal-Kunsill tal-Pagi li Jirregola l-Pagi li jkun japplika,\nb’wieħed minn kull erbgħin (\n) tar-rata ta’ żidiet kif speċifikati\nfis-subartikolu (1).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 48
+      }
+    }
+  ],
+  "definitions": []
+}

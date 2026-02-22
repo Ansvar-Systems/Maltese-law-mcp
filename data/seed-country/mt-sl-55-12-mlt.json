@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-55-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Żbalji jew Ommissjonijiet taħt l-Artikolu 45A(5) tal-Att dwar il-Professjoni Nutarili u l-Arkivji Nutarili",
+  "title_en": "Regolamenti dwar Żbalji jew Ommissjonijiet taħt l-Artikolu 45A(5) tal-Att dwar il-Professjoni Nutarili u l-Arkivji Nutarili",
+  "short_name": "eli/sl/55.12/mlt",
+  "status": "in_force",
+  "issued_date": "2023-11-09",
+  "in_force_date": "2023-10-27",
+  "url": "https://legislation.mt/eli/sl/55.12/20231027/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.12/mlt, expression eli/sl/55.12/20231027/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 254 tal-2023",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nŻbalji jew Ommissjonijiet taħt l-Artikolu 45A(5) tal-Att dwar ilProfessjoni Nutarili u l-Arkivji Nutarili.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar",
+      "content": "Żbalji li għandhom x’jaqsmu ma’ żidiet jew\nommissjonijiet f ’partijiet mill-isem ta’ kumpaniji u soċjetajiet\nkummerċjali oħrajn, fejn tali żidiet jew ommissjonijiet ma jbiddlux\nfis-sustanza l-identità tal-imsemmija kumpaniji jew soċjetajiet\nkummerċjali oħrajn fid-data tal-firma tal-att jew l-atti inkwistjoni,\njistgħu jkunu s-suġġett ta’ att korrettiv nutarili kemm-il darba l-istess\nidentità tkun tirriżulta b’mod ċar mill- att innifsu.\n\nTitolu.\n\nŻbalji jew\nommissjonijiet flismijiet ta’\nkumpaniji u\nsoċjetajiet\nkummerċjali\noħrajn.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

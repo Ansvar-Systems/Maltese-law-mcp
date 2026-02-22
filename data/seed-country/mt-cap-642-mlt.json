@@ -1,0 +1,65 @@
+{
+  "id": "mt-cap-642-mlt",
+  "type": "statute",
+  "title": "Att li jimplimenta Miżuri tal-Estimi",
+  "title_en": "Att li jimplimenta Miżuri tal-Estimi",
+  "short_name": "Kap. 642",
+  "status": "in_force",
+  "issued_date": "2024-04-17",
+  "in_force_date": "2024-01-01",
+  "url": "https://legislation.mt/eli/cap/642/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/642/mlt, expression eli/cap/642/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "ATT XIII tal-2024",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att li jimplimenta Miżuri\ntal-Estimi.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Id-dispożizzjonijiet ta’ din it-Taqsima għandhom jitqiesu li\nġew fis-seħħ fl-1 ta’ Jannar, 2024.\n\nBidu fis-seħħ.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "Għall-finijiet ta’ din it-Taqsima, \"dħul\" għandha l-istess\ntifsira bħal dik assenjata lilha fl-artikolu 2 tal-Att dwar il-Ġestjoni talFinanzi Pubbliċi, imma ma tinkludix dħul li jkun ġej minn self.\n\nTifsir.\nKap. 601.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu fil-qosor",
+      "content": "(1)\nBla ħsara għad-dispożizzjonijiet ta’ dan l-Att, ilGvern ta’ Malta jista’ jiġbor, b’self, somma ta’ flus ta’ mhux iżjed\nminn biljun u seba’ mitt miljun euro (€1,700,000,000).\n\nAwtorità li jinġabar\nself.\n\n(2)\nGħall-fini li jinġabar dak is-self hawn qabel imsemmi, ilMinistru responsabbli għall-Finanzi hu b’dan awtorizzat li jiġbor dak\nis-self taħt id-dispożizzjonijiet tal-Att dwar Self tal-Gvern u lA m m i n is tr a z z j o ni t a d - D e j n P u bb l ik u, b ’ da w k i l - pa tt i j ie t u\nkondizzjonijiet hekk kif l-istess Ministru jista’ japprova.\n\nKap. 575.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 575",
+      "content": "Kwalunkwe flejjes imsellfin taħt l-awtorità ta’ din itTaqsima għandhom ikunu approprjati u applikati għall-iskop li:\n\nSkop.\n\n(a)\njitħallsu l-ispejjeż li jeċċedu d-dħul li jsir fil-Fond\nKonsolidat matul is-sena 2024; u\n(b)\njiġu mifdija stocks reġistrati u strument ta’ dejn li\ngħandhom jiġu mifdija matul is-sena 2024; u\n(ċ)\nisiru\nammortizzament; u\n\nkontribuzzjonijiet\n\nfil-fondi\n\nta’\n\n(d)\njiġu effettwati bidliet fil-portfolio fir-rigward ta’\nammonti li jinġabru permezz ta’ Bills tat-Teżor, ammonti\nmiġbura permezz ta’ Stocks tal-Gvern, u rigward self li jinġabar\nminn barra minn Malta hekk kif u meta dan ikun meħtieġ\nb’konformità mal-politika tal-Gvern dwar l-immaniġġjar taddejn.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 82
+      }
+    }
+  ],
+  "definitions": []
+}

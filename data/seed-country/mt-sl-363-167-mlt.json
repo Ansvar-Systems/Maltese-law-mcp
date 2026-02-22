@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-363-167-mlt",
+  "type": "statute",
+  "title": "Kiri ta’ Garaxxijiet taċ-Ċentru Ċiviku Ta’ Kerċem (Kunsill Lokali Ta’ Kerċem)",
+  "title_en": "Kiri ta’ Garaxxijiet taċ-Ċentru Ċiviku Ta’ Kerċem (Kunsill Lokali Ta’ Kerċem)",
+  "short_name": "eli/sl/363.167/mlt",
+  "status": "in_force",
+  "issued_date": "2012-01-26",
+  "in_force_date": "2012-01-26",
+  "url": "https://legislation.mt/eli/sl/363.167/20120126/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.167/mlt, expression eli/sl/363.167/20120126/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Lokali Bye-Law 30/1/2013",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-laws dwar Kiri ta’\nGaraxxijiet taċ-Ċentru Ċiviku Ta’ Kerċem (Kunsill Lokali Ta’\nKerċem).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1 F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\ntkunx teħtieġ xort’oħra -\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"inkwilin\" tfisser kull firmatarju li jkun qed jikri l-garaxx;\n\"il-Kunsill\" ifisser il-Kunsill Lokali Ta’ Kerċem;\n\"sid\" tfisser il-Kunsill Lokali Ta’ Kerċem.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Permezz ta’ kuntratt bejn is-sid u l-inkwilin, is-sid jagħti u\njikkonċedi b’kera favur l-inkwilin li jaċċetta u bl-istess titolu ta’\nkera jieħu l-garaxx mingħajr l-arja tiegħu.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Arja tal-garaxx",
+      "content": "Il-kerrej għandu jkun unikament responsabbli li jħallas\ngħall-ispejjeż ta’ kull xorta li jkollhom x’jaqsmu mat-titjib jew\nmal-manutenzjoni tal-fond u kull titjib jew manutenzjoni bħal dak\ngħandu jibqa’ fil-fond għall-benefiċċju ta’ sid il-kera, li ma jkunx\nobbligat irodd lura lil kerrej dawk l-ispejjeż imġarrba.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Titjib fil-fond",
+      "content": "1 Dawn il-garaxxijiet ikunu jistgħu jinkrew biss wara sejħa\npubblika għall-offerti.\n\nSejħa għal offerti.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Titjib fil-fond",
+      "content": "Ir-rata ta’ kera fis-sejħa għall-offerti għall-garaxxijiet tkun\nbi prezz ta’ mhux inqas minn:\n\nRati ta’ kera.\nSostitwit:\nK.L.B.L 30/1/2013.\n\n(a) ħames mitt euro (€500) għal garaxx ta’ karozza waħda,\ngħal sena sħiħa;\n(b) disa’ mitt euro (€900) għal garaxx ta’ tliet karozzi,\ngħal sena sħiħa.\n\n*ara l-bye-law 1.2 ta’ dawn il-Bye-Laws, kif promulgata oriġinarjament.",
+      "metadata": {
+        "source_line_start": 63,
+        "source_line_end": 79
+      }
+    }
+  ],
+  "definitions": []
+}

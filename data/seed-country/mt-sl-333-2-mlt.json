@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-333-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Civil Aviation (Terminal Charges for Navigation Services)",
+  "title_en": "Regolamenti dwar Civil Aviation (Terminal Charges for Navigation Services)",
+  "short_name": "eli/sl/333.2/mlt",
+  "status": "in_force",
+  "issued_date": "2016-07-27",
+  "in_force_date": "2015-01-01",
+  "url": "https://legislation.mt/eli/sl/333.2/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/333.2/mlt, expression eli/sl/333.2/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION\n(TERMINAL CHARGES FOR NAVIGATION SERVICES) [ L.S.333.02\n\nLEĠISLAZZJONI SUSSIDJARJA 333.02\nCIVIL AVIATION (TERMINAL CHARGES FOR\nNAVIGATION SERVICES) REGULATIONS*\n1 ta’ Jannar, 2015\nL-AVVIŻ LEGALI 348 tal-2015, kif emendat bl-Avviż Legali 41 tal-2017,\n255 tal-2017,124 tal-2018, 26 tal-2019 u 38 tal-2020, 8 tal-2021, 32 tal2022 u 7 tal-2023 u bl-Att XL tal-2023.\n\n*Dawn ir-regolamenti ġew ippubblikat bl-ilsien Ingliż biss.\n\n*Dawn ir-regolamenti ġew ippubblikat bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

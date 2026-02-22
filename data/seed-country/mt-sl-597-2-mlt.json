@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-597-2-mlt",
+  "type": "statute",
+  "title": "Regoli dwar it-Trademark Komunitarja Imħassar bl-Avviż Legali 50 tal-2021",
+  "title_en": "Regoli dwar it-Trademark Komunitarja Imħassar bl-Avviż Legali 50 tal-2021",
+  "short_name": "eli/sl/597.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2021-02-12",
+  "url": "https://legislation.mt/eli/sl/597.2/20210212/mlt",
+  "description": "Official text from legislation.mt (eli/sl/597.2/mlt, expression eli/sl/597.2/20210212/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TRADEMARK KOMUNITARJA\n\n[L.S.597.02\n\nLEĠISLAZZJONI SUSSIDJARJA 597.02\nREGOLI DWAR IT-TRADEMARK KOMUNITARJA\n1 ta’ Mejju, 2004\nL-AVVIŻ LEGALI 233 ta’ l-2003, kif emendat bl-Avviż Legali 426 ta’ l2007.\n\nImħassar bl-Avviż Legali 50 tal-2021.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

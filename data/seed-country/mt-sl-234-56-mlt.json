@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-56-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Merchant Shipping (Ship Recycling)",
+  "title_en": "Regolamenti dwar Merchant Shipping (Ship Recycling)",
+  "short_name": "eli/sl/234.56/mlt",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-01-10",
+  "url": "https://legislation.mt/eli/sl/234.56/20190110/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.56/mlt, expression eli/sl/234.56/20190110/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERCHANT SHIPPING (SHIP RECYCLING)\n\n[ L.S. 234.56\n\nLEĠISLAZZJONI SUSSIDJARJA 234.56\nREGOLAMENTI DWAR MERCHANT SHIPPING\n(SHIP RECYCLING)\n31 ta’ Diċembru, 2018\n\nL-AVVIŻ LEGALI 442 tal-2018.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

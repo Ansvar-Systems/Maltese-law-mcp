@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Designated Financial InstrumentsImħassrin bl-Avviż Legali 408 tal-2017",
+  "title_en": "Regolamenti dwar Designated Financial InstrumentsImħassrin bl-Avviż Legali 408 tal-2017",
+  "short_name": "eli/sl/345.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.14/mlt, expression eli/sl/345.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "DESIGNATED FINANCIAL INSTRUMENTS\n\n[L.S.345.14\n\nLEĠISLAZZJONI SUSSIDJARJA 345.14\nREGOLAMENTI DWAR DESIGNATED\nFINANCIAL INSTRUMENTS*\n6 ta’ Novembru, 2012\nL-AVVIŻ LEGALI 380 tal-2012.\n\nRevokati bl-Avviż Legali 408 tal-2017.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

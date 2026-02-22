@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-2-mlt",
+  "type": "statute",
+  "title": "Liġi dwar it-Tneħħija tal-Jedd ta' Rifuġju fi Knejjes Imħassar bl-Att II tal-2015",
+  "title_en": "Liġi dwar it-Tneħħija tal-Jedd ta' Rifuġju fi Knejjes Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 2(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1828-04-10",
+  "url": "https://legislation.mt/eli/cap/2/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/2/mlt, expression eli/cap/2/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TNEĦĦIJA TAL-JEDD TA’ RIFUĠJU FI KNEJJES\n\n[KAP. 2.\n\nKAPITOLU 2\nLIĠI DWAR IT-TNEĦĦIJA TAL-JEDD TA’ RIFUĠJU\nFI KNEJJES\nBiex tneħħi l-jedd ta’ rifuġju fi knejjes u l-immunità lokali fi ħwejjeġ\nkriminali.\n\n(10 ta’ April, 1828)*\nIL-PROKLAMA NRU. VI TAL-1828.\n\nImħassar bl-Att II tal-2015.\n\n*Maħruġa fil-Gazzetta tal-Gvern Nru. 896 tas-16 ta’ April, 1828.\n\n1\n\n\n2\n\nKAP. 2.]\n\nTNEĦĦIJA TAL-JEDD TA’ RIFUĠJU FI KNEJJES",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

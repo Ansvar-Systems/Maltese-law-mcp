@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-8-mlt",
+  "type": "statute",
+  "title": "Avviż dwar Indiċi tal-Prezzijiet dwar Proprjetà Immobbli",
+  "title_en": "Avviż dwar Indiċi tal-Prezzijiet dwar Proprjetà Immobbli",
+  "short_name": "eli/sl/246.8/mlt",
+  "status": "in_force",
+  "issued_date": "2016-08-02",
+  "in_force_date": "2011-11-20",
+  "url": "https://legislation.mt/eli/sl/246.8/20250829/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.8/mlt, expression eli/sl/246.8/20250829/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-2023 u 174 tal-2024 u 181 tal-2025",
+      "content": "It-titolu ta’ dan l-Avviż hu l-Avviż dwar Indiċi talPrezzijiet dwar Proprjetà Immobbli.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għall-finijiet tal-artikolu 6(1)(b) tal-Att dwar l-Akkwist ta’\nProprjetà Immobbli minn Persuni mhux Residenti, u għar-rigward talartikolu 2 tal-Ordni tal-1999 dwar il-Valur ta’ Immobbli fl-Akkwist ta’\nProprjetà Immobbli minn Persuni mhux Residenti, pubblikat bl-Avviż\nLegali 98 tal-1999, id-Direttur Ġenerali tal-Uffiċċju Nazzjonali talIstatistika stabbilixxa li l-indiċi tal-prezzijiet dwar proprjetà immobbli\nkien 269.31 fl-1 ta’ April, 2025. Dan jirrappreżenta żieda ta’ 5.7 fil-mija\nmill-2024. L-informazzjoni li tidher fit-tabella mehmuża ma’ dan lAvviż Legali għandha tieħu post iċ-ċifri li dehru f’avviżi legali\npreċedenti f’dan ir-rigward. Iċ-ċifri għas-sena 2025 huma provviżorji.\n\nValur ta’ proprjetà\nimmobbli.\nEmendat:\nA.L. 223 tal-2012;\nA.L. 258 tal-2013;\nA.L. 261 tal-2014;\nA.L. 224 tal-2015;\nA.L. 261 tal-2016;\nA.L. 298 tal-2017;\nA.L. 332 tal-2018;\nA.L. 210 tal-2019;\nA.L. 316 tal-2020;\nA.L. 308 tal-2021;\nA.L. 221 tal-2022;\nA.L. 261 tal-2023;\nA.L. 174 tal-2024;\nA.L. 181 tal-2025.\nKap. 246.\nL.S.246.04\n\nEmendata:\nA.L. 223 tal-2012;\nA.L. 258 tal-2013;\nA.L. 261 tal-2014;\nA.L. 224 tal-201;\nA.L. 298 tal-2017.\nSostitwit:\nA.L. 332 tal-2018.\nEmendata:\nA.L. 210 tal-2019;\nA.L. 316 tal-2020;\nA.L. 308 tal-2021.\nSostitwit:\nA.L. 221 tal-2022;\nA.L. 261 tal-2023;\nA.L. 174 tal-2024;\nA.L. 181 tal-2025.\n\nIndiċi tal-Prezzijiet dwar Proprjetà Immobbli\nIndiċi tal-Prezzijiet dwar Proprjetà Immobbli\nSena\nIndiċi*\nRata Annwali ta’ Tibdil\n(%)",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 75
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "269.31",
+      "content": "[ L.S.246.03\n\nINDIĊI TAL-PREZZIJIET DWAR PROPRJETÀ IMMOBBLI\n*Is-sena bażi tal-Indiċi hija 2004=100.",
+      "metadata": {
+        "source_line_start": 119,
+        "source_line_end": 130
+      }
+    }
+  ],
+  "definitions": []
+}

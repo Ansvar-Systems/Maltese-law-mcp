@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-401-5-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi u Kummerċ għall-Ħruġ ta' €46,587,467.97 Addizzjonali 7.2% Stock tal-Gvern ta' Malta 2008 (It-Tieni Ħruġ)",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi u Kummerċ għall-Ħruġ ta' €46,587,467.97 Addizzjonali 7.2% Stock tal-Gvern ta' Malta 2008 (It-Tieni Ħruġ)",
+  "short_name": "eli/sl/401.5/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/401.5/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/401.5/mlt, expression eli/sl/401.5/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 176 ta’ l-1998, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Ministru talFinanzi u Kummer` g]all-}ru[ ta’ €46,587,467.97 addizzjonali",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "L-AVVI| LEGALI 176 ta’ l-1998, kif emendat bl-Avvi\\ Legali 426 ta’ l2007",
+      "content": "2% Stock tal-Gvern ta’ Malta 2008 (it-Tieni }ru[).\n\nTitolu.\nEmendat:\nA.L. 426 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Qed ji[i b’dan awtorizzat illi, min]abba li kien hemm\nsottoskrizzjoni kbira, jin]ar[u €46,587,467.97 addizzjonali 7.2%\nStock tal-Gvern ta’ Malta 2008 (II) ma’ dawk ma]ru[in permezz ta’\nl-Avvi\\ Legali 160 ta’ l-1998, bl-istess kondizzjonijiet, sabiex\nb’hekk l-ammont totali jkun ta’ €69,881,201.96.\n\n}ru[ addizzjonali.\nEmendat:\nA.L. 426 ta’ l2007.\nL.S.401.02\n\n(2) Skond u g]all-finijiet tal-paragrafu 6 ta’ l-istess Avvi\\\nLegali 160 ta’ l-1998, il-kontribuzzjoni fil-fond ta’\nammortizzament ti\\died minn €232,937.34 g]al €698,812.02 kull\nsitt xhur.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

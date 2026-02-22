@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-185-mlt",
+  "type": "statute",
+  "title": "Att dwar Self għall-Iżvilupp (Gvern tar-Renju Unit)",
+  "title_en": "Att dwar Self għall-Iżvilupp (Gvern tar-Renju Unit)",
+  "short_name": "Kap. 185",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1965-03-12",
+  "url": "https://legislation.mt/eli/cap/185/19650312/mlt",
+  "description": "Official text from legislation.mt (eli/cap/185/mlt, expression eli/cap/185/19650312/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT XI tal-1965",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar Self għall-Iżvilupp\n(Gvern tar-Renju Unit).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Bla ħsara għad-disposizzjonijiet ta’ dan l-Att il-Gvern\nta’ Malta jista’ jissellef minn żmien għal żmien somma jew somom\nta’ flus ta’ mhux iżjed fit-total minn ħames miljuni u seba’ mitt elf\nlira sterlina permezz ta’ self jew selfijiet magħmula mill-Gvern tarRenju Unit.\n\nSetgħat għal tislif\nmingħand il-Gvern\ntar-Renju Unit.\n\n(2) Kull self magħmul skont id-disposizzjoniet tas-subartikolu\n(1) għandu jkun b’dawk il-pattijiet li jistgħu jiġu miftehma bejn ilGvern ta’ Malta u l-Gvern tar-Renju Unit.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "Il-kapital ta’ kull self miġbur skont id-disposizzjonijiet ta’\ndan l-Att, u l-imgħax li jitħallas fuqu, għandu jiġi addebitat lil u\nmħallas mid-dħul ġenerali u mill-attiv tal-Gvern ta’ Malta, li qed\njiġu b’dan approprjati għal hekk.\n\nIs-self ikun\naddebitat lid-dħul\nġenerali u lill-attiv.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ġenerali u lill-attiv",
+      "content": "Kull flejjes meħuda b’self skont id-disposizzjonijiet ta’ dan\nl-Att għandhom ikunu approprjati u applikati għall-iskopijiet\nspeċifikati fil-Pjan ta’ Żvilupp ta’ Malta għall-perijodu l-1 ta’\nApril, 1964 sal-31 ta’ Marzu, 1969, u f’kull modifika, emenda jew\nestensjoni tiegħu li jistgħu jkunu approvati minn żmien għal żmien\nmill-Ministru tal-Ippjanar Ekonomiku u Finanzi jew għal xi\nskopijiet oħra miftehma mal-Gvern tar-Renju Unit skont l-Artikolu\n3 tal-Ftehim dwar Għajnuna Finanzjarja magħmula fil-21 ta’\nSettembru, 1964.\n\nApplikazzjoni ta’\nself.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 159 tat-12 ta’ Marzu, 1965.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

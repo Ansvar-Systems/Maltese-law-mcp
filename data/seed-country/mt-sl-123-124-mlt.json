@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-124-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Tnaqqis (Vetturi Elettriċi)",
+  "title_en": "Regoli dwar Tnaqqis (Vetturi Elettriċi)",
+  "short_name": "eli/sl/123.124/mlt",
+  "status": "in_force",
+  "issued_date": "2011-01-24",
+  "in_force_date": "2011-01-24",
+  "url": "https://legislation.mt/eli/sl/123.124/20110124/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.124/mlt, expression eli/sl/123.124/20110124/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 13 tal-2011, kif emendat bl-Avviż Legali 231 tal-2016",
+      "content": "(1) It-titolu ta’ dawn ir-regoli hu Regoli dwar Tnaqqis\n(Vetturi Elettriċi).\n\nTitolu u bidu fisseħħ.\n\n(2) Dawn ir-regoli għandhom jidħlu fis-seħħ mis-sena ta’ stima\n2012, fir-rigward ta’ spejjeż magħmula mill-1 ta’ Jannar 2011.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "2012, fir-rigward ta’ spejjeż magħmula mill-1 ta’ Jannar 2011",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx\nteħtieġ xort’oħra:\n\nTifsir.\nEmendata:\nA.L. 231 tal-2016.\n\n\"persuna kwalifikanti\" tfisser kumpannija li tmexxi sengħa jew\nnegozju;\n\"spiża kwalifikanti” tfisser spiża ta’ natura kapitali għall-akkwist\nta’ vetturi elettriċi jew ibridi ġodda;\n\"vettura elettrika\" tfisser vettura li tieħu s-saħħa biex timxi\nesklussivament minn mutur elettriku;\n\"vettura ibrida\" tfisser vettura li għandha mill-inqas żewġ\nkonvertituri tal-enerġija u żewġ sistemi differenti ta’ ħażna talenerġija għall-iskop ta’ propulsjoni tal-vettura.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1) Fejn persuna kwalifikanti tidħol fi spiża kwalifikanti\nfis-sena li tiġi qabel is-sena ta’ stima, jingħata tnaqqis li jittieħed\nkontra d-dħul taxxabbli ta’ dik il-persuna għal dik is-sena ta’ stima.\nL-imsemmi tnaqqis ikun ekwivalenti għal 150% tal-ispiża\nmagħmula fil-każ ta’ vettura elettrika u ta’ 125% tal-ispiża\nmagħmula fil-każ ta’ vettura ibrida.\n(2) It-tnaqqis totali mitlub taħt dawn ir-regoli kif fuq imsemmi\nma jistax jaqbeż l-erbgħin elf euro (€40,000) fil-każ ta’ vettura\nelettrika u tletin elf euro (€30,000) fil-każ ta’ vettura ibrida.\n(3) Meta jintalab tnaqqis skond dawn ir-regoli, ma jista’\njintalab l-ebda tnaqqis rigward tqagħbir bl-użu ordinarju firrigward tal-istess vettura elettrika.\n(4) Kull għotja jew benefiċċju ieħor riċevut mill-Gvern firrigward ta’ vettura li għaliha japplikaw dawn ir-regoli għandu\njitnaqqas mill-ipsiża magħmula għall-iskop tal-kalkolu tat-tnaqqis\nli jingħata taħt din ir-regola.\n\nTnaqqis.\nEmendata:\nA.L. 231 tal-2016.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

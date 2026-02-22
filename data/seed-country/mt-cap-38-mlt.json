@@ -1,0 +1,85 @@
+{
+  "id": "mt-cap-38-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Projbizzjoni ta' Sulfarini tal-Fosfru Abjad",
+  "title_en": "Ordinanza dwar il-Projbizzjoni ta' Sulfarini tal-Fosfru Abjad",
+  "short_name": "Kap. 38",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1910-10-01",
+  "url": "https://legislation.mt/eli/cap/38/19101001/mlt",
+  "description": "Official text from legislation.mt (eli/cap/38/mlt, expression eli/cap/38/19101001/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bl-ORDINANZA IX tal-1910",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar ilProjbizzjoni ta’ Sulfarini tal-Fosfru Abjad.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "F’din l-Ordinanza \"fosfru abjad\" ifisser is-sustanza\nmagħrufa ordinarjament bħala fosfru abjad jew isfar.\n\nTifsir ta’ \"fosfru\nabjad\".",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "Ħadd ma jista’ juża fosfru abjad fil-fabbrikazzjoni ta’\nsulfarini.\n\nProjbizzjoni talużu ta’ fosfru abjad\nfil-fabbrikazzjoni\nta’ sulfarini.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu fil-qosor",
+      "content": "Is-sid jew direttur ta’ fabbrika fejn jinħadmu sulfarini\ngħandu jħalli lil kull uffiċjal tal-Pulizija ta’ grad mhux anqas minn\ndak ta’ sotto-spettur, f ’kull żmien li jkun, li jieħu għall-analisi\nnumru suffiċjenti ta’ kampjuni ta’ sustanzi wżati jew imħallta biex\njiġu wzati:\n\nKampjuni ta’\nsustanzi wżati filfabbrikazzjoni ta’\nsulfarini.\n\nIżda, is-sid jew direttur, fil-waqt li jkun qiegħed jittieħed ilkampjun, jista’, wara li jkun ipprovda l-mezzi meħtieġa\ngħaldaqshekk, jitlob lil dak l-uffiċjal tal-Pulizija sabiex jaqsam\nf ’żewġ partijiet il-kampjun hekk meħud u sabiex jimmarka,\njissiġilla u jikkunsinna lilu parti waħda minnhom.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "jissiġilla u jikkunsinna lilu parti waħda minnhom",
+      "content": "Ħadd ma jista’ jbigħ, jew joffri jew jesponi għal bejgħ, jew\niżomm għandu bi skop ta’ bejgħ sulfarini magħmulin bil-fosfru\nabjad.\n\nProjbizzjoni ta’\nbejgħ ta’ sulfarini\nmagħmulin bilfosfru abjad.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "magħmulin bilfosfru abjad",
+      "content": "Ħadd ma jista’ jimporta f’Malta sulfarini magħmulin bilfosfru abjad, u s-sulfarini hekk magħmula jitqiesu bħala oġġetti\npprojbiti li għalihom igħoddu d-disposizzjonijiet tal-Ordinanza tadDwana.\n\nProjbizzjoni ta’\nimportazzjoni ta’\nsulfarini\nmagħmulin bilfosfru abjad.\nKap. 37.",
+      "metadata": {
+        "source_line_start": 61,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Kap. 37",
+      "content": "Kull min jikser id-disposizzjonijiet tal-artikolu 3 jew 5,\njew jindaħal fl-esekuzzjoni tad-dmirijiet tal-Pulizija, taħt din lOrdinanza, jew ifixkilha fl-esekuzzjoni tagħhom, jeħel ammenda\njew multa, u l-fosfru abjad kollu jew is-sulfarini magħmulin bilfosfru abjad li jkunu jinsabu għandu, jistgħu jiġu maqbuda minn\nkull uffiċjal tal-Pulizija, u jistgħu jiġu kkonfiskati.\n\nPieni.\n\n*Ara Proklama Nru. XI tat-28 ta’ Ġunju, 1910.",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 82
+      }
+    }
+  ],
+  "definitions": []
+}

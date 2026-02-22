@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-28-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Markets (Fees)",
+  "title_en": "Regolamenti dwar Financial Markets (Fees)",
+  "short_name": "eli/sl/345.28/mlt",
+  "status": "in_force",
+  "issued_date": "2025-01-20",
+  "in_force_date": "2025-01-01",
+  "url": "https://legislation.mt/eli/sl/345.28/20260101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.28/mlt, expression eli/sl/345.28/20260101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 345.28\n\nFINANCIAL MARKETS (FEES)\n\nLEĠISLAZZJONI SUSSIDJARJA 345.28\nREGOLAMENTI DWAR FINANCIAL MARKETS\n(FEES)\n1 ta’ Jannar, 2025\nL-AVVIŻ LEGALI 367 tal-2024, kif emendat bl-Avviż Legali 64 u 301\ntal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

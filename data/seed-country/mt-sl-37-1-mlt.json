@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-37-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Esportazjoni ta' Porvli",
+  "title_en": "Regolamenti dwar l-Esportazjoni ta' Porvli",
+  "short_name": "eli/sl/37.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.1/mlt, expression eli/sl/37.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 250 ta’ l-1909",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lEsportazzjoni ta’ Porvli.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lEsportazzjoni ta’ Porvli",
+      "content": "Ebda porvli ma jistg]u ji[u esportati minn Malta ]lief ta]t\nkundizzjonijiet li ji[u preskritti mill-Kummissarju tal-Pulizija\nf’kull ka\\.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "f’kull ka\\",
+      "content": "Applikazzjonijiet g]all-permess biex ji[u esportati porvli li\njkunu qieg]din fil-ma]\\en tal-gvern g]andhom jaslu g]and ilKummissarju tal-Pulizija mill-anqas erbg]a u g]oxrin sieg]a qabel\nil-]in iffissat g]all-imbark tal-porvli.\n\nTitolu.\nEsportazzjoni ta’\nporvli.\nApplikazzjonijiet.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

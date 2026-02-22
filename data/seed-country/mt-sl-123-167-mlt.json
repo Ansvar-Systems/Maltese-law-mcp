@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-167-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Aġġustament tar-Rata tat-Taxxa",
+  "title_en": "Regoli dwar Aġġustament tar-Rata tat-Taxxa",
+  "short_name": "eli/sl/123.167/mlt",
+  "status": "in_force",
+  "issued_date": "2016-06-08",
+  "in_force_date": "2015-06-05",
+  "url": "https://legislation.mt/eli/sl/123.167/20250101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.167/mlt, expression eli/sl/123.167/20250101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 127 tal-2016, kif emendat bl-Avviż Legali 101 tal2025",
+      "content": "(1) It-titolu ta’ dawn\nAġġustament tar-Rata tat-Taxxa.\n\nir-regoli\n\nhu\n\nr-Regoli\n\ndwar\n\nTitolu u bidu fisseħħ.\n\n(2) Dawn ir-regoli għandhom jitqiesu li daħlu fis-seħħ b’effett\nmis-sena li tiġi minnufih qabel is-sena ta’ stima 2017.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "mis-sena li tiġi minnufih qabel is-sena ta’ stima 2017",
+      "content": "(1) Kull persuna suġġetta għat-taxxa taħt l-Att dwar itTaxxa fuq l-Income, hawn iżjed ’il quddiem imsejjaħ \"l-Att\",\ngħandu jingħata rimborż ta’ taxxa fiċ-ċirkostanzi stabbiliti minn\ndawn ir-regoli u fl-ammont stipulat hawnhekk.\n\nRimborż tat-taxxa.\n\n(2) Fil-każ ta’ persuna taxxabbli taħt id-dispożizzjonijiet talartikolu 56(1)(a) tal-Att u li l-income taxxabbli tiegħu għas-sena\nhuwa ogħla minn €28,700 iżda inqas €28,860, rimborż ta’ taxxa\ngħandu jingħata bħala tpaċija kontra t-taxxa fuq id-dħul tiegħu, kif\nġej:\nRimborż ta’ Taxxa = €25,550 – (income taxxabbli\nnieqes it-taxxa fuq dak l-income).\n(3) Fil-każ ta’ persuna taxxabbli taħt id-dispożizzjonijiet talartikolu 56(1)(b) tal-Att u li l-income taxxabbli tiegħu għas-sena\nhuwa ogħla minn €19,500 iżda inqas €19,620, rimborż ta’ taxxa\ngħandu jingħata bħala tpaċija kontra t-taxxa fuq id-dħul tiegħu, kif\nġej:\nRimborż ta’ Taxxa = €17,440 – (income taxxabbli\nnieqes it-taxxa fuq dak l-income).\n(4) Fil-każ ta’ persuna taxxabbli taħt id-dispożizzjonijiet tattieni proviso tal-artikolu 56(1)(b) tal-Att u li l-income taxxabbli\ntiegħu għas-sena huwa ogħla minn €21,200 iżda inqas €21,340,\nrimborż ta’ taxxa għandu jingħata bħala tpaċija kontra t-taxxa fuq\nid-dħul tiegħu, kif ġej:\nRimborż ta’ Taxxa = €19,055 – (income taxxabbli\nnieqes it-taxxa fuq dak l-income).",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "nieqes it-taxxa fuq dak l-income)",
+      "content": "Minkejja d-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, l-ebda\nrimborż ta’ taxxa ma għandu jingħata taħt dawn ir-regoli għas-sena ta’\nstima 2026 u s-snin ta’ stima sussegwenti.\n\nMa għandux\njingħata rimborż\ngħas-sena ta’ stima\n2026 u s-snin\nsussegwenti.\nMiżjud:\nA.L. 101 tal-2025.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 66
+      }
+    }
+  ],
+  "definitions": []
+}

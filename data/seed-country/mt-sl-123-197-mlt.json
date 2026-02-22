@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-123-197-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Rata ta’ Taxxa (Riċiklaġġ ta’ Skart tal-Kostruzzjoni) (2020 - 2026)",
+  "title_en": "Regoli dwar Rata ta’ Taxxa (Riċiklaġġ ta’ Skart tal-Kostruzzjoni) (2020 - 2026)",
+  "short_name": "eli/sl/123.197/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-17",
+  "in_force_date": "2020-05-04",
+  "url": "https://legislation.mt/eli/sl/123.197/20260101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.197/mlt, expression eli/sl/123.197/20260101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "284 tal-2020, 301 tal-2023, 29 tal-2025 u 25 tal-2026",
+      "content": "It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Eżenzjoni\nmit-Taxxa (Riċiklaġġ ta’ Skart tal-Kostruzzjoni) (2020-2026).\n\nTitolu.\nEmendat:\nA.L. 218 tal-2020;\nA.L. 284 tal-2020;\nA.L. 301 tal-2023;\nA.L. 29 tal-2025;\nA.L. 25 tal-2026.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "A.L. 25 tal-2026",
+      "content": "F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\nEmendat:\nA.L. 301 tal-2023;\nA.L. 29 tal-2025;\nA.L. 25 tal-2026.\n\n\"persuna awtorizzata\" tfisser persuna li jkollha permess maħruġ\nmill-Awtorità għall-Ambjent u r-Riżorsi sabiex taċċetta fil-barriera\ntagħha materjal ta’ kostruzzjoni u demolizzjoni mingħand terzi\npersuni;\n\"sena rilevanti\" tfisser kwalunkwe sena kalendarja mill-2020\nsal-2026, iż-żewġ snin inklużi;\n\"servizzi kwalifikanti\" tfisser l-aċċettazzjoni minn persuna\nawtorizzata ta’ materjal ta’ kostruzzjoni u demolizzjoni mingħand\nterzi persuni, b’tariffa ta’ mhux aktar minn tnax (€12)-il euro, netta\nmit-taxxa fuq il-valur miżjud, għal kull tunnellata.",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "mit-taxxa fuq il-valur miżjud, għal kull tunnellata",
+      "content": "Income derivat minn persuna awtorizzata minn servizzi\nkwalifikanti matul sena rilevanti għandu jkun eżentat mit-taxxa li\naltrimenti tkun trid titħallas taħt il-kondizzjonijiiet li ġejjn:\n\n(a)\n\nl-income in kwistjoni jiġi rrappurtat fi prospett\nmibgħut skont l-artikolu 10 tal-Att dwar lAmministrazzjoni tat-Taxxa għas-sena ta’ stima\nrispettiva; u\n\n(b)\n\njitħallas ammont ta’ taxxa ikkalkolat bir-rata ta’\nħames (5) ċenteżmi fuq kull euro ta’ dak l-income;\nu\n\n(ċ)\n\nit-taxxa fuq l-income taxxabbli tal-persuna\nawtorizzata għas-sena ta’ stima rispettiva għandha\n\nEżenzjoni mittaxxa fuq income\nminn servizzi\nkwalifikanti.\nSostitwit:\nA.L. 218 tal-2020;\nA.L. 284 tal-2020.\nKap. 372.\n\n[ L.S. 123.197\n\nEŻENZJONI MIT-TAXXA\n(RIĊIKLAĠĠ TA’ SKART TAL-KOSTRUZZJONI)\n(2020-2026)\ntiġi kkalkolata bir-rata jew rati li kienu japplikaw\nkieku dak l-income kien jinkludi l-income eżentat\nb’dawn ir-regoli; u\n(d)\n\nil-persuna awtorizzata tipproduċi dawk iddokumenti jew evidenza oħra li l-Kummissarju\njista’ jitlob.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 107
+      }
+    }
+  ],
+  "definitions": []
+}

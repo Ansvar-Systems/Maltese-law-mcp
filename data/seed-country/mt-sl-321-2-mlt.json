@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-321-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ġurament ta' Kariga",
+  "title_en": "Regolamenti dwar il-Ġurament ta' Kariga",
+  "short_name": "eli/sl/321.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/321.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/321.2/mlt, expression eli/sl/321.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 162 ta’ l-1993",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar il{urament ta’ Kariga.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar il{urament ta’ Kariga",
+      "content": "Il-persuna awtorizzata li te\\er`ita l-professjoni ta’ in[inier\nbl-awtorizzazzjoni tal-Ministru responsabbli g]all-infrastruttura\nfuq ir-rakkomandazzjoni tal-Bord ta’ l-In[inerija b’warrant\ng]andha, qabel ma tibda te\\er`ita l-professjoni tag]ha, tie]u\nquddiem il-Qorti ta’ l-Appell f’seduta bil-miftu], il-[urament ta’\nfedeltà kif mi[jub fl-artikolu 10 tal-Kodi`i ta’ Organizzazzjoni u\nPro`edura ~ivili, u l-[urament ta’ kariga kif mi[jub hawn ta]t:\nJien, ......................... na]lef li nag]mel fedelment u blonestà u bir-reqqa kollha d-dmirijiet ta’ in[inier, mill-a]jar li naf u\nli nista’. Hekk Alla jg]ini.\n\nTitolu.\n{urament ta’\nfedeltà u ta’ kariga.\n\nKap. 12.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 36
+      }
+    }
+  ],
+  "definitions": []
+}

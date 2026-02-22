@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-10-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Materjal ta' Riproduzzjoni għall-Foresti",
+  "title_en": "Regolamenti dwar Materjal ta' Riproduzzjoni għall-Foresti",
+  "short_name": "eli/sl/433.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/433.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.10/mlt, expression eli/sl/433.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MATERJAL TA’ RIPRODUZZJONI G}ALL-FORESTI\n\n[L.S.433.10\n\nLE{ISLAZZJONI SUSSIDJARJA 433.10\nREGOLAMENTI DWAR MATERJAL\nTA’ RIPRODUZZJONI G}ALL-FORESTI*\n15 ta’ Mejju, 2004\nL-AVVI| LEGALI 273 tal-2004, kif emendat bl-Avvi\\i Legali 17 tal-2011\nu 454 tal-2013.\n\n*Dawn ir-Regolamenti [ew ippubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

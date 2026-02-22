@@ -44,15 +44,15 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Maltese)',
+          name: 'Legislation Malta (ELI portal)',
+          authority: 'Office of the State Advocate - Legislation Unit (Malta)',
           url: 'https://legislation.mt',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          license: 'Public access via legislation.mt (official legal texts)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Country-scope Maltese corpus discovered from legislation.mt index endpoints ' +
+            '(chapters, subsidiary legislation, constitution-related instruments, and statutory law revision entries), ' +
+            'with inaccessible items recorded in ingestion failure logs',
+          languages: ['en', 'mt'],
         },
       ],
       database: {

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-96-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Energy Labelling (Implementing Measures)",
+  "title_en": "Regolamenti dwar Energy Labelling (Implementing Measures)",
+  "short_name": "eli/sl/427.96/mlt",
+  "status": "in_force",
+  "issued_date": "2018-09-27",
+  "in_force_date": "2018-09-27",
+  "url": "https://legislation.mt/eli/sl/427.96/20180927/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.96/mlt, expression eli/sl/427.96/20180927/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ENERGY LABELLING (IMPLEMENTING MEASURES)\n\n[ L.S. 427.96\n\nLEĠISLAZZJONI SUSSIDJARJA 427.96\nREGOLAMENTI DWAR ENERGY LABELLING\n(IMPLEMENTING MEASURES)\n18 ta’ Settembru, 2018\nL-AVVIŻ LEGALI 295 tal-2018.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

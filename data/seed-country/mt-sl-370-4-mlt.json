@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Prospetti ta' Skemi ta' Investiment Kollettiv skond l-Att dwar Servizzi ta' Investiment",
+  "title_en": "Regolamenti dwar Prospetti ta' Skemi ta' Investiment Kollettiv skond l-Att dwar Servizzi ta' Investiment",
+  "short_name": "eli/sl/370.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2005-11-25",
+  "url": "https://legislation.mt/eli/sl/370.4/20250207/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.4/mlt, expression eli/sl/370.4/20250207/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "PROSPETTI TA’ SKEMI TA’ INVESTIMENT KOLLETTIV\nSKOND L-ATT DWAR SERVIZZI TA’ INVESTIMENT\n\n[ L.S.370.04\n\nLEĠISLAZZJONI SUSSIDJARJA 370.04\nREGOLAMENTI DWAR PROSPETTI TA’ SKEMI TA’\nINVESTIMENT KOLLETTIV SKOND L-ATT DWAR\nSERVIZZI TA’ INVESTIMENT*\n25 ta’ Novembru, 2005\nL-AVVIŻ LEGALI 392 tal-2005, kif emendati bl-Avviżi Legali 75 tal2018 u 31 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

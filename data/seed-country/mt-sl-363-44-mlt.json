@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-363-44-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Reklami fuq l-Internet u Abbonament fl-Internet (Kunsill Lokali Xagħra)",
+  "title_en": "Bye-Laws dwar Reklami fuq l-Internet u Abbonament fl-Internet (Kunsill Lokali Xagħra)",
+  "short_name": "eli/sl/363.44/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.44/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.44/mlt, expression eli/sl/363.44/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "425 tal-2007",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar Reklami\nfuq l-Internet u Abbonament fl-Internet (Kunsill Lokali Ix-Xag]ra).",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1 F’dawn il-Bye-Laws kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra:\n\nTifsir.\n\n\"Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Kunsill\" tfisser il-Kunsill Lokali Ix-Xag]ra;\n\"persuna\" tfisser dik il-persuna li tkun awtorizzata mill-Kunsill\nbiex tqabbad mal-Web-page tal-Kunsill skont id-dispo\\izzjonijiet\ntal-ordinament 3.2;\n\"reklam\" tinkludi promozzjoni kummer`jali jew mhux\nkummer`jali;\n\"Web-page\" tfisser a``ess ta' informazzjoni fuq sistema u\ndatabase permezz ta’ Internet, deskritt bhala l-World Wide Web\n(WWV), liema Web-page tista’ tkun reklamata fuq dawk li jissej]u\nWeb Search Engines.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Web Search Engines",
+      "content": "1 Il-Kunsill g]andu jkollu Web-page fuq l-Internet li\ng]andha tinkludi l-informazzjoni fuq il-Kunsill u l-lokalità li lKunsill jag]\\el li jinkludi.\n\nWeb-page uffi`jali\ntal-Kunsill.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penali",
+      "content": "1 Il-Kunsill jista’ jikkuntratta, skond ir-regolamenti u\npro`eduri li japplikaw skont l-Att, ma’ entitajiet sew kummer`jali\nsew mhux kummer`jali biex dawk l-entitajiet jirreklamaw bi ]las\nfuq il-Web-page tal-Kunsill.\n\nAwtorizzazzjoni\ng]ar-reklamar fuq\nil-Web-page talKunsill.\n\nL.S.363.44]\n\nFL-INTERNET (KUNSILL LOKALI XAG}RA)",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 85
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "A.L. 425 tal-2007",
+      "content": "Il-Kunsill qed jintrodu`i skema ta’ s]ubija fl-Internet ta’\n€11.65 fis-sena u g]oti tas-servizz bi prezz ta’ sebg]a u erbg]in\n`ente\\mu (0.47) g]al kull perjodu ta’ ]mistax-il minuta. Min ma\nj]allasx s]ubija jing]ata s-servizz bi prezz ta’ tlieta u disg]in\n`ente\\mu (0.93) g]all-perjodu ta’ ]mistax-il minuta.",
+      "metadata": {
+        "source_line_start": 95,
+        "source_line_end": 103
+      }
+    }
+  ],
+  "definitions": []
+}

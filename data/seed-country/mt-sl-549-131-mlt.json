@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-549-131-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Immaniġġar tal-Iskart (Riċiklaġġ tal-Bastimenti)",
+  "title_en": "Regolamenti dwar l-Immaniġġar tal-Iskart (Riċiklaġġ tal-Bastimenti)",
+  "short_name": "eli/sl/549.131/mlt",
+  "status": "repealed",
+  "issued_date": "2019-05-02",
+  "in_force_date": "2019-05-02",
+  "url": "https://legislation.mt/eli/sl/549.131/20190502/mlt",
+  "description": "Official text from legislation.mt (eli/sl/549.131/mlt, expression eli/sl/549.131/20190502/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "AVVIŻ LEGALI 84 tal-2019",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti huwa rRegolamenti dwar l-Immaniġġar tal-Iskart (Riċiklaġġ tal-Bastimenti).\n\nTitolu.\n\n(2)\nDawn ir-regolamenti jistabbilixxu sistema ta’ penali\ngħan-nuqqas ta’ operatur ta’ faċilità tar-riċiklaġġ tal-bastimenti li\njikkonforma mar-rekwiżiti stabbiliti fir-Regolament (UE) Nru 1257/\n2013 tal-Parlament Ewropew u tal-Kunsill tal-20 ta’ Novembru 2013\ndwar ir-riċiklaġġ tal-bastimenti u li jemenda r-Regolament (KE) Nru\n1013/2006 u d-Direttiva 2009/16/KE, kif emendati, hawn iżjed ’il\nquddiem imsejħin \"ir-Regolamenti tal-UE dwar ir-riċiklaġġ talbastimenti\".",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Skop",
+      "content": "(1)\nF’dawn ir-regolamenti, kemm il-darba r-rabta talkliem ma teħtieġx xort’oħra:-\n\nTifsir.\n\n''l-Att'' tfisser l-Att dwar il-Protezzjoni tal-Ambjent;\n\nKap. 549.\n\n''l-awtorità kompetenti'' tfisser l-Awtorità għall-Ambjent\nu r-Riżorsi kif responsabbli għall-faċilitajiet tar-riċiklaġġ talbastimenti.\n(2)\nIl-frażijiet l-oħra kollha għandu jkollhom l-istess tifsir\nbħal dak mogħti lilhom fir-Regolamenti tal-UE dwar ir-riċiklaġġ talbastimenti.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Għandu jkun id-dmir ta’ operatur ta’ faċilità tar-riċiklaġġ\ntal-bastimenti li jassigura li jkun awtorizzat mill-awtorità kompetenti\nbiex iwettaq operat ta’ riċiklaġġ ta’ bastimenti u biex jiżgura\nkonformità mar-rekwiżiti tar-Regolamenti tal-UE dwar ir-riċiklaġġ talbastimenti u mad-dispożizzjonijiet tal-Att.\n\nDmir li tiġi\nassigurata lkonformità.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "(1)\nOperatur ta’ faċilità tar-riċiklaġġ tal-bastimenti li\njonqos milli jħares xi dispożizzjoni ta’ dawn ir-regolamenti u middispożizzjonijiet tar-Regolamenti tal-UE dwar ir-riċiklaġġ talbastimenti għandu, meta jinsab ħati, jkun ħati ta’ reat kontra dawn irregolamenti.\n\nReati u pieni.\n\n(2)\nKwalunkwe persuna li tagħmel jew tipprova tagħmel xi\nreat kontra dawn ir-regolamenti għandha, meta tinsab ħatja, teħel:\n(a)\n\nfil-każ tal-ewwel reat, multa ta’ mhux inqas minn\n\n[ L.S. 549.131\n\nIMMANIĠĠAR TAL-ISKART\n(RIĊIKLAĠĠ TAL-BASTIMENTI)\ngħaxart elef euro (€10,000) imma mhux iżjed minn ħamsin elf\neuro (€50,000);\n(b)\nfil-każ tat-tieni reat jew reat sussegwenti, multa ta’\nmhux inqas minn għoxrin elf euro (€20,000) imma mhux iżjed\nminn mitt elf euro (€100,000), jew priġunerija għal żmien mhux\niżjed minn sentejn, jew dik il-multa u priġunerija flimkien:\nIżda wkoll il-qorti għandha tordna lil kull min ikun\ninsab ħati li wettaq reat kontra dawn ir-regolamenti li jħallas\ndawk l-ispejjeż li jkunu saru mill-awtorità kompetenti u, jew\nminn persuni oħra li jkunu involuti flokhom fl-implimentazzjoni\nta’ dawn ir-regolamenti u fir-riparazzjoni tal-ambjent bħala\nriżultat ta’ dak ir-reat, ir-revoka ta’ kull permess maħruġ millawtorità kompetenti u l-konfiska tal-corpus delicti, jekk\napplikabbli.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 92
+      }
+    }
+  ],
+  "definitions": []
+}

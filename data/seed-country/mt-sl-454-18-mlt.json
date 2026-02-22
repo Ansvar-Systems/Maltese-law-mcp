@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-454-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Metrology (Transposition of Article 6 of Directive 2011/17/EU)",
+  "title_en": "Regolamenti dwar Metrology (Transposition of Article 6 of Directive 2011/17/EU)",
+  "short_name": "eli/sl/454.18/mlt",
+  "status": "in_force",
+  "issued_date": "2022-02-04",
+  "in_force_date": "2011-07-29",
+  "url": "https://legislation.mt/eli/sl/454.18/20110729/mlt",
+  "description": "Official text from legislation.mt (eli/sl/454.18/mlt, expression eli/sl/454.18/20110729/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "METROLOGY (TRANSPOSITION OF\nARTICLE 6 OF DIRECTIVE 2011/17/EU)\n\n[ L.S.454.18\n\nLEĠISLAZZJONI SUSSIDJARJA 454.18\nREGOLAMENTI DWAR METROLOGY\n(TRANSPOSITION OF ARTICLE 6 OF DIRECTIVE\n2011/17/EU)†\n29 ta’ Lulju, 2011\nL-AVVIŻ LEGALI 54 tal-2022.\n\nDawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

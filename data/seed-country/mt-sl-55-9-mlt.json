@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-55-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kodiċi ta' Etika tan-Nutara",
+  "title_en": "Regolamenti dwar il-Kodiċi ta' Etika tan-Nutara",
+  "short_name": "eli/sl/55.9/mlt",
+  "status": "in_force",
+  "issued_date": "2018-05-24",
+  "in_force_date": "2018-05-24",
+  "url": "https://legislation.mt/eli/sl/55.9/20180524/mlt",
+  "description": "Official text from legislation.mt (eli/sl/55.9/mlt, expression eli/sl/55.9/20180524/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 155 tal-2018",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regolamenti\nRegolamenti dwar il-Kodiċi ta' Etika tan-Nutara.\n\nhu\n\nr-\n\n(2) Il-Kodiċi ta' Etika applikabbli għan-Nutara għall-finijiet\ntal-Att dwar il-Professjoni Nutarili u l-Arkivji Nutarili għandu jkun\ndak stabbilit fl-Iskeda.\n\nTitolu.\n\nKap. 55.\n\n[ L.S. 55.09\n\nKODIĊI TA' ETIKA TAN-NUTARA\nKodiċi ta' Etika tan-Nutara\nArranġament tal-Kodiċi\n\nTitolu 1:\n\nKondotta u Diliġenza\n\nTitolu 2:\n\nIndipendenza u Imparzjalità\n\nTitolu 3:\n\nRelazzjonijiet Professjonali\n\nTitolu 4:\n\nKompetizzjoni Illegali\n\nTitolu 5:\n\nSegretezza u Kunfidenzjalità Professjonali\nTitolu 1: Kondotta u Diliġenza",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu 2: Indipendenza u Imparzjalità",
+      "content": "Fit-twettiq tal-funzjonijiet in-nutar għandu jaġixxi b’mod imparzjali u għandu\njibqa’ f’pożizzjoni ta’ ekwidistanza bejn il-partijiet kollha li jagħmlu użu misservizzi tan-nutar, madankollu b’kunsiderazzjoni tal-livelli varji talkompetenza, l-esperjenza u l-għarfien tal-partijiet. Tali funzjonijiet iridu\njitwettqu mingħajr ekwivoki, skont l-interess komuni u x-xewqat tal-partijiet\nkollha kkonċernati.",
+      "metadata": {
+        "source_line_start": 132,
+        "source_line_end": 138
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu 3: Relazzjonijiet Professjonali",
+      "content": "Ir-relazzjoni mal-kollegi:",
+      "metadata": {
+        "source_line_start": 190,
+        "source_line_end": 193
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu 4: Kompetizzjoni Illegali",
+      "content": "In-nutara huma obbligati li joqogħdu lura minn kompetizzjoni żleali, li\ntinkludi mingħajr limitazzjoni:",
+      "metadata": {
+        "source_line_start": 428,
+        "source_line_end": 432
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Titolu 5: Segretezza u Kunfidenzjalità Professjonali",
+      "content": "Għalkemm Nutar huwa Uffiċjal Pubbliku u jagħti fiduċja Pubblika lill-atti\ninter vivos u ladarba dawn l-atti jiġu ppubblikati n-nutar huwa marbut biddover li jagħti kopji ta’ dawn l-atti meta mitlub jew obbligat li jagħmel dan\nmill-att innifsu, kwalunkwe att ieħor causa mortis (li mhuwiex dikjarazzjoni\ncausa mortis) u kwalunkwe kitbiet privati oħra (inklużi ftehimiet preliminari),\nparir (inkluż rapporti tat-titolu) u konversazzjonijiet għandhom ikunu soġġetti\ngħall-osservanza stretta tas-segretezza professjonali kif definit fl-Att dwar\n\nKODIĊI TA' ETIKA TAN-NUTARA\n\n[ L.S. 55.09\n\nSegretezza Professjonali u kif imfisser minn leġiżlazzjoni oħra inkluż l-Att\ndwar il-Protezzjoni tad-Data u l-prattika nutarili.",
+      "metadata": {
+        "source_line_start": 499,
+        "source_line_end": 516
+      }
+    }
+  ],
+  "definitions": []
+}

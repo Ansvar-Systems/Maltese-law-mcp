@@ -1,0 +1,65 @@
+{
+  "id": "mt-cap-624-mlt",
+  "type": "statute",
+  "title": "Att li Jimplimenta Miżuri tal-Estimi",
+  "title_en": "Att li Jimplimenta Miżuri tal-Estimi",
+  "short_name": "Kap. 624",
+  "status": "in_force",
+  "issued_date": "2021-06-24",
+  "in_force_date": "2021-01-01",
+  "url": "https://legislation.mt/eli/cap/624/20210720/mlt",
+  "description": "Official text from legislation.mt (eli/cap/624/mlt, expression eli/cap/624/20210720/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "ATT XVIII tal-2021 kif emendat bl-Att XLII tal-2021",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att li Jimplimenta Miżuri\ntal-Estimi.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Id-dispożizzjonijiet ta’ din it-Taqsima għandhom jitqiesu li\nġew fis-seħħ fl-1 ta’ Jannar, 2021.\n\nBidu fis-seħħ ta’\ndin it-Taqsima.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu fil-qosor",
+      "content": "Għall-finijiet ta’ din it-Taqsima \"dħul\" għandha l-istess\ntifsira bħal dik assenjata lilha fl-artikolu 2 tal-Att dwar il-Ġestjoni talFinanzi Pubbliċi, imma ma tinkludix dħul li jkun ġej minn self.\n\nTifsir.\nKap. 601.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, ilGvern ta’ Malta jista’ jiġbor, b’self, somma ta’ flus ta’ mhux iżjed minn\nżewġ biljuni u mitt miljun euro (€2,100,000,000).\n\nAwtorità li jinġabar\nself.\nEmendat:\nXLII. 2021.2.\n\n(2)\nGħall-fini li tinġabar dik is-somma hawn qabel imsemmija,\nil-Ministru għall-Finanzi u x-Xogħol hu b’dan awtorizzat li jiġbor dak\nis-self taħt id-dispożizzjonijiet tal-Att dwar Self tal-Gvern u lA m m i n i s t r a z z j o n i t a d - D e j n P u b b l i k u, b’d aw k il-p attiji et u\nkondizzjonijiet hekk kif l-istess Ministru jista’ japprova.\n\nKap. 575.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 56
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 575",
+      "content": "Flejjes imsellfin taħt l-awtorità ta’ din it-Taqsima għandhom\nikunu approprjati u applikati għall-iskop li:\n\nSkop.\n\n(a)\njitħallsu l-ispejjeż li jeċċedu d-dħul li jsir fil-Fond\nKonsolidat matul is-sena 2021; u\n(b)\njiġu mifdija stocks reġistrati li għandhom jiġu\nmifdija matul is-sena 2021; u\n(ċ)\nisiru\nammortizzament; u\n\nkontribuzzjonijiet\n\nfil-fondi\n\nta’\n\n(d)\njiġu effettwati bidliet fil-portfolio fir-rigward ta’\nammonti li jinġabru permezz ta’ Bills tat-Teżor, ammonti\nmiġbura permezz ta’ Stocks tal-Gvern, u rigward self li jinġabar\nminn barra minn Malta hekk kif u meta dan ikun meħtieġ\nb’konformità mal-politika tal-Gvern dwar l-immaniġġar taddejn.",
+      "metadata": {
+        "source_line_start": 57,
+        "source_line_end": 87
+      }
+    }
+  ],
+  "definitions": []
+}

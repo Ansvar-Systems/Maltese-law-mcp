@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-193-1-mlt",
+  "type": "statute",
+  "title": "Avviż għall-finijiet ta l-Att dwar l-Għoti ta Artijiet tar-Renju Unit",
+  "title_en": "Avviż għall-finijiet ta l-Att dwar l-Għoti ta Artijiet tar-Renju Unit",
+  "short_name": "eli/sl/193.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/193.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/193.1/mlt, expression eli/sl/193.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 66 ta’ l-1969",
+      "content": "It-titolu ta’ dan l-Avvi\\ hu Avvi\\ g]all-finijiet ta’ l-Att\ndwar l-G]oti ta’ Artijiet tar-Renju Unit.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Ministry of Public Building and Works tal-Gvern tarRenju Unit tal-Gran Brittanja u ta’ l-Irlanda ta’ Fuq hu b’dan lAvvi\\ imsemmi b]ala dipartiment jew awtorità ta’ l-imsemmi\nGvern g]all-finijiet ta’ l-artikolu 3 ta’ l-Att dwar l-G]oti ta’\nArtijiet tar-Renju Unit u ta’ kull disposizzjoni o]ra tieg]u.\n\nDipartiment jew\nawtorità tal-Gvern\ntar-Renju Unit.\nKap. 193",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

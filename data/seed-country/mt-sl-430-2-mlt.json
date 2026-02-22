@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-430-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ogħla Livelli ta' Residwi ta' Pestiċidi fi Prodotti li joriġinaw minn Pjanti",
+  "title_en": "Regolamenti dwar l-Ogħla Livelli ta' Residwi ta' Pestiċidi fi Prodotti li joriġinaw minn Pjanti",
+  "short_name": "eli/sl/430.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/430.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/430.2/mlt, expression eli/sl/430.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 14 ta’ l-2009",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lImplimentazzjoni tar-Regolament (KE) dwar l-Og]la Livelli ta’\nResidwi ta’ Pesti`idi fi Prodotti li jori[inaw minn Pjanti u\nAnnimali.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Dawn ir-regolamenti jimplimentaw id-disposizzjonijiet ta’\nl-Artikoli 30, 31, 34 u 38 tar- Regolament (KE) Nru. 396/2005 talParlament Ewropew u tal-Kunsill tal-23 ta’ Frar 2005 dwar illivelli massimi ta’ residwu ta’ pesti`idi fi jew fuq ikel u g]alf li\njori[ina minn pjanti u annimali u jemenda d-Direttiva tal-Kunsill\n91/414/KEE.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Implimentazzjoni",
+      "content": "L-Awtorità Maltija dwar l-iStandards hija l-awtorità\nkompetenti msemmija fl-Artikolu 38 tar-Regolament (KE) Nru.\n396/2005.\n\nTwaqqif ta’ lawtorità\nkompetenti.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Implimentazzjoni",
+      "content": "Is-sanzjonijiet applikabbli g]all-ksur tad-disposizzjonijiet\ntar-Regolament (KE) Nru. 396/2005 g]andhom ikunu dawk\nimsemmija fl-artikolu 9 ta’ l-Att dwar il-Kontroll tal-Pesti`idi.\n\nPenali.\nKap. 430.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

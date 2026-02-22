@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-32-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi dwar il-Prodotti tat-Tafal u l-Ħġieġ",
+  "title_en": "Ordni għal Kunsill tal-Pagi dwar il-Prodotti tat-Tafal u l-Ħġieġ",
+  "short_name": "eli/sl/452.32/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.32/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.32/mlt, expression eli/sl/452.32/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "2 ta’ Frar, 1968",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi dwar\nil-Prodotti tat-Tafal u l-}[ie[.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi dwar il-Prodotti tatTafal u l-}[ie[ li g]andu japplika g]all-impjegati kollha f ’kull\nimpri\\a jew parti minn impri\\a li l-attivitajiet tag]ha jikkonsistu\ng]al kollox jew prin`ipalment fi prodotti tat-tafal, fu]]ar, fajjenza,\nkina, `eramika, ][ie[, o[[etti tal-][ie[, mirja, wiri u tabelli ta’\nreklami mag]mula minn kwalunkwe materjal inklu\\i neon signs,\nfibreglass, prodotti tal-fibreglass u prodotti ornamentali tal-[ebel.\n\nSafejn japplika ilKunsill tal-Pagi.\nEmendat:\nA.L. 44 ta’ l-1970;\nA.L. 49 ta’ l-1979;\nA.L. 62 ta’ l-1979.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\nta’ l-24 ta’ Novembru, 1967.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 43
+      }
+    }
+  ],
+  "definitions": []
+}

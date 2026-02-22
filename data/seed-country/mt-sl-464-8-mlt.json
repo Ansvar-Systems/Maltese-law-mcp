@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-464-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kumitat ta' l-Appelli",
+  "title_en": "Regolamenti dwar il-Ġbir ta' Drittijiet mill-Kumitat ta' l-Appelli",
+  "short_name": "eli/sl/464.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/464.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/464.8/mlt, expression eli/sl/464.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 373 ta’ l-2005, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nil-{bir ta’ Drittijiet mill-Kumitat ta’ l-Appelli.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andhom jit]allsu lill-Kumitat ta’ l-Appelli dawn iddrittijiet li [ejjin:\n\nDrittijiet.\nEmendat:\nA.L. 427 ta’ l2007.\n\n(a) g]al kull appell minn de`i\\joni ta’\nwie]ed mill-Kunsilli .............................\n(b) g]al kull appell minn de`i\\joni talKumitat\ng]all-Approvazzjoni\nta’\nSpe`jalisti .............................................\n\n€116.47\n\n€163.06.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 39
+      }
+    }
+  ],
+  "definitions": []
+}

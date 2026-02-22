@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti li Jikkwalifikaw għal Reġistrazzjoni",
+  "title_en": "Regolamenti dwar Bastimenti li Jikkwalifikaw għal Reġistrazzjoni",
+  "short_name": "eli/sl/234.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.23/mlt, expression eli/sl/234.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "BASTIMENTI LI JIKKWALIFIKAW GĦAL REĠISTRAZZJONI\n\n[L.S.234.23\n\nLEĠISLAZZJONI SUSSIDJARJA 234.23\nREGOLAMENTI DWAR BASTIMENTI LI\nJIKKWALIFIKAW GĦAL REĠISTRAZZJONI*\n30 ta’ Marzu, 2001;\n25 ta’ Frar, 2003\nL-AVVIŻI LEGALI 69 tal-2001 u 71 tal-2003 - kif emendati bl-Avviżi\nLegali 348 tal-2003, 124 tal-2012 u 22 tal-2015 u 466 tal-2020,\nkonsolidati.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

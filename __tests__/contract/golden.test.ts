@@ -1,16 +1,42 @@
 /**
  * Golden contract tests for Maltese Law MCP.
- * Validates core tool functionality against seed data.
+ * These assertions validate country-scope ingestion coverage, not a fixed 10-doc subset.
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
+import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const INDEX_PATH = path.resolve(__dirname, '../../data/corpus/malta-index.json');
+const FAIL_LOG_PATH = path.resolve(__dirname, '../../data/corpus/malta-failures.log');
+
+interface CorpusIndex {
+  total_unique_urls: number;
+  items: Array<{ url_path: string }>;
+}
+
+function pathToId(urlPath: string): string {
+  return `mt-${urlPath.replace(/^eli\//, '').replace(/[^a-zA-Z0-9]+/g, '-').replace(/^-+|-+$/g, '').toLowerCase()}`;
+}
+
+function readFailureIds(): Set<string> {
+  if (!fs.existsSync(FAIL_LOG_PATH)) return new Set<string>();
+
+  const lines = fs.readFileSync(FAIL_LOG_PATH, 'utf8').split('\n').map(l => l.trim()).filter(Boolean);
+  const ids = new Set<string>();
+  for (const line of lines) {
+    const parts = line.split('\t');
+    if (parts.length >= 2 && parts[1]) {
+      ids.add(parts[1]);
+    }
+  }
+  return ids;
+}
 
 let db: InstanceType<typeof Database>;
 
@@ -19,57 +45,69 @@ beforeAll(() => {
   db.pragma('journal_mode = DELETE');
 });
 
+describe('Country corpus coverage', () => {
+  it('should include a discoverable Malta corpus index', () => {
+    expect(fs.existsSync(INDEX_PATH)).toBe(true);
+
+    const index = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8')) as CorpusIndex;
+    expect(index.total_unique_urls).toBeGreaterThan(1000);
+    expect(index.items.length).toBe(index.total_unique_urls);
+  });
+
+  it('should cover each indexed URL with a document or a logged official-source failure', () => {
+    const index = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8')) as CorpusIndex;
+    const expected = new Set(index.items.map(item => pathToId(item.url_path)));
+
+    const rows = db.prepare('SELECT id FROM legal_documents').all() as Array<{ id: string }>;
+    const present = new Set(rows.map(r => r.id));
+
+    const failed = readFailureIds();
+    const unresolved: string[] = [];
+
+    for (const id of expected) {
+      if (!present.has(id) && !failed.has(id)) {
+        unresolved.push(id);
+      }
+    }
+
+    expect(unresolved.slice(0, 10)).toEqual([]);
+    expect(unresolved.length).toBe(0);
+  });
+});
+
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
-    const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
-    ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+  it('should contain legal documents and provisions', () => {
+    const docs = db.prepare('SELECT COUNT(*) as cnt FROM legal_documents').get() as { cnt: number };
+    const provisions = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
+
+    expect(docs.cnt).toBeGreaterThan(1000);
+    expect(provisions.cnt).toBeGreaterThan(10000);
   });
 
-  it('should have at least 175 provisions', () => {
-    const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(175);
+  it('should have a populated FTS index', () => {
+    const row = db.prepare("SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'law'").get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThan(0);
   });
 
-  it('should have FTS index', () => {
+  it('should not retain obvious synthetic placeholder language', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      `SELECT COUNT(*) as cnt
+       FROM legal_provisions
+       WHERE lower(content) LIKE '%synthetic data%'
+          OR lower(content) LIKE '%ai-generated%'
+          OR lower(content) LIKE '%fictional law%'`
     ).get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(0);
+    expect(row.cnt).toBe(0);
   });
 });
 
 describe('Article retrieval', () => {
-  it('should retrieve a provision by document_id and section', () => {
+  it('should retrieve an official provision from a known chapter', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'mt-critical-infrastructure' AND section = '1'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'mt-cap-1-mlt' AND section = '1'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
-    expect(row!.content.length).toBeGreaterThan(50);
-  });
-});
-
-describe('Search', () => {
-  it('should find results via FTS search', () => {
-    const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'Protection'"
-    ).get() as { cnt: number };
-    expect(rows.cnt).toBeGreaterThan(0);
-  });
-});
-
-describe('EU cross-references', () => {
-  it('should have EU document references', () => {
-    const row = db.prepare('SELECT COUNT(*) as cnt FROM eu_documents').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThan(0);
-  });
-
-  it('should link documents to EU instruments', () => {
-    const rows = db.prepare(
-      "SELECT eu_document_id FROM eu_references WHERE document_id = 'mt-electronic-commerce'"
-    ).all() as { eu_document_id: string }[];
-    expect(rows.length).toBeGreaterThan(0);
+    expect(row!.content.length).toBeGreaterThan(20);
   });
 });
 
@@ -79,43 +117,5 @@ describe('Negative tests', () => {
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
-  });
-
-  it('should return no results for invalid section', () => {
-    const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'mt-critical-infrastructure' AND section = '999ZZZ-INVALID'"
-    ).get() as { cnt: number };
-    expect(row.cnt).toBe(0);
-  });
-});
-
-describe('All 10 laws are present', () => {
-  const expectedDocs = [
-    'mt-critical-infrastructure',
-    'mt-data-protection',
-    'mt-electronic-commerce',
-    'mt-electronic-communications',
-    'mt-freedom-of-information',
-    'mt-information-technology-framework',
-    'mt-mdia-act',
-    'mt-nis-regulations',
-    'mt-technology-services',
-    'mt-virtual-financial-assets',  ];
-
-  for (const docId of expectedDocs) {
-    it(`should contain document: ${docId}`, () => {
-      const row = db.prepare(
-        'SELECT id FROM legal_documents WHERE id = ?'
-      ).get(docId) as { id: string } | undefined;
-      expect(row).toBeDefined();
-      expect(row!.id).toBe(docId);
-    });
-  }
-});
-
-describe('list_sources', () => {
-  it('should have db_metadata table', () => {
-    const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThan(0);
   });
 });

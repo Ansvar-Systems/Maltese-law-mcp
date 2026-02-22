@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-583-12-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar iz-Żamma tad-Data (Awtorità ta’ Malta dwar il- Logħob)",
+  "title_en": "Regolamenti dwar iz-Żamma tad-Data (Awtorità ta’ Malta dwar il- Logħob)",
+  "short_name": "eli/sl/583.12/mlt",
+  "status": "in_force",
+  "issued_date": "2019-04-29",
+  "in_force_date": "2019-04-29",
+  "url": "https://legislation.mt/eli/sl/583.12/20190429/mlt",
+  "description": "Official text from legislation.mt (eli/sl/583.12/mlt, expression eli/sl/583.12/20190429/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "AVVIŻ LEGALI 74 tal-2019",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar iz-Żamma tad-Data (Awtorità ta’ Malta dwar il- Logħob).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1)\nF’dawn ir-regolamenti, bla ħsara għal dak\nprevist fis-subregolamenti (2) u (3), il-kliem u l-frażijiet kollha\ngħandhom ikollhom l-istess tifsira bħal dik preskritta fir-Regolamenti\ndwar Tifsiriet dwar il-Logħob.\n\nTifsir.\n\n(2)\nF’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra, \"l-Att\" tfisser l-Att dwar il-Logħob.\n\nL.S. 583.04.\n\nKap. 583.\n\n(3)\nIt-termini l-oħra kollha użati f ’dawn ir-regolamenti\ngħandhom l-istess tifsira mogħtija lilhom fl-Att.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "(1)\nL-Awtorità tista' żżomm id-data kollha, inkluża\nwkoll kwalunkwe data personali, miġbura jew ipproċessata b'mod\nieħor fl-insegwiment tal-funzjonijiet regolatorji tagħha skont l-Att\ngħal perjodu ta' għaxar snin mid-data meta d-data ma tkunx aktar\nneċessarja għall-finijiet li għalihom kienet miġbura jew tkun\nb’kwalunkwe mod ieħor ġiet ipproċessata:\nIżda ż-żamma tad-data, inkluża kwalunkwe data\npersonali, hija ipso jure meqjusa bħala meħtieġa fir-rigward tal-finijiet\nli għalihom tinġabar jew tkun b’kwalunkwe mod ieħor ġiet\nipproċessata, matul il-validità ta' kwalunkwe awtorizzazzjoni maħruġa\nmill-Awtorità.\n(2)\nIż-żamma tad-data, inkluża kull data personali, millAwtorità għal perjodi ulterjuri għandha tkun legali meta tkun\nmeħtieġa:\n(a)\ngħall-konformità mal-obbligu\nregolatorju impost fuq l-Awtorità;\n\nlegali\n\nu,\n\njew\n\n(b)\ngħal skopijiet ta' arkivjar fl-interess pubbliku,\nskopijiet xjentifiċi u, jew ta' riċerki storiċi u, jew skopijiet ta'\nstatistika; u, jew\n(ċ)\ngħat-twaqqif, l-eżerċizzju, u, jew id-difiża ta’\npretensjonijiet legali mill-Awtorità.\n(3)\n\nL-Awtorità għandha tipproċessa d-data b'mod legali, ġust\n\nPerjodu taż-żamma\ntad-Data.\n\n[ L.S. 583.12\n\nŻAMMA TAD-DATA\n(AWTORITÀ TA’ MALTA DWAR IL- LOGĦOB)\n\nu trasparenti, partikolarment fejn id-data tikkostitwixxi data personali.\nL-Awtorità għandha tipproċessa d-data personali kollha skont illeġiżlazzjoni dwar il-protezzjoni tad-data u l-privatezza.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 93
+      }
+    }
+  ],
+  "definitions": []
+}

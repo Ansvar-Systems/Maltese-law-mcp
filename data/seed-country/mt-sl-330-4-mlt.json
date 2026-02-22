@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-330-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Data Rilevanti",
+  "title_en": "Ordni dwar Data Rilevanti",
+  "short_name": "eli/sl/330.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/330.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.4/mlt, expression eli/sl/330.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 115 ta’ l-1994",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Data Rilevanti.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 13
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Data Rilevanti",
+      "content": "It-23 ta’ Settembru, 1994, huwa stabbilit b]ala d-data\nrilevanti g]all-finijiet ta’ l-artikoli 58, 59 u 60 ta’ l-Att dwar lAwtorità g]as-Servizzi Finanzjarji ta’ Malta.\n\nTitolu.\nData rilevanti.\nKap. 330.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 25
+      }
+    }
+  ],
+  "definitions": []
+}

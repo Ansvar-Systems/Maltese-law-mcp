@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-94-4-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Nomina ta' Persunal Konsulenti",
+  "title_en": "Ordni dwar Nomina ta' Persunal Konsulenti",
+  "short_name": "eli/sl/94.4/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/94.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/94.4/mlt, expression eli/sl/94.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 3 ta’ l-1959",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Nomina ta’ Persunal\nKonsulenti.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Konsulenti",
+      "content": "Il-karigi, li huma mni\\\\lin fl-Iskeda li tinsab ma’ dan lOrdni, li g]andhom x’jaqsmu max-xog]ol fi sptar, [ew iffissati\nb]ala karigi li jintitolaw lid-detenturi tag]hom sostantivi u\npermanenti biex jiffurmaw parti mill-persunal konsulenti ta’ lIsptar San Luqa g]all-finijiet ta’ l-Ordnanza dwar lOrganizzazzjoni tad-Dipartiment tas-Sa]]a.\n\n(Artikolu 2)\n\n(i)\n\nIt-Tabib Fi\\iku Anzjan;\n\n(iii)\n\nL-Uffi`jal Mediku Anzjan inkarigat\nDipartiment Venereju u Dermatolo[iku;\n\n(ii)\n\n(iv)\n(v)\n(vi)\n\n(vii)\n\n(viii)\n(ix)\n(x)\n\n(xi)\n(xii)\n\n(xiii)\n(xiv)\n(xv)\n\n(xvi)\n\n(xvii)\n\nIt-Tobba Fi\\i`i;\n\nL-Uffi`jal Mediku inkarigat\nVenereju u Dermatolo[iku;\n\nmid-Dipartiment\n\nUffi`jali tas-Sa]]a tat-Tfal inkarigati mill-Wards\ntat-Tfal;\nIl-Kirurgu Anzjan;\nIl-Kirur[i;\n\nIl-Kirurgu Ortopediku Anzjan;\nIl-Kirurgu Ortopediku;\n\nIl-Kirurgu Anzjan tad-Dipartiment tal-Widnejn, lImnie]er u l-Gri\\mejn;\n\nIl-Kirurgu tad-Dipartiment tal-Widnejn, l-Imnie]er\nu l-Gri\\mejn;\nIl-Kirurgu Anzjan ta’ l-G]ajnejn;\nIl-Kirurgu ta’ l-G]ajnejn;\n\nIl-Kirurgu Dentist Anzjan;\nIl-Kirurgu Dentist;\n\nIr-Radjolo[isti Anzjani;\nIr-Radjolo[i;\n\n(xviii) L-Anestetista Anzjan;\n(xix)\n\nmid-\n\nAnestetisti;\n\nTitolu.\nNomina ta’ karigi.\n\nKap. 94.\n\nNOMINA TA’ PERSUNAL KONSULENTI\n\nL.S.94.04]\n(xx)\n\nL-Accoucher Anzjan;\n\n(xxii)\n\nIl-Patologu Anzjan;\n\n(xxi)\n\nL-Accoucheur;\n\n(xxiii) Il-Patologu;\n\n(xxiv) Il-Batterjologu Anzjan;\n(xxv)\n\nIl-Batterjologu;\n\n(xxvi) It-Tabib tat-Trasfu\\joni tad-Demm.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 128
+      }
+    }
+  ],
+  "definitions": []
+}

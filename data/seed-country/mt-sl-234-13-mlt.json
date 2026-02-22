@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-13-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Konvenzjoni dwar is-Sinjal tat-Tagħbija",
+  "title_en": "Ordni dwar il-Konvenzjoni dwar is-Sinjal tat-Tagħbija",
+  "short_name": "eli/sl/234.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.13/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.13/mlt, expression eli/sl/234.13/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONVENJONI DWAR IS-SINJAL TAT-TAG}BIJA\n\n[L.S.234.13\n\nLE{ISLAZZJONI SUSSIDJARJA 234.13\nORDNI DWAR IL-KONVENJONI DWAR IS-SINJAL\nTAT-TAG}BIJA*\n\n17 ta’ Di`embru, 1974\n\nL-AVVI|I LEGALI 132 ta’ l-1974, 51 ta’ l-1976, 120 ta’ l-1977, 30 ta’ l1979 u 39 ta’ l-1986, konsolidati.\n\n*Dan l-Ordni [ie pubblikat bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

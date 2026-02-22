@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-227-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Stabbilimenti tal-Ikel fil-Beraħ (Kunsill Lokali Tas-Sliema)",
+  "title_en": "Bye-Laws dwar Stabbilimenti tal-Ikel fil-Beraħ (Kunsill Lokali Tas-Sliema)",
+  "short_name": "eli/sl/363.227/mlt",
+  "status": "in_force",
+  "issued_date": "2021-07-05",
+  "in_force_date": "2021-06-07",
+  "url": "https://legislation.mt/eli/sl/363.227/20210607/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.227/mlt, expression eli/sl/363.227/20210607/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 59/04/2021",
+      "content": "1. It-titolu ta’ dawn il-Bye-Laws hu l-Bye-Laws dwar\nStabbilimenti tal-Ikel fil-Beraħ (Kunsill Lokali Tas-Sliema).",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "1. F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"ashtrays\" tfisser reċipjenti approvati għar-rimi ta’ skart relatat\nmas-sigaretti li tinkludi iżda mhux limitati għal-loqom tas-sigaretti u\nmqiegħda f’post pubbliku;\n\"Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Kunsill\" tfisser il-Kunsill Lokali Tas-Sliema;\n\"spazju fil-beraħ\" tfisser iż-żona barra l-istabbiliment tal-ikel\ninkluż il-bankina u l-imwejjed u s-siġġijiet ta’ barra;\n\"stabbiliment tal-ikel\" għandu jinkludi kull stabbiliment li\njipprovdi kwalunkwe tip ta’ ikel jew xorb lill-klijentela.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "1. Kull stabbiliment tal-ikel għandu jkun responsabbli għattindif u l-iżbarazzar ta’ kull skart depożitat fil-beraħ, tal-istabbilimenti\ntagħhom mill-klijenti tagħhom jew mill-istabbiliment stess.\n\nTindif u żbarazzar.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "l-ashtrays ma għandhom ikunu imfawrin jew f’riskju li jfuru",
+      "content": "Jekk l-istabbiliment tal-ikel huwa kkunsidrat li qiegħed\njikser id-dispożizzjonijiet ta’ dawn il-Bye-Laws, huwa għandu jitqies li\nwettaq ksur u meta jinstab ħati għandu jeħel multa (ammenda) ta’\nmhux inqas minn ħamsin euro (€50), u f’każ ta’ reat kontinwu multa\n(ammenda) oħra ta’ mhux inqas minn għaxar euro (€10) għal kull jum\nli matulu jkompli r-reat wara li jkun instab ħati.",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 60
+      }
+    }
+  ],
+  "definitions": []
+}

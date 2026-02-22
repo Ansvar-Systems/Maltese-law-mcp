@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-465-14-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Għeluq tal-Iskejjel Imħassar bl-Avviż Legali 243 tal-2020",
+  "title_en": "Ordni dwar l-Għeluq tal-Iskejjel Imħassar bl-Avviż Legali 243 tal-2020",
+  "short_name": "eli/sl/465.14/mlt",
+  "status": "repealed",
+  "issued_date": "2020-03-26",
+  "in_force_date": "2020-03-26",
+  "url": "https://legislation.mt/eli/sl/465.14/20200326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.14/mlt, expression eli/sl/465.14/20200326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 465.14\n\nL-GĦELUQ TAL-ISKEJJEL\n\nLEĠISLAZZJONI SUSSIDJARJA 465.14\nORDNI DWAR L-GĦELUQ TAL-ISKEJJEL\n12 ta’ Marzu, 2020\nL-AVVIŻ LEGALI 41 tal-2020, kif emendat bl-Avviż Legali 229 tal2020.\n\nImħassar bl-Avviż Legali 243 tal-2020.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

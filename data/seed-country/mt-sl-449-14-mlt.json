@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-449-14-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Użu ta’ Materjal Kombustibbli fl-Ifran",
+  "title_en": "Regolamenti dwar l-Użu ta’ Materjal Kombustibbli fl-Ifran",
+  "short_name": "eli/sl/449.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/449.14/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/449.14/mlt, expression eli/sl/449.14/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "XXV tal-2015",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lU\\u ta’ Materjal Kombustibbli fl-Ifran.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nte]tie[x xort’o]ra, il-kelma \"forn\" tinkludi kull stabbiliment fejn\nikun hemm forn jew kull stabbiliment ie]or b]alu minkejja kif dan\njista’ jissejja].",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "}add ma jista’, fit-t]ejjija ta’ ikel g]all-bejg] g]allkonsum tal-bniedem, permezz ta’ tisjir, ]ami jew billi ti[i applikata\nxi g]amla o]ra ta’ trattament bis-s]ana f’xi forn -\n\nMaterjal\nkombustibbli li\njista’ jintu\\a.\nEmendat:\nXXXIV. 2014.60;\nXXV. 2015.41.\n\n(a) ju\\a xi materjal kombustibbli li ma jkunx materjal\nkombustibbli ming]ajr kontenut ta’ `omb, fornut minn\nkull persuna regolata mir-Regolatur g]as-Servizzi talEner[ija u l-Ilma; jew\n(b) ju\\a xi materjal kombustibbli b]al dak li hemm\nimsemmi fil-paragrafu (a) wara li dan ikun di[à intu\\a\ng]al xi g]an ie]or li ma jkunx ta’ tisjir jew ta’ ]ami\njew ta’ trattament bis-s]ana [ewwa forn; jew\n(`) ju\\a xi materjal ta’ l-injam li jkun mi\\bug].",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "(`) ju\\a xi materjal ta’ l-injam li jkun mi\\bug]",
+      "content": "(1) Ebda detentur ta’ li`enza ta’ forn u ebda furnar ma\ng]andhom i\\ommu jew jippermettu li jin\\ammu [ewwa forn, jew\nfl-in]awi ta’ barra li ji[u minnufih biswitu, xi materjal ta’ l-injam\nmormi li jkun ipprojbit jew xi materjal kombustibbli li jkun intu\\a\ng]al g]anijiet li ma jkunux ta’ tisjir jew ]ami, jew xi materjal\nkombustibbli ie]or li jkun mod ie]or projbit skond dawn irregolamenti.\n\n|amma ta’\nmaterjal projbit.\n\n(2) Is-sejba ta’ xi materjal ta’ l-injam jew materjal\nkombustibbli projbit [ewwa forn jew fl-in]awi ta’ barra li ji[u\nminnufih biswitu g]andha titqies daqslikieku l-injam jew ilmaterjal kombustibbli kien qieg]ed jin\\amm mid-detemtur ta’\nli`enza jew minn furnar g]all-u\\u b]ala materjal kombustibbli\ng]at-tisjir, ]ami jew xi g]amla o]ra ta’ trattament bis-s]ana, ]lief\njekk huwa jista’ jipprova illi jkun ]a l-passi ne`essarji biex\njinforma lill-pubbliku li ma kienx aktar je]tie[ provvista ta’ dak linjam jew materjal kombustibbli, illi ma jkunx fil-fatt da]]al jew\nu\\a dak l-injam jew materjal kombustibbli fil-forn tieg]u, u illi\nkien minnufih informa l-awtoritajiet tal-Pulizija bis-sejba tieg]u ta’\ndak l-injam jew materjal kombustibbli fl-in]awi ta’ barra li ji[u\nminnufih biswit il-forn tieg]u.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "minnufih biswit il-forn tieg]u",
+      "content": "}add ma jista’ jbieg], joffri, juri, jag]mel reklam g]allbejg], jew jag]ti b]ala kumpens jew xort’o]ra xi ikel li jkun\nissajjar, in]ema jew li kellu xi g]amla o]ra ta’ trattament bis-s]ana\n\nBejg] projbit.\n\nL.S.231.26]\n\nU|U TA’ MATERJAL KOMBUSTIBBLI FL-IFRAN\n\napplikat kontra d-disposizzjonijiet ta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 83
+      }
+    }
+  ],
+  "definitions": []
+}

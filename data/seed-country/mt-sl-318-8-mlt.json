@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-318-8-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Ogħla Dħul Pensjonabbli",
+  "title_en": "Ordni dwar l-Ogħla Dħul Pensjonabbli",
+  "short_name": "eli/sl/318.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/318.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/318.8/mlt, expression eli/sl/318.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 5 ta’ l-2007, kif emendat bl-Avvi\\ Legali 424 ta’ l2007",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Og]la D]ul\nPensjonabbli.",
+      "metadata": {
+        "source_line_start": 10,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Dan l-ordni g]andu jitqies li da]al fis-se]] b’effett mill-1\nta’ Jannar, 2005.\n\nD]ul fis-se]].",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "G]all-finijiet ta’ l-Att dwar is-Sigurtà So`jali u t-tifsira talfra\\i \"d]ul pensjonabbli\", id-d]ul pensjonabbli ma g]andu f’ebda\nka\\ ikun i\\jed minn:\n\nL-og]la d]ul\npensjonabbli.\nEmendat:\nA.L. 424 ta’ l2007.\nKap. 318.\n\n(a) ]mistax-il elf u disa’ mija u ]amsa u tletin euro u\nerbg]a u g]oxri n `ente\\mu (15,935.24) fis-sena\nb’effett mill-1 ta’ Jannar, 2005; u\n(b) sittax-il elf u mitejn u seba’ euro u tmienja u sebg]in\n`ente\\mu (16,207.78) fis-sena b’effett mis-7 ta’\nJannar, 2006.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

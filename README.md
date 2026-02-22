@@ -23,7 +23,7 @@ npx @ansvar/maltese-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official legislation from `legislation.mt` (ELI metadata + official consolidated PDF texts), ingested into section-level seed JSON files.
 
 ## License
 

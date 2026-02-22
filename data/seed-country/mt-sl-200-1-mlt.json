@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-200-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed",
+  "title_en": "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed",
+  "short_name": "eli/sl/200.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/200.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/200.1/mlt, expression eli/sl/200.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 28 ta’ l-1969",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nPerijodi Permessi g]al Du]]an Sewdieni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Perijodi Permessi g]al Du]]an Sewdieni",
+      "content": "Il-kliem u l-fra\\ijiet u\\ati f’dawn ir-Regolamenti g]andu\njkollhom l-istess tifsir kif mog]ti lilhom fl-Att dwar l-Arja Pura,\nhawnhekk i\\jed ’il quddiem imsejja] \"l-Att\".",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 21
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "hawnhekk i\\jed ’il quddiem imsejja] \"l-Att\"",
+      "content": "(1) Il-]ru[ ta’ du]]an sewdieni minn xi `umnija (li ma\ntkunx `umnija ta’ bastiment) g]al mhux iktar minn g]axar minuti\nb’kollox f’xi perijodu ta’ tmien sieg]at, jew, jekk ikun hemm titjir\nta’ nugrufun matul dak il-perijodu, g]al mhux iktar minn erbatax-il\nminuta b’kollox f’dak il-perijodu, ma g]andux jittie]ed kont tieg]u\ng]all-finijiet ta’ l-artikolu 3 ta’ l-Att.\n(2) L-imsemmija perijodi ta’ g]axar minuti u erbatax-il minuta\ng]andhom ji\\diedu -\n\n(a) fil-ka\\ ta’ `umnija li sservi \\ew[t ifran, g]al tmintax-il\nminuta u ]amsa u g]oxrin minuta rispettivament;\n(b) fil-ka\\ ta’ `umnija li sservi tliet ifran, g]al erbg]a u\ng]oxrin minuta u erbg]a u tletin minuta\nrispettivament; u\n\n(3)\n\n(`) fil-ka\\ ta’ `umnija li sservi erbat ifran jew i\\jed, g]al\ndisg]a u g]oxrin minuta u wie]ed u erbg]in minuta\nrispettivarnent.\nEbda ]a[a fis-subregolamenti ta’ qabel ma tawtorizza -\n\n(a) il-]ru[ kontinwu ta’ du]]an sewdieni, li jkun kaw\\at\nxort’o]ra milli minn titjir ta’ nugrufun, g]al perijodu\nta’ iktar minn erba’ minuti, jew\n(b) il-]ru[ ta’ du]]an iswed g]al iktar minn \\ew[ minuti\nb’kollox f’xi perijodu ta’ tletin minuta.\n\n(4) G]all-finijiet ta’ dan ir-regolament, meta kaldarun wie]ed\njew unit wie]ed ta’ mpjant industrjali jkun imqabbad minn iktar\nminn forn wie]ed li jarmi fl-istess `umnija, dawk il-fran kollha\ng]andhom jitqiesu b]ala forn wie]ed.\n\n(5) F’dan ir-regolament, \"du]]an iswed\" tfisser du]]an li, jekk\nikun paragunat bil-mod xieraq ma’ chart tat-tip mag]ruf fid-data\ntal-]ru[ b’li[i ta’ l-Att b]ala r-Ringelmann Chart, ikun jidher\nsewdieni daqs jew iktar sewdieni mill-gradazzjoni 4 ta`-Chart.\n\nTitolu.\nTifsir.\nKap. 200.\nPerijodu permess\nta’ ]ru[ ta’ du]]an\nsewdieni.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 68
+      }
+    }
+  ],
+  "definitions": []
+}

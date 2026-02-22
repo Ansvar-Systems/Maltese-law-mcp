@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-372-5-mlt",
+  "type": "statute",
+  "title": "Regoli dwar il-Formula tal-Prospetti tat-Taxxa fuq l-Income",
+  "title_en": "Regoli dwar il-Formula tal-Prospetti tat-Taxxa fuq l-Income",
+  "short_name": "eli/sl/372.5/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/372.5/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/372.5/mlt, expression eli/sl/372.5/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "191 tal-2005, 166 u 425 tal-2007, u 296 tal-2011",
+      "content": "It-titolu ta’ dawn r-Regoli hu Regoli dwar il-Formula talProspett tat-Taxxa fuq l-Income).",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Il-prospetti li g]andhom isiru skond l-artikolu 10 ta’ lAtt dwar l-Amministrazzjoni tat-Taxxa minn jew f’isem individwu\nresidenti f’Malta g]andhom ikunu fuq il-formola li hemm fl-Iskeda\nA.\n\nProspett preskritt.\nEmendata:\nA.L. 426 tal-2004;\nA.L. 296 tal-2011.\nKap. 372.\n\n(2) Kull partita fil-formola li hemm fl-Iskeda A li te]tie[ xi\ndokument li jimtela g]andha ssir fuq dik il-formola li l-Kummissarju\njista’ jkun je]tie[.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prospett preskritt",
+      "content": "Kull persuna li jkollha income minn bejg] kwalifikanti kif\nimfisser fir-Regoli dwar Bejg] ta’ Prodotti tal-Biedja u li g]aliha\ntapplika r-regola 2 rigward l-imsemmi income, g]andha timla u\ntibg]at il-formola li l-Kummissarju jista’ jkun je]tie[ sat-30 ta’\n{unju tas-sena ta’ wara dik li fiha jkun inqala’ l-income.\n\nBejg] ta’ prodotti\ntal-biedja.\nMi\\juda:\nA.L. 191 tal-2005.\nEmendata:\nA.L. 296 tal-2011.\nL.S. 123.80",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "L.S. 123.80",
+      "content": "Kull persuna li tikkwalifika ta]t id-disposizzjonijiet tarregolament 13 tar-Regolamenti dwar il-Promozzjoni tan-Negozji u\nli g]aliha tapplika r-regola 2, g]andha timla l-formola li lKummissarju jista’ jkun je]tie[ u tehmi\\ha mal-prospett tat-taxxa\nfuq l-income g]as-sena ta’ stima relattiva li hija tibg]at lillKummissarju.\n\nIn`entivi g]all]olqien ta’ postijiet\ntax-xog]ol.\nMi\\juda:\nA.L. 191 tal-2005.\nEmendata:\nA.L. 296 tal-2011.\nL.S. 325.06\n\nL.S.372.05]\n\nSostitwita:\nA.L. 296 tal-2011.\n\n(Regola 2)\n\nFORMULA TAL-PROSPETTI TAT-TAXXA FUQ L-INCOME [L.S.372.05\n\nL.S.372.05]\n\nFORMULA TAL-PROSPETTI TAT-TAXXA FUQ L-INCOME [L.S.372.05",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 89
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-22-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Iskema Certify",
+  "title_en": "Regolamenti dwar l-Iskema Certify",
+  "short_name": "eli/sl/463.22/mlt",
+  "status": "repealed",
+  "issued_date": "2018-04-17",
+  "in_force_date": "2018-04-17",
+  "url": "https://legislation.mt/eli/sl/463.22/20180417/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.22/mlt, expression eli/sl/463.22/20180417/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 119 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti dwar\nl-Iskema Certify.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma tkunx teħtieġ xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\nKap. 463.\n\n\"il-Korporazzjoni\" tfisser l-Intrapriża ta’ Malta mwaqqfa\ntaħt l-Att;\n\"Linji Gwida\" tfisser dawk il-linji gwida li jistgħu jiġu\nppublikati mill-Korporazzjoni minn żmien għal żmien skont lAtt.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta l-Korporazzjoni tkun sodisfatta li l-impriża hija\nimpriża eliġibbli kif preskritt fil-Linji Gwida, il-Korporazzjoni tkun\ntista' tipprovdi lil dik l-impriża assistenza skont it-termini u lkondizzjonijiet stabbiliti fil-Linji Gwida.\n\nAssistenza għassostenn ta’ impriżi\nli huma eleġibbli.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Applikazzjonijiet għall-għajnuna taħt dawn irregolamenti għandhom jaslu għand il-Korporazzjoni sa’ mhux aktar\ntard mit-30 ta’ Novembru 2020.\n\nSkadenza għassottomissjoni talapplikazzjonijiet.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 47
+      }
+    }
+  ],
+  "definitions": []
+}

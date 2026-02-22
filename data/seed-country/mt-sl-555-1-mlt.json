@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-555-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Ħatra tal-Entità tal-ADR tal-Arbitru għas-Servizzi Finanzjarji",
+  "title_en": "Regolamenti dwar il-Ħatra tal-Entità tal-ADR tal-Arbitru għas-Servizzi Finanzjarji",
+  "short_name": "eli/sl/555.1/mlt",
+  "status": "in_force",
+  "issued_date": "2017-05-16",
+  "in_force_date": "2017-05-16",
+  "url": "https://legislation.mt/eli/sl/555.1/20170516/mlt",
+  "description": "Official text from legislation.mt (eli/sl/555.1/mlt, expression eli/sl/555.1/20170516/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 137 tal-2017",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa rRegolamenti dwar il-Ħatra tal-Entità tal-ADR tal-Arbitru\ngħas-Servizzi Finanzjarji.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta\ntal-kliem ma teħtieġx xort’oħra:\n\nTifsir.\n\n\"ADR\" tfisser Alternative Dispute Resolution\n(Soluzzjoni Alternattiva għat-Tilwim).",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Il-Ministru għall-Finanzi b’dan qed jaħtar LUffiċċju tal-Arbitru għas-Servizzi Finanzjarji bħala lEntità tal-ADR ta’ Malta għal servizzi finanzjarji li\ntikkwalifika u li għandha tiġi kkunsidrata bħala l-entità\ntal-ADR għal servizzi finanzjarji li jaqgħu taħt l-ambitu\ntad-Direttiva 2013/11/UE tal-Parlament u tal-Kunsill\ndwar is-soluzzjoni alternattiva għat-tilwim talkonsumaturi.\n\nĦatra tal-Entità talADR.\n\n[ L.S.555.01\n\nĦATRA TAL-ENTITÀ TAL-ADR TAL-ARBITRU\nGĦAS-SERVIZZI FINANZJARJI",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

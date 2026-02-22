@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-36-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kura Preventiva tat-Tifojde",
+  "title_en": "Regolamenti dwar il-Kura Preventiva tat-Tifojde",
+  "short_name": "eli/sl/36.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.7/mlt, expression eli/sl/36.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 145 ta’ l-1943",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar ilKura Preventiva tat-Tifojde.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 145 ta’ l-1943",
+      "content": "It-Tabib Prin`ipali tal-Gvern jista’, b’avvi\\ ppublikat filGazzetta tal-Gvern u f’\\ew[ [urnali, jordna li dawk kollha li\njg]ammru f’belt jew ra]al jew f’xi bi``a spe`ifikata ta’ belt jew\nra]al jew f’xi bi``a spe`ifikata ta’ dawn il-G\\ejjer g]andha\nssirilhom il-kura tat-tilqim biex ikunu skansati mill-mard mag]ruf\nb]ala tifojde u deni paratifojde.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 22
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "b]ala tifojde u deni paratifojde",
+      "content": "Kull min jkollu ’l fuq minn sentejn u jkun joqg]od fil-post\nli g]alih ig]odd avvi\\ ippubblikat kif jing]ad fuq g]andu, fi \\mien\nerbatax-il [urnata mill-pubblikazzjoni ta’ dan l-avvi\\, imur f’dak\nil-lok u f’dak il-]in kif jista’ jkun imfisser f’dan l-avvi\\ biex ikun\nimlaqqam minn tabib ma]tur g]al hekk mit-Tabib Prin`ipali talGvern, u huwa g]andu minn dak in-nhar ’il quddiem jer[a’ jmur\nfil-lok u l-]in li jkunu mg]arrfin minn dan it-tabib g]al xi tilqim\nie]or li jista’ jkun me]tie[:\n\nTitolu.\nKura tat-tilqim.\n\n|mien li fih ittilqim g]andu jsir.\n\nI\\da ]add ma jista’ jkun im[ieg]el jag]mel il-kura\npreventiva li ssemmiet fuq jekk it-tabib ikun sodisfatt jew (i)\n(ii)\n\nli dan kien marad bit-tifojde, jew\nli f’xi \\mien f’dawn l-a]]ar sentejn g]amel ittilqim kollu kontra din il-marda, jew\n(iii) illi l-età tieg]u jew il-kundizzjoni ta’ sa]]tu hi\nhekk li jkun a]jar li ma ssirlux din il-kura.",
+      "metadata": {
+        "source_line_start": 23,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kura tat-tilqim",
+      "content": "Il-missier jew kull persuna o]ra li jkollha ta]t il-kustodja\ntag]ha tifel ta]t it-tmintax-il sena, li g]alih jg]odd ordni ma]ru[\nta]t ir-regolament 2 ta’ dawn ir-Regolamenti, huwa obbligat li\njie]u lil dan it-tifel g]at-tilqim skond id-disposizzjonijiet ta’ dawn\nir-Regolamenti.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 56
+      }
+    }
+  ],
+  "definitions": []
+}

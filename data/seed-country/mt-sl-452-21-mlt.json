@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-452-21-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għall-Industriji tat-Tessili u Industriji li jagħmlu magħhom",
+  "title_en": "Ordni għal Kunsill tal-Pagi għall-Industriji tat-Tessili u Industriji li jagħmlu magħhom",
+  "short_name": "eli/sl/452.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.21/mlt, expression eli/sl/452.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 6 ta’ l-1964",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]all-Industrji tat-Tessili u Industriji li jag]mlu mag]hom.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jkun hemm Kunsill tal-Pagi g]all-Industriji tatTessili u Industriji li jag]mlu mag]hom li g]andu japplika g]allimpjegati kollha f ’kull impri\\a jew f ’kull parti ta’ impri\\a, li lattivitajiet tag]ha jikkonsistu kollha jew prin`ipalment f’xi wa]da\nminn dawn li [ejjin:\n\nSafejn japplika ilKunsill tal-Pagi.\n\n(a) il-manifattura jew pro`essar (inklu\\ l-g]a\\il, insi[,\nmaljarija, finishing u kull pro`ess ie]or in`identali li\ng]andu x’jaqsam ma’ dawn) ta’ fibra u drappijiet\nnaturali, artifi`jali jew ma]duma min-nies;\n(b) il-manifattura ta’ o[[etti minn fibra u drappijiet.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-Avvi\\ li sejra ssir din l-Ordni [ie pubblikat fil-Gazzetta\nta’ l-20 ta’ Di`embru, 1963.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

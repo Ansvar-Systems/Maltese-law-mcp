@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-56-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ispezzjoni u l-Verifika ta' Prassi Tajba ta' Laboratorji",
+  "title_en": "Regolamenti dwar l-Ispezzjoni u l-Verifika ta' Prassi Tajba ta' Laboratorji",
+  "short_name": "eli/sl/427.56/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/427.56/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.56/mlt, expression eli/sl/427.56/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.427.56\n\nPRASSI TAJBA TA’ LABORATORJU\n\nLE{ISLAZZJONI SUSSIDJARJA 427.56\nREGOLAMENTI DWAR PRASSI TAJBA\nTA’ LABORATORJU*\n30 ta’ Lulju, 2004\nL-AVVI| LEGALI 371 tal-2004, kif emendat bl-Avvi\\ Legali 426 tal2012.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-299-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Kuratur Pubbliku Imħassar bl-Att II tal-2015",
+  "title_en": "Att dwar il-Kuratur Pubbliku Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 299(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2015-02-20",
+  "url": "https://legislation.mt/eli/cap/299/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/299/mlt, expression eli/cap/299/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KURATUR PUBBLIKU\n\n[ KAP. 299.\n\nKAPITOLU 299\nATT DWAR IL-KURATUR PUBBLIKU\nBiex jipprovdi għall-kariga ta’ Kuratur Pubbliku.\n*\n\nL-ATT X tal-1982, kif emendat bl-Att XIII tal-1983 u XVI tal-1997; u blAvviż Legali 423 tal-2007.\n\nImħassar bl-Att II tal-2015.\n\n*Qatt ma ġie fis-seħħ.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

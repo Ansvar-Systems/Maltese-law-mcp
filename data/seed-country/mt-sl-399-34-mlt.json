@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-399-34-mlt",
+  "type": "statute",
+  "title": "Regoli dwar Radjokomunikazzjoni fuq Bastimenti",
+  "title_en": "Regoli dwar Radjokomunikazzjoni fuq Bastimenti",
+  "short_name": "eli/sl/399.34/mlt",
+  "status": "in_force",
+  "issued_date": "2010-12-15",
+  "in_force_date": "2010-12-15",
+  "url": "https://legislation.mt/eli/sl/399.34/20101215/mlt",
+  "description": "Official text from legislation.mt (eli/sl/399.34/mlt, expression eli/sl/399.34/20101215/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "RADJOKOMUNIKAZZJONI FUQ BASTIMENTI\n\n[L.S.399.34\n\nLE{ISLAZZJONI SUSSIDJARJA 399.34\nREGOLI DWAR RADJOKOMUNIKAZZJONI\nFUQ BASTIMENTI*\n7 ta’ Ottubru, 1927\nIn-NOTIFIKAZZJONI TAL-GVERN 404 tal-1927, kif emendata binNotifikazzjonijiet tal-Gvern 57 tal-1929 u 330 tal-1931.\n\n*Dawn ir-Regoli [ew ppublikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

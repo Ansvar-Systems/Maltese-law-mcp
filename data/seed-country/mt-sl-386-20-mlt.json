@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-20-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Companies Act (Audit Exemption)",
+  "title_en": "Regolamenti dwar Companies Act (Audit Exemption)",
+  "short_name": "eli/sl/386.20/mlt",
+  "status": "in_force",
+  "issued_date": "2019-06-03",
+  "in_force_date": "2019-06-03",
+  "url": "https://legislation.mt/eli/sl/386.20/20190603/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.20/mlt, expression eli/sl/386.20/20190603/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANIES ACT (AUDIT EXEMPTION)\n\n[ L.S. 386.20\n\nLEĠISLAZZJONI SUSSIDJARJA 386.20\nREGOLAMENTI DWAR COMPANIES ACT\n(AUDIT EXEMPTION)\n*\n\nL-AVVIŻ LEGALI 101 tal-2019.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n*Għadu mhux fis-seħħ.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

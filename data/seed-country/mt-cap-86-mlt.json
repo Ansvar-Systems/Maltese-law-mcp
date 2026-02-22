@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-86-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar il-Kontroll ta' l-Importazzjoni ta' Annimali Imħassra bl-Att XV tal-2025",
+  "title_en": "Ordinanza dwar il-Kontroll ta' l-Importazzjoni ta' Annimali Imħassra bl-Att XV tal-2025",
+  "short_name": "Kap. 86(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1935-02-06",
+  "url": "https://legislation.mt/eli/cap/86/20250709/mlt",
+  "description": "Official text from legislation.mt (eli/cap/86/mlt, expression eli/cap/86/20250709/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Short title",
+      "content": "The Minister responsible for agriculture may, whenever he\nthinks it expedient so to do for the protection of animal husbandry\nin Malta, make and, when made, vary or repeal, regulations for\nprohibiting or otherwise restricting and controlling the importation\nof animals or of any specified kind of animals into Malta.\n\nPower of Minister\nto make\nregulations.\nAmended by:\nL.N. 4 of 1963.",
+      "metadata": {
+        "source_line_start": 22,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Short title",
+      "content": "If any person lands or attempts to land any animal in\ncontravention of any regulation made by the Minister responsible\nfor agriculture under the last preceding article, he shall be liable to\nthe penalties imposed on persons importing or attempting to import\ngoods the importation of which is prohibited by the Customs\nOrdinance and the animals in respect of which the offence is\ncommitted shall be forfeited.\n\nOffences and\npenalties.\nAmended by:\nL.N. 4 of 1963.\n\n*This Ordinance has been repealed by Act XV of 2025.\n†See Proclamation No. IV of the 6th of February, 1935.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 55
+      }
+    }
+  ],
+  "definitions": []
+}

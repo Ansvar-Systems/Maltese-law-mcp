@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-586-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar in-Notifika u t-Tariffi fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data Imħassrin bl-Avviż Legali 297 tal-2019",
+  "title_en": "Regolamenti dwar in-Notifika u t-Tariffi fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data Imħassrin bl-Avviż Legali 297 tal-2019",
+  "short_name": "eli/sl/586.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/586.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/586.2/mlt, expression eli/sl/586.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "NOTIFIKA U T-TARIFFI FL-ATT DWAR\nIL-PROTEZZJONI U L-PRIVATEZZA TAD-DATA\n\n[ S.L.586.02\n\nLEĠISLAZZJONI SUSSIDJARJA 586.02\nREGOLAMENTI DWAR IN-NOTIFIKA U T-TARIFFI\nFL-ATT DWAR IL-PROTEZZJONI U L-PRIVATEZZA\nTAD-DATA\n4 ta’ Lulju, 2003\nL-AVVIŻ LEGALI 154 ta’ l-2003, kif emendat bl-Avviżi Legali 162 ta’ l2004 u 426 ta’ l-2007.\n\nImħassar bl-Avviż Legali 297 tal-2019.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

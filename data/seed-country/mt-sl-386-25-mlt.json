@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-25-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Companies Act (Use of Digital Tools and Processes)",
+  "title_en": "Regolamenti dwar Companies Act (Use of Digital Tools and Processes)",
+  "short_name": "eli/sl/386.25/mlt",
+  "status": "in_force",
+  "issued_date": "2021-11-08",
+  "in_force_date": "2021-11-09",
+  "url": "https://legislation.mt/eli/sl/386.25/20240315/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.25/mlt, expression eli/sl/386.25/20240315/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANIES ACT\n(USE OF DIGITAL TOOLS AND PROCESSES)\n\n[ L.S.386.25\n\nLEĠISLAZZJONI SUSSIDJARJA 386.25\nREGOLAMENTI DWAR COMPANIES ACT\n(USE OF DIGITAL TOOLS AND PROCESSES)\n9 ta’ Novembru, 2021\n\nL-AVVIŻ LEGALI 422 tal-2021, kif emendat bl-Avviż Legali 68 tal2024.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

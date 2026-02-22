@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-38-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Dritt għal Applikazzjoni minn Persuna Kwalifikata",
+  "title_en": "Regolamenti dwar Dritt għal Applikazzjoni minn Persuna Kwalifikata",
+  "short_name": "eli/sl/458.38/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.38/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.38/mlt, expression eli/sl/458.38/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 260 ta’ l-2004, kif emendat bl-Avvi\\ Legali 427 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar Dritt\ng]al Applikazzjoni minn Persuna Kwalifikata.",
+      "metadata": {
+        "source_line_start": 9,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andu jit]allas lill-Awtorità g]all-Medi`ini, fir-rigward\nta’ applikazzjoni minn persuna kwalifikata, id-dritt ta’ €116.47.\n\nDritt.\nEmendat:\nA.L. 427 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 26
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-36-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Togħlija tal-Ħalib",
+  "title_en": "Regolamenti dwar it-Togħlija tal-Ħalib",
+  "short_name": "eli/sl/36.3/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.3/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.3/mlt, expression eli/sl/36.3/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 51 ta’ l-1923",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTog]lija tal-}alib.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) }add ma jista’, ming]ajr il-permess spe`jali bil-miktub\ntas-Suprintendent tas-Sa]]a Pubblika, j\\omm, ibieg] jew\njipprovdi, jew jippermetti li jin\\amm, jinbieg] jew ikun provdut,\nf’xi lukanda, ]anut tal-kafè jew ]anut ie]or, ]alib li ma jkunx [ie\nmg]olli minn qabel.\n\nProjbizzjoni li\njin\\amm ]alib\nmhux mg]olli.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Is-sidien u persuni o]ra li jkunu responsabbli biex\njitmexxu lukandi, ristoranti, ]wienet tal-kafè u ]wienet o]ra, fejn\nil-]alib jin\\amm, jinbieg] jew ikun provdut, g]andhom i\\ommu\nmwa]]al, f’post fejn jidher f’kull kamra, avvi\\ li jin[abar b’xejn\nmid-Dipartiment tas-Sa]]a, li jirriprodu`i dawn ir-Regolamenti.\n\nTwa]]il tarregolamenti.\n\n(2) F’kull ka\\ fejn ]alib jin\\amm b’kontravvenzjoni ta’ dan irregolament, il-pi\\ tal-prova li dak il-]alib ma kienx inti\\ g]allbejg] jew g]all-provvista jkun fuq l-akku\\at.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

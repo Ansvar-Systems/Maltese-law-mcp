@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar is-Sinjali ta Periklu",
+  "title_en": "Regolamenti dwar is-Sinjali ta Periklu",
+  "short_name": "eli/sl/234.21/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.21/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.21/mlt, expression eli/sl/234.21/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "SINJALI TA’ PERIKLU\n\n[L.S.234.21\n\nLE{ISLAZZJONI SUSSIDJARJA 234.21\nREGOLAMENTI DWAR IS-SINJALI TA’ PERIKLU*\n\n14 ta’ Jannar, 1997\n\nL-AVVI| LEGALI 4 ta’ l-1997.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

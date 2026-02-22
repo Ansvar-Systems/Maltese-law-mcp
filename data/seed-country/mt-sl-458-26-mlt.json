@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-458-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet għall-Liċenzi ta' Postijiet Mediċi Privati",
+  "title_en": "Regolamenti dwar Drittijiet għall-Liċenzi ta' Postijiet Mediċi Privati",
+  "short_name": "eli/sl/458.26/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1998-01-01",
+  "url": "https://legislation.mt/eli/sl/458.26/20251021/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.26/mlt, expression eli/sl/458.26/20251021/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ Jannar, 1998",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nDrittijiet għall-Liċenzi ta’ Postijiet Mediċi Privati.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Għandu jitħallas lis-Suprintendent tas-Saħħa Pubblika,\ndwar il-ħruġ jew tiġdid ta’ liċenza murija taħt il-Kolonna 1 ta’ lIskeda, id-dritt muri ta]t il-Kolonna 2 ta’ l-istess Skeda.\n\nĠbir ta’ dritt għal\nliċenza.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Ebda liċenza maħruġa skond id-disposizzjonijiet ta’ dawn\nir-regolamenti ma għandha titqies li teħles mill-ħtieġa ta’ xi\nliċenza, permess jew awtorizzazzjoni oħra mposti b’xi regolamenti\njew b’xi liġi oħra.\n\nLiċenzi ohra, eċċ.\n\nSostitwita:\nA.L. 427 tal-2007;\nXIII. 2015.167.\nEmendat:\nA.L. 254 tal-2025.\n\n(Regolament 2)\nKolonna 1\nTip\n\nKolonna 2\nDritt\n\nKlinika g]al matul il-jum ..................................\n\n€257.40\n\nKlinika g]al matul il-jum b’estensjoni g]al matul\nil-lejl ..................................................................\n\n€512.50\n\nSptar ..................................................................\n\n€512.50\n\nLaboratorju Mediku ............................................\n\n€128.20\n\nKlinika tal-Fisjoterapija ....................................\n\n€128.20\n\nKlinika tal-Podolo[ija ........................................\n\n€64.10\n\nKlinika Veterinarja .............................................\n\n€257.40\n\nKlinika ta’ Dentist ..............................................\n\n€257.40\n\nSpiżerija..............................................................\n\n€215",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 89
+      }
+    }
+  ],
+  "definitions": []
+}

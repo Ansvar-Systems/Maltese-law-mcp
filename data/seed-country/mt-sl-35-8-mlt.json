@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-35-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet għall-Karti ta' l-Għaddasa",
+  "title_en": "Regolamenti dwar id-Drittijiet għall-Karti ta' l-Għaddasa",
+  "short_name": "eli/sl/35.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/35.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.8/mlt, expression eli/sl/35.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 31 ta’ l-1980, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet g]all-Karti ta’ l-G]addasa.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Meta s-Suprintendent tas-Sa]]a Pubblika jo]ro[ g]allewwel darba karta g]all-g]addasa, u kull darba li j[eddidha kull\nsena, g]andu ji[bor dritt ta’ \\ew[ euro u tlieta u tletin `ente\\mu\n(2.33).\n\n{bir ta’ dritt.\nEmendat:\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "G]andha titwa]]al fuq kull applikazzjoni g]all-karta g]allg]addasa, taxxa fuq id-dokumenti ta’ sbatax-il `ente\\mu (0.17).\n\nTaxxa fuq iddokumenti.\nEmendat:\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Taxxa fuq iddokumenti",
+      "content": "Kull karta tkun valida sal-wie]ed u tletin ta’ Di`embru ta’\nkull sena li fiha tin]are[ jew ti[[edded.\n\nValidità tal-karta.",
+      "metadata": {
+        "source_line_start": 35,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

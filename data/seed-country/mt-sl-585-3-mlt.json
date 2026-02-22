@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-585-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Management of Radioactive Waste",
+  "title_en": "Regolamenti dwar Management of Radioactive Waste",
+  "short_name": "eli/sl/585.3/mlt",
+  "status": "in_force",
+  "issued_date": "2019-06-26",
+  "in_force_date": "2019-06-26",
+  "url": "https://legislation.mt/eli/sl/585.3/20190626/mlt",
+  "description": "Official text from legislation.mt (eli/sl/585.3/mlt, expression eli/sl/585.3/20190626/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MANAGEMENT OF RADIOACTIVE WASTE\n\n[ L.S. 585.03\n\nLEĠISLAZZJONI SUSSIDJARJA 585.03\nREGOLAMENTI DWAR MANAGEMENT OF\nRADIOACTIVE WASTE\n18 ta’ Ġunju, 2019\nL-AVVIŻ LEGALI 123 tal-2019.\n\nDawn ir-regolamenti saru bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

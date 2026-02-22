@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-57-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Merchant Shipping (Safe Operation of Ro-Ro Passenger Ships and High-Speed Passenger Craft in Regular Service)",
+  "title_en": "Regolamenti dwar Merchant Shipping (Safe Operation of Ro-Ro Passenger Ships and High-Speed Passenger Craft in Regular Service)",
+  "short_name": "eli/sl/234.57/mlt",
+  "status": "in_force",
+  "issued_date": "2020-01-13",
+  "in_force_date": "2020-01-13",
+  "url": "https://legislation.mt/eli/sl/234.57/20200113/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.57/mlt, expression eli/sl/234.57/20200113/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MERCHANT SHIPPING (SAFE OPERATION OF RO-RO\nPASSENGER SHIPS AND HIGH-SPEED PASSENGER\nCRAFT IN REGULAR SERVICE)\n\n[ L.S.234.57\n\nLEĠISLAZZJONI SUSSIDJARJA 234.57\nMERCHANT SHIPPING (SAFE OPERATION OF RORO PASSENGER SHIPS AND HIGH-SPEED\nPASSENGER CRAFT IN REGULAR SERVICE)\nREGULATIONS\n21 ta’ Diċembru, 2019\n\nL-AVVIŻ LEGALI 345 tal-2019.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

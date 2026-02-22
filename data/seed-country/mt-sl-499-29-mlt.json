@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-499-29-mlt",
+  "type": "statute",
+  "title": "Civil Aviation (Aerodrome Licensing) Regulations",
+  "title_en": "Civil Aviation (Aerodrome Licensing) Regulations",
+  "short_name": "eli/sl/499.29/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2005-04-01",
+  "url": "https://legislation.mt/eli/sl/499.29/20240101/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.29/mlt, expression eli/sl/499.29/20240101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "CIVIL AVIATION (AERODROME LICENSING)\n\n[L.S.499.29\n\nLEĠISLAZZJONI SUSSIDJARJA 499.29\nCIVIL AVIATION (AERODROME LICENSING)\nREGULATIONS*\n1 ta’ April, 2005;\n1 ta’ Diċembru, 2007\nL-AVVIŻ LEGALI 80 tal-2004, kif emendat bl-Avviż Legali 486 tal-2011\nu bl-Att XL tal-2023.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

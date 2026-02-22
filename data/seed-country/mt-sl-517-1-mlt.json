@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-517-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ekwivalenza ta’ Ċerti Referenzi għall-Karigi fid-Dipartimenti tat-Taxxa",
+  "title_en": "Regolamenti dwar l-Ekwivalenza ta’ Ċerti Referenzi għall-Karigi fid-Dipartimenti tat-Taxxa",
+  "short_name": "eli/sl/517.1/mlt",
+  "status": "in_force",
+  "issued_date": "2012-06-01",
+  "in_force_date": "2012-06-01",
+  "url": "https://legislation.mt/eli/sl/517.1/20120601/mlt",
+  "description": "Official text from legislation.mt (eli/sl/517.1/mlt, expression eli/sl/517.1/20120601/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 173 tal-2012, kif emendat bl-Avviż Legali 273 tal2014",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar lEkwivalenza ta’ Ċerti Referenzi għall-Karigi fid-Dipartimenti tatTaxxa.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-kliem imniżżel fl-ewwel kolonna tal-iSkeda għandu,\nf ’kull att ġudizzjarju jew azzjoni ġudizzjarja u f ’kull\nkommunikazzjoni notifikata jew indirizzata lil xi dipartiment tattaxxa u f’kull kommunikazzjoni mibgħuta minn xi dipartiment tattaxxa, jitqies li huwa ekwivalenti u li għandu l-istess tifsira u effetti\nlegali bħall-kliem imniżżel fl-istess partita fit-tieni kolonna taliSkeda u dan b’mod illi l-kliem użat fiż-żewġ kolonni tal-istess\npartita għandu jkollu l-istess tifsira u effett għall-finijiet kollha talliġi.\n\nEkwivalenza ta’\nċerti referenzi.\n\nSostitwita:\nA.L. 273 tal-2014.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kummissarju tat-Taxxa fuq ilValur Miżjud",
+      "metadata": {
+        "source_line_start": 39,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "L-Ewwel Kolonna",
+      "content": "Direttur\nĠenerali\n(Taxxi\nInterni)",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 43
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Interni)",
+      "content": "Direttur Ġenerali (Taxxa fuq\nil-Valur Miżjud)\n\nIt-Tieni Kolonna\nDirettur Ġenerali\n(Dwana)\nKummissarju tat-Taxxi\nKummissarju tat-Taxxi\nKummissarju tat-Taxxi\nKummissarju tat-Taxxi\n\n*ara -regolamenti 1(2) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-233-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Ħatra ta Negozjant Awtorizzat",
+  "title_en": "Ordni dwar Ħatra ta Negozjant Awtorizzat",
+  "short_name": "eli/sl/233.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/233.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/233.2/mlt, expression eli/sl/233.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 225 ta’ l-1999",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar }atra ta’\nNegozjant Awtorizzat.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-Awtorità g]as-Servizzi Finanzjarji f’Malta, Attard, [ie\nnominat mill-Ministru tal-Finanzi b]ala negozjant awtorizzat g]allfinijiet ta’ l-artikoli 17, 18 u 32 ta’ l-Att Att dwar itTransazzjonijiet Esterni b’se]] mill-1 ta’ Jannar, 2000.\n\n}atra ta’ negozjant\nawtorizzat.\nKap. 233.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 28
+      }
+    }
+  ],
+  "definitions": []
+}

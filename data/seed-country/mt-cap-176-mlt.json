@@ -1,0 +1,45 @@
+{
+  "id": "mt-cap-176-mlt",
+  "type": "statute",
+  "title": "Att dwar il-Konvenzjonijiet ta' Ġinevra (Appelli minn Persuni Protetti)",
+  "title_en": "Att dwar il-Konvenzjonijiet ta' Ġinevra (Appelli minn Persuni Protetti)",
+  "short_name": "Kap. 176",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1962-12-18",
+  "url": "https://legislation.mt/eli/cap/176/19811020/mlt",
+  "description": "Official text from legislation.mt (eli/cap/176/mlt, expression eli/cap/176/19811020/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Sar liġi bl-ATT X tal-1962, u ġie emendat bl-ATT XLIX tal-1981",
+      "content": "Dan l-Att jista’ jissejjaħ l-Att dwar il-Konvenzjonijiet ta’\nĠinevra (Appelli minn Persuni Protetti).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil- qosor",
+      "content": "F’dan l-Att, kemm-il darba r-rabta tal-kliem ma tfissirx\nxort’oħra -\n\nTifsir.\n\n\"internat protett\" tfisser persuna protetta mill-Konvenzjoni ta’\nĠinevra tal-1949 dwar il-Protezzjoni ta’ Persuni Pajzani fi Żmien\nta’ Gwerra, u internata f’Malta;\n\"priġunier tal-gwerra protett\", tfisser persuna protetta millKonvenzjoni ta’ Ġinevra tal-1949 dwar it-Trattament ta’ Priġunieri\ntal-Gwerra;\n\"il-potenza protettriċi\", dwar priġunier tal-gwerra protett jew\ninternat protett, tfisser il-potenza jew organizzazzjoni li tkun qed\ntmexxi, fl-interessi tal-potenza li tagħha jkun membru, jew li talforza tagħha jkun, jew kien f ’xi żmien sostanzjali, membru, iddmirijiet mogħtija lil potenzi protettriċi skond il-Konvenzjoni ta’\nĠinevra tal-1949 dwar it-Trattament ta’ Priġunieri tal-Gwerra, jew,\nskond il-każ, il-Konvenzjoni ta’ Ġinevra tal-1949 dwar ilProtezzjoni ta’ Persuni Pajżani fi Żmien ta’ Gwerra.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta priġunier tal-gwerra protett jew internat protett ikun\nġie kundannat għal priġunerija għal żmien sentejn jew għal piena\nakbar u jista’ jsir appell skond id-disposizzjonijiet tal-Kodiċi\nKriminali, iż-żmien li fih għandu jagħmel dak l-appell, minkejja\nkull ħaġa li hemm fil-Kodiċi Kriminali, ikun il-perijodu millġurnata li fiha tkun ingħatat is-sentenza finali sat-tmiem ta’ għaxart\nijiem wara d-data li fiha jirċievi avviż mogħti (a) fil-każ ta’ priġunier tal-gwerra protett, minn uffiċjal\ntal-forzi armati ta’ Malta;\n(b) fil-każ ta’ internat protett, minn jew f’isem il-persuna\ninkarigata mill-ħabs li fiha jkun miżmum,\nilli l-potenza protettriċi tkun ġiet notifikata bis-sentenza.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 561 tal-1962.\n\nAppelli minn\npersuni protetti.\nEmendat:\nXLIX. 1981.4.\nKap. 9.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 62
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-403-14-mlt",
+  "type": "statute",
+  "title": "European Passport Rights for Insurance and Reinsurance Undertakings Regulations",
+  "title_en": "European Passport Rights for Insurance and Reinsurance Undertakings Regulations",
+  "short_name": "eli/sl/403.14/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2016-01-01",
+  "url": "https://legislation.mt/eli/sl/403.14/20210630/mlt",
+  "description": "Official text from legislation.mt (eli/sl/403.14/mlt, expression eli/sl/403.14/20210630/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "EUROPEAN PASSPORT RIGHTS FOR INSURANCE\nAND REINSURANCE UNDERTAKINGS\n\n[ L.S.403.14\n\nLEĠISLAZZJONI SUSSIDJARJA 403.14\nREGOLAMENTI DWAR EUROPEAN PASSPORT\nRIGHTS FOR INSURANCE AND REINSURANCE\nUNDERTAKINGS*\n1 ta’ Jannar, 2016\nL-AVVIŻ LEGALI 399 tal-2015, kif emendati bl-Avviż Legali 279 tal2021.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

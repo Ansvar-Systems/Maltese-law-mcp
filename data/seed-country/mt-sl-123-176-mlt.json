@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-123-176-mlt",
+  "type": "statute",
+  "title": "Regoli dwar it-Tnaqqis ta’ Imgħax Nozzjonali",
+  "title_en": "Regoli dwar it-Tnaqqis ta’ Imgħax Nozzjonali",
+  "short_name": "eli/sl/123.176/mlt",
+  "status": "in_force",
+  "issued_date": "2017-10-09",
+  "in_force_date": "2017-10-09",
+  "url": "https://legislation.mt/eli/sl/123.176/20171009/mlt",
+  "description": "Official text from legislation.mt (eli/sl/123.176/mlt, expression eli/sl/123.176/20171009/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 37 tal-2018",
+      "content": "(1)\nIt-titolu ta’ dawn ir-regoli huwa r-Regoli dwar\nit-Tnaqqis ta’ Imgħax Nozzjonali.\n\nTitolu u bidu fisseħħ.\n\n(2)\nDawn ir-regoli għandhom jidħlu fis-seħħ mis-sena ta’\nstima 2018.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "stima 2018",
+      "content": "F’dawn ir-regoli, kemm-il darba l-kuntest tal-kliem ma\njeħtieġx xort’oħra –\n\"l-Att\" tfisser l-Att dwar it-Taxxa fuq l-Income;\n\"imgħax fuq il-kapital ta’ riskju\" għandha t-tifsira\nmogħtija lilha fir-regola 4;\n\"intrapriża\" tfisser kumpannija jew soċjetà residenti\nf’Malta jew kull kumpannija jew soċjetà oħra li mhux\nresidenti f’Malta li ddaħħal income li huwa effettivament\nkonness ma’ xi stabbiliment permanenti sitwat f’Malta talkumpannija jew soċjetà;\n\"kapital ta’ riskju\" tfisser:\n(a)\nmeta l-intrapriża hija kumpannija jew\nsoċjetà residenti f’Malta, l-ishma jew il-kapital tassoċjetà tal-intrapriża, kwalunkwe share premium, bilanċi\nposittivi ta’ retained earnings, self jew debiti oħra\nmislufa mill-intrapriża u li ma jġorrux imgħax, u riservi\noħra li jirriżultaw minn kontribuzzjonijiet lill-intrapriża,\nkif ukoll kull bilanċ posittiv ieħor li huwa muri bħala\nekwità fid-dikjarazzjonijiet finanzjarji tal-intrapriża; u\n(b)\nmeta l-intrapriża hija kumpannija jew\nsoċjetà li mhix residenti f’Malta, dik il-parti tal-kapital\nta’ riskju, kif imfisser f’paragrafu (a), ta’ dik l-intrapriża\nli hi attribwibbli għall-istabbiliment permanenti sitwat\nf’Malta; u\n\"rata ta’ referenza\" tfisser ir-rata mingħajr riskju,\nstabbilita b’referenza għar-rendiment sal-maturità fuq Stocks\ntal-Gvern ta’ Malta b’terminu rimanenti ta’ madwar 20 sena,\nflimkien ma’ premium ta’ 5%.\n\nTifsir.\n\nKap 123.\n\n[ L.S. 123.176\n\nL-intrapriża\ngħandha d-dritt\ngħal tnaqqis millincome ta’ somom\nli huma meqjusa\nmħallsa bħala\nimgħax fuq kapital\nta’ riskju.\n\nTNAQQIS TA’ IMGĦAX NOZZJONALI",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 71
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kap 123",
+      "content": "(1)\nGħall-fini li jiġi stabbilit l-income totali ta’\nintrapriża għal sena ta’ stima, l-intrapriża għandha d-dritt għal\ntnaqqis ta’ somom li huma meqjusa mħallsa bħala imgħax fuq kapital\nta’ riskju jew dik il-parti minnu kif determinat mill-intrapriża għassena partikolari:\nIżda il-jedd għal xi tnaqqis taħt din is-subregola għandu\njapplika biss fir-rigward ta’ profitti li għandhom jiġu allokati lill-kont\nta’ income barrani jew lill-kont intaxxat f’Malta ta’ kumpannija jew\nfir-rigward ta’ profitti ta’ kull intrapriża oħra li, kieku kienet\nkumpannija, kien ikollom jiġu allokati lill-kont ta’ income barrani\njew lill-kont intaxxat f’Malta tagħha. F’kull każ bħal dan, illimitazzjoni stabbilita fis-subregola (2) tar-regola 4 għandha tiġi\nkkalkolata fuq il-bażi tal-income tal-intrapriża li għandu jiġi allokat\nlill-kont ta’ income barrani jew lill-kont intaxxat f’Malta jew li\njkollhom jiġu hekk allokati li kieku l-intrapriża kienet kumpannija.\n\nKap. 372.\n\nKif jiġi kkalkolat limgħax.\n\n(2)\nIt-tnaqqis imsemmi fis-subregola (1) għandu jintalab\njekk l-intrapriża tagħżel dan fil-prospett magħmul skont l-artikolu 10\ntal-Att dwar l-Amministrazzjoni tat-Taxxa, b’dan però li dak ittnaqqis jista’ biss jiġi mitlub jekk jintwera li l-azzjonisti jew is-soċji\nkollha tal-intrapriża japprovaw it-talba għal dan it-tnaqqis fir-rigward\ntas-sena ta’ stima partikolari.",
+      "metadata": {
+        "source_line_start": 72,
+        "source_line_end": 97
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "tas-sena ta’ stima partikolari",
+      "content": "(1)\nImgħax fuq kapital ta’ riskju għal sena ta’\nstima għandu jiġi kkalkolat skont dan li ġej:\nY=AxB\nFejn –\n\"Y\" tirrappreżenta l-imgħax fuq kapital ta’ riskju li lintrapriża hija intitolata li titlob bħala tnaqqis għal dik is-sena\nta’ stima rilevanti;\n\"A\" tirrappreżenta r-rata ta’ referenza;\n\"B\" tirrappreżenta l-kapital ta’ riskju tal-intrapriża għallperjodu ta’ kontjar li jispiċċa fis-sena ta’ qabel is-sena ta’\nstima nieqes kull kapital ta’ riskju impjegat direttament\nf’titoli, interess f’soċjetà, kontribuzzjonijiet u kull self jew\ndejn li ma jagħtux imgħax li l-intrapriża żżomm jew tipprovdi\nlil kull persuna oħra kemm jekk din tkun residenti f’Malta jew\nle (hawn iżjed ’il quddiem f’din is-subregola flimkien imsejħa\n\"il-kapital ta’ riskju investit\"), sakemm dan il-kapital ta’ riskju\ninvestit:\n(a)\nma jkunx impjegat mill-intrapriża fi produzzjoni\nta’ xi income fis-sena ta’ qabel is-sena ta’ stima f’sitwazzjoni\nfejn, li kieku kien hemm il-produzzjoni ta’ dan l-income, seta’\njiġi eżentat mit-taxxa fit-termini tal-Att, jew\n\nTNAQQIS TA’ IMGĦAX NOZZJONALI\n\n[ L.S. 123.176\n\n(b)\nikun impjegat fil-produzzjoni ta’ income fis-sena\nta’ qabel is-sena ta’ stima li huwa eżentat mit-taxxa fit-termini\ntal-Att.\nGħall-finijiet ta’ din ir-regola, \"kapital ta’ riskju\" għandu jiġi\nmaħdum billi jittieħed it-total tal-kapital ta’ riskju fit-tmiem talperjodu ta’ kontjar partikolari li jispiċċa fis-sena ta’ qabel is-sena ta’\nstima.\n(2)\n\nMinkejja d-dispożizzjonijiet l-oħra ta’ din ir-regola:\n\n(a)\nmeta fi kwalunkwe sena li tiġi qabel is-sena ta’\nstima, l-imgħax li jirriżulta mill-kalkolu ta’ hawn fuq jaqbeż\ndisgħin fil-mija (90%) tal-income taxxabbli tal-intrapriża għal\ndik is-sena qabel ma jkun meqjus it-tnaqqis permess fittermini tas-subregola (1) tar-regola 3 ta’ dawn ir-regoli, lammont żejjed ma jistax jiġi mnaqqas kontra l-profitti ta’ dik\nis-sena, iżda jista’, fl-għażla ta’ l-intrapriża, jinġarr ’il\nquddiem bħala tnaqqis u jiġi miżjud mat-tnaqqis dovut għassena suċċessiva u meqjus bħala parti mit-tnaqqis, jew jekk ma\njkunx hemm tnaqqis bħal dan għal dik is-sena, jkun meqjus\nbħala t-tnaqqis ta’ dik is-sena u għal snin suċċessivi u\nkwalunkwe ammont li jinġarr ’il quddiem kif stabbilit f’dan ilproviso għandu jkun miżjud b’rata preskritta millKummissarju:\nIżda meta azzjonist jew soċju ta’ intrapriża li\nhija kumpannija huwa meqjus, skont ir-regola 5, li jkun irċieva\nincome ta’ imgħax minħabba t-talba għal tnaqqis mill-istess\nintrapriża, l-azzjonist jew is-soċju huwa intitolat li jnaqqas limgħax fuq il-kapital ta’ riskju li jkun meqjus imħallas fittermini ta’ din ir-regola kontra dak l-income ta’ imgħax\nmaqlugħ mingħajr il-limitazzjoni stabbilita f’dan il-paragrafu.\n(b)\nmeta l-kapital ta’ riskju jwassal biex l-intrapriża\ntitlob tnaqqis fit-termini ta’ kwalunkwe dispożizzjoni tal-Att\njew ta’ kwalunkwe regoli maħruġa taħthom (hawn iżjed ‘il\nquddiem imsejħa \"d-dispożizzjonijiet l-oħra\"), l-intrapriża\ntkun intitolata li tagħżel jekk tagħmilx talba għal tnaqqis fittermini ta’ dawn ir-regoli jew fit-termini tad-dispożizzjonijiet\nl-oħra fejn l-ammont ikun jikkwalifika għal tnaqqis kemm fittermini ta’ dawn ir-regoli kif ukoll tad-dispożizzjonijiet l-oħra.",
+      "metadata": {
+        "source_line_start": 98,
+        "source_line_end": 160
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "quddiem imsejħa \"d-dispożizzjonijiet l-oħra\"), l-intrapriża",
+      "content": "(1)\nMeta l-intrapriża titlob tnaqqis għall-fini tarregola 3 biex tikkalkola l-income totali għal dik is-sena ta’ stima, lazzjonist jew soċju, skont il-każ, ta’ dik l-intrapriża fl-aħħar tas-sena\nli taħbat minnufih qabel is-sena ta’ stima partikolari għandu jitqies li\nrċieva f’dik is-sena ammont ta’ income daqs l-imgħax meqjus\nimħallas fuq il-kapital ta’ riskju u mitlub bħala tnaqqis mill-intrapriża\ngħal dik is-sena ta’ stima.\n\nMeta l-intrapriża\ntitlob tnaqqis għallfini tar-regola 3.\n\n[ L.S. 123.176\n\nTNAQQIS TA’ IMGĦAX NOZZJONALI\n\n(2)\nL-income msemmi fis-subregola (1) għandu jkun\nikkaratterizzat bħala imgħax għall-finijiet tal-Att u ddispożizzjonijiet kollha relatati mat-tassazzjoni ta’ income ta’ imgħax\ngħandhom japplikaw mutatis mutandis għal dak l-income hekk\nmeqjus:\nIżda l-artikoli 32 sa 42 tal-Att m’għandhomx japplikaw\ngħal dak l-income hekk meqjus.\n(3)\nMeta intrapriża jkollha aktar minn azzjonist jew soċju\nwieħed fl-aħħar tas-sena li taħbat minnufih qabel is-sena ta’ stima,\nkull azzjonist jew soċju, skont il-każ, għandhom jitqiesu li rċevew\nammont ta' income li jikkorrispondi għall-proporzjon tal-valur\nnominali tal-kapital ta’ riskju li jispetta lil kull azzjonist jew soċju,\nskont il-każ, fl-intrapriża fl-aħħar tas-sena li taħbat minnufih qabel\nis-sena ta’ stima:\nIżda fuq talba ta’ azzjonist jew soċju tal-intrapriża,\nskont il-każ, il-Kummissarju jista', jekk jidhirlu li hu xieraq, jagħti\nstruzzjonijiet lill-azzjonisti jew soċji tal-intrapriża biex dak li ġie\nmeqjus bħala income mill-imgħax jinqasam bejniethom b’metodu\nalternattiv.\nIl-Kummissarju\ngħandu\njiddetermina l-ħlas\ntat-taxxa sabiex ma\njkunx hemm\nvantaġġ mhux\nxieraq.",
+      "metadata": {
+        "source_line_start": 161,
+        "source_line_end": 206
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "xieraq",
+      "content": "Bla ħsara għad-dispożizzjonijiet tal-artikolu 51 tal-Att,\nfejn fir-rigward ta' operazzjoni, jew għal sensiela ta’ operazzjonijiet,\nammonti huma determinati b'mod li l-intrapriża, l-azzjonist jew azzjonisti tagħha, jew kwalunkwe persuna li hija kkontrollata u\ndetenuta b’mod benefiċjarju direttament jew indirettament firrigward ta’ aktar minn ħamsin fil-mija (50%) mill-istess azzjonisti,\nhuwa f'pożizzjoni li jikseb vantaġġ mhux xieraq li għandu l-effett li\njnaqqas il-ħlas tat-taxxa b'mod li ma jkunx rikonċiljabbli mal-għan u\nl-finijiet ta' dawn ir-regoli, il-Kummissarju għandu jiddetermina lħlas tat-taxxa, b’dak il-mod u għal dak l-ammont li jkun meħtieġ biex\njiġi annullat dak il-benefiċċju jew vantaġġ.",
+      "metadata": {
+        "source_line_start": 207,
+        "source_line_end": 218
+      }
+    }
+  ],
+  "definitions": []
+}

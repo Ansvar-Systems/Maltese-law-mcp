@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-458-18-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Reġistri Separati għall-Professjonijiet Kumplimentari għall-Mediċina",
+  "title_en": "Ordni dwar Reġistri Separati għall-Professjonijiet Kumplimentari għall-Mediċina",
+  "short_name": "eli/sl/458.18/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/458.18/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/458.18/mlt, expression eli/sl/458.18/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "l-2001, konsolidati",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Re[istri Separati\ng]all-Professjonijiet Kumplimentari g]all-Medi`ina.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "g]all-Professjonijiet Kumplimentari g]all-Medi`ina",
+      "content": "G]andhom jin\\ammu mill-Kunsill dwar il-Professjonijiet\nKumplimentari g]all-Medi`ina re[istri separati g]al dawn ilprofessjonijiet li [ejjin:\nagupunturisti;\n\nanalisti tal-laboratorju mediku;\ni[jenisti dentali;\n\noperating department assistants;\n\noptometristi;\nortoptisti;\n\nperfusionists;\n\npsikolo[i klini`i; u\n\ntekni`i tal-laboratorju dentali.\n\nTitolu.\nRe[istri separati li\ng]andhom\njin\\ammu.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

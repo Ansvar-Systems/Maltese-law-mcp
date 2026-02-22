@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-35-30-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet għall-Mapep tad-Dipartiment għall-Gvern Lokali",
+  "title_en": "Regolamenti dwar id-Drittijiet għall-Mapep tad-Dipartiment għall-Gvern Lokali",
+  "short_name": "eli/sl/35.30/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/35.30/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/35.30/mlt, expression eli/sl/35.30/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 83 ta’ l-2007, kif emendat bl-Avvi\\ Legali 407 ta’ l2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet g]all-Mapep tad-Dipartiment g]all-Gvern Lokali.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Id-dritt li g]andu jit]allas lid-Dipartiment g]all-Gvern\nLokali dwar kull mappa ta’ daqs AO jew A1 g]andu jkun kif [ej:\n\nDritt dovut.\nEmendat:\nA.L. 407 ta’ l2007.\n\n(a) g]al kull mappa li ting]ata lil Kunsill\nLokali wara li jkun tlesta l-inventarju\ntal-Kunsill\n(b) g]al kull mappa \\ejda li tkun mitluba\nmill-Kunsill Lokali\n(`) g]al kull mappa mitluba minn xi\nDipartiment tal-Gvern jew xi entità talGvern\n(d) g]al kull mappa mitluba minn kull\nentità privata o]ra\n\nEbda ]las\n€39.60\n€100.16\n€200.33.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-cap-205-mlt",
+  "type": "statute",
+  "title": "Att dwar it-Tibdil tal-Isem tal-Isptar tal-Mard tal-Moħħ Imħassar bl-Att II tal-2015",
+  "title_en": "Att dwar it-Tibdil tal-Isem tal-Isptar tal-Mard tal-Moħħ Imħassar bl-Att II tal-2015",
+  "short_name": "Kap. 205(R)",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1968-02-02",
+  "url": "https://legislation.mt/eli/cap/205/20150220/mlt",
+  "description": "Official text from legislation.mt (eli/cap/205/mlt, expression eli/cap/205/20150220/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "TIBDIL TAL-ISEM TAL-ISPTAR TAL-MARD TAL-MOĦĦ\n\n[ KAP. 205.\n\nKAPITOLU 205\nATT DWAR IT-TIBDIL TAL-ISEM\nTAL-ISPTAR TAL-MARD TAL-MOĦĦ\nBiex ibiddel l-Isem tal-1sptar tal-Mard tal-Moħħ.\n\n2 ta’ Frar, 1968*\nL-ATT III tal-1968.\n\nImħassar bl-Att II tal-2015.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 91 tat-2 ta’ Frar, 1968.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-160-mlt",
+  "type": "statute",
+  "title": "Ordinanza dwar l-Accountant General",
+  "title_en": "Ordinanza dwar l-Accountant General",
+  "short_name": "Kap. 160",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1959-07-31",
+  "url": "https://legislation.mt/eli/cap/160/19590731/mlt",
+  "description": "Official text from legislation.mt (eli/cap/160/mlt, expression eli/cap/160/19590731/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Saret liġi bl-ORDINANZA VI tal-1959",
+      "content": "Din l-Ordinanza tista’ tissejjaħ l-Ordinanza dwar lAccountant General.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "Id-drittijiet u responsabbiltajiet kollha, sew jekk mogħtija\nsew jekk kondizzjonati, li t-Teżorier kellu d-dritt jew kien suġġett\ngħalihom minnufih qabel il-ġurnata tal-bidu fis-seħħ ta’ din lOrdinanza għandhom bis-saħħa ta’ din l-Ordinanza jiġu ttrasferiti\nlill-Accountant General.\n\nTrasferiment ta’\ndrittijiet u\nresponsabbiltajiet.\n\n*Ara Notifikazzjoni tal-Gvern Nru. 451 tal-31 ta’ Lulju, 1959.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 33
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-591-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Cybersecurity Certification",
+  "title_en": "Regolamenti dwar Cybersecurity Certification",
+  "short_name": "eli/sl/591.2/mlt",
+  "status": "in_force",
+  "issued_date": "2024-06-20",
+  "in_force_date": "2024-06-14",
+  "url": "https://legislation.mt/eli/sl/591.2/20240614/mlt",
+  "description": "Official text from legislation.mt (eli/sl/591.2/mlt, expression eli/sl/591.2/20240614/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[ L.S. 591.02\n\nCYBERSECURITY CERTIFICATION\n\nLEĠISLAZZJONI SUSSIDJARJA 591.02\nREGOLAMENTI DWAR CYBERSECURITY\nCERTIFICATION\n14 ta’ Ġunju, 2024\nL-AVVIŻ LEGALI 133 tal-2024.\n\nDawn ir regolamenti ġew ippubblikati bl-Ilslien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

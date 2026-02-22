@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-459-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Financial Collateral Arrangements",
+  "title_en": "Regolamenti dwar Financial Collateral Arrangements",
+  "short_name": "eli/sl/459.1/mlt",
+  "status": "in_force",
+  "issued_date": "2011-01-10",
+  "in_force_date": "2004-05-01",
+  "url": "https://legislation.mt/eli/sl/459.1/20230901/mlt",
+  "description": "Official text from legislation.mt (eli/sl/459.1/mlt, expression eli/sl/459.1/20230901/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "FINANCIAL COLLATERAL ARRANGEMENTS\n\n[L.S.459.01\n\nLEĠISLAZZJONI SUSSIDJARJA 459.01\nREGOLAMENTI DWAR\nFINANCIAL COLLATERAL ARRANGEMENTS*\n1 ta’ Mejju, 2004\nL-AVVIŻ LEGALI 177 tal-2004, kif emendat bl-Avviżi Legali 388 u 417\ntal-2004, 53 u 401 tal-2005, 179 tal-2006, 118 tal-2011 u 283 tal-2013 u\n208 tal-2023.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

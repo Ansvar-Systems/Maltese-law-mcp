@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-234-16-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Bastimenti Merkantili - Limitation of Liability for Maritime Claims",
+  "title_en": "Regolamenti dwar Bastimenti Merkantili - Limitation of Liability for Maritime Claims",
+  "short_name": "eli/sl/234.16/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/234.16/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/234.16/mlt, expression eli/sl/234.16/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "LIMITATION LIABILITY FOR MARITIME CLAIMS\n\n[L.S.234.16\n\nLE{ISLAZZJONI SUSSIDJARJA 234.16\nREGOLAMENTI DWAR BASTIMENTI\nMERKANTILI - LIMITATION OF LIABILITY FOR\nMARITIME CLAIMS*\n1 ta’ Marzu, 2004\nL-AVVI| LEGALI 361 tal-2003, kif emendat bl-Avvi\\i Legali 103 u 261\ntal-2004, 411 tal-2007 u 156 tal-2015.\n\n*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

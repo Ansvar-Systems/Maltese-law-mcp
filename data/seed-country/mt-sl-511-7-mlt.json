@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-511-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar id-Drittijiet għal Kopji ta' Manoscritti",
+  "title_en": "Regolamenti dwar id-Drittijiet għal Kopji ta' Manoscritti",
+  "short_name": "eli/sl/511.7/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/511.7/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/511.7/mlt, expression eli/sl/511.7/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "u bl-Att VII tal-2011",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar idDrittijiet g]al Kopji ta’ Manoskritti.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "G]andhom jin[abru mill-Bibljotekarju g]al kopji jew\nestratti minn records mi\\muma f ’xi bibljoteka pubblika, u g]allawtentikazzjoni tag]hom, id-drittijiet murija fi-Iskeda:\n\nDrittijiet.\n\nI\\da l-Bibljotekarju jista’, fid-diskrezzjoni tieg]u, jitlob\nming]and kull persuna li titlob xi kopja jew estratt depo\\itu kif limsemmi Bibljotekarju jistabbilixxi f’xi ka\\ partikolari.\n\n(Regolament 2)\nDritt",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    }
+  ],
+  "definitions": []
+}

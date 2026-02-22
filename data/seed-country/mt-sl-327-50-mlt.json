@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-327-50-mlt",
+  "type": "statute",
+  "title": "Statut I 17 - Statut għat-Twaqqif tal-Foundation for International Studies bħala Enti ta' l-Università",
+  "title_en": "Statut I 17 - Statut għat-Twaqqif tal-Foundation for International Studies bħala Enti ta' l-Università",
+  "short_name": "eli/sl/327.50/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.50/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.50/mlt, expression eli/sl/327.50/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "17 ta’ Frar, 1995",
+      "content": "It-titolu ta’ dan l-Istatut hu Statut I 17 - Statut g]atTwaqqif tal-Foundation for International Studies b]ala Enti ta’ lUniversità.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Foundation for International Studies li qieg]da fil-bini\nfi Triq San Pawl, il-Belt, li fih qabel kienet tinsab l-Università, hija\nb’dan imwaqqfa b]ala enti ta’ l-Università bl-istatut tag]ha kif\nmuri fl-Iskeda ta’ hawn ta]t.\n\nTwaqqif b]ala enti.\n\nEmendata:\nA.L. 424 ta’ l2007;\nA.L. 49 ta’ l-2008.\n\nL-Istatut tal-Foundation for International Studies\nL-Ewwel Artikolu",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 32
+      }
+    }
+  ],
+  "definitions": []
+}

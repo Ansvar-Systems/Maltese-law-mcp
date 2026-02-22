@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-128-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Proċeduri għal-Liċenzi tal-Pulizija",
+  "title_en": "Regolamenti dwar Proċeduri għal-Liċenzi tal-Pulizija",
+  "short_name": "eli/sl/128.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/128.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/128.4/mlt, expression eli/sl/128.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 93 ta’ l-2000",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nPro`eduri g]al-Li`enzi tal-Pulizija.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F'dawn ir-Regolamenti, \"li`enza\" g]andha l-istess tifsira li\ng]andha fl-artikolu 2 ta’ 1-Att dwar il-Li`enzi tal-Pulizija.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta l-Kummissarju tal-Pulizija jkun qieg]ed jikkunsidra\napplikazzjoni g]al xi li`enza, huwa g]andu, jekk ikun il-ka\\, jitlob\nu jikseb l-opinjonijiet ta’ dipartimenti jew a[enziji tal-Gvern bilg]an li ja``erta ru]u dwar jekk ikunx hemm xi o[[ezzjoni daparti\ntag]hom g]all-applikazzjoni u sabiex jippreskrivu, meta dan ikun\nme]tie[, il-kondizzjonijiet li ta]thom dawk il-li`enzi jew xi klassi\nwa]da jew iktar minnhom jistg]u jing]ataw, ji[[eddu, ji[u\ntrasferiti jew jit]assru.\n\nKonsultazzjoni\nmill-Kummissarju\ntal-Pulizija ma’\ndipartimenti,\na[enziji tal-Gvern.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Id-Dipartimenti jew l-a[enziji tal-Gvern g]andhom\niwie[bu bil-miktub lill-Kummissarju tal-Pulizija sa mhux iktar tard\nminn tletin jum minn meta taslilhom talba b]al dik ming]and ilKummissarju. Jekk jonqsu milli jag]mlu dan, dawk id-dipartimenti\njew a[enziji tal-Gvern g]andhom jitqiesu b]ala li ma g]andhom\nebda o[[ezzjoni g]all-applikazzjoni.\n\nDipartiment,\na[enziji tal-Gvern\ng]andhom iwie[bu\nfi\\-\\mien stipulat.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "fi\\-\\mien stipulat",
+      "content": "Id-Dipartimenti\njew\nl-a[enziji\ntal-Gvern\njistg]u\nf ’`irkostanzi spe`jali jaraw kif jakkwistaw ming]and ilKummissarju tal-Pulizija estensjoni ta\\-\\mien imsemmi firregolament 4 u jekk il-Kummissarju jkun sodisfatt li dik it-talba\ntkun wa]da [ustifikata, huwa jista’ jikkon`edi estensjoni ta’ mhux\niktar minn tletin [urnata, jew dak il-perjodu ie]or ta’ estensjoni kif\nhuwa jqis me]tie[ f ’ka\\ijiet partikolari wara li jikkonsulta lidDipartiment jew l-a[enzija involuti.\n\nEstensjoni ta\\\\mien stipulat\nf’`irkostanzi\nspe`jali.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "spe`jali",
+      "content": "Meta applikant g]al-li`enza jonqos milli jwie[eb g]al xi\ntalba ta’ informazzjoni li ssirlu mill-Kummissarju tal-Pulizija jew\nminn dipartiment jew a[enzija tal-Gvern jew inkella jonqos milli\nj]ares xi kondizzjoni li ti[i imposta fuqu mill-Kummissarju talPulizija jew minn dipartiment jew a[enzija tal-Gvern fi \\mien\nspe`ifikatu, 1-applikazzjoni tieg]u g]andha titqies b]ala li tkun\n[iet irtirata u 1-Kummissarju tal-Pulizija ma g]andux f ’dawk i``irkostanzi jibqa’ jikkunsidra dik 1-applikazzjoni.\n\nL-applikanti\ng]andhom iwie[bu\nfi\\-\\mien stipulat.\n\nKap. 128.",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 82
+      }
+    }
+  ],
+  "definitions": []
+}

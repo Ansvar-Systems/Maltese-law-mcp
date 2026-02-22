@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-32-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Investment Services Act (Custodians of Collective Investment Schemes)",
+  "title_en": "Regolamenti dwar Investment Services Act (Custodians of Collective Investment Schemes)",
+  "short_name": "eli/sl/370.32/mlt",
+  "status": "in_force",
+  "issued_date": "2016-06-01",
+  "in_force_date": "2019-05-15",
+  "url": "https://legislation.mt/eli/sl/370.32/20190515/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.32/mlt, expression eli/sl/370.32/20190515/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "INVESTMENT SERVICES ACT (CUSTODIANS\nOF COLLECTIVE INVESTMENT SCHEMES)\n\n[ L.S.370.32\n\nLEĠISLAZZJONI SUSSIDJARJA 370.32\nREGOLAMENTI DWAR CUSTODIANS OF\nCOLLECTIVE INVESTMENT SCHEMES\n(INVESTMENT SERVICES ACT)*\n5 ta’ April, 2016\nL-AVVIŻ LEGALI 114 tal-2016.\n\n*Dawn ir regolamenti ġie ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

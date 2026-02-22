@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-327-570-mlt",
+  "type": "statute",
+  "title": "Propjetà Immobbli tal-Kampus tal-Belt Valletta",
+  "title_en": "Propjetà Immobbli tal-Kampus tal-Belt Valletta",
+  "short_name": "eli/sl/327.570/mlt",
+  "status": "in_force",
+  "issued_date": "2017-07-06",
+  "in_force_date": "2017-07-06",
+  "url": "https://legislation.mt/eli/sl/327.570/20170706/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.570/mlt, expression eli/sl/327.570/20170706/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 185 tal-2016",
+      "content": "Dan l-Istatut jissejjaħ l-Istatut\nImmobbli tal-Kampus tal-Belt Valletta’.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Immobbli tal-Kampus tal-Belt Valletta’",
+      "content": "quddiem.\n\ndwar\n\nil-Propjetà\n\nIt-Titolu.\n\nDan l-Istatut ikun applikabbli mil-15 ta’ Mejju 2017 ‘l\n\nL-Applikabilità.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "It-Titolu",
+      "content": "Kull trasferiment, akkwist, bejgħ u/jew assenjazzjoni ta’\ndrittijiet u obbligiu/jew titlu fuq proprjetà immobbli sitwata ġewwa\nTriq San Pawl, il-Belt Valletta, magħrufa bħala ‘Il-Kampus tal-Belt\nValletta,’ li huwa l-fond promotur tal-Università ta’ Malta, kull\ndeċiżjoni li tittieħed mill-Kunsill minn żmien għal żmien fuq\nkwalunkwe drittijiet u/jew interessi tal-Università nnifisha in\nkonnessjoni magħha, tkun valida biss jekk meħuda unanimament.\nKull kwistjoni relatata, fl-isfond storiku, kulturali u valur simboliku\ntal-Kampus tal-Belt Valletta, għandha tkun meqjusa bħala ħaġa ta’\nnatura straordinarja.\n\nL-Għanijiet talIstatut.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 41
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "It-Titolu",
+      "content": "Il-membri kollha tal-Kunsill għandhom ikunu preżenti u\ngħandhom jivvutaw unanimament.\n\nIr-Rekwiżiti",
+      "metadata": {
+        "source_line_start": 42,
+        "source_line_end": 47
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Ir-Rekwiżiti",
+      "content": "Vot unanimu huwa meħtieġ għall-fini ta’ kull emenda\nta’ dan l-Istatut.",
+      "metadata": {
+        "source_line_start": 48,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-36-31-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Tilqim kontra r-Rubella",
+  "title_en": "Regolamenti dwar it-Tilqim kontra r-Rubella",
+  "short_name": "eli/sl/36.31/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.31/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.31/mlt, expression eli/sl/36.31/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 50 ta’ l-1989",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTilqim kontra r-Rubella.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar itTilqim kontra r-Rubella",
+      "content": "(1) Il-[enituri jew xi persuna o]ra li jkollha l-kustodja ta’\nxi tifla li tkun la]qet l-età ta’ g]axar snin i\\da ma tkunx la]qet l-età\nta’ tlettax-il sena, u li ma tkunx di[à [iet imlaqqma kontra rrubella, iktar komunement mag]rufa b]ala l-]o\\ba [ermani\\a,\ng]andhom jaraw li dik it-tifla ti[i mlaqqma.\n\n(2) ~ertifikat ta’ tilqim kontra r-rubella, ma]ru[ midDipartiment tas-Sa]]a, jipprova li t-tifla tkun [iet imlaqqma.\n\nTitolu.\nTilqim kontra rrubella.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 29
+      }
+    }
+  ],
+  "definitions": []
+}

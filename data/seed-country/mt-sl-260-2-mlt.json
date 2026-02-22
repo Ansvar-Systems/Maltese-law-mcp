@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-260-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Dikjarazzjoni ta' Postijiet bħala Ħabs",
+  "title_en": "Ordni dwar Dikjarazzjoni ta' Postijiet bħala Ħabs",
+  "short_name": "eli/sl/260.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/260.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/260.2/mlt, expression eli/sl/260.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "ta’ l-2000, konsolidati u 105 tal-2019",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar Dikjarazzjoni ta’\nPostijiet b]ala }abs.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-postijiet imsemmija fl-Iskeda huma b’dan dikjarati li\nhuma ]abs g]all-finijiet ta’ l-Att dwar il-}abs.\n\nPostijiet dikjarati\nb]ala ]abs.\nKap. 260.\n\nEmendata:\nA.L.105 tal-2019.\n\n(Artikolu 2)",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 34
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "A.L. 71 ta’ l-1980",
+      "content": "Il-lock-up fl-Uffi``ju Prin`ipali tal-Pulizija fil-Floriana.\n\nA.L. 43 ta’ l-1987.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 52
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "A.L. 43 ta’ l-1987",
+      "content": "Il-lock-up fl-G]assa tal-Pulizija ta’ Ra]al {did.\n\nA.L. 24 ta’ l-1993.",
+      "metadata": {
+        "source_line_start": 53,
+        "source_line_end": 58
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "A.L. 24 ta’ l-1993",
+      "content": "Is-Sala San Mikiel fl-Isptar San Luqa fi Gwardaman[a.\n\nA.L. 50 ta’ l-1995.",
+      "metadata": {
+        "source_line_start": 59,
+        "source_line_end": 64
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "A.L. 50 ta’ l-1995",
+      "content": "L-iskola li qabel kienet L-Iskola Primarja ta’l-Imta]leb.\n\nA.L. 38 ta’ l-1997.",
+      "metadata": {
+        "source_line_start": 65,
+        "source_line_end": 70
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "A.L. 38 ta’ l-1997",
+      "content": "Forensic Ward fl-Isptar Monte Carmeli.\n\nA.L. 29 ta’ l-2000.",
+      "metadata": {
+        "source_line_start": 71,
+        "source_line_end": 78
+      }
+    }
+  ],
+  "definitions": []
+}

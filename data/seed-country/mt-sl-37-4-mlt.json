@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-37-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll tat-Tined u l-Arei tad-Dwana",
+  "title_en": "Regolamenti dwar il-Kontroll tat-Tined u l-Arei tad-Dwana",
+  "short_name": "eli/sl/37.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/37.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/37.4/mlt, expression eli/sl/37.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "l-2007",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar ilKontroll tat-Tined u l-Arei tad-Dwana.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Ebda persuna barra minn uffi`jal tad-Dwana, uffi`jal\ntal-Pulizija jew impjegat tal-Gvern li jkun fuq is-servizz ma g]andu\njid]ol f’xi tined tad-Dwana, ma]\\en tad-Dwana jew area o]ra tadDwana ]lief fuq xog]ol permess.\n\nProjbizzjoni minn\nd]ul [ewwa tined\ntad-Dwana.\nEmendat:\nXIII. 1983.5;\nA.L. 407 ta’ l2007.\n\n(2) Kull persuna li tikser dan ir-regolament tista’, ming]ajr\npre[udizzju g]all-fatt li tkun su[[etta g]al xi piena o]ra tal-li[i,\ntitne]]a minn area b]al dik, u kull persuna li tonqos li tobdi ordni\nlilha mog]ti minn uffi`jal tad-Dwana jew tal-Pulizija biex titlaq\nmill-area hija su[[etta g]al piena ta’ ]dax-il euro u ]amsa u sittin\n`ente\\mu (11.65).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "A[enti ta’ vapuri jew persuni o]ra li jkunu qed i]arsu\nmerkanzija mportata g]andu jkollhom, f’kull tinda allokata lilhom,\nrappre\\entant li g]andu jkun responsabbli g]at-tqassim u g]allistivar sewwa ta’ merkanzija fit-tinda matul i\\-\\mien m eta\nmerkanzija mportata tkun qed ti[i sbarkata u mqieg]da ta]t ittinda.\n\nRappre\\entanti ta’\na[enti ta’ vapuri.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "a[enti ta’ vapuri",
+      "content": "A[enti ta’ vapuri jew persuni o]ra li jkollhom ta]t idejhom\nil-merkanzija mportata li tkun [iet sbarkata u mqieg]da ta]t xi\ntinda jew ix-xatt tad-Dwana, skond ir-Regolamenti tad-Dwana,\ng]andhom f’kull ]in jipprovdu skrivani li jkollhom x’jaqsmu malkonsenja skond kemm jordna l-Kontrullur tad-Dwana g]allkonsenja sewwa ta’ merkanzija mit-tined jew arei li jkun fihom\nmerkanzija li tkun g]adha ma [ietx sdoganata.\n\nSkrivani li\njkollhom x’jaqsmu\nmal-konsenja.\nEmendat:\nXVI. 1960.2.\nL.S. 37.05",
+      "metadata": {
+        "source_line_start": 45,
+        "source_line_end": 58
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "L.S. 37.05",
+      "content": "Kull a[ent tal-vapuri jew kull persuna o]ra msemmija firregolamenti 3 u 4 u li ma jimxix skond dawn ir-Regolamenti jkun\nsu[[ett, meta jinsab ]ati, g]al multa ta’ ]dax-il euro u ]amsa u\nsittin `ente\\mu (11.65) g]al kull darba li jikser ir-regolamenti.\n\nKsur tarregolamenti.\nEmendat:\nXIII. 1983.5;\nA.L. 407 ta’ l2007.",
+      "metadata": {
+        "source_line_start": 59,
+        "source_line_end": 68
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Ksur tarregolamenti",
+      "content": "Ebda importatur jew sid ta’ xi koll jew kwantità ta’\nmerkanzija li jkollhom fattura b]ala konsenja wa]da ma jkunu\njistg]u jirtiraw din il-merkanzija minn tined tad-Dwana f ’partiti\n\\g]ar u separati.\n\nIrtirar ta’\nmerkanzija.",
+      "metadata": {
+        "source_line_start": 69,
+        "source_line_end": 79
+      }
+    }
+  ],
+  "definitions": []
+}

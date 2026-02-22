@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-437-18-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Metodi għall-Identifikazzjoni Ġenetika ta' Annimali għat-Tgħammir tar-Razza Pura ta' l-Ispeċi tal-Bovini Imħassrin bl-Avviż Legali 11 tal-2024",
+  "title_en": "Regolamenti dwar il-Metodi għall-Identifikazzjoni Ġenetika ta' Annimali għat-Tgħammir tar-Razza Pura ta' l-Ispeċi tal-Bovini Imħassrin bl-Avviż Legali 11 tal-2024",
+  "short_name": "eli/sl/437.18/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2024-03-26",
+  "url": "https://legislation.mt/eli/sl/437.18/20240326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/437.18/mlt, expression eli/sl/437.18/20240326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 310 ta’ l-2003",
+      "content": "(1) It-titolu ta’ dawn ir-regolamenti huwa Regolamenti\ndwar il-Metodi għall-Identifikazzjoni Ġenetika ta’ Annimali għatTgħammir tar-Razza Pura ta’ l-Ispeċi tal-Bovini.\n\nTitolu u skop.\n\n(2) L-iskop ta’ dawn ir-regolamenti huwa li jimplimenta dDeċiżjoni ta’ Kummissjoni Ewropea 2002/8/KE dwar il-metodi\ngħall-identifikazzjoni ġenetika ta’ annimali għat-tgħammir tarrazza pura ta’ l-ispeċi tal-bovini u li jemenda id-Deċiżjonijiet 88/\n124/KEE u 96/80/KE. Din id-Deċiżjoni ssib bażi legali taħt\nid-Direttiva tal-Kunsill ta’ l-Unjoni Ewropea 77/504/KEE, artikolu\n6(1) u d-Direttiva tal-Kunsill ta’ l-Unjoni Ewropea 87/328/KEE,\nartikolu 3.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu u skop",
+      "content": "B’żieda ma’ l-analiżi tal-grupp tad-demm, kull test ieħor\nfuq il-bażi ta’ analiżi genome li jipprovdi garanziji ekwivalenti u li\njkun suffiċjentement speċifiku biex jivverifika l-pedigree ta’ annimal\nf ’ċertezza ta’ mill-anqas 99,0%, huwa approvat għall-identifikazzjoni\nta’ annimali bovini tar-razza pura għal skopijiet ta’ tgħammir.\n\n*Dawn ir-Regolamenti ġew imħassrin bl-Avviż Legali 11 tal-2024.\n\nKażijiet ta’\napprovazzjoni ta’\nanaliżi genome.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 42
+      }
+    }
+  ],
+  "definitions": []
+}

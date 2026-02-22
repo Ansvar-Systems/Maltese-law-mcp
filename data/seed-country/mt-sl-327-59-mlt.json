@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-327-59-mlt",
+  "type": "statute",
+  "title": "Statut għall-Università ta’ Malta - Gozo Campus",
+  "title_en": "Statut għall-Università ta’ Malta - Gozo Campus",
+  "short_name": "eli/sl/327.59/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.59/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.59/mlt, expression eli/sl/327.59/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STATUT G}ALL-UNIVERSITÀ TA’ MALTA GO|O CAMPUS\n\n[ L.S.327.59\n\nLE{ISLAZZJONI SUSSIDJARJA 327.59\nSTATUT G}ALL-UNIVERSITÀ TA’ MALTA - GOZO\nCAMPUS\n5 ta’ Marzu, 2010\nL-AVVI| LEGALI 104 tal-2010.\n\nRevokat bl-Avvi\\ Legali 198 tal-2012.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

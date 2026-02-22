@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-450-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll ta’ Assi fil-Fondi SpeċjaliImħassrin bl-Avviż Legali 3 tal-2015",
+  "title_en": "Regolamenti dwar il-Kontroll ta’ Assi fil-Fondi SpeċjaliImħassrin bl-Avviż Legali 3 tal-2015",
+  "short_name": "eli/sl/450.2/mlt",
+  "status": "repealed",
+  "issued_date": "2010-08-12",
+  "in_force_date": "2010-08-12",
+  "url": "https://legislation.mt/eli/sl/450.2/20100812/mlt",
+  "description": "Official text from legislation.mt (eli/sl/450.2/mlt, expression eli/sl/450.2/20100812/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONTROLL TAL-ASSI FIL-FONDI SPE¬JALI\n\n[L.S.450.02\n\nLE{ISLAZZJONI SUSSIDJARJA 450.02\nREGOLAMENTI DWAR IL-KONTROLL\nTAL-ASSI FIL-FOND SPE¬JALI\n1 ta’ Jannar, 2004\nL-AVVI| LEGALI 366 tal-2003.\n\n(Revokat bl-Avviż Legali 3 tal-2015).\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

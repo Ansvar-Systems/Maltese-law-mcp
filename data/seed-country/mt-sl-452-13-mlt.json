@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-452-13-mlt",
+  "type": "statute",
+  "title": "Ordni għal Kunsill tal-Pagi għan-Negozji bl-Ingrossa u bl-Imnut",
+  "title_en": "Ordni għal Kunsill tal-Pagi għan-Negozji bl-Ingrossa u bl-Imnut",
+  "short_name": "eli/sl/452.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/452.13/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/452.13/mlt, expression eli/sl/452.13/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "19 ta’ Awissu, 1955",
+      "content": "It-titolu ta’ din l-Ordni hu Ordni g]al Kunsill tal-Pagi\ng]an-Negozji bl-Ingrossa u bl-Imnut.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-Kunsill tal-Pagi g]an-negozji bl-ingrossa u bl-imnut\njopera g]all-impjegati fin-negozji bl-ingrossa, bl-imnut u negozji\ndipendenti minn dawn.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 26
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Safejn japplika ilKunsill tal-Pagi",
+      "content": "L-espressjoni \"negozji bl-ingrossa, bl-imnut u negozji\ndipendenti minn dawn\" tfisser -\n\nTifsir.\nEmendat:\nA.L. 2 ta’ l-1989.\n\n(a) negozjanti bl-ingrossa, distributuri, importaturi,\nesportaturi, a[enti kummissjonanti, kooperativi blingrossa u l-bejg] fis-suq;\n(b) bejjieg]a bl-imnut, libreriji `irkolanti, irkantaturi,\nparrukkiera, kooperativi ta’ konsumaturi, stabbilimenti\nta’ fotografi;\ni\\da teskludi kull ]anut immexxi direttament mid-direzzjoni ta’\nlukanda jew ta’ ka\\in b]ala parti mill-amenitajiet tag]hom jew li\njing]ataw b’kuntratt biex ji\\diedu dawk l-amenitajiet.",
+      "metadata": {
+        "source_line_start": 27,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Dan il-Kunsill ma g]andux jg]odd g]all-]addiema tal-port\nu foremen tal-]addiema tal-port kemm jekk impjegati minn\nprin`ipal u jekk mhumiex.\n\nEsklu\\joni.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Tifsir",
+      "content": "Fil-Gazzetta tad-29 ta’ Ottubru, 1953, kien ippubblikat lavvi\\ li sejra ssir din l-Ordni, i\\da b’kamp akbar ta’ operazzjoni.\n\nData talpubblikazzjoni ta’\nl-avvi\\ dwar il]sieb ta’ l-eg]mil\nta’ l-ordni.",
+      "metadata": {
+        "source_line_start": 50,
+        "source_line_end": 58
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-430-7-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Implimentazzjoni tar-Regolamenti dwar Prodotti għall-Ħarsien tal-Pjanti",
+  "title_en": "Regolamenti dwar l-Implimentazzjoni tar-Regolamenti dwar Prodotti għall-Ħarsien tal-Pjanti",
+  "short_name": "eli/sl/430.7/mlt",
+  "status": "in_force",
+  "issued_date": "2011-08-01",
+  "in_force_date": "2011-08-01",
+  "url": "https://legislation.mt/eli/sl/430.7/20110801/mlt",
+  "description": "Official text from legislation.mt (eli/sl/430.7/mlt, expression eli/sl/430.7/20110801/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 284 tal-2011, kif emendat bl-Avviż Legali 331 tal2018",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar lImplimentazzjoni tar-Regolamenti dwar Prodotti għall-Ħarsien talPjanti.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Dawn ir-regolamenti jimplimentaw id-dispożizzjonijiet\nta’ Regolament (KE) Nru 1107/2009 tal-Parlament Ewropew u talKunsill tal-21 ta’ Ottubru 2009 dwar it-tqegħid fis-suq ta’ prodotti\ngħall-protezzjoni tal-pjanti u li jħassar id-Direttivi tal-Kunsill 79/\n117/KEE u 91/414/KEE.\n\nImplimentazzjoni.\nEmendat:\nA.L. 331 tal-2018.\n\n(2) B’referenza għal tiketti msemmija fir-Regolament 1107/2009\ndawn għandhom jinkitbu biż-żewġ lingwi uffiċjali ta’ Malta; bil-Malti\nu bl-Ingliż.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 33
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Implimentazzjoni",
+      "content": "Dawn ir-regolamenti għandhom jitqiesu li daħlu fis-seħħ\nfl-14 ta’Ġunju 2011.\n\nBidu fis-seħħ.",
+      "metadata": {
+        "source_line_start": 34,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Implimentazzjoni",
+      "content": "Id-Diviżjoni dwar ir-Regolament Tekniċi hekk kif\nstabbilita bl-Att dwar l-Awtorità ta’ Malta għall-Kompetizzjoni u\ngħall-Affarijiet tal-Konsumatur fi ħdan l-Awtorità ta’ Malta għallKompetizzjoni u għall-Affarijiet tal-Konsumatur hi l-awtorità\nkompetenti msemmija fl-Artikolu 75 ta’ Regolament (KE) Nru.\n1107/2009.\n\nTwaqqif talawtorità\nkompetenti.\nKap. 510.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 50
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Kap. 510",
+      "content": "Kull persuna aggravata minn deċiżjoni tad-Direttur tista’\nissolvi kwalunkwe tilwima, kontroversja jew talba li toriġina minn\ndin id-deċiżjoni jew billi tittieħed azzjoni quddiem il-Qorti Ċivili\njew billi tibda proċeduri ta’ arbitraġġ skond l-Att dwar l-Arbitraġġ\nu r-Regolamenti ta’ Arbitraġġ taċ-Ċentru Malti għall-Arbitraġġ, kif\njista’ jkun fis-seħħ minn żmien għal żmien.",
+      "metadata": {
+        "source_line_start": 51,
+        "source_line_end": 60
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Appell",
+      "content": "Is-sanzjonijiet applikabbli għall-ksur tad-disposizzjonijiet\ntar-Regolament (KE) Nru 1107/2009 għandhom ikunu dawk\nimsemmija fl-artikolu 9 tal-Att dwar il-Kontroll tal-Pestiċidi.\n\nPenali.\n\nKap. 387.\n\nKap. 430.",
+      "metadata": {
+        "source_line_start": 61,
+        "source_line_end": 73
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-36-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti għall-Prevenzjoni tad-Deni Rqiq",
+  "title_en": "Regolamenti għall-Prevenzjoni tad-Deni Rqiq",
+  "short_name": "eli/sl/36.4/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/36.4/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/36.4/mlt, expression eli/sl/36.4/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "In-NOTIFIKAZZJONI TAL-GVERN 50 ta’ l-1924",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti g]allPrevenzjoni tad-Deni Rqiq.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti g]allPrevenzjoni tad-Deni Rqiq",
+      "content": "Il-kliem f’dawn ir-Regolamenti g]andu jkollhom l-istess\ntifsir b]al ma hemm fl-Ordinanza dwar it-T]aris mill-Mard.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "tifsir b]al ma hemm fl-Ordinanza dwar it-T]aris mill-Mard",
+      "content": "Kull min j\\omm xi baqra, mog]\\a jew ng]a[a, g]andu\njav\\a lid-Dipartiment tas-Sa]]a b’formula spe`jali li tin[abar millG]assa tal-Pulizija, u jimliha kif imiss.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kull min j\\omm xi baqra, mog]\\a jew ng]a[a, g]andu",
+      "content": "Is-Suprintendent tas-Sa]]a Pubblika jkollu s-setg]a li\njordna li xi baqra, mog]o\\a jew ng]a[a tkun immarkata, jew\njintlibsilha kullar immarkat, jew misluta, jew ikolla xi marka o]ra,\nbiex tkun tista’ ti[i identifikata. Meta dan ji[i ordnat isir b’xejn\nmid-Dipartiment tas-Sa]]a bil-mod indikat mis-Suprintendent tasSa]]a Pubblika.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "mid-Dipartiment tas-Sa]]a bil-mod indikat mis-Suprintendent tasSa]]a Pubblika",
+      "content": "Kull uffi`jal tad-Dipartiment tas-Sa]]a jkollu s-setg]a li\njispezzjona u je\\amina f’kull ]in xi baqra, mog]o\\a jew ng]a[a, u\nli jie]u minn dawk l-annimal kampjun wie]ed, jew i\\jed, tal-]alib\njew tad-demm, jew tat-tnejn, sabiex ikun jista’ jitkixxef jekk dak lannimal jistax jikkomunika l-infezzjoni tad-deni rqiq.",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 35
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "li jie]u minn dawk l-annimal kampjun wie]ed, jew i\\jed, tal-]alib",
+      "content": "Kull post fejn xi baqra, mog]o\\a jew ng]a[a tin\\amm\ng]all-bejg] ta’ ]alib jew preparati tieg]u g]andu jkun mg]ammar\nbi spazju ta’ tieqa li ma jkunx inqas minn wie]ed g]al tnax ta’ lispazju superfi`jali u b’mhux anqas minn \\ew[ fet]iet ta’\nventilaturi, mqieg]din skond kif ordnat mill-Awtorità Sanitarja, u\nta’ qies totali ta’ sitta punt ]amsa `entimetri kwadri g]al kull\nerbg]a punt ]amsa metri kubi ta’ spazju. L-art ta’ kull spazju b]al\ndan g]andha tkun ta’ materjal li ma fih ebda mog]dija u tag]qid u\ng]andu jkollu kanali miftu]a li jag]tu g]al sprall regolari.",
+      "metadata": {
+        "source_line_start": 36,
+        "source_line_end": 45
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "g]andu jkollu kanali miftu]a li jag]tu g]al sprall regolari",
+      "content": "Kull uffi`jal tad-Dipartiment tas-Sa]]a jkollu s-setg]a li\njid]ol f’xi postijiet sabiex jitkixxef jekk xi baqra, mog]o\\a jew\nng]a[a tkun qed tin\\amm b’kontravvenzjoni ta’ dawn irRegolamenti.\n\nTitolu.\nTifsir.\nKap. 36.\nAvvi\\ lidDipartiment tasSa]]a.\nImmarkar ta’\nbaqar, e``.\n\nKampjuni ta’ ]alib\nu demm.\n\nPost fejn baqar\ne``., jin\\ammu.\n\nSpezzjon ta’\npostijiet.",
+      "metadata": {
+        "source_line_start": 46,
+        "source_line_end": 68
+      }
+    }
+  ],
+  "definitions": []
+}

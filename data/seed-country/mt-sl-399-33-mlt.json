@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-399-33-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Użu ta’ Radjokomunikazzjoni minn Bastimenti tal-Gwerra u minn Inġenji tal-Ajru Militari Barranin",
+  "title_en": "Regolamenti dwar l-Użu ta’ Radjokomunikazzjoni minn Bastimenti tal-Gwerra u minn Inġenji tal-Ajru Militari Barranin",
+  "short_name": "eli/sl/399.33/mlt",
+  "status": "in_force",
+  "issued_date": "2010-11-02",
+  "in_force_date": "2010-11-02",
+  "url": "https://legislation.mt/eli/sl/399.33/20101102/mlt",
+  "description": "Official text from legislation.mt (eli/sl/399.33/mlt, expression eli/sl/399.33/20101102/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 456 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lU\\u ta’ Radjokomunikazzjoni minn Bastimenti tal-Gwerra u minn\nIn[enji tal-Ajru Militari Barranin.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) Kull riferenza f’dawn ir-regolamenti g]al \"l-Att\" hi\nriferenza g]all-Att biex jirregola Komunikazzjonijiet Elettroni`i, u\nkull regolament mag]mul ta]tu, kemm-il darba r-rabta tal-kliem ma\ntkunx te]tie[ xort’o]ra, u bla ]sara g]ad-disposizzjonijiet tassubregolament (2) id-disposizzjonijiet tal-artikolu 28 tal-Att\ng]andhom japplikaw g]al dawn ir-regolamenti.\n\nTifsir.\nKap. 399.\n\n(2) F’dawn ir-regolamenti u kemm-il darba r-rabta tal-kliem\nma tkunx te]tie[ xort’o]ra , \"l-Awtorità\" tfisser l-Awtorità ta’\nMalta dwar il-Komunikazzjoni.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Malta dwar il-Komunikazzjoni",
+      "content": "(1) Ebda bastiment tal-gwerra barrani jew in[enju tal-ajru\nmilitari barrani li jkun qieg]ed jakkumpanja lil dak il-bastiment\nm’g]andu, waqt li jkun jinsab f’xi port ta’ Malta jew f’distanza ta’\ntnax-il mil nawtiku minn Malta ming]ajr ma jikseb permess minn\nqabel ming]and l-Awtorità, ju\\a l-apparat ta’ radjokomunikazzjoni\nli jkollu.\n(2) Fl-applikazzjoni biex jin]are[ dak il-permess g]andhom\njing]ataw dettalji tas-sistema, inklu\\i l-frekwenzi tar-radju, modi\nta’ emissjoni, bandwidths, ]inijiet ta’ trasmissjoni u qawwa tattrasmissjoni li l-applikant ikun irid ju\\a.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Malta dwar il-Komunikazzjoni",
+      "content": "(1) Ebda in[enju tal-ajru militari barrani li ma jkunx\nqieg]ed jakkumpanja bastiment tal-gwerra barrani m’g]andu,\nfilwaqt li jkun qieg]ed Malta jew f’xi port f’Malta, jew f’distanza\nta’ tnax-il mil nawtiku minn Malta, ming]ajr ma jkollu permess\nb]al dak stipulat fir-regolament minnufih qabel dan mill-Awtorità,\nju\\a l-apparat ta’ komunikazzjoni elettroniku jew\nradjokomunikazzjoni li jkollu.\n\nRestrizzjonijiet fuq\nl-u\\u ta’ apparat ta’\nradjokomunikazzjoni,\nminn bastimenti\ntal-gwerra jew\nin[enji tal-ajru\nbarranin li\njakkumpanjaw\ndawk il-bastimenti.\n\nRestrizzjonijiet fuq\nin[enji tal-ajru\nmilitari li ma\njkunux qeg]din\njakkumpanjaw\nbastimenti talgwerra barranin.\n\n(2) Fl-applikazzjoni biex jin]are[ dak il-permess g]andhom\njing]ataw id-dettalji msemmija fir-regolament 3(2).",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 66
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "jing]ataw id-dettalji msemmija fir-regolament 3(2)",
+      "content": "L-Awtorità tista’, meta ssirlha applikazzjoni konformement\nma’ dawn ir-regolamenti, tag]mel kundizzjonijiet g]all-g]oti ta’\ndak il-permess li bihom (a) tipprovdi kontra kull interferenza ma’ stazzjonijiet\no]ra;\n(b) te]tie[ li t-trasmissjoni g]andha titwaqqaf minnufih\n\nKundizzjonijiet li\nta]thom jista’\njing]ata permess\ng]all-u\\u ta’\napparat.\n\nL.S.399.33]\n\nU|U TA’ RADJOKOMUNIKAZZJONI MINN BASTIMENTI TALGWERRA U MINN IN{ENJI TAL-AJRU MILITARI BARRANIN\n\nmalli ssir talba g]aldaqstant mill-Awtorità jew minn xi\nstazzjon fiss fuq l-art;\n(`) tipprojbixxi senjalazzjoni fit-tul bl-u\\u ta’ apparat li\njkun jittrasmetti xort’o]ra milli waves kontinwi u puri.",
+      "metadata": {
+        "source_line_start": 67,
+        "source_line_end": 93
+      }
+    }
+  ],
+  "definitions": []
+}

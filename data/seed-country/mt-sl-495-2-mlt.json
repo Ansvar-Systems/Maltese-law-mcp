@@ -1,0 +1,75 @@
+{
+  "id": "mt-sl-495-2-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Aġenziji Akkreditati għall-Adozzjoni",
+  "title_en": "Regolamenti dwar Aġenziji Akkreditati għall-Adozzjoni",
+  "short_name": "eli/sl/495.2/mlt",
+  "status": "in_force",
+  "issued_date": "2015-12-09",
+  "in_force_date": "2015-12-09",
+  "url": "https://legislation.mt/eli/sl/495.2/20151209/mlt",
+  "description": "Official text from legislation.mt (eli/sl/495.2/mlt, expression eli/sl/495.2/20151209/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 379 tal-2015",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nAġenziji Akkreditati għall-Adozzjoni",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Aġenziji Akkreditati għall-Adozzjoni",
+      "content": "F’dawn ir-regolamenti, \"l-Att\" tfisser l-Att dwar lAmministrazzjoni tal-Adozzjoni.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Aġenziji Akkreditati għall-Adozzjoni",
+      "content": "Mingħajr preġudizzju għad-disposizzjonijiet tal-Att, laġenzija għandha tagħti lill-awtorità ċentrali r-records u ddokumentazzjoni kollha relatati mas-servizzi ta’ qabel l-adozzjoni\nu tal-adozzjoni li hija jkollha fil-pussess tagħha kif ġej:\n(a) malli jiskadi l-perjodu tal-akkreditament tagħha jekk\ndik l-aġenzija tonqos milli tapplika għal tiġdid skont lartikolu 12(2) tal-Att; u\n(b) fi żmien għoxrin jum tax-xogħol minn dak in-nhar li ddeċiżjoni tal-awtorità ċentrali li ċ-ċertifikat talakkreditament ma għandux jiġi mġedded tkun għaddiet\nf’ġudikat.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "f’ġudikat",
+      "content": "L-awtorità ċentrali tista’ titlob kull aġenzija, inkluż kull\naġenzija li ma tkunx għadha fil-pussess taċ-ċertifikat talakkreditament, li tipprovdi għall-ispezzjoni kull dokument relatat\nmas-servizzi ta’ qabel l-adozzjoni u tal-adozzjoni u dik l-aġenzija\ngħandha, mhux iktar tard minn għaxart ijiem tax-xogħol mid-data\nta’ dik it-talba, tipprovdi dak id-dokument.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "ta’ dik it-talba, tipprovdi dak id-dokument",
+      "content": "Minkejja ir-revoka, jew l-iskadenza, tal-akkreditament ta’\naġenzija, l-awtorità ċentrali tista’ tordna lil dik l-aġenzija tkompli\nkull proċess ta’ adozzjoni li jkun beda waqt il-perjodu ta’\nakkreditament fejn:\n(a) l-aġenzija ressqet talba għal revoka skont l-artikolu\n14(1)(a) tal-Att;\n(b) l-aġenzija ma tkunx applikat għal tiġdid taċ-ċertifikat\ntal-akkreditament skont l-artikolu 12(2) tal-Att; jew\n(ċ) għalkemm l-aġenzija tkun applikat għal tiġdid taċċertifikat tal-akkreditament, id-deċiżjoni tal-awtorità\nċentrali dwar jekk iċ-ċertifikat tal-akkreditament\ngħandux jiġi mġedded għadha pendenti minħabba\nf’investigazzjoni li tkun għaddejja:\nIżda f’kull każ hawn fuq imsemmi l-aġenzija għandha\ntikkonforma ruħha mal-istess kundizzjonijiet speċifikati millawtorità ċentrali waqt il-perjodu ta’ akkreditament, ilkundizzjonijiet stabbiliti taħt l-Att u kull kundizzjoni oħra li lawtorità ċentrali jidrilha xieraq li tispeċifika:\n\nTitolu.\nTifsir.\nKap. 495.\nRecords u\ndokumentazzjoni li\ngħandhom\nx’jaqsmu ma’\nkażijiet ta’\nadozzjoni.\n\nSetgħa tal-awtorità\nċentrali li titlob\ngħad-dokumenti.\n\nKontinwazzjoni\ntal-każijiet dwar ladozzjoni.\n\n[ L.S.495.02\n\nAĠENZIJI AKKREDITATI GĦALL-ADOZZJONI\n\nIżda wkoll, xejn f’dan ir-regolament ma għandu jiftiehem\nilli dik l-aġenzija tista’ tibda proċess ta’ adozzjoni.\nTrasferiment talkażijiet taladozzjoni.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 74
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Trasferiment talkażijiet taladozzjoni",
+      "content": "Aġenzija tkun tista’, jekk ikun hemm l-awtorizazzjoni bilmiktub tal-awtorità ċentrali, titħalla tittrasferixxi xi proċess ta’\nadozzjoni lil aġenzija oħra.",
+      "metadata": {
+        "source_line_start": 75,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

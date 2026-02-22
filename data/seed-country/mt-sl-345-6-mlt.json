@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-6-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Att dwar is-Swieq Finanzjarji (Sħubija u Aċċess)",
+  "title_en": "Regolamenti dwar l-Att dwar is-Swieq Finanzjarji (Sħubija u Aċċess)",
+  "short_name": "eli/sl/345.6/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.6/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.6/mlt, expression eli/sl/345.6/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "ATT DWAR IS-SWIEQ FINANZJARJI (S}UBIJA U A~~ESS) [L.S.345.06\n\nLEĠISLAZZJONI SUSSIDJARJA 345.06\nREGOLAMENTI DWAR L-ATT DWAR IS-SWIEQ\nFINANZJARJI (SĦUBIJA U AĊĊESS)\n1 ta’ Novembru, 2007\nL-AVVIŻ LEGALI 331 tal-2007 u 386 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

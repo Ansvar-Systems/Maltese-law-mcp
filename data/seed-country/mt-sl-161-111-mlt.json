@@ -1,0 +1,85 @@
+{
+  "id": "mt-sl-161-111-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €58,234,334.96 5.7% Stock tal-Gvern ta’ Malta 2012 (It-Tielet Ħruġ) Fungibility Issue",
+  "title_en": "Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €58,234,334.96 5.7% Stock tal-Gvern ta’ Malta 2012 (It-Tielet Ħruġ) Fungibility Issue",
+  "short_name": "eli/sl/161.111/mlt",
+  "status": "in_force",
+  "issued_date": "2012-05-03",
+  "in_force_date": "2012-05-03",
+  "url": "https://legislation.mt/eli/sl/161.111/20120503/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.111/mlt, expression eli/sl/161.111/20120503/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "TAL-FINANZI G}ALL-}RU{ TA’ €58,234,334.96",
+      "content": "7% STOCK TAL-GVERN TA’ MALTA 2012\n(IT-TIELET }RU{) *\n15 ta’ Lulju, 2005\nL-AVVI| LEGALI 258 tal-2005, kif emendat bl-Avvi\\ Legali 427 tal2007.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 15
+      }
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 258 tal-2005, kif emendat bl-Avvi\\ Legali 427 tal2007",
+      "content": "It-titolu ta’ din id-Direttiva hu Direttiva mill-Prim Ministru\nu Ministru tal-Finanzi g]all-}ru[ ta’ €58,234,334.96 5.7% Stock\ntal-Gvern ta’ Malta 2012 (It-Tielet }ru[) Fungibility Issue.",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "tal-Gvern ta’ Malta 2012 (It-Tielet }ru[) Fungibility Issue",
+      "content": "L-iStock jin]are[ skond kif stipulat fil-prospett.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "L-iStock jin]are[ skond kif stipulat fil-prospett",
+      "content": "Kull persuna u, jew enti jistg]u japplikaw g]al dan liStock. It-tqassim ta’ l-iStock isir skond kif spjegat fil-prospett.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 25
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "L-iStock jin]are[ skond kif stipulat fil-prospett",
+      "content": "(a) Skond id-disposizzjonijiet ta’ l-Att dwar is-Swieq\nFinanzjarji, meta dan l-iStock ji[i allokat, g]andha ssir\napplikazzjoni sabiex l-iStock jitqieg]ed fuq il-lista\nuffi`jali u sabiex ikun negozjat fil-Bor\\a ta’ Malta.\n\nTitolu.\nEmendat:\nA.L. 427 tal-2007.\nMod tal-}ru[ ta’ liStock.\nPolicy dwar lallokazzjoni ta’\nStock.\nNegozju fil-Bor\\a\nta’ Malta.\nKap. 345.\n\n(b) Fl-1 ta’ Ottubru, 2005 wara l-pagament ta’ l-ewwel\nimg]ax, dan l-iStock ji[i integrat ma’ l-iStock e\\istenti",
+      "metadata": {
+        "source_line_start": 26,
+        "source_line_end": 44
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stock",
+      "content": "L-img]ax bir-rata ta’ €2.85,0 g]all kull €100 Stock\njit]allas kull sitt xhur b’lura fit-30 ta’ Marzu u fit-30 ta’ Settembru\nta’ kull sena waqt il-kors ta’ l-iStock. L-ewwel ]las pro rata relattiv\ng]all-perjodu bejn it-2 ta’ Awissu, 2005 u t-30 ta’ Settembru, 2005\njsir fit-30 ta’ Settembru, 2005.\n\nRata ta’ mg]ax u\ndati tal-]las.\nEmendat:\nA.L. 427 tal-2007.",
+      "metadata": {
+        "source_line_start": 56,
+        "source_line_end": 67
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "A.L. 427 tal-2007",
+      "content": "Fidwa ta’ Stock.\n\nL-iStock g]andu ji[i mifdi b’parità fit-30 ta’ Settembru,\n\n* Din id-Direttiva ġiet revokata bl-Att XLV tal-2016, iżda għadha applikabbli\nparzjalment għax il-perjodu ta’ sitt snin preskritt bil-liġi biex wieħed jagħmel talba\ngħal fondi li jirrigwardaw stocks li jkunu diġà immaturaw għadu ma skadiex.",
+      "metadata": {
+        "source_line_start": 68,
+        "source_line_end": 80
+      }
+    }
+  ],
+  "definitions": []
+}

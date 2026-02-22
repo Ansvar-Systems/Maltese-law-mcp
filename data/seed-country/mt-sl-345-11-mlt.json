@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-345-11-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Drittijiet Ewropej għal Swieq Finanzjarji",
+  "title_en": "Regolamenti dwar Drittijiet Ewropej għal Swieq Finanzjarji",
+  "short_name": "eli/sl/345.11/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.11/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.11/mlt, expression eli/sl/345.11/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "DRITTIJIET EWROPEJ G}AL SWIEQ REGOLATI\n\n[L.S.345.11\n\nLEĠISLAZZJONI SUSSIDJARJA 345.11\nREGOLAMENTI DWAR DRITTIJIET EWROPEJ\nGĦAL SWIEQ REGOLATI*\n1 ta’ Novembru, 2007\nL-AVVIŻ LEGALI 330 tal-2007, kif emendat bl-Avviż Legali 175 tal2012, u 388 tal-2017.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

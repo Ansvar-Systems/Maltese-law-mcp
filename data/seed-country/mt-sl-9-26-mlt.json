@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-9-26-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar in-Notifika ta’ Taħrika tal-Ġurati",
+  "title_en": "Regolamenti dwar in-Notifika ta’ Taħrika tal-Ġurati",
+  "short_name": "eli/sl/9.26/mlt",
+  "status": "in_force",
+  "issued_date": "2020-11-04",
+  "in_force_date": "2020-11-04",
+  "url": "https://legislation.mt/eli/sl/9.26/20201104/mlt",
+  "description": "Official text from legislation.mt (eli/sl/9.26/mlt, expression eli/sl/9.26/20201104/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 405 tal-2020",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nin-Notifika ta’ Taħrika tal-Ġurati.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem\nma teħtieġx xort’oħra:\n\nTifsir.\n\n\"Kodiċi\" tfisser il-Kodici Kriminali;\n\nKap. 9.\n\n\"Qorti\" tfisser il-Qorti Kriminali;\n\"Reġistratur\" tfisser ir-Reġistratur, Qrati u Tribunali Kriminali;\n\"taħrika\" tfisser it-taħrika tal-ġurati li tinħareġ skont l-artikolu\n608 tal-Kodiċi.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "In-notifika tat-taħrika għandha, kemm-il darba il-Qorti\nma tordnax xort’oħra, issir bil-posta reġistrata, u għandha ssir\napplikazzjoni għal avviż ta’ konsenja meta tiġi impustata.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 39
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Notifika bil-posta",
+      "content": "It-taħrika li tkun ser tiġi notifikata bil-posta kif imsemmi\nqabel għandha tingħalaq ġewwa invilopp li jkollu fuqu l-kliem\n\"Taħrika tal-Ġurati\" f’post fejn jidher sewwa.\n\nIt-taħrika għandha\ntingħalaq\nf’invilopp.",
+      "metadata": {
+        "source_line_start": 40,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Notifika bil-posta",
+      "content": "Meta n-notifika tkun ser issir bil-posta, l-uffiċjali\neżekuturi tal-qrati għandhom:\n\nDmirijiet taluffiċjali eżekuturi\ntal-qrati.\n\n(a)\niħejju d-dokumenti postali meħtieġa għal dik innotifika, u jippreżentaw l-invilopp relattiv bit-taħrika magħluqa\nġewwa fih fl-uffiċċju tal-posta;\n(b)\njinnotaw f’reġistru miżmum għal hekk, ilpartikolarijiet tat-taħrika, id-data tat-taħrika, in-numru mogħti\nmill-awtoritajiet tal-posta lill-invilopp li fih tkun ġiet magħluqa\nt-taħrika biex tiġi impustata, u, jekk in-notifika tkun saret, iddata ta’ dik in-notifika u d-data meta jiġi lura l-avviż talkonsenja;\n(ċ)\njagħmlu ċertifikat fejn jingħad jekk in-notifika\nsaritx jew le u f’każ li n-notifika ma saritx ir-raġuni għaliex ma\nsaritx. Fiċ-ċertifikat għandhom jidħlu wkoll l-partikolaritajiet\ntal-persuna notifikata jew tal-persuna li tirrifjuta n-notifika\nskont il-każ;\n(d)\njgħarrfu lir-Reġistratur jekk in-notifika tkunx\nsaret jew le, u jekk tkun saret, meta.\n\n[ L.S. 9.26\n\nNOTIFIKA TA’ TAĦRIKA TAL-ĠURATI",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 81
+      }
+    }
+  ],
+  "definitions": []
+}

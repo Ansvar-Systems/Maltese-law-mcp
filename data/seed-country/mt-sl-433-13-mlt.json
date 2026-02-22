@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-433-13-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Materjal Għat-Tkabbir u Tħawwil ta' Ħxejjex tal-Ikel",
+  "title_en": "Regolamenti dwar Materjal Għat-Tkabbir u Tħawwil ta' Ħxejjex tal-Ikel",
+  "short_name": "eli/sl/433.13/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2004-04-15",
+  "url": "https://legislation.mt/eli/sl/433.13/20250603/mlt",
+  "description": "Official text from legislation.mt (eli/sl/433.13/mlt, expression eli/sl/433.13/20250603/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "[L.S.433.13\n\nMATERJAL TA’ TKABBIR U TĦAWWIL\nTA’ ĦXEJJEX TAL-IKEL\n\nLEĠISLAZZJONI SUSSIDJARJA 433.13\nREGOLAMENTI DWAR MATERJAL\nGĦAT-TKABBIR U TĦAWWIL TA’ ĦXEJJEX TALIKEL*\n15 ta’ Mejju, 2004\nL-AVVIŻ LEGALI 277 tal-2004, kif emendat bl-Avviżi Legali 88 tal2007, 45 tal-2009, 453 tal-2013,115 tal-2014 u 89 u 382 tal-2020 u 95 tal2025.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

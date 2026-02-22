@@ -1,0 +1,65 @@
+{
+  "id": "mt-sl-363-207-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Notice Boards (Kunsill Lokali Ħal Lija)",
+  "title_en": "Bye-Laws dwar Notice Boards (Kunsill Lokali Ħal Lija)",
+  "short_name": "eli/sl/363.207/mlt",
+  "status": "in_force",
+  "issued_date": "2018-08-13",
+  "in_force_date": "2018-08-13",
+  "url": "https://legislation.mt/eli/sl/363.207/20180813/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.207/mlt, expression eli/sl/363.207/20180813/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "KUNSILL LOKALI BYE-LAW 32/17/2018",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar\nNotice Boards (Kunsill Lokali Ħal Lija).",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn il-Bye-Laws, kemm-il darba r-rabta tal-kliem\nma tkunx teħtieg xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar Gvern Lokali;\n\nKap. 363.\n\n\"Kunsill\" tfisser il-Kunsill Lokali ta’ Ħal Lija;\n\"notice board\" tfisser kull board, tabella, plakka, kartellun,\navviż jew xi mezz jew rappreżentazzjoni magħmula, esebita,\nimwaħħla jew i mqiegħda f ’xi post pubbliku fil -konfini t allokalità ta’ Ħal Lija li tkun maħsuba għall-fini ta’ reklami jew\npubbliċità jew sabiex tgħaddi avviż, tagħrif jew messaġġ lillpubbliku;",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Bla ħsara għal kull permess, awtorizzazzjoni, jew\nliċenza meħtieġa taħt xi liġi, ebda persuna ma tista’ tesebixxi,\ntwaħħal jew tqiegħed xi notice board f ’xi post pubbliku filkonfini tal-lokalità ta’ Ħal Lija, jekk ma tkunx konformi malkundizzjonijiet stabbiliti bil-linji ta’ gwida magħmula jew li\njistgħu jiġu magħmula minn żmien għal żmien mill-Kunsill bissaħħa tal-artikolu 33(1)(g) tal-Att permezz ta’ Bye-Laws oħrajn.\n\nTqegħid ta’\nnotice boards.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Tifsir",
+      "content": "Kull persuna li tkun kisbet il-permess, awtorizzazzjoni\njew liċenza meħtieġa kif stabbilit fil-Bye-Law 3 għandha, wara li\ntkun kisbet bil-miktub mingħand il-Kunsill li n-notice board hija\nkonformi mal-linji gwida fis-seħħ, għall-anqas sebat ijiem qabel\nma tesebixxi, twaħħal jew tqiegħed xi notice board, tagħti avviż\nbil-miktub lill-Kunsill flimkien ma’ kopja tal-permess,\nawtorizzazzjoni jew liċenza.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Notifika lillKunsill",
+      "content": "Kull persuna li tikser jew li tonqos li tħares iddispożizzjonijiet ta’ Bye-Law 4 titqies li għamlet\nkontravvenzjoni u teħel, meta tinstab ħatja:",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 57
+      }
+    }
+  ],
+  "definitions": []
+}

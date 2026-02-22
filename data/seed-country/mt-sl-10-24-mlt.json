@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-10-24-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Annimali tal-Ħalib f'Arei Abitati",
+  "title_en": "Regolamenti dwar Annimali tal-Ħalib f'Arei Abitati",
+  "short_name": "eli/sl/10.24/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/10.24/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/10.24/mlt, expression eli/sl/10.24/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "10 ta’ l-1964, ikkonsolidati",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nAnnimali tal-}alib f’Arei Abitati.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Annimali tal-}alib f’Arei Abitati",
+      "content": "F’dawn ir-Regolamenti, \"area abitata\" g]adha l-istess tifsir\nmog]tija lilha bl-artikolu 2 tal-Kodi`i tal-Li[ijiet tal-Pulizija.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "mog]tija lilha bl-artikolu 2 tal-Kodi`i tal-Li[ijiet tal-Pulizija",
+      "content": "}add ma jista’ jie]u, j[ieg]el jew jippermetti li jittie]du fi,\nxi area abitata fil-limiti parrokkjali ta’ kull belt jew ra]al f’Malta\njew f’G]awdex, annimali tal-]alib, jew imexxi, jsuq jew i\\omm,\njew i[ieg]el jew jippermetti li jitmexxew, jinsaqu jew jin\\ammu xi\nannimali b]al dawn f’dawn l-arei:\n\nI\\da annimali b]al dawn jistg]u ji[u mmexxijin jew\nmisjuqin fl-arei msemmija bejn il-maqjel u l-limiti tal-belt jew\nra]al fejn ikun jinsab il-maqjel fir-rotta li trid ti[i spe`ifikata f’kull\nka\\ mill-Kummissarju tal-Pulizija.\n\nTitolu.\nTifsir.\nKap. 10.\nAnnimali tal-]alib\nf’arei abitati\nf’Malta jew\nf’G]awdex.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 46
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-220-2-mlt",
+  "type": "statute",
+  "title": "Ordni dwar l-Isem, il-Kmand ta l-Istabbiliment tal-Forzi Armati ta Malta",
+  "title_en": "Ordni dwar l-Isem, il-Kmand ta l-Istabbiliment tal-Forzi Armati ta Malta",
+  "short_name": "eli/sl/220.2/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/220.2/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/220.2/mlt, expression eli/sl/220.2/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "25 ta’ Settembru, 1970",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar l-Isem, il-Kmand u\nl-Istabbiliment tal-Forzi Armati ta’ Malta.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "l-Istabbiliment tal-Forzi Armati ta’ Malta",
+      "content": "Il-forzi kollha mwaqqfa jew meqjusa li [ew imwaqqfa\nskond l-Att dwar il-Forzi Armati ta’ Malta, g]andhom kollha\nf’daqqa jkunu mag]rufa b]ala l-Forzi Armati ta’ Malta.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 23
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "f’daqqa jkunu mag]rufa b]ala l-Forzi Armati ta’ Malta",
+      "content": "(1) G]andu jkun hemm Kmandant tal-Forzi Armati ta’\nMalta, li ji[i nominat mill-Ministru responsabbIi g]ad-difi\\a; u\njista’ ji[i nominat ukoll mill-imsemmi Ministru Deputat Kmandant\ntal-Forzi Armati ta’ Malta, u fl-assenza ta’ jew meta l-Kmandant\njew id-Deputat Kmandant ma jkunx jista’ ja[ixxi, uffi`jal biex\nja[ixxi ta’ Kmandant tal-Forzi Armati ta’ Malta.\n\nTitolu.\nEmendat:\nA.L. 36 ta’ l-1973.\nIsem ta’ forzi\narmati.\nEmendat:\nA.L. 36 ta’ l-1973.\nKap. 220.\nKmand.\nEmendat:\nA.L. 36 ta’ l-1973;\nA.L. 33 ta’ l-1980.\n\n(2) Il-Kmandant tal-Forzi Armati ta’ Malta g]andu, bla ]sara\ntad-disposizzjonijiet ta’ l-Att imsemmi qabel u ta’ kull regolamenti,\nregoli jew ordnijiet mag]mula bis-sa]]a tieg]u, kif ukoll tattermini u kondizzjonijict tan-nomina tieg]u u ta’ kull\nistruzzjonijiet jew direttivi mog]tija lilu mill-imsemmi Ministru,\njkollu l-kmand tal-Forzi Armati ta’ Malta.\n\n(3) Id-Deputat Kmandant g]andu jg]in lill-Kmandant fil-qadi\nta’ xog]lu u dmirijietu; u fl-assenza ta’ jew meta l-Kmandant ma\njkunx jista’ ja[ixxi, id-Deputat Kmandant, jew fl-assenza tieg]u\njew meta hu ma jkunx jista’ ja[ixxi, dak l-uffi`jal l-ie]or li jista’\nji[i nominat biex ja[ixxi ta’ Kmandant, ikollu l-istess setg]at ta’\nKmandant.\n\n(4) Minkejja d-disposizzonijiet ta’ qabel ta’ dan l-artikolu, ilMinistru responsabbli g]ad-difi\\a jista’ iqieg]ed kull parti millForzi Armati ta’ Malta ta]t kmand separat u f’kull ka\\ b]al dan\njista’ ja]tar kmandant separat u dwar dik il-parti tal-Forzi Armati\nta’ Malta, id-disposizzjonijiet ta’ qabel ta’ dan l-artikolu u ta’ lartikolu 4 g]andhom japplikaw b]allikieku r-riferenzi g]allKmandant, tal-Forzi Armati ta’ Malta, kienu riferenzi g]allkmandant tal-parti ta’ l-imsemmija forzi imqieg]da ta]t kmand\nseparat.",
+      "metadata": {
+        "source_line_start": 24,
+        "source_line_end": 61
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Kmandant",
+      "content": "L-istabbiliment tal-Forzi Armati ta’ Malta u ta’ kull corps,\nunità jew parti o]ra tag]hom, g]andu jkun dak l-istabbiliment li lMinistru responsabbli g]ad-difi\\a jista’ minn \\mien g]al \\mien\njistabbilixxi, u dak l-istabbiliment g]andu, bla ]sara ta’ l-Att\nimsemmi qabel u ta’ kull regolamenti, regoli jew ordnijiet\nmag]mula bis-sa]]a tieg]u, ji[i regolat mill-istruzzjonijiet u millordnijiet li l-imsemmi Ministru, jew il-Kmandant jew uffi`jal ie]or\n\nStabbiliment talforza.\nEmendat:\nA.L. 36 ta’ l-1973.\n\nL.S.220.02]\n\nTAL-FORZI ARMATI TA’ MALTA\n\nli jkun qed ja[ixxi taht awtorità ta’ l-imsemmi Ministru, jista’\njo]ro[ minn \\mien g]al \\mien.",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 85
+      }
+    }
+  ],
+  "definitions": []
+}

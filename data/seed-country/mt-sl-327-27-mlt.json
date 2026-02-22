@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-327-27-mlt",
+  "type": "statute",
+  "title": "Statut I 10 - Statut dwar Ċentru tat-Teknoloġija tal-Kommunikazzjoni",
+  "title_en": "Statut I 10 - Statut dwar Ċentru tat-Teknoloġija tal-Kommunikazzjoni",
+  "short_name": "eli/sl/327.27/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/327.27/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/327.27/mlt, expression eli/sl/327.27/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "STATUT I 10 - STATUT DWAR ~ENTRU\nTAT-TEKNOLO{IJA TAL-KOMUNIKAZZJONI\n\n[L.S.327.27\n\nLE{ISLAZZJONI SUSSIDJARJA 327.27\nSTATUT I 10 - STATUT DWAR ~ENTRU\nTAT-TEKNOLO{IJA TAL-KOMUNIKAZZJONI\n24 ta’ Lulju, 1992\nL-AVVI| LEGALI 68 tal-1992.\n\nRevokat bl-Avvi\\ Legali 150 tal-2011.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mt-cap-229-mlt",
+  "type": "statute",
+  "title": "Att dwar Self għall-Iżvilupp",
+  "title_en": "Att dwar Self għall-Iżvilupp",
+  "short_name": "Kap. 229",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1972-05-09",
+  "url": "https://legislation.mt/eli/cap/229/20080101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/229/mlt, expression eli/cap/229/20080101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "XII tal-1988; u bl-Avviż Legali 411 tal-2007",
+      "content": "It-titolu fil-qosor ta’ dan l-Att huwa l-Att dwar Self għallIżvilupp.\n\nTitolu fil-qosor.\nSetgħa li jsir self.\nEmendat:\nXXXV.1973.2;\nXIII. 1983.5;",
+      "metadata": {
+        "source_line_start": 16,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu fil-qosor",
+      "content": "(1) Bla ħsara għad-disposizzjonijiet ta’ dan l-Att, il-Gvern\nta’ Malta jista’, bi ftehim jew skont ftehim milħuq ma’ Gvern ta’\nkull pajjiż ieħor, jew ma’ kull organizazzjoni, fond jew istituzzjoni\noħra internazzjonali jew barranija, jissellef somom ta’ flus li\nb’kollox ma jkunux iżjed mill-ammont li jikkorrispondi għal\ntmienja u ħamsin miljun, mitejn u erbgħa u tletin elf, tliet mija u\nerbgħa u tletin euro u sitta u disgħin ċenteżmu (58,234,334.96) jew\ndik is-somma ogħla li l-Kamra tad-Deputati tista’ minn żmien għal\nżmien tistabbilixxi b’riżoluzzjoni.\n\nXII. 1988.2;\nA.L. 411 tal-2007.\n\n(2) Kull self magħmul bl-awtorità ta’ dan l-Att ikun skont\ndawk il-pattijiet, kondizzjonijiet u modalitajiet li jiġu miftehma\nbejn il-Gvern ta’ Malta u l-Gvern, l-organizazzjoni, il-fond jew listituzzjoni oħra li tagħti s-self.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "dawk il-pattijiet, kondizzjonijiet u modalitajiet li jiġu miftehma",
+      "content": "Kull somma li tissellef bl-awtorità ta’ dan l-Att għandha\ntiġi approprjata u wżata -\n\nSkop tas-self.\n\n(a) biex jitħallas infieq li għandu x’jaqsam mal-iżvilupp\ntal-ekonomija ta’ Malta, li jkun infieq awtorizzat b’Att\nta’ Approprjazzjoni jew addebitat lill-Fond Konsolidat\nb’xi liġi oħra li f’dak iż-żmien tkun fis-seħħ; jew\n(b) għal kull skop ieħor approvat b’riżoluzzjoni millKamra tad-Deputati.",
+      "metadata": {
+        "source_line_start": 41,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Skop tas-self",
+      "content": "Il-kapital ta’ kull self magħmul bl-awtorità ta’ dan l-Att, u\nl-imgħax li għandu jitħallas fuqu, ikunu addebitati lill-Fond\nKonsolidat u għandhom jitħallsu mid-dħul ġenerali u mill-attiv talGvern ta’ Malta li qegħdin hawnhekk jiġu approprjati għal hekk.\n\n*Ara n-Notifikazzjoni tal-Gvern Nru. 357 tad-9 ta’ Mejju, 1972.\n\nIs-self ikun debitu\ngħad-dħul ġenerali.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 63
+      }
+    }
+  ],
+  "definitions": []
+}

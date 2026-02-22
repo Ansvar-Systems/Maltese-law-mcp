@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-65-23-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Trasferiment ta' Motor-Car",
+  "title_en": "Regolamenti dwar Trasferiment ta' Motor-Car",
+  "short_name": "eli/sl/65.23/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/65.23/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/65.23/mlt, expression eli/sl/65.23/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 381 ta’ l-2003",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar\nTrasferiment ta’ Motor-Car.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Trasferiment ta’ Motor-Car",
+      "content": "F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma\ntkunx te]tie[ mod ie]or:\n\n''Ordinanza'' tfisser l-Ordinanza dwar ir-Regolament tat-Traffiku;\n\n''sid'' tfisser il-persuna li f’isimha to]rog il-li`enza g]al motorcar;\n\nTitolu.\nTifsir.\nKap. 65.\n\n''vettura'' tinkludi kull xorta ta’ karrozza, motor-car, omnibus,\njew mezz ie]or ta’ transport ta’ kull xorta jew g]amla ma]sub g]attrasport jew [arr ta’ nies, kadavri jew o[[etti.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 32
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta qorti ta’ [urisdizzjoni kriminali twa]]al multa jew\nammenda, jew meta Kummissarju g]all-Gustizzja jkun g]amel\nordni g]all-]las ta’ penali bis-sa]]a tad-disposizzjonijiet ta’ l-Att\ndwar il-Kummissarji g]all-{ustizzja, li jkollha x’taqsam ma’ xi\nreat ta]t l-Ordinanza li jsir bl-u\\u ta’ xi motor-car jew vettura, u\ndik il-multa, ammenda jew piena, skond il-ka\\, ma tkunx t]allset, lAwtorità ma g]andhiex tikkon`edi u tirre[istra t-trasferiment talli`enza ta’ dik il-motor-car jew vettura minn fuq is-sid g]al xi\npersuna o]ra, sakemm isir il-]las ta’ dik il-multa jew ammenda jew\npenali.\n\nMeta ma g]andux\njing]ata\ntrasferiment ta’\nvettura.\nKap. 291.",
+      "metadata": {
+        "source_line_start": 33,
+        "source_line_end": 50
+      }
+    }
+  ],
+  "definitions": []
+}

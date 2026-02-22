@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-463-19-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Għajnuna Għal Persuni Żvantaġġati Biex Jibdew Negozju Proprji Tagħhom",
+  "title_en": "Regolamenti dwar Għajnuna Għal Persuni Żvantaġġati Biex Jibdew Negozju Proprji Tagħhom",
+  "short_name": "eli/sl/463.19/mlt",
+  "status": "repealed",
+  "issued_date": "2018-02-28",
+  "in_force_date": "2018-02-28",
+  "url": "https://legislation.mt/eli/sl/463.19/20180228/mlt",
+  "description": "Official text from legislation.mt (eli/sl/463.19/mlt, expression eli/sl/463.19/20180228/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 66 tal-2018",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa Regolamenti\ndwar Għajnuna Għal Persuni Żvantaġġati Biex Jibdew Negozju\nProprji Tagħhom.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\nteħtieġx xort’oħra:\n\nTifsir.\n\n\"l-Att\" tfisser l-Att dwar l-Intrapriża ta’ Malta;\n\"il-Korporazzjoni\"\nmwaqqfa taħt l-Att;\n\ntfisser\n\nl-Intrapriża\n\nta’\n\nKap. 463\n\nMalta\n\n\"Linji Gwida\" tfisser dawk il-linji gwida li jistgħu jiġu\npubblikati mill-Korporazzjoni minn żmien għal żmien skont lAtt.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 42
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Meta l-Korporazzjoni tkun sodisfatta li l-impriża hija\nimpriża eliġibbli kif preskritt fil-Linji Gwida, il-Korporazzjoni tista’\ntipprovdi assistenza lil dawn l-impriżi skond it-termini u lkondizzjonijiet stabbiliti fil-Linji Gwida.\n\nGħajnuna biex\ntappoġġja impriżi\neliġibbli taħt liskema Leap2Enterprise.",
+      "metadata": {
+        "source_line_start": 43,
+        "source_line_end": 51
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "eliġibbli taħt liskema Leap2Enterprise",
+      "content": "Applikazzjonijiet għall-għajnuna biex tappoġġja\nintrapriżi eliġibbli taħt l-iskema Leap2Enterprise għandom jaslu\ngħand il-Korporazzjoni sa’ mhux aktar tard mit-31 ta' Diċembru\n\nSkadenza għassottomissjoni talapplikazzjonijiet.",
+      "metadata": {
+        "source_line_start": 52,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

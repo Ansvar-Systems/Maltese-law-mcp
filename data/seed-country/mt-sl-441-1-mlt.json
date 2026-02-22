@@ -1,0 +1,95 @@
+{
+  "id": "mt-sl-441-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Industrja Lokali tal-Bizzilla",
+  "title_en": "Regolamenti dwar l-Industrja Lokali tal-Bizzilla",
+  "short_name": "eli/sl/441.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/441.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/441.1/mlt, expression eli/sl/441.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "2 ta’ Frar, 1938",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lIndustrja Lokali tal-Bizzilla.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "(1) }add ma jista’, ming]ajr permess mog]ti lilu millKummissarju tal-Pulizija, jinnegozja f’o[[etti tal-bizzilla, sew blingrossa kemm bl-imnut.\n\nLi`enza.\n\n(2) Licenza mog]tija ta]t id-disposizzjonijiet ta’ l-artikolu 194\ntal-Kodi`i tal-Li[ijiet tal-Pulizija ma titqiesx li tawtorizza li\npersuna li jkollha din il-licenza li tinnegozja f’o[[etti tal-bizzilla,\nkemm-il darba fil-licenza ma jkunx hemm din l-awtorizzazzjoni.\n\nKap. 10.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-imsemmija licenza, jekk mogtija g]al ]anut jew post ta’\nnegozju, g]andha titqieg]ed fi gwarni` f’lok fejn tidher sew f’dak\nil-]anut jew post ta’ negozju. Il-bejjieg]a ta’ barra g]andhom\nikollhom mag]hom il-licenza kull meta jo]or[u g]al xog]olhom u\njkollhom juruha lil kull ufficjal tal-Pulizija meta jitlobhielhom.\n\nTurija tal-li`enza.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Turija tal-li`enza",
+      "content": "Kopja stampata ta’ dawn ir-regolamenti g]andha titqieg]ed\nfi gwarni` f ’lok fejn jidhru sew f’kull ]anut jew post ta’ negozju\nbil-licenza g]an-negozju ta’ o[[etti tal-bizzilla.\n\nTurija ta’ kopja\nstampata ta’ dawn\nir-regolamenti.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 46
+      }
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "ir-regolamenti",
+      "content": "Kull min ikollu licenza biex jinnegozja f’o[[etti talbizzilla jista’ jag]mel l-applikazzjoni lid-Direttur tal-Kummer`\nbiex l-o[[etti tal-bizzilla li jkunu mmanifatturati f ’Malta jew\nG]awdex minn ]ajt ta’ l-g]a\\el jew tat-tajjar ji[u mbullati bittikketta uffi`jali.\n\nApplikazzjoni lidDirettur talKummer`.",
+      "metadata": {
+        "source_line_start": 47,
+        "source_line_end": 53
+      }
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Applikazzjoni lidDirettur talKummer`",
+      "content": "It-tikketti kif imsemmijin fl-Iskeda li tinsab ma’ dawn irregolamenti jkunu huma biss it-tikketti awtorizzati biex ikun jidher\nilli o[[ett tal-bizzilla li jkun immanifatturat f’Malta jew G]awdex\nhuwa mag]mul minn ]ajt ta’ l-g]a\\el jew tat-tajjar, skond il-ka\\, u\ndawn it-tikketti jistg]u jitwa]]lu mid-Direttur tal-Kummer` biss\njew mir-rappre\\entant tieg]u.\n\nTikketti\nawtorizzati.",
+      "metadata": {
+        "source_line_start": 54,
+        "source_line_end": 63
+      }
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "awtorizzati",
+      "content": "Ebda o[[ett tal-bizzilla mmanifatturata b’]ajt tal-]arir jew\nb’]ajt tal-]arir artifi`jali ma ji[i mbullat b’tikketta mid-Direttur\ntal-Kummer`.\n\nId-Direttur talKummer` ma\njimbullax o[[etti\ntal-bizzilla\nmag]mulin b’]ajt\ntal-]arir jew ]ajt\ntal-]arir artifi`jali.",
+      "metadata": {
+        "source_line_start": 64,
+        "source_line_end": 75
+      }
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "tal-]arir artifi`jali",
+      "content": "Kampjuni tal-bizzilla ta’ Malta u ta’ G]awdex ikunu\na``essibbli g]all-pubbliku fl-uffi``ju tad-Direttur tal-Kummer`.\n\nKampjuni talbizzilla.\n\nL.S.441.01]\n\n(Regolament 6)\nKif ikunu t-Tikketti Uffi`jali",
+      "metadata": {
+        "source_line_start": 76,
+        "source_line_end": 91
+      }
+    }
+  ],
+  "definitions": []
+}

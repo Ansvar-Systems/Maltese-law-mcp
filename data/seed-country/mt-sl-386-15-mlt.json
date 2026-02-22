@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-15-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Recognised Incorporated Cell Companies taħt l-Att dwar il-Kumpanniji",
+  "title_en": "Regolamenti dwar Recognised Incorporated Cell Companies taħt l-Att dwar il-Kumpanniji",
+  "short_name": "eli/sl/386.15/mlt",
+  "status": "in_force",
+  "issued_date": "2012-04-18",
+  "in_force_date": "2012-04-17",
+  "url": "https://legislation.mt/eli/sl/386.15/20251223/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.15/mlt, expression eli/sl/386.15/20251223/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANIES ACT\n(RECOGNISED INCORPORATED CELL COMPANIES)\n\n[ L.S.386.15\n\nLEĠISLAZZJONI SUSSIDJARJA 386.15\nREGOLAMENTI DWAR RECOGNISED\nINCORPORATED CELL COMPANIES\nTAĦT L-ATT DWAR IL-KUMPANNIJI*\n17 ta’ April, 2012\nL-AVVIŻ LEGALI 119 tal-2012, kif emendat bl-Avviż Legali 292 tal2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

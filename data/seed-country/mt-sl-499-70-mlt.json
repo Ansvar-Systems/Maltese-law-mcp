@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-499-70-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Estensjoni tal-Validità ta’ Permessi tax-Xufier u t-Tag ta’ Xufier",
+  "title_en": "Regolamenti dwar l-Estensjoni tal-Validità ta’ Permessi tax-Xufier u t-Tag ta’ Xufier",
+  "short_name": "eli/sl/499.70/mlt",
+  "status": "in_force",
+  "issued_date": "2021-05-10",
+  "in_force_date": "2021-03-16",
+  "url": "https://legislation.mt/eli/sl/499.70/20210316/mlt",
+  "description": "Official text from legislation.mt (eli/sl/499.70/mlt, expression eli/sl/499.70/20210316/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 108 tal-2021",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nl-Estensjoni tal-Validità ta’ Permessi tax-Xufier u t-Tag ta’ Xufier.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-kliem u l-espressjonijiet użati f’dawn ir-regolamenti\ngħandu jkollhom l-istess tifsira kif mogħtija lilhom fir-Regolamenti\ndwar is-Servizzi ta’ Ġarr ta’ Passiġġieri, ir-Regolamenti dwar Servizzi\ntat-Taxi u r-Regolamenti dwar Servizzi ta’ Ġarr ta’ Passiġġieri\nb’Vetturi Żgħar u Servizzi ta’ Kiri ta’ Vetturi.\n\nTifsir.\nL.S. 499. 56.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 30
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "Kwalunkwe permess tax-xufier u tag ta’ xufier li skadew\nmill-1 ta’ Diċembru 2020 jew wara, minkejja d-data ta’ skadenza li\ntidher fuq tali tag, għandhom jibqgħu validi u awtomatikament jiġu\nestiżi sal-31 ta’ Ottubru 2021:\n\nEstensjoni talvalidità ta’ permess\ntax-xufier u t-tag\nta’ xufier.\n\nL.S. 499. 59.\nL.S. 499. 68.\n\nIżda l-estensjonijiet awtomatiċi mogħtija permezz ta’\ndawn ir-regolamenti ma għandhom bl-ebda mod jeżentaw lillbenefiċjarju ta’ kwalunkwe estensjoni mill-pagament ta’ kwalunkwe\nmiżata għall-ħruġ ta’ tag, u, jew kwalunkwe ħlas ieħor li għandu\njitħallas lill-Awtorità għat-Trasport f’Malta u, jew kwalunkwe awtorità\nkompetenti oħra skont il-liġi:\nIżda wkoll it-termini, il-kondizzjonijiet u, l-obbligi\nkollha stabbiliti fir-Regolamenti dwar is-Servizzi ta’ Ġarr ta’\nPassiġġieri, ir-Regolamenti dwar Servizzi tat-Taxi u r-Regolamenti\ndwar Servizzi ta’ Ġarr ta’ Passiġġieri b’Vetturi Żgħar u Servizzi ta’\nKiri ta’ Vetturi fuq id-detenturi ta’ tali permessi tax-xufiera u t-tags ta’\nxufiera għandhom jibqgħu japplikaw mutatis mutandis.\n\nL.S. 499. 56.\nL.S. 499. 59.\nL.S. 499. 68.",
+      "metadata": {
+        "source_line_start": 31,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-363-132-mlt",
+  "type": "statute",
+  "title": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Faċilitajiet (Kunsill Lokali Isla)",
+  "title_en": "Ordni dwar id-Delega ta' l-Amministrazzjoni ta' Faċilitajiet (Kunsill Lokali Isla)",
+  "short_name": "eli/sl/363.132/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.132/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.132/mlt, expression eli/sl/363.132/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 176 tal-2007",
+      "content": "It-titolu ta’ dan l-ordni hu Ordni dwar id-Delega ta’ lAmministrazzjoni ta’ Fa`ilitajiet (Kunsill Lokali L-Isla).",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "L-AVVI| LEGALI 176 tal-2007",
+      "content": "Il-proprjetà deskritta fl-artikolu 3 ta’ dan l-ordni hija b’dan\nspe`ifikata g]all-finijiet tad-delega ta’ funzjonijiet imsemmija flar tik olu 33(1) (m) t al -Att dwar Gvern Loka li, mi d-dat a t alpubblikazzjoni ta’ dan l-ordni.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 20
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Il-proprjetà deskritta fl-artikolu 3 ta’ dan l-ordni hija b’dan",
+      "content": "Il-proprjetà fil-lokalità tal-Isla msemmija fl-artikolu 2 ta’\ndan l-ordni tikkonsisti fi {nien il-Gardjola fi Triq is-Sur Isla li\njidher delineat fuq il-pjanta mehmu\\a mal-Ftehim ta’ Kiri g]allAmministrazzjoni u l-U\\u tal-{nien il-Gardjola fi Triq is-Sur Isla,\nmill-Kunsill Lokali Isla iffirmat mid-Direttur ta’ l-Artijiet f’isem\nil-Gvern ta’ Malta u mis-Sindku u s-Segretarju E\\ekuttiv talKunsill Lokali L-Isla fis-7 ta’ Frar, 2000.\n\nTitolu.\nDelega ta’\nfunzjonijiet.\nKap. 363.",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 38
+      }
+    }
+  ],
+  "definitions": []
+}

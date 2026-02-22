@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-545-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Ekonomija fl-Ilma",
+  "title_en": "Regolamenti dwar l-Ekonomija fl-Ilma",
+  "short_name": "eli/sl/545.4/mlt",
+  "status": "repealed",
+  "issued_date": "2015-08-27",
+  "in_force_date": "2015-08-27",
+  "url": "https://legislation.mt/eli/sl/545.4/20150827/mlt",
+  "description": "Official text from legislation.mt (eli/sl/545.4/mlt, expression eli/sl/545.4/20150827/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "konsolidati",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar lEkonomija fl-Ilma.",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Il-provvista ta’ l-ilma mill-g]ejjun pubbli`i g]andha\ntinqata’ kull filg]axija g]al \\mien kontinwu ta’ tmien sig]at.\n\nQtug] tal-provvista\nta’ l-ilma.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 24
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "L-u\\u ta’ manki jew apparati mekkani`i g]all=]asil ta’\nvetturi huwa pprojbit.\n\nProjbizzjoni ta’\nu\\u ta’ manki.",
+      "metadata": {
+        "source_line_start": 25,
+        "source_line_end": 31
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Titolu",
+      "content": "L-u\\u ta’ ilma provdut g]al xi post minn provvisti bilkanen tal-Gvern biex jin]aslu vetturi bil-mutur jew vetturi o]ra\nhuwa pprojbit.\n\nProjbizzjoni ta’\nu\\u ta’ ilma\nprovdut minn\nprovvisti bil-kanen\ntal-Gvern biex\njin]aslu vetturi bilmutur.",
+      "metadata": {
+        "source_line_start": 32,
+        "source_line_end": 44
+      }
+    }
+  ],
+  "definitions": []
+}

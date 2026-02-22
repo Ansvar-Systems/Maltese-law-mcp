@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-426-3-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Notifikazzjoni u Ħlasijiet ta’ Servizzi Fiduċjarji Elettroniċi",
+  "title_en": "Regolamenti dwar Notifikazzjoni u Ħlasijiet ta’ Servizzi Fiduċjarji Elettroniċi",
+  "short_name": "eli/sl/426.3/mlt",
+  "status": "in_force",
+  "issued_date": "2016-07-13",
+  "in_force_date": "2016-07-13",
+  "url": "https://legislation.mt/eli/sl/426.3/20160713/mlt",
+  "description": "Official text from legislation.mt (eli/sl/426.3/mlt, expression eli/sl/426.3/20160713/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 248 tal-2016",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar\nNotifikazzjoni u Ħlasijiet ta’ Servizzi Fiduċjarji Elettroniċi.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Notifikazzjoni u Ħlasijiet ta’ Servizzi Fiduċjarji Elettroniċi",
+      "content": "(1) Sakemm ma jingħadx mod ieħor f’dawn irregolamenti, għandhom japplikaw it-tifsiriet fl-Att dwar ilK o m u n i k a z z j o n i j i e t u Tr a n s a z z j o n i j i e t E l e t t r o n i ċ i , u f i rRegolament Numru 910/2014 tal-Parlament Ewropew u tal-Kunsill\ntat-23 ta’ Lulju 2014 dwar l-identifikazzjoni elettronika u s-servizzi\nfiduċjarji għal transazzjonijiet elettroniċi fis-suq intern u li jħassar\nid-Direttiva 1999/93/KE.\n(2) F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma\ntitlobx mod ieħor:\n\"Att\" tfisser l-Att dwar il-Komunikazzjonijiet u Transazzjonijiet\nElettroniċi;\nu\n\nTitolu.\nTifsir.\nKap. 426.\n\nKap. 426.\n\n\"Awtorità\" tfisser l-Awtorità ta’ Malta dwar il-Komunikazzjoni;\n\n\"Regolament\" tfisser ir-Regolament Numru 910/2014 talParlament Ewropew u tal-Kunsill tat-23 ta’ Lulju 2014 dwar lidentifikazzjoni elettronika u s-servizzi fiduċjarji għal\ntransazzjonijiet elettroniċi fis-suq intern u li jħassar id-Direttiva\n1999/93/KE.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tifsir",
+      "content": "F’konformità\nmad-dispozizzjonijiet\ntar-Regolament,\npersuna li hi stabbilita f ’Malta li bi ħsiebha tipprovdi servizz\nfiduċjarju kwalifikat f’Malta għandha, qabel ma tipprovdi dan iss e r v i z z , t i s s o t t o m e t t i n o t i f i k a l i l l - Aw t o r i t à s k o n t i d d i s p o ż i z z j o n i j i e t t a l - A r t i k o l u 2 1 t a r- R e g o l a m e n t u s k o n t\nkwalunkwe formula ta’ notifikazzjoni u proċess li l-Awtorità tista’\nminn żmien għal żmien tistabbilixxi.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 48
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Notifikazzjoni",
+      "content": "Persuna li tissottometti notifika lill-Awtorità skont irregolament 3 għandha tagħmel lill-Awtorità l-ħlasijiet li ġejjin:\n\nĦlasijiet li\ngħandhom jsiru.\n\n(a) meta tissottometti notifika, ħlas ta’ darba ta’ elfejn u\ntmien mitt euro (€2,800) li jitħallas mas-sottomissjoni\ntan-notifika lill-Awtorità; u\n(b) ħlas ta’ elfejn euro (€2,000) darba kull sena fl-għeluq\nżmien sena minn meta tkun saret in-notifika skont ilparagrafu (a).",
+      "metadata": {
+        "source_line_start": 49,
+        "source_line_end": 64
+      }
+    }
+  ],
+  "definitions": []
+}

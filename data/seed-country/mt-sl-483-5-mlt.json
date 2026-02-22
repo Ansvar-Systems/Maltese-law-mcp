@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-483-5-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Provvista ta’ Demm (Derogi Temporanji għall-Kriterji ta’ Eliġibilità)",
+  "title_en": "Regolamenti dwar il-Provvista ta’ Demm (Derogi Temporanji għall-Kriterji ta’ Eliġibilità)",
+  "short_name": "eli/sl/483.5/mlt",
+  "status": "in_force",
+  "issued_date": "2013-03-26",
+  "in_force_date": "2013-03-26",
+  "url": "https://legislation.mt/eli/sl/483.5/20130326/mlt",
+  "description": "Official text from legislation.mt (eli/sl/483.5/mlt, expression eli/sl/483.5/20130326/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 27 tal-2010",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar ilP r o v v i s t a t a ’ D e m m ( D e r o g i T e m p o r a n j i għ a l l - K r i t e r j i t a ’\nEliġibilità).",
+      "metadata": {
+        "source_line_start": 13,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "L-iskop ta’ dawn ir-regolamenti hu biex jittrasponi dDirettiva tal-Kummissjoni 2009/135/KE tat-3 ta’ Novembru 2009 li\ntippermetti derogi temporanji għal ċerti kriterji ta’ eliġibilità għal\ndonaturi ta’ demm sħiħ u komponenti tad-demm stipulati fl-Anness\nIII mad-Direttiva 2004/33/KE fil-kuntest ta’ riskju ta’ nuqqas\nkaġunat minħabba fl-Influwenza pandemika A(H1N1).",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Skop",
+      "content": "(1) Meta jkun hemm riskju serju ta’ nuqqas jew nuqqas\nattwali fil-provvista ta’ demm u komponenti tad-demm direttament\nminħabba fil-pandemija A(H1N1) l-istabbiliment tad-demm jista’\ntemporanjament u b’deroga:\n\nDerogi.\n\n(a) minn punt 1.2 fl-Anness III mad-Direttiva 2004/33/\nKE, inaqqas l-inqas livelli ta’ emoglobina fid-demm\ntad-donaturi għal mhux inqas minn 120 g/l għan-nisa u\n130 g/l għall-irġiel;\n(b) minn punt 2.2.1 fl-Anness III mad-Direttiva 2004/\n33/KE, japplika perjodu ta’ differiment ta’ mhux inqas\nminn sebat ijiem wara li jieqfu s-sintomi ta’ marda li\ntixbah l-influwenza.\n(2) L-implimentazzjoni tad-derogi\ngħandhom ikunu japplikaw biss:\n\nhawn\n\nqabel imsemmija\n\n(a) meta u wara li l-Awtorità dwar il-Liċenzi tiddikjara\nstat ta’ riskju serju ta’ nuqqas jew nuqqas attwali ta’\ndemm u ta’ komponenti tad-demm li għandhom\ndirettament x’jaqsmu mal-pandemija A(H1N1); u\n(b) sat-30 ta’ Ġunju, 2010.\n(3) Kull referenza, f’kull liġi oħra, għall-artikoli fl-Anness III\nmad-Direttiva 2004/33/KE, għandha tiftiehem fil-kuntest taddispożizzjonijiet ta’ dawn ir-regolamenti.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 61
+      }
+    }
+  ],
+  "definitions": []
+}

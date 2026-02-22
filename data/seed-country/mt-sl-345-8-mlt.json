@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-345-8-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar it-Trasferiment ta' Strumenti Finanzjarji Elenkati",
+  "title_en": "Regolamenti dwar it-Trasferiment ta' Strumenti Finanzjarji Elenkati",
+  "short_name": "eli/sl/345.8/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/345.8/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/345.8/mlt, expression eli/sl/345.8/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "1 ta’ April, 2006",
+      "content": "It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar itTrasferiment ta’ Strumenti Finanzjarji Elenkati.\n\nTitolu.\nEmendat:\nIV. 2005.30.",
+      "metadata": {
+        "source_line_start": 11,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "It-trasferiment ta’ proprjetà fi strumenti finanzjarji elenkati\nli huma operati f ’suq regolat ikun komplet g]all-g]anijiet kollha\ntal-li[i mal-]las, s]i] u finali, tal-prezz fejn dak il-]las isir\npermezz ta’ sistema ta’ pagament approvat u awtorizzat mill-Bank\n~entrali ta’ Malta skond l-artikolu 36 ta’ l-Att dwar il-Bank\n~entrali ta’ Malta; u ma jg]oddux id-disposizzjonijiet ta’ l-artikolu\n1347 tal-Kodi`i ~ivili.\n\nTrasferiment ta’\nproprjetà fi\nstrumenti\nfinanzjarji elenkati.\nEmendat:\nIV. 2005.30;\nA.L. 335 ta’ l2007.\nKap. 204.\nKap. 16.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 36
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Kap. 16",
+      "content": "Id-disposizzjonijiet tar-regolament 2 jg]oddu ukoll g]al\noperazzjonijiet barra minn suq regolat, skond ir-Regolamenti dwar\nNegozju barra mis-Suq mag]mulin ta]t l-Att, sakemm il-partijiet\nfl-operazzjoni ma jiftiehmux espressament mod ie]or.\n\nOperazzjonijiet\nbarra minn suq\nregolat.\nEmendat:\nA.L. 335 ta’ l2007.\nL.S. 345.07",
+      "metadata": {
+        "source_line_start": 37,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

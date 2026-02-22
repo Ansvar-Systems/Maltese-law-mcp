@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-65-9-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Biljetti għal Reat tat-Traffiku",
+  "title_en": "Regolamenti dwar Biljetti għal Reat tat-Traffiku",
+  "short_name": "eli/sl/65.9/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/65.9/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/65.9/mlt, expression eli/sl/65.9/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 52 ta’ l-1981, kif emendat bl-Avvi\\ Legali 184 ta’ l1999",
+      "content": "It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar\nBiljetti g]al reat tat-Traffiku.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 18
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Biljetti g]al reat tat-Traffiku",
+      "content": "L-avvi\\ li g]andu jing]ata lis-sid jew lis-sewwieq, jew li\ng]andu ji[i mwa]]al mal-windscreen ta’ vettura bil-mutur u\\ata\nf’reat kif hemm imsemmi fl-Ewwel u fit-Tieni Skeda li jinsabu ma’\nl-Ordinanza dwar ir-Regolament tat-Traffiku g]andu jkun fih dan li\n[ej:\n(a) deskrizzjoni [enerali tar-reat;\n\n(b) il-partikolaritajiet tal-vettura bil-mutur u\\ata fir-reat;\n(`) il-post, il-]in u d-data tar-reat;\n\n(d) il-firma ta’ l-uffi`jal tal-Pulizija li jag]ti jew li\njwa]]al l-avvi\\;\n(e) tag]rif dwar il-]las tal-multa.\n\nTitolu.\nFormula ta’ avvi\\.\nEmendat:\nA.L. 184 ta’ l1999.\nKap. 65.",
+      "metadata": {
+        "source_line_start": 19,
+        "source_line_end": 41
+      }
+    }
+  ],
+  "definitions": []
+}

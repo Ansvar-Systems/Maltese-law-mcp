@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-552-33-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar l-Estensjoni għall-Validità tal-Permessi ta’ Żvilupp",
+  "title_en": "Regolamenti dwar l-Estensjoni għall-Validità tal-Permessi ta’ Żvilupp",
+  "short_name": "eli/sl/552.33/mlt",
+  "status": "in_force",
+  "issued_date": "2023-11-20",
+  "in_force_date": "2023-11-10",
+  "url": "https://legislation.mt/eli/sl/552.33/20250401/mlt",
+  "description": "Official text from legislation.mt (eli/sl/552.33/mlt, expression eli/sl/552.33/20250401/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 263 tal-2023, kif emendat bl-Avviż Legali 66 tal2025",
+      "content": "It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti\ndwar l-Estensjoni għall-Validità tal-Permessi ta’ Żvilupp.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra,\nil-kliem u l-espressjonijiet użati f’dawn ir-regolamenti għandu\njkollhom l-istess tifsira bħal dik mogħtija lilhom fl-Att dwar l-Ippjanar\ntal-Iżvilupp.\n\nKap. 552.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 28
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kull permess ta’ żvilupp li fid-data tad-dħul fis-seħħ ta’\ndawn ir-regolamenti, jkun għadu fil-perjodu tiegħu ta’ validità, iżda li\njkun se jiskadi sa, jew f’xi data qabel il-31 ta’ Diċembru 2026, għandu\njkollu l-perjodu tiegħu ta’ validità imġedded bi tliet (3) snin ulterjuri:\n\nEstensjoni talvalidità talpermessi ta’\nżvilupp.\nEmendat:\nA.L. 66 tal-2025.\n\nIżda kwalunkwe permess ta’ żvilupp, li skada bejn l-1 ta’\nJannar 2023 u d-9 ta’ Novembru 2023, iż-żewġ dati inklużi, għandu\njitqies validu sal-31 ta’ Diċembru 2026:\nIżda wkoll kwalunkwe permess ta’ żvilupp li skada bejn l1 ta’ Jannar 2025 u l-1 ta’ April 2025, iż-żewġ dati inklużi, għandu\njitqies validu sal-31 ta’ Diċembru 2028.",
+      "metadata": {
+        "source_line_start": 29,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

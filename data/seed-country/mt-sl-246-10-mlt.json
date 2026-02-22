@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-246-10-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Madliena Village Complex Bħala Żona Speċjali Msemmija",
+  "title_en": "Ordni dwar Madliena Village Complex Bħala Żona Speċjali Msemmija",
+  "short_name": "eli/sl/246.10/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/246.10/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/246.10/mlt, expression eli/sl/246.10/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVI| LEGALI 335 ta’ l-2006",
+      "content": "It-titolu ta’ dan l-Ordni hu l-Ordni dwar Madliena Village\nComplex b]ala |ona Spe`jali Msemmija.",
+      "metadata": {
+        "source_line_start": 14,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Madliena Village Complex li tikkonsisti fi proprjetà\nimmobbli sitwata fi\\-\\ona bordurata bl-a]mar fil-Pjanta tarR e [ is t ru ta’ l- Ar ti j ie t a nn e s s a ma ’ da n l- Or d ni , h ij a b ’ dan\nimsemmija b]ala |ona Spe`jali Msemmija g]all-finijiet ta’ l-Att\ndwar l-Akkwist ta’ Proprjet à Immobbli minn Persuni Mhux\nResidenti.\n\nTismija ta’ |ona\nSpe`jali.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 29
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Residenti",
+      "content": "Madliena Village Complex g]andha ti\\died mal-Lista ta’\n|oni Skedati fl-Ewwel Skeda li tinsab ma’ l-Att dwar l-Akkwist ta’\nProprjetà Immobbli minn Persuni Mhux Residenti.\n\n|ieda ma’ l-Ewwel\nSkeda li tinsab ma’\nl-Att.\nKap. 246.\n\nKap. 246.\n\nL.S.246.10]\n\nB}ALA |ONA SPE~JALI MSEMMIJA",
+      "metadata": {
+        "source_line_start": 30,
+        "source_line_end": 51
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mt-sl-24-1-mlt",
+  "type": "statute",
+  "title": "Ordni dwar il-Projbizzjoni ta' l-Esportazzjoni ta' Ċerti Ħwejjeġ",
+  "title_en": "Ordni dwar il-Projbizzjoni ta' l-Esportazzjoni ta' Ċerti Ħwejjeġ",
+  "short_name": "eli/sl/24.1/mlt",
+  "status": "repealed",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/24.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/24.1/mlt, expression eli/sl/24.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 217 ta’ l-1921",
+      "content": "It-titolu ta’ dan l-Ordni hu Ordni dwar il-Projbizzjoni ta’ lEsportazzjoni ta’ ~erti }wejje[.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 14
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "IN-NOTIFIKAZZJONI TAL-GVERN 217 ta’ l-1921",
+      "content": "L-esportazzjoni tal-]wejje[ li [ejjin hija projbita g]al kull\ndestinazzjoni barra minn Malta:\nmunizzjonijiet;\nkokaina;\n\nesplo\\ivi, minbarra esplo\\ivi ndustrijali;\narmi tan-nar;\noppju;\n\nflus tal-fidda.\n\nTitolu.\nProjbizzjoni ta’\nesportazzjoni.",
+      "metadata": {
+        "source_line_start": 15,
+        "source_line_end": 34
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-330-1-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar il-Kontroll ta' Kumpanniji Offshore Bankarji Imħassrin bl-Avviż Legali 155 tal-2011",
+  "title_en": "Regolamenti dwar il-Kontroll ta' Kumpanniji Offshore Bankarji Imħassrin bl-Avviż Legali 155 tal-2011",
+  "short_name": "eli/sl/330.1/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/330.1/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/330.1/mlt, expression eli/sl/330.1/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "KONTROLL TA’ KUMPANNIJI OFFSHORE BANKARJI [L.S.330.01\n\nLE{ISLAZZJONI SUSSIDJARJA 330.01\nREGOLAMENTI DWAR IL-KONTROLL TA’\nKUMPANNIJI OFFSHORE BANKARJI\n13 ta’ Novembru, 1990\nL-AVVI| LEGALI 184 ta’ l-1990.\n\nRevokat bl-Avvi\\ Legali 155 tal-2011 .\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

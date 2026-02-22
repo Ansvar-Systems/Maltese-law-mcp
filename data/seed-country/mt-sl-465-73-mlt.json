@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-465-73-mlt",
+  "type": "statute",
+  "title": "Ordni dwar Rekwiżiti Speċjali tal-IvvjaġġarImħassar bl-Avviż Legali 42 tal-2023",
+  "title_en": "Ordni dwar Rekwiżiti Speċjali tal-IvvjaġġarImħassar bl-Avviż Legali 42 tal-2023",
+  "short_name": "eli/sl/465.73/mlt",
+  "status": "repealed",
+  "issued_date": "2023-01-09",
+  "in_force_date": "2023-01-09",
+  "url": "https://legislation.mt/eli/sl/465.73/20230227/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.73/mlt, expression eli/sl/465.73/20230227/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 3 tal-2023",
+      "content": "It-titolu ta’ dan l-ordni hu l-Ordni dwar Rekwiżiti\nSpeċjali tal-Ivvjaġġar.",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 17
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Titolu",
+      "content": "Kwalunkwe persuna li ser tivvjaġġa lejn Malta miċ-Ċina\ngħandha tkun fil-pussess ta’ riżultat negattiv tal-COVID-19 Rapid\nAntigen Test (RAT) imwettaq mhux aktar minn tmienja u erbgħin (48)\nsiegħa qabel il-wasla tagħha f’Malta:\n\nRekwiżiti speċjali.\n\nIżda l-imsemmija rekwiżiti ma għandhomx japplikaw\ngħal tfal li għandhom ħdax (11)-il sena jew inqas.",
+      "metadata": {
+        "source_line_start": 18,
+        "source_line_end": 27
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Is-Suprintendent tas-Saħħa Pubblika tista’, permezz ta’\navviż tal-Gvern ippubblikat fil-Gazetta u skont dawk il-kundizzjonijiet\nli tqis neċessarji jew xierqa, teżenta persuni mir-rekwiżiti ta’ dan lordni.\n\n*Din l-ordni ġiet imħassra. Ara Avviż Legali 42 tal-2023.\n\nSetgħa tasSuprintendent tasSaħħa Pubblika\nsabiex tagħmel\neżenzjonijiet.",
+      "metadata": {
+        "source_line_start": 28,
+        "source_line_end": 40
+      }
+    }
+  ],
+  "definitions": []
+}

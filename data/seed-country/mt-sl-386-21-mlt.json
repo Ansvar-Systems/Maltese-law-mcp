@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-386-21-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Companies Act (Company Reconstructions Fund)",
+  "title_en": "Regolamenti dwar Companies Act (Company Reconstructions Fund)",
+  "short_name": "eli/sl/386.21/mlt",
+  "status": "in_force",
+  "issued_date": "2020-06-18",
+  "in_force_date": "2020-06-18",
+  "url": "https://legislation.mt/eli/sl/386.21/20200618/mlt",
+  "description": "Official text from legislation.mt (eli/sl/386.21/mlt, expression eli/sl/386.21/20200618/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "COMPANIES ACT\n(COMPANY RECONSTRUCTIONS FUND)\n\n[ L.S.386.21\n\nLEĠISLAZZJONI SUSSIDJARJA 386.21\nREGOLAMENTI DWAR COMPANIES ACT (COMPANY\nRECONSTRUCTIONS FUND)\n12 ta’ Mejju, 2020\n\nL-AVVIŻ LEGALI 192 tal-2020.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

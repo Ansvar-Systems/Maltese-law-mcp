@@ -1,0 +1,55 @@
+{
+  "id": "mt-sl-363-74-mlt",
+  "type": "statute",
+  "title": "Bye-Laws dwar Reklami fuq l-Internet (Kunsill Lokali Birkirkara)",
+  "title_en": "Bye-Laws dwar Reklami fuq l-Internet (Kunsill Lokali Birkirkara)",
+  "short_name": "eli/sl/363.74/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/363.74/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/363.74/mlt, expression eli/sl/363.74/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "425 tal-2007",
+      "content": "It-titolu ta’ dawn il-Bye-Laws hu Bye-Laws dwar Reklami\nfuq l-Internet (Kunsill Lokali Birkirkara).",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 19
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "fuq l-Internet (Kunsill Lokali Birkirkara)",
+      "content": "1 F’dawn il-Bye-Laws kemm-il darba r-rabta tal-kliem ma\nte]tie[x xort’o]ra:\n\"Att\" tfisser l-Att dwar Gvern Lokali;\n\n\"Kunsill\" tfisser il-Kunsill Lokali Birkirkara;\n\nTitolu.\nTifsir.\nKap. 363.\n\n\"persuna\" tfisser dik il-persuna li tkun awtorizzata mill-Kunsill\nbiex tqabbad mal-Web-page tal-Kunsill skont id-dispo\\izzjonijiet\ntal-ordinament 3.2;\n\n\"reklam\" tinkludi promozzjoni kummer`jali jew mhux\nkummer`jali;\n\n\"Web-page\" tfisser a``ess ta’ informazzjoni fuq sistema u\ndatabase permezz ta’ Internet, deskritt b]ala l-World Wide Web\n(WWW), liema Web-page tista’ tkun reklamata fuq dawk li jissej]u\nWeb Search Engines.",
+      "metadata": {
+        "source_line_start": 20,
+        "source_line_end": 40
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Web Search Engines",
+      "content": "1 Il-Kunsill g]andu jkollu Web-Page fuq l-Internet li\ng]andha tinkludi l-informazzjoni fuq il-Kunsill u l-lokalità li lKunsill jag]\\el li jinkludi.\n\nWeb-page uffi`jali\ntal-Kunsill.",
+      "metadata": {
+        "source_line_start": 44,
+        "source_line_end": 49
+      }
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "ming]ajr l-awtorizzazzjoni bil-miktub",
+      "content": "1 Il-Kunsill jista’ jikkuntratta, skont ir-regolamenti u\npro`eduri li japplikaw skont l-Att, ma’ entitajiet sew kummer`jali\nsew mhux kummer`jali biex dawk l-entitajiet jirreklamaw bi ]las\nfuq il-Web-page tal-Kunsill.",
+      "metadata": {
+        "source_line_start": 62,
+        "source_line_end": 65
+      }
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-476-4-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Reporting of Infringements",
+  "title_en": "Regolamenti dwar Reporting of Infringements",
+  "short_name": "eli/sl/476.4/mlt",
+  "status": "in_force",
+  "issued_date": "2017-01-25",
+  "in_force_date": "2017-01-25",
+  "url": "https://legislation.mt/eli/sl/476.4/20170125/mlt",
+  "description": "Official text from legislation.mt (eli/sl/476.4/mlt, expression eli/sl/476.4/20170125/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "REPORTING OF INFRINGEMENTS\n\n[ L.S.476.04\n\nLEĠISLAZZJONI SUSSIDJARJA 476.04\nREGOLAMENTI DWAR\nREPORTING OF INFRINGEMENTS\n2 ta’ Diċembru, 2016\nL-AVVIŻ LEGALI 405 tal-2016.\n\n*Dawn ir-Regolamenti ġew ippubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

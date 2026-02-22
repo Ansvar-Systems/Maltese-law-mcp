@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-427-105-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Market Surveillance and Compliance of Products",
+  "title_en": "Regolamenti dwar Market Surveillance and Compliance of Products",
+  "short_name": "eli/sl/427.105/mlt",
+  "status": "in_force",
+  "issued_date": "2023-08-03",
+  "in_force_date": "2023-07-21",
+  "url": "https://legislation.mt/eli/sl/427.105/20230721/mlt",
+  "description": "Official text from legislation.mt (eli/sl/427.105/mlt, expression eli/sl/427.105/20230721/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MARKET SURVEILLANCE AND COMPLIANCE OF\nPRODUCTS\n\n[ L.S. 427.105\n\nLEĠISLAZZJONI SUSSIDJARJA 427.105\nREGOLAMENTI DWAR MARKET SURVEILLANCE\nAND COMPLIANCE OF PRODUCTS\n21 ta’ Lulju, 2023\nL-AVVIŻ LEGALI 185 tal-2023.\n\n*Dawn ir-regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

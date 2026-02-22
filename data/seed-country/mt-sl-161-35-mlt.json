@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-161-35-mlt",
+  "type": "statute",
+  "title": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm2,966,800 6.35% Stock tal-Gvern ta Malta 1998Imħassra bl-Avviż Legali 434 tal-2014",
+  "title_en": "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm2,966,800 6.35% Stock tal-Gvern ta Malta 1998Imħassra bl-Avviż Legali 434 tal-2014",
+  "short_name": "eli/sl/161.35/mlt",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-07-22",
+  "url": "https://legislation.mt/eli/sl/161.35/20100722/mlt",
+  "description": "Official text from legislation.mt (eli/sl/161.35/mlt, expression eli/sl/161.35/20100722/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "}RU{ TA’ LM2,966,800 6.35% STOCK\nTAL-GVERN TA’ MALTA 1998\n\n[ L.S.161.35\n\nLE{ISLAZZJONI SUSSIDJARJA 161.35\nDIRETTIVA MILL-MINISTRU TAL-FINANZI\nG}ALL-}RU{ TA’ LM2,966,800 6.35% STOCK TALGVERN TA’ MALTA 1998\nL-EWWEL }RU{\n13 ta’ Lulju, 1993\nL-AVVI| LEGALI 84 tal-1993.\n\nRevokat bl-Avviż Legali 434 tal-2014.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

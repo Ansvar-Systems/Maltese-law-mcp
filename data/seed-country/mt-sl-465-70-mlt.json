@@ -1,0 +1,45 @@
+{
+  "id": "mt-sl-465-70-mlt",
+  "type": "statute",
+  "title": "Regolamenti dwar Revokar",
+  "title_en": "Regolamenti dwar Revokar",
+  "short_name": "eli/sl/465.70/mlt",
+  "status": "in_force",
+  "issued_date": "2022-04-11",
+  "in_force_date": "2022-04-10",
+  "url": "https://legislation.mt/eli/sl/465.70/20220407/mlt",
+  "description": "Official text from legislation.mt (eli/sl/465.70/mlt, expression eli/sl/465.70/20220407/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "L-AVVIŻ LEGALI 115 tal-2022",
+      "content": "Revokar.\n\nIt-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar",
+      "metadata": {
+        "source_line_start": 12,
+        "source_line_end": 16
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Revokar",
+      "content": "Ir-regolamenti elenkati hawn isfel, maħruġa taħt l-Att\ndwar is-Saħħa Pubblika, qegħdin jiġu mħassra:\n(a)\nPubbliċi; u\n\nTitolu.\n\nTħassir.\nKap. 465.\n\nRegolamenti dwar in-Numru ta’ Persuni fi Spazji\n\nL.S. 465.51.\n\n(b)\nRegolamenti dwar il-Bżonn ta’ Ċertifikat Validu\nta’ Tilqima Rikonoxxuta kontra l-COVID-19.\n\nL.S. 465.69.",
+      "metadata": {
+        "source_line_start": 17,
+        "source_line_end": 37
+      }
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Titolu",
+      "content": "Kwalunkwe att, deċiżjoni jew azzjoni meħuda qabel iddħul fis-seħħ tar-Regolamenti tal-2022 dwar Revokar għandhom\njibqgħu jkunu regolati mid-dispożizzjonijiet tar-regolamenti\nmsemmija fir-regolament 2 ta’ dawn ir-regolamenti, kif fis-seħħ qabel\nid-dħul fis-seħħ tar-Regolamenti tal-2022 dwar Revokar.\n\nDispożizzjoni\ntranżitorja.\nA.L. 115 tal-2022.",
+      "metadata": {
+        "source_line_start": 38,
+        "source_line_end": 49
+      }
+    }
+  ],
+  "definitions": []
+}

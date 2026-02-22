@@ -1,0 +1,24 @@
+{
+  "id": "mt-sl-370-39-mlt",
+  "type": "statute",
+  "title": "Regolamenti Dwar Multilateral Trading Facilities and Organised Trading Facilities",
+  "title_en": "Regolamenti Dwar Multilateral Trading Facilities and Organised Trading Facilities",
+  "short_name": "eli/sl/370.39/mlt",
+  "status": "in_force",
+  "issued_date": "2018-01-05",
+  "in_force_date": "2018-01-03",
+  "url": "https://legislation.mt/eli/sl/370.39/20251003/mlt",
+  "description": "Official text from legislation.mt (eli/sl/370.39/mlt, expression eli/sl/370.39/20251003/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Full text",
+      "content": "MULTILATERAL TRADING FACILITIES\nAND ORGANISED TRADING FACILITIES\n\n[ L.S.370.39\n\nLEĠISLAZZJONI SUSSIDJARJA 370.39\nREGOLAMENTI DWAR MULTILATERAL TRADING\nFACILITIES AND ORGANISED TRADING FACILITIES*\n3 ta’ Jannar, 2018\nL-AVVIŻ LEGALI 400 tal-2017,kif emendati bl-Avviżi Legali 56 tal-2018\nu 213 tal-2025.\n\n*Dawn ir-Regolamenti ġew pubblikati bl-ilsien Ingliż biss.\n\n1",
+      "metadata": {
+        "extraction_mode": "fallback_full_text"
+      }
+    }
+  ],
+  "definitions": []
+}

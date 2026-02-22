@@ -1,0 +1,35 @@
+{
+  "id": "mt-cap-175-mlt",
+  "type": "statute",
+  "title": "Att dwar is-Salarji tal-Imħallfin u tal-Maġistrati",
+  "title_en": "Att dwar is-Salarji tal-Imħallfin u tal-Maġistrati",
+  "short_name": "Kap. 175",
+  "status": "in_force",
+  "issued_date": "2010-07-22",
+  "in_force_date": "1962-09-21",
+  "url": "https://legislation.mt/eli/cap/175/20260101/mlt",
+  "description": "Official text from legislation.mt (eli/cap/175/mlt, expression eli/cap/175/20260101/mlt).",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "tal-2021, 2 tal-2022 u 11 tal-2023 u 4 u 257 tal-2024, 11 tal-2025 u 9 tal2026",
+      "content": "It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar is-Salarji talImħallfin u tal-Maġistrati.\n\nTitolu fil-qosor.\nEmendat:\nA.L. 148 tal-1975.\n\n[ KAP. 175.\n\nSalarji tal-Prim\nImħallef, Imħallfin\nl-oħra u Maġistrati.\nEmendat:\nXII. 1965.4;\nA.L. 16 tal-1965;\nA.L. 70 tal-1968;\nA.L. 49 tal-1970;\nA.L. 94 tal-1971;\nA.L. 47 tal-1973;\nA.L. 52 tal-1974;\nA.L. 55 tal-1975;\nA.L. 148 tal-1975;\nA.L. 61 tal-1976;\nA.L. 47 tal-1977;\nA.L. 3 tal-1978;\nA.L. 41 tal-1978;\nA.L. 32 tal-1979;\nA.L. 25 tal-1980;\nA.L. 3 tal-1981;\nA.L. 2 tal-1982;\nA.L. 26 tal-1990;\nA.L. 27 tal-199l;\nA.L. 12 tal-1992;\nA.L. 33 tal-1993;\nA.L. 10 tal-1994;\nA.L. 9 tal-1995;\nA.L. 31 tal-1996;\nA.L. 66 tal-1998;\nA.L. 184 tal-1998;\nA.L. 12 tal-1999;\nA.L. 13 tal-2000;\nA.L. 18 tal-2001;\nA.L. 42 tal-2002;\nA.L. 33 tal-2003;\nA.L. 48 tal-2004;\nA.L. 43 tal-2005;\nA.L. 34 tal-2006;\nA.L. 410 tal-2007;\nA.L. 46 tal-2011;\nA.L. 9 tal-2012;\nA.L. 378 tal-2012;\nA.L. 5 tal-2013;\nA.L. 23 tal-2014;\nA.L. 25 tal-2017;\nA.L. 19 tal-2018;\nA.L. 262 tal-2018;\nA.L. 14 tal-2019;\nA.L. 21 tal-2020;\nA.L. 12 tal-2021;\nA.L. 2 tal-2022;\nA.L. 11 tal-2023;\nA.L. 4 tal-2024;\nA.L. 257 tal-2024;\nA.L. 11 tal-2025;\nA.L. 9 tal-2026.\n\nSALARJI TAL-IMĦALLFIN U TAL-MAĠISTRATI",
+      "metadata": {
+        "source_line_start": 21,
+        "source_line_end": 91
+      }
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "SALARJI TAL-IMĦALLFIN U TAL-MAĠISTRATI",
+      "content": "Għandu jitħallas lid-detenturi tal-karigi speċifikati flewwel kolonna tal-Iskeda, is-salarji fis-sena rispettivament\nspeċifikati kontra kull waħda minn dawk il-karigi fil-kolonni\nrispettivi ta’ dik l-Iskeda, matul is-sena li għaliha tirreferi kull\nwaħda mit-tieni sat-tielet kolonna tal-Iskeda jew dak l-ammont akbar\nli jista’ jiġi speċifikat b’ordni tal-Prim Ministru pubblikat fil-Gazzetta.\nIs-salarji msemmija għandhom jitħallsu b’effett mill-1 ta’ Jannar\nta’ kull sena speċifikata.\n\n(Artikolu 2)\n\nPrim Imħallef ...................................................\nImħallfin oħra ..................................................\nMaġistrati .........................................................\n\nPaga Bażika\n€85,105\n€75,764\n€66,942",
+      "metadata": {
+        "source_line_start": 92,
+        "source_line_end": 115
+      }
+    }
+  ],
+  "definitions": []
+}
