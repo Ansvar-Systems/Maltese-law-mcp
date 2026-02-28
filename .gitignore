@@ -8,3 +8,5 @@ dist/
 coverage/
 data/source/
 data/source-country/
+.claude/
+.serena/
