@@ -1,6 +1,8 @@
 /**
  * Golden contract tests for Maltese Law MCP.
  * These assertions validate country-scope ingestion coverage, not a fixed 10-doc subset.
+ *
+ * skipIf: tests are skipped when data/database.db is absent (CI without DB artefact).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
@@ -14,6 +16,8 @@ const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
 const INDEX_PATH = path.resolve(__dirname, '../../data/corpus/malta-index.json');
 const FAIL_LOG_PATH = path.resolve(__dirname, '../../data/corpus/malta-failures.log');
+
+const HAS_DB = fs.existsSync(DB_PATH);
 
 interface CorpusIndex {
   total_unique_urls: number;
@@ -41,11 +45,12 @@ function readFailureIds(): Set<string> {
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!HAS_DB) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Country corpus coverage', () => {
+describe.skipIf(!HAS_DB)('Country corpus coverage', () => {
   it('should include a discoverable Malta corpus index', () => {
     expect(fs.existsSync(INDEX_PATH)).toBe(true);
 
@@ -75,7 +80,7 @@ describe('Country corpus coverage', () => {
   });
 });
 
-describe('Database integrity', () => {
+describe.skipIf(!HAS_DB)('Database integrity', () => {
   it('should contain legal documents and provisions', () => {
     const docs = db.prepare('SELECT COUNT(*) as cnt FROM legal_documents').get() as { cnt: number };
     const provisions = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
@@ -101,7 +106,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describe.skipIf(!HAS_DB)('Article retrieval', () => {
   it('should retrieve an official provision from a known chapter', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'mt-cap-1-mlt' AND section = '1'"
@@ -111,7 +116,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Negative tests', () => {
+describe.skipIf(!HAS_DB)('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
