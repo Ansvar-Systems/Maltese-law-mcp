@@ -10,3 +10,5 @@ data/source/
 data/source-country/
 .claude/
 .serena/
+data/database.db-shm
+data/database.db-wal
