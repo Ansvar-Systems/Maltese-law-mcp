@@ -24,7 +24,7 @@
       "version": "1.0.0",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-maltese-law-mcp/mcp"
+        "url": "https://maltese-law-mcp.vercel.app/mcp"
       }
     }
   ]
