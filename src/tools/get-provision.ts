@@ -5,6 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildProvisionCitation } from '../utils/citation.js';
 
 export interface GetProvisionInput {
   document_id: string;
@@ -93,6 +94,15 @@ export async function getProvision(
           url: docRow.url ?? undefined,
         }],
         _metadata: generateResponseMetadata(db),
+        _citation: buildProvisionCitation(
+          resolvedId,
+          docRow.title,
+          String(provision.provision_ref),
+          input.document_id,
+          input.section || input.provision_ref || '',
+          docRow.url || null,
+          null,
+        ),
       };
     }
 
@@ -123,5 +133,14 @@ export async function getProvision(
       url: docRow.url ?? undefined,
     })),
     _metadata: generateResponseMetadata(db),
+    _citation: buildProvisionCitation(
+      resolvedId,
+      docRow.title,
+      String(provisions[0]?.provision_ref || ''),
+      input.document_id,
+      input.section || input.provision_ref || '',
+      docRow.url || null,
+      null,
+    ),
   };
 }
