@@ -40,12 +40,12 @@ This MCP server makes Maltese law **searchable, cross-referenceable, and AI-read
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-maltese-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-mt/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add maltese-law --transport http https://mcp.ansvar.eu/law-maltese-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add maltese-law --transport http https://mcp.ansvar.eu/law-mt/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -56,7 +56,7 @@ This MCP server makes Maltese law **searchable, cross-referenceable, and AI-read
   "mcpServers": {
     "maltese-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-maltese-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-mt/mcp"
     }
   }
 }
@@ -69,7 +69,7 @@ This MCP server makes Maltese law **searchable, cross-referenceable, and AI-read
   "github.copilot.chat.mcp.servers": {
     "maltese-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-maltese-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-mt/mcp"
     }
   }
 }
