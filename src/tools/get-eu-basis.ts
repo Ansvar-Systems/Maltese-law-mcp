@@ -28,7 +28,7 @@ export async function getEUBasis(
 ): Promise<ToolResponse<EUBasisResult[]>> {
   const resolvedId = resolveDocumentId(db, input.document_id);
   if (!resolvedId) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], _meta: generateResponseMetadata(db) };
   }
 
   // Check if EU reference tables exist
@@ -37,7 +37,7 @@ export async function getEUBasis(
   } catch {
     return {
       results: [],
-      _metadata: {
+      _meta: {
         ...generateResponseMetadata(db),
         ...{ note: 'EU references not available in this database tier' },
       },
@@ -77,5 +77,5 @@ export async function getEUBasis(
     }
   }
 
-  return { results: rows, _metadata: generateResponseMetadata(db) };
+  return { results: rows, _meta: generateResponseMetadata(db) };
 }

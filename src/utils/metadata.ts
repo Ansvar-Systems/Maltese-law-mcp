@@ -8,6 +8,8 @@ export interface ResponseMetadata {
   data_source: string;
   jurisdiction: string;
   disclaimer: string;
+  data_age?: string;
+  copyright?: string;
   freshness?: string;
   note?: string;
   query_strategy?: string;
@@ -15,8 +17,9 @@ export interface ResponseMetadata {
 
 export interface ToolResponse<T> {
   results: T;
-  _metadata: ResponseMetadata;
+  _meta: ResponseMetadata;
   _citation?: import('./citation.js').CitationMetadata;
+  _error_type?: string;
 }
 
 export function generateResponseMetadata(
@@ -32,6 +35,12 @@ export function generateResponseMetadata(
     // Ignore
   }
 
+  let data_age: string | undefined;
+  if (freshness) {
+    const match = freshness.match(/^(\d{4}-\d{2}-\d{2})/);
+    if (match) data_age = match[1];
+  }
+
   return {
     data_source: 'Legislation Malta (legislation.mt) — Office of the State Advocate, Legislation Unit',
     jurisdiction: 'MT',
@@ -39,6 +48,8 @@ export function generateResponseMetadata(
       'This data is sourced from official Maltese legal texts published on legislation.mt. ' +
       'The authoritative versions are maintained by the Legislation Unit (Office of the State Advocate). ' +
       'Always verify citations against the official portal (legislation.mt).',
+    data_age,
+    copyright: '© Office of the State Advocate, Legislation Unit (Malta). Public legal texts.',
     freshness,
   };
 }

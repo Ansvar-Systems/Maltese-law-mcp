@@ -63,6 +63,6 @@ export async function listSources(
         provision_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
       },
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

@@ -33,7 +33,7 @@ export async function searchEUImplementations(
   } catch {
     return {
       results: [],
-      _metadata: {
+      _meta: {
         ...generateResponseMetadata(db),
         ...{ note: 'EU documents not available in this database tier' },
       },
@@ -87,5 +87,5 @@ export async function searchEUImplementations(
   params.push(limit);
 
   const rows = db.prepare(sql).all(...params) as EUImplementationSearchResult[];
-  return { results: rows, _metadata: generateResponseMetadata(db) };
+  return { results: rows, _meta: generateResponseMetadata(db) };
 }
