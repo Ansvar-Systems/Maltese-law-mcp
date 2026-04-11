@@ -4,6 +4,8 @@
 # ── Stage 1: Build ──────────────────────────────────────────────────────
 FROM node:20-alpine AS builder
 WORKDIR /app
+# Patch Alpine packages: openssl CVE-2026-2673, CVE-2026-31790; zlib CVE-2026-27171
+RUN apk upgrade --no-cache
 COPY package*.json ./
 RUN npm ci --ignore-scripts
 COPY tsconfig.json ./
@@ -13,6 +15,8 @@ RUN npm run build
 # ── Stage 2: Production ────────────────────────────────────────────────
 FROM node:20-alpine AS production
 WORKDIR /app
+# Patch Alpine packages: openssl CVE-2026-2673, CVE-2026-31790; zlib CVE-2026-27171
+RUN apk upgrade --no-cache
 COPY package*.json ./
 RUN npm ci --omit=dev --ignore-scripts
 COPY --from=builder /app/dist ./dist
