@@ -12,3 +12,5 @@ data/source-country/
 .serena/
 data/database.db-shm
 data/database.db-wal
+*-e
+*.bak
