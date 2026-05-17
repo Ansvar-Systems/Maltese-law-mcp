@@ -10,9 +10,9 @@ sources:
     update_frequency: "weekly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Public access official legal texts"
+      type: "Public-Domain"
       url: "https://legislation.mt"
-      summary: "Official legislative texts accessed from legislation.mt ELI pages and PDF consolidations"
+      summary: "Maltese statutes published on legislation.mt by the Office of the State Advocate are official government publications and treated as public domain (no copyright on legislative texts under Maltese copyright doctrine; jurisdiction-specific catalog code pending Phase 1 audit follow-up). Verbatim retrieval supported via ELI HTML + official PDF consolidations. The fleet manifest at backstage/catalog/fleet-manifests/maltese-law.json declares license: Public-Domain — this entry mirrors that declaration."
     coverage:
       scope: "Ten Maltese legal instruments in cybersecurity, data protection, digital regulation, and freedom of information"
       limitations: "Corpus is scoped to curated instruments; not a complete mirror of all Maltese legislation"
