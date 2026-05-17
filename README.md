@@ -361,7 +361,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Gvern ta' Malta / Government of Malta (public domain, official government publications)
+- **Statutes & Legislation:** `Public-Domain` — Maltese statutes published on [legislation.mt](https://legislation.mt) by the Office of the State Advocate (Legislation Unit) are treated as public domain (official Government of Malta publications). The corresponding Ansvar fleet manifest also declares `Public-Domain`. A Maltese-specific statutory PD code (Copyright Act Chapter 415 carve-out) is pending Phase 1 audit follow-up; this entry will be tightened once that audit lands. Verified 2026-05-17.
 - **EU Metadata:** EUR-Lex (EU public domain)
 
 ---
