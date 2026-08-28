@@ -36,7 +36,7 @@ export async function checkCurrency(
         in_force_date: null,
         warnings: [`Document not found: "${input.document_id}"`],
       },
-      _metadata: generateResponseMetadata(db),
+      _meta: generateResponseMetadata(db),
     };
   }
 
@@ -66,6 +66,6 @@ export async function checkCurrency(
       in_force_date: doc.in_force_date,
       warnings,
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

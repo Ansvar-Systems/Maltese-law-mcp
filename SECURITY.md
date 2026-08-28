@@ -16,7 +16,7 @@ We will acknowledge receipt within 48 hours and aim to provide a fix within 7 da
 
 ## Scope
 
-This server provides read-only access to Estonian legislation. It does not:
+This server provides read-only access to Maltese legislation. It does not:
 - Accept user-uploaded files
 - Execute user-provided code
 - Store user data

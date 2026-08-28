@@ -34,10 +34,11 @@ export async function getProvision(
   if (!resolvedId) {
     return {
       results: [],
-      _metadata: {
+      _meta: {
         ...generateResponseMetadata(db),
         ...{ note: `No document found matching "${input.document_id}"` },
       },
+      _error_type: 'document_not_found',
     };
   }
 
@@ -45,7 +46,7 @@ export async function getProvision(
     'SELECT id, title, url FROM legal_documents WHERE id = ?'
   ).get(resolvedId) as { id: string; title: string; url: string | null } | undefined;
   if (!docRow) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], _meta: generateResponseMetadata(db) };
   }
 
   // Specific provision lookup
@@ -93,7 +94,7 @@ export async function getProvision(
           section_number: String(provision.provision_ref).replace(/^s/, ''),
           url: docRow.url ?? undefined,
         }],
-        _metadata: generateResponseMetadata(db),
+        _meta: generateResponseMetadata(db),
         _citation: buildProvisionCitation(
           resolvedId,
           docRow.title,
@@ -108,10 +109,11 @@ export async function getProvision(
 
     return {
       results: [],
-      _metadata: {
+      _meta: {
         ...generateResponseMetadata(db),
         ...{ note: `Provision "${ref}" not found in document "${resolvedId}"` },
       },
+      _error_type: 'provision_not_found',
     };
   }
 
@@ -132,7 +134,7 @@ export async function getProvision(
       section_number: String(p.provision_ref).replace(/^s/, ''),
       url: docRow.url ?? undefined,
     })),
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
     _citation: buildProvisionCitation(
       resolvedId,
       docRow.title,

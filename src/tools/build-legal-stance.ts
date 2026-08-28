@@ -6,6 +6,7 @@ import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildProvisionCitation, type CitationMetadata } from '../utils/citation.js';
 
 export interface BuildLegalStanceInput {
   query: string;
@@ -21,6 +22,7 @@ export interface LegalStanceResult {
   title: string | null;
   snippet: string;
   relevance: number;
+  _citation?: CitationMetadata;
 }
 
 export async function buildLegalStance(
@@ -28,7 +30,7 @@ export async function buildLegalStance(
   input: BuildLegalStanceInput,
 ): Promise<ToolResponse<LegalStanceResult[]>> {
   if (!input.query || input.query.trim().length === 0) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], _meta: generateResponseMetadata(db) };
   }
 
   const limit = Math.min(Math.max(input.limit ?? 5, 1), 20);
@@ -43,7 +45,7 @@ export async function buildLegalStance(
     if (!resolved) {
       return {
         results: [],
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
           note: `No document found matching "${input.document_id}"`,
         },
@@ -84,8 +86,9 @@ export async function buildLegalStance(
         const deduped = deduplicateResults(rows, limit);
         return {
           results: deduped,
-          _metadata: {
+          _meta: {
             ...generateResponseMetadata(db),
+            disclaimer: RESEARCH_ONLY_DISCLAIMER,
             ...(queryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
           },
         };
@@ -126,8 +129,9 @@ export async function buildLegalStance(
       if (rows.length > 0) {
         return {
           results: deduplicateResults(rows, limit),
-          _metadata: {
+          _meta: {
             ...generateResponseMetadata(db),
+            disclaimer: RESEARCH_ONLY_DISCLAIMER,
             query_strategy: 'like_fallback',
           },
         };
@@ -137,12 +141,18 @@ export async function buildLegalStance(
     }
   }
 
-  return { results: [], _metadata: generateResponseMetadata(db) };
+  return { results: [], _meta: generateResponseMetadata(db) };
 }
+
+const RESEARCH_ONLY_DISCLAIMER =
+  'RESEARCH ONLY — This aggregated legal stance output is for research purposes only and does not ' +
+  'constitute legal advice. Results are drawn from multiple statutes and must be individually verified ' +
+  'against the official portal (legislation.mt) before use in any legal context.';
 
 /**
  * Deduplicate results by document_title + provision_ref.
  * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
+ * Adds per-item _citation for entity linking.
  */
 function deduplicateResults(
   rows: LegalStanceResult[],
@@ -154,7 +164,18 @@ function deduplicateResults(
     const key = `${row.document_title}::${row.provision_ref}`;
     if (seen.has(key)) continue;
     seen.add(key);
-    deduped.push(row);
+    deduped.push({
+      ...row,
+      _citation: buildProvisionCitation(
+        row.document_id,
+        row.document_title,
+        row.provision_ref,
+        row.document_id,
+        row.provision_ref,
+        null,
+        null,
+      ),
+    });
     if (deduped.length >= limit) break;
   }
   return deduped;
